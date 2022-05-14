@@ -1,0 +1,3788 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rainlendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-14 16:43+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kanmani <mkanmani@in.com>\n"
+"Language-Team: Amala Joseph <josephamal50@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ta\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Application/Config.cpp:900 Application/Rainlendar.cpp:1487
+#: Application/Rainlendar.cpp:1498 Application/Rainlendar.cpp:1626
+#: Plugins/OutlookPlugin/MapiHandler.cpp:696 Application/Resource.h:310
+msgid "Default"
+msgstr "இயல்புநிலை"
+
+#: Application/Config.cpp:909
+msgid "Copy"
+msgstr "நகல்"
+
+#: Application/Config.cpp:914
+msgid "Region"
+msgstr "பிராந்தியம்"
+
+#: Application/Config.cpp:919
+msgid "Native"
+msgstr "பிறந்தநாடு"
+
+#: Application/Config.cpp:924
+msgid "Sunday"
+msgstr "ஞாயிற்றுக்கிழமை"
+
+#: Application/Config.cpp:925
+msgid "Monday"
+msgstr "திங்கட்கிழமை"
+
+#: Application/Config.cpp:926
+msgid "Tuesday"
+msgstr "செவ்வாய்க்கிழமை"
+
+#: Application/Config.cpp:927
+msgid "Wednesday"
+msgstr "புதன்கிழமை"
+
+#: Application/Config.cpp:928
+msgid "Thursday"
+msgstr "வியாழக்கிழமை"
+
+#: Application/Config.cpp:929
+msgid "Friday"
+msgstr "வெள்ளிக்கிழமை"
+
+#: Application/Config.cpp:930
+msgid "Saturday"
+msgstr "சனிக்கிழமை"
+
+#: Application/Config.cpp:933 Application/DialogManager.cpp:1266
+#: Application/DialogManager.cpp:1295 Application/DialogPrint.cpp:353
+#: Application/WindowTooltip.cpp:248
+msgid "Start"
+msgstr "ஆரம்பம்"
+
+#: Application/Config.cpp:934 Application/DialogManager.cpp:1295
+#: Application/DialogPrint.cpp:383 Application/WindowTooltip.cpp:261
+msgid "Due"
+msgstr "உரி"
+
+#: Application/Config.cpp:935 Application/DialogManager.cpp:1295
+#: Application/WindowTooltip.cpp:275
+msgid "Priority"
+msgstr "முன்னுரிமை"
+
+#: Application/Config.cpp:936 Application/DialogManager.cpp:1295
+#: Application/WindowTooltip.cpp:290 Application/Resource.h:302
+msgid "Status"
+msgstr "நிலைமை"
+
+#: Application/Config.cpp:937 Application/WindowTooltip.cpp:343
+msgid "Category"
+msgstr "வகை"
+
+#: Application/Config.cpp:948
+msgid "Off"
+msgstr "அணை"
+
+#: Application/Config.cpp:949 Application/res/options.cpp:12
+msgid "Normal"
+msgstr "வழக்கமான"
+
+#: Application/Config.cpp:950
+msgid "Beta"
+msgstr "பீட்டா"
+
+#: Application/Config.cpp:953 Application/DialogOptions.cpp:117
+#: Application/DialogSkinSettings.cpp:167 Application/res/options.cpp:1
+msgid "General"
+msgstr "பொதுவான"
+
+#: Application/Config.cpp:955 Application/Config.cpp:1084
+msgid "Time format"
+msgstr "நேர வடிவம்"
+
+#: Application/Config.cpp:956 Application/Config.cpp:1085
+msgid "Date format"
+msgstr "தேதி வடிவம்"
+
+#: Application/Config.cpp:957 Application/Config.cpp:1086
+msgid "Weekend days"
+msgstr "வாரயிறுதி நாட்கள்"
+
+#: Application/Config.cpp:958 Application/Config.cpp:1087
+msgid "Week number delta"
+msgstr "வார எண் முக்கோண"
+
+#: Application/Config.cpp:959 Application/Config.cpp:1089
+msgid "Default categories"
+msgstr "இயல்பிருப்பு வகை"
+
+#: Application/Config.cpp:960 Application/Config.cpp:1099
+msgid "Show categories from the skin"
+msgstr "வெளிதோற்றம் வகையினை காண்பி"
+
+#: Application/Config.cpp:961 Application/Config.cpp:1100
+msgid "Snap distance"
+msgstr "கைநொடி தூரம்"
+
+#: Application/Config.cpp:962 Application/Config.cpp:1101
+msgid "Snap center"
+msgstr "கைநொடி மையம்"
+
+#: Application/Config.cpp:963 Application/Config.cpp:1102
+msgid "Save window position"
+msgstr "சாளர நிலைமையினை சேமிக்கவும்"
+
+#: Application/Config.cpp:964 Application/Config.cpp:1103
+msgid "Show tray icon"
+msgstr "தட்டுச்சின்னத்திணை காட்டு"
+
+#: Application/Config.cpp:966 Application/Config.cpp:1105
+msgid "Show dock icon (requires restart)"
+msgstr "டாக் உருவத்திணை காட்டு (மறுதொடக்கம் தேவை)"
+
+#: Application/Config.cpp:968 Application/Config.cpp:1107
+msgid "Keep on screen"
+msgstr "இத்திரையை வை"
+
+#: Application/Config.cpp:969 Application/Config.cpp:1108
+msgid "Always show full menus"
+msgstr "எப்போதும் முழு  மெனுப்பட்டியலை காட்டு"
+
+#: Application/Config.cpp:971 Application/Config.cpp:1110
+msgid "Disable keyboard shortcuts"
+msgstr "சுருக்க குறியீடினை மறை"
+
+#: Application/Config.cpp:975 Application/Config.cpp:1114
+msgid "Show in all desktops"
+msgstr "அணைத்து மேசைத்தளங்களை காட்டு"
+
+#: Application/Config.cpp:977 Application/Config.cpp:1117
+msgid "List wheel scroll"
+msgstr "சக்கரசுருளை பட்டியலிடு"
+
+#: Application/Config.cpp:978 Application/Config.cpp:1118
+msgid "Transparency type"
+msgstr "தெளிந்ததன்மை வகை"
+
+#: Application/Config.cpp:979 Application/Config.cpp:1119
+msgid "Copy transparency sleep time"
+msgstr "தெளிந்ததன்மை அணைக்கும் நேரத்தினை படியெடு"
+
+#: Application/Config.cpp:980 Application/Config.cpp:1120
+msgid "Fade delay"
+msgstr "மங்கியநிலை தாமதம்"
+
+#: Application/Config.cpp:981 Application/Config.cpp:1121
+msgid "Fade duration"
+msgstr "மங்கியநிலை காலஅளவு"
+
+#: Application/Config.cpp:982 Application/Config.cpp:1122
+msgid "Font scale"
+msgstr "எழுத்துரு அளவு"
+
+#: Application/Config.cpp:984 Application/Config.cpp:1124
+msgid "Skin language"
+msgstr "மொழி தோற்றம்"
+
+#: Application/Config.cpp:985 Application/Config.cpp:1134
+msgid "Number of stored backups"
+msgstr "சேமிக்கபட்ட பின்புலத்தின் எண்ணிக்கை"
+
+#: Application/Config.cpp:986 Application/Config.cpp:1135
+msgid "Show delete confirmations"
+msgstr "நீக்குவதை உறுதி செய்ய காட்டு"
+
+#: Application/Config.cpp:987 Application/Config.cpp:1138
+msgid "Disable text formatting"
+msgstr "உரை மாற்றத்தினை இயங்காது செய்"
+
+#: Application/Config.cpp:988 Application/Config.cpp:1139
+msgid "Use window names"
+msgstr "சாளரத்தின் பெயரை பயன்படுத்து"
+
+#: Application/Config.cpp:990 Application/Config.cpp:1140
+msgid "Check for updates"
+msgstr "புதுப்பித்தலை சோதி"
+
+#: Application/Config.cpp:991 Application/Config.cpp:1141
+msgid "Reload delay after resume"
+msgstr "மிண்டும் சில நேரம் கழித்து மறுபடிதொடங்கு"
+
+#: Application/Config.cpp:994
+msgid "HTTP"
+msgstr "HTTP"
+
+#: Application/Config.cpp:995
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+#: Application/Config.cpp:996
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+#: Application/Config.cpp:999
+msgid "Network"
+msgstr "வலையமைப்பு"
+
+#: Application/Config.cpp:1000 Application/Config.cpp:1143
+msgid "Proxy server"
+msgstr "உரிமை வழங்கி"
+
+#: Application/Config.cpp:1001 Application/Config.cpp:1144
+msgid "Proxy user"
+msgstr "உரிமை பயனர்"
+
+#: Application/Config.cpp:1002 Application/Config.cpp:1003
+#: Application/Config.cpp:1145
+msgid "Proxy password"
+msgstr "உரிமை கடவுச்சொல்"
+
+#: Application/Config.cpp:1005 Application/Config.cpp:1151
+msgid "Proxy type"
+msgstr "உரிமை வகை"
+
+#: Application/Config.cpp:1006 Application/Config.cpp:1152
+msgid "Try direct connection if proxy fails"
+msgstr "Try direct connection if proxy fails"
+
+#: Application/Config.cpp:1009
+msgid "Show all icons"
+msgstr "உருவத்திருமேனிகளை காட்டு"
+
+#: Application/Config.cpp:1010
+msgid "Show one icon per type"
+msgstr "சிறிய படத்தின் வகைக்கு ஒன்றினை காட்டு"
+
+#: Application/Config.cpp:1011
+msgid "Show only one icon"
+msgstr "சிறிய படத்தினை ஒன்றை மட்டும் காட்டு"
+
+#: Application/Config.cpp:1014 Plugins/GooglePlugin/GoogleHandler.cpp:199
+#: Application/Resource.h:335
+msgid "Calendar"
+msgstr "நாட்காட்டி"
+
+#: Application/Config.cpp:1016 Application/Config.cpp:1136
+msgid "Combine icons in the calendar"
+msgstr "நாட்காட்டியின் ஒருங்கிணைந்த சிறுபடம்"
+
+#: Application/Config.cpp:1017 Application/Config.cpp:1116
+msgid "Calendar wheel scroll"
+msgstr "சக்கர சுருள் நாட்காட்டி"
+
+#: Application/Config.cpp:1018 Application/Config.cpp:1137
+msgid "Show tasks in calendar"
+msgstr "நாட்காட்டியினை செயலிடத்தில் காட்டு"
+
+#: Application/Config.cpp:1020 Application/DialogOptions.cpp:622
+#: Application/DialogOptions.cpp:866 Application/DialogOptions.cpp:940
+msgid "Tooltip"
+msgstr "கருவிகளுக்கான குறிப்பு"
+
+#: Application/Config.cpp:1021 Application/Config.cpp:1154
+msgid "Show tooltips"
+msgstr "கருவிகளுக்கான குறிப்பினை காட்டு"
+
+#: Application/Config.cpp:1022 Application/Config.cpp:1155
+msgid "Max tooltip window width"
+msgstr "கருவிகளுக்கான குறிப்பின் அதிகப்பட்ச ஜன்னல் அளவு"
+
+#: Application/Config.cpp:1023 Application/Config.cpp:1156
+msgid "Show description in tooltip"
+msgstr "கருவிகளுக்கான குறிப்பிற்கான விளக்கத்தினை காட்டு"
+
+#: Application/Config.cpp:1024 Application/Config.cpp:1157
+msgid "Todo items in tooltip"
+msgstr "கருவிகுறிப்பிற்கான  கட்டளை மேல் சீட்டு வகை"
+
+#: Application/Config.cpp:1025 Application/Config.cpp:1158
+msgid "Traytip show duration"
+msgstr "தட்டுக்குறிப்பிற்கான காலத்தினை காட்டு"
+
+#: Application/Config.cpp:1026 Application/Config.cpp:1159
+msgid "Tooltip fade duration"
+msgstr "கருவிகுறிப்பிற்கான காலத்தினை காட்டு"
+
+#: Application/Config.cpp:1027 Application/Config.cpp:1160
+msgid "Tooltip show delay"
+msgstr "கருவிகுறிப்பிற்கான தாமதத்தினை காட்டு"
+
+#: Application/Config.cpp:1028 Application/Config.cpp:1161
+msgid "Tooltip format"
+msgstr "கருவிகுறிப்பிற்கான வடிவம்"
+
+#: Application/Config.cpp:1030
+msgid "TodoList"
+msgstr "கட்டளை மேல் சீட்டின் பட்டியல்"
+
+#: Application/Config.cpp:1031 Application/Config.cpp:1163
+msgid "Show full task summary"
+msgstr "முழு பணி சுருக்கத்தை காட்டவும்"
+
+#: Application/Config.cpp:1032 Application/Config.cpp:1164
+msgid "Show task due time"
+msgstr "பணி உரிய நேரத்தை காட்டவும்"
+
+#: Application/Config.cpp:1033 Application/Config.cpp:1165
+msgid "Show task location"
+msgstr "பணி இடத்தை காட்டவும்"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:1034 Application/Config.cpp:1166
+msgid "Show task calendar"
+msgstr "பணி நாட்காட்டியை காட்டவும்"
+
+#: Application/Config.cpp:1036 Application/Config.cpp:1052
+#: Application/DialogComponent.cpp:1751 Application/DialogComponent.cpp:1757
+msgid "<None>"
+msgstr "<எதுவும் இல்லை>"
+
+#: Application/Config.cpp:1039 Application/Config.cpp:1169
+msgid "Default task template"
+msgstr "இயல்புநிலை பணி படிம அச்சு"
+
+#: Application/Config.cpp:1041
+msgid "EventList"
+msgstr "நிகழ்ச்சி பட்டியல்"
+
+#: Application/Config.cpp:1042 Application/Config.cpp:1180
+msgid "Show full event summary"
+msgstr "முழு நிகழ்ச்சி சுருக்கத்தை காட்டவும்"
+
+#: Application/Config.cpp:1043 Application/Config.cpp:1181
+msgid "Show event start time"
+msgstr "நிகழ்ச்சி ஆரம்ப நேரத்தை காட்டவும்"
+
+#: Application/Config.cpp:1044 Application/Config.cpp:1182
+msgid "Show event end time"
+msgstr "நிகழ்ச்சி மற்றும் நேரத்தினை காட்டு"
+
+#: Application/Config.cpp:1045 Application/Config.cpp:1183
+msgid "Show event location"
+msgstr "நிகழ்ச்சி இடத்தை காட்டவும்"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:1046 Application/Config.cpp:1184
+msgid "Show event calendar"
+msgstr "நிகழ்ச்சி நாட்காட்டியை காட்டவும்"
+
+#: Application/Config.cpp:1047 Application/Config.cpp:1185
+msgid "Hide dismissed events"
+msgstr "கைவிடப்பட்ட நிகழ்ச்சியை மறைக்கவும்"
+
+#: Application/Config.cpp:1048 Application/Config.cpp:1186
+msgid "Number of days the list shows"
+msgstr "நாட்களின் எண்ணிக்கையை பட்டியல் காண்பிக்கிறது"
+
+#: Application/Config.cpp:1049 Application/Config.cpp:1187
+msgid "Header format"
+msgstr "தலைப்பு வடிவமைப்பு"
+
+#: Application/Config.cpp:1050 Application/Config.cpp:1188
+msgid "Age from start of the week"
+msgstr "வார துவக்கத்தில் வயது"
+
+#: Application/Config.cpp:1055 Application/Config.cpp:1192
+msgid "Default event template"
+msgstr "இயல்புநிலை நிகழ்ச்சி படிம அச்சு"
+
+#: Application/Config.cpp:1056 Application/Config.cpp:1189
+msgid "Group multiday events"
+msgstr "பல நாள் நிகழ்ச்சியை குழுவாக்கவும்"
+
+#: Application/Config.cpp:1058 Application/DialogManager.cpp:1266
+#: Application/DialogManager.cpp:1295 Application/DialogOptions.cpp:621
+#: Application/DialogOptions.cpp:860 Application/DialogOptions.cpp:940
+#: Application/ItemListAlarm.cpp:377 Application/res/event.cpp:16
+#: Application/res/todo.cpp:40
+msgid "Alarm"
+msgstr "அலாரம்"
+
+#: Application/Config.cpp:1059 Application/Config.cpp:1202
+msgid "Show alarm start time"
+msgstr "அலாரம் ஆரம்ப நேரத்தை காட்டவும்"
+
+#: Application/Config.cpp:1060 Application/Config.cpp:1203
+msgid "Show alarm end time"
+msgstr "அலாரம் முடிவு நேரத்தை காட்டவும்"
+
+#: Application/Config.cpp:1061 Application/Config.cpp:1204
+msgid "Show alarm location"
+msgstr "அலாரம் இருப்பிடத்தை காட்டவும்"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:1062 Application/Config.cpp:1205
+msgid "Show alarm calendar"
+msgstr "அலாரம் நாட்காட்டியை காட்டவும்"
+
+#: Application/Config.cpp:1063 Application/Config.cpp:1206
+msgid "Show due to the event"
+msgstr "நிகழ்ச்சியின் உரிய காலத்தை காட்டவும்"
+
+#: Application/Config.cpp:1064 Application/Config.cpp:1207
+msgid "Support Mozilla alarms"
+msgstr "Mozilla அலாரத்தை ஆதரிக்கவும்"
+
+#: Application/Config.cpp:1065 Application/Config.cpp:1208
+msgid "Keep alarm always on top"
+msgstr "அலாரத்தை எப்போதும் மேலே வைக்கவும்"
+
+#: Application/Config.cpp:1066 Application/Config.cpp:1209
+msgid "Default snooze time"
+msgstr "இயல்புநிலை உறங்கும்நேரம்"
+
+#: Application/Config.cpp:1067 Application/Config.cpp:1210
+msgid "Max alarm window width"
+msgstr "அதிகபட்ச அலார சாளரத்தின் அகலம்"
+
+#: Application/Config.cpp:1068 Application/Config.cpp:1211
+msgid "Hide from alarm after days"
+msgstr "இத்தனை நாட்களுக்கு பிறகு அலாரத்தை மறைக்கவும்"
+
+#: Application/Config.cpp:1069 Application/Config.cpp:1212
+msgid "Default alarm file"
+msgstr "இயல்புநிலை அலார கோப்பு"
+
+#: Application/Config.cpp:1070 Application/Config.cpp:1214
+msgid "Snooze times"
+msgstr "உறங்கும் நேரம்"
+
+#: Application/Config.cpp:1072 Application/DialogManager.cpp:67
+#: Application/res/manager.cpp:1
+msgid "Manager"
+msgstr "நிர்வாகி"
+
+#: Application/Config.cpp:1073 Application/Config.cpp:1217
+msgid "Manager event columns"
+msgstr "நிகழ்வு பத்திகள் மேலாளர்"
+
+#: Application/Config.cpp:1074 Application/Config.cpp:1218
+msgid "Manager todo columns"
+msgstr "செய்யவேண்டிய பத்திகள் மேலாளர்"
+
+#: Application/ControlWindow.cpp:160 Application/ControlWindow.cpp:167
+msgid "Unable to create a new item from the string:\n"
+msgstr "இந்த சரத்திலிருந்து புது உருப்படியை உருவாக்க இயலவில்லை:\n"
+
+#: Application/ControlWindow.cpp:162
+msgid "Create Error!"
+msgstr "உருவாக்க பிழை!"
+
+#: Application/ControlWindow.cpp:162
+msgid "Unable to select the target calendar for the item."
+msgstr "இந்த உருப்படிக்கு இலக்கு நாட்காட்டியை தேர்ந்தெடுக்க இயலவில்லை."
+
+#: Application/ControlWindow.cpp:169
+msgid "Parse Error!"
+msgstr "பாகுபடுத்தல் பிழை!"
+
+#: Application/ControlWindow.cpp:461 Application/DialogAbout.cpp:208
+msgid "New version found!"
+msgstr "புதிய பதிப்பு உள்ளது!"
+
+#: Application/ControlWindow.cpp:462 Application/DialogAbout.cpp:209
+#, c-format
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"புதிய பதிப்பு %s உள்ளது.\n"
+"இனையதளத்திற்கு செல்ல வேண்டுமா?"
+
+#: Application/ControlWindow.cpp:583 Application/ControlWindow.cpp:681
+#: Application/ItemCalendar.cpp:229 Application/ItemListEvent.cpp:599
+msgid "New event"
+msgstr "புதிய நிகழ்ச்சி"
+
+#: Application/ControlWindow.cpp:584 Application/ControlWindow.cpp:682
+#: Application/ItemListTodo.cpp:1091
+msgid "New task"
+msgstr "புதிய செயல்"
+
+#: Application/ControlWindow.cpp:586 Application/ControlWindow.cpp:695
+#: Application/Resource.h:279
+msgid "Refresh"
+msgstr "புதுப்பிக்கவும்"
+
+#: Application/ControlWindow.cpp:587 Application/ControlWindow.cpp:696
+msgid "Options..."
+msgstr "விருப்பங்கள்..."
+
+#: Application/ControlWindow.cpp:588 Application/ControlWindow.cpp:697
+msgid "Manager..."
+msgstr "நிர்வாகி..."
+
+#: Application/ControlWindow.cpp:591 Application/res/event.cpp:2
+#: Application/res/manager.cpp:2 Application/res/todo.cpp:2
+msgid "File"
+msgstr "கோப்பு"
+
+#: Application/ControlWindow.cpp:597
+msgid "View"
+msgstr "காட்சி"
+
+#: Application/ControlWindow.cpp:603
+msgid "About..."
+msgstr "எங்களைப்பற்றி.."
+
+#: Application/ControlWindow.cpp:604
+msgid "Open help\tCtrl+?"
+msgstr "உதவியை நாடு\tCtrl+?"
+
+#: Application/ControlWindow.cpp:676 Application/DialogAbout.cpp:151
+msgid "About"
+msgstr "எங்களைப்பற்றி"
+
+#: Application/ControlWindow.cpp:677 Application/DialogOptions.cpp:144
+msgid "Help"
+msgstr "உதவி"
+
+#: Application/ControlWindow.cpp:686 Application/DialogOptions.cpp:624
+msgid "Windows"
+msgstr "சாளரங்கள்"
+
+#: Application/ControlWindow.cpp:689 Application/DialogComponent.cpp:729
+#: Application/DialogManager.cpp:539 Application/DialogManager.cpp:1266
+#: Application/DialogManager.cpp:1295 Application/DialogOptions.cpp:119
+#: Application/DropTarget.cpp:445 Application/res/event.cpp:22
+#: Application/res/options.cpp:18 Application/res/todo.cpp:46
+msgid "Calendars"
+msgstr "நாட்காட்டி"
+
+#: Application/ControlWindow.cpp:692
+msgid "Choose month"
+msgstr "மாதத்தை தேர்ந்தெடு"
+
+#: Application/ControlWindow.cpp:708
+msgid "Install the license..."
+msgstr "உரிமத்தை நிறுவு..."
+
+#: Application/ControlWindow.cpp:714
+msgid "Show debug log"
+msgstr "பிழைநீக்கி பதிவேட்டை காட்டவும்"
+
+#: Application/ControlWindow.cpp:727
+msgid "Exit"
+msgstr "வெளியேறு"
+
+#: Application/ControlWindow.cpp:758
+msgid "Enable all calendars"
+msgstr "அனைத்து நாட்காட்டிகளையும் இயக்கவும்"
+
+#: Application/ControlWindow.cpp:759
+msgid "Disable all calendars"
+msgstr "அனைத்து நாட்காட்டிகளையும் முடக்கவும்"
+
+#: Application/ControlWindow.cpp:776
+msgid "Current Month\tHome"
+msgstr "இந்த மாதம்\tHome"
+
+#: Application/ControlWindow.cpp:777
+msgid "Next Month\tRight"
+msgstr "அடுத்த மாதம்\tRight"
+
+#: Application/ControlWindow.cpp:778
+msgid "Prev Month\tLeft"
+msgstr "முந்தைய மாதம்\tLeft"
+
+#: Application/ControlWindow.cpp:779
+msgid "Next Year\tUp"
+msgstr "அடுத்த வருடம்\tUp"
+
+#: Application/ControlWindow.cpp:780
+msgid "Previous Year\tDown"
+msgstr "முந்தைய வருடம்\tDown"
+
+#: Application/ControlWindow.cpp:782
+#, c-format
+msgid "January %s\tCtrl-F1"
+msgstr "ஜனவரி %s\tCtrl-F1"
+
+#: Application/ControlWindow.cpp:783
+#, c-format
+msgid "February %s\tCtrl-F2"
+msgstr "பிப்ரவரி %s\tCtrl-F2"
+
+#: Application/ControlWindow.cpp:784
+#, c-format
+msgid "March %s\tCtrl-F3"
+msgstr "மார்ச் %s\tCtrl-F3"
+
+#: Application/ControlWindow.cpp:785
+#, c-format
+msgid "April %s\tCtrl-F4"
+msgstr "ஏப்ரல் %s\tCtrl-F4"
+
+#: Application/ControlWindow.cpp:786
+#, c-format
+msgid "May %s\tCtrl-F5"
+msgstr "மே %s\tCtrl-F5"
+
+#: Application/ControlWindow.cpp:787
+#, c-format
+msgid "June %s\tCtrl-F6"
+msgstr "ஜூன் %s\tCtrl-F6"
+
+#: Application/ControlWindow.cpp:788
+#, c-format
+msgid "July %s\tCtrl-F7"
+msgstr "ஜூலை %s\tCtrl-F7"
+
+#: Application/ControlWindow.cpp:789
+#, c-format
+msgid "August %s\tCtrl-F8"
+msgstr "ஆகஸ்ட் %s\tCtrl-F8"
+
+#: Application/ControlWindow.cpp:790
+#, c-format
+msgid "September %s\tCtrl-F9"
+msgstr "செப்டம்பர் %s\tCtrl-F9"
+
+#: Application/ControlWindow.cpp:791
+#, c-format
+msgid "October %s\tCtrl-F10"
+msgstr "அக்டோபர் %s\tCtrl-F10"
+
+#: Application/ControlWindow.cpp:792
+#, c-format
+msgid "November %s\tCtrl-F11"
+msgstr "நவம்பர் %s\tCtrl-F11"
+
+#: Application/ControlWindow.cpp:793
+#, c-format
+msgid "December %s\tCtrl-F12"
+msgstr "டிசம்பர் %s\tCtrl-F12"
+
+#: Application/ControlWindow.cpp:837
+msgid "Show all windows"
+msgstr "அனைத்து சாளரங்களையும் காட்டவும்"
+
+#: Application/ControlWindow.cpp:838
+msgid "Hide all windows"
+msgstr "அனைத்து சாளரங்களையும் மறைக்கவும்"
+
+#: Application/ControlWindow.cpp:1161
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "உரிம கோப்புகள் (*.r2lic)|*.r2lic"
+
+#: Application/ControlWindow.cpp:1162
+msgid "Choose the license file"
+msgstr "உரிம கோப்பினை தேர்ந்தெடு"
+
+#: Application/ControlWindow.cpp:1346 Application/ControlWindow.cpp:1389
+#: Application/ControlWindow.cpp:1410 Application/ItemCalendar.cpp:218
+#: Application/WindowTooltip.cpp:224
+msgid "*Empty*"
+msgstr "*காலி*"
+
+#: Application/ControlWindow.cpp:1349
+msgid "This instance"
+msgstr "இந்த நிகழ்வு"
+
+#: Application/ControlWindow.cpp:1350
+msgid "Whole event"
+msgstr "மொத்த நிகழ்ச்சி"
+
+#: Application/ControlWindow.cpp:1351 Application/DialogDayRange.cpp:63
+#: Application/DialogOptions.cpp:156 Application/DialogSkinSettings.cpp:94
+#: Application/res/alarm.cpp:5 Application/res/event.cpp:46
+#: Application/res/todo.cpp:70
+msgid "Cancel"
+msgstr "ரத்து"
+
+#: Application/ControlWindow.cpp:1353 Application/ControlWindow.cpp:1391
+msgid "Do you want to delete this item?"
+msgstr "இதை நீக்க வேண்டுமா?"
+
+#: Application/ControlWindow.cpp:1354
+#, c-format
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance or the whole recurring event."
+msgstr ""
+"இது மறு நிகழ்வு உருப்படி:\n"
+"\n"
+"%s\n"
+"\n"
+"இந்த நிகழ்வை அல்லது மொத்த நிகழ்வையும் நீக்கலாம்."
+
+#: Application/ControlWindow.cpp:1404
+msgid "Do you want to delete these items?"
+msgstr "இதையல்லாம் நீக்க வேண்டுமா?"
+
+#: Application/DialogAbout.cpp:73 Application/DialogOptions.cpp:710
+msgid "Version"
+msgstr "பதிப்பு"
+
+#: Application/DialogAbout.cpp:81
+msgid "Build on"
+msgstr "உருவாக்கி கொள்"
+
+#: Application/DialogAbout.cpp:86
+msgid "Developed by"
+msgstr "உருவாக்கியவர்"
+
+#: Application/DialogAbout.cpp:94
+msgid "Licensed to"
+msgstr "உரிமம் கொடுக்கப்பட்டது"
+
+#: Application/DialogAbout.cpp:101
+msgid "Plugins"
+msgstr "ப்ளக்-இன்"
+
+#: Application/DialogAbout.cpp:106
+msgid "Links"
+msgstr "இணைப்புகள்"
+
+#: Application/DialogAbout.cpp:108 Application/HotkeyControl.cpp:188
+msgid "Home"
+msgstr "இல்லம்"
+
+#: Application/DialogAbout.cpp:111
+msgid "FAQ"
+msgstr "சந்தேகங்கள்"
+
+#: Application/DialogAbout.cpp:114
+msgid "Forum"
+msgstr "அவை"
+
+#: Application/DialogAbout.cpp:120
+msgid "Icons by"
+msgstr "ஐகான்களை உருவாக்கியது"
+
+#: Application/DialogAbout.cpp:130
+msgid "Copyrights"
+msgstr "காப்புரிமை"
+
+#: Application/DialogAbout.cpp:165
+msgid "Please wait..."
+msgstr "தயவு செய்து காத்திருக்கவும்..."
+
+#: Application/DialogAbout.cpp:178
+msgid "Unknown response from the server."
+msgstr "சர்வரின் பதில் புரிபடவில்லை."
+
+#: Application/DialogAbout.cpp:218
+msgid "No updates available."
+msgstr "புதுப்பிப்புகள் எதுவுமில்லை."
+
+#: Application/DialogAbout.cpp:218
+msgid "You have the most recent version of Rainlendar."
+msgstr "உங்களிடம் புதிய பதிப்பே உள்ளது."
+
+#: Application/DialogAbout.cpp:227
+msgid "Connection error!"
+msgstr "இணைப்பு பிழை!"
+
+#: Application/DialogAbout.cpp:227
+msgid "Unable to connect to the server."
+msgstr "சர்வருடன் இணைக்க இயலவில்லை."
+
+#: Application/DialogAbout.cpp:232 Application/res/about.cpp:1
+msgid "Check for update"
+msgstr "புதுப்பிப்புகளைத் தேடவும்"
+
+#: Application/DialogAlarm.cpp:26
+msgid "Choose Alarm"
+msgstr "அலாரத்தை தேர்ந்தெடு"
+
+#: Application/DialogAlarm.cpp:41
+msgid "All files (*.*)|*.*"
+msgstr "அனைத்து கோப்புகள் (*.*)|*.*"
+
+#: Application/DialogComponent.cpp:516
+msgid "There are no calendar selected for the item. Click the Calendars button and choose the calendar where you want to store the item."
+msgstr "இந்த உருப்படிக்கு நாட்காட்டி ஏதுமில்லை.  உருப்படியை சேமிக்க, நாட்காட்டி பொத்தானை சொடுக்கி நாட்காட்டியை தேர்ந்தெடுக்கவும்."
+
+#: Application/DialogComponent.cpp:520
+msgid "There are no valid calendars where the item can be saved. You need to go to the options and create a new calendar for the item. Note that some calendars do not support both events and task. You cannot e.g. add tasks to Google Calendar."
+msgstr "உருப்படியை சேமிக்க எந்த சரியான காலெண்டரும் இல்லை. உருப்படியை சேமிக்க புது காலண்டர் உருவாக்க வேண்டும். அதற்காக நீங்கள் விருப்பத்திற்கு செல்ல வேண்டும். சில காலெண்டர்ககள் நிகழ்வுகள் மற்றும் பணி ஆகிய இரண்டிற்கும் ஆதரவு தருவத்தில்லை என்பதை நினைவில் கொள்க."
+
+#: Application/DialogComponent.cpp:523
+msgid "Unable to save the item."
+msgstr "இதை சேமிக்க இயலவில்லை."
+
+#: Application/DialogComponent.cpp:578
+msgid "Do you want to save the changes?"
+msgstr "மாற்றங்களை சேமிக்க வேண்டுமா?"
+
+#: Application/DialogComponent.cpp:579
+msgid "You have made some changes to the fields."
+msgstr "சில புலங்களை மாற்றியமைத்துள்ளீர்கள்."
+
+#: Application/DialogComponent.cpp:582
+msgid "&Save"
+msgstr "&சேமி"
+
+#: Application/DialogComponent.cpp:583
+msgid "&Discard"
+msgstr "&விலக்கு"
+
+#: Application/DialogComponent.cpp:584 Application/DialogMessage.cpp:225
+#: Application/DialogMessage.cpp:257 Application/DropTarget.cpp:85
+#: Application/Resource.h:266
+msgid "&Cancel"
+msgstr "&ரத்து"
+
+#: Application/DialogComponent.cpp:599
+msgid "Are you sure you want to delete this item?"
+msgstr "இதை கட்டாயமாக நீக்க வேண்டுமா?"
+
+#: Application/DialogComponent.cpp:729
+msgid "Select the calendars:"
+msgstr "நாட்காட்டிகளை தேர்ந்தெடுக்கவும்:"
+
+#: Application/DialogComponent.cpp:783 Application/DialogManager.cpp:682
+msgid "Select the categories:"
+msgstr "வகைகளை தேர்ந்தெடுக்கவும்:"
+
+#: Application/DialogComponent.cpp:783 Application/DialogManager.cpp:682
+#: Application/DialogManager.cpp:1266 Application/DialogManager.cpp:1295
+#: Application/res/event.cpp:23 Application/res/todo.cpp:47
+msgid "Categories"
+msgstr "வகைகள்"
+
+#: Application/DialogComponent.cpp:936
+msgid "Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "நிகழ்வுக்கு எந்த காலண்டர் கையாளர்களையும் கண்டுபிடிக்க முடியவில்லை. நிகழ்வு சேமிக்கப்படவில்லை."
+
+#: Application/DialogComponent.cpp:1162
+#, c-format
+msgid "On the %s day of the month"
+msgstr "மாதத்தின் %s நாள்"
+
+#: Application/DialogComponent.cpp:1170
+msgid "first"
+msgstr "முதல்"
+
+#: Application/DialogComponent.cpp:1174
+msgid "second"
+msgstr "இரண்டாம்"
+
+#: Application/DialogComponent.cpp:1178
+msgid "third"
+msgstr "மூன்றாம்"
+
+#: Application/DialogComponent.cpp:1182
+msgid "fourth"
+msgstr "நான்காம்"
+
+#: Application/DialogComponent.cpp:1186
+msgid "fifth"
+msgstr "ஐந்தாம்"
+
+#: Application/DialogComponent.cpp:1188
+#, c-format
+msgid "On the %s %s of the month"
+msgstr "மாதத்தின் %s %s"
+
+#: Application/DialogComponent.cpp:1195
+#, c-format
+msgid "On the last %s of the month"
+msgstr "மாதத்தின் கடைசி %s"
+
+#: Application/DialogComponent.cpp:1204
+msgid "On the first weekday of the month"
+msgstr "மாதத்தின் முதல் வார நாள்"
+
+#: Application/DialogComponent.cpp:1213
+msgid "On the last weekday of the month"
+msgstr "மாதத்தின் கடைசி வார நாள்"
+
+#: Application/DialogComponent.cpp:1220
+msgid "On the last day of the month"
+msgstr "மாதத்தின் கடைசி நாள்"
+
+#: Application/DialogComponent.cpp:1701
+msgid "Please give a name for the template"
+msgstr "பதிவு அச்சுக்கு பெயரிடவும்"
+
+#: Application/DialogComponent.cpp:1701 Application/DialogOptions.cpp:1768
+msgid "Input text"
+msgstr "உரையை உள்ளிடவும்"
+
+#: Application/DialogComponent.cpp:1704 Application/DialogComponent.cpp:1708
+msgid "Unable to create the template!"
+msgstr "பதிவு அச்சை உருவாக்க இயலவில்லை!"
+
+#: Application/DialogComponent.cpp:1704
+msgid "You must give a name for the template."
+msgstr "பதிவு அச்சுக்கு கட்டாயம் பெயரிடவும்."
+
+#: Application/DialogComponent.cpp:1708 Application/DialogOptions.cpp:1778
+#: Application/WizardPageCalendar.cpp:435
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "இந்த எழுத்தை '/' பெயரில் உபயோகிக்க அனுமதியில்லை."
+
+#: Application/DialogComponent.cpp:1717
+#, c-format
+msgid "A template called \"%s\" already exists."
+msgstr "இந்த பதிவு அச்சு \"%s\" ஏற்கனவே உள்ளது."
+
+#: Application/DialogComponent.cpp:1718
+msgid "Do you want to overwrite the template?"
+msgstr "பதிவு அச்சை திருத்தி எழுத வேண்டுமா?"
+
+#: Application/DialogComponent.cpp:1736
+msgid "Choose the template to delete:"
+msgstr "பதிவு அச்சை நீக்க தேர்ந்தெடுக்கவும்:"
+
+# Part of the template dialog caption.
+#: Application/DialogComponent.cpp:1736 Application/DialogComponent.cpp:1753
+msgid "Select"
+msgstr "தேர்ந்தெடுக்கவும்"
+
+#: Application/DialogComponent.cpp:1752
+msgid "Choose the template which is used for new tasks:"
+msgstr "புதிய பணிகளுக்கு பதிவு அச்சை தேர்ந்தெடுக்கவும்:"
+
+#: Application/DialogComponent.cpp:1752
+msgid "Choose the template which is used for new events:"
+msgstr "புதிய நிகழ்ச்சிகளுக்கு பதிவு அச்சை தேர்ந்தெடுக்கவும்:"
+
+#: Application/DialogComponent.cpp:1791
+msgid "Save as template..."
+msgstr "படிம அச்சாக சேமி..."
+
+#: Application/DialogComponent.cpp:1792
+msgid "Delete template..."
+msgstr "படிம அச்சை நீக்கவும்..."
+
+#: Application/DialogComponent.cpp:1793
+msgid "Set the default template..."
+msgstr "இயல்புநிலை பதிவு அச்சை அமைக்கவும்..."
+
+#: Application/DialogComponent.cpp:1801 Application/res/event.cpp:7
+#: Application/res/todo.cpp:7
+msgid "Template"
+msgstr "படிம அச்சு"
+
+#: Application/DialogDayRange.cpp:29
+msgid "Select the day range"
+msgstr "நாள் வரையரையை தேர்ந்தெடுக்கவும்"
+
+#: Application/DialogDayRange.cpp:36
+msgid "This exporter is unable to save recurring events so they need to be converted to single instances. Please define the day range which will be saved to the file."
+msgstr "இந்த ஏற்றுமதி தொடர்ச்சியான நிகழ்வுகளை காப்பாற்ற முடியவில்லை எனவே அவைகள் ஒரு நிகழ்வாக மாற்றப்பட வேண்டும். கோப்பில் சேமிக்க எந்த நாட்கள் என்பதை வரையறுத்துக் கொள்ளவும்."
+
+#: Application/DialogDayRange.cpp:43 Application/res/print.cpp:5
+msgid "From:"
+msgstr "முதல்:"
+
+#: Application/DialogDayRange.cpp:50 Application/res/print.cpp:6
+msgid "To:"
+msgstr "வரை:"
+
+#: Application/DialogDayRange.cpp:60 Application/Resource.h:268
+msgid "Ok"
+msgstr "சரி"
+
+#: Application/DialogEvent.cpp:43
+msgid "This is a read only event."
+msgstr "இந்த நிகழ்ச்சி படிக்க மட்டுமே."
+
+#: Application/DialogEvent.cpp:43
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "இந்த நிகழ்ச்சியை  Rainlendarல் திருத்த இயலாது."
+
+#: Application/DialogEvent.cpp:77 Application/DialogManager.cpp:1275
+#: Application/res/event.cpp:1 Application/res/event.cpp:8
+msgid "Event"
+msgstr "நிகழ்ச்சி"
+
+#: Application/DialogEvent.cpp:357
+msgid ""
+"You have created a birthday or anniversary but didn't define any recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"பிற்ந்தநாள் அல்லது ஆண்டுவிழாவிவை உருவாக்கியுள்ளீர்கள், ஆனால் மறுநிகழ்வை குறிப்பிடவில்லை.\n"
+"இதை ஒவ்வொரு ஆண்டும் செயல்ப்டுத்த வேண்டுமா?"
+
+#: Application/DialogManager.cpp:241 Application/DialogManager.cpp:301
+msgid "Choose a file"
+msgstr "கோப்பை தேர்ந்தெடு"
+
+#: Application/DialogManager.cpp:250
+msgid "Import failed!"
+msgstr "இறக்குமதி தோல்வியுற்றது!"
+
+#: Application/DialogManager.cpp:309
+#, c-format
+msgid "Exported %i events successfully."
+msgstr "%i நிகழ்வுகள் வெற்றிகரமாக ஏற்றுமதியாகின."
+
+#: Application/DialogManager.cpp:313
+#, c-format
+msgid "Exported %i todo items successfully."
+msgstr "%i செயல்கள் வெற்றிகரமாக ஏற்றுமதியாகின."
+
+#: Application/DialogManager.cpp:319
+msgid "Export failed!"
+msgstr "ஏற்றுமதி தோல்வியுற்றது!"
+
+#: Application/DialogManager.cpp:402
+msgid "Do you want to delete the selected item(s)?"
+msgstr "தேர்ந்தெடுத்த உருப்படிகளை நீக்க வேண்டுமா?"
+
+#: Application/DialogManager.cpp:532
+msgid "Select the calendars where the items should be copied to:"
+msgstr "உருப்படிகளை நகலெடுக்க நாட்காட்டிகளை தேர்ந்தெடுக்கவும்:"
+
+#: Application/DialogManager.cpp:536
+msgid "Select the calendars where the items should be moved to:"
+msgstr "உருப்படிகளை நகர்த்த நாட்காட்டிகளை தேர்ந்தெடுக்கவும்:"
+
+#: Application/DialogManager.cpp:555 Application/DialogManager.cpp:641
+msgid "Operation failed!"
+msgstr "செயல்பாடு தோல்வியுற்றது!"
+
+#: Application/DialogManager.cpp:555
+msgid "There are no calendars available that are able to store the items."
+msgstr "உருப்படிகளை சேமிக்க நாட்காட்டிகள் எதுவும் கிடைக்கவில்லை."
+
+#: Application/DialogManager.cpp:580
+msgid "Are you sure you want to do this?"
+msgstr "இதை அவசியம் செய்தாக வேண்டுமா?"
+
+#: Application/DialogManager.cpp:581
+msgid ""
+"Moving items to an online calendar is not safe. If the destination\n"
+"calendar doesn't accept the items because of network problems or\n"
+"for some other reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are doing."
+msgstr ""
+"இந்த உருப்படிகளை ஆன்லைன் காலண்டருக்கு நகர்த்துவது பாதுகாப்பானது அல்ல. ஒருவேளை\n"
+"இலக்கு காலண்டர் பிணைய பிரச்சினையால் உருப்படிகளை ஏற்கவில்லை\n"
+"அல்லது வேறு ஏதேனும் காரணத்தினால் நீங்கள் அனைத்து நகர்த்தப்பட்டிருக்க நிகழ்வுகளையும் இழக்க நேரிடும்.\n"
+"\n"
+"எனவே, நீங்கள் முற்றிலும் உறுதியாக இருந்தால், நீங்கள் என்ன செய்கிறீர்கள் என்று தெரியுமென்றால் மட்டும் \"ஆம்\" கிளிக் செய்யவும்."
+
+#: Application/DialogManager.cpp:621
+#, c-format
+msgid "Moved %i items to these calendars:\n"
+msgstr "%i உருப்படிகள் நாட்காட்டிக்கு நகர்த்தப்பட்டது:\n"
+
+#: Application/DialogManager.cpp:625
+#, c-format
+msgid "Copied %i items to these calendars:\n"
+msgstr "%i  உருப்படிகள் நாட்காட்டிக்கு நகலெடுக்கப்பட்டது:\n"
+
+#: Application/DialogManager.cpp:630
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't be available until after a while."
+msgstr ""
+"\n"
+"முக்கியம்! ஒரு ஆன்லைன் நாட்காட்டியில் உருப்படிகளை நகலெடுக்கும்போது சில காலம் எடுக்கும் எனவே அவை சிறிது நேரம் வரை கிடைக்காது. ."
+
+#: Application/DialogManager.cpp:633
+msgid "Operation finished!"
+msgstr "செயல்பாடு நடந்தேறியது!"
+
+#: Application/DialogManager.cpp:641
+msgid "You need to select at least one calendar for the events."
+msgstr "நிகழ்ச்சிகளுக்கு ஏதாவது ஒரு நாட்காட்டியை தேர்வு செய்ய வேண்டும்."
+
+#: Application/DialogManager.cpp:751 Application/DialogManager.cpp:957
+msgid "Archive (*.zip)|*.zip"
+msgstr "ஆவணக்காப்பக்கம் (*.zip)|*.zip"
+
+#: Application/DialogManager.cpp:752 Application/DialogManager.cpp:956
+msgid "Choose the backup path"
+msgstr "காப்பு பாதையை தேர்ந்தெடுக்கவும்"
+
+#: Application/DialogManager.cpp:761
+msgid "Backup was successful."
+msgstr "காப்பு வெற்றிகரமாக நிறைவுற்றது."
+
+#: Application/DialogManager.cpp:762
+msgid "The backup contains these files:"
+msgstr "காப்பில் இந்த கோப்புகள் உள்ளன:"
+
+#: Application/DialogManager.cpp:781
+msgid "Warning! The backup file does not contain any iCalendar files. If you have any locally stored events or tasks you need to backup them manually."
+msgstr "எச்சரிக்கை! காப்பு கோப்பு எந்த iCalendar கோப்புகளையும் கொண்டிருக்காது. தங்களுக்கு அகத்தே சேமிக்கப்பட்டிருக்கும் நிகழ்வுகள் அல்லது பணிகளை இருந்தால் நீங்கள் கைமுறையாக அவைகளை காப்பெடுக்க வேண்டும். ."
+
+#: Application/DialogManager.cpp:789 Application/DialogManager.cpp:1001
+msgid "Write error!"
+msgstr "எழுது பிழை!"
+
+#: Application/DialogManager.cpp:789
+msgid "Unable to create the backup file."
+msgstr "காப்பு கோப்பை உருவாக்க இயலவில்லை."
+
+#: Application/DialogManager.cpp:983
+msgid "The file already exists:"
+msgstr "இந்த கோப்பு ஏற்கனவே உள்ளது:"
+
+#: Application/DialogManager.cpp:986
+msgid "Do you want to overwrite the file?"
+msgstr "இதை திருத்தி எழுத வேண்டுமா?"
+
+#: Application/DialogManager.cpp:999
+msgid "Unable to overwrite file:"
+msgstr "திருத்தி எழுத இயலாது:"
+
+#: Application/DialogManager.cpp:1012
+#, c-format
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"கோப்பை மீட்க முடியவில்லை:\n"
+"%s\n"
+"\n"
+"நீங்கள் காப்பு காப்பகத்திலிருந்து கைமுறையாக கோப்பை பிரித்தெடுக்க வேண்டும்."
+
+#: Application/DialogManager.cpp:1013
+msgid "Restore error!"
+msgstr "மீட்டமைப்பு பிழை!"
+
+#: Application/DialogManager.cpp:1032
+msgid "The archive contains unknown files:\n"
+msgstr "இந்த ஆவணக்காப்பக்கத்தில் தெரியாத கோப்புகள் உள்ளன:\n"
+
+#: Application/DialogManager.cpp:1039
+msgid "Restore was successful."
+msgstr "மீட்டமைப்பு வெற்றிகரமாக நடந்தேறியது."
+
+#: Application/DialogManager.cpp:1043
+msgid "There were problems during the restore."
+msgstr "காப்பு மீட்டமைப்பில் சில சிக்கல் ஏற்பட்டுள்ளது."
+
+#: Application/DialogManager.cpp:1266 Application/DialogPrint.cpp:369
+#: Application/HotkeyControl.cpp:186
+msgid "End"
+msgstr "முடிவு"
+
+#: Application/DialogManager.cpp:1266 Application/DialogManager.cpp:1295
+msgid "Summary"
+msgstr "சுருக்கம்"
+
+#: Application/DialogManager.cpp:1266 Application/DialogManager.cpp:1295
+msgid "Recurring"
+msgstr "மறுநிகழ்வுகள்"
+
+#: Application/DialogManager.cpp:1266 Application/DialogManager.cpp:1295
+#: Application/DialogPrint.cpp:341
+msgid "Location"
+msgstr "இருப்பிடம்"
+
+#: Application/DialogManager.cpp:1266 Application/DialogManager.cpp:1295
+#: Application/DialogOptions.cpp:767
+msgid "Description"
+msgstr "விளக்கம்"
+
+#: Application/DialogManager.cpp:1282
+msgid "New Event..."
+msgstr "புதிய நிகழ்ச்சி..."
+
+#: Application/DialogManager.cpp:1304 Application/DialogTodo.cpp:70
+#: Application/DialogTodo.cpp:431 Application/res/todo.cpp:1
+#: Application/res/todo.cpp:8
+msgid "Todo"
+msgstr "செயல்"
+
+#: Application/DialogManager.cpp:1311
+msgid "New Todo..."
+msgstr "புதிய செயல்..."
+
+#: Application/DialogManager.cpp:1470
+msgid "Daily"
+msgstr "தினந்தோறும்"
+
+#: Application/DialogManager.cpp:1473
+msgid "Weekly"
+msgstr "வாரந்தோறும்"
+
+#: Application/DialogManager.cpp:1476
+msgid "Monthly"
+msgstr "மாதந்தோறும்"
+
+#: Application/DialogManager.cpp:1479
+msgid "Yearly"
+msgstr "வருடந்தோறும்"
+
+#: Application/DialogManager.cpp:1491
+msgid "Single"
+msgstr "ஒற்றை"
+
+#: Application/DialogManager.cpp:1532 Application/DialogSkinSettings.cpp:255
+#: Application/ItemListTodo.cpp:763 Application/res/todo.cpp:16
+#: Application/res/todo.cpp:17 Application/Resource.h:318
+msgid "None"
+msgstr "எதுவும் இல்லை"
+
+#: Application/DialogManager.cpp:1536 Application/ItemListTodo.cpp:767
+#: Application/res/todo.cpp:20
+msgid "High"
+msgstr "அதிகமான"
+
+#: Application/DialogManager.cpp:1540 Application/ItemListTodo.cpp:771
+#: Application/res/todo.cpp:19
+msgid "Medium"
+msgstr "மிதமான"
+
+#: Application/DialogManager.cpp:1544 Application/ItemListTodo.cpp:775
+#: Application/res/todo.cpp:18
+msgid "Low"
+msgstr "குறைவான"
+
+#: Application/DialogManager.cpp:1570 Application/ItemListTodo.cpp:554
+#: Application/ItemListTodo.cpp:784 Application/ItemListTodo.cpp:1073
+#: Application/res/todo.cpp:25
+msgid "Completed"
+msgstr "நிறைவுற்றது"
+
+#: Application/DialogManager.cpp:1577 Application/ItemListTodo.cpp:557
+#: Application/ItemListTodo.cpp:787 Application/ItemListTodo.cpp:1074
+#: Application/res/todo.cpp:26
+msgid "Cancelled"
+msgstr "ரத்தானது"
+
+#: Application/DialogManager.cpp:1592 Application/ItemListTodo.cpp:551
+#: Application/ItemListTodo.cpp:790 Application/ItemListTodo.cpp:1071
+#: Application/res/todo.cpp:24
+msgid "In Progress"
+msgstr "இயக்கத்தில்  உள்ளது"
+
+#: Application/DialogManager.cpp:1599 Application/ItemListTodo.cpp:561
+#: Application/ItemListTodo.cpp:793 Application/ItemListTodo.cpp:1058
+msgid "Needs Action"
+msgstr "கவனிக்க வேண்டியவை"
+
+#: Application/DialogMessage.cpp:109
+msgid "Error"
+msgstr "பிழை"
+
+#: Application/DialogMessage.cpp:113
+msgid "Warning"
+msgstr "எச்சரிக்கை"
+
+#: Application/DialogMessage.cpp:117
+msgid "Question"
+msgstr "கேள்வி"
+
+#: Application/DialogMessage.cpp:121
+msgid "Information"
+msgstr "தகவல்"
+
+#: Application/DialogMessage.cpp:191 Application/DialogMessage.cpp:199
+#: Application/DialogMessage.cpp:216 Application/DialogMessage.cpp:224
+#: Application/DialogMessage.cpp:253 Application/Resource.h:267
+msgid "&OK"
+msgstr "&சரி"
+
+#: Application/DialogMessage.cpp:207 Application/DialogMessage.cpp:245
+msgid "&Yes"
+msgstr "&ஆம்"
+
+#: Application/DialogMessage.cpp:208 Application/DialogMessage.cpp:249
+msgid "&No"
+msgstr "&இல்லை"
+
+#: Application/DialogOptions.cpp:73
+msgid "Options"
+msgstr "விருப்பங்கள்"
+
+#: Application/DialogOptions.cpp:121
+msgid "Skins"
+msgstr "தோற்றம்"
+
+#: Application/DialogOptions.cpp:124 Application/res/options.cpp:23
+msgid "Hotkeys"
+msgstr "குறுவிசை"
+
+#: Application/DialogOptions.cpp:127
+msgid "Advanced"
+msgstr "மேம்பட்ட"
+
+#: Application/DialogOptions.cpp:147
+msgid "Reset"
+msgstr "மறு அமைப்பு"
+
+#: Application/DialogOptions.cpp:152 Application/DialogSkinSettings.cpp:91
+#: Application/res/alarm.cpp:4 Application/res/event.cpp:45
+#: Application/res/todo.cpp:69
+msgid "OK"
+msgstr "சரி"
+
+#: Application/DialogOptions.cpp:329
+msgid "Get more languages..."
+msgstr "மற்ற மொழிகள்..."
+
+#: Application/DialogOptions.cpp:527
+msgid "Get more skins..."
+msgstr "அதிக தோற்றங்களைப் பெறவும்..."
+
+#: Application/DialogOptions.cpp:623 Application/DialogOptions.cpp:872
+#: Application/DialogOptions.cpp:936
+msgid "TrayIcon"
+msgstr "தட்டுச்சின்னம்"
+
+#: Application/DialogOptions.cpp:720
+msgid "Author"
+msgstr "ஆசிரியர்"
+
+#: Application/DialogOptions.cpp:735
+msgid "Homepage"
+msgstr "முகப்புப் பக்கம்"
+
+#: Application/DialogOptions.cpp:753
+msgid "This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "இது பழைய தோற்றம். சில அம்சங்கள் ஆதரிக்கப்பட மாட்டாது."
+
+#: Application/DialogOptions.cpp:763
+msgid "Window"
+msgstr "சாளரம்"
+
+#: Application/DialogOptions.cpp:765
+msgid "Variable"
+msgstr "மாறி"
+
+#: Application/DialogOptions.cpp:823 Application/res/options.cpp:32
+msgid "Advanced >>>"
+msgstr "மேம்பட்ட>>>"
+
+#: Application/DialogOptions.cpp:827
+msgid "<<< Simple"
+msgstr "<<<எளிய"
+
+#: Application/DialogOptions.cpp:1347
+msgid "Hotkey"
+msgstr "குறுவிசை"
+
+#: Application/DialogOptions.cpp:1348
+msgid "Function"
+msgstr "செயல்கூறு"
+
+#: Application/DialogOptions.cpp:1447
+msgid "Do you want to reset all settings?"
+msgstr "அனைத்து அமைப்புகளையும் மாற்றியமைக்க வேண்டுமா?"
+
+#: Application/DialogOptions.cpp:1448
+msgid "This will reset all settings to default values. The default settings are applied immediately. Do you want to continue?"
+msgstr "இது எல்லா அமைப்புக்களையும் இயல்பு நிலைக்கு உடனடியாக மாற்றிவிடும். அவசியம் செய்தாக வேண்டுமா?"
+
+#: Application/DialogOptions.cpp:1525
+msgid "Common"
+msgstr "பொது"
+
+#: Application/DialogOptions.cpp:1526 Application/DialogOptions.cpp:1894
+msgid "Enabled"
+msgstr "இயக்கப்பட்டது"
+
+#: Application/DialogOptions.cpp:1527 Application/DialogOptions.cpp:1898
+msgid "Read only"
+msgstr "படிக்க மட்டும்"
+
+#: Application/DialogOptions.cpp:1528 Application/DialogOptions.cpp:1902
+msgid "Suppress alarms"
+msgstr "அலாரத்தை அடக்கவும்"
+
+#: Application/DialogOptions.cpp:1540 Application/DialogOptions.cpp:1906
+msgid "Visual category"
+msgstr "காணும் வகை"
+
+#: Application/DialogOptions.cpp:1668
+msgid "The 'On Desktop' setting is incompatible with Windows Vista or newer Windows operating system."
+msgstr "'ஆன் மேசை' அமைக்கப்படும் விண்டோஸ் விஸ்டா அல்லது புதிய விண்டோஸ் இயங்கு இணங்கவில்லை."
+
+#: Application/DialogOptions.cpp:1669
+msgid "Rainlendar doesn't work properly with this setting due to the changes in the Windows Vista desktop. It is not advised to use this setting."
+msgstr "விண்டோஸ் விஸ்டா டெஸ்க்டாப் மாற்றங்களின் காரணமாக இந்த அமைப்பு மூலம் Rainlendar ஒழுங்காக வேலை செய்யாது."
+
+#: Application/DialogOptions.cpp:1681
+msgid "The 'On Desktop' setting is incompatible with multiple monitors."
+msgstr "'ஆன் மேசை' அமைப்பை ஒன்றுக்கு மேற்பட்ட மானிட்டர்கள் உடன் இணங்கவில்லை."
+
+#: Application/DialogOptions.cpp:1682
+msgid "The window position cannot be set correctly if the secondary monitor is on the negative (i.e. left) side of the primary monitor. It is not adviced to use this setting."
+msgstr "இரண்டாம் மானிட்டர், முதன்மை மானிட்டரின் எதிர்மறை (அதாவது இடது) பக்கத்தில் இருந்தால் சாளரத்தின் இருப்பிடநிலையை சரியாக அமைக்க முடியாது. இந்த அமைப்பை பயன்படுத்த அறிவுரை அல்ல."
+
+#: Application/DialogOptions.cpp:1764
+#, c-format
+msgid "Copy of %s"
+msgstr "%s-இன் நகல்"
+
+#: Application/DialogOptions.cpp:1768
+msgid "Please enter a name for the calendar."
+msgstr "நாட்காட்டியின் பெயரை எழுதவும்."
+
+#: Application/DialogOptions.cpp:1773 Application/DialogOptions.cpp:1778
+msgid "Unable to create the calendar!"
+msgstr "நாட்காட்டியை உருவாக்க இயலவில்லை!"
+
+#: Application/DialogOptions.cpp:1773
+msgid "You must give a name for the calendar."
+msgstr "நாட்காட்டிக்கு  கட்டாயம் பெயரிடவும்."
+
+#: Application/DialogOptions.cpp:1796
+#, c-format
+msgid "A calendar called \"%s\" already exists."
+msgstr "நாட்காட்டி \"%s\" ஏற்கனவே உள்ளது."
+
+#: Application/DialogOptions.cpp:1797
+msgid "Choose another name."
+msgstr "வேறொரு பெயரை தேர்ந்தெடுக்கவும்."
+
+#: Application/DialogOptions.cpp:2259
+msgid "IMPORTANT! Read the documentation before changing these settings. It's possible to make Rainlendar inoperable if you just randomly change the values. Consider yourself warned!"
+msgstr "முக்கியம்!, ஆவணங்களை படித்தபின் அமைப்பை மாற்றவும். இலக்கின்றி மதிப்பை மாற்றினால் Rainlendar வேலை செய்யாமல் போகலாம்!"
+
+#: Application/DialogPrint.cpp:32
+msgid "Print"
+msgstr "அச்சிடு"
+
+#: Application/DialogPrint.cpp:68
+msgid "Print items"
+msgstr "உருப்படிகளை அச்சிடு"
+
+#: Application/DialogSkinSettings.cpp:53 Application/res/options.cpp:22
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#: Application/DialogSkinSettings.cpp:66
+msgid "Variables"
+msgstr "மாறி"
+
+#: Application/DialogSkinSettings.cpp:73
+msgid "Window settings"
+msgstr "சாளர அமைப்புகள்"
+
+#: Application/DialogSkinSettings.cpp:78
+msgid "Settings can be shown only for a single window."
+msgstr "ஒரு சாளரத்தில் மட்டுமே அமைப்பை காட்ட முடியும்."
+
+#: Application/DialogSkinSettings.cpp:82
+msgid "No settings available."
+msgstr "அமைப்புகள் எதுவுமில்லை."
+
+#: Application/DialogSkinSettings.cpp:118
+msgid "Global variables"
+msgstr "முழுமை அளாவிய மாறி"
+
+#: Application/DialogSkinSettings.cpp:171
+#: Application/DialogSkinSettings.cpp:349
+msgid "Visible"
+msgstr "தெரியும் நிலை"
+
+#: Application/DialogSkinSettings.cpp:172
+#: Application/DialogSkinSettings.cpp:350
+msgid "Grow upwards"
+msgstr "மேல்நோக்கி வளர"
+
+#: Application/DialogSkinSettings.cpp:174
+#: Application/DialogSkinSettings.cpp:352
+msgid "Scale"
+msgstr "அளவை மாற்று"
+
+#: Application/DialogSkinSettings.cpp:178
+msgid "Filters"
+msgstr "வடிகட்டிகள்"
+
+#: Application/DialogSkinSettings.cpp:183
+#: Application/DialogSkinSettings.cpp:382
+msgid "Visible calendars"
+msgstr "தெரியும் நிலையில் உள்ள நாட்காட்டிகள்"
+
+#: Application/DialogSkinSettings.cpp:200
+#: Application/DialogSkinSettings.cpp:389
+msgid "Included categories"
+msgstr "சேர்க்கப்பட்ட வகைகள்"
+
+#: Application/DialogSkinSettings.cpp:201
+#: Application/DialogSkinSettings.cpp:404
+msgid "Excluded categories"
+msgstr "ஒதுக்கப்பட்ட வகைகள்"
+
+#: Application/DialogSkinSettings.cpp:206
+msgid "Window variables"
+msgstr "சாளர மாறிகள்"
+
+#: Application/DialogSkinSettings.cpp:249
+msgid "Operations"
+msgstr "பணிகள்"
+
+#: Application/DialogSkinSettings.cpp:298
+#: Application/DialogSkinSettings.cpp:425
+msgid "Left click"
+msgstr "Left click"
+
+#: Application/DialogSkinSettings.cpp:301
+#: Application/DialogSkinSettings.cpp:435
+msgid "Right click"
+msgstr "Right click"
+
+#: Application/DialogSkinSettings.cpp:304
+#: Application/DialogSkinSettings.cpp:445
+msgid "Double left click"
+msgstr "Double left click"
+
+#: Application/DialogSkinSettings.cpp:307
+#: Application/DialogSkinSettings.cpp:455
+msgid "Double right click"
+msgstr "Double right click"
+
+#: Application/DialogTodo.cpp:47
+msgid "This is a read only task."
+msgstr "இந்த பணி படிக்க மட்டுமே."
+
+#: Application/DialogTodo.cpp:47
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "இந்த பணியை  Rainlendarல் திருத்த இயலாது."
+
+#: Application/DropTarget.cpp:52 Application/DropTarget.cpp:352
+msgid "skin"
+msgstr "தோற்றங்கள்"
+
+#: Application/DropTarget.cpp:58
+msgid "addon"
+msgstr "கூட்டு உறுப்பு"
+
+#: Application/DropTarget.cpp:65
+msgid "language"
+msgstr "மொழி"
+
+#: Application/DropTarget.cpp:73
+msgid "license"
+msgstr "உரிமம்"
+
+#: Application/DropTarget.cpp:79
+msgid "Upgrade to Pro version before installing the license."
+msgstr "உரிமக்கோப்பை நிறுவுவதற்கு முன்  Pro பதிப்புக்கு மேம்படுத்தவும்."
+
+#: Application/DropTarget.cpp:80
+msgid "You are still using the Lite version which doesn't include the Pro features. You need to go to the Rainlendar's download page and get the Pro version."
+msgstr "You are still using the Lite version which doesn't include the Pro features. You need to go to the Rainlendar's download page and get the Pro version."
+
+#: Application/DropTarget.cpp:83
+msgid "&Get Pro"
+msgstr "& Pro பதிப்பை பெறவும்"
+
+#: Application/DropTarget.cpp:84
+msgid "&Ignore"
+msgstr "&புறக்கணிக்கவும்"
+
+#: Application/DropTarget.cpp:103
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+
+#: Application/DropTarget.cpp:104
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Zip ஆவணக்காப்புக்களை Rainlendar க்குள் இறக்குமதி செய்ய இயலாது."
+
+#: Application/DropTarget.cpp:131
+#, c-format
+msgid "Unknown file \"%s\"."
+msgstr "தெரியாத கோப்பு \"%s\"."
+
+#: Application/DropTarget.cpp:132
+msgid "The file cannot be imported into Rainlendar."
+msgstr "இந்த கோப்பினை Rainlendarக்குள் இறக்குமதி செய்ய இயலாது."
+
+#: Application/DropTarget.cpp:139
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "நகலெடுக்க இயலாது. ஒரே மூலமும் இலக்கும் கொடுக்கப்பட்டுள்ளது."
+
+#: Application/DropTarget.cpp:167 Application/DropTarget.cpp:224
+#, c-format
+msgid "Unable to install the file \"%s\"."
+msgstr "\"%s\" கோப்பினை நிறுவுதல் தோல்வியுற்றது."
+
+#: Application/DropTarget.cpp:168
+msgid "Cannot acquire administrative privileges."
+msgstr "நிர்வாக சலுகைகளை அகப்படுத்த இயலவில்லை."
+
+#: Application/DropTarget.cpp:225 Application/Util.cpp:3013
+msgid "The folder does not have write permissions."
+msgstr "இந்த கோப்புறைக்கு எழுதும் அனுமதியில்லை."
+
+#: Application/DropTarget.cpp:287
+#, c-format
+msgid "The skin %s doesn't exist."
+msgstr "இந்த தோற்றம் %s கிடைக்கவில்லை."
+
+#: Application/DropTarget.cpp:288
+msgid "Unable to merge the addon."
+msgstr "கூட்டு உறுப்பை தொகுக்க இயலவில்லை."
+
+#: Application/DropTarget.cpp:302
+#, c-format
+msgid ""
+"The %s \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"இது %s \"%s\" ஏற்கனவே உள்ளது.\n"
+"இதை திருத்தி எழுத வேண்டுமா?"
+
+#: Application/DropTarget.cpp:330
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "இந்த கோப்பு ஏற்கனவே உள்ளது.இதை திருத்தி எழுத வேண்டுமா?"
+
+#: Application/DropTarget.cpp:372
+msgid "Unable to install the skin!"
+msgstr "இந்த தோற்றத்தை நிறுவ இயலவில்லை!"
+
+#: Application/DropTarget.cpp:373
+msgid "The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml format Rainlendar skin?"
+msgstr "இந்த தோற்றத்தில் \"skin.xml\" காணப்படவில்லை. இது xml வடிவமைப்பு Rainlendar தோற்றம் தான் என்பதை உறுதி செய்யவும்?"
+
+#: Application/DropTarget.cpp:395
+#, c-format
+msgid "The %s was installed successfully!"
+msgstr "%s வெற்றிகரமாக நிறுவப்பட்டது!"
+
+#: Application/DropTarget.cpp:396
+msgid "Please refresh (or restart) Rainlendar to see the changes."
+msgstr "மாற்றங்களை காண Rainlendar ஐ புதுப்பிக்கவும்."
+
+#: Application/DropTarget.cpp:401
+#, c-format
+msgid "The %s installation failed!"
+msgstr "இந்த %s நிறுவுதல் தோல்வியுற்றது!"
+
+#: Application/DropTarget.cpp:445
+msgid "Select the calendars for the imported items:"
+msgstr "இறக்குமதி செய்யப்பட்ட உருப்படிகளுக்காக நாட்காட்டிகளை தேர்ந்தெடுக்கவும்:"
+
+#: Application/DropTarget.cpp:461
+msgid ""
+"Import failed.\n"
+"\n"
+"There are no calendars available that are able to store the item."
+msgstr ""
+"இறக்குமதி தோல்வியுற்றது.\n"
+"\n"
+"உருப்படிகளை சேமிக்க நாட்காட்டிகள் எதுவும் கிடைக்கவில்லை."
+
+#: Application/DropTarget.cpp:479
+#, c-format
+msgid "Imported %i items successfully."
+msgstr "%i உருப்படிகள் வெற்றிகரமாக இறக்குமதியாயின."
+
+#: Application/DropTarget.cpp:491
+msgid "You need to select at least one calendar for the imported events"
+msgstr "இறக்கும்தி செய்யப்பட்ட நிகழ்ச்சிகளுக்கு, ஏதாவது ஒரு நாட்காட்டியை தேர்வு செய்ய வேண்டும்"
+
+#: Application/DropTarget.cpp:583
+#, c-format
+msgid ""
+"This skin addon is for version %s of the skin.\n"
+"The installed version is %s."
+msgstr ""
+"இந்த தோற்ற கூட்டு உறுப்பு, %s பதிப்பின் தோற்றம்.\n"
+"நிறுவப்பட்ட பதிப்பு  %s."
+
+#: Application/DropTarget.cpp:599
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"இந்த skin addon ஏற்கனவே தோலில் பயன்படுத்தப்பட்டுள்ளது.\n"
+"நீங்கள் ஒரே skin addon தோலில் சேர்க்க ஒருமுறை மட்டும் விண்ணப்பிக்கலாம்."
+
+#: Application/DropTarget.cpp:813
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "அங்கு addon ஒன்றாக்க கூடுதல் ஒரு தற்காலிக கோப்புறையை உருவாக்க முடியவில்லை."
+
+#: Application/HotkeyControl.cpp:104
+msgid "Win"
+msgstr "Win"
+
+#: Application/HotkeyControl.cpp:110
+msgid "Control"
+msgstr "Control"
+
+#: Application/HotkeyControl.cpp:116
+msgid "Alt"
+msgstr "Alt"
+
+#: Application/HotkeyControl.cpp:122
+msgid "Shift"
+msgstr "Shift"
+
+#: Application/HotkeyControl.cpp:170
+msgid "Back"
+msgstr "Back"
+
+#: Application/HotkeyControl.cpp:172
+msgid "Tab"
+msgstr "Tab"
+
+#: Application/HotkeyControl.cpp:174
+msgid "Return"
+msgstr "Return"
+
+#: Application/HotkeyControl.cpp:176
+msgid "Esc"
+msgstr "Esc"
+
+#: Application/HotkeyControl.cpp:178
+msgid "Space"
+msgstr "Space"
+
+#: Application/HotkeyControl.cpp:180 Application/ItemCalendar.cpp:232
+#: Application/ItemListAlarm.cpp:368 Application/ItemListAlarm.cpp:374
+#: Application/res/event.cpp:43 Application/res/event.cpp:44
+#: Application/res/manager.cpp:11 Application/res/todo.cpp:67
+#: Application/res/todo.cpp:68
+msgid "Delete"
+msgstr "நீக்கவும்"
+
+#: Application/HotkeyControl.cpp:182
+msgid "Page Up"
+msgstr "Page Up"
+
+#: Application/HotkeyControl.cpp:184
+msgid "Page Down"
+msgstr "Page Down"
+
+#: Application/HotkeyControl.cpp:190
+msgid "Left"
+msgstr "Left"
+
+#: Application/HotkeyControl.cpp:192
+msgid "Up"
+msgstr "Up"
+
+#: Application/HotkeyControl.cpp:194
+msgid "Right"
+msgstr "Right"
+
+#: Application/HotkeyControl.cpp:196
+msgid "Down"
+msgstr "Down"
+
+#: Application/HotkeyControl.cpp:198
+msgid "Insert"
+msgstr "Insert"
+
+#: Application/HotkeyControl.cpp:232
+msgid "NumLock"
+msgstr "NumLock"
+
+#: Application/HotkeyControl.cpp:234
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+#: Application/ItemCalendar.cpp:220
+#, c-format
+msgid "Edit \"%s\""
+msgstr "திருத்து \"%s\""
+
+#: Application/ItemCalendar.cpp:226
+msgid "Delete all"
+msgstr "எல்லாவற்றையும் நீக்கவும்"
+
+#: Application/ItemCalendar.cpp:234
+msgid "Events"
+msgstr "நிகழ்ச்சிகள்"
+
+#: Application/ItemListAlarm.cpp:176
+#, c-format
+msgid " (Due in %s)"
+msgstr " (உரிய காலம் %s)"
+
+#: Application/ItemListAlarm.cpp:182
+#, c-format
+msgid " (Overdue %s)"
+msgstr " (முடிவடைந்து %s)"
+
+#: Application/ItemListAlarm.cpp:196 Application/ItemListAlarm.cpp:223
+msgid "day"
+msgstr "நாள்"
+
+# Plural version of "day". Shown in the alarm window's due date counter.
+#: Application/ItemListAlarm.cpp:196 Application/ItemListAlarm.cpp:223
+msgid "days"
+msgstr "நாட்கள்"
+
+#: Application/ItemListAlarm.cpp:200 Application/ItemListAlarm.cpp:345
+msgid "hour"
+msgstr "மணிநேரம்"
+
+#: Application/ItemListAlarm.cpp:200 Application/ItemListAlarm.cpp:345
+msgid "hours"
+msgstr "மணிநேரங்கள்"
+
+#: Application/ItemListAlarm.cpp:204 Application/ItemListAlarm.cpp:353
+msgid "minute"
+msgstr "நிமிடம்"
+
+#: Application/ItemListAlarm.cpp:204 Application/ItemListAlarm.cpp:353
+msgid "minutes"
+msgstr "நிமிடங்கள்"
+
+#: Application/ItemListAlarm.cpp:333
+msgid "Dismiss"
+msgstr "நீக்கவும்"
+
+#: Application/ItemListAlarm.cpp:345 Application/ItemListAlarm.cpp:353
+msgid "Snooze"
+msgstr "சிறிது நேரம் உறங்கட்டும்"
+
+#: Application/ItemListAlarm.cpp:366 Application/ItemListAlarm.cpp:372
+msgid "Edit..."
+msgstr "திருத்தவும்..."
+
+#: Application/ItemListEvent.cpp:373
+msgid "Today"
+msgstr "இன்று"
+
+#: Application/ItemListEvent.cpp:377
+msgid "Tomorrow"
+msgstr "நாளை"
+
+#: Application/ItemListEvent.cpp:381
+msgid "Yesterday"
+msgstr "நேற்று"
+
+# The %1 will be replaced with the day (e.g. Last Monday). This text is shown in the event list.
+#: Application/ItemListEvent.cpp:420 Application/ItemListEvent.cpp:456
+msgid "Last %1"
+msgstr "இறுதி %1"
+
+#: Application/ItemListEvent.cpp:427 Application/ItemListEvent.cpp:484
+msgid "%1 next week"
+msgstr "%1 அடுத்த வாரம்"
+
+#: Application/ItemListEvent.cpp:432 Application/ItemListEvent.cpp:464
+msgid "%1 last week"
+msgstr "%1 இறுதி வாரம்"
+
+#: Application/ItemListEvent.cpp:437 Application/ItemListEvent.cpp:470
+msgid "%1 %2 weeks ago"
+msgstr "%1 %2 வாரத்திற்கு முன்னால்"
+
+#: Application/ItemListEvent.cpp:444 Application/ItemListEvent.cpp:489
+msgid "%1 in %2 weeks"
+msgstr "%1 இன்னும் %2 வாரத்தில்"
+
+#: Application/ItemListEvent.cpp:600
+msgid "Edit event"
+msgstr "நிகழ்ச்சியை திருத்தவும்"
+
+#: Application/ItemListEvent.cpp:601
+msgid "Delete event"
+msgstr "நிகழ்ச்சியை நீக்கவும்"
+
+#: Application/ItemListEvent.cpp:610
+msgid "Event list"
+msgstr "நிகழ்ச்சி பட்டியல்"
+
+#: Application/ItemListTodo.cpp:137
+#, c-format
+msgid "[Due %x]"
+msgstr "[கெடு %x]"
+
+#: Application/ItemListTodo.cpp:520
+msgid "No location"
+msgstr "இருப்பிடம் எதுவுமில்லை"
+
+#: Application/ItemListTodo.cpp:528
+msgid "No category"
+msgstr "வகை எதுவுமில்லை"
+
+#: Application/ItemListTodo.cpp:542
+msgid "Unknown"
+msgstr "தெரியாதது"
+
+#: Application/ItemListTodo.cpp:570
+msgid "High Priority"
+msgstr "அதிகமான முன்னுரிமை"
+
+#: Application/ItemListTodo.cpp:573
+msgid "Medium Priority"
+msgstr "மிதமான முன்னுரிமை"
+
+#: Application/ItemListTodo.cpp:576
+msgid "Low Priority"
+msgstr "குறைவான முன்னுரிமை"
+
+#: Application/ItemListTodo.cpp:580
+msgid "No Priority"
+msgstr "முன்னுரிமை எதுவுமில்லை"
+
+#: Application/ItemListTodo.cpp:982 Application/ItemListTodo.cpp:993
+msgid "Alphabetically"
+msgstr "அகர வரிசைப்படி"
+
+#: Application/ItemListTodo.cpp:983 Application/ItemListTodo.cpp:994
+msgid "By Category"
+msgstr "வகைப்படி"
+
+#: Application/ItemListTodo.cpp:984 Application/ItemListTodo.cpp:995
+msgid "By Due Date"
+msgstr "உரிய தேதிப்படி"
+
+#: Application/ItemListTodo.cpp:985 Application/ItemListTodo.cpp:996
+msgid "By Start Date"
+msgstr "ஆரம்ப தேதிப்படி"
+
+#: Application/ItemListTodo.cpp:986 Application/ItemListTodo.cpp:997
+msgid "By Status"
+msgstr "நிலைமைப்படி"
+
+#: Application/ItemListTodo.cpp:987 Application/ItemListTodo.cpp:998
+msgid "By Priority"
+msgstr "முன்னுரிமைப்படி"
+
+#: Application/ItemListTodo.cpp:988 Application/ItemListTodo.cpp:999
+msgid "By Location"
+msgstr "இருப்பிடப்படி"
+
+#: Application/ItemListTodo.cpp:989 Application/ItemListTodo.cpp:1000
+msgid "By Calendar"
+msgstr "நாட்காட்டிப்படி"
+
+#: Application/ItemListTodo.cpp:990 Application/ItemListTodo.cpp:1001
+msgid "Custom"
+msgstr "Custom"
+
+#: Application/ItemListTodo.cpp:1030
+msgid "Primary sort order"
+msgstr "முதல்நிலை வரிசை"
+
+#: Application/ItemListTodo.cpp:1031
+msgid "Secondary sort order"
+msgstr "இரண்டாம்நிலை வரிசை"
+
+#: Application/ItemListTodo.cpp:1092
+msgid "Edit task"
+msgstr "பணியை திருத்தவும்"
+
+#: Application/ItemListTodo.cpp:1093
+msgid "Delete task"
+msgstr "பணியை நீக்கவும்"
+
+#: Application/ItemListTodo.cpp:1103
+msgid "Hide completed tasks"
+msgstr "முடிந்த பணிகளை மறைக்கவும்"
+
+#: Application/ItemListTodo.cpp:1108
+msgid "Hide canceled tasks"
+msgstr "ரத்தான பணிகளை மறைக்கவும்"
+
+#: Application/ItemListTodo.cpp:1113
+msgid "Hide upcoming tasks"
+msgstr "வரவிருக்கும் பணிகளை மறைக்கவும்"
+
+#: Application/ItemListTodo.cpp:1119
+msgid "Todo list"
+msgstr "செயல்கள் பட்டியல்"
+
+#: Application/ItemListTooltip.cpp:65
+msgid "No events today."
+msgstr "இன்றைய நிகழ்ச்சிகள் எதுவுமில்லை."
+
+#: Application/ItemListTooltip.cpp:87
+msgid "Today's events:"
+msgstr "இன்றைய நிகழ்ச்சிகள்:"
+
+#: Application/ItemTime.cpp:107 Application/SkinXML.cpp:1038
+msgid "Local"
+msgstr "உள்ளமை"
+
+#: Application/PluginManager.cpp:160
+msgid "Invalid plugins found!"
+msgstr "செல்லுபடியாகாத ப்ளக்-இன் காணப்பட்டது!."
+
+#: Application/PluginManager.cpp:161
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+
+#: Application/PluginManager.cpp:170
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+
+#: Application/Rainlendar.cpp:142
+msgid "allow multiple instances"
+msgstr "ஒன்றுக்கு மேற்பட்ட நிகழ்வுகளை அனுமதிக்கவும்"
+
+#: Application/Rainlendar.cpp:143
+msgid "install a skin or a language"
+msgstr "தோற்றத்தை அல்லது மொழியை நிறுவவும்"
+
+#: Application/Rainlendar.cpp:144
+msgid "import the given file"
+msgstr "தரப்பட்ட கோப்பினை இறக்குமதி செய்யவும்"
+
+#: Application/Rainlendar.cpp:145
+msgid "path where the configuration file will be stored"
+msgstr "இந்த பாதையில் உள்ளமைப்பு கோப்பு சேமிக்கப்படும்"
+
+#: Application/Rainlendar.cpp:146
+msgid "execute the given function in a script"
+msgstr "ஸ்கிரிப்டில் உள்ள பயன்பாட்டினை செயல்படுத்தவும்"
+
+#: Application/Rainlendar.cpp:147
+msgid "path where the log file will be stored"
+msgstr "பதிவுக்கோப்பினை சேமிக்கும் பாதை"
+
+#: Application/Rainlendar.cpp:148
+msgid "path where the backups will be stored"
+msgstr "path where the backups will be stored"
+
+#: Application/Rainlendar.cpp:149
+msgid "add event or task to the calendar"
+msgstr "நிகழ்ச்சி அல்லது பணியை நாட்காட்டியில் சேர்க்கவும்"
+
+#: Application/Rainlendar.cpp:150
+msgid "enable verbose logging"
+msgstr "enable verbose logging"
+
+#: Application/Rainlendar.cpp:151
+msgid "enable debug logging"
+msgstr "enable debug logging"
+
+#: Application/Rainlendar.cpp:152
+msgid "don't show the messagebox after importing and installing files"
+msgstr "கோப்புக்கள் இறக்குமதி செய்யப்பட்டு நிறுவப்பட்டப்பின் செய்திப்பெட்டியை காட்ட வேண்டாம்"
+
+#: Application/Rainlendar.cpp:397
+msgid "Do you want to start another instance?"
+msgstr "இன்னொரு நிகழ்வை ஆரம்பிக்க வேண்டுமா?"
+
+#: Application/Rainlendar.cpp:398
+msgid "Rainlendar seems to be already running. You can start another instance by selecting 'Yes'."
+msgstr "Rainlendar ஏற்கனவே இயங்குகிறது இன்னொரு நிகழ்வை ஆரம்பிக்க ஆமோதிக்கவும்."
+
+#: Application/Rainlendar.cpp:401
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start Rainlendar please remove this file:\n"
+
+#: Application/Rainlendar.cpp:422
+#, c-format
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"உள்ளமைவு கோப்பை உருவாக்க இயலவில்லை:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+
+#: Application/Rainlendar.cpp:454
+#, c-format
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"உள்ளமைவு கோப்பினை எழுத இயலவில்லை:\n"
+"\n"
+"%s\n"
+"\n"
+"சரியான அனுமதி உள்ளதை உறுதி செய்யவும்."
+
+#: Application/Rainlendar.cpp:456
+msgid "You won't be able to store any settings permanently."
+msgstr "நீங்கள் நிரந்தரமாக எந்த அமைப்புகளை சேமிக்க முடியாது."
+
+#: Application/Rainlendar.cpp:526
+#, c-format
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"பாதையிலிருந்த ஆதாரத்தை நினைவேற்ற இயலவில்லை :\n"
+"%s"
+
+#: Application/Rainlendar.cpp:743
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog again. Click 'No' to make all windows visible again."
+msgstr ""
+"It looks like all the windows and the trayicon have been hidden. Was this your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog again. Click 'No' to make all windows visible again."
+
+#: Application/Rainlendar.cpp:911 Application/Rainlendar.cpp:971
+msgid "Startup error!"
+msgstr "தொடக்கநிலை பிழை!"
+
+#: Application/Rainlendar.cpp:912
+msgid "Rainlendar was not able to refresh the settings correctly. Do you want to reset all settings and try again?"
+msgstr "Rainlendarயினால் அமைப்புக்களை புதுப்பிக்க இயலவில்லை. எல்லா அமைப்புக்களையும் இயல்பு நிலைக்கு மாற்றி மறுமுறை முயற்சிக்க விரும்புகிறீர்களா?"
+
+#: Application/Rainlendar.cpp:915
+msgid "&Reset"
+msgstr "& மீட்டமை"
+
+#: Application/Rainlendar.cpp:916
+msgid "&Keep"
+msgstr "&வை"
+
+#: Application/Rainlendar.cpp:957
+#, c-format
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"இந்த பாதையில் தோற்றம் எதுவும் இல்லை:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:972
+msgid "Rainlendar was not able to load the selected skin. Do you want to use the default skin instead?"
+msgstr "தேர்ந்தெடுத்த தோற்றத்தை நினைவேற்ற இயலவில்லை. இயல்பு நிலை தோற்றத்தை பயன் படுத்த வேண்டுமா?"
+
+#: Application/Rainlendar.cpp:985
+msgid "Unable to load the skin. Check the log for more details."
+msgstr "தோற்றத்தை நினைவேற்ற இயலவில்லை. மேலும் விவரங்களுக்கு பதிவை பார்க்கவும்."
+
+#: Application/Rainlendar.cpp:1005 Application/Resource.h:264
+msgid "Yes"
+msgstr "ஆம்"
+
+#: Application/Rainlendar.cpp:1005 Application/Resource.h:265
+msgid "No"
+msgstr "இல்லை"
+
+#: Application/Rainlendar.cpp:1278
+msgid ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+msgstr ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+
+#: Application/Rainlendar.cpp:1615
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"பழைய கோப்புகள் காணப்பட்டன:\n"
+"\n"
+
+#: Application/Rainlendar.cpp:1622
+msgid "Do you want to import them?"
+msgstr "அதையெல்லாம் இறக்குமதி செய்ய வேண்டுமா?"
+
+#: Application/Rainlendar.cpp:1644
+#, c-format
+msgid "Import failed with file: \"%s\""
+msgstr "இந்த கோப்பின் இறக்குமதி தோல்வியுற்றது \"%s\""
+
+#: Application/SkinIni.cpp:289
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 0 to 11 for a specific month in the current year."
+msgstr "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 0 to 11 for a specific month in the current year."
+
+#: Application/SkinIni.cpp:503
+msgid "Defines the width of the event list."
+msgstr "இது நிகழ்ச்சி பட்டியலின் அகலத்தை வரையறுக்கும்."
+
+#: Application/SkinIni.cpp:504
+msgid "Defines the width of the todo list."
+msgstr "இது செயல் பட்டியலின் அகலத்தை வரையறுக்கும்."
+
+#: Application/SkinManager.cpp:98
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"நடப்பு தோற்றங்கள் கிடைக்கவில்லை.\n"
+"கிடைக்கும் முதல் தோற்றத்தை நினைவேற்ற ஆமோதிக்கவும்."
+
+#: Application/SkinManager.cpp:103
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+
+#: Application/SkinManager.cpp:108
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"இந்த தோற்றம் கிடைக்கவில்லை.\n"
+"கிடைக்கும் முதல் தோற்றத்தை நினைவேற்ற ஆமோதிக்கவும்."
+
+#: Application/Util.cpp:1352
+msgid "January"
+msgstr "ஜனவரி"
+
+#: Application/Util.cpp:1354
+msgid "February"
+msgstr "பிப்ரவரி"
+
+#: Application/Util.cpp:1356
+msgid "March"
+msgstr "மார்ச்"
+
+#: Application/Util.cpp:1358
+msgid "April"
+msgstr "ஏப்ரல்"
+
+#: Application/Util.cpp:1360 Application/Util.cpp:1390
+msgid "May"
+msgstr "மே"
+
+#: Application/Util.cpp:1362
+msgid "June"
+msgstr "ஜுன்"
+
+#: Application/Util.cpp:1364
+msgid "July"
+msgstr "ஜுலை"
+
+#: Application/Util.cpp:1366
+msgid "August"
+msgstr "ஆகஸ்ட்"
+
+#: Application/Util.cpp:1368
+msgid "September"
+msgstr "செப்டம்பர்"
+
+#: Application/Util.cpp:1370
+msgid "October"
+msgstr "அக்டோபர்"
+
+#: Application/Util.cpp:1372
+msgid "November"
+msgstr "நவம்பர்"
+
+#: Application/Util.cpp:1374
+msgid "December"
+msgstr "டிசம்பர்"
+
+#: Application/Util.cpp:1382
+msgid "Jan"
+msgstr "ஜனவரி"
+
+#: Application/Util.cpp:1384
+msgid "Feb"
+msgstr "பிப்ரவரி"
+
+#: Application/Util.cpp:1386
+msgid "Mar"
+msgstr "மார்ச்"
+
+#: Application/Util.cpp:1388
+msgid "Apr"
+msgstr "ஏப்ரல்"
+
+#: Application/Util.cpp:1392
+msgid "Jun"
+msgstr "ஜுன்"
+
+#: Application/Util.cpp:1394
+msgid "Jul"
+msgstr "ஜுலை"
+
+#: Application/Util.cpp:1396
+msgid "Aug"
+msgstr "ஆகஸ்ட்"
+
+#: Application/Util.cpp:1398
+msgid "Sep"
+msgstr "செப்டம்பர்"
+
+#: Application/Util.cpp:1400
+msgid "Oct"
+msgstr "அக்டோபர்"
+
+#: Application/Util.cpp:1402
+msgid "Nov"
+msgstr "நவம்பர்"
+
+#: Application/Util.cpp:1404
+msgid "Dec"
+msgstr "டிசம்பர்"
+
+#: Application/Util.cpp:2209 Application/Resource.h:284
+msgid "Birthday"
+msgstr "பிறந்த நாள்"
+
+#: Application/Util.cpp:2210 Application/Resource.h:283
+msgid "Anniversary"
+msgstr "ஆண்டு விழா"
+
+# This defines how the years are shown after the birthdays and anniversaries. The %1 will be replaced with the ordinal number (e.g. \"2nd\"). Alternatively you can also use %2 which will display just the number (e.g. \"2\").
+#: Application/Util.cpp:2249
+msgid " (%1)"
+msgstr " (%1)"
+
+# This is the common ordinal format. Set it like the ordinal numbers (5th, 27th, 599th) are usually written in your language. The %i will be raplaced with the number. The exceptions are defined in the next entry.
+#: Application/Util.cpp:2631
+#, c-format
+msgid "%ith"
+msgstr "%iவது"
+
+# These are the the exceptions to the ordinal numbers. The numeric value in the exceptions is checked with the ordinal number and if the last numbers match the exception format is used instead of the normal format. For example "11th" will match with 11, 111, 211, 311, etc. The "1st" will match with 1, 21, 31, ..., 101, 121, 131, etc. Note that "1st" will not be used with 11, 111, 211, etc. because the "11th" was checked and matched first.
+#: Application/Util.cpp:2632
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11வது;12வது;13வது;1வது;2வது;3வது"
+
+#: Application/Util.cpp:2858
+msgid "edit"
+msgstr "திருத்தவும்"
+
+#: Application/Util.cpp:3002
+msgid "Do you want to create the file?"
+msgstr "இந்த கோப்பினை உருவாக்க வேண்டுமா?"
+
+#: Application/Util.cpp:3003
+#, c-format
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"இந்த கோப்பு கிடைக்கவில்லை:\n"
+"%s"
+
+#: Application/Util.cpp:3012
+#, c-format
+msgid "Unable to create the file \"%s\"."
+msgstr "\"%s\" கோப்பினை உருவாக்க இயலவில்லை."
+
+#: Application/WizardCalendar.cpp:25 Application/WizardCalendar.cpp:30
+msgid "Create a new calendar"
+msgstr "புதிய நாட்காட்டியை உருவாக்கவும்"
+
+#: Application/WizardPageCalendar.cpp:40
+msgid "Please select the type of the calendar."
+msgstr "நாட்காட்டி வகையை தேர்ந்தெடுக்கவும்."
+
+#: Application/WizardPageCalendar.cpp:44
+msgid "The calendar type defines the format of the events and where they are stored."
+msgstr "The calendar type defines the format of the events and where they are stored."
+
+#: Application/WizardPageCalendar.cpp:59
+msgid "Type"
+msgstr "வகை"
+
+#: Application/WizardPageCalendar.cpp:84
+msgid "You need to select a calendar type!"
+msgstr "நாட்காட்டி வகையை தேர்ந்தெடுத்தாக வேண்டும்!"
+
+#: Application/WizardPageCalendar.cpp:172 Application/res/alarm.cpp:3
+msgid "Browse..."
+msgstr "உலாவு..."
+
+#: Application/WizardPageCalendar.cpp:252
+msgid "Only local files can be defined as the file name."
+msgstr "கோப்பு பெயராக உள்ளூர் கோப்புகளை மட்டும் வரையறுக்கலாம்."
+
+#: Application/WizardPageCalendar.cpp:258
+msgid ""
+"It's not possible to use UNC paths as the file name.\n"
+"You need to map the network drive to be able to access the files on a server."
+msgstr ""
+"It's not possible to use UNC paths as the file name.\n"
+"You need to map the network drive to be able to access the files on a server."
+
+#: Application/WizardPageCalendar.cpp:267
+msgid "You need to enter a full email address."
+msgstr "முழு மின்னஞ்சல் முகவரியை உள்ளிடவும்."
+
+#: Application/WizardPageCalendar.cpp:375
+msgid "Please choose a name for the the calendar."
+msgstr "நாட்காட்டியின்  பெயரை தேர்ந்தெடுக்கவும்."
+
+#: Application/WizardPageCalendar.cpp:383
+msgid "Name"
+msgstr "பெயர்"
+
+#: Application/WizardPageCalendar.cpp:421
+msgid ""
+"The calendar with the same name already exists.\n"
+"Please use some other name."
+msgstr ""
+"இதே பெயரில் நாட்காட்டி எற்கனவே உள்ளது.\n"
+"வேறு பெயரை தேர்ந்தெடுக்கவும்."
+
+#: Application/WizardPageCalendar.cpp:428
+msgid "You need to give some name for the calendar."
+msgstr "நாட்காட்டிக்கு  ஏதாவது பெயரிடவும்."
+
+#: Application/res/about.cpp:2 Application/res/manager.cpp:8
+#: Application/res/manager.cpp:18 Application/res/print.cpp:11
+msgid "Close"
+msgstr "மூடவும்"
+
+#: Application/res/alarm.cpp:1
+msgid "Alarm sound"
+msgstr "அலார ஒலி"
+
+#: Application/res/alarm.cpp:2
+msgid "Select the sound file for the alarm"
+msgstr "அலாரத்திற்கு ஒலி கோப்பினை தேர்ந்தெடுக்கவும்"
+
+#: Application/res/event.cpp:3 Application/res/todo.cpp:3
+msgid "Save\tCtrl+S"
+msgstr "சேமிக்கவும்\tCtrl+S"
+
+#: Application/res/event.cpp:4 Application/res/todo.cpp:4
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "புதிதாக சேமிக்கவும்\tShift+Ctrl+S"
+
+#: Application/res/event.cpp:5 Application/res/todo.cpp:5
+msgid "Delete\tCtrl+Delete"
+msgstr "நீக்கவும்\tCtrl+Delete"
+
+#: Application/res/event.cpp:6 Application/res/todo.cpp:6
+msgid "Close\tAlt-F4"
+msgstr "மூடவும்\tAlt-F4"
+
+#: Application/res/event.cpp:9 Application/res/todo.cpp:9
+msgid "Summary:"
+msgstr "சுருக்கம்:"
+
+#: Application/res/event.cpp:10 Application/res/todo.cpp:10
+msgid "Location:"
+msgstr "இடம்:"
+
+#: Application/res/event.cpp:11 Application/res/todo.cpp:11
+msgid "Private"
+msgstr "தனியுடைமை"
+
+#: Application/res/event.cpp:12 Application/res/todo.cpp:12
+msgid "Start time:"
+msgstr "ஆரம்ப நேரம்:"
+
+#: Application/res/event.cpp:13
+msgid "All day event"
+msgstr "முழு நாள் நிகழ்ச்சி"
+
+#: Application/res/event.cpp:14
+msgid "End time:"
+msgstr "முடிவு நேரம்:"
+
+#: Application/res/event.cpp:15
+msgid "Mark time as busy"
+msgstr "நேரத்தை பணிமிகுதியாக  குறியிடுவும்"
+
+#: Application/res/event.cpp:17 Application/res/event.cpp:18
+#: Application/res/todo.cpp:42
+msgid "Minutes"
+msgstr "நிமிடங்கள்"
+
+#: Application/res/event.cpp:19 Application/res/todo.cpp:43
+msgid "Hours"
+msgstr "மணிநேரங்கள்"
+
+#: Application/res/event.cpp:20 Application/res/event.cpp:26
+#: Application/res/todo.cpp:41 Application/res/todo.cpp:44
+#: Application/res/todo.cpp:50
+msgid "Days"
+msgstr "நாட்கள்"
+
+#: Application/res/event.cpp:21
+msgid "before the event starts."
+msgstr "நிகழ்ச்சிக்கு முன்னாள்."
+
+#: Application/res/event.cpp:24 Application/res/todo.cpp:48
+msgid "Recurrence"
+msgstr "மறுநிகழ்வு"
+
+#: Application/res/event.cpp:25 Application/res/todo.cpp:49
+msgid "Repeat every"
+msgstr "மீண்டும் ஒவ்வொரு"
+
+#: Application/res/event.cpp:27 Application/res/todo.cpp:51
+msgid "Weeks"
+msgstr "வாரங்கள்"
+
+#: Application/res/event.cpp:28 Application/res/todo.cpp:52
+msgid "Months"
+msgstr "மாதங்கள்"
+
+#: Application/res/event.cpp:29 Application/res/todo.cpp:53
+msgid "Years"
+msgstr "வருடங்கள்"
+
+#: Application/res/event.cpp:30 Application/res/todo.cpp:54
+msgid "Mon"
+msgstr "திங்கள்"
+
+#: Application/res/event.cpp:31 Application/res/todo.cpp:55
+msgid "Tue"
+msgstr "செவ்வாய்"
+
+#: Application/res/event.cpp:32 Application/res/todo.cpp:56
+msgid "Wed"
+msgstr "புதன்"
+
+#: Application/res/event.cpp:33 Application/res/todo.cpp:57
+msgid "Thu"
+msgstr "வியாழன்"
+
+#: Application/res/event.cpp:34 Application/res/todo.cpp:58
+msgid "Fri"
+msgstr "வெள்ளி"
+
+#: Application/res/event.cpp:35 Application/res/todo.cpp:59
+msgid "Sat"
+msgstr "சனி"
+
+#: Application/res/event.cpp:36 Application/res/todo.cpp:60
+msgid "Sun"
+msgstr "ஞாயிறு"
+
+#: Application/res/event.cpp:37 Application/res/todo.cpp:61
+msgid "Repeat"
+msgstr "திரும்பசெய்"
+
+#: Application/res/event.cpp:38 Application/res/todo.cpp:62
+msgid "Forever"
+msgstr "எப்பொழுதும்"
+
+#: Application/res/event.cpp:39 Application/res/todo.cpp:63
+msgid "Number of times"
+msgstr "முறைகள்"
+
+#: Application/res/event.cpp:40 Application/res/todo.cpp:64
+msgid "Until"
+msgstr "இதுவரை"
+
+#: Application/res/event.cpp:41 Application/res/todo.cpp:65
+msgid "Exception dates"
+msgstr "நாட்களை தவிர"
+
+#: Application/res/event.cpp:42 Application/res/options.cpp:27
+#: Application/res/todo.cpp:66
+msgid "Add"
+msgstr "சேர்க்கவும்"
+
+#: Application/res/manager.cpp:3
+msgid "Import"
+msgstr "இறக்குமதி"
+
+#: Application/res/manager.cpp:4
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+#: Application/res/manager.cpp:5 Application/res/print.cpp:9
+msgid "Print..."
+msgstr "அச்சிடவும்..."
+
+#: Application/res/manager.cpp:6 Plugins/NetworkPlugin/NetworkHandler.cpp:226
+msgid "Backup"
+msgstr "கோப்பு காப்பு"
+
+#: Application/res/manager.cpp:7
+msgid "Restore"
+msgstr "காப்பு மீட்டமைப்பு"
+
+#: Application/res/manager.cpp:9
+msgid "New"
+msgstr "புதிய"
+
+#: Application/res/manager.cpp:10
+msgid "Edit"
+msgstr "திருத்து"
+
+#: Application/res/manager.cpp:12
+msgid "Copy to..."
+msgstr "இதில் நகலெடு..."
+
+#: Application/res/manager.cpp:13
+msgid "Move to..."
+msgstr "இதில் நகர்த்து..."
+
+#: Application/res/manager.cpp:14
+msgid "Set categories..."
+msgstr "வகைகளை அமைக்கவும்..."
+
+#: Application/res/manager.cpp:15
+msgid "Show events"
+msgstr "நிகழ்ச்சிகள்"
+
+#: Application/res/manager.cpp:16
+msgid "Show todo items"
+msgstr "செயல்கள்"
+
+#: Application/res/manager.cpp:17
+msgid "Search:"
+msgstr "தேடவும்:"
+
+#: Application/res/options.cpp:2
+msgid "Week's start day:"
+msgstr "வார ஆரம்ப நாள்:"
+
+#: Application/res/options.cpp:3
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Rainlendar தொடங்கும் பொழுது, இன்றைய நிகழ்ச்சியை தட்டில் காட்டவும்"
+
+#: Application/res/options.cpp:4
+msgid "Add years to birthdays and anniversaries"
+msgstr "பிறந்த நாளுடனும் ஆண்டு நிறைவுடனும் வருடத்தை சேர்க்கவும்"
+
+#: Application/res/options.cpp:5
+msgid "Hide windows if there are no items"
+msgstr "உருப்படி இல்லையெனில் சாளரத்தை மறைக்கவும்"
+
+#: Application/res/options.cpp:6
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "ஊடாக கிளிக் செய்யவும் (shift சேர்த்து செயலிலக்க செய்யவும்)"
+
+#: Application/res/options.cpp:7
+msgid "Lock windows in place"
+msgstr "சாளரத்தை ஒரிடத்தில் நிலைநிறுத்தவும்"
+
+#: Application/res/options.cpp:8
+msgid "Enable on startup"
+msgstr "தொடக்கநிலையில் இயக்கவும்"
+
+#: Application/res/options.cpp:9
+msgid "Language:"
+msgstr "மொழி:"
+
+#: Application/res/options.cpp:10
+msgid "Position"
+msgstr "இடம்"
+
+#: Application/res/options.cpp:11
+msgid "On Top"
+msgstr "மேலே"
+
+#: Application/res/options.cpp:13
+msgid "On Bottom"
+msgstr "கீழே"
+
+#: Application/res/options.cpp:14
+msgid "On Desktop"
+msgstr "மேசைத்தளத்தில்"
+
+#: Application/res/options.cpp:15
+msgid "Transparency"
+msgstr "ஒளிர்வு"
+
+#: Application/res/options.cpp:16
+msgid "Normal:"
+msgstr "சாதரணமான:"
+
+#: Application/res/options.cpp:17
+msgid "Mouse over:"
+msgstr "மவுஸ் மேலாடல்:"
+
+#: Application/res/options.cpp:19
+msgid "Add..."
+msgstr "சேர்க்கவும்..."
+
+#: Application/res/options.cpp:20 Application/res/options.cpp:28
+msgid "Remove"
+msgstr "நீக்கவும்"
+
+#: Application/res/options.cpp:21
+msgid "Duplicate..."
+msgstr "நகலேடு..."
+
+#: Application/res/options.cpp:24
+msgid "Action:"
+msgstr "செயல்:"
+
+#: Application/res/options.cpp:25
+msgid "Hotkey:"
+msgstr "குறுவிசை:"
+
+#: Application/res/options.cpp:26
+msgid "Set"
+msgstr "அமை"
+
+#: Application/res/options.cpp:29
+msgid "Available skins"
+msgstr "கிடைக்கும் தோற்றங்கள்"
+
+#: Application/res/options.cpp:30
+msgid "Active skins"
+msgstr "நடப்பு தோற்றங்கள்"
+
+#: Application/res/options.cpp:31
+msgid "Settings..."
+msgstr "அமைப்புகள்..."
+
+#: Application/res/options.cpp:33
+msgid "Details"
+msgstr "விவரங்கள்"
+
+#: Application/res/print.cpp:1
+msgid "All items"
+msgstr "அனைத்து உருப்படிகள்"
+
+#: Application/res/print.cpp:2
+msgid "Selected items"
+msgstr "தேர்ந்தெடுத்த உருப்படிகள்"
+
+#: Application/res/print.cpp:3
+msgid "Day range"
+msgstr "நாள் வரையரை"
+
+#: Application/res/print.cpp:4
+msgid "Select days"
+msgstr "நாட்களை தேர்ந்தெடுக்கவும்"
+
+#: Application/res/print.cpp:7
+msgid "Add title"
+msgstr "தலைப்பை சேர்க்கவும்"
+
+#: Application/res/print.cpp:8
+msgid "Preview..."
+msgstr "முன்னோட்டம்..."
+
+#: Application/res/print.cpp:10
+msgid "Page Setup..."
+msgstr "பக்க அமைப்பு..."
+
+#: Application/res/todo.cpp:13
+msgid "Due time:"
+msgstr "உரிய காலம்:"
+
+#: Application/res/todo.cpp:14
+msgid "Show in calendar"
+msgstr "நாட்காட்டியில் காட்டவும்"
+
+#: Application/res/todo.cpp:15
+msgid "Priority:"
+msgstr "முன்னுரிமை:"
+
+#: Application/res/todo.cpp:21
+msgid "Status:"
+msgstr "நிலைமை:"
+
+#: Application/res/todo.cpp:22 Application/res/todo.cpp:23
+msgid "Not Started"
+msgstr "ஆரம்பமாகவில்லை"
+
+#: Application/res/todo.cpp:27
+msgid "Progress:"
+msgstr "செயல் நிலை:"
+
+#: Application/res/todo.cpp:28 Application/res/todo.cpp:29
+msgid "0 %"
+msgstr "0 %"
+
+#: Application/res/todo.cpp:30
+msgid "10 %"
+msgstr "10 %"
+
+#: Application/res/todo.cpp:31
+msgid "20 %"
+msgstr "20 %"
+
+#: Application/res/todo.cpp:32
+msgid "30 %"
+msgstr "30 %"
+
+#: Application/res/todo.cpp:33
+msgid "40 %"
+msgstr "40 %"
+
+#: Application/res/todo.cpp:34
+msgid "50 %"
+msgstr "50 %"
+
+#: Application/res/todo.cpp:35
+msgid "60 %"
+msgstr "60 %"
+
+#: Application/res/todo.cpp:36
+msgid "70 %"
+msgstr "70 %"
+
+#: Application/res/todo.cpp:37
+msgid "80 %"
+msgstr "80 %"
+
+#: Application/res/todo.cpp:38
+msgid "90 %"
+msgstr "90 %"
+
+#: Application/res/todo.cpp:39
+msgid "100 %"
+msgstr "100 %"
+
+#: Application/res/todo.cpp:45
+msgid "before the task is due."
+msgstr "பணி உரிய நேரத்திற்கு முன்பாக."
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:203
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:207
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:218
+msgid "Password"
+msgstr "கடவுச்சோல்"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:211
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:222
+#: Plugins/OutlookPlugin/MapiHandler.cpp:498
+msgid "Poll frequency"
+msgstr "வாக்கெடுப்பு அதிர்வெண்"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:215
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:230
+msgid "Suppress errors"
+msgstr "பிழைகளை முடக்கவும்"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:219
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:234
+msgid "Keep offline copy"
+msgstr "ஆஃப்லைன் நகலை வைத்துக்கோள்"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:223
+msgid "Use default Google Calendar alarms"
+msgstr "இயல்புநிலை கூகிள் நாட்காட்டி அலாரத்தை பயன்படுத்தவும்"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:259
+msgid ""
+"Choose the name of the calendar, email and password for your Google account.\n"
+"You can also leave the calendar field empty if you only have a one calendar."
+msgstr ""
+"Choose the name of the calendar, email and password for your Google account.\n"
+"You can also leave the calendar field empty if you only have a one calendar."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:233
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"கூகிள் பிழை!\n"
+"கூகிள் அங்கீகாரம் கிடைக்கவில்லை.\n"
+"சர்வரின் பதில்: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:422
+#: Plugins/GooglePlugin/GoogleThread.cpp:1089
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"கூகிள் பிழை!\n"
+"நாட்காட்டிகளை பதிவிறக்கம் செய்ய இயலவில்லை.\n"
+"சர்வரின் பதில்: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:503
+msgid ""
+"Google Error!\n"
+"Unable to parse the calendar url."
+msgstr ""
+"Google Error!\n"
+"Unable to parse the calendar url."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:529
+msgid ""
+"Google Error!\n"
+"It seems that you have entered an url as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Google Error!\n"
+"It seems that you have entered an url as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:533
+msgid ""
+"Google Error!\n"
+"Unable to find the chosen calendar.\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"கூகிள் பிழை!\n"
+"தேர்வு செய்த நாட்காட்டி கிடைக்கவில்லை.\n"
+"\n"
+"இருக்கும் நாட்காட்டிகள்:\n"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:645
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to delete the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"கூகிள் பிழை!\n"
+"நிகழ்ச்சியை நீக்க இயலவில்லை.\n"
+"சர்வரின் பதில்: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:851
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to upload the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"கூகிள் பிழை!\n"
+"நிகழ்ச்சியை அப்லோட் செய்ய இயலவில்லை.\n"
+"சர்வரின் பதில்: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:1052
+msgid ""
+"Google Error!\n"
+"Unable to parse the events."
+msgstr ""
+"கூகிள் பிழை!\n"
+"நிகழ்ச்சியை பாகுபடுத்த இயலவில்லை."
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:693
+msgid "Filename"
+msgstr "கோப்பின் பெயர்"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:698
+msgid "Monitor changes"
+msgstr "மாற்றங்களை கண்காணிக்கவும்"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:742
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a new file will be created."
+msgstr ""
+"நாட்காட்டிக்கு கோப்பினை தேர்ந்தெடுக்கவும்.\n"
+"\n"
+"ஏற்கனவே உள்ள ics-கோப்பினை தேர்ந்தெடுக்கவும் அல்லது புதிய கோப்பினை உருவாக்க பாதையை தேர்ந்தெடுக்கவும்."
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:210
+msgid "URL"
+msgstr "உரலி"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:214
+msgid "Username"
+msgstr "பயனர் பெயர்"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:238
+msgid "Safe upload"
+msgstr "பாதுக்காப்பான பதிவேற்றம்"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:242
+msgid "Authentication"
+msgstr "அங்கீகரிப்பு"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:245
+msgid "Basic"
+msgstr "அடிப்படை"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:246
+msgid "Digest"
+msgstr "வெளியிடு"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:247
+msgid "GSS-Negotiate"
+msgstr "GSS-Negotiate"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:248
+msgid "NTLM"
+msgstr "NTLM"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:285
+msgid ""
+"Choose an URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Choose an URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password fields can be left empty if they are not needed."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:201
+#: Plugins/NetworkPlugin/NetworkThread.cpp:223
+#: Plugins/NetworkPlugin/NetworkThread.cpp:387
+msgid "Network Error!"
+msgstr "பினையப் பிழை!"
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:203
+msgid "Unable to add the item to the online calendar."
+msgstr "ஆன்லைன் நாட்காட்டியில் உருப்படிகளை சேர்க்க இயலவில்லை."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:225
+msgid "Unable to remove the item from the online calendar."
+msgstr "ஆன்லைன் காலண்டரில் உருப்படியை அகற்ற முடியவில்லை."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:389
+#, c-format
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"கொப்பினை பாகுப்படுத்த இயலவில்லை: %s\n"
+"கோப்பு சிதைந்தயிருக்கலாம்."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:455
+#, c-format
+msgid ""
+"Network Error!\n"
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Network Error!\n"
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:829
+#, c-format
+msgid ""
+"Network Error!\n"
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Network Error!\n"
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:128
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library."
+msgstr ""
+"அவுட்லுக் பிழை!\n"
+"MAPI நூலகத்தை தொடக்க இயலவில்லை."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:371
+#: Plugins/OutlookPlugin/MapiHandler.cpp:579
+#: Plugins/OutlookPlugin/MapiHandler.cpp:593
+msgid "Application"
+msgstr "பயன்பாடு"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:385
+#: Plugins/OutlookPlugin/MapiHandler.cpp:600
+msgid "Profile"
+msgstr "விவரம்"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:408
+#: Plugins/OutlookPlugin/MapiHandler.cpp:606
+msgid "MessageStore"
+msgstr "தகவல்கிடங்கு"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:431
+msgid "Folders"
+msgstr "கோப்புறை"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:438
+msgid "Default Folder"
+msgstr "இயல்புநிலை கோப்புறை"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:483
+msgid "Use labels instead of categories"
+msgstr "வகைகளுக்கு பதில் லேபிளை பயன்படுத்தவும்"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:488
+msgid "Show edit links"
+msgstr "திருத்த இயலும் இணைப்புகளை காட்டவும்"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:493
+msgid "Keep MAPI connection alive"
+msgstr "MAPI இணைப்பை துண்டிக்காமல் வைக்கவும்"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:645
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Choose the Outlook message store which you want to see in Rainlendar."
+
+#: Plugins/OutlookPlugin/MapiItem.cpp:403
+#: Plugins/OutlookPlugin/MapiItem.cpp:417
+#, c-format
+msgid " [[outlook:%s][edit]]"
+msgstr " [[அவுட்லுக்:%s][திருத்தவும்]]"
+
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:460
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:524
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:540
+msgid "Outlook error!"
+msgstr "Outlook பிழை!"
+
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:462
+#, c-format
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "உருப்படிகளை புதுப்பித்தல் தோல்வியுற்றது. பிழை எண் 0x%p"
+
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:526
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:542
+#, c-format
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "உருப்படியை நீக்க இயலவில்லை. பிழை எண் 0x%p"
+
+#: Application/Resource.h:269
+msgid "Update"
+msgstr "புதுப்பி"
+
+#: Application/Resource.h:271
+msgid "Make a selection:"
+msgstr "தேர்ந்தெடுக்கவும்:"
+
+#: Application/Resource.h:273
+msgid "Hide Windows"
+msgstr "சாளரங்களை மறைக்கவும்"
+
+#: Application/Resource.h:274
+msgid "Show Windows"
+msgstr "சாளரங்களை காட்டவும்"
+
+#: Application/Resource.h:275
+msgid "Toggle Windows"
+msgstr "சாளரத்தை மாற்றவும்"
+
+#: Application/Resource.h:276
+msgid "Next Month"
+msgstr "அடுத்த மாதம்"
+
+#: Application/Resource.h:277
+msgid "Previous Month"
+msgstr "முந்தைய மாதம்"
+
+#: Application/Resource.h:278
+msgid "Current Month"
+msgstr "இந்த மாதம்"
+
+#: Application/Resource.h:280
+msgid "Create New Task"
+msgstr "புதிய பணியை உருவாக்கவும்"
+
+#: Application/Resource.h:281
+msgid "Create New Event"
+msgstr "புதிய நிகழ்ச்சியை உருவாக்கவும்"
+
+#: Application/Resource.h:285
+msgid "Business"
+msgstr "வர்த்தகம்"
+
+#: Application/Resource.h:286
+msgid "Calls"
+msgstr "அழைப்புக்கள்"
+
+#: Application/Resource.h:287
+msgid "Clients"
+msgstr "கட்சிக்காரர்"
+
+#: Application/Resource.h:288
+msgid "Competition"
+msgstr "போட்டி"
+
+#: Application/Resource.h:289
+msgid "Customer"
+msgstr "வாடிக்கையாளர்"
+
+#: Application/Resource.h:290
+msgid "Exam"
+msgstr "பரீட்சை"
+
+#: Application/Resource.h:291
+msgid "Favorites"
+msgstr "விருப்பமான"
+
+#: Application/Resource.h:292
+msgid "Follow Up"
+msgstr "பின் தொடர்தல்"
+
+#: Application/Resource.h:293
+msgid "Gifts"
+msgstr "பரிசுகள்"
+
+#: Application/Resource.h:294
+msgid "Holidays"
+msgstr "விடுமுறைகள்"
+
+#: Application/Resource.h:295
+msgid "Ideas"
+msgstr "எண்ணக்கருக்கள்"
+
+#: Application/Resource.h:296
+msgid "Important"
+msgstr "முக்கியம்"
+
+#: Application/Resource.h:297
+msgid "Issues"
+msgstr "விவகாரங்கள்"
+
+#: Application/Resource.h:298
+msgid "Miscellaneous"
+msgstr "இதற"
+
+#: Application/Resource.h:299
+msgid "Personal"
+msgstr "தனிப்பட்ட"
+
+#: Application/Resource.h:300
+msgid "Projects"
+msgstr "திட்டபணிகள்"
+
+#: Application/Resource.h:301
+msgid "Public Holiday"
+msgstr "பொதுவிடுமுறை"
+
+#: Application/Resource.h:303
+msgid "Suppliers"
+msgstr "வழங்குனர்"
+
+#: Application/Resource.h:304
+msgid "Travel"
+msgstr "பயணம்"
+
+#: Application/Resource.h:305
+msgid "Trip"
+msgstr "பயணம்"
+
+#: Application/Resource.h:306 Application/Resource.h:447
+msgid "TV"
+msgstr "தொலைகாட்சி"
+
+#: Application/Resource.h:307
+msgid "Vacation"
+msgstr "ஓய்வுநாள்"
+
+#: Application/Resource.h:308
+msgid "Work"
+msgstr "வேலை"
+
+#: Application/Resource.h:309
+msgid "Medical"
+msgstr "மருத்துவம்"
+
+#: Application/Resource.h:311
+msgid "Urgent"
+msgstr "அவசரம்"
+
+#: Application/Resource.h:312
+msgid "Health"
+msgstr "உடல் நலம்"
+
+#: Application/Resource.h:313
+msgid "Sport"
+msgstr "விளையாட்டு"
+
+#: Application/Resource.h:314
+msgid "Game"
+msgstr "விளையாட்டு"
+
+#: Application/Resource.h:315
+msgid "School"
+msgstr "பள்ளி"
+
+#: Application/Resource.h:316
+msgid "Party"
+msgstr "கொண்டாட்டம்"
+
+#: Application/Resource.h:319
+msgid "Must Attend"
+msgstr "கவனிக்க வேண்டும்"
+
+#: Application/Resource.h:320
+msgid "Travel Required"
+msgstr "பயணம் அவசியம்"
+
+#: Application/Resource.h:321
+msgid "Needs Preparation"
+msgstr "முன்னேற்பாடு தேவை"
+
+#: Application/Resource.h:322
+msgid "Phone Call"
+msgstr "தொலைபேசி அழைப்பு"
+
+#: Application/Resource.h:324
+msgid "iCalendar Format"
+msgstr "iCalendar வடிவமைப்பு"
+
+#: Application/Resource.h:325
+msgid "Network Shared Calendar"
+msgstr "பிணையம் பகிர்ந்த நாட்காட்டி"
+
+#: Application/Resource.h:326
+msgid "Microsoft Outlook"
+msgstr "மைக்ரோசாஃப்ட் அவுட்லுக்"
+
+#: Application/Resource.h:327
+msgid "Rainlendar Ini Format"
+msgstr "Rainlendar Ini வடிவமைப்பு"
+
+#: Application/Resource.h:328
+msgid "Google Calendar"
+msgstr "கூகிள் நாட்காட்டி"
+
+#: Application/Resource.h:330
+msgid "&Next >"
+msgstr "&அடுத்த >"
+
+#: Application/Resource.h:331
+msgid "< &Back"
+msgstr "< &பின்னால்"
+
+#: Application/Resource.h:332
+msgid "&Finish"
+msgstr "&நிறை"
+
+#: Application/Resource.h:334
+msgid "Vertical Calendar"
+msgstr "செங்குத்தான நாட்காட்டி"
+
+#: Application/Resource.h:336
+msgid "Year Calendar"
+msgstr "வருட நாட்காட்டி"
+
+#: Application/Resource.h:337
+msgid "Sidebar"
+msgstr "பக்க பட்டை"
+
+#: Application/Resource.h:338
+msgid "DigiClock"
+msgstr "எண்ணியல் கடிகாரம்"
+
+#: Application/Resource.h:339
+msgid "Dual Calendar"
+msgstr "இரட்டை நாள்காட்டி"
+
+#: Application/Resource.h:340
+msgid "Event List"
+msgstr "நிகழ்ச்சி பட்டியல்"
+
+#: Application/Resource.h:341
+msgid "Todo List"
+msgstr "செயல் பட்டியல்"
+
+#: Application/Resource.h:343 Application/Resource.h:352
+msgid "Visible month"
+msgstr "புலப்படும் மாதம்"
+
+#: Application/Resource.h:344
+msgid "Show buttons"
+msgstr "பொத்தானை காட்டவும்"
+
+#: Application/Resource.h:345
+msgid "Show adjacent days"
+msgstr "அண்டை நாட்களை காட்டவும்"
+
+#: Application/Resource.h:346
+msgid "Eventlist width"
+msgstr "நிகழ்ச்சி பட்டியல் அகலம்"
+
+#: Application/Resource.h:347
+msgid "Eventlist height"
+msgstr "நிகழ்ச்சி பட்டியல் உயரம்"
+
+#: Application/Resource.h:348
+msgid "Todolist width"
+msgstr "செயல் பட்டியல் அகலம்"
+
+#: Application/Resource.h:349
+msgid "Todolist height"
+msgstr "செயல் பட்டியல் உயரம்"
+
+#: Application/Resource.h:350
+msgid "Calendar list width"
+msgstr "நாட்காட்டி பட்டியல் அகலம்"
+
+#: Application/Resource.h:351
+msgid "Calendar list height"
+msgstr "நாட்காட்டி பட்டியல் உயரம்"
+
+#: Application/Resource.h:353
+msgid "Width"
+msgstr "அகலம்"
+
+#: Application/Resource.h:354
+msgid "Show week numbers"
+msgstr "வார எண்களை காட்டவும்"
+
+#: Application/Resource.h:355
+msgid "Format"
+msgstr "வடிவமைப்பு"
+
+#: Application/Resource.h:356
+msgid "Timezone"
+msgstr "நேரவலயம்"
+
+#: Application/Resource.h:357
+msgid "Show 3rd month"
+msgstr "மூன்றாவது மாதத்தை காட்டு"
+
+#: Application/Resource.h:358
+msgid "Show 4th month"
+msgstr "நான்காவது மாதத்தை காட்டு"
+
+#: Application/Resource.h:359
+msgid "Show 5th month"
+msgstr "ஐந்தாவது மாதத்தை காட்டு"
+
+#: Application/Resource.h:360
+msgid "Show 6th month"
+msgstr "ஆறவது மாதத்தை காட்டு"
+
+#: Application/Resource.h:361
+msgid "Show 7th month"
+msgstr "ஏழாவது மாதத்தை காட்டு"
+
+#: Application/Resource.h:362
+msgid "Show 8th month"
+msgstr "எட்டாவது மாதத்தை காட்டு"
+
+#: Application/Resource.h:363
+msgid "Color"
+msgstr "வண்ணம்"
+
+#: Application/Resource.h:364
+msgid "Analog Clock"
+msgstr "ஒத்திசை கடிகாரம்"
+
+#: Application/Resource.h:365
+msgid "Calendar List"
+msgstr "நாட்காட்டி பட்டியல்"
+
+#: Application/Resource.h:367
+msgid "Snooze All"
+msgstr "அனைத்தும் சிறிது நேரம் உறங்கட்டும்"
+
+#: Application/Resource.h:368
+msgid "Dismiss All"
+msgstr "எல்லாவற்றையும் நீக்கு"
+
+#: Application/Resource.h:370
+msgid "To do"
+msgstr "To do"
+
+#: Application/Resource.h:373
+msgid "Today color"
+msgstr "இன்றைய வண்ணம்"
+
+#: Application/Resource.h:374
+msgid "Today shape"
+msgstr "இன்றைய வடிவம்"
+
+#: Application/Resource.h:375
+msgid "Circle"
+msgstr "வட்டம்"
+
+#: Application/Resource.h:376
+msgid "Rectangle"
+msgstr "செவ்வகம்"
+
+#: Application/Resource.h:377 Application/Resource.h:417
+msgid "Red"
+msgstr "சிவப்பு"
+
+#: Application/Resource.h:378
+msgid "Orange"
+msgstr "அரஞ்சு"
+
+#: Application/Resource.h:379 Application/Resource.h:418
+msgid "Yellow"
+msgstr "மஞ்சள்"
+
+#: Application/Resource.h:380 Application/Resource.h:415
+msgid "Green"
+msgstr "பச்சை"
+
+#: Application/Resource.h:381 Application/Resource.h:414
+msgid "Cyan"
+msgstr "மயில் நிறம்"
+
+#: Application/Resource.h:382 Application/Resource.h:413
+msgid "Blue"
+msgstr "நீலம்"
+
+#: Application/Resource.h:383
+msgid "Magenta"
+msgstr "நன்னிறம்"
+
+#: Application/Resource.h:384
+msgid "A sequel to the popular Shadow3-skin with some added features like visible days from the next and previous month and a skinned tooltip."
+msgstr "A sequel to the popular Shadow3-skin with some added features like visible days from the next and previous month and a skinned tooltip."
+
+#: Application/Resource.h:385 Application/Resource.h:393
+#: Application/Resource.h:420
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 1 to 12 for a specific month in the current year."
+msgstr "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 1 to 12 for a specific month in the current year."
+
+#: Application/Resource.h:386
+msgid "Set to 0 to hide the next and previous buttons from the calendar."
+msgstr "நாட்காட்டியின் அடுத்த மற்றும் முந்தைய பொத்தாங்களை மறைக்க 0 உள்ளிடவும்."
+
+#: Application/Resource.h:387
+msgid "Set to 0 to hide the days from the previous and next month."
+msgstr "அடுத்த மற்றும் முந்தைய மாதத்தின் நாட்களை மறைக்க 0 உள்ளிடவும்."
+
+#: Application/Resource.h:388
+msgid "Defines the width of the event list. The default value is 165 pixels."
+msgstr "இது நிகழ்ச்சி பட்டியலின் அகலத்தை வரையறுக்கும். இயல்புநிலை மதிப்பு 165 பிக்சல்கள்."
+
+#: Application/Resource.h:389 Application/Resource.h:422
+msgid "Defines the maximum height of the event list. The default value is 300 pixels."
+msgstr "இது நிகழ்ச்சி பட்டியலின் அதிகபட்ச உயரத்தின் வரையறுக்கும். இயல்புநிலை மதிப்பு 300 பிக்சல்கள்."
+
+#: Application/Resource.h:390
+msgid "Defines the width of the to do list. The default value is 165 pixels."
+msgstr "இது செயல் பட்டியலின் அகலத்தை வரையறுக்கும். இயல்புநிலை மதிப்பு 165 பிக்சல்கள்."
+
+#: Application/Resource.h:391 Application/Resource.h:423
+msgid "Defines the maximum height of the to do list. The default value is 300 pixels."
+msgstr "இது செயல் பட்டியலின் அதிகபட்ச உயரத்தின் வரையறுக்கும். இயல்புநிலை மதிப்பு 300 பிக்சல்கள்."
+
+#: Application/Resource.h:392
+msgid "Defines the width of the calendar list. The default value is 165 pixels."
+msgstr "இது நாட்காட்டி பட்டியலின் அகலத்தை வரையறுக்கும். இயல்புநிலை மதிப்பு 165 பிக்சல்கள்."
+
+#: Application/Resource.h:394
+msgid "Defines the width of the window. The default value is 165 pixels."
+msgstr "இது சாளரத்தின் அகலத்தை வரையறுக்கும். இயல்புநிலை மதிப்பு 165 பிக்சல்கள்."
+
+#: Application/Resource.h:395 Application/Resource.h:396
+#: Application/Resource.h:397 Application/Resource.h:398
+#: Application/Resource.h:399
+msgid "Set to 0 to hide the week numbers from the calendar."
+msgstr "நாட்காட்டியின் வார நாட்களை  மறைக்க 0 உள்ளிடவும்."
+
+#: Application/Resource.h:400
+msgid "This defines the format of the clock. To get rid of the seconds use %H:%M or %#I:%M %p"
+msgstr "இது கடிகாரத்தின் வடிவத்தை வறையறுக்கும். வினாடிகளை ஒதுக்க %H:%M அல்லது %#I:%M %p பயன்படுத்தவும்"
+
+#: Application/Resource.h:401
+msgid "Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . You can also use values like CET, EST, PST, A_CST, ..."
+msgstr "நேர மண்டலத்தை வரையறுக்கிறது. ... -3, -2, -1, 0, +1, +2, +3, ... ஆகிய குறிப்பிட்ட எண்ணிக்கையை அமை. நீங்கள் CET, EST, PST, A_CST, ... போன்ற மதிப்புகளை பயன்படுத்த முடியும் "
+
+#: Application/Resource.h:402 Application/Resource.h:403
+#: Application/Resource.h:404 Application/Resource.h:405
+#: Application/Resource.h:406 Application/Resource.h:407
+msgid "Set to 1 to show the calendar."
+msgstr "நாட்காட்டியை காட்ட 1 உள்ளிடவும்."
+
+#: Application/Resource.h:408
+msgid "Defines the color of the today marker."
+msgstr "இன்றைய குறியீடின் வண்ணத்தை வறையறுக்கும்."
+
+#: Application/Resource.h:409
+msgid "Defines the shape of the today marker."
+msgstr "இன்றைய குறியீடின் வடிவத்தை வறையறுக்கும்."
+
+#: Application/Resource.h:412
+msgid "The skin contains multiple different color variations. You can change them either from the skin's settings or by clicking the down arrow on the calendar."
+msgstr "சருமத்தில் பல்வேறு நிற வேறுபாடுகள் உள்ளன. நீங்கள் skin's settings அல்லது காலண்டரில் உள்ள கீழ் நோக்கிய அம்புக்குறியை கிளிக் செய்வதன் மூலம் அவற்றை மாற்ற முடியும்."
+
+#: Application/Resource.h:416
+msgid "Brown"
+msgstr "பழுப்பு"
+
+#: Application/Resource.h:419
+msgid "Defines the color of the windows."
+msgstr "இது நாட்காட்டியின் வண்ணத்தை வறையறுக்கும்."
+
+#: Application/Resource.h:421
+msgid "Defines the format for the dates on the event list headers."
+msgstr "நிகழ்வுப் பட்டியல் தலைப்பின் நாட்கள் வடிவத்தை வரையறுக்கிறது."
+
+#: Application/Resource.h:426
+msgid "Conditions: "
+msgstr "விதிமுறைகள்: "
+
+#: Application/Resource.h:427
+msgid "Temperature: "
+msgstr "வெப்பநிலை: "
+
+#: Application/Resource.h:428
+msgid "Humidity: "
+msgstr "ஈரப்பசை: "
+
+#: Application/Resource.h:429
+msgid "Winds: "
+msgstr "காற்று: "
+
+#: Application/Resource.h:430
+msgid "Time: "
+msgstr "நேரம்: "
+
+#: Application/Resource.h:431
+msgid "Refreshing..."
+msgstr "புதுப்பிக்கப்படுக்கிறது..."
+
+#: Application/Resource.h:432
+msgid "Downloading: "
+msgstr "பதிவிறக்கம்: "
+
+#: Application/Resource.h:433 Application/Resource.h:438
+msgid "Download failed!"
+msgstr "பதிவிறக்கம் தோல்வியுற்றது!"
+
+#: Application/Resource.h:434
+msgid "Loading..."
+msgstr "நினைவேறுகிறது..."
+
+#: Application/Resource.h:435
+msgid "Unknown result!"
+msgstr "புரிபடாத முடிவுகள்!"
+
+#: Application/Resource.h:436
+msgid "Upcoming programs:"
+msgstr "வரவிருக்கும் நிரல்கள்:"
+
+#: Application/Resource.h:437
+msgid "Parsing failed!"
+msgstr "பாகுபடுத்தல் தோல்வியுற்றது!"
+
+# The positions and the widths should be about the same as in the English string. There isn't much extra space in the widget.
+#: Application/Resource.h:439
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr " நாள்  மணி நிமிடம் நொடி"
+
+#: Application/Resource.h:440
+msgid "Loading feed..."
+msgstr "ஊட்டம் ஏற்றுகிறது ..."
+
+# The word which separates the title and author in the photos widget. Leave empty or use '-' if this cannot be translated.
+#: Application/Resource.h:441
+msgid "by "
+msgstr "மூலம் "
+
+#: Application/Resource.h:443
+msgid "Photos"
+msgstr "ஒளிப்படம்"
+
+#: Application/Resource.h:444
+msgid "Weather"
+msgstr "வானிலை"
+
+#: Application/Resource.h:445
+msgid "Countdown"
+msgstr "கவுண்ட்டவுன்"
+
+#: Application/Resource.h:446
+msgid "RSS"
+msgstr "RSS"
+
+#: Application/Resource.h:449
+msgid "RSS width"
+msgstr "RSS அகலம்"
+
+#: Application/Resource.h:450 Application/Resource.h:470
+msgid "Defines the width of the list. The default value is 165 pixels."
+msgstr "இது பட்டியலின் அகலத்தை வரையறுக்கும். இயல்புநிலை மதிப்பு 165 பிக்சல்கள்."
+
+#: Application/Resource.h:451
+msgid "RSS height"
+msgstr "RSS உயரம்"
+
+#: Application/Resource.h:452 Application/Resource.h:472
+msgid "Defines the maximum height of the list. The default value is 300 pixels."
+msgstr "இது பட்டியலின் அதிகபட்ச உயரத்தின் வரையறுக்கும். இயல்புநிலை மதிப்பு 300 பிக்சல்கள்."
+
+#: Application/Resource.h:453
+msgid "RSS location"
+msgstr "RSS இருப்பிடம்"
+
+#: Application/Resource.h:454
+msgid "Location of the RSS feed."
+msgstr "RSS ஓடையின் இருப்பிடம்."
+
+#: Application/Resource.h:455
+msgid "Weather location"
+msgstr "வானிலை இருப்பிடம்"
+
+#: Application/Resource.h:456
+msgid "Location of the weather feed."
+msgstr "வானிலை ஓடையின் இருப்பிடம்."
+
+#: Application/Resource.h:457
+msgid "Photos random"
+msgstr "சீரற்ற புகைப்படங்கள்"
+
+#: Application/Resource.h:458
+msgid "Set to 0 to show the images in sequel. 1 shows them in random order."
+msgstr "படங்களை வரிசையாக காண்பிக்க 0 அல்லது இலக்கின்றி காண்பிக்க 1 அமைக்கவும்."
+
+#: Application/Resource.h:459
+msgid "Photos update"
+msgstr "ஒளிப்பட புதுப்பிப்புகள்"
+
+#: Application/Resource.h:460
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "எப்படி அடிக்கடி படம் மேம்படுத்தப்பட்டது என்பதை வரையறுக்கிறது. மதிப்பு நிமிடங்களில்."
+
+#: Application/Resource.h:461
+msgid "Photos_folder"
+msgstr "படக்கோப்புறை"
+
+#: Application/Resource.h:462
+msgid "Defines the local folder which is scanned for photos. If this is left empty the photos are downloaded from Flickr."
+msgstr "புகைப்படத்திற்காக ஸ்கேன் செய்யப்படும் தனி அடைவை (Local Folder-ஐ) வரையறுக்கிறது. ஒருவேளை இது காலியாக இருந்தால் Flickr-இல் இருந்து புகைப்படங்கள் பதிவிறக்கம் செய்யப்படும்."
+
+#: Application/Resource.h:463
+msgid "Countdown event"
+msgstr "கவுண்ட்டவுன் நிகழ்ச்சி"
+
+#: Application/Resource.h:464
+msgid "The description of the event."
+msgstr "நிகழ்ச்சியின் விளக்கம்."
+
+#: Application/Resource.h:465
+msgid "Countdown time"
+msgstr "கவுண்ட்டவுன் நேரம்"
+
+#: Application/Resource.h:466
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "நிகழ்ச்சியின் நேரம். HH:MM:SS வடிவமைப்பை பயன்படுத்தவும்."
+
+#: Application/Resource.h:467
+msgid "Countdown date"
+msgstr "கவுண்ட்டவுன் தேதி"
+
+#: Application/Resource.h:468
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "நிகழ்ச்சியின் தேதி. YYYY-MM-DD வடிவமைப்பை பயன்படுத்தவும்."
+
+#: Application/Resource.h:469
+msgid "TV width"
+msgstr "தொலைகாட்சி அகலம்"
+
+#: Application/Resource.h:471
+msgid "TV height"
+msgstr "தொலைகாட்சி உயரம்"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:44
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar கோப்புகள் (*.ics)|*.ics|vCalendar கோப்புகள் (*.vcs)|*.vcs"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:45
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar கோப்புகள் (*.ics)|*.ics"
+
+#: Plugins/IniFormatPlugin/IniFormatHandler.h:22
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar கோப்புகள் (*.ini)|*.ini"

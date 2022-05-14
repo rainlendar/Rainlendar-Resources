@@ -1,0 +1,5257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-06 14:22+0200\n"
+"PO-Revision-Date: 2013-01-28 20:41+0100\n"
+"Last-Translator: Xavi Sanllehí <xavisanllehi@gmail.com>\n"
+"Language-Team: Luis Vicent <spendios@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: s;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: ca_ES\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: Application/CalendarManager.cpp:2137 Application/CalendarManager.cpp:2141
+#: Application/DialogSkinSettings.cpp:211
+msgid "[None]"
+msgstr "[Ningú]"
+
+#: Application/CalendarManager.cpp:2172 Application/DialogComponent.cpp:1104
+msgid "<Hidden>"
+msgstr "<Amagat>"
+
+#: Application/Config.cpp:1102 Application/DialogOptions.cpp:405
+#: Application/Rainlendar.cpp:1644 Application/Rainlendar.cpp:1655
+#: Application/Rainlendar.cpp:1783 Plugins/OutlookPlugin/MapiHandler.cpp:745
+#: Application/Resource.h:341
+msgid "Default"
+msgstr "Per Defecte"
+
+#: Application/Config.cpp:1111
+msgid "Copy"
+msgstr "Còpia"
+
+#: Application/Config.cpp:1116
+msgid "Region"
+msgstr "Regió"
+
+#: Application/Config.cpp:1121
+msgid "Native"
+msgstr "Nadiu"
+
+#: Application/Config.cpp:1126
+msgid "Sunday"
+msgstr "Diumenge"
+
+#: Application/Config.cpp:1127
+msgid "Monday"
+msgstr "Dilluns"
+
+#: Application/Config.cpp:1128
+msgid "Tuesday"
+msgstr "Dimarts"
+
+#: Application/Config.cpp:1129
+msgid "Wednesday"
+msgstr "Dimecres"
+
+#: Application/Config.cpp:1130
+msgid "Thursday"
+msgstr "Dijous"
+
+#: Application/Config.cpp:1131
+msgid "Friday"
+msgstr "Divendres"
+
+#: Application/Config.cpp:1132
+msgid "Saturday"
+msgstr "Dissabte"
+
+#: Application/Config.cpp:1135 Application/DialogPrint.cpp:356
+#: Application/WindowTooltip.cpp:295
+msgid "Start"
+msgstr "Inici"
+
+#: Application/Config.cpp:1136 Application/DialogPrint.cpp:386
+#: Application/WindowTooltip.cpp:308
+msgid "Due"
+msgstr "Venciment"
+
+#: Application/Config.cpp:1137 Application/WindowTooltip.cpp:322
+#: Application/Resource.h:652
+msgid "Priority"
+msgstr "Prioritat"
+
+#: Application/Config.cpp:1138 Application/WindowTooltip.cpp:337
+#: Application/Resource.h:333
+msgid "Status"
+msgstr "Estat"
+
+#: Application/Config.cpp:1139 Application/WindowTooltip.cpp:390
+msgid "Category"
+msgstr "Categoria"
+
+#: Application/Config.cpp:1150
+msgid "Off"
+msgstr "Apagat"
+
+#: Application/Config.cpp:1151 Application/res/options.cpp:12
+msgid "Normal"
+msgstr "Normal"
+
+#: Application/Config.cpp:1152
+msgid "Beta"
+msgstr "Beta"
+
+#: Application/Config.cpp:1155 Application/DialogOptions.cpp:130
+#: Application/DialogSkinSettings.cpp:193 Application/res/options.cpp:1
+msgid "General"
+msgstr "General"
+
+#: Application/Config.cpp:1157 Application/Config.cpp:1344
+msgid "Time format"
+msgstr "Format d'Hora"
+
+#: Application/Config.cpp:1158 Application/Config.cpp:1345
+msgid "Date format"
+msgstr "Format de Data"
+
+#: Application/Config.cpp:1159 Application/Config.cpp:1346
+msgid "Weekend days"
+msgstr "Dies del cap de setmana"
+
+#: Application/Config.cpp:1160 Application/Config.cpp:1347
+msgid "Week number delta"
+msgstr "Número delta de la setmana"
+
+#: Application/Config.cpp:1161 Application/Config.cpp:1349
+msgid "Default categories"
+msgstr "Categories per defecte"
+
+#: Application/Config.cpp:1162 Application/Config.cpp:1359
+msgid "Show categories from the skin"
+msgstr "Mostra categories de l'aparença"
+
+#: Application/Config.cpp:1163 Application/Config.cpp:1360
+msgid "Snap distance"
+msgstr "Distància de fixació"
+
+#: Application/Config.cpp:1164 Application/Config.cpp:1361
+msgid "Snap center"
+msgstr "Centre de fixació"
+
+#: Application/Config.cpp:1165 Application/Config.cpp:1362
+msgid "Save window position"
+msgstr "Guarda posició de la finestra"
+
+#: Application/Config.cpp:1166 Application/Config.cpp:1363
+msgid "Show tray icon"
+msgstr "Mostra icona a la safata"
+
+#: Application/Config.cpp:1167
+msgid "Show tray status icons"
+msgstr "Mostrar icones d'estat a la safata del sistema"
+
+#: Application/Config.cpp:1169 Application/Config.cpp:1365
+msgid "Show dock icon (requires restart)"
+msgstr "Mostrar la icona del dock (necessita reinici)"
+
+#: Application/Config.cpp:1171 Application/Config.cpp:1367
+msgid "Keep on screen"
+msgstr "Mantenir a la pantalla"
+
+#: Application/Config.cpp:1172 Application/Config.cpp:1368
+msgid "Always show full menus"
+msgstr "Mostra sempre els menús complets"
+
+#: Application/Config.cpp:1173 Application/Config.cpp:1369
+msgid "Allow multiple calendars"
+msgstr "Permetre múltiples calendaris"
+
+#: Application/Config.cpp:1175 Application/Config.cpp:1371
+msgid "Disable keyboard shortcuts"
+msgstr "Deshabilita dreceres del teclat"
+
+#: Application/Config.cpp:1179 Application/Config.cpp:1375
+msgid "Show in all desktops"
+msgstr "Mostra a tots els escriptoris"
+
+#: Application/Config.cpp:1181 Application/Config.cpp:1378
+msgid "List wheel scroll"
+msgstr "Desplaçar la llista amb la rodeta del ratolí"
+
+#: Application/Config.cpp:1184 Application/Config.cpp:1379
+#: Application/Config.cpp:1381
+msgid "Transparency type"
+msgstr "Tipus de transparència"
+
+#: Application/Config.cpp:1186 Application/Config.cpp:1383
+msgid "Copy transparency sleep time"
+msgstr "Copiar temps de repòs de la transparència"
+
+#: Application/Config.cpp:1187 Application/Config.cpp:1384
+msgid "Fade delay (ms)"
+msgstr "Retard de l'esvaïment (ms)"
+
+#: Application/Config.cpp:1188 Application/Config.cpp:1385
+msgid "Fade duration (ms)"
+msgstr "Duració de l'esvaïment (ms)"
+
+#: Application/Config.cpp:1189 Application/Config.cpp:1386
+msgid "Font scale"
+msgstr "Tamany de la font"
+
+#: Application/Config.cpp:1191 Application/Config.cpp:1388
+msgid "Skin language"
+msgstr "Llengua de l'aparença"
+
+#: Application/Config.cpp:1192 Application/Config.cpp:1398
+msgid "Number of stored backups"
+msgstr "Nombre de còpies de seguretat emmagatzemades"
+
+#: Application/Config.cpp:1193 Application/Config.cpp:1399
+msgid "Show delete confirmations"
+msgstr "Mostra confirmacions d'esborrada"
+
+#: Application/Config.cpp:1194 Application/Config.cpp:1402
+msgid "Disable text formatting"
+msgstr "Deshabilita formatatge de text"
+
+#: Application/Config.cpp:1195 Application/Config.cpp:1403
+msgid "Use window names"
+msgstr "Fés servir noms de finestres"
+
+#: Application/Config.cpp:1197 Application/Config.cpp:1405
+msgid "Hide on Aero peek"
+msgstr "Amagar en Aero peek"
+
+#: Application/Config.cpp:1201 Application/Config.cpp:1408
+msgid "Check for updates"
+msgstr "Busca actualitzacions"
+
+#: Application/Config.cpp:1203 Application/Config.cpp:1410
+msgid "Reload delay after resume (ms)"
+msgstr "Retard de recàrrega després de resumir (ms)"
+
+#: Application/Config.cpp:1204 Application/Config.cpp:1411
+msgid "Network access delay after startup (ms)"
+msgstr "Retard d'accés a la xarxa després de resumir (ms)"
+
+#: Application/Config.cpp:1205 Application/Config.cpp:1412
+msgid "Show url icons"
+msgstr "Mostrar icones url"
+
+#: Application/Config.cpp:1206 Application/Config.cpp:1413
+msgid "Simultaneous transfers"
+msgstr "Transferències simultànies"
+
+#: Application/Config.cpp:1207 Application/Config.cpp:1414
+msgid "Keep editor open until writing succeeds"
+msgstr "Mantenir obert l'editor fins que l'escriptura siga correcta."
+
+#: Application/Config.cpp:1210
+msgid "Only uncategorized"
+msgstr "Només sense categories"
+
+# Opció per a la configuració "Categoria visual sobreescriure". Si s'estableix, la icona de l'esdeveniment és utilitzat fins i tot si s'estableix la categoria visual.
+#: Application/Config.cpp:1211
+msgid "Icon from events"
+msgstr "Icona d'esdeveniments"
+
+#: Application/Config.cpp:1212 Application/Config.cpp:1259
+msgid "Always"
+msgstr "Sempre"
+
+#: Application/Config.cpp:1215 Application/Config.cpp:1416
+msgid "Visual category overwrite"
+msgstr "La categoria visual sobreescriu"
+
+#: Application/Config.cpp:1217 Application/Config.cpp:1417
+msgid "Store English category names"
+msgstr "Emmagatzemar noms de categories en anglès"
+
+#: Application/Config.cpp:1218 Application/Config.cpp:1418
+msgid "Custom category icon path"
+msgstr "Ruta d'icones de categoria personalitzats"
+
+#: Application/Config.cpp:1221
+msgid "HTTP"
+msgstr "HTTP"
+
+#: Application/Config.cpp:1222
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+#: Application/Config.cpp:1223
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+#: Application/Config.cpp:1226
+msgid "Network"
+msgstr "Xarxa"
+
+#: Application/Config.cpp:1227 Application/Config.cpp:1420
+msgid "Proxy server"
+msgstr "Servidor Proxy"
+
+#: Application/Config.cpp:1228 Application/Config.cpp:1421
+msgid "Proxy user"
+msgstr "Usuari Proxy"
+
+#: Application/Config.cpp:1236 Application/Config.cpp:1238
+#: Application/Config.cpp:1422
+msgid "Proxy password"
+msgstr "Contrassenya Proxy"
+
+#: Application/Config.cpp:1240 Application/Config.cpp:1428
+msgid "Proxy type"
+msgstr "Tipus de proxy"
+
+#: Application/Config.cpp:1241 Application/Config.cpp:1429
+msgid "Try direct connection if proxy fails"
+msgstr "Provar connexió directat si falla el proxy"
+
+#: Application/Config.cpp:1244
+msgid "Show all icons"
+msgstr "Mostrar totes les icones"
+
+#: Application/Config.cpp:1245
+msgid "Show one icon per type"
+msgstr "Mostrar una icona per tipus"
+
+#: Application/Config.cpp:1246
+msgid "Show only one icon"
+msgstr "Mostrar només una icona"
+
+#: Application/Config.cpp:1249 Application/Resource.h:378
+msgid "Calendar"
+msgstr "Calendari"
+
+#: Application/Config.cpp:1251 Application/Config.cpp:1400
+msgid "Combine icons in the calendar"
+msgstr "Combina icones al calendari"
+
+#: Application/Config.cpp:1252 Application/Config.cpp:1377
+msgid "Calendar wheel scroll"
+msgstr "Desplaçar calendari amb la rodeta del ratolí"
+
+#: Application/Config.cpp:1253 Application/Config.cpp:1401
+msgid "Show tasks in calendar"
+msgstr "Mostra tasques al calendari"
+
+#: Application/Config.cpp:1255 Application/DialogOptions.cpp:661
+#: Application/DialogOptions.cpp:904 Application/DialogOptions.cpp:1008
+msgid "Tooltip"
+msgstr "Consell"
+
+#: Application/Config.cpp:1256 Application/Config.cpp:1431
+msgid "Show tooltips"
+msgstr "Mostra consells"
+
+#: Application/Config.cpp:1260
+msgid "Only on days with events"
+msgstr "Només en dies amb esdeveniments"
+
+#: Application/Config.cpp:1261
+msgid "Never"
+msgstr "Mai"
+
+#: Application/Config.cpp:1263 Application/Config.cpp:1432
+msgid "Show tooltip in tray"
+msgstr "Mostrar consells a la safata del sistema"
+
+#: Application/Config.cpp:1265 Application/Config.cpp:1433
+msgid "Max tooltip window width"
+msgstr "Amplada màxima de la finestra de consell"
+
+#: Application/Config.cpp:1266 Application/Config.cpp:1434
+msgid "Show description in tooltip"
+msgstr "Mostra descripció al consell"
+
+#: Application/Config.cpp:1267 Application/Config.cpp:1435
+msgid "Todo items in tooltip"
+msgstr "Tasques en globus d'ajuda"
+
+#: Application/Config.cpp:1268 Application/Config.cpp:1436
+msgid "Traytip show duration (ms)"
+msgstr "Duració del globus d'ajuda de la icona de la safata del sistema (ms)"
+
+#: Application/Config.cpp:1269 Application/Config.cpp:1437
+msgid "Tooltip fade duration (ms)"
+msgstr "Duració del esvaïment dels globus d'ajuda (ms)"
+
+#: Application/Config.cpp:1270 Application/Config.cpp:1438
+msgid "Tooltip show delay (ms)"
+msgstr "Retard en mostrar els globus d'ajuda (ms)"
+
+#: Application/Config.cpp:1271 Application/Config.cpp:1439
+msgid "Tooltip format"
+msgstr "Format del consell"
+
+#: Application/Config.cpp:1273
+msgid "TodoList"
+msgstr "Llista de tasques per fer"
+
+#: Application/Config.cpp:1274 Application/Config.cpp:1441
+msgid "Show full task summary"
+msgstr "Mostrar resum de totes les tasques"
+
+#: Application/Config.cpp:1275 Application/Config.cpp:1442
+msgid "Show task due time"
+msgstr "Mostra hora de venciment de la tasca"
+
+#: Application/Config.cpp:1276 Application/Config.cpp:1443
+msgid "Show task location"
+msgstr "Mostrar localització de les tasques"
+
+#: Application/Config.cpp:1277 Application/Config.cpp:1444
+msgid "Show task calendar"
+msgstr "Mostra calendari de tasques"
+
+#: Application/Config.cpp:1278 Application/Config.cpp:1445
+msgid "Number of days the list shows (0 = show all)"
+msgstr "Nombre de dies que mostra la llista (0 = mostrar tots)"
+
+#: Application/Config.cpp:1279 Application/Config.cpp:1446
+msgid "Task list header format"
+msgstr "Format de la capçalera de la llista de tasques"
+
+#: Application/Config.cpp:1280 Application/Config.cpp:1447
+msgid "Show task time when arranged by start or due date"
+msgstr "Mostra hora de la tasca quan s'ordeni per data d'inici o venciment"
+
+#: Application/Config.cpp:1282 Application/Config.cpp:1300
+#: Application/DialogComponent.cpp:2173 Application/DialogComponent.cpp:2179
+msgid "<None>"
+msgstr "<Cap>"
+
+#: Application/Config.cpp:1285 Application/Config.cpp:1450
+msgid "Default task template"
+msgstr "Plantilla de tasca per defecte"
+
+#: Application/Config.cpp:1287
+msgid "EventList"
+msgstr "Esdeveniments"
+
+#: Application/Config.cpp:1288 Application/Config.cpp:1460
+msgid "Show full event summary"
+msgstr "Mostra resum complet de l'esdeveniment"
+
+#: Application/Config.cpp:1289 Application/Config.cpp:1461
+msgid "Show event start time"
+msgstr "Mostra hora de començament de l'esdeveniment"
+
+#: Application/Config.cpp:1290 Application/Config.cpp:1462
+msgid "Show event end time"
+msgstr "Mostra hora d'acabament de l'esdeveniment"
+
+#: Application/Config.cpp:1291 Application/Config.cpp:1463
+msgid "Show event location"
+msgstr "Mostra lloc de l'esdeveniment"
+
+#: Application/Config.cpp:1292 Application/Config.cpp:1464
+msgid "Show event calendar"
+msgstr "Mostra calendari d'esdeveniments"
+
+#: Application/Config.cpp:1293 Application/Config.cpp:1465
+msgid "Hide dismissed events"
+msgstr "Amagar esdeveniments ignorats"
+
+#: Application/Config.cpp:1294 Application/Config.cpp:1466
+msgid "Hide past events"
+msgstr "Amagar esdeveniments passats"
+
+#: Application/Config.cpp:1295 Application/Config.cpp:1467
+msgid "Number of future days the list shows"
+msgstr "Nombre de dies futurs que mostra la llista"
+
+#: Application/Config.cpp:1296 Application/Config.cpp:1468
+msgid "Number of past days the list shows"
+msgstr "Nombre de dies passats que mostra la llista"
+
+#: Application/Config.cpp:1297 Application/Config.cpp:1469
+msgid "Event list header format"
+msgstr "Format de la capçalera de la llista d'esdeveniments"
+
+#: Application/Config.cpp:1298 Application/Config.cpp:1470
+msgid "Age from start of the week"
+msgstr "Edat des de l'inici de la setmana"
+
+#: Application/Config.cpp:1303 Application/Config.cpp:1474
+msgid "Default event template"
+msgstr "Plantilla d'esdeveniment per defecte"
+
+#: Application/Config.cpp:1306
+msgid "No grouping"
+msgstr "No agrupar"
+
+#: Application/Config.cpp:1307
+msgid "Start and end dates"
+msgstr "Dates d'inici i fi"
+
+#: Application/Config.cpp:1308
+msgid "Start date and duration"
+msgstr "Data d'inici i duració"
+
+#: Application/Config.cpp:1311 Application/Config.cpp:1471
+msgid "Group multiday events"
+msgstr "Agrupa esdeveniments de més d'un dia"
+
+#: Application/Config.cpp:1313 Application/ItemScheduleEvent.cpp:188
+msgid "Schedule"
+msgstr "Horaris"
+
+#: Application/Config.cpp:1314 Application/Config.cpp:1484
+msgid "Show schedule descriptions"
+msgstr "Mostrar descripcions als horaris"
+
+#: Application/Config.cpp:1315 Application/Config.cpp:1485
+msgid "Show schedule start time"
+msgstr "Mostra hora de començament als horaris"
+
+#: Application/Config.cpp:1316 Application/Config.cpp:1486
+msgid "Show schedule end time"
+msgstr "Mostra hora d'acabament als horaris"
+
+#: Application/Config.cpp:1317 Application/Config.cpp:1487
+msgid "Show schedule location"
+msgstr "Mostra lloc de l'esdeveniment als horaris"
+
+#: Application/Config.cpp:1318 Application/Config.cpp:1488
+msgid "Show schedule calendar"
+msgstr "Mostra calendari als horaris"
+
+#: Application/Config.cpp:1319 Application/Config.cpp:1489
+msgid "Create, move and resize events with mouse"
+msgstr "Crear, moure i redimensionar esdeveniments amb el ratolí"
+
+#: Application/Config.cpp:1321 Application/DialogOptions.cpp:660
+#: Application/DialogOptions.cpp:898 Application/DialogOptions.cpp:1008
+#: Application/ItemListAlarm.cpp:452 Application/res/event.cpp:17
+#: Application/res/todo.cpp:41
+msgid "Alarm"
+msgstr "Alarma"
+
+#: Application/Config.cpp:1322 Application/Config.cpp:1491
+msgid "Show alarm start time"
+msgstr "Mostra hora d'inici de l'alarma"
+
+#: Application/Config.cpp:1323 Application/Config.cpp:1492
+msgid "Show alarm end time"
+msgstr "Mostra hora de fi de l'alarma"
+
+#: Application/Config.cpp:1324 Application/Config.cpp:1493
+msgid "Show alarm location"
+msgstr "Mostra localització de l'alarma"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:1325 Application/Config.cpp:1494
+msgid "Show alarm calendar"
+msgstr "Mostra calendari d'alarmes"
+
+#: Application/Config.cpp:1326 Application/Config.cpp:1495
+msgid "Show due to the event"
+msgstr "Mostra hora de venciment de l'esdeveniment"
+
+#: Application/Config.cpp:1327 Application/Config.cpp:1496
+msgid "Support Mozilla alarms"
+msgstr "Suporta alarme de Mozilla"
+
+#: Application/Config.cpp:1328 Application/Config.cpp:1497
+msgid "Keep alarm always on top"
+msgstr "Mantenir alarmes al front"
+
+#: Application/Config.cpp:1329 Application/Config.cpp:1498
+msgid "Default snooze time (secs)"
+msgstr "Temps per defecte de descans (segons)"
+
+#: Application/Config.cpp:1330 Application/Config.cpp:1499
+msgid "Max alarm window width"
+msgstr "Amplària de finestra d'alarma màxima"
+
+#: Application/Config.cpp:1331 Application/Config.cpp:1500
+msgid "Hide from alarm after days"
+msgstr "Amaga de l'alarma després de dies"
+
+#: Application/Config.cpp:1332 Application/Config.cpp:1501
+msgid "Default alarm file"
+msgstr "Fitxer d'alarma per defecte"
+
+#: Application/Config.cpp:1333 Application/Config.cpp:1502
+msgid "Loop the alarm sound (secs)"
+msgstr "Repetir el so de l'alarma (segons)"
+
+#: Application/Config.cpp:1334 Application/Config.cpp:1504
+msgid "Snooze times (mins)"
+msgstr "Temps de descans (minuts)"
+
+#: Application/Config.cpp:1862
+msgid "Choose a directory"
+msgstr "Escull un directori"
+
+#: Application/ControlWindow.cpp:176 Application/ControlWindow.cpp:183
+msgid "Unable to create a new item from the string:\n"
+msgstr "No es pot crear un nou element a partir de la cadena:\n"
+
+#: Application/ControlWindow.cpp:178
+msgid "Create Error!"
+msgstr "Error de creació"
+
+#: Application/ControlWindow.cpp:178
+msgid "Unable to select the target calendar for the item."
+msgstr "No es pot seleccionar el calendari destí per a l'element"
+
+#: Application/ControlWindow.cpp:185
+msgid "Parse Error!"
+msgstr "Error en processar!"
+
+#: Application/ControlWindow.cpp:538
+msgid "New version found!"
+msgstr "Nova versió trobada"
+
+#: Application/ControlWindow.cpp:539
+#, c-format
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"La versió %s és disponible.\n"
+"Vols anar al lloc web ara?"
+
+#: Application/ControlWindow.cpp:558
+msgid "No updates available."
+msgstr "No hi ha actualitzacions disponibles."
+
+#: Application/ControlWindow.cpp:558
+msgid "You have the most recent version of Rainlendar."
+msgstr "Ja tens la última versió de Rainlendar"
+
+#: Application/ControlWindow.cpp:663 Application/ControlWindow.cpp:765
+#: Application/ItemCalendar.cpp:513 Application/ItemListEvent.cpp:573
+#: Application/ItemScheduleEvent.cpp:178
+msgid "New event"
+msgstr "Nou esdeveniment"
+
+#: Application/ControlWindow.cpp:664 Application/ControlWindow.cpp:766
+#: Application/ItemListTodo.cpp:1171 Application/ItemScheduleEvent.cpp:166
+msgid "New task"
+msgstr "Nova tasca"
+
+#: Application/ControlWindow.cpp:666 Application/ControlWindow.cpp:774
+#: Application/Resource.h:308
+msgid "Refresh"
+msgstr "Actualitzar"
+
+#: Application/ControlWindow.cpp:667 Application/ControlWindow.cpp:775
+msgid "Options..."
+msgstr "Opcions..."
+
+#: Application/ControlWindow.cpp:668 Application/ControlWindow.cpp:776
+msgid "Manager..."
+msgstr "Gestor..."
+
+#: Application/ControlWindow.cpp:671 Application/res/event.cpp:2
+#: Application/res/manager.cpp:2 Application/res/todo.cpp:2
+msgid "File"
+msgstr "Fitxer"
+
+#: Application/ControlWindow.cpp:677
+msgid "View"
+msgstr "Veure"
+
+#: Application/ControlWindow.cpp:683
+msgid "About..."
+msgstr "Sobre..."
+
+#: Application/ControlWindow.cpp:684
+msgid "Open help\tCtrl+?"
+msgstr "Obrir ajuda\tCtrl+?"
+
+#: Application/ControlWindow.cpp:761 Application/DialogAbout.cpp:185
+msgid "About"
+msgstr "Sobre"
+
+#: Application/ControlWindow.cpp:762 Application/DialogOptions.cpp:159
+msgid "Help"
+msgstr "Ajuda"
+
+#: Application/ControlWindow.cpp:769 Application/DialogOptions.cpp:663
+msgid "Windows"
+msgstr "Finestres"
+
+#: Application/ControlWindow.cpp:770 Application/DialogComponent.cpp:1051
+#: Application/DialogManager.cpp:564 Application/DialogOptions.cpp:132
+#: Application/DropTarget.cpp:409 Application/res/event.cpp:24
+#: Application/res/options.cpp:18 Application/res/todo.cpp:48
+msgid "Calendars"
+msgstr "Calendaris"
+
+#: Application/ControlWindow.cpp:771
+msgid "Choose month"
+msgstr "Escull mes"
+
+#: Application/ControlWindow.cpp:787
+msgid "Install the license..."
+msgstr "Instal·lar la llicència..."
+
+#: Application/ControlWindow.cpp:793
+msgid "Show debug log"
+msgstr "Mostra el registre de depuració"
+
+#: Application/ControlWindow.cpp:808
+msgid "Exit"
+msgstr "Surt"
+
+#: Application/ControlWindow.cpp:827
+#, c-format
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+#: Application/ControlWindow.cpp:842
+msgid "Enable all calendars"
+msgstr "Activar tots els calendaris"
+
+#: Application/ControlWindow.cpp:843
+msgid "Disable all calendars"
+msgstr "Desactivar tots els calendaris"
+
+#: Application/ControlWindow.cpp:864 Application/ControlWindow.cpp:870
+#: Application/Resource.h:307
+msgid "Current Month"
+msgstr "Més Actual"
+
+#: Application/ControlWindow.cpp:865 Application/ControlWindow.cpp:871
+#: Application/Resource.h:305
+msgid "Next Month"
+msgstr "Proper Mes"
+
+#: Application/ControlWindow.cpp:866 Application/ControlWindow.cpp:872
+#: Application/Resource.h:306
+msgid "Previous Month"
+msgstr "Mes Anterior"
+
+#: Application/ControlWindow.cpp:867 Application/ControlWindow.cpp:873
+msgid "Next Year"
+msgstr "Proper Any"
+
+#: Application/ControlWindow.cpp:868 Application/ControlWindow.cpp:874
+msgid "Previous Year"
+msgstr "Any Anterior"
+
+#: Application/ControlWindow.cpp:870 Application/DialogAbout.cpp:137
+#: Application/HotkeyControl.cpp:188
+msgid "Home"
+msgstr "Inici"
+
+#: Application/ControlWindow.cpp:871 Application/HotkeyControl.cpp:194
+msgid "Right"
+msgstr "Dreta"
+
+#: Application/ControlWindow.cpp:872 Application/HotkeyControl.cpp:190
+msgid "Left"
+msgstr "Esquerra"
+
+#: Application/ControlWindow.cpp:873 Application/HotkeyControl.cpp:192
+msgid "Up"
+msgstr "Puja"
+
+#: Application/ControlWindow.cpp:874 Application/HotkeyControl.cpp:196
+msgid "Down"
+msgstr "Baixa"
+
+#: Application/ControlWindow.cpp:878 Application/Util.cpp:1583
+msgid "January"
+msgstr "Gener"
+
+#: Application/ControlWindow.cpp:878
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+#: Application/ControlWindow.cpp:879 Application/Util.cpp:1585
+msgid "February"
+msgstr "Febrer"
+
+#: Application/ControlWindow.cpp:879
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+#: Application/ControlWindow.cpp:880 Application/Util.cpp:1587
+msgid "March"
+msgstr "Març"
+
+#: Application/ControlWindow.cpp:880
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+#: Application/ControlWindow.cpp:881 Application/Util.cpp:1589
+msgid "April"
+msgstr "Abril"
+
+#: Application/ControlWindow.cpp:881
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+#: Application/ControlWindow.cpp:882 Application/Util.cpp:1591
+#: Application/Util.cpp:1621
+msgid "May"
+msgstr "Maig"
+
+#: Application/ControlWindow.cpp:882
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+#: Application/ControlWindow.cpp:883 Application/Util.cpp:1593
+msgid "June"
+msgstr "Juny"
+
+#: Application/ControlWindow.cpp:883
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+#: Application/ControlWindow.cpp:884 Application/Util.cpp:1595
+msgid "July"
+msgstr "Juliol"
+
+#: Application/ControlWindow.cpp:884
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+#: Application/ControlWindow.cpp:885 Application/Util.cpp:1597
+msgid "August"
+msgstr "Agost"
+
+#: Application/ControlWindow.cpp:885
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+#: Application/ControlWindow.cpp:886 Application/Util.cpp:1599
+msgid "September"
+msgstr "Setembre"
+
+#: Application/ControlWindow.cpp:886
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+#: Application/ControlWindow.cpp:887 Application/Util.cpp:1601
+msgid "October"
+msgstr "Octubre"
+
+#: Application/ControlWindow.cpp:887
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+#: Application/ControlWindow.cpp:888 Application/Util.cpp:1603
+msgid "November"
+msgstr "Novembre"
+
+#: Application/ControlWindow.cpp:888
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+#: Application/ControlWindow.cpp:889 Application/Util.cpp:1605
+msgid "December"
+msgstr "Desembre"
+
+#: Application/ControlWindow.cpp:889
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+#: Application/ControlWindow.cpp:917
+#, c-format
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+#: Application/ControlWindow.cpp:936
+msgid "Show all windows"
+msgstr "Mostrar totes les finestres"
+
+#: Application/ControlWindow.cpp:937
+msgid "Hide all windows"
+msgstr "Amagar totes les finestres"
+
+#: Application/ControlWindow.cpp:1326
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "Fitxers de llicència (*.r2lic)|*.r2lic"
+
+#: Application/ControlWindow.cpp:1327
+msgid "Choose the license file"
+msgstr "Escull el fitxer de llicència"
+
+#: Application/ControlWindow.cpp:1536 Application/ControlWindow.cpp:1608
+#: Application/ControlWindow.cpp:1633 Application/ItemCalendar.cpp:500
+#: Application/WindowTooltip.cpp:246
+msgid "*Empty*"
+msgstr "*Buit*"
+
+#: Application/ControlWindow.cpp:1539
+msgid "This instance"
+msgstr "Aquesta instància"
+
+#: Application/ControlWindow.cpp:1540
+msgid "Whole event"
+msgstr "Esdeveniment sencer"
+
+# Opció per al diàleg d'eliminació d'esdeveniments recurrents. Eliminant "tots els següents" s'eliminaran tots els esdeveniments posteriors a la data seleccionada.
+#: Application/ControlWindow.cpp:1541
+msgid "All following"
+msgstr "All following"
+
+#: Application/ControlWindow.cpp:1542 Application/DialogCategories.cpp:110
+#: Application/DialogDayRange.cpp:63 Application/DialogOptions.cpp:171
+#: Application/DialogSkinSettings.cpp:105 Application/res/alarm.cpp:5
+#: Application/res/event.cpp:48 Application/res/todo.cpp:72
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: Application/ControlWindow.cpp:1544 Application/ControlWindow.cpp:1610
+msgid "Do you want to delete this item?"
+msgstr "Vols eliminar aquest element?"
+
+#: Application/ControlWindow.cpp:1545
+#, c-format
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance, all the following events or the "
+"whole recurring event."
+msgstr ""
+"Aquest element és recurrent:\n"
+"\n"
+"%s\n"
+"\n"
+"Pots esborrar només aquesta instància, tots els esdeveniments següents o "
+"totes les recurrències."
+
+#: Application/ControlWindow.cpp:1624
+msgid "Do you want to delete these items?"
+msgstr ""
+"Vols esborrar aquests elements?\n"
+"%s"
+
+# Es mostra en el quadre de diàleg per a una versió especial de netbook.
+#: Application/DialogAbout.cpp:86
+msgid "Netbook edition"
+msgstr "Edició per a Netbook"
+
+#: Application/DialogAbout.cpp:90 Application/DialogOptions.cpp:760
+msgid "Version"
+msgstr "Versió"
+
+#: Application/DialogAbout.cpp:108
+msgid "Build on"
+msgstr "Fet el"
+
+#: Application/DialogAbout.cpp:113
+msgid "Developed by"
+msgstr "Desenvolupat per"
+
+#: Application/DialogAbout.cpp:122
+msgid "Licensed to"
+msgstr "Llicenciat a"
+
+#: Application/DialogAbout.cpp:130
+msgid "Plugins"
+msgstr "Connectors"
+
+#: Application/DialogAbout.cpp:135
+msgid "Links"
+msgstr "Vincles"
+
+#: Application/DialogAbout.cpp:140
+msgid "FAQ"
+msgstr "Preguntes Freqüents"
+
+#: Application/DialogAbout.cpp:143
+msgid "Forum"
+msgstr "Fòrum"
+
+#: Application/DialogAbout.cpp:149
+msgid "Menu icons by"
+msgstr "Icones de menú de"
+
+#: Application/DialogAbout.cpp:153
+msgid "Settings icons by"
+msgstr "Icones de paràmetres de"
+
+#: Application/DialogAbout.cpp:163
+msgid "Copyrights"
+msgstr "Copyrights"
+
+#: Application/DialogAbout.cpp:204
+msgid "Please wait..."
+msgstr "Si us plau espera..."
+
+#: Application/DialogAbout.cpp:228 Application/res/about.cpp:1
+msgid "Check for update"
+msgstr "Busca actualitzacions"
+
+#: Application/DialogAlarm.cpp:26
+msgid "Choose Alarm"
+msgstr "Escull Alarma"
+
+#: Application/DialogAlarm.cpp:41
+msgid "All files (*.*)|*.*"
+msgstr "Tots els fitxers (*.*)|*.*"
+
+#: Application/DialogCategories.cpp:49 Application/DialogCategories.cpp:72
+#: Application/DialogComponent.cpp:1106 Application/DialogManager.cpp:711
+#: Application/DialogOptions.cpp:1087 Application/res/event.cpp:25
+#: Application/res/todo.cpp:49
+msgid "Categories"
+msgstr "Categories"
+
+#: Application/DialogCategories.cpp:80 Application/res/options.cpp:19
+msgid "Add..."
+msgstr "Afegeix..."
+
+#: Application/DialogCategories.cpp:83
+msgid "Clear"
+msgstr "Netejar"
+
+#: Application/DialogCategories.cpp:87 Application/res/options.cpp:20
+#: Application/res/options.cpp:28
+msgid "Remove"
+msgstr "Treu"
+
+#: Application/DialogCategories.cpp:96
+msgid "Values"
+msgstr "Valors"
+
+#: Application/DialogCategories.cpp:107 Application/DialogOptions.cpp:167
+#: Application/DialogSkinSettings.cpp:102 Application/res/alarm.cpp:4
+#: Application/res/event.cpp:47 Application/res/todo.cpp:71
+msgid "OK"
+msgstr "Accepta"
+
+#: Application/DialogCategories.cpp:453
+msgid "Please give a name for the category"
+msgstr "Si us plau escull un nom per la categoria"
+
+#: Application/DialogCategories.cpp:453 Application/DialogComponent.cpp:2123
+#: Application/DialogOptions.cpp:1963
+msgid "Input text"
+msgstr "Text d'entrada"
+
+#: Application/DialogCategories.cpp:456 Application/DialogCategories.cpp:461
+#: Application/DialogCategories.cpp:469
+msgid "Unable to create the category!"
+msgstr "No s'ha pogut crear la categoria!"
+
+#: Application/DialogCategories.cpp:456
+msgid "You must give a name for the category."
+msgstr "Cal que li donis un nom a la categoria."
+
+#: Application/DialogCategories.cpp:461 Application/DialogComponent.cpp:2130
+#: Application/DialogOptions.cpp:1973 Application/WizardPageCalendar.cpp:581
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "No es permet l'ús de '/' al nom"
+
+#: Application/DialogCategories.cpp:469
+#, c-format
+msgid "A category called \"%s\" already exists."
+msgstr "Ja existeix una categoria anomenada \"%s\"."
+
+#: Application/DialogComponent.cpp:789
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"No n'hi han calendaris seleccionats per a l'element. Si us plau trie el "
+"calendari on vol emmagatzemar l'element."
+
+#: Application/DialogComponent.cpp:793
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and task. You cannot e.g. add tasks to Google "
+"Calendar."
+msgstr ""
+"No n'hi han calendaris vàlids on es pugui guardar l'element. Necessites anar "
+"a les opcions i crear un nou calendari per a l'element. Tingues en compte "
+"que alguns calendaris no suporten esdeveniments i tasques. Per exemple, no "
+"pots afegir tasques a Google Calendar."
+
+#: Application/DialogComponent.cpp:796
+msgid "Unable to save the item."
+msgstr "No s'ha pogut desar l'element."
+
+#: Application/DialogComponent.cpp:833
+msgid "Updating"
+msgstr "Actualitzant"
+
+#: Application/DialogComponent.cpp:888
+msgid "Do you want to save the changes?"
+msgstr "Vols guardar els canvis?"
+
+#: Application/DialogComponent.cpp:889
+msgid "You have made some changes to the fields."
+msgstr "Has realitzat alguns canvis en els camps."
+
+#: Application/DialogComponent.cpp:892
+msgid "&Save"
+msgstr "&Desar"
+
+#: Application/DialogComponent.cpp:893
+msgid "&Discard"
+msgstr "&Descartar"
+
+#: Application/DialogComponent.cpp:894 Application/DialogMessage.cpp:274
+#: Application/DialogMessage.cpp:306 Application/DropTarget.cpp:87
+#: Application/Resource.h:295
+msgid "&Cancel"
+msgstr "&Cancel·la"
+
+#: Application/DialogComponent.cpp:909
+msgid "Are you sure you want to delete this item?"
+msgstr "Vols esborrar aquest element?"
+
+#: Application/DialogComponent.cpp:1051
+msgid "Select the calendars:"
+msgstr "Escull els calendaris:"
+
+#: Application/DialogComponent.cpp:1106 Application/DialogManager.cpp:711
+msgid "Select the categories:"
+msgstr "Escull les categories:"
+
+#: Application/DialogComponent.cpp:1282
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr ""
+"No s'ha pogut trobar cap calendari que contingui l'esdeveniment. "
+"L'esdeveniment no s'ha desat."
+
+#: Application/DialogComponent.cpp:1355 Application/DialogMessage.cpp:240
+#: Application/DialogMessage.cpp:248 Application/DialogMessage.cpp:265
+#: Application/DialogMessage.cpp:273 Application/DialogMessage.cpp:302
+#: Application/Resource.h:296
+msgid "&OK"
+msgstr "&Acceptar"
+
+#: Application/DialogComponent.cpp:1356
+msgid "Incorrect alarm"
+msgstr "Alarma incorrecta"
+
+#: Application/DialogComponent.cpp:1356
+msgid ""
+"Google Calendar makes it possible to set the alarm only 28 days before the "
+"event. The alarm was automatically set to the maximum value."
+msgstr ""
+"Google Calendar permet ajustar l'alarma només 28 dies abans de "
+"l'esdeveniment. L'alarma s'ajusta automàticament al valor màxim."
+
+#: Application/DialogComponent.cpp:1550
+#, c-format
+msgid "On the %s day of the month"
+msgstr "El %s dia del mes"
+
+#: Application/DialogComponent.cpp:1558
+msgid "first"
+msgstr "primer"
+
+#: Application/DialogComponent.cpp:1562
+msgid "second"
+msgstr "segon"
+
+#: Application/DialogComponent.cpp:1566
+msgid "third"
+msgstr "tercer"
+
+#: Application/DialogComponent.cpp:1570
+msgid "fourth"
+msgstr "quart"
+
+#: Application/DialogComponent.cpp:1574
+msgid "fifth"
+msgstr "cinquè"
+
+#: Application/DialogComponent.cpp:1578
+#, c-format
+msgid "On the %s %s of the month"
+msgstr "El darrer %s %s del mes"
+
+#: Application/DialogComponent.cpp:1586
+#, c-format
+msgid "On the last %s of the month"
+msgstr "El darrer %s del mes"
+
+#: Application/DialogComponent.cpp:1595
+msgid "On the first weekday of the month"
+msgstr "El primer dia del mes"
+
+#: Application/DialogComponent.cpp:1604
+msgid "On the last weekday of the month"
+msgstr "El darrer dia del mes"
+
+#: Application/DialogComponent.cpp:1611
+msgid "On the last day of the month"
+msgstr "El darrer dia del mes"
+
+#: Application/DialogComponent.cpp:2123
+msgid "Please give a name for the template"
+msgstr "Si us plau escull un nom per la plantilla"
+
+#: Application/DialogComponent.cpp:2126 Application/DialogComponent.cpp:2130
+msgid "Unable to create the template!"
+msgstr "No s'ha pogut crear la plantilla!"
+
+#: Application/DialogComponent.cpp:2126
+msgid "You must give a name for the template."
+msgstr "Cal que li donis un nom a la plantilla."
+
+#: Application/DialogComponent.cpp:2139
+#, c-format
+msgid "A template called \"%s\" already exists."
+msgstr "Una plantilla anomenada \"%s\" ja existeix"
+
+#: Application/DialogComponent.cpp:2140
+msgid "Do you want to overwrite the template?"
+msgstr "Vols sobre-escriure aquesta plantilla?"
+
+#: Application/DialogComponent.cpp:2158
+msgid "Choose the template to delete:"
+msgstr "Escull la plantilla a esborrar"
+
+#: Application/DialogComponent.cpp:2158 Application/DialogComponent.cpp:2175
+msgid "Select"
+msgstr "Selecciona"
+
+#: Application/DialogComponent.cpp:2174
+msgid "Choose the template which is used for new tasks:"
+msgstr "Escull la plantilla per noves tasques"
+
+#: Application/DialogComponent.cpp:2174
+msgid "Choose the template which is used for new events:"
+msgstr "Escull la plantilla per nous esdeveniments"
+
+#: Application/DialogComponent.cpp:2213
+msgid "Save as template..."
+msgstr "Desar com a plantilla"
+
+#: Application/DialogComponent.cpp:2214
+msgid "Delete template..."
+msgstr "Esborra plantilla..."
+
+#: Application/DialogComponent.cpp:2215
+msgid "Set the default template..."
+msgstr "Designa la plantilla per defecte..."
+
+#: Application/DialogComponent.cpp:2224 Application/res/event.cpp:7
+#: Application/res/todo.cpp:7
+msgid "Template"
+msgstr "Plantilla"
+
+#: Application/DialogDayRange.cpp:29
+msgid "Select the day range"
+msgstr "Seleccioneu el rang de dies"
+
+#: Application/DialogDayRange.cpp:36
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"Aquest exportador no pot guardar esdeveniments recurrents, per la qual cosa "
+"han de ser convertits a instàncies simples. Si us plau defineix el rang de "
+"dies que seran guardats al fitxer."
+
+#: Application/DialogDayRange.cpp:43 Application/res/print.cpp:5
+msgid "From:"
+msgstr "De:"
+
+#: Application/DialogDayRange.cpp:50 Application/res/print.cpp:6
+msgid "To:"
+msgstr "Per:"
+
+#: Application/DialogDayRange.cpp:60 Application/Resource.h:297
+msgid "Ok"
+msgstr "Acceptar"
+
+#: Application/DialogEvent.cpp:78 Application/DialogManager.cpp:1353
+#: Application/res/event.cpp:1 Application/res/event.cpp:8
+#: Application/res/manager.cpp:9
+msgid "Event"
+msgstr "Esdeveniment"
+
+#: Application/DialogEvent.cpp:335 Application/Util.cpp:2528
+#: Application/Resource.h:315
+msgid "Birthday"
+msgstr "Natalici"
+
+#: Application/DialogEvent.cpp:335 Application/Util.cpp:2529
+#: Application/Resource.h:314
+msgid "Anniversary"
+msgstr "Aniversari"
+
+#: Application/DialogEvent.cpp:337
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Has creat un aniversari però no té recurrencia. \n"
+"Vols que l'esdeveniment es repeteixe cada any?"
+
+#: Application/DialogManager.cpp:72 Application/res/manager.cpp:1
+msgid "Manager"
+msgstr "Gestor"
+
+#: Application/DialogManager.cpp:248 Application/DialogManager.cpp:325
+msgid "Choose a file"
+msgstr "Escull un fitxer"
+
+#: Application/DialogManager.cpp:257
+msgid "Import failed!"
+msgstr "Importació fallida!"
+
+#: Application/DialogManager.cpp:333
+#, c-format
+msgid "Exported %i events successfully."
+msgstr "S'han exportat %i elements correctament."
+
+#: Application/DialogManager.cpp:337
+#, c-format
+msgid "Exported %i todo items successfully."
+msgstr "S'han exportat %i elements per fer correctament."
+
+#: Application/DialogManager.cpp:344
+msgid "Export failed!"
+msgstr "Exportació fallida!"
+
+#: Application/DialogManager.cpp:427
+msgid "Do you want to delete the selected item(s)?"
+msgstr "Vols esborrar el(s) element(s) seleccionat(s)?"
+
+#: Application/DialogManager.cpp:557
+msgid "Select the calendars where the items should be copied to:"
+msgstr "Escull els calendaris on s'han de copiar els elements:"
+
+#: Application/DialogManager.cpp:561
+msgid "Select the calendars where the items should be moved to:"
+msgstr "Escull els calendaris on s'han de moure els elements:"
+
+#: Application/DialogManager.cpp:584 Application/DialogManager.cpp:670
+msgid "Operation failed!"
+msgstr "Ha fallat l'operació!"
+
+#: Application/DialogManager.cpp:584
+msgid "There are no calendars available that are able to store the items."
+msgstr ""
+"No hi ha calendaris disponibles on es puguin enmagatzemar els elements."
+
+#: Application/DialogManager.cpp:609
+msgid "Are you sure you want to do this?"
+msgstr "Estas segur de voler fer-ho?"
+
+#: Application/DialogManager.cpp:610
+msgid ""
+"Moving items to an online calendar is not safe. If the destination\n"
+"calendar doesn't accept the items because of network problems or\n"
+"for some other reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"Moure elements a un calendari online no és segur.  Si el\n"
+"calendari de destí no accepta l'element per problemes amb la xarxa o\n"
+"per algun altre motiu, tots els elements moguts es perdran\n"
+"Accepta només si estas completament segur del què fas."
+
+#: Application/DialogManager.cpp:650
+#, c-format
+msgid "Moved %i items to these calendars:\n"
+msgstr "%i elements moguts a aquests calendaris:\n"
+
+#: Application/DialogManager.cpp:654
+#, c-format
+msgid "Copied %i items to these calendars:\n"
+msgstr "%i elements copiats a aquests calendaris:\n"
+
+#: Application/DialogManager.cpp:659
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"Important! Copiar elements a un calendari en línia porta temps així que no "
+"estaran disponibles fins després d'uns moments."
+
+#: Application/DialogManager.cpp:662
+msgid "Operation finished!"
+msgstr "Operació acabada!"
+
+#: Application/DialogManager.cpp:670
+msgid "You need to select at least one calendar for the events."
+msgstr "Cal que seleccionis al menys un calendari per els esdeveniments."
+
+#: Application/DialogManager.cpp:790 Application/DialogManager.cpp:1007
+msgid "Archive (*.zip)|*.zip"
+msgstr "Arxiu (*.zip)|*.zip"
+
+#: Application/DialogManager.cpp:791 Application/DialogManager.cpp:1006
+msgid "Choose the backup path"
+msgstr "Escull el camí per a la còpia de seguretat"
+
+#: Application/DialogManager.cpp:800
+msgid "Backup was successful."
+msgstr "La còpia de seguretat ha tingut èxit."
+
+#: Application/DialogManager.cpp:801
+msgid "The backup contains these files:"
+msgstr "La copia de seguretat conté aquests fitxers"
+
+#: Application/DialogManager.cpp:820
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"¡Avís! La còpia de seguretat no conté cap fitxer iCalendar. Si tens "
+"esdeveniments o tasques guardats localment, hauràs de fer còpies de "
+"seguretat manualment."
+
+#: Application/DialogManager.cpp:828 Application/DialogManager.cpp:1051
+msgid "Write error!"
+msgstr "Error d'escriptura"
+
+#: Application/DialogManager.cpp:828
+msgid "Unable to create the backup file."
+msgstr "Imposible crear la copia de seguretat"
+
+#: Application/DialogManager.cpp:1033
+msgid "The file already exists:"
+msgstr "Aquest fitxer ja existeix"
+
+#: Application/DialogManager.cpp:1036
+msgid "Do you want to overwrite the file?"
+msgstr "Vols sobreescriure el fitxer?"
+
+#: Application/DialogManager.cpp:1049
+msgid "Unable to overwrite file:"
+msgstr "Imposible sobreescriure el fitxer:"
+
+#: Application/DialogManager.cpp:1062
+#, c-format
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"No s'ha pogut restaurar el fitxer:\n"
+"%s\n"
+"\n"
+"Has extreure el fitxer manualment des del fitxer de còpia de seguretat."
+
+#: Application/DialogManager.cpp:1063
+msgid "Restore error!"
+msgstr "Error de restauració"
+
+#: Application/DialogManager.cpp:1082
+msgid "The archive contains unknown files:\n"
+msgstr "Aquest arxiu conté fitxers desconeguts:\n"
+
+#: Application/DialogManager.cpp:1089
+msgid "Restore was successful."
+msgstr "La restauració ha tingut èxit."
+
+#: Application/DialogManager.cpp:1093
+msgid "There were problems during the restore."
+msgstr "Hi ha haguts problems durant la restauració"
+
+#: Application/DialogManager.cpp:1360
+msgid "New Event..."
+msgstr "Nou Esdeveniment..."
+
+#: Application/DialogManager.cpp:1399 Application/DialogTodo.cpp:86
+#: Application/DialogTodo.cpp:423 Application/res/todo.cpp:1
+#: Application/res/todo.cpp:8
+msgid "Todo"
+msgstr "Tasques per fer"
+
+#: Application/DialogManager.cpp:1406
+msgid "New Todo..."
+msgstr "Nova Tasca Per Fer..."
+
+#: Application/DialogManager.cpp:1603
+msgid "Daily"
+msgstr "Diari"
+
+#: Application/DialogManager.cpp:1606
+msgid "Weekly"
+msgstr "Setmanal"
+
+#: Application/DialogManager.cpp:1609
+msgid "Monthly"
+msgstr "Mensual"
+
+#: Application/DialogManager.cpp:1612
+msgid "Yearly"
+msgstr "Anual"
+
+#: Application/DialogManager.cpp:1624
+msgid "Single"
+msgstr "Sols avui"
+
+#: Application/DialogManager.cpp:1676 Application/DialogSkinSettings.cpp:332
+#: Application/ItemListTodo.cpp:873 Application/res/todo.cpp:17
+#: Application/res/todo.cpp:18 Application/Resource.h:361
+msgid "None"
+msgstr "Cap"
+
+#: Application/DialogManager.cpp:1680 Application/ItemListTodo.cpp:877
+#: Application/res/todo.cpp:21
+msgid "High"
+msgstr "Alt"
+
+#: Application/DialogManager.cpp:1684 Application/ItemListTodo.cpp:881
+#: Application/res/todo.cpp:20
+msgid "Medium"
+msgstr "Mig"
+
+#: Application/DialogManager.cpp:1688 Application/ItemListTodo.cpp:885
+#: Application/res/todo.cpp:19
+msgid "Low"
+msgstr "Baix"
+
+#: Application/DialogManager.cpp:1711 Application/ItemListTodo.cpp:662
+#: Application/ItemListTodo.cpp:894 Application/ItemListTodo.cpp:1228
+#: Application/res/todo.cpp:26
+msgid "Completed"
+msgstr "Completat"
+
+#: Application/DialogManager.cpp:1718 Application/ItemListTodo.cpp:665
+#: Application/ItemListTodo.cpp:897 Application/ItemListTodo.cpp:1229
+#: Application/res/todo.cpp:27
+msgid "Cancelled"
+msgstr "Cancel·lat"
+
+#: Application/DialogManager.cpp:1733 Application/ItemListTodo.cpp:659
+#: Application/ItemListTodo.cpp:900 Application/ItemListTodo.cpp:1226
+#: Application/res/todo.cpp:25
+msgid "In Progress"
+msgstr "En Progrès"
+
+#: Application/DialogManager.cpp:1740 Application/ItemListTodo.cpp:669
+#: Application/ItemListTodo.cpp:903 Application/ItemListTodo.cpp:1213
+msgid "Needs Action"
+msgstr "Necessita d'una Acció"
+
+#: Application/DialogMessage.cpp:119
+msgid "Error"
+msgstr "Error"
+
+#: Application/DialogMessage.cpp:123
+msgid "Warning"
+msgstr "Advertència"
+
+#: Application/DialogMessage.cpp:127
+msgid "Question"
+msgstr "Pregunta"
+
+#: Application/DialogMessage.cpp:131
+msgid "Information"
+msgstr "Informació"
+
+#: Application/DialogMessage.cpp:188
+msgid "Do not show this again"
+msgstr "No mostrar novament"
+
+#: Application/DialogMessage.cpp:256 Application/DialogMessage.cpp:294
+msgid "&Yes"
+msgstr "&Si"
+
+#: Application/DialogMessage.cpp:257 Application/DialogMessage.cpp:298
+msgid "&No"
+msgstr "&No"
+
+#: Application/DialogOptions.cpp:84
+msgid "Options"
+msgstr "Opcions"
+
+#: Application/DialogOptions.cpp:134
+msgid "Skins"
+msgstr "Aparença"
+
+#: Application/DialogOptions.cpp:137 Application/res/options.cpp:23
+msgid "Hotkeys"
+msgstr "Tecles ràpides"
+
+#: Application/DialogOptions.cpp:140
+msgid "Advanced"
+msgstr "Avançat"
+
+#: Application/DialogOptions.cpp:162
+msgid "Reset"
+msgstr "Resetear"
+
+#: Application/DialogOptions.cpp:345
+msgid "Get more languages..."
+msgstr "Aconsegueix més idiomes..."
+
+#: Application/DialogOptions.cpp:566
+msgid "Get more skins..."
+msgstr "Aconsegueix més aparences..."
+
+#: Application/DialogOptions.cpp:662 Application/DialogOptions.cpp:910
+#: Application/DialogOptions.cpp:1004
+msgid "TrayIcon"
+msgstr "Icone de la safata de sistema"
+
+#: Application/DialogOptions.cpp:770
+msgid "Author"
+msgstr "Autor"
+
+#: Application/DialogOptions.cpp:785
+msgid "Homepage"
+msgstr "Lloc Web"
+
+#: Application/DialogOptions.cpp:792
+msgid "Addons"
+msgstr "Complements"
+
+#: Application/DialogOptions.cpp:816
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr ""
+"Aquesta és una aparença de Rainlendar antiga. I potser no admet algunes de "
+"les noves característiques."
+
+#: Application/DialogOptions.cpp:861 Application/res/options.cpp:33
+msgid "Advanced >>>"
+msgstr "Avançat >>>"
+
+#: Application/DialogOptions.cpp:865
+msgid "<<< Simple"
+msgstr "<<< Simple"
+
+#: Application/DialogOptions.cpp:963
+msgid "Open containing folder"
+msgstr "Obrir carpeta contenidora"
+
+#: Application/DialogOptions.cpp:964 Application/HotkeyControl.cpp:180
+#: Application/ItemCalendar.cpp:516 Application/ItemListAlarm.cpp:441
+#: Application/ItemListAlarm.cpp:449 Application/res/event.cpp:45
+#: Application/res/event.cpp:46 Application/res/manager.cpp:12
+#: Application/res/todo.cpp:69 Application/res/todo.cpp:70
+msgid "Delete"
+msgstr "Esborrar"
+
+#: Application/DialogOptions.cpp:1105
+msgid "Custom categories are not supported."
+msgstr "Categories personalitzades no suportades."
+
+#: Application/DialogOptions.cpp:1105
+#, c-format
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr ""
+"L'aparença \"%s\"  no suporta categories personalitzades d'aparences de "
+"manera que no és possible editar-la."
+
+#: Application/DialogOptions.cpp:1553
+msgid "Hotkey"
+msgstr "Tecla ràpida"
+
+#: Application/DialogOptions.cpp:1554
+msgid "Function"
+msgstr "Funció"
+
+#: Application/DialogOptions.cpp:1644 Application/res/manager.cpp:18
+msgid "Search:"
+msgstr "Cerca"
+
+#: Application/DialogOptions.cpp:1676
+msgid "Do you want to reset all settings?"
+msgstr "Voleu reiniciar tots els paràmetres de configuració?"
+
+#: Application/DialogOptions.cpp:1677
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"Això reiniciarà tots els paràmetres als valors per defecte. Els valors per "
+"defecte s'apliquen immediatament. Vols continuar?"
+
+#: Application/DialogOptions.cpp:1754
+msgid "Common"
+msgstr "Comú"
+
+#: Application/DialogOptions.cpp:1755 Application/DialogOptions.cpp:2099
+msgid "Enabled"
+msgstr "Habilitat"
+
+#: Application/DialogOptions.cpp:1756 Application/DialogOptions.cpp:2103
+msgid "Read only"
+msgstr "Només de lectura"
+
+#: Application/DialogOptions.cpp:1757 Application/DialogOptions.cpp:2107
+msgid "Ignore alarms"
+msgstr "Ignora les alarmes"
+
+#: Application/DialogOptions.cpp:1769 Application/DialogOptions.cpp:2111
+msgid "Visual category"
+msgstr "Categoria Visual"
+
+#: Application/DialogOptions.cpp:1771 Application/DialogOptions.cpp:2123
+msgid "Time offset (mins)"
+msgstr "Desplaçament de l'hora (minuts)"
+
+#: Application/DialogOptions.cpp:1959
+#, c-format
+msgid "Copy of %s"
+msgstr "Copiar de %s"
+
+#: Application/DialogOptions.cpp:1963
+msgid "Please enter a name for the calendar."
+msgstr "Si us plau escull un nom pel calendari."
+
+#: Application/DialogOptions.cpp:1968 Application/DialogOptions.cpp:1973
+msgid "Unable to create the calendar!"
+msgstr "No s'ha pogut crear el calendari!"
+
+#: Application/DialogOptions.cpp:1968
+msgid "You must give a name for the calendar."
+msgstr "Cal que li donis un nom al calendari."
+
+#: Application/DialogOptions.cpp:1991
+#, c-format
+msgid "A calendar called \"%s\" already exists."
+msgstr "Ja existeix un calendari anomenat \"%s\"."
+
+#: Application/DialogOptions.cpp:1992
+msgid "Choose another name."
+msgstr "Escull altre nom."
+
+#: Application/DialogOptions.cpp:2508
+msgid "Do you want to delete the skin?"
+msgstr "Voleu esborrar l'aparença?"
+
+#: Application/DialogOptions.cpp:2509
+#, c-format
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"Si selecciones 'sí' el tema \"%s\"\n"
+"serà eliminat permanentment."
+
+#: Application/DialogOptions.cpp:2515
+msgid "Delete failed!"
+msgstr "Eliminació fallida!"
+
+#: Application/DialogOptions.cpp:2516
+msgid "Unable to delete the skin."
+msgstr "No s'ha pogut eliminar l'aparença."
+
+#: Application/DialogPrint.cpp:32
+msgid "Print"
+msgstr "Imprimeix"
+
+#: Application/DialogPrint.cpp:68
+msgid "Print items"
+msgstr "Imprimeix elements"
+
+#: Application/DialogPrint.cpp:344
+msgid "Location"
+msgstr "Localització"
+
+#: Application/DialogPrint.cpp:372 Application/HotkeyControl.cpp:186
+msgid "End"
+msgstr "Fi"
+
+#: Application/DialogPrint.cpp:397 Application/WindowTooltip.cpp:268
+msgid "Url"
+msgstr "Url"
+
+#: Application/DialogSkinSettings.cpp:52 Application/res/options.cpp:22
+msgid "Settings"
+msgstr "Paràmetres"
+
+#: Application/DialogSkinSettings.cpp:75
+msgid "Variables"
+msgstr "Variables"
+
+#: Application/DialogSkinSettings.cpp:83
+msgid "Window settings"
+msgstr "Configuració de Finestra"
+
+#: Application/DialogSkinSettings.cpp:88
+msgid "Settings can be shown only for a single window."
+msgstr "La configuració només es pot mostrar per a una sola finestra."
+
+#: Application/DialogSkinSettings.cpp:92
+msgid "No settings available."
+msgstr "No hi ha configuracions disponibles."
+
+#: Application/DialogSkinSettings.cpp:137
+msgid "Global variables"
+msgstr "Variables globals"
+
+#: Application/DialogSkinSettings.cpp:197
+#: Application/DialogSkinSettings.cpp:429
+msgid "Visible"
+msgstr "Visible"
+
+#: Application/DialogSkinSettings.cpp:199
+#: Application/DialogSkinSettings.cpp:430
+msgid "Grow upwards"
+msgstr "Creixer cap amunt"
+
+#: Application/DialogSkinSettings.cpp:202
+#: Application/DialogSkinSettings.cpp:432
+msgid "Scale"
+msgstr "Escala"
+
+#: Application/DialogSkinSettings.cpp:206
+msgid "Filters"
+msgstr "Filtres"
+
+#: Application/DialogSkinSettings.cpp:212
+#: Application/DialogSkinSettings.cpp:483
+msgid "Included calendars"
+msgstr "Calendaris inclosos"
+
+#: Application/DialogSkinSettings.cpp:213
+#: Application/DialogSkinSettings.cpp:490
+msgid "Excluded calendars"
+msgstr "Calendaris exclosos"
+
+#: Application/DialogSkinSettings.cpp:236
+#: Application/DialogSkinSettings.cpp:497
+msgid "Included categories"
+msgstr "Categories incloses"
+
+#: Application/DialogSkinSettings.cpp:239
+#: Application/DialogSkinSettings.cpp:512
+msgid "Excluded categories"
+msgstr "Categories excloses"
+
+#: Application/DialogSkinSettings.cpp:245
+msgid "Task list"
+msgstr "Llista de tasques"
+
+#: Application/DialogSkinSettings.cpp:248 Application/ItemListTodo.cpp:1096
+#: Application/ItemListTodo.cpp:1107
+msgid "Alphabetically"
+msgstr "Alfabèticament"
+
+#: Application/DialogSkinSettings.cpp:249 Application/ItemListTodo.cpp:1097
+#: Application/ItemListTodo.cpp:1108
+msgid "By Category"
+msgstr "Per Categoria"
+
+#: Application/DialogSkinSettings.cpp:250 Application/ItemListTodo.cpp:1098
+#: Application/ItemListTodo.cpp:1109
+msgid "By Due Date"
+msgstr "Per Data de Venciment"
+
+#: Application/DialogSkinSettings.cpp:251 Application/ItemListTodo.cpp:1099
+#: Application/ItemListTodo.cpp:1110
+msgid "By Start Date"
+msgstr "Per Data d'Inici"
+
+#: Application/DialogSkinSettings.cpp:252 Application/ItemListTodo.cpp:1100
+#: Application/ItemListTodo.cpp:1111
+msgid "By Status"
+msgstr "Per Estat"
+
+#: Application/DialogSkinSettings.cpp:253 Application/ItemListTodo.cpp:1101
+#: Application/ItemListTodo.cpp:1112
+msgid "By Priority"
+msgstr "Per Prioritat"
+
+#: Application/DialogSkinSettings.cpp:254 Application/ItemListTodo.cpp:1102
+#: Application/ItemListTodo.cpp:1113
+msgid "By Location"
+msgstr "Per Localització"
+
+#: Application/DialogSkinSettings.cpp:255 Application/ItemListTodo.cpp:1103
+#: Application/ItemListTodo.cpp:1114
+msgid "By Calendar"
+msgstr "Per Calendari"
+
+#: Application/DialogSkinSettings.cpp:256 Application/ItemListTodo.cpp:1104
+#: Application/ItemListTodo.cpp:1115
+msgid "Custom"
+msgstr "Personalitzat"
+
+#: Application/DialogSkinSettings.cpp:258
+#: Application/DialogSkinSettings.cpp:437 Application/ItemListTodo.cpp:1144
+msgid "Primary sort order"
+msgstr "Ordre primària"
+
+#: Application/DialogSkinSettings.cpp:259
+#: Application/DialogSkinSettings.cpp:438 Application/ItemListTodo.cpp:1145
+msgid "Secondary sort order"
+msgstr "Ordre secundària"
+
+#: Application/DialogSkinSettings.cpp:261
+#: Application/DialogSkinSettings.cpp:439 Application/ItemListTodo.cpp:1183
+msgid "Hide completed tasks"
+msgstr "Amaga les tasques completades"
+
+#: Application/DialogSkinSettings.cpp:262
+#: Application/DialogSkinSettings.cpp:440 Application/ItemListTodo.cpp:1188
+msgid "Hide canceled tasks"
+msgstr "Amaga tasques cancel·lades"
+
+#: Application/DialogSkinSettings.cpp:263
+#: Application/DialogSkinSettings.cpp:441 Application/ItemListTodo.cpp:1193
+msgid "Hide upcoming tasks"
+msgstr "Amaga properes tasques"
+
+#: Application/DialogSkinSettings.cpp:268
+msgid "Window variables"
+msgstr "Variables de Finestra"
+
+#: Application/DialogSkinSettings.cpp:326
+msgid "Operations"
+msgstr "Operacions"
+
+#: Application/DialogSkinSettings.cpp:375
+#: Application/DialogSkinSettings.cpp:533
+msgid "Left click"
+msgstr "Click"
+
+#: Application/DialogSkinSettings.cpp:378
+#: Application/DialogSkinSettings.cpp:543
+msgid "Right click"
+msgstr "Click de la dreta"
+
+#: Application/DialogSkinSettings.cpp:381
+#: Application/DialogSkinSettings.cpp:553
+msgid "Double left click"
+msgstr "Doble click amb l'esquerra"
+
+#: Application/DialogSkinSettings.cpp:384
+#: Application/DialogSkinSettings.cpp:563
+msgid "Double right click"
+msgstr "Doble click amb la dreta"
+
+#: Application/DropTarget.cpp:81
+msgid "Upgrade to Pro version before installing the license."
+msgstr "Actualitzeu a la versió Pro abans d'instal·lar la llicència."
+
+#: Application/DropTarget.cpp:82
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"Encara està utilitzant la versió Lite que no conté totes les "
+"característiques Pro. Ha d'anar a la pàgina de descàrrega de Rainlendar i "
+"obtenir la versió Pro."
+
+#: Application/DropTarget.cpp:85
+msgid "&Get Pro"
+msgstr "&Obtenir Pro"
+
+#: Application/DropTarget.cpp:86
+msgid "&Ignore"
+msgstr "&Ignorar"
+
+#: Application/DropTarget.cpp:105
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"Si has descarregat un fitxer .r2skin o .rslang i el teu\n"
+"navegador ha canviat l'extensió a .zip pots renombrar-lo\n"
+"amb el nom que tenia abans i tornar-lo a importar."
+
+#: Application/DropTarget.cpp:106
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Els fitxers zip no es poden importar a Rainlendar."
+
+#: Application/DropTarget.cpp:133
+#, c-format
+msgid "Unknown file \"%s\"."
+msgstr "Fitxer desconegut \"%s\"."
+
+#: Application/DropTarget.cpp:134
+msgid "The file cannot be imported into Rainlendar."
+msgstr "El fitxer no es pot importar amb Rainlendar"
+
+#: Application/DropTarget.cpp:141
+msgid "Installation failed!"
+msgstr "La instal·lació ha fallat!"
+
+#: Application/DropTarget.cpp:142
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr ""
+"No s'ha pogut copiar el fitxer. L'origen és el mateix que la destinació."
+
+#: Application/DropTarget.cpp:163
+#, c-format
+msgid "Unable to install the file \"%s\"."
+msgstr "No s'ha pogut instal·lar el fitxer \"%s\"."
+
+#: Application/DropTarget.cpp:164 Application/Util.cpp:3433
+msgid "The folder does not have write permissions."
+msgstr "La carpeta no té permisos d'escriptura"
+
+#: Application/DropTarget.cpp:230
+#, c-format
+msgid "The skin %s doesn't exist."
+msgstr "L'aparença %s no existeix."
+
+#: Application/DropTarget.cpp:231
+msgid "Unable to merge the addon."
+msgstr "No s'ha pogut afegir l'accessori."
+
+#: Application/DropTarget.cpp:263
+#, c-format
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"El fitxer \"%s\" ja existeix.\n"
+"El vols substituir?"
+
+#: Application/DropTarget.cpp:291
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "El fitxer sel·leccionat ja existeix. El vols sobre-escriure?"
+
+#: Application/DropTarget.cpp:333
+msgid "Unable to install the skin!"
+msgstr "No s'ha pogut instal·lar l'aparença."
+
+#: Application/DropTarget.cpp:334
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"El tema no conté el fitxer \"skin.xml\". Estàs segur que aquest és un tema "
+"en format xml de Rainlendar?"
+
+#: Application/DropTarget.cpp:356
+msgid "The installation was successful!"
+msgstr "S'ha instal·lat amb èxit!"
+
+#: Application/DropTarget.cpp:357
+#, c-format
+msgid "The file \"%s\" was installed successfully.."
+msgstr "El fitxer \"%s\" s'ha instal·lat amb èxit!"
+
+#: Application/DropTarget.cpp:359
+msgid "Please refresh (or restart) Rainlendar to see the changes."
+msgstr "Si us plau refresca (o reinicia) Rainlendar per a veure els canvis."
+
+#: Application/DropTarget.cpp:364
+msgid "The installation failed!"
+msgstr "La instal·lació ha fallat!"
+
+#: Application/DropTarget.cpp:365
+#, c-format
+msgid "The installation of the file \"%s\" failed!"
+msgstr "La instal·lació del fitxer \"%s\" ha fallat!"
+
+#: Application/DropTarget.cpp:409
+msgid "Select the calendars for the imported items:"
+msgstr "Escull els calendaris pels elements importats:"
+
+#: Application/DropTarget.cpp:425
+msgid "There are no calendars available that are able to store the item."
+msgstr ""
+"No hi ha calendaris disponibles on es puguin enmagatzemar els elements."
+
+#: Application/DropTarget.cpp:443
+#, c-format
+msgid "Imported %i items successfully."
+msgstr "S'han importat %i elements correctament."
+
+#: Application/DropTarget.cpp:455
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Cal que seleccionis al menys un calendari per les notes importades"
+
+#: Application/DropTarget.cpp:547
+#, c-format
+msgid ""
+"This skin addon is for version %s of the skin.\n"
+"The installed version is %s."
+msgstr ""
+"El complement de l'aparença és per la versió %s.\n"
+"La versió instal·lada és %s."
+
+#: Application/DropTarget.cpp:563
+#, c-format
+msgid "Failed to install \"%s\"."
+msgstr "No s'ha pogut instal·lar el \"%s\"."
+
+#: Application/DropTarget.cpp:564
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"El complement ja s'ha aplicat a l'aparença.\n"
+"Només has d'aplicar-lo una vegada."
+
+#: Application/DropTarget.cpp:778
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Unable to create a temporary folder where to merge the addon."
+
+#: Application/HotkeyControl.cpp:104
+msgid "Win"
+msgstr "Win"
+
+#: Application/HotkeyControl.cpp:110
+msgid "Control"
+msgstr "Control"
+
+#: Application/HotkeyControl.cpp:116
+msgid "Alt"
+msgstr "Alt"
+
+#: Application/HotkeyControl.cpp:122
+msgid "Shift"
+msgstr "Shift"
+
+#: Application/HotkeyControl.cpp:170
+msgid "Back"
+msgstr "Enrera"
+
+#: Application/HotkeyControl.cpp:172
+msgid "Tab"
+msgstr "Tab"
+
+#: Application/HotkeyControl.cpp:174
+msgid "Return"
+msgstr "Torna"
+
+#: Application/HotkeyControl.cpp:176
+msgid "Esc"
+msgstr "Esc"
+
+#: Application/HotkeyControl.cpp:178
+msgid "Space"
+msgstr "Espai"
+
+#: Application/HotkeyControl.cpp:182
+msgid "Page Up"
+msgstr "Puja Pàgina"
+
+#: Application/HotkeyControl.cpp:184
+msgid "Page Down"
+msgstr "Baixa Pàgina"
+
+#: Application/HotkeyControl.cpp:198
+msgid "Insert"
+msgstr "Inserta"
+
+#: Application/HotkeyControl.cpp:232
+msgid "NumLock"
+msgstr "NumLock"
+
+#: Application/HotkeyControl.cpp:234
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+#: Application/ItemCalendar.cpp:502
+#, c-format
+msgid "Edit \"%s\""
+msgstr "Edita \"%s\""
+
+#: Application/ItemCalendar.cpp:511
+msgid "Delete all"
+msgstr "Esborrar tot"
+
+#: Application/ItemCalendar.cpp:518
+msgid "Events"
+msgstr "Esdeveniments"
+
+#: Application/ItemList.cpp:609
+msgid "Today"
+msgstr "Avui"
+
+#: Application/ItemList.cpp:613
+msgid "Tomorrow"
+msgstr "Demà"
+
+#: Application/ItemList.cpp:617
+msgid "Yesterday"
+msgstr "Ahir"
+
+# The %1 will be replaced with the day (e.g. Last Monday). This text is shown in the event list.
+#: Application/ItemList.cpp:656 Application/ItemList.cpp:692
+msgid "Last %1"
+msgstr "%1 passat"
+
+#: Application/ItemList.cpp:663 Application/ItemList.cpp:720
+msgid "%1 next week"
+msgstr "%1 de la setmana que ve"
+
+#: Application/ItemList.cpp:668 Application/ItemList.cpp:700
+msgid "%1 last week"
+msgstr "%1 de la setmana passada"
+
+#: Application/ItemList.cpp:673 Application/ItemList.cpp:706
+msgid "%1 %2 weeks ago"
+msgstr "%1 de fa %2 setmanes"
+
+#: Application/ItemList.cpp:680 Application/ItemList.cpp:725
+msgid "%1 in %2 weeks"
+msgstr "%1 d'aqui %2 setmanes"
+
+#: Application/ItemListAlarm.cpp:218
+#, c-format
+msgid " (Due in %s)"
+msgstr " (Dins de %s)"
+
+#: Application/ItemListAlarm.cpp:224
+#, c-format
+msgid " (Overdue %s)"
+msgstr "(Passat a %s)"
+
+#: Application/ItemListAlarm.cpp:238 Application/ItemListAlarm.cpp:273
+#: Application/ItemListAlarm.cpp:409
+msgid "day"
+msgstr "dia"
+
+#: Application/ItemListAlarm.cpp:238 Application/ItemListAlarm.cpp:273
+#: Application/ItemListAlarm.cpp:409
+msgid "days"
+msgstr "dies"
+
+#: Application/ItemListAlarm.cpp:242 Application/ItemListAlarm.cpp:417
+msgid "hour"
+msgstr "hora"
+
+#: Application/ItemListAlarm.cpp:242 Application/ItemListAlarm.cpp:417
+msgid "hours"
+msgstr "hores"
+
+#: Application/ItemListAlarm.cpp:246 Application/ItemListAlarm.cpp:425
+msgid "minute"
+msgstr "minut"
+
+#: Application/ItemListAlarm.cpp:246 Application/ItemListAlarm.cpp:425
+msgid "minutes"
+msgstr "minuts"
+
+#: Application/ItemListAlarm.cpp:255
+msgid " (Due now)"
+msgstr " (Venciment ara)"
+
+#: Application/ItemListAlarm.cpp:396 Application/Resource.h:419
+msgid "Dismiss"
+msgstr "Descarta"
+
+#: Application/ItemListAlarm.cpp:430 Application/Resource.h:418
+msgid "Snooze"
+msgstr "Posposa"
+
+#: Application/ItemListAlarm.cpp:439 Application/ItemListAlarm.cpp:447
+msgid "Edit..."
+msgstr "Edita..."
+
+#: Application/ItemListEvent.cpp:467
+#, c-format
+msgid " (%i days)"
+msgstr " (%i dies)"
+
+#: Application/ItemListEvent.cpp:574 Application/ItemScheduleEvent.cpp:179
+msgid "Edit event"
+msgstr "Edita esdeveniment"
+
+#: Application/ItemListEvent.cpp:575 Application/ItemScheduleEvent.cpp:180
+msgid "Delete event"
+msgstr "Esborra esdeveniment"
+
+#: Application/ItemListEvent.cpp:584
+msgid "Event list"
+msgstr "Esdeveniments"
+
+#: Application/ItemListTodo.cpp:157
+#, c-format
+msgid "[Due %x]"
+msgstr "[Venciment %x]"
+
+#: Application/ItemListTodo.cpp:620
+msgid "No location"
+msgstr "Sense localització"
+
+#: Application/ItemListTodo.cpp:628
+msgid "No category"
+msgstr "Sense Categoria"
+
+#: Application/ItemListTodo.cpp:645
+msgid "No due date"
+msgstr "Sense data de venciment"
+
+#: Application/ItemListTodo.cpp:649
+msgid "No start date"
+msgstr "Sense data d'inici"
+
+#: Application/ItemListTodo.cpp:678
+msgid "High Priority"
+msgstr "Prioritat Alta"
+
+#: Application/ItemListTodo.cpp:681
+msgid "Medium Priority"
+msgstr "Prioritat Mitja"
+
+#: Application/ItemListTodo.cpp:684
+msgid "Low Priority"
+msgstr "Prioritat Baixa"
+
+#: Application/ItemListTodo.cpp:688
+msgid "No Priority"
+msgstr "Sense Prioritat"
+
+#: Application/ItemListTodo.cpp:1172 Application/ItemScheduleEvent.cpp:167
+msgid "Edit task"
+msgstr "Edita tasca"
+
+#: Application/ItemListTodo.cpp:1173 Application/ItemScheduleEvent.cpp:168
+msgid "Delete task"
+msgstr "Esborra tasca"
+
+#: Application/ItemListTodo.cpp:1199
+msgid "Todo list"
+msgstr "Llista de tasques per fer"
+
+#: Application/ItemListTooltip.cpp:65
+msgid "No events today."
+msgstr "Avui no hi ha esdeveniments."
+
+#: Application/ItemListTooltip.cpp:87
+msgid "Today's events:"
+msgstr "Esdeveniments per avui"
+
+#: Application/ItemTime.cpp:116 Application/SkinXML.cpp:381
+msgid "Local"
+msgstr "Local"
+
+#: Application/PluginManager.cpp:162
+msgid "Invalid plugins found!"
+msgstr "S'han trobat 'plugins' invàlids"
+
+#: Application/PluginManager.cpp:163
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"Els següents fitxers a la carpeta de 'plugins' de\n"
+"Rainlendar no són valids i han de ser esborrats:\n"
+
+#: Application/PluginManager.cpp:172
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"Assegura't de que tots els 'plugins' siguin de la mateixa versió"
+
+#: Application/Rainlendar.cpp:169
+msgid "allow multiple instances"
+msgstr "permet vàries execucions del calendari"
+
+#: Application/Rainlendar.cpp:170
+msgid "install a skin or a language"
+msgstr "instal·la una aparença o idioma"
+
+#: Application/Rainlendar.cpp:171
+msgid "import the given file"
+msgstr "importa el fitxer especificat"
+
+#: Application/Rainlendar.cpp:172
+msgid "path where the configuration file will be stored"
+msgstr "camí on es desarà el fitxer de configuració"
+
+#: Application/Rainlendar.cpp:173
+msgid "execute the given function in a script"
+msgstr "executar la funció en un 'script'"
+
+#: Application/Rainlendar.cpp:174
+msgid "path where the log file will be stored"
+msgstr "camí on es desarà el fitxer de registre"
+
+#: Application/Rainlendar.cpp:175
+msgid "path where the backups will be stored"
+msgstr "camí on es desaran les còpies de seguretat"
+
+#: Application/Rainlendar.cpp:176
+msgid "add event or task to the calendar"
+msgstr "Afegeix esdeveniment o tasca al calendari"
+
+#: Application/Rainlendar.cpp:177
+msgid "enable verbose logging"
+msgstr "activa el registre verbalitzat"
+
+#: Application/Rainlendar.cpp:178
+msgid "enable debug logging"
+msgstr "activa el registre de depuració"
+
+#: Application/Rainlendar.cpp:179
+msgid "don't show the messagebox after importing and installing files"
+msgstr "No mostrar els missatges després d'importar i instal·lar fitxers"
+
+#: Application/Rainlendar.cpp:473
+msgid "Do you want to start another instance?"
+msgstr "Vols iniciar una altra instància?"
+
+#: Application/Rainlendar.cpp:474
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"Sembla que Rainlendar ja està funcionant. Pots començar una altra instància "
+"fent click a 'Sí'."
+
+#: Application/Rainlendar.cpp:477
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"Si no és el cas i aquesta pregunta apareix cada vegada que obres Rainlendar, "
+"si us plau, esborra aquest fitxer:\n"
+
+#: Application/Rainlendar.cpp:498
+#, c-format
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Incapaç de crear el fitxer de configuració:\n"
+"\n"
+"%s\n"
+"\n"
+"Assegura't que la carpeta té permisos d'escriptura."
+
+#: Application/Rainlendar.cpp:530
+#, c-format
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"El fitxer de configuració no és editable:\n"
+"\n"
+"%s\n"
+"\n"
+"Assegura't de que té els permisos adhients:"
+
+#: Application/Rainlendar.cpp:532
+msgid "You won't be able to store any settings permanently."
+msgstr "No serà possible enmagatzemar la configuració permanentment"
+
+#: Application/Rainlendar.cpp:599
+#, c-format
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"No s'han pogut llegir la informació des del camí:\n"
+"%s"
+
+# Utilitzat a la configuració de Outlook calendar
+#: Application/Rainlendar.cpp:835
+msgid "Everything is hidden."
+msgstr "Tot està amagat"
+
+#: Application/Rainlendar.cpp:836
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"Pareix que totes les finestres i l'icona de la safata de sistema han segut "
+"amagades. Era aquest el teu propòsit?\n"
+"\n"
+"Clic 'Sí' si desitjes conservar tot amagat i no vols tornar a veure aquest "
+"diàlec de nou. Clic 'No' per a fer tot visible novament."
+
+#: Application/Rainlendar.cpp:1007 Application/Rainlendar.cpp:1068
+msgid "Startup error!"
+msgstr "Error al iniciar!"
+
+#: Application/Rainlendar.cpp:1008
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again?"
+msgstr ""
+"Rainlendar no ha pogut actualitzar correctament els paràmetres. Vols "
+"reiniciar tots els paràmetres i provar-ho un altre cop?"
+
+#: Application/Rainlendar.cpp:1011
+msgid "&Reset"
+msgstr "&Resetear"
+
+#: Application/Rainlendar.cpp:1012
+msgid "&Keep"
+msgstr "&Mantenir"
+
+#: Application/Rainlendar.cpp:1054
+#, c-format
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"No hi ha aparences al camí:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:1069
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"Rainlendar no ha pogut carregar l'aparença seleccionada. Vols fer servir "
+"l'aparença per defecte?"
+
+#: Application/Rainlendar.cpp:1082
+msgid "Unable to load the skin. Check the log for more details."
+msgstr ""
+"No s'ha pogut carregar l'aparença. Dóna una ullada a l'arxiu log per a més "
+"detalls."
+
+#: Application/Rainlendar.cpp:1106 Application/Resource.h:293
+msgid "Yes"
+msgstr "Sí"
+
+#: Application/Rainlendar.cpp:1106 Application/Resource.h:294
+msgid "No"
+msgstr "No"
+
+#: Application/Rainlendar.cpp:1394
+msgid ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+msgstr ""
+"Sembla que hi ha quelcom malament al fitxer de llicència.\n"
+"Si us plau assegura't de que la url de descàrrega és correcta i torna-ho a "
+"provar."
+
+#: Application/Rainlendar.cpp:1772
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"S'han trobat aquests fitxers antics de Rainlendar:\n"
+"\n"
+
+#: Application/Rainlendar.cpp:1779
+msgid "Do you want to import them?"
+msgstr "Els vols importar?"
+
+#: Application/Rainlendar.cpp:1801
+#, c-format
+msgid "Import failed with file: \"%s\""
+msgstr "Error en importar el fitxer: \"%s\""
+
+#: Application/Rainlendar.cpp:1917
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "Comprar Rainlendar2 Pro?"
+
+#: Application/Rainlendar.cpp:1918
+msgid ""
+"You've been using the unlicensed version of Rainlendar2 Pro for over a month "
+"now. Have you considered supporting the developer and purchasing a license?\n"
+"\n"
+"As a special one time offer you can purchase it now just for 5 EUR if you "
+"click the \"Buy Now\" link below."
+msgstr ""
+"Has estat utilitzant la versió sense llicència de Rainlendar2 Pro durant més "
+"d'un mes. Has considerat col·laborar amb el desenvolupador comprant una "
+"llicència?\n"
+"\n"
+"Com a oferta especial única pots adquirir-la ara, per 5 euros, si fas clic a "
+"l'enllaç de sota \"Comprar ara\"."
+
+#: Application/Rainlendar.cpp:1921
+msgid "&Buy Now"
+msgstr "&Comprar ara"
+
+#: Application/Rainlendar.cpp:1922
+msgid "&No Thanks"
+msgstr "&No, gràcies"
+
+#: Application/SkinIni.cpp:227
+msgid "The color of the text in calendar and in the lists."
+msgstr "Color del text al calendari i a les llistes."
+
+#: Application/SkinIni.cpp:234
+msgid "The color of the text in the tooltip."
+msgstr "Color del text als globus d'ajuda (o consells)."
+
+#: Application/SkinIni.cpp:342
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"Defineix el mes que mostra el calendari. Fes servir +1 pel proper mes, -1 "
+"per l'anterior o un valor de 0 a 11 per un mes específic de l'any en curs."
+
+#: Application/SkinIni.cpp:556
+msgid "Defines the width of the event list."
+msgstr "Defineix l'amplària de la llista de notes."
+
+#: Application/SkinIni.cpp:557
+msgid "Defines the width of the todo list."
+msgstr "Defineix l'amplària de la llista de tasques per fer."
+
+#: Application/SkinManager.cpp:98
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"No s'ha pogut trobar aparences actives.\n"
+"Prem ACCEPTAR per carregar la primera aparença disponible."
+
+#: Application/SkinManager.cpp:103
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"L'aparença no té cap finestra activa.\n"
+"Es faràn servir les finestres per defecte."
+
+#: Application/SkinManager.cpp:108
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"L'aparença no existeix.\n"
+"Prem ACCEPTAR per carregar la primera aparença disponible."
+
+#: Application/TrayIcon.cpp:580
+msgid "Synchronizing"
+msgstr "Sincronitzant"
+
+#: Application/TrayIcon.cpp:584
+msgid "Offline"
+msgstr "Desconnectat"
+
+#: Application/Util.cpp:1613
+msgid "Jan"
+msgstr "Gen"
+
+#: Application/Util.cpp:1615
+msgid "Feb"
+msgstr "Feb"
+
+#: Application/Util.cpp:1617
+msgid "Mar"
+msgstr "Març"
+
+#: Application/Util.cpp:1619
+msgid "Apr"
+msgstr "Abr"
+
+#: Application/Util.cpp:1623
+msgid "Jun"
+msgstr "Juny"
+
+#: Application/Util.cpp:1625
+msgid "Jul"
+msgstr "Jul"
+
+#: Application/Util.cpp:1627
+msgid "Aug"
+msgstr "Ago"
+
+#: Application/Util.cpp:1629
+msgid "Sep"
+msgstr "Sep"
+
+#: Application/Util.cpp:1631
+msgid "Oct"
+msgstr "Oct"
+
+#: Application/Util.cpp:1633
+msgid "Nov"
+msgstr "Nov"
+
+#: Application/Util.cpp:1635
+msgid "Dec"
+msgstr "Des"
+
+# This defines how the years are shown after the birthdays and anniversaries. The %1 will be replaced with the ordinal number (e.g. \"2nd\"). Alternatively you can also use %2 which will display just the number (e.g. \"2\").
+#: Application/Util.cpp:2568
+msgid " (%1)"
+msgstr "(%2 anys)"
+
+#: Application/Util.cpp:3017
+#, c-format
+msgid "%ith"
+msgstr "%iè"
+
+# These are the the exceptions to the ordinal numbers. The numeric value in the exceptions is checked with the ordinal number and if the last numbers match the exception format is used instead of the normal format. For example "11th" will match with 11, 111, 211, 311, etc. The "1st" will match with 1, 21, 31, ..., 101, 121, 131, etc. Note that "1st" will not be used with 11, 111, 211, etc. because the "11th" was checked and matched first.
+#: Application/Util.cpp:3018
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11è;12è;13è;1er;2on;3er"
+
+#: Application/Util.cpp:3247
+msgid "edit"
+msgstr "edita"
+
+#: Application/Util.cpp:3422
+msgid "Do you want to create the file?"
+msgstr "Vols crear el fitxer?"
+
+#: Application/Util.cpp:3423
+#, c-format
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr "El fitxer no existeix%s"
+
+#: Application/Util.cpp:3432
+#, c-format
+msgid "Unable to create the file \"%s\"."
+msgstr "No s'ha pogut crear el fitxer \"%s\"."
+
+#: Application/Util.cpp:3635
+msgid "This is a read only event."
+msgstr "Aquest es un esdeveniment només de lectura"
+
+#: Application/Util.cpp:3635
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "No és possible editar aquest event amb Rainlendar"
+
+#: Application/Util.cpp:3639
+msgid "This is a read only task."
+msgstr "Aquesta tasca és només de lectura"
+
+#: Application/Util.cpp:3639
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "No és possible editar aquesta tasca amb Rainlendar"
+
+#: Application/WizardCalendar.cpp:25 Application/WizardCalendar.cpp:30
+msgid "Create a new calendar"
+msgstr "Crea un calendari nou"
+
+#: Application/WizardPageCalendar.cpp:44
+msgid "Please select the type of the calendar."
+msgstr "Si us plau escull el tipus de calendari."
+
+#: Application/WizardPageCalendar.cpp:48
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr ""
+"El tipus de calendari defineix el format dels esdeveniments i on es guarden."
+
+#: Application/WizardPageCalendar.cpp:63
+msgid "Type"
+msgstr "Tipus"
+
+#: Application/WizardPageCalendar.cpp:71
+msgid "Go Pro"
+msgstr "Obtenir Pro"
+
+#: Application/WizardPageCalendar.cpp:73
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and "
+"Remember the Milk events and tasks directly from the desktop calendar."
+msgstr ""
+"Rainlendar Pro et permet accedir als esdeveniments i tasques d'Outlook, "
+"Google Calendar i Remember the Milk directament des del calendari "
+"d'escriptori."
+
+#: Application/WizardPageCalendar.cpp:75
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and Remember the "
+"Milk events and tasks directly from the desktop calendar."
+msgstr ""
+"Rainlendar Pro et permet accedir als esdeveniments i tasques d'Outlook, "
+"Google Calendar i Remember the Milk directament des del calendari "
+"d'escriptori."
+
+#: Application/WizardPageCalendar.cpp:80
+msgid "Buy license"
+msgstr "Comprar llicència"
+
+#: Application/WizardPageCalendar.cpp:106
+msgid "No calendar selected!"
+msgstr "Cap calendari seleccionat!"
+
+#: Application/WizardPageCalendar.cpp:107
+msgid "You need to select a calendar type."
+msgstr "Cal que escullis un tipus de calendari!"
+
+#: Application/WizardPageCalendar.cpp:197 Application/res/alarm.cpp:3
+msgid "Browse..."
+msgstr "Navega..."
+
+#: Application/WizardPageCalendar.cpp:278
+msgid "No urls allowed!"
+msgstr "No es permeten url!"
+
+#: Application/WizardPageCalendar.cpp:279
+msgid "Only local files can be defined as the file name."
+msgstr "Tant sols es poden definir fitxers locals com a nom del fitxer."
+
+#: Application/WizardPageCalendar.cpp:286
+msgid "No UNC paths allowed!"
+msgstr "No es permeten rutes UNC!"
+
+#: Application/WizardPageCalendar.cpp:287
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"No és possible fer servir camins UNC pel nom del fitxer. Cal que tracis el "
+"camí a la unitat de xarxa per a poder accedir a fitxers en un servidor."
+
+#: Application/WizardPageCalendar.cpp:294
+msgid "No filename defined!"
+msgstr "No s'ha definit un nom de fitxer!"
+
+#: Application/WizardPageCalendar.cpp:295
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"No pots deixar el nom de fitxer en blanc. Necessites definir un fitxer on "
+"els esdeveniments i les tasques seran emmagatzemades."
+
+#: Application/WizardPageCalendar.cpp:302
+msgid "The file name is missing."
+msgstr "Falta el nom del fitxer."
+
+#: Application/WizardPageCalendar.cpp:303
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"Si estàs creant un nou calendari pots introduir qualsevol cosa com el seu "
+"nom. Si no és així seleccioneu un fitxer iCalendar (*. ics) existent."
+
+#: Application/WizardPageCalendar.cpp:323
+msgid "The url is empty!"
+msgstr "La URL està buida!"
+
+#: Application/WizardPageCalendar.cpp:324
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"No pots deixar el camp de url en blanc. Necessites definir un fitxer on els "
+"esdeveniments i les tasques seran guardades."
+
+#: Application/WizardPageCalendar.cpp:331
+msgid "The protocol is missing!"
+msgstr "Falta el protocol!"
+
+#: Application/WizardPageCalendar.cpp:332
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr ""
+"Si us plau indiqueu també el protocol per a la url (per exemple \"http://\")."
+
+#: Application/WizardPageCalendar.cpp:339
+msgid "The file name is missing from the url!"
+msgstr "Falta el nom del fitxer a la url!"
+
+#: Application/WizardPageCalendar.cpp:340
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Si estàs creant un nou calendari pots introduir qualsevol cosa com el seu "
+"nom. Si no és així has de verificar que el servidor realment no defineix cap "
+"fitxer per a la url.\n"
+"\n"
+"Vols continuar?"
+
+#: Application/WizardPageCalendar.cpp:358
+msgid "Incorrect email!"
+msgstr "Email incorrecte!"
+
+#: Application/WizardPageCalendar.cpp:359
+msgid "You need to enter a full email address."
+msgstr "Necessites introduir un e-mail sencer."
+
+#: Application/WizardPageCalendar.cpp:468
+msgid "Please choose a name for the the calendar."
+msgstr "Si us plau escull un nom pel calendari"
+
+#: Application/WizardPageCalendar.cpp:476
+msgid "Name"
+msgstr "Nom"
+
+#: Application/WizardPageCalendar.cpp:562
+msgid "The calendar already exists!"
+msgstr "El calendari ja existeix!"
+
+#: Application/WizardPageCalendar.cpp:563
+msgid "Please choose some other name for the calendar."
+msgstr "Si us plau, escull qualsevol altre nom pel calendari."
+
+#: Application/WizardPageCalendar.cpp:571
+msgid "The calendar name is empty!"
+msgstr "El nom del calendari està buit!"
+
+#: Application/WizardPageCalendar.cpp:572
+msgid "You need to give some name for the calendar."
+msgstr "Cal que li donis un nom al calendari."
+
+#: Application/WizardPageCalendar.cpp:580
+msgid "Illegal character!"
+msgstr "Caràcter il·legal!"
+
+#: Application/res/about.cpp:2 Application/res/manager.cpp:8
+#: Application/res/manager.cpp:19 Application/res/print.cpp:11
+msgid "Close"
+msgstr "Tanca"
+
+#: Application/res/alarm.cpp:1
+msgid "Alarm sound"
+msgstr "So de l'alarma"
+
+#: Application/res/alarm.cpp:2
+msgid "Select the sound file for the alarm"
+msgstr "Escull el fitxer de so per a l'alarma"
+
+#: Application/res/event.cpp:3 Application/res/todo.cpp:3
+msgid "Save\tCtrl+S"
+msgstr "Desar\tCtrl+G"
+
+#: Application/res/event.cpp:4 Application/res/todo.cpp:4
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "Desar com nou\tMajús+Ctrl+G"
+
+#: Application/res/event.cpp:5 Application/res/todo.cpp:5
+msgid "Delete\tCtrl+Delete"
+msgstr "Esborrar\tCtrl+Delete"
+
+#: Application/res/event.cpp:6 Application/res/todo.cpp:6
+msgid "Close\tAlt-F4"
+msgstr "Tancar\tAlt-F4"
+
+#: Application/res/event.cpp:9 Application/res/todo.cpp:9
+msgid "Summary:"
+msgstr "Resum:"
+
+#: Application/res/event.cpp:10 Application/res/todo.cpp:10
+msgid "Location:"
+msgstr "Localització:"
+
+#: Application/res/event.cpp:11 Application/res/todo.cpp:11
+msgid "Private"
+msgstr "Privat"
+
+#: Application/res/event.cpp:12 Application/res/todo.cpp:12
+msgid "Url:"
+msgstr "Url:"
+
+#: Application/res/event.cpp:13 Application/res/todo.cpp:13
+msgid "Start time:"
+msgstr "Hora d'inici:"
+
+#: Application/res/event.cpp:14
+msgid "All day event"
+msgstr "Nota per a tot el dia"
+
+#: Application/res/event.cpp:15
+msgid "End time:"
+msgstr "Hora de finalització:"
+
+#: Application/res/event.cpp:16
+msgid "Mark time as busy"
+msgstr "Marcar temps com ocupat"
+
+#: Application/res/event.cpp:18 Application/res/event.cpp:19
+#: Application/res/todo.cpp:43
+msgid "Minutes"
+msgstr "Minuts"
+
+#: Application/res/event.cpp:20 Application/res/todo.cpp:44
+msgid "Hours"
+msgstr "Hores"
+
+#: Application/res/event.cpp:21 Application/res/event.cpp:28
+#: Application/res/todo.cpp:42 Application/res/todo.cpp:45
+#: Application/res/todo.cpp:52
+msgid "Days"
+msgstr "Dies"
+
+#: Application/res/event.cpp:22
+msgid "before the event starts."
+msgstr "Abans que la nota comenci"
+
+#: Application/res/event.cpp:23 Application/res/todo.cpp:47
+msgid "Calendar:"
+msgstr "Calendari:"
+
+#: Application/res/event.cpp:26 Application/res/todo.cpp:50
+msgid "Recurrence"
+msgstr "Recurrència"
+
+#: Application/res/event.cpp:27 Application/res/todo.cpp:51
+msgid "Repeat every"
+msgstr "Repeteix cada"
+
+#: Application/res/event.cpp:29 Application/res/todo.cpp:53
+msgid "Weeks"
+msgstr "Setmanes"
+
+#: Application/res/event.cpp:30 Application/res/todo.cpp:54
+msgid "Months"
+msgstr "Mesos"
+
+#: Application/res/event.cpp:31 Application/res/todo.cpp:55
+msgid "Years"
+msgstr "Anys"
+
+#: Application/res/event.cpp:32 Application/res/todo.cpp:56
+msgid "Mon"
+msgstr "DL."
+
+#: Application/res/event.cpp:33 Application/res/todo.cpp:57
+msgid "Tue"
+msgstr "DT."
+
+#: Application/res/event.cpp:34 Application/res/todo.cpp:58
+msgid "Wed"
+msgstr "DC."
+
+#: Application/res/event.cpp:35 Application/res/todo.cpp:59
+msgid "Thu"
+msgstr "DJ."
+
+#: Application/res/event.cpp:36 Application/res/todo.cpp:60
+msgid "Fri"
+msgstr "DV."
+
+#: Application/res/event.cpp:37 Application/res/todo.cpp:61
+msgid "Sat"
+msgstr "DS."
+
+#: Application/res/event.cpp:38 Application/res/todo.cpp:62
+msgid "Sun"
+msgstr "DG."
+
+#: Application/res/event.cpp:39 Application/res/todo.cpp:63
+msgid "Repeat"
+msgstr "Repetir"
+
+#: Application/res/event.cpp:40 Application/res/todo.cpp:64
+msgid "Forever"
+msgstr "Per sempre"
+
+#: Application/res/event.cpp:41 Application/res/todo.cpp:65
+msgid "Number of times"
+msgstr "Nombre de vegades"
+
+#: Application/res/event.cpp:42 Application/res/todo.cpp:66
+msgid "Until"
+msgstr "Fins"
+
+#: Application/res/event.cpp:43 Application/res/todo.cpp:67
+msgid "Exception dates"
+msgstr "Dates amb excepcions"
+
+#: Application/res/event.cpp:44 Application/res/options.cpp:27
+#: Application/res/todo.cpp:68
+msgid "Add"
+msgstr "Afegeix"
+
+#: Application/res/manager.cpp:3
+msgid "Import"
+msgstr "Importar"
+
+#: Application/res/manager.cpp:4
+msgid "Export"
+msgstr "Exportar"
+
+#: Application/res/manager.cpp:5 Application/res/print.cpp:9
+msgid "Print..."
+msgstr "Imprimeix..."
+
+#: Application/res/manager.cpp:6 Plugins/NetworkPlugin/NetworkHandler.cpp:229
+msgid "Backup"
+msgstr "Còpia de Seguretat"
+
+#: Application/res/manager.cpp:7
+msgid "Restore"
+msgstr "Restableix"
+
+#: Application/res/manager.cpp:10
+msgid "New"
+msgstr "Nou"
+
+#: Application/res/manager.cpp:11
+msgid "Edit"
+msgstr "Edita"
+
+#: Application/res/manager.cpp:13
+msgid "Copy to..."
+msgstr "Copiar a..."
+
+#: Application/res/manager.cpp:14
+msgid "Move to..."
+msgstr "Mou a..."
+
+#: Application/res/manager.cpp:15
+msgid "Set categories..."
+msgstr "Configurar categories..."
+
+#: Application/res/manager.cpp:16
+msgid "Show events"
+msgstr "Mostra notes"
+
+#: Application/res/manager.cpp:17
+msgid "Show todo items"
+msgstr "Mostra tasques per fer"
+
+#: Application/res/options.cpp:2
+msgid "Week's start day:"
+msgstr "Primer dia de la setmana:"
+
+#: Application/res/options.cpp:3
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr ""
+"Mostra les notes per avui a la safata de sistema quan s'inicïi Rainlendar"
+
+#: Application/res/options.cpp:4
+msgid "Add years to birthdays and anniversaries"
+msgstr "Afegeix l'any als aniversaris"
+
+#: Application/res/options.cpp:5
+msgid "Hide list windows if there are no items"
+msgstr "Amaga les finestres de llistes si no hi ha elements"
+
+#: Application/res/options.cpp:6
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Clicar a través (mantenir presionada la tecla shift per desactivar)"
+
+#: Application/res/options.cpp:7
+msgid "Lock windows in place"
+msgstr "Bloqueja la posició de les finestres"
+
+#: Application/res/options.cpp:8
+msgid "Enable on startup"
+msgstr "Activa a l'inici"
+
+#: Application/res/options.cpp:9
+msgid "Language:"
+msgstr "Idioma:"
+
+#: Application/res/options.cpp:10
+msgid "Position"
+msgstr "Posició"
+
+#: Application/res/options.cpp:11
+msgid "On Top"
+msgstr "A Dalt"
+
+#: Application/res/options.cpp:13
+msgid "On Bottom"
+msgstr "Al Fons"
+
+#: Application/res/options.cpp:14
+msgid "On Desktop"
+msgstr "A l'Escriptori"
+
+#: Application/res/options.cpp:15
+msgid "Opacity"
+msgstr "Opacitat"
+
+#: Application/res/options.cpp:16
+msgid "Normal:"
+msgstr "Normal:"
+
+#: Application/res/options.cpp:17
+msgid "Mouse over:"
+msgstr "Quan el ratolí passa per sobre:"
+
+#: Application/res/options.cpp:21
+msgid "Duplicate..."
+msgstr "Duplicar..."
+
+#: Application/res/options.cpp:24
+msgid "Action:"
+msgstr "Acció:"
+
+#: Application/res/options.cpp:25
+msgid "Hotkey:"
+msgstr "Tecla ràpida:"
+
+#: Application/res/options.cpp:26
+msgid "Set"
+msgstr "Definir"
+
+#: Application/res/options.cpp:29
+msgid "Available skins"
+msgstr "Aparences disponibles"
+
+#: Application/res/options.cpp:30
+msgid "Active skins"
+msgstr "Aparences actives"
+
+#: Application/res/options.cpp:31
+msgid "Categories..."
+msgstr "Categories..."
+
+#: Application/res/options.cpp:32
+msgid "Settings..."
+msgstr "Paràmetres de configuració"
+
+#: Application/res/options.cpp:34
+msgid "Details"
+msgstr "Detalls"
+
+#: Application/res/print.cpp:1
+msgid "All items"
+msgstr "Tots els elements"
+
+#: Application/res/print.cpp:2
+msgid "Selected items"
+msgstr "Elements escollits"
+
+#: Application/res/print.cpp:3
+msgid "Day range"
+msgstr "Abast Diari"
+
+#: Application/res/print.cpp:4
+msgid "Select days"
+msgstr "Escull dies"
+
+#: Application/res/print.cpp:7
+msgid "Add title"
+msgstr "Afegeix títol"
+
+#: Application/res/print.cpp:8
+msgid "Preview..."
+msgstr "Previsualitzar..."
+
+#: Application/res/print.cpp:10
+msgid "Page Setup..."
+msgstr "Configuració de Pagina..."
+
+#: Application/res/todo.cpp:14
+msgid "Due time:"
+msgstr "Hora de venciment"
+
+#: Application/res/todo.cpp:15
+msgid "Show in calendar"
+msgstr "Mostra al calendari"
+
+#: Application/res/todo.cpp:16
+msgid "Priority:"
+msgstr "Prioritat:"
+
+#: Application/res/todo.cpp:22
+msgid "Status:"
+msgstr "Estat:"
+
+#: Application/res/todo.cpp:23 Application/res/todo.cpp:24
+msgid "Not Started"
+msgstr "Sense Començar"
+
+#: Application/res/todo.cpp:28
+msgid "Progress:"
+msgstr "Progrès:"
+
+#: Application/res/todo.cpp:29 Application/res/todo.cpp:30
+msgid "0 %"
+msgstr "0 %"
+
+#: Application/res/todo.cpp:31
+msgid "10 %"
+msgstr "10 %"
+
+#: Application/res/todo.cpp:32
+msgid "20 %"
+msgstr "20 %"
+
+#: Application/res/todo.cpp:33
+msgid "30 %"
+msgstr "30 %"
+
+#: Application/res/todo.cpp:34
+msgid "40 %"
+msgstr "40 %"
+
+#: Application/res/todo.cpp:35
+msgid "50 %"
+msgstr "50 %"
+
+#: Application/res/todo.cpp:36
+msgid "60 %"
+msgstr "60 %"
+
+#: Application/res/todo.cpp:37
+msgid "70 %"
+msgstr "70 %"
+
+#: Application/res/todo.cpp:38
+msgid "80 %"
+msgstr "80 %"
+
+#: Application/res/todo.cpp:39
+msgid "90 %"
+msgstr "90 %"
+
+#: Application/res/todo.cpp:40
+msgid "100 %"
+msgstr "100 %"
+
+#: Application/res/todo.cpp:46
+msgid "before the task is due."
+msgstr "abans que venci la tasca"
+
+#: Plugins/Common/ThreadHelper.cpp:455
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr ""
+"Assegura't que la teva xarxa està funcionant i que el teu tallafocs no està "
+"bloquejant la connexió."
+
+#: Plugins/Common/ThreadHelper.cpp:466
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr ""
+"No s'ha pogut resoldre el proxy. Verifica que la configuració del proxy és "
+"correcta."
+
+#: Plugins/Common/ThreadHelper.cpp:467
+msgid "Unable to resolve the host."
+msgstr "No s'ha pogut resoldre el host."
+
+#: Plugins/Common/ThreadHelper.cpp:468
+msgid "Unable to connect to the server."
+msgstr "No s'ha pogut connectar al servidor."
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:196
+msgid "Calendar name"
+msgstr "Nom del calendari"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:200
+msgid "Email"
+msgstr "e-mail"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:204
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:215
+msgid "Password"
+msgstr "Contrassenya"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:214
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:225
+#: Plugins/OutlookPlugin/MapiHandler.cpp:507
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:194
+msgid "Poll frequency (mins)"
+msgstr "Freqüència de consulta (minuts)"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:218
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:233
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:198
+msgid "Suppress errors"
+msgstr "Errors d'eliminació"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:222
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:237
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:202
+msgid "Keep offline copy"
+msgstr "Mantenir una copia sense connexió"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:226
+msgid "Google Calendar alarms"
+msgstr "Alarmes del Calendari de Google"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:231
+msgid "Always use alert"
+msgstr "Utilitza alertes sempre"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:232
+msgid "Default Google methods"
+msgstr "Mètode per defecte de Google"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:233
+msgid "Default Google notifications"
+msgstr "Mètode per defecte de Google"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:281
+msgid ""
+"Choose the name of the calendar, email and password for your Google "
+"account.\n"
+"You can also leave the calendar field empty if you only have a one calendar."
+msgstr ""
+"Escull el nom del calendari, l'adreça de correu i el 'password' pel teu "
+"compte de Google.\n"
+"Pots deixar el camp del calendari buit si només tens un calendari."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:231
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Error de Google!\n"
+"No s'ha pogut autenticar amb Google.\n"
+"El servidor ha retornat: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:435
+#: Plugins/GooglePlugin/GoogleThread.cpp:1210
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Error de Google!\n"
+"No s'han pogut baixar els calendaris.\n"
+"El servidor ha retornat: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:516
+msgid ""
+"Google Error!\n"
+"Unable to parse the calendar url."
+msgstr ""
+"Error de Google!\n"
+"És impossible analitzar la url del calendari."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:542
+msgid ""
+"Google Error!\n"
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Error de Google!\n"
+"Sembla que has introduït una url com a nom del calendari.\n"
+"És necessari que utilitzis un dels noms de sota:\n"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:546
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Error de Google!\n"
+"És impossible trobar el calendari escollit (%s).\n"
+"\n"
+"Els calendaris disponibles són:\n"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:661
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to delete the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Error de Google!\n"
+"No s'han pogut esborrar l'esdeveniment.\n"
+"El servidor ha retornat: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:854
+msgid ""
+"Google Error!\n"
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"Error de Google!\n"
+"L'esdeveniment no es va poder pujar a Google Calendar a causa d'un "
+"conflicte. L'esdeveniment actualitzat serà recarregat des de Google Calendar."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:907
+#: Plugins/GooglePlugin/GoogleThread.cpp:1172
+msgid ""
+"Google Error!\n"
+"Unable to parse the events."
+msgstr ""
+"Error de Google!\n"
+"Impossible analitzar els esdeveniments."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:945
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to upload the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Error de Google!\n"
+"No s'han pogut penjar l'esdeveniment.\n"
+"El servidor ha retornat: (%i) %i %s."
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:748
+msgid "Filename"
+msgstr "Nom del fitxer"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:753
+msgid "Monitor changes"
+msgstr "Monitor de canvis"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:813
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"Escull un fitxer pel calendari.\n"
+"\n"
+"Pots escollir fitxer ics existents o escriure un nou camí, en aquest cas es "
+"crearà un nou fitxer."
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:207
+msgid "URL"
+msgstr "URL"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:211
+msgid "Username"
+msgstr "Nom d'Usuari"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:241
+msgid "Safe upload"
+msgstr "Pujada segura"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:245
+msgid "Authentication"
+msgstr "Autenticació"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:248
+msgid "Basic"
+msgstr "Bàsic"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:249
+msgid "Digest"
+msgstr "Gestionar"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:250
+msgid "GSS-Negotiate"
+msgstr "Negociació-GSS"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:251
+msgid "NTLM"
+msgstr "NTLM"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:297
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"Escull una URL, nom d'usuari i contrassenya pel calendari.\n"
+"\n"
+"La URL pot fer servir els protocols http, https o ftp. Els camps de nom "
+"d'usuari i contrassenya es poden deixar en blanc si no són necessaris."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:195
+#: Plugins/NetworkPlugin/NetworkThread.cpp:217
+#: Plugins/NetworkPlugin/NetworkThread.cpp:375
+#: Plugins/NetworkPlugin/NetworkThread.cpp:425
+msgid "Network Error!"
+msgstr "Error de la xarxa!"
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:197
+msgid "Unable to add the item to the online calendar."
+msgstr "No s'ha pogut afegir l'element al calendari en línia"
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:219
+msgid "Unable to remove the item from the online calendar."
+msgstr "No s'ha pogut eliminar l'element del calendari en línia."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:377
+#, c-format
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"Impossible analitzar el fitxer: %s\n"
+"El fitxer deu estar corrupte."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:427
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"El servidor retorna un resultat buit. Assegura't que la url del calendari "
+"apunta a un fitxer i no a una carpeta."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:459
+#, c-format
+msgid ""
+"Network Error!\n"
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Error de Xarxa!\n"
+"Error al descarregar les dades de l'adreça url:\n"
+"%s\n"
+"\n"
+"El servidor ha retornat: (%i) %i %s."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:843
+#, c-format
+msgid ""
+"Network Error!\n"
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Error de Xarxa!\n"
+"Error al carregar les dades a l'adreça url:\n"
+"%s\n"
+"\n"
+"El servidor ha retornat: (%i) %i %s."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:126
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"Error d'Outlook!\n"
+"No s'ha pogut inicialitzar la llibreria MAPI.\n"
+"\n"
+"Si has actualitzat Rainlendar o Outlook necessites recrear el calendari "
+"d'Outlook en les opcions de Rainlendar.\n"
+"\n"
+"Assegura't que estàs utilitzant les mateixes versions (32bit o 64bit) "
+"d'ambdues aplicacions."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:380
+#: Plugins/OutlookPlugin/MapiHandler.cpp:613
+#: Plugins/OutlookPlugin/MapiHandler.cpp:627
+msgid "Application"
+msgstr "Aplicació"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:394
+#: Plugins/OutlookPlugin/MapiHandler.cpp:634
+msgid "Profile"
+msgstr "Perfil"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:417
+#: Plugins/OutlookPlugin/MapiHandler.cpp:640
+msgid "MessageStore"
+msgstr "Contenidor de Missatges"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:440
+msgid "Folders"
+msgstr "Carpetes"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:447
+msgid "Default Folder"
+msgstr "Carpeta per defecte"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:492
+msgid "Use labels instead of categories"
+msgstr "Fés servir etiquetes en comptes de categories"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:497
+msgid "Show edit links"
+msgstr "Mostra els links d'edició"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:502
+msgid "Keep MAPI connection alive"
+msgstr "Mantenir la connexió MAPI activa"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:512
+msgid "Import limit"
+msgstr "Importar límit"
+
+# Used in the Outlook calendar settings
+#: Plugins/OutlookPlugin/MapiHandler.cpp:514
+msgid "Everything"
+msgstr "Tot"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:515
+msgid "Month"
+msgstr "Mes"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:516
+msgid "6 months"
+msgstr "6 mesos"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:517
+msgid "Year"
+msgstr "Any"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:518
+msgid "2 years"
+msgstr "2 anys"
+
+# Configuració de Outlook calendar.
+#: Plugins/OutlookPlugin/MapiHandler.cpp:522
+msgid "Read birthdays from contacts"
+msgstr "Llegir aniversari dels contactes"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:694
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Escull el contenidor d'Outlook que vulguis veure a Rainlendar"
+
+#: Plugins/OutlookPlugin/MapiItem.cpp:614
+#: Plugins/OutlookPlugin/MapiItem.cpp:628
+#, c-format
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][edita]]"
+
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:489
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:556
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:572
+msgid "Outlook error!"
+msgstr "Error de l'Outlook!"
+
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:491
+#, c-format
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "Actualitzant l'element que ha fallat. Codi d'error 0x%p"
+
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:558
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:574
+#, c-format
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "Incapaç d'esborrar l'element.  Codi d'error 0x%p"
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:75
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "No s'ha trobat la llista de tasques de rememberthemilk.com!"
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:77
+#, c-format
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "La llista \"%s\" no es va poder trobar. Les llistes disponibles són:"
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:82
+msgid "Please write the name exactly like it is in the above list."
+msgstr "Si us plau escriu el nom exactament com està en la llista de dalt."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:315
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:561
+msgid "Unable to parse the ID from the task."
+msgstr "No s'ha pogut processar la ID de la tasca."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:618
+msgid "Unable to create the task."
+msgstr "No s'ha pogut crear la tasca."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:624
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:671
+msgid "Unable to parse the timeline."
+msgstr "No s'ha pogut processar la línia de temps."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:865
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:875
+msgid "The service is temporarily unavailable."
+msgstr "El servei està temporalment no disponible."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1022
+msgid "Please log in to Remember The Milk."
+msgstr "Si us plau ingressa en rememberthemilk.com."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1024
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"Necessites autoritzar l'accés de Rainlendar al teu compte de rememberthemilk."
+"com. Si us plau ingressa a la web de rememberthemilk.com i dóna accés a "
+"Rainlendar al teu compte.\n"
+"\n"
+"El teu navegador predeterminat s'obrirà de manera automàtica quan pressions "
+"el botó ACCEPTAR."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1030
+msgid "Continue after authorization."
+msgstr "Continuar després de l'autorització."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1032
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr ""
+"Fes clic al botó ACCEPTAR per continuar després d'haver autoritzat a "
+"Rainlendar."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1066
+msgid "Unable to parse the output."
+msgstr "No s'ha pogut processar la sortida."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1141
+#, c-format
+msgid "Unknown response for call \"%s\"."
+msgstr "Resposta desconeguda per \"%s\"."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1157
+#, c-format
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"Error a la trucada \"%s\":\n"
+"%s"
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1173
+#, c-format
+msgid "Call to method \"%s\" failed."
+msgstr "Error a la trucada al mètode \"%s\"."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1183
+#: Plugins/RememberTheMilkPlugin/RTMThread.cpp:75
+msgid "Remember The Milk Error!"
+msgstr "Error de rememberthemilk.com!"
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1194
+#, c-format
+msgid "Server returned result: (%i) %i %s."
+msgstr "El servidor ha retornat: (%i) %i %s."
+
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:190
+msgid "List"
+msgstr "Llista"
+
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:259
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"Escull el nom de la llista de tasques des de rememberthemilk.com. Pots "
+"deixar el camp en blanc si vols obtenir totes les teves llistes."
+
+#: Plugins/RememberTheMilkPlugin/RTMThread.cpp:77
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"Falta el token d'autenticació. Necessites donar accés a Rainlendar al teu "
+"compte de rememberthemilk.com."
+
+#: Application/Resource.h:298
+msgid "Update"
+msgstr "Actualització"
+
+#: Application/Resource.h:300
+msgid "Make a selection:"
+msgstr "Fes una selecció"
+
+#: Application/Resource.h:302
+msgid "Hide Windows"
+msgstr "Amaga Finestres"
+
+#: Application/Resource.h:303
+msgid "Show Windows"
+msgstr "Mostra Finestres"
+
+#: Application/Resource.h:304
+msgid "Toggle Windows"
+msgstr "Commuta Finestres"
+
+#: Application/Resource.h:309
+msgid "Create New Task"
+msgstr "Crea una Tasca Nova"
+
+#: Application/Resource.h:310
+msgid "Create New Event"
+msgstr "Crea un Esdeveniment Nou"
+
+#: Application/Resource.h:311
+msgid "Create new event or task"
+msgstr "Crea un nou esdeveniment o tasca"
+
+#: Application/Resource.h:312
+msgid "Quit Application"
+msgstr "Tancar Aplicació"
+
+#: Application/Resource.h:316
+msgid "Business"
+msgstr "Negocis"
+
+#: Application/Resource.h:317
+msgid "Calls"
+msgstr "Trucades"
+
+#: Application/Resource.h:318
+msgid "Clients"
+msgstr "Clients"
+
+#: Application/Resource.h:319
+msgid "Competition"
+msgstr "Concurs"
+
+#: Application/Resource.h:320
+msgid "Customer"
+msgstr "Client"
+
+#: Application/Resource.h:321
+msgid "Exam"
+msgstr "Examen"
+
+#: Application/Resource.h:322
+msgid "Favorites"
+msgstr "Preferits"
+
+#: Application/Resource.h:323
+msgid "Follow Up"
+msgstr "Seguiment"
+
+#: Application/Resource.h:324
+msgid "Gifts"
+msgstr "Regals"
+
+#: Application/Resource.h:325
+msgid "Holidays"
+msgstr "Vacances"
+
+#: Application/Resource.h:326
+msgid "Ideas"
+msgstr "Idees"
+
+#: Application/Resource.h:327
+msgid "Important"
+msgstr "Important"
+
+#: Application/Resource.h:328
+msgid "Issues"
+msgstr "Assumptes"
+
+#: Application/Resource.h:329
+msgid "Miscellaneous"
+msgstr "Diversos"
+
+#: Application/Resource.h:330
+msgid "Personal"
+msgstr "Personal"
+
+#: Application/Resource.h:331
+msgid "Projects"
+msgstr "Projectes"
+
+#: Application/Resource.h:332
+msgid "Public Holiday"
+msgstr "Dia Festiu"
+
+#: Application/Resource.h:334
+msgid "Suppliers"
+msgstr "Proveïdors"
+
+#: Application/Resource.h:335
+msgid "Travel"
+msgstr "Viatge"
+
+#: Application/Resource.h:336
+msgid "Trip"
+msgstr "Viatge"
+
+#: Application/Resource.h:337 Application/Resource.h:560
+msgid "TV"
+msgstr "TV"
+
+#: Application/Resource.h:338
+msgid "Vacation"
+msgstr "Vacances"
+
+#: Application/Resource.h:339
+msgid "Work"
+msgstr "Treball"
+
+#: Application/Resource.h:340
+msgid "Medical"
+msgstr "Mèdic"
+
+#: Application/Resource.h:342
+msgid "Urgent"
+msgstr "Urgent"
+
+#: Application/Resource.h:343
+msgid "Health"
+msgstr "Salut"
+
+#: Application/Resource.h:344
+msgid "Sport"
+msgstr "Esport"
+
+#: Application/Resource.h:345
+msgid "Game"
+msgstr "Joc"
+
+#: Application/Resource.h:346
+msgid "School"
+msgstr "Escola"
+
+#: Application/Resource.h:347
+msgid "Party"
+msgstr "Festa"
+
+#: Application/Resource.h:349
+msgid "[Black]"
+msgstr "[Negre]"
+
+#: Application/Resource.h:350
+msgid "[Blue]"
+msgstr "[Blau]"
+
+#: Application/Resource.h:351
+msgid "[Brown]"
+msgstr "[Marró]"
+
+#: Application/Resource.h:352
+msgid "[Cyan]"
+msgstr "[Cian]"
+
+#: Application/Resource.h:353
+msgid "[Green]"
+msgstr "[Verd]"
+
+#: Application/Resource.h:354
+msgid "[Grey]"
+msgstr "[Gris]"
+
+#: Application/Resource.h:355
+msgid "[Magenta]"
+msgstr "[Magenta]"
+
+#: Application/Resource.h:356
+msgid "[Pink]"
+msgstr "[Rosat]"
+
+#: Application/Resource.h:357
+msgid "[Red]"
+msgstr "[Vermell]"
+
+#: Application/Resource.h:358
+msgid "[Yellow]"
+msgstr "[Groc]"
+
+#: Application/Resource.h:359
+msgid "[Orange]"
+msgstr "[Taronja]"
+
+#: Application/Resource.h:362
+msgid "Must Attend"
+msgstr "Has d'assistir"
+
+#: Application/Resource.h:363
+msgid "Travel Required"
+msgstr "Requreix viatjar"
+
+#: Application/Resource.h:364
+msgid "Needs Preparation"
+msgstr "Necessita Preparació"
+
+#: Application/Resource.h:365
+msgid "Phone Call"
+msgstr "Trucada telefònica"
+
+#: Application/Resource.h:367
+msgid "iCalendar Format"
+msgstr "Format iCalendar"
+
+#: Application/Resource.h:368
+msgid "Network Shared Calendar"
+msgstr "Calendari compartit en xarxa"
+
+#: Application/Resource.h:369
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+#: Application/Resource.h:370
+msgid "Rainlendar Ini Format"
+msgstr "Format Rainlendar Ini"
+
+#: Application/Resource.h:371
+msgid "Google Calendar"
+msgstr "Google Calendar"
+
+#: Application/Resource.h:373
+msgid "&Next >"
+msgstr "&Següent"
+
+#: Application/Resource.h:374
+msgid "< &Back"
+msgstr "< &Enrera"
+
+#: Application/Resource.h:375
+msgid "&Finish"
+msgstr "&Final"
+
+#: Application/Resource.h:377
+msgid "Vertical Calendar"
+msgstr "Calendari Vertical"
+
+#: Application/Resource.h:379
+msgid "Year Calendar"
+msgstr "Calendari Anual"
+
+#: Application/Resource.h:380
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: Application/Resource.h:381
+msgid "DigiClock"
+msgstr "Rellotge digital"
+
+#: Application/Resource.h:382
+msgid "Dual Calendar"
+msgstr "Calendari Dual"
+
+#: Application/Resource.h:383
+msgid "Event List"
+msgstr "Esdeveniments"
+
+#: Application/Resource.h:384
+msgid "Todo List"
+msgstr "Llista de Tasques per Fer"
+
+#: Application/Resource.h:385
+msgid "Grid Calendar"
+msgstr "Calendari en malla"
+
+#: Application/Resource.h:386
+msgid "Vertical Line Calendar"
+msgstr "Calendari de Línia Vertical"
+
+#: Application/Resource.h:387
+msgid "Horizontal Line Calendar"
+msgstr "Calendari de Línia Horitzontal"
+
+#: Application/Resource.h:389 Application/Resource.h:398
+msgid "Visible month"
+msgstr "Mes Visible"
+
+#: Application/Resource.h:390
+msgid "Show buttons"
+msgstr "Mostra botons"
+
+#: Application/Resource.h:391
+msgid "Show adjacent days"
+msgstr "Mostra dies adjacents"
+
+#: Application/Resource.h:392
+msgid "Eventlist width"
+msgstr "Amplària de la llista d'esdeveniments"
+
+#: Application/Resource.h:393
+msgid "Eventlist height"
+msgstr "Alçària de la llista d'esdeveniments"
+
+#: Application/Resource.h:394
+msgid "Todolist width"
+msgstr "Amplària de la llista de tasques per fer"
+
+#: Application/Resource.h:395
+msgid "Todolist height"
+msgstr "Alçària de la llista de tasques per fer"
+
+#: Application/Resource.h:396
+msgid "Calendar list width"
+msgstr "Amplària de la llista de calendari"
+
+#: Application/Resource.h:397
+msgid "Calendar list height"
+msgstr "Alçària de la llista de calendari"
+
+#: Application/Resource.h:399
+msgid "Width"
+msgstr "Amplària"
+
+#: Application/Resource.h:400
+msgid "Show week numbers"
+msgstr "Mostrar número de setmana"
+
+#: Application/Resource.h:401
+msgid "Format"
+msgstr "Format"
+
+#: Application/Resource.h:402
+msgid "Timezone"
+msgstr "Zona horària"
+
+#: Application/Resource.h:403
+msgid "Label"
+msgstr "Etiqueta"
+
+#: Application/Resource.h:404
+msgid "Show 3rd month"
+msgstr "Mostra 3er mes"
+
+#: Application/Resource.h:405
+msgid "Show 4th month"
+msgstr "Mostra 4rt mes"
+
+#: Application/Resource.h:406
+msgid "Show 5th month"
+msgstr "Mostra 5è mes"
+
+#: Application/Resource.h:407
+msgid "Show 6th month"
+msgstr "Mostra 6è mes"
+
+#: Application/Resource.h:408
+msgid "Show 7th month"
+msgstr "Mostra 7è mes"
+
+#: Application/Resource.h:409
+msgid "Show 8th month"
+msgstr "Mostra 8è mes"
+
+#: Application/Resource.h:410
+msgid "Color"
+msgstr "Color"
+
+#: Application/Resource.h:411
+msgid "Analog Clock"
+msgstr "Rellotge analògic"
+
+#: Application/Resource.h:412
+msgid "Calendar List"
+msgstr "Llista de Calendari"
+
+#: Application/Resource.h:413
+msgid "X count"
+msgstr "compte X"
+
+#: Application/Resource.h:414
+msgid "Y count"
+msgstr "compte Y"
+
+#: Application/Resource.h:416
+msgid "Snooze All"
+msgstr "Posposa Tots"
+
+#: Application/Resource.h:417
+msgid "Dismiss All"
+msgstr "Descartar Tot"
+
+#: Application/Resource.h:421
+msgid "To do"
+msgstr "Tasques per Fer"
+
+#: Application/Resource.h:424
+msgid "Today color"
+msgstr "Color d'Avui"
+
+#: Application/Resource.h:425
+msgid "Today shape"
+msgstr "Forma d'Avui"
+
+#: Application/Resource.h:426
+msgid "Circle"
+msgstr "Cercle"
+
+#: Application/Resource.h:427
+msgid "Rectangle"
+msgstr "Rectangle"
+
+#: Application/Resource.h:428 Application/Resource.h:503
+#: Application/Resource.h:630
+msgid "Red"
+msgstr "Vermell"
+
+#: Application/Resource.h:429 Application/Resource.h:435
+msgid "Orange"
+msgstr "Taronja"
+
+#: Application/Resource.h:430 Application/Resource.h:504
+#: Application/Resource.h:631
+msgid "Yellow"
+msgstr "Groc"
+
+#: Application/Resource.h:431 Application/Resource.h:501
+#: Application/Resource.h:632
+msgid "Green"
+msgstr "Verd"
+
+#: Application/Resource.h:432 Application/Resource.h:500
+#: Application/Resource.h:639
+msgid "Cyan"
+msgstr "Cian"
+
+#: Application/Resource.h:433 Application/Resource.h:499
+#: Application/Resource.h:629
+msgid "Blue"
+msgstr "Blau"
+
+#: Application/Resource.h:434 Application/Resource.h:633
+msgid "Magenta"
+msgstr "Magenta"
+
+#: Application/Resource.h:436
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"Una seqüela del popular tema Shadow3-skin amb algunes noves "
+"característiques, com veure els dies del mesos anterior i següent i temes "
+"amb globus d'ajuda."
+
+#: Application/Resource.h:437 Application/Resource.h:445
+#: Application/Resource.h:506
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"Defineix el mes que mostra el calendari. Fes servir +1 pel proper mes, -1 "
+"per l'anterior o un valor de 1 a 12 per un mes específic de l'any en curs."
+
+#: Application/Resource.h:438
+msgid "Set to 0 to hide the next and previous buttons from the calendar."
+msgstr "Fixar a 0 per amagar els botons anterior i posterior del calendari."
+
+#: Application/Resource.h:439
+msgid "Set to 0 to hide the days from the previous and next month."
+msgstr "Fixar a 0 per amagar els dies dels mesos anterior i posterior."
+
+#: Application/Resource.h:440
+msgid "Defines the width of the event list. The default value is 165 pixels."
+msgstr ""
+"Defineix l'amplària de la llista d'esdeveniments. El valor per defecte és de "
+"165 pixels."
+
+#: Application/Resource.h:441 Application/Resource.h:508
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr ""
+"Defineix l'alçària màxima de la llista d'esdeveniments.  El valor per "
+"defecte és de 300 pixels."
+
+#: Application/Resource.h:442
+msgid "Defines the width of the to do list. The default value is 165 pixels."
+msgstr ""
+"Defineix l'amplària de la llista de tasques per fer. El valor per defecte és "
+"de 165 pixels."
+
+#: Application/Resource.h:443 Application/Resource.h:509
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr ""
+"Defineix l'alçària màxima de la llista de tasques per fer.  El valor per "
+"defecte és de 300 pixels."
+
+#: Application/Resource.h:444
+msgid ""
+"Defines the width of the calendar list. The default value is 165 pixels."
+msgstr ""
+"Defineix l'amplària de la llista de calendari. El valor per defecte és de "
+"165 pixels."
+
+#: Application/Resource.h:446
+msgid "Defines the width of the window. The default value is 165 pixels."
+msgstr ""
+"Defineix l'amplària de la finestra. El valor per defecte és de 165 pixels."
+
+#: Application/Resource.h:447
+msgid "Set to 0 to hide the week numbers from the calendar."
+msgstr "Posa a 0 per amagar els números de setmana del calendari."
+
+#: Application/Resource.h:448
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr ""
+"Això defineix el format del rellotge. Per desfer-se del segons, fes servir "
+"%H:%M o %#I:%M %p"
+
+#: Application/Resource.h:449
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"Defineix la zona horària. Selecciona una xifra: ... -3, -2, -1, 0, +1, +2, "
+"+3, ... . També pots fer servir valors com CET, EST, PST, A_CST, ..."
+
+#: Application/Resource.h:450
+msgid "Adds a label for the clock."
+msgstr "Afegeix una etiqueta per al rellotge."
+
+#: Application/Resource.h:451
+msgid "Defines the color of the today marker."
+msgstr "Defineix el color del marcador d'Avui."
+
+#: Application/Resource.h:452
+msgid "Defines the shape of the today marker."
+msgstr "Defineix la forma del marcador d'Avui."
+
+#: Application/Resource.h:453
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "Defineix quants calendaris són mostrats horitzontalment a la finestra."
+
+#: Application/Resource.h:454
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "Defineix quants calendaris són mostrats verticalment a la finestra."
+
+#: Application/Resource.h:455 Application/Resource.h:483
+msgid "Set to 0 to hide the names of the days of the week from the calendar."
+msgstr "Fixar a 0 per amagar els noms dels dies de la setmana del calendari."
+
+#: Application/Resource.h:456
+msgid ""
+"Defines the width of the calendar window. The default value is 500 pixels."
+msgstr ""
+"Defineix l'amplària de la finestra calendari. El valor per defecte és de 500 "
+"píxels."
+
+#: Application/Resource.h:457
+msgid ""
+"Defines the height of the calendar window. The default value is 545 pixels."
+msgstr ""
+"Defineix l'alçària de la finestra calendari. El valor per defecte és de 545 "
+"píxels."
+
+#: Application/Resource.h:459
+msgid "Week View"
+msgstr "Vista Setmanal"
+
+#: Application/Resource.h:460
+msgid "Week view width"
+msgstr "Amplària Vista Setmanal"
+
+#: Application/Resource.h:461
+msgid ""
+"Defines the width of the week view window. The default value is 400 pixels."
+msgstr ""
+"Defineix l'amplària de la finestra Vista Setmanal. El valor per defecte és "
+"de 400 pixels."
+
+#: Application/Resource.h:462
+msgid "Week view height"
+msgstr "Alçària Vista Setmanal"
+
+#: Application/Resource.h:463
+msgid ""
+"Defines the height of the week view window. The default value is 300 pixels."
+msgstr ""
+"Defineix l'alçària de la ventana Vista Setmanal.  El valor per defecte és de "
+"300 pixels."
+
+#: Application/Resource.h:464
+msgid "Today position"
+msgstr "Posició d'Avui"
+
+#: Application/Resource.h:465
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"Defineix la posició on s'ubica el dia actual. Si s'estableix com a 0 (per "
+"defecte) la vista setmanal mostra un calendari de la setmana completa i la "
+"posició del dia actual va canviant. Si s'estableix amb els valors de l'1 al "
+"7, el dia actual es mostra en aquesta posició i la resta de dies de la "
+"setmana són els que canvien."
+
+#: Application/Resource.h:466
+msgid "Autoscroll"
+msgstr "Autodesplaçament"
+
+#: Application/Resource.h:467
+msgid "Set to 0 to disable the autoscroll."
+msgstr "Posa a 0 per a desactivar el autodesplaçament."
+
+#: Application/Resource.h:468
+msgid "Week view date format"
+msgstr "Format de la data en la Vista Setmanal"
+
+#: Application/Resource.h:469
+#, c-format
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr ""
+"Defineix el format per a les dates en els horaris. El valor per defecte és "
+"%#d.%#m."
+
+#: Application/Resource.h:470
+msgid "Week view time format"
+msgstr "Format d'Hora  en Vista Setmanal"
+
+#: Application/Resource.h:471
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"Defineix el format de l'hora en els horaris. El valor per defecte és %H:%M. "
+"Per al format AM / PM utilitzi %#I %p"
+
+#: Application/Resource.h:472
+msgid "Time item height"
+msgstr "Alçària de l'element temporal"
+
+#: Application/Resource.h:473
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr ""
+"Defineix l'alçària d'un element temporal en la vista.  El valor per defecte "
+"és de 30 píxels."
+
+#: Application/Resource.h:474
+msgid "Time item duration"
+msgstr "Duració temporal de l'element"
+
+#: Application/Resource.h:475
+msgid "60 Minutes"
+msgstr "60 Minuts"
+
+#: Application/Resource.h:476
+msgid "30 Minutes"
+msgstr "30 Minuts"
+
+#: Application/Resource.h:477
+msgid "15 Minutes"
+msgstr "15 Minuts"
+
+#: Application/Resource.h:478
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr ""
+"Defineix la duració d'un element temporal en la vista. El valor per defecte "
+"és 60 minuts."
+
+#: Application/Resource.h:479
+msgid "All day max height"
+msgstr "Alçària màxima per Tot el dia"
+
+#: Application/Resource.h:480
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"L'alçària màxima de l'àrea d'esdeveniments per tot el dia. Es mostra una "
+"barra de desplaçament quan ja no encaixen més esdeveniments dins d'aquesta "
+"àrea."
+
+#: Application/Resource.h:481
+msgid "Set to 0 to hide the week numbers from the view."
+msgstr "Posa 0 per amagar la numeració de les setmanes de la vista."
+
+#: Application/Resource.h:482
+msgid "Show weekdays"
+msgstr "Mostra dies de la setmana"
+
+#: Application/Resource.h:485
+msgid "Day View"
+msgstr "Vista Diària"
+
+#: Application/Resource.h:486
+msgid "Day view width"
+msgstr "Amplària Vista Diària"
+
+#: Application/Resource.h:487
+msgid ""
+"Defines the width of the day view window. The default value is 165 pixels."
+msgstr ""
+"Defineix l'amplària de la finestra Vista Diària. El valor per defecte és 165 "
+"píxels."
+
+#: Application/Resource.h:488
+msgid "Day view height"
+msgstr "Alçària Vista Diària"
+
+#: Application/Resource.h:489
+msgid ""
+"Defines the height of the day view window. The default value is 300 pixels."
+msgstr ""
+"Defineix l'alçaria de la finestra Vista Diària. El valor per defecte és 300 "
+"pixels."
+
+#: Application/Resource.h:490
+msgid "Day view time format"
+msgstr "Format de hora a Vista Diària"
+
+#: Application/Resource.h:491
+msgid "Day view date format"
+msgstr "Format de la data a la vista diària"
+
+#: Application/Resource.h:493
+msgid "Month View"
+msgstr "Vista Mensual"
+
+#: Application/Resource.h:494
+msgid "Show background"
+msgstr "Mostra fons"
+
+#: Application/Resource.h:495
+msgid "Set to 0 to make the background transparent."
+msgstr "Posar a 0 per fer el fons transparent."
+
+#: Application/Resource.h:498
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"L'aparença conté multiples variacions de diferents colors.  Pots canviar-los "
+"des de la configuració o fent click a la fletxa avall al calendari."
+
+#: Application/Resource.h:502 Application/Resource.h:638
+msgid "Brown"
+msgstr "Marró"
+
+#: Application/Resource.h:505
+msgid "Defines the color of the windows."
+msgstr "Defineix el color de les finestres"
+
+#: Application/Resource.h:507
+msgid "Defines the format for the dates on the event list headers."
+msgstr ""
+"Defineix el format de les dades a les capçaleres de la llista "
+"d'esdeveniments."
+
+#: Application/Resource.h:510
+msgid "All day"
+msgstr "Tot el dia"
+
+#: Application/Resource.h:513
+msgid "Conditions: "
+msgstr "Condicions:"
+
+#: Application/Resource.h:514
+msgid "Temperature: "
+msgstr "Temperatura:"
+
+#: Application/Resource.h:515
+msgid "Humidity: "
+msgstr "Humitat:"
+
+#: Application/Resource.h:516
+msgid "Winds: "
+msgstr "Vents:"
+
+#: Application/Resource.h:517
+msgid "Time: "
+msgstr "Hora:"
+
+#: Application/Resource.h:518
+msgid "Refreshing..."
+msgstr "Actualitzant..."
+
+#: Application/Resource.h:519
+msgid "Downloading: "
+msgstr "Descarregant"
+
+#: Application/Resource.h:520 Application/Resource.h:525
+msgid "Download failed!"
+msgstr "Ha fallat la Descarrega!"
+
+#: Application/Resource.h:521
+msgid "Loading..."
+msgstr "Carregant..."
+
+#: Application/Resource.h:522
+msgid "Unknown result!"
+msgstr "Resultat Desconegut!"
+
+#: Application/Resource.h:523
+msgid "Upcoming programs:"
+msgstr "Pròxims programes:"
+
+#: Application/Resource.h:524
+msgid "Parsing failed!"
+msgstr "L'anàlisi va fallar!"
+
+# The positions and the widths should be about the same as in the English string. There isn't much extra space in the widget.
+#: Application/Resource.h:526
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr " DIES     HORES  MINS   SEGS"
+
+#: Application/Resource.h:527
+msgid "Loading feed..."
+msgstr "Carregant 'feed'"
+
+#: Application/Resource.h:528
+msgid "by "
+msgstr "per"
+
+# Lowest temperature in the weather widget
+#: Application/Resource.h:529
+msgid "Lo: "
+msgstr "Baixa: "
+
+#: Application/Resource.h:530
+msgid "Hi: "
+msgstr "Alta: "
+
+#: Application/Resource.h:531
+msgid "Chance of precipitation: "
+msgstr "Possibilitats de pluja: "
+
+#: Application/Resource.h:532
+msgid "New moon"
+msgstr "Lluna nova"
+
+#: Application/Resource.h:533
+msgid "Waxing crescent"
+msgstr "Lluna creixent"
+
+#: Application/Resource.h:534
+msgid "First quarter"
+msgstr "Quart creixent"
+
+#: Application/Resource.h:535
+msgid "Waxing gibbous"
+msgstr "Gibosa creixent"
+
+#: Application/Resource.h:536
+msgid "Full moon"
+msgstr "Lluna plena"
+
+#: Application/Resource.h:537
+msgid "Waning gibbous"
+msgstr "Gibosa minvant"
+
+#: Application/Resource.h:538
+msgid "Last quarter"
+msgstr "Quart minvant"
+
+#: Application/Resource.h:539
+msgid "Waning crescent"
+msgstr "Minvant"
+
+#: Application/Resource.h:540
+msgid "Southern hemisphere"
+msgstr "Hemisferi austral"
+
+#: Application/Resource.h:541
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr ""
+"Establir com a 1 per canviar les fases com es veuen des de l'hemisferi "
+"austral."
+
+#: Application/Resource.h:543
+msgid "World Time"
+msgstr "Hora mundial"
+
+#: Application/Resource.h:544
+msgid "World time format"
+msgstr "Format de l'hora mundial"
+
+#: Application/Resource.h:545
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"Defineix el format de l'hora. El valor per defecte és %H:%M. Per al format "
+"AM/PM utilitzi %#I:%M %p"
+
+#: Application/Resource.h:546
+msgid "World time location 1"
+msgstr "Ubicació per a l'hora mundial 1"
+
+#: Application/Resource.h:547
+msgid "Defines the title for the time."
+msgstr "Defineix el títul per l'hora."
+
+#: Application/Resource.h:548
+msgid "World time timezone 1"
+msgstr "Zona horària de l'hora mundial 1"
+
+#: Application/Resource.h:549
+msgid "World time location 2"
+msgstr "Ubicació per a l'hora mundial 2"
+
+#: Application/Resource.h:550
+msgid "World time timezone 2"
+msgstr "Zona horària de l'hora mundial 2"
+
+#: Application/Resource.h:551
+msgid "World time location 3"
+msgstr "Ubicació per a l'hora mundial 3"
+
+#: Application/Resource.h:552
+msgid "World time timezone 3"
+msgstr "Zona horària de l'hora mundial 3"
+
+#: Application/Resource.h:553
+msgid "World time location 4"
+msgstr "Ubicació per a l'hora mundial 4"
+
+#: Application/Resource.h:554
+msgid "World time timezone 4"
+msgstr "Zona horària de l'hora mundial 4"
+
+#: Application/Resource.h:556
+msgid "Photos"
+msgstr "Fotografies"
+
+#: Application/Resource.h:557
+msgid "Weather"
+msgstr "l'Oratge"
+
+#: Application/Resource.h:558
+msgid "Countdown"
+msgstr "Compte Enrera"
+
+#: Application/Resource.h:559
+msgid "RSS"
+msgstr "RSS"
+
+#: Application/Resource.h:561
+msgid "Create New"
+msgstr "Crear Nova"
+
+#: Application/Resource.h:562
+msgid "Moonphase"
+msgstr "Fase lunar"
+
+#: Application/Resource.h:563
+msgid "QuickAdd"
+msgstr "Afegeix ràpidament"
+
+#: Application/Resource.h:564
+msgid "Translate"
+msgstr "Tranducció"
+
+#: Application/Resource.h:566
+msgid "RSS width"
+msgstr "Amplària de RSS"
+
+#: Application/Resource.h:567 Application/Resource.h:587
+#: Application/Resource.h:609
+msgid "Defines the width of the list. The default value is 165 pixels."
+msgstr ""
+"Defineix l'amplària de la llista. El valor per defecte és de 165 pixels."
+
+#: Application/Resource.h:568
+msgid "RSS height"
+msgstr "Alçària de RSS"
+
+#: Application/Resource.h:569 Application/Resource.h:589
+#: Application/Resource.h:611
+msgid ""
+"Defines the maximum height of the list. The default value is 300 pixels."
+msgstr ""
+"Defineix la màxima alçària de la llista.  El valor per defecte són 300 "
+"pixels."
+
+#: Application/Resource.h:570
+msgid "RSS location"
+msgstr "Ubicació de RSS"
+
+#: Application/Resource.h:571
+msgid "Location of the RSS feed."
+msgstr "Ubicació del 'feed' RSS"
+
+#: Application/Resource.h:572
+msgid "Weather location"
+msgstr "Ubicació del temps"
+
+#: Application/Resource.h:573
+msgid "Location of the weather feed."
+msgstr "Ubicació del 'feed' del temps"
+
+#: Application/Resource.h:574
+msgid "Photos random"
+msgstr "Fotografies aleatòries"
+
+#: Application/Resource.h:575
+msgid "Set to 0 to show the images in sequel. 1 shows them in random order."
+msgstr ""
+"Posa a 0 per mostrar les imatges en ordre. A 1 les mostra aleatòriament."
+
+#: Application/Resource.h:576
+msgid "Photos update"
+msgstr "Actualització de Fotos"
+
+#: Application/Resource.h:577
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr ""
+"Defineix la freqüència d'actualització de la imatge. El valor és en minuts."
+
+#: Application/Resource.h:578
+msgid "Photos folder"
+msgstr "Carpeta de fotos"
+
+#: Application/Resource.h:579
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"Defineix la carpeta local on es busquen les fotos. SI es deixa en blanc les "
+"fotos es descarreguen des de Flickr."
+
+#: Application/Resource.h:580
+msgid "Countdown event"
+msgstr "Esdeveniment de Compte Enrera"
+
+#: Application/Resource.h:581
+msgid "The description of the event."
+msgstr "Descripció de l'esdeveniment."
+
+#: Application/Resource.h:582
+msgid "Countdown time"
+msgstr "Hora de compte enrera"
+
+#: Application/Resource.h:583
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "L'hora de l'esdeveniment. Utilitza el format HH:MM:SS."
+
+#: Application/Resource.h:584
+msgid "Countdown date"
+msgstr "Data del Compte Enrera"
+
+#: Application/Resource.h:585
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "La data de l'esdeveniment. Utilitza YYYY-MM-DD."
+
+#: Application/Resource.h:586
+msgid "TV width"
+msgstr "Amplària de TV"
+
+#: Application/Resource.h:588
+msgid "TV height"
+msgstr "Alçària de TV"
+
+#: Application/Resource.h:590
+msgid "Calendar width"
+msgstr "Amplària del calendari"
+
+#: Application/Resource.h:591
+msgid ""
+"Defines the width of the calendar window. The default value is 165 pixels."
+msgstr ""
+"Defineix l'amplària de la finestra calendari. El valor per defecte és 165 "
+"píxels."
+
+#: Application/Resource.h:592
+msgid "Calendar height"
+msgstr "Alçària del calendari"
+
+#: Application/Resource.h:593
+msgid ""
+"Defines the height of the calendar window. The default value is 155 pixels."
+msgstr ""
+"Defineix l'alçària de la finestra calendari. El valor per defecte és 165 "
+"píxels."
+
+#: Application/Resource.h:594
+msgid "Translate width"
+msgstr "Amplària de Traduir"
+
+#: Application/Resource.h:595
+msgid ""
+"Defines the width of the translate list. The default value is 165 pixels."
+msgstr ""
+"Defineix l'amplària de la llista de traduccions. El valor per defecte és 165 "
+"píxels."
+
+#: Application/Resource.h:596
+msgid "Translate from language"
+msgstr "Traduir de idioma"
+
+#: Application/Resource.h:597
+msgid "Source language"
+msgstr "Idioma font"
+
+#: Application/Resource.h:598
+msgid "Translate to languages"
+msgstr "Traduir a idiomes"
+
+#: Application/Resource.h:599
+msgid "List of target languages separated with '|'-char."
+msgstr "Llista d'idiomes destinació separats per '|'."
+
+#: Application/Resource.h:600
+msgid "Enter text"
+msgstr "Introduïu text"
+
+#: Application/Resource.h:601
+msgid "Copy to clipboard"
+msgstr "Copiar al portapapers"
+
+#: Application/Resource.h:602
+msgid "File path"
+msgstr "Ruta del fitxer"
+
+#: Application/Resource.h:603
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "Defineix el nom i la ruta del fitxer que es mostra a la finestra."
+
+#: Application/Resource.h:604
+msgid "No file given"
+msgstr "No existeix cap fitxer determinat"
+
+# Fitxer de text del widget quan no s'estableix la ruta del fitxer
+#: Application/Resource.h:605
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr ""
+"Anar a la finestra de configuració i indicar la ruta varible cap a un arxiu "
+"de text."
+
+#: Application/Resource.h:606
+msgid "File full rows"
+msgstr "Línies completes del fitxer"
+
+#: Application/Resource.h:607
+msgid "Set to 1 to show full rows. 0 cuts the lines."
+msgstr "Establir com 1 per a mostrar files senceres. 0 talla les línies"
+
+#: Application/Resource.h:608
+msgid "File height"
+msgstr "Alçària fitxer"
+
+#: Application/Resource.h:610
+msgid "File width"
+msgstr "Amplària fitxer"
+
+#: Application/Resource.h:613
+msgid "ctrl"
+msgstr "ctrl"
+
+#: Application/Resource.h:614
+msgid "alt"
+msgstr "alt"
+
+#: Application/Resource.h:615
+msgid "shift"
+msgstr "majús"
+
+#: Application/Resource.h:617
+msgid "Mark as completed"
+msgstr "Marcar com completat"
+
+#: Application/Resource.h:618
+msgid "Mark as needs action"
+msgstr "Marcar com necessita acció"
+
+#: Application/Resource.h:620
+msgid "Summary"
+msgstr "Resum"
+
+#: Application/Resource.h:621
+msgid "Recurring"
+msgstr "Recurrència"
+
+#: Application/Resource.h:622
+msgid "Description"
+msgstr "Descripció"
+
+#: Application/Resource.h:625 Application/Resource.h:650
+msgid "Text color"
+msgstr "Color de text"
+
+#: Application/Resource.h:626
+msgid "Tooltip color"
+msgstr "Color dels consells"
+
+#: Application/Resource.h:627
+msgid "Black"
+msgstr "Negre"
+
+#: Application/Resource.h:628
+msgid "White"
+msgstr "Blanc"
+
+#: Application/Resource.h:634
+msgid "Light grey"
+msgstr "Gris clar"
+
+#: Application/Resource.h:635
+msgid "Light pink"
+msgstr "Rosat clar"
+
+#: Application/Resource.h:636
+msgid "Grey"
+msgstr "Gris"
+
+#: Application/Resource.h:637
+msgid "Pink"
+msgstr "Rosat"
+
+#: Application/Resource.h:640
+msgid "Schedule background"
+msgstr "Fons de l'horari"
+
+#: Application/Resource.h:641
+msgid "The background color for the day, week and month views."
+msgstr "Color de fons per a les vistes diària, setmanal i mensual."
+
+#: Application/Resource.h:642
+msgid "Schedule text color"
+msgstr "Color de text de l'horari"
+
+#: Application/Resource.h:643
+msgid "The text color for the day, week and month views."
+msgstr "Color de text per a les vistes diària, setmanal i mensual."
+
+#: Application/Resource.h:644
+msgid "Calendar day color"
+msgstr "Color del dia al calendari"
+
+#: Application/Resource.h:645
+msgid "The color for the day numbers in the calendar."
+msgstr "Color dels números dels dies al calendari."
+
+#: Application/Resource.h:646
+msgid "Small icon"
+msgstr "Icona petita"
+
+#: Application/Resource.h:647
+msgid "The icon which is shown in the calendar."
+msgstr "La icona es mostra al calendari."
+
+#: Application/Resource.h:648
+msgid "Large icon"
+msgstr "Icona gran"
+
+#: Application/Resource.h:649
+msgid "The icon which is shown in the event and to do lists."
+msgstr "Icona que es mostra a les llistes d'esdeveniments i tasques."
+
+#: Application/Resource.h:651
+msgid "The color of the text in the lists and tooltip."
+msgstr "Color del text a les llistes i globus d'ajuda."
+
+#: Application/Resource.h:653
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr ""
+"La prioritat defineix què categoria es mostra quan hi han múltiples "
+"esdeveniments en el mateix dia."
+
+#: Plugins/CSVPlugin/CSVHandler.h:31 Plugins/CSVPlugin/CSVHandler.h:32
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "Valors separats per comes (*.csv)|*.csv"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:42
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "Fitxers iCalendar (*.ics)|*.ics|Fitxers vCalendar (*.vcs)|*.vcs"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:43
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "Fitxers iCalendar (*.ics)|*.ics"
+
+#: Plugins/IniFormatPlugin/IniFormatHandler.h:18
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Fitxers Rainlendar (*.ini)|*.ini"
+
+#~ msgid "Visual category overwrites normal category"
+#~ msgstr "Categoria visual sobreescriu categoria normal"
+
+#~ msgid ""
+#~ "IMPORTANT! Read the documentation before changing these settings. It's "
+#~ "possible to make Rainlendar inoperable if you just randomly change the "
+#~ "values. Consider yourself warned!"
+#~ msgstr ""
+#~ "IMPORTANT! Llegeix la documentació abans de canviar aquests paràmetres. "
+#~ "És possible que Rainlendar deixi de funcionar completament si es "
+#~ "modifiquen els paràmetres aleatòriament. Considera't avisat!"
+
+#~ msgid "Visible calendars"
+#~ msgstr "Calendaris visibles"
+
+#~ msgid "Unknown"
+#~ msgstr "Desconegut"
+
+#~ msgid "Create backups automatically"
+#~ msgstr "Crear còpies de seguretat automàticament"
+
+#~ msgid "Manager event columns"
+#~ msgstr "Columna d'esdeveniment de gestor"
+
+#~ msgid "Manager todo columns"
+#~ msgstr "Administrador columnes de tasques"
+
+#~ msgid "Current Month\tHome"
+#~ msgstr "Mes Actual\tInici"
+
+#~ msgid "Next Month\tRight"
+#~ msgstr "Proper Mes\tDreta"
+
+#~ msgid "Prev Month\tLeft"
+#~ msgstr "Mes Anterior\tEsquerra"
+
+#~ msgid "January %s\tCtrl-F1"
+#~ msgstr "Gener %s\tCtrl-F1"
+
+#~ msgid "February %s\tCtrl-F2"
+#~ msgstr "Febrer %s\tCtrl-F2"
+
+#~ msgid "August %s\tCtrl-F8"
+#~ msgstr "Agost %s\tCtrl-F8"
+
+#~ msgid "September %s\tCtrl-F9"
+#~ msgstr "Setembre %s\tCtrl-F9"
+
+#~ msgid "October %s\tCtrl-F10"
+#~ msgstr "Octubre %s\tCtrl-F10"
+
+#~ msgid "November %s\tCtrl-F11"
+#~ msgstr "Novembre %s\tCtrl-F11"
+
+#~ msgid "December %s\tCtrl-F12"
+#~ msgstr "Desembre %s\tCtrl-F12"
+
+#~ msgid "Connection error!"
+#~ msgstr "Error de connexió"
+
+#~ msgid "Window"
+#~ msgstr "Finestra"
+
+#~ msgid "Variable"
+#~ msgstr "Variable"
+
+#~ msgid "Reset All Settings"
+#~ msgstr "Reinicia Tots els Paràmetres"
+
+#~ msgid "skin"
+#~ msgstr "aparença"
+
+#~ msgid "language"
+#~ msgstr "idioma"
+
+#~ msgid "Cannot acquire administrative privileges."
+#~ msgstr "No es poden donar privilegis d'administrador"
+
+#~ msgid ""
+#~ "Import failed.\n"
+#~ "\n"
+#~ "There are no calendars available that are able to store the item."
+#~ msgstr ""
+#~ "La importació ha fallat.\n"
+#~ "\n"
+#~ "No hi ha calendaris disponibles que puguin allotjar l'element."
+
+#~ msgid ""
+#~ "The calendar with the same name already exists.\n"
+#~ "Please use some other name."
+#~ msgstr ""
+#~ "Ja hi ha un calendari amb aquest nom.\n"
+#~ "Si et plau fes servir un altre nom."
+
+#~ msgid "-->"
+#~ msgstr "-->"
+
+#~ msgid "<--"
+#~ msgstr "<--"
+
+#~ msgid "Use default Google Calendar alarms"
+#~ msgstr "Fer servir les alarmes per defecte de Google Calendar"
+
+#~ msgid ""
+#~ "Outlook Error!\n"
+#~ "Unable to initialize the MAPI library."
+#~ msgstr ""
+#~ "Error de Outlook!\n"
+#~ "No sh'a pogut inicialitzar la llibreria MAPI."

@@ -1,0 +1,5620 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-26 11:14+0200\n"
+"PO-Revision-Date: 2017-01-31 00:20-0000\n"
+"Last-Translator: Seanán Ó Coistín <seananoc@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: C:\\Projects\\Rainlendar2-x86\n"
+"X-Poedit-Language: Irish\n"
+"X-Poedit-SearchPath-0: Application\n"
+"X-Poedit-SearchPath-1: Plugins\n"
+"X-Poedit-SearchPath-2: Testbench\\Debug\\resources\n"
+
+#: Application/CalendarManager.cpp:2252
+#: Application/CalendarManager.cpp:2256
+#: Application/DialogSkinSettings.cpp:250
+msgid "[None]"
+msgstr "[Dada]"
+
+#: Application/CalendarManager.cpp:2287
+#: Application/DialogComponent.cpp:356
+#: Application/DialogComponent.cpp:1235
+msgid "<Hidden>"
+msgstr "<I bhfolach>"
+
+#: Application/Config.cpp:1137
+#: Application/DialogOptions.cpp:416
+#: Application/Rainlendar.cpp:1890
+#: Application/Rainlendar.cpp:1901
+#: Application/Rainlendar.cpp:2030
+#: Plugins/OutlookPlugin/MapiHandler.cpp:745
+#: Application/Resource.h:356
+msgid "Default"
+msgstr "Réamhshocrú"
+
+#: Application/Config.cpp:1146
+msgid "Copy"
+msgstr "Macasamhlaigh"
+
+#: Application/Config.cpp:1151
+msgid "Region"
+msgstr "Críoch"
+
+#: Application/Config.cpp:1156
+msgid "Native"
+msgstr "Dúchasach"
+
+#: Application/Config.cpp:1161
+msgid "Sunday"
+msgstr "Dé Domhnaigh"
+
+#: Application/Config.cpp:1162
+msgid "Monday"
+msgstr "Dé Luain"
+
+#: Application/Config.cpp:1163
+msgid "Tuesday"
+msgstr "Dé Máirt"
+
+#: Application/Config.cpp:1164
+msgid "Wednesday"
+msgstr "Dé Céadaoin"
+
+#: Application/Config.cpp:1165
+msgid "Thursday"
+msgstr "Déardaoin"
+
+#: Application/Config.cpp:1166
+msgid "Friday"
+msgstr "Dé hAoine"
+
+#: Application/Config.cpp:1167
+msgid "Saturday"
+msgstr "Dé Sathairn"
+
+#: Application/Config.cpp:1170
+#: Application/DialogPrint.cpp:384
+#: Application/WindowTooltip.cpp:314
+msgid "Start"
+msgstr "Tosaigh"
+
+#: Application/Config.cpp:1171
+#: Application/DialogPrint.cpp:414
+#: Application/WindowTooltip.cpp:327
+msgid "Due"
+msgstr "Dlite"
+
+#: Application/Config.cpp:1172
+#: Application/WindowTooltip.cpp:341
+#: Application/Resource.h:681
+msgid "Priority"
+msgstr "Tosaíocht"
+
+#: Application/Config.cpp:1173
+#: Application/WindowTooltip.cpp:356
+#: Application/Resource.h:348
+msgid "Status"
+msgstr "Treo"
+
+#: Application/Config.cpp:1174
+#: Application/WindowTooltip.cpp:409
+msgid "Category"
+msgstr "Aicme"
+
+#: Application/Config.cpp:1185
+msgid "Off"
+msgstr "As"
+
+#: Application/Config.cpp:1186
+#: Application/res/options.cpp:12
+msgid "Normal"
+msgstr "Caighdeánach"
+
+#: Application/Config.cpp:1187
+msgid "Beta"
+msgstr "Béitea"
+
+#: Application/Config.cpp:1190
+#: Application/DialogOptions.cpp:130
+#: Application/DialogSkinSettings.cpp:232
+#: Application/res/options.cpp:1
+msgid "General"
+msgstr "Coiteann"
+
+#: Application/Config.cpp:1192
+#: Application/Config.cpp:1396
+msgid "Time format"
+msgstr "Leagan amach an ama"
+
+#: Application/Config.cpp:1193
+#: Application/Config.cpp:1397
+msgid "Date format"
+msgstr "Leagan amach an dáta"
+
+#: Application/Config.cpp:1194
+#: Application/Config.cpp:1398
+msgid "Weekend days"
+msgstr "Laethanta an deireadh seachtaine"
+
+#: Application/Config.cpp:1195
+#: Application/Config.cpp:1399
+msgid "Week number delta"
+msgstr "Deilte uimhreacha na seachtaine"
+
+#: Application/Config.cpp:1196
+#: Application/Config.cpp:1401
+msgid "Default categories"
+msgstr "Aicmí réamhshocraithe"
+
+#: Application/Config.cpp:1197
+#: Application/Config.cpp:1411
+msgid "Show categories from the skin"
+msgstr "Taispeáin aicmí ón gcraiceann"
+
+#: Application/Config.cpp:1198
+#: Application/Config.cpp:1412
+msgid "Snap distance"
+msgstr "Fad na léime"
+
+#: Application/Config.cpp:1199
+#: Application/Config.cpp:1413
+msgid "Snap center"
+msgstr "Léim an láir"
+
+#: Application/Config.cpp:1200
+#: Application/Config.cpp:1414
+msgid "Save window position"
+msgstr "Coinnigh láthair na fuinneoige"
+
+#: Application/Config.cpp:1201
+#: Application/Config.cpp:1415
+msgid "Show tray icon"
+msgstr "Taispeáin déilbhín an tráidire"
+
+#: Application/Config.cpp:1202
+msgid "Show tray status icons"
+msgstr "Taispeáin deilbhíní treo an tráidire"
+
+#: Application/Config.cpp:1204
+#: Application/Config.cpp:1417
+msgid "Show dock icon (requires restart)"
+msgstr "Taispeáin deilbhín (atosú de dhíth)"
+
+#: Application/Config.cpp:1206
+#: Application/Config.cpp:1419
+msgid "Keep on screen"
+msgstr "Coimeád ar an scáileán"
+
+#: Application/Config.cpp:1207
+#: Application/Config.cpp:1420
+msgid "Always show full menus"
+msgstr "Taispeáin roghchláir iomlána i gcónaí"
+
+#: Application/Config.cpp:1208
+#: Application/Config.cpp:1421
+msgid "Allow multiple calendars"
+msgstr "Ceadaigh iliomad féilirí"
+
+#: Application/Config.cpp:1209
+#: Application/Config.cpp:1422
+msgid "Allow multiple categories"
+msgstr "Ceadaigh iliomad aicmí"
+
+#: Application/Config.cpp:1211
+#: Application/Config.cpp:1424
+msgid "Disable keyboard shortcuts"
+msgstr "Díchumasaigh aicearraí an mhéarchláir"
+
+#: Application/Config.cpp:1215
+#: Application/Config.cpp:1428
+msgid "Show in all desktops"
+msgstr "Taispeáin i ngach lom-chlár"
+
+#: Application/Config.cpp:1217
+#: Application/Config.cpp:1431
+msgid "List wheel scroll"
+msgstr "Scrollú roth na réime"
+
+#: Application/Config.cpp:1220
+#: Application/Config.cpp:1432
+#: Application/Config.cpp:1434
+msgid "Transparency type"
+msgstr "Cineál trédhearcacht"
+
+#: Application/Config.cpp:1222
+#: Application/Config.cpp:1436
+msgid "Copy transparency sleep time"
+msgstr "Macasamhlaigh am codlata na trédhearcachta"
+
+#: Application/Config.cpp:1223
+#: Application/Config.cpp:1437
+msgid "Fade delay (ms)"
+msgstr "Moill an chéimnithe (ms)"
+
+#: Application/Config.cpp:1227
+#: Application/Config.cpp:1440
+msgid "Fade duration (ms)"
+msgstr "Aga an chéimnithe (ms)"
+
+#: Application/Config.cpp:1230
+#: Application/Config.cpp:1442
+msgid "Font scale"
+msgstr "Scála na clófhoirne"
+
+#: Application/Config.cpp:1232
+#: Application/Config.cpp:1444
+msgid "Skin language"
+msgstr "Teanga an chraicinn"
+
+#: Application/Config.cpp:1233
+#: Application/Config.cpp:1454
+msgid "Number of stored backups"
+msgstr "Líon na gcúltaca i dtaisce"
+
+#: Application/Config.cpp:1234
+#: Application/Config.cpp:1455
+msgid "Show delete confirmations"
+msgstr "Taispeáin deimhnithe scriosadh"
+
+#: Application/Config.cpp:1235
+#: Application/Config.cpp:1458
+msgid "Disable text formatting"
+msgstr "Díchumasaigh formáidiú téacs"
+
+#: Application/Config.cpp:1236
+#: Application/Config.cpp:1459
+msgid "Use window names"
+msgstr "Bain feidhm as ainmneacha na bhfuinneog"
+
+#: Application/Config.cpp:1238
+#: Application/Config.cpp:1461
+msgid "Hide on Aero peek"
+msgstr "Folaigh nuair a dhéantar Aero Peek"
+
+#: Application/Config.cpp:1242
+#: Application/Config.cpp:1464
+msgid "Check for updates"
+msgstr "Téigh ar thóir nuashonruithe"
+
+#: Application/Config.cpp:1244
+#: Application/Config.cpp:1466
+msgid "Reload delay after resume (ms)"
+msgstr "Moill athluchtaithe tar éis atosú (ms)"
+
+#: Application/Config.cpp:1245
+#: Application/Config.cpp:1467
+msgid "Network access delay after startup (ms)"
+msgstr "Moill roimh an líonra a rochtain tar éis an tosú (ms)"
+
+#: Application/Config.cpp:1246
+#: Application/Config.cpp:1468
+msgid "Show url icons"
+msgstr "Taispeáin deilbhíní URLanna"
+
+#: Application/Config.cpp:1247
+#: Application/Config.cpp:1469
+msgid "Simultaneous transfers"
+msgstr "Aistrithe comhuaineacha"
+
+#: Application/Config.cpp:1248
+#: Application/Config.cpp:1470
+msgid "Keep editor open until writing succeeds"
+msgstr "Coimeád an t-eagarthóir oscailte go dtí go n-éireoidh leis an scríobh"
+
+# Option for event and task editor which defines the span between the times in the drop down control.
+#: Application/Config.cpp:1249
+#: Application/Config.cpp:1471
+msgid "Time span in the editor"
+msgstr "Réise ama san eagarthóir"
+
+#: Application/Config.cpp:1252
+msgid "Only uncategorized"
+msgstr "Neamhaicmithe amháin"
+
+# Option for "Visual category overwrite" setting. If set the icon from the event is used even if the visual category is set.
+#: Application/Config.cpp:1253
+msgid "Icon from events"
+msgstr "Deilbhín ó imeachtaí"
+
+#: Application/Config.cpp:1254
+#: Application/Config.cpp:1306
+msgid "Always"
+msgstr "I gcónaí"
+
+#: Application/Config.cpp:1257
+#: Application/Config.cpp:1473
+msgid "Visual category overwrite"
+msgstr "Forscríobh aicme infheicthe"
+
+#: Application/Config.cpp:1259
+#: Application/Config.cpp:1474
+msgid "Store English category names"
+msgstr "Cuir i dtaisce ainmneacha Béarla na n-aicmí"
+
+#: Application/Config.cpp:1260
+#: Application/Config.cpp:1475
+msgid "Custom category icon path"
+msgstr "Conair dheilbhíne na haicmí saincheaptha"
+
+#: Application/Config.cpp:1263
+#: Application/Config.cpp:1478
+msgid "Use antialiased fonts"
+msgstr "Úsáid clónna frithailiasáilte"
+
+#: Application/Config.cpp:1267
+msgid "HTTP"
+msgstr "HTTP"
+
+#: Application/Config.cpp:1268
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+#: Application/Config.cpp:1269
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+#: Application/Config.cpp:1272
+msgid "Network"
+msgstr "Líonra"
+
+#: Application/Config.cpp:1273
+#: Application/Config.cpp:1481
+msgid "Proxy server"
+msgstr "Seachfhreastalaí"
+
+#: Application/Config.cpp:1274
+#: Application/Config.cpp:1482
+msgid "Proxy user"
+msgstr "Seachdhuine"
+
+#: Application/Config.cpp:1282
+#: Application/Config.cpp:1284
+#: Application/Config.cpp:1483
+msgid "Proxy password"
+msgstr "Seachfhocal faire"
+
+#: Application/Config.cpp:1286
+#: Application/Config.cpp:1489
+msgid "Proxy type"
+msgstr "Seach cineál"
+
+#: Application/Config.cpp:1287
+#: Application/Config.cpp:1490
+msgid "Try direct connection if proxy fails"
+msgstr "Bain triail as ceangail díreach má theipeann ar an seachfhreastalaí"
+
+#: Application/Config.cpp:1290
+msgid "Show all icons"
+msgstr "Taispeáin gach deilbhín"
+
+#: Application/Config.cpp:1291
+msgid "Show one icon per type"
+msgstr "Taispeáin deilbhín amháin an cineál"
+
+#: Application/Config.cpp:1292
+msgid "Show only one icon"
+msgstr "Taispeáin deilbhín amháin"
+
+#: Application/Config.cpp:1293
+msgid "Show no icons"
+msgstr "Ná taispeáin deilbhíní"
+
+#: Application/Config.cpp:1296
+#: Application/DialogManager.cpp:617
+#: Application/DropTarget.cpp:409
+#: Plugins/iCalMacPlugin/iCalMacHandler.cpp:376
+#: Application/Resource.h:394
+msgid "Calendar"
+msgstr "Féilire"
+
+#: Application/Config.cpp:1298
+#: Application/Config.cpp:1456
+msgid "Combine icons in the calendar"
+msgstr "Cumaisc deilbhíní san fhéilire"
+
+#: Application/Config.cpp:1299
+#: Application/Config.cpp:1430
+msgid "Calendar wheel scroll"
+msgstr "Scrollú roth an fhéilire"
+
+#: Application/Config.cpp:1300
+#: Application/Config.cpp:1457
+msgid "Show tasks in calendar"
+msgstr "Taispeáin bearta oibre san fhéilire"
+
+#: Application/Config.cpp:1302
+#: Application/DialogOptions.cpp:679
+#: Application/DialogOptions.cpp:924
+#: Application/DialogOptions.cpp:1039
+msgid "Tooltip"
+msgstr "Leid uirlise"
+
+#: Application/Config.cpp:1303
+#: Application/Config.cpp:1492
+msgid "Show tooltips"
+msgstr "Taispeáin leideanna uirlise"
+
+#: Application/Config.cpp:1307
+msgid "Only on days with events"
+msgstr "Imeachtaí an lae inniu:"
+
+#: Application/Config.cpp:1308
+#: Plugins/GooglePlugin/GoogleHandler.cpp:257
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:227
+msgid "Never"
+msgstr "Choíche"
+
+#: Application/Config.cpp:1310
+#: Application/Config.cpp:1493
+msgid "Show tooltip in tray"
+msgstr "Taispeáin leid uirlise sa tráidire"
+
+#: Application/Config.cpp:1312
+#: Application/Config.cpp:1494
+msgid "Max tooltip window width"
+msgstr "Uasmhéid leithead fuinneog na leide uirlise"
+
+#: Application/Config.cpp:1313
+#: Application/Config.cpp:1495
+msgid "Show description in tooltip"
+msgstr "Taispeáin cur síos sa leid uirlise"
+
+#: Application/Config.cpp:1314
+#: Application/Config.cpp:1496
+msgid "Todo items in tooltip"
+msgstr "Míreanna le déanamh sa leid uirlise"
+
+#: Application/Config.cpp:1315
+#: Application/Config.cpp:1497
+msgid "Traytip show duration (ms)"
+msgstr "Aga taispeána na leide sa tráidire (ms)"
+
+#: Application/Config.cpp:1318
+#: Application/Config.cpp:1500
+msgid "Tooltip fade duration (ms)"
+msgstr "Aga éagtha na leide uirlise (ms)"
+
+#: Application/Config.cpp:1320
+#: Application/Config.cpp:1502
+msgid "Tooltip show delay (ms)"
+msgstr "Aga taispeána na leide uirlise (ms)"
+
+#: Application/Config.cpp:1321
+#: Application/Config.cpp:1503
+msgid "Tooltip format"
+msgstr "Leagan amach na leide uirlise"
+
+#: Application/Config.cpp:1323
+msgid "Task List"
+msgstr "Tascliosta"
+
+#: Application/Config.cpp:1324
+#: Application/Config.cpp:1505
+msgid "Show full task summary"
+msgstr "Taispeáin achoimre iomlán an bhirt oibre"
+
+#: Application/Config.cpp:1325
+#: Application/Config.cpp:1506
+msgid "Show task due time"
+msgstr "Taispeáin am dlite an bhirt oibre"
+
+#: Application/Config.cpp:1326
+#: Application/Config.cpp:1507
+msgid "Show task location"
+msgstr "Taispeáin suíomh an bhirt oibre"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:1327
+#: Application/Config.cpp:1508
+msgid "Show task calendar"
+msgstr "Taispeáin féilire na mbeart oibre"
+
+#: Application/Config.cpp:1328
+#: Application/Config.cpp:1509
+msgid "Number of days the list shows (0 = show all)"
+msgstr "Líon laethanta a thaispeánann an réim (0 = taispeáin uile)"
+
+#: Application/Config.cpp:1329
+#: Application/Config.cpp:1510
+msgid "Task list header format"
+msgstr "Leagan amach ceanntáisc réim na mbeart oibre"
+
+#: Application/Config.cpp:1330
+#: Application/Config.cpp:1511
+msgid "Show task time when arranged by start or due date"
+msgstr "Taispeáin am an bhirt oibre nuair atá sé eagraithe de réir an tús nó an dáta dlite"
+
+#: Application/Config.cpp:1332
+#: Application/Config.cpp:1350
+#: Application/DialogComponent.cpp:2470
+#: Application/DialogComponent.cpp:2476
+#: Plugins/GooglePlugin/GoogleHandler.cpp:232
+#: Plugins/GooglePlugin/GoogleHandler.cpp:236
+#: Plugins/GooglePlugin/GoogleHandler.cpp:306
+#: Plugins/GooglePlugin/GoogleHandler.cpp:314
+#: Plugins/GooglePlugin/GoogleHandler.cpp:346
+#: Plugins/GooglePlugin/GoogleHandler.cpp:350
+#: Plugins/GooglePlugin/GoogleHandler.cpp:382
+#: Plugins/GooglePlugin/GoogleHandler.cpp:390
+msgid "<None>"
+msgstr "<Dada>"
+
+#: Application/Config.cpp:1335
+#: Application/Config.cpp:1514
+msgid "Default task template"
+msgstr "Fíoraí na mbearta oibre réamhshocraithe"
+
+#: Application/Config.cpp:1337
+#: Application/Resource.h:399
+msgid "Event List"
+msgstr "Na hImeachtaí"
+
+#: Application/Config.cpp:1338
+#: Application/Config.cpp:1524
+msgid "Show full event summary"
+msgstr "Taispeáin achoimre iomlán an imeachta"
+
+#: Application/Config.cpp:1339
+#: Application/Config.cpp:1525
+msgid "Show event start time"
+msgstr "Taispeáin am tosaithe an imeachta"
+
+#: Application/Config.cpp:1340
+#: Application/Config.cpp:1526
+msgid "Show event end time"
+msgstr "Taispeáin am críochnaithe an imeachta"
+
+#: Application/Config.cpp:1341
+#: Application/Config.cpp:1527
+msgid "Show event location"
+msgstr "Taispeáin suíomh an imeachta"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:1342
+#: Application/Config.cpp:1528
+msgid "Show event calendar"
+msgstr "Taispeáin féilire na n-imeachtaí"
+
+#: Application/Config.cpp:1343
+#: Application/Config.cpp:1529
+msgid "Hide dismissed events"
+msgstr "Folaigh imeachtaí a ruaigeadh"
+
+#: Application/Config.cpp:1344
+#: Application/Config.cpp:1530
+msgid "Hide past events"
+msgstr "Folaigh imeachtaí atá caite"
+
+#: Application/Config.cpp:1345
+#: Application/Config.cpp:1531
+msgid "Number of future days the list shows"
+msgstr "Líon laethanta sa todhchaí a thaispeántar"
+
+#: Application/Config.cpp:1346
+#: Application/Config.cpp:1532
+msgid "Number of past days the list shows"
+msgstr "Líon laethanta caite a thaispeántar"
+
+#: Application/Config.cpp:1347
+#: Application/Config.cpp:1533
+msgid "Event list header format"
+msgstr "Leagan amach ceanntáisc réim na n-imeachtaí"
+
+#: Application/Config.cpp:1348
+#: Application/Config.cpp:1534
+msgid "Age from start of the week"
+msgstr "Aosaigh ó thús na seachtaine"
+
+#: Application/Config.cpp:1353
+#: Application/Config.cpp:1538
+msgid "Default event template"
+msgstr "Fíoraí na n-imeachtaí réamhshocraithe"
+
+#: Application/Config.cpp:1356
+msgid "No grouping"
+msgstr "Gan bailiú"
+
+#: Application/Config.cpp:1357
+msgid "Start and end dates"
+msgstr "Dátaí tosaithe agus críochnaithe"
+
+#: Application/Config.cpp:1358
+msgid "Start date and duration"
+msgstr "Dáta tosaithe agus aga"
+
+#: Application/Config.cpp:1361
+#: Application/Config.cpp:1535
+msgid "Group multiday events"
+msgstr "Bailigh imeachtaí il-lá le chéile"
+
+#: Application/Config.cpp:1363
+#: Application/ItemScheduleEvent.cpp:209
+msgid "Schedule"
+msgstr "Clár ama"
+
+#: Application/Config.cpp:1364
+#: Application/Config.cpp:1548
+msgid "Show schedule descriptions"
+msgstr "Taispeáin tuairiscí an chláir ama"
+
+#: Application/Config.cpp:1365
+#: Application/Config.cpp:1549
+msgid "Show schedule start time"
+msgstr "Taispeáin am tosaithe an chláir ama"
+
+#: Application/Config.cpp:1366
+#: Application/Config.cpp:1550
+msgid "Show schedule end time"
+msgstr "Taispeáin am críochnaithe an chláir ama"
+
+#: Application/Config.cpp:1367
+#: Application/Config.cpp:1551
+msgid "Show schedule location"
+msgstr "Taispeáin suíomh an chláir ama"
+
+#: Application/Config.cpp:1368
+#: Application/Config.cpp:1552
+msgid "Show schedule calendar"
+msgstr "Taispeáin féilire an chláir ama"
+
+#: Application/Config.cpp:1369
+#: Application/Config.cpp:1553
+msgid "Create, move and resize events with mouse"
+msgstr "Cruthaigh, bog agus athmhéadaigh imeachtaí leis an luchóg"
+
+#: Application/Config.cpp:1370
+#: Application/Config.cpp:1554
+msgid "First shown hour"
+msgstr "An chéad uair a thaispeántar"
+
+#: Application/Config.cpp:1371
+#: Application/Config.cpp:1555
+msgid "Last shown hour"
+msgstr "An uair dheiridh a thaispeántar"
+
+#: Application/Config.cpp:1373
+#: Application/DialogComponent.cpp:1309
+#: Application/DialogOptions.cpp:678
+#: Application/DialogOptions.cpp:918
+#: Application/DialogOptions.cpp:1039
+#: Application/ItemListAlarm.cpp:472
+msgid "Alarm"
+msgstr "Rabhchán"
+
+#: Application/Config.cpp:1374
+#: Application/Config.cpp:1557
+msgid "Show alarm start time"
+msgstr "Taispeáin am tosaithe an rabhcháin"
+
+#: Application/Config.cpp:1375
+#: Application/Config.cpp:1558
+msgid "Show alarm end time"
+msgstr "Taispeáin am críochnaithe an rabhcháin"
+
+#: Application/Config.cpp:1376
+#: Application/Config.cpp:1559
+msgid "Show alarm location"
+msgstr "Taispeáin suíomh an rabhcháin"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:1377
+#: Application/Config.cpp:1560
+msgid "Show alarm calendar"
+msgstr "Taispeáin féilire rabhcháin"
+
+#: Application/Config.cpp:1378
+#: Application/Config.cpp:1561
+msgid "Show due to the event"
+msgstr "Taispeáin am go dtí an t-imeacht"
+
+#: Application/Config.cpp:1379
+#: Application/Config.cpp:1562
+msgid "Support Mozilla alarms"
+msgstr "Tabhair tacaíocht do rabhcháin Mhozilla"
+
+#: Application/Config.cpp:1380
+#: Application/Config.cpp:1563
+msgid "Keep alarm always on top"
+msgstr "Coimeád rabhchán ar barr i gcónaí"
+
+#: Application/Config.cpp:1381
+#: Application/Config.cpp:1564
+msgid "Default snooze time (secs)"
+msgstr "Am codalta réamhshocraithe (soic)"
+
+#: Application/Config.cpp:1382
+#: Application/Config.cpp:1565
+msgid "Max alarm window width"
+msgstr "Uasleithead fuinneog an rabhcháin"
+
+#: Application/Config.cpp:1383
+#: Application/Config.cpp:1566
+msgid "Hide from alarm after days"
+msgstr "Folaigh ó rabhchán tar éis laethanta"
+
+#: Application/Config.cpp:1384
+#: Application/Config.cpp:1567
+msgid "Default alarm file"
+msgstr "Comhad rabhcháin réamhshocraithe"
+
+#: Application/Config.cpp:1385
+#: Application/Config.cpp:1568
+msgid "Loop the alarm sound (secs)"
+msgstr "Lúb fuaim an rabhcháin (soicindí)"
+
+#: Application/Config.cpp:1386
+#: Application/Config.cpp:1570
+msgid "Snooze times (mins)"
+msgstr "Amanna na néalta (nóim)"
+
+#: Application/Config.cpp:1903
+msgid "Choose a directory"
+msgstr "Roghnaigh comhadlann"
+
+#: Application/ControlWindow.cpp:175
+#: Application/ControlWindow.cpp:182
+msgid "Unable to create a new item from the string:\n"
+msgstr "Níorbh fhéidir mír nua a chruthú ón teaghrán:\n"
+
+#: Application/ControlWindow.cpp:177
+msgid "Create Error!"
+msgstr "Botún Cruthaithe!"
+
+#: Application/ControlWindow.cpp:177
+msgid "Unable to select the target calendar for the item."
+msgstr "Níorbh fhéidir an spriocfhéilire don mhír a roghnú."
+
+#: Application/ControlWindow.cpp:184
+msgid "Parse Error!"
+msgstr "Botún Miondealaithe!"
+
+#: Application/ControlWindow.cpp:537
+msgid "New version found!"
+msgstr "Aimsíodh leagan nua!"
+
+#: Application/ControlWindow.cpp:538
+#, c-format
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"Tá leagan %s ar fáil.\n"
+"An mian leat dul go dtí an láithreán gréasáin anois?"
+
+#: Application/ControlWindow.cpp:557
+msgid "No updates available."
+msgstr "Níl nuashonruithe ar fáil."
+
+#: Application/ControlWindow.cpp:557
+msgid "You have the most recent version of Rainlendar."
+msgstr "Tá an leagan is úire de Rainlendar agat."
+
+#: Application/ControlWindow.cpp:662
+#: Application/ControlWindow.cpp:764
+#: Application/ItemCalendar.cpp:683
+#: Application/ItemListEvent.cpp:584
+#: Application/ItemScheduleEvent.cpp:199
+msgid "New event"
+msgstr "Imeacht nua"
+
+#: Application/ControlWindow.cpp:663
+#: Application/ControlWindow.cpp:765
+#: Application/ItemListTodo.cpp:1329
+#: Application/ItemScheduleEvent.cpp:187
+msgid "New task"
+msgstr "Beart oibre nua"
+
+#: Application/ControlWindow.cpp:665
+#: Application/ControlWindow.cpp:781
+#: Application/Resource.h:323
+msgid "Refresh"
+msgstr "Athnuaigh"
+
+#: Application/ControlWindow.cpp:666
+#: Application/ControlWindow.cpp:782
+msgid "Options..."
+msgstr "Roghanna..."
+
+#: Application/ControlWindow.cpp:667
+#: Application/ControlWindow.cpp:783
+msgid "Manager..."
+msgstr "Bainisteoir..."
+
+#: Application/ControlWindow.cpp:670
+#: Application/res/event.cpp:2
+#: Application/res/manager.cpp:2
+#: Application/res/todo.cpp:2
+msgid "File"
+msgstr "Comhad"
+
+#: Application/ControlWindow.cpp:676
+msgid "View"
+msgstr "Amharc"
+
+#: Application/ControlWindow.cpp:682
+msgid "About..."
+msgstr "Maidir le..."
+
+#: Application/ControlWindow.cpp:683
+msgid "Open help\tCtrl+?"
+msgstr "Oscail Cabhair\tCtrl+?"
+
+#: Application/ControlWindow.cpp:760
+#: Application/DialogAbout.cpp:201
+msgid "About"
+msgstr "Maidir le"
+
+#: Application/ControlWindow.cpp:761
+#: Application/DialogOptions.cpp:159
+msgid "Help"
+msgstr "Cabhair"
+
+#: Application/ControlWindow.cpp:768
+#: Application/DialogOptions.cpp:681
+msgid "Windows"
+msgstr "Fuinneoga"
+
+#: Application/ControlWindow.cpp:769
+#: Application/DialogComponent.cpp:1182
+#: Application/DialogOptions.cpp:132
+#: Application/res/event.cpp:18
+#: Application/res/options.cpp:18
+#: Application/res/todo.cpp:42
+msgid "Calendars"
+msgstr "Féilirí"
+
+#: Application/ControlWindow.cpp:772
+msgid "Choose day"
+msgstr "Roghnaigh lá"
+
+#: Application/ControlWindow.cpp:776
+msgid "Choose month"
+msgstr "Roghnaigh mí"
+
+#: Application/ControlWindow.cpp:795
+msgid "Install the license..."
+msgstr "Suiteáil an ceadúnas..."
+
+#: Application/ControlWindow.cpp:802
+msgid "Show debug log"
+msgstr "Taispeáin taifead na dífhabhtaí"
+
+#: Application/ControlWindow.cpp:815
+msgid "Exit"
+msgstr "Scoir"
+
+#: Application/ControlWindow.cpp:834
+#, c-format
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+#: Application/ControlWindow.cpp:849
+msgid "Enable all calendars"
+msgstr "Cumasaigh gach féilire"
+
+#: Application/ControlWindow.cpp:850
+msgid "Disable all calendars"
+msgstr "Díchumasaigh gach féilire"
+
+#: Application/ControlWindow.cpp:869
+msgid "Current Day"
+msgstr "An Lá Reatha"
+
+#: Application/ControlWindow.cpp:873
+msgid "Next Day"
+msgstr "Lá Ar Aghaidh"
+
+#: Application/ControlWindow.cpp:874
+msgid "Previous Day"
+msgstr "Lá Roimhe"
+
+#: Application/ControlWindow.cpp:877
+msgid "Next Week"
+msgstr "Seachtain Ar Aghaidh"
+
+#: Application/ControlWindow.cpp:878
+msgid "Previous Week"
+msgstr "Seachtain Roimhe"
+
+#: Application/ControlWindow.cpp:880
+#: Application/ControlWindow.cpp:896
+#: Application/ControlWindow.cpp:902
+#: Application/Resource.h:320
+msgid "Next Month"
+msgstr "Mí Ar Aghaidh"
+
+#: Application/ControlWindow.cpp:881
+#: Application/ControlWindow.cpp:897
+#: Application/ControlWindow.cpp:903
+#: Application/Resource.h:321
+msgid "Previous Month"
+msgstr "Mí Roimhe"
+
+#: Application/ControlWindow.cpp:895
+#: Application/ControlWindow.cpp:901
+#: Application/Resource.h:322
+msgid "Current Month"
+msgstr "An Mhí Reatha"
+
+#: Application/ControlWindow.cpp:898
+#: Application/ControlWindow.cpp:904
+msgid "Next Year"
+msgstr "Blian Ar Aghaidh"
+
+#: Application/ControlWindow.cpp:899
+#: Application/ControlWindow.cpp:905
+msgid "Previous Year"
+msgstr "Bliain Roimhe"
+
+# Shortcut key for the Current Month
+#: Application/ControlWindow.cpp:901
+#: Application/DialogAbout.cpp:153
+#: Application/HotkeyControl.cpp:188
+msgid "Home"
+msgstr "Baile"
+
+# Shortcut key for the Next Month
+#: Application/ControlWindow.cpp:902
+#: Application/HotkeyControl.cpp:194
+msgid "Right"
+msgstr "Deas"
+
+# Shortcut key for the Previous Month
+#: Application/ControlWindow.cpp:903
+#: Application/HotkeyControl.cpp:190
+msgid "Left"
+msgstr "Clé"
+
+# Shortcut key for the Next Year
+#: Application/ControlWindow.cpp:904
+#: Application/HotkeyControl.cpp:192
+msgid "Up"
+msgstr "Suas"
+
+# Shortcut key for the Previous Year
+#: Application/ControlWindow.cpp:905
+#: Application/HotkeyControl.cpp:196
+msgid "Down"
+msgstr "Síos"
+
+#: Application/ControlWindow.cpp:909
+#: Application/Util.cpp:585
+msgid "January"
+msgstr "Eanáir"
+
+#: Application/ControlWindow.cpp:909
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+#: Application/ControlWindow.cpp:910
+#: Application/Util.cpp:587
+msgid "February"
+msgstr "Feabhra"
+
+#: Application/ControlWindow.cpp:910
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+#: Application/ControlWindow.cpp:911
+#: Application/Util.cpp:589
+msgid "March"
+msgstr "Márta"
+
+#: Application/ControlWindow.cpp:911
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+#: Application/ControlWindow.cpp:912
+#: Application/Util.cpp:591
+msgid "April"
+msgstr "Aibreán"
+
+#: Application/ControlWindow.cpp:912
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+#: Application/ControlWindow.cpp:913
+#: Application/Util.cpp:593
+#: Application/Util.cpp:623
+msgid "May"
+msgstr "Bealtaine"
+
+#: Application/ControlWindow.cpp:913
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+#: Application/ControlWindow.cpp:914
+#: Application/Util.cpp:595
+msgid "June"
+msgstr "Meitheamh"
+
+#: Application/ControlWindow.cpp:914
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+#: Application/ControlWindow.cpp:915
+#: Application/Util.cpp:597
+msgid "July"
+msgstr "Iúil"
+
+#: Application/ControlWindow.cpp:915
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+#: Application/ControlWindow.cpp:916
+#: Application/Util.cpp:599
+msgid "August"
+msgstr "Lúnasa"
+
+#: Application/ControlWindow.cpp:916
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+#: Application/ControlWindow.cpp:917
+#: Application/Util.cpp:601
+msgid "September"
+msgstr "Meán Fómhair"
+
+#: Application/ControlWindow.cpp:917
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+#: Application/ControlWindow.cpp:918
+#: Application/Util.cpp:603
+msgid "October"
+msgstr "Deireadh Fómhair"
+
+#: Application/ControlWindow.cpp:918
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+#: Application/ControlWindow.cpp:919
+#: Application/Util.cpp:605
+msgid "November"
+msgstr "Samhain"
+
+#: Application/ControlWindow.cpp:919
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+#: Application/ControlWindow.cpp:920
+#: Application/Util.cpp:607
+msgid "December"
+msgstr "Nollaig"
+
+#: Application/ControlWindow.cpp:920
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+#: Application/ControlWindow.cpp:948
+#, c-format
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+#: Application/ControlWindow.cpp:967
+msgid "Show all windows"
+msgstr "Taispeáin gach fuinneog"
+
+#: Application/ControlWindow.cpp:968
+msgid "Hide all windows"
+msgstr "Folaigh gach fuinneog"
+
+#: Application/ControlWindow.cpp:1377
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "Comhaid ceadúnais (*.r2lic)|*.r2lic"
+
+#: Application/ControlWindow.cpp:1378
+msgid "Choose the license file"
+msgstr "Roghnaigh comhad an cheadúnais"
+
+#: Application/ControlWindow.cpp:1623
+#: Application/ControlWindow.cpp:1706
+#: Application/ControlWindow.cpp:1743
+#: Application/ItemCalendar.cpp:670
+#: Application/WindowTooltip.cpp:265
+msgid "*Empty*"
+msgstr "*Folamh*"
+
+#: Application/ControlWindow.cpp:1626
+msgid "This instance"
+msgstr "An t-ásc seo"
+
+#: Application/ControlWindow.cpp:1627
+msgid "Whole event"
+msgstr "An t-imeacht iomlán"
+
+# Option for recurring event delete dialog. Deleting "all following" will delete all the events after the selected date.
+#: Application/ControlWindow.cpp:1628
+msgid "All following"
+msgstr "Gach ceann tar éis"
+
+#: Application/ControlWindow.cpp:1629
+#: Application/DialogCategories.cpp:116
+#: Application/DialogDayRange.cpp:63
+#: Application/DialogOptions.cpp:171
+#: Application/DialogSkinSettings.cpp:111
+#: Application/res/alarm.cpp:5
+#: Application/res/event.cpp:43
+#: Application/res/todo.cpp:67
+msgid "Cancel"
+msgstr "Cealaigh"
+
+#: Application/ControlWindow.cpp:1631
+#: Application/ControlWindow.cpp:1708
+msgid "Do you want to delete this item?"
+msgstr "An mian leat an mhír seo a scriosadh?"
+
+#: Application/ControlWindow.cpp:1632
+#, c-format
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance, all the following events or the whole recurring event."
+msgstr ""
+"Is mír athfhillteach é seo:\n"
+"\n"
+"%s\n"
+"\n"
+"Is féidir an ásc áirithe seo, na himeachtaí a leanas nó an t-imeacht athfhillteach iomlán a scriosadh."
+
+#: Application/ControlWindow.cpp:1734
+msgid "Do you want to delete these items?"
+msgstr "An mian leat na míreanna seo a scriosadh?"
+
+# Shown in the about dialog for a special netbook build.
+#: Application/DialogAbout.cpp:102
+msgid "Netbook edition"
+msgstr "Eagrán do mhionríomhairí glúine"
+
+#: Application/DialogAbout.cpp:106
+#: Application/DialogOptions.cpp:780
+msgid "Version"
+msgstr "Leagan"
+
+#: Application/DialogAbout.cpp:124
+msgid "Build on"
+msgstr "Tógtha ar"
+
+#: Application/DialogAbout.cpp:129
+msgid "Developed by"
+msgstr "Forbartha ag"
+
+#: Application/DialogAbout.cpp:138
+msgid "Licensed to"
+msgstr "Ceadúnaithe do"
+
+#: Application/DialogAbout.cpp:146
+msgid "Plugins"
+msgstr "Breiseáin"
+
+#: Application/DialogAbout.cpp:151
+msgid "Links"
+msgstr "Naisc"
+
+#: Application/DialogAbout.cpp:156
+msgid "FAQ"
+msgstr "Ceisteanna Coitianta"
+
+#: Application/DialogAbout.cpp:159
+msgid "Forum"
+msgstr "Clár Plé"
+
+#: Application/DialogAbout.cpp:165
+msgid "Menu icons by"
+msgstr "Deilbhíní na roghchlár déanta ag"
+
+#: Application/DialogAbout.cpp:169
+msgid "Settings icons by"
+msgstr "Deilbhíní na socruithe déanta ag"
+
+#: Application/DialogAbout.cpp:179
+msgid "Copyrights"
+msgstr "Cóipchearta"
+
+#: Application/DialogAbout.cpp:220
+msgid "Please wait..."
+msgstr "Fan le do thoil..."
+
+#: Application/DialogAbout.cpp:244
+#: Application/res/about.cpp:1
+msgid "Check for update"
+msgstr "Téigh ar thóir nuashonrú"
+
+#: Application/DialogAlarm.cpp:33
+msgid "Choose Alarm"
+msgstr "Roghnaigh Rabhchán"
+
+#: Application/DialogAlarm.cpp:48
+msgid "All files (*.*)|*.*"
+msgstr "Gach comhad (*.*)|*.*"
+
+#: Application/DialogCategories.cpp:49
+#: Application/DialogCategories.cpp:78
+#: Application/DialogComponent.cpp:1237
+#: Application/DialogManager.cpp:760
+#: Application/DialogOptions.cpp:1118
+#: Application/res/event.cpp:20
+#: Application/res/todo.cpp:44
+msgid "Categories"
+msgstr "Aicmí"
+
+#: Application/DialogCategories.cpp:86
+#: Application/res/options.cpp:19
+msgid "Add..."
+msgstr "Cuir leis..."
+
+#: Application/DialogCategories.cpp:89
+msgid "Clear"
+msgstr "Glan"
+
+#: Application/DialogCategories.cpp:93
+#: Application/res/options.cpp:20
+#: Application/res/options.cpp:28
+msgid "Remove"
+msgstr "Bain"
+
+#: Application/DialogCategories.cpp:102
+msgid "Values"
+msgstr "Luachanna"
+
+#: Application/DialogCategories.cpp:113
+#: Application/DialogOptions.cpp:167
+#: Application/DialogSkinSettings.cpp:108
+#: Application/res/alarm.cpp:4
+#: Application/res/event.cpp:42
+#: Application/res/todo.cpp:66
+msgid "OK"
+msgstr "Tá go maith"
+
+#: Application/DialogCategories.cpp:459
+msgid "Please give a name for the category"
+msgstr "Tabhair ainm don chomhadlann"
+
+#: Application/DialogCategories.cpp:459
+#: Application/DialogComponent.cpp:2420
+#: Application/DialogOptions.cpp:1996
+#: Application/Resource.h:616
+msgid "Enter text"
+msgstr "Clóscríobh téacs"
+
+#: Application/DialogCategories.cpp:462
+#: Application/DialogCategories.cpp:467
+#: Application/DialogCategories.cpp:475
+msgid "Unable to create the category!"
+msgstr "Níorbh fhéidir an chomhadlann a chruthú!"
+
+#: Application/DialogCategories.cpp:462
+msgid "You must give a name for the category."
+msgstr "Caithfear ainm a thabhairt don chomhadlann."
+
+#: Application/DialogCategories.cpp:467
+#: Application/DialogComponent.cpp:2427
+#: Application/DialogOptions.cpp:2006
+#: Application/WizardPageCalendar.cpp:740
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "Níl cead feidhm a bhaint as an gcarachtar '/' san ainm."
+
+#: Application/DialogCategories.cpp:475
+#, c-format
+msgid "A category called \"%s\" already exists."
+msgstr "Tá comhadlann ann darbh ainm \"%s\" cheana féin."
+
+#: Application/DialogComponent.cpp:227
+msgid "Add new alarm"
+msgstr "Cuir rabhchán nua leis"
+
+#: Application/DialogComponent.cpp:925
+msgid "There is no calendar selected for the item. Please choose the calendar where you want to store the item."
+msgstr "Níl féilire roghnaithe don mhír seo. Brúigh cnaipe na bhféilirí agus roghnaigh féilire inar mian leat an mhír a chur i dtaisce."
+
+#: Application/DialogComponent.cpp:929
+msgid "There are no valid calendars where the item can be saved. You need to go to the options and create a new calendar for the item. Note that some calendars do not support both events and tasks."
+msgstr "Ní féilirí bailí ar bith ann inar féidir an mhír a chur i dtaisce. Caithfear dul go dtí na roghanna agus féilire nua a chruthú don mhír. Tabhair faoi deara nach nglacann féilirí áirithe le himeachtaí agus bearta oibre ar aon. Ní féidir m.sh. bearta oibre a chur le Féilire Google."
+
+#: Application/DialogComponent.cpp:932
+msgid "Unable to save the item."
+msgstr "Níorbh fhéidir an mhír a thaisceadh."
+
+#: Application/DialogComponent.cpp:969
+msgid "Updating"
+msgstr "Ag nuashonrú"
+
+#: Application/DialogComponent.cpp:1024
+msgid "Do you want to save the changes?"
+msgstr "An mian leat an hathruithe a chur i dtaisce?"
+
+#: Application/DialogComponent.cpp:1025
+msgid "You have made some changes to the fields."
+msgstr "Tá roinnt athruithe déanta agat do na réimsí."
+
+#: Application/DialogComponent.cpp:1028
+msgid "&Save"
+msgstr "Tai&sc"
+
+#: Application/DialogComponent.cpp:1029
+msgid "&Discard"
+msgstr "Cuileáil"
+
+#: Application/DialogComponent.cpp:1030
+#: Application/DialogMessage.cpp:319
+#: Application/DialogMessage.cpp:351
+#: Application/DropTarget.cpp:87
+#: Application/Resource.h:310
+msgid "&Cancel"
+msgstr "&Cealaigh"
+
+#: Application/DialogComponent.cpp:1045
+msgid "Are you sure you want to delete this item?"
+msgstr "An bhfuil tú cinnte gur mian leat an mhír seo a scriosadh?"
+
+#: Application/DialogComponent.cpp:1182
+msgid "Select the calendars:"
+msgstr "Roghnaigih na féilirí:"
+
+#: Application/DialogComponent.cpp:1237
+#: Application/DialogManager.cpp:760
+msgid "Select the categories:"
+msgstr "Roghnaigh na haicmí:"
+
+#: Application/DialogComponent.cpp:1294
+msgid "before the event starts."
+msgstr "roimh a thosaíonn an t-imeacht."
+
+#: Application/DialogComponent.cpp:1297
+msgid "before the task is due."
+msgstr "roimh don beart oibre a bheith dlite."
+
+#: Application/DialogComponent.cpp:1322
+msgid "Set alarm sound"
+msgstr "Socraigh fuaim an rabhcháin"
+
+#: Application/DialogComponent.cpp:1323
+msgid "Remove alarm"
+msgstr "Bain an rabhchán"
+
+#: Application/DialogComponent.cpp:1325
+msgid "Minutes"
+msgstr "Nóiméid"
+
+#: Application/DialogComponent.cpp:1326
+msgid "Hours"
+msgstr "Uaireanta"
+
+#: Application/DialogComponent.cpp:1327
+#: Application/res/event.cpp:23
+#: Application/res/todo.cpp:47
+msgid "Days"
+msgstr "Lá"
+
+#: Application/DialogComponent.cpp:1554
+msgid "Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "Níorbh fhéidir aon laimhseálaí féilire a aimsiú don imeacht. Níor chuireadh an t-imeacht i dtaisce."
+
+#: Application/DialogComponent.cpp:1630
+#: Application/DialogMessage.cpp:285
+#: Application/DialogMessage.cpp:293
+#: Application/DialogMessage.cpp:310
+#: Application/DialogMessage.cpp:318
+#: Application/DialogMessage.cpp:347
+#: Application/Resource.h:311
+msgid "&OK"
+msgstr "Tá go maith"
+
+#: Application/DialogComponent.cpp:1631
+msgid "Incorrect alarm"
+msgstr "Rabhchán mícheart"
+
+#: Application/DialogComponent.cpp:1631
+msgid "Google Calendar makes it possible to set the alarm only 28 days before the event. The alarm was automatically set to the maximum value."
+msgstr "Ní cheadaíonn Google Calendar rabhchán níos mó ná 28 lá roimh an imeacht féin. Socraíodh an rabhchán leis an luach is mó go huathoibríoch."
+
+#: Application/DialogComponent.cpp:1826
+#, c-format
+msgid "On the %s day of the month"
+msgstr "Ar an %s lá den mhí"
+
+#: Application/DialogComponent.cpp:1834
+msgid "first"
+msgstr "gcéad"
+
+#: Application/DialogComponent.cpp:1838
+msgid "second"
+msgstr "dara"
+
+#: Application/DialogComponent.cpp:1842
+msgid "third"
+msgstr "tríú"
+
+#: Application/DialogComponent.cpp:1846
+msgid "fourth"
+msgstr "gceathrú"
+
+#: Application/DialogComponent.cpp:1850
+msgid "fifth"
+msgstr "gcúigiú"
+
+#: Application/DialogComponent.cpp:1854
+#, c-format
+msgid "On the %s %s of the month"
+msgstr "Ar an %s %s den mhí"
+
+#: Application/DialogComponent.cpp:1862
+#, c-format
+msgid "On the last %s of the month"
+msgstr "Ar an %s deiridh den mhí"
+
+#: Application/DialogComponent.cpp:1871
+msgid "On the first weekday of the month"
+msgstr "Ar an gcéad lá den tseachtain den mhí"
+
+#: Application/DialogComponent.cpp:1880
+msgid "On the last weekday of the month"
+msgstr "Ar an lá den tseachtain deiridh den mhí"
+
+#: Application/DialogComponent.cpp:1887
+msgid "On the last day of the month"
+msgstr "Ar an lá deiridh den mhí"
+
+#: Application/DialogComponent.cpp:2420
+msgid "Please give a name for the template"
+msgstr "Tabhair ainm don bhfíoraí"
+
+#: Application/DialogComponent.cpp:2423
+#: Application/DialogComponent.cpp:2427
+msgid "Unable to create the template!"
+msgstr "Níorbh fhéidir an fíoraí a chruthú!"
+
+#: Application/DialogComponent.cpp:2423
+msgid "You must give a name for the template."
+msgstr "Caithfear ainm a thabhairt don bhfíoraí."
+
+#: Application/DialogComponent.cpp:2436
+#, c-format
+msgid "A template called \"%s\" already exists."
+msgstr "Tá fíoraí ann darbh ainm \"%s\" cheana féin."
+
+#: Application/DialogComponent.cpp:2437
+msgid "Do you want to overwrite the template?"
+msgstr "An dteastaíonn uait forscríobh ar an bhfíoraí?"
+
+#: Application/DialogComponent.cpp:2455
+msgid "Choose the template to delete:"
+msgstr "Roghnaigh an fíoraí ar mian leat scriosadh:"
+
+# Part of the template dialog caption.
+#: Application/DialogComponent.cpp:2455
+#: Application/DialogComponent.cpp:2472
+#: Application/DialogManager.cpp:1004
+msgid "Select"
+msgstr "Roghnaigh"
+
+#: Application/DialogComponent.cpp:2471
+msgid "Choose the template which is used for new tasks:"
+msgstr "Roghnaigh an fíoraí a bhaintear feidhm as do bhearta oibre nua:"
+
+#: Application/DialogComponent.cpp:2471
+msgid "Choose the template which is used for new events:"
+msgstr "Roghnaigh an fíoraí a bhaintear feidhm as do theagmhais nua:"
+
+#: Application/DialogComponent.cpp:2511
+msgid "Save as template..."
+msgstr "Taisc mar fhíoraí..."
+
+#: Application/DialogComponent.cpp:2512
+msgid "Delete template..."
+msgstr "Scrios fíoraí..."
+
+#: Application/DialogComponent.cpp:2513
+msgid "Set the default template..."
+msgstr "Oscail an fíoraí réamhshocraithe..."
+
+#: Application/DialogComponent.cpp:2522
+#: Application/res/event.cpp:7
+#: Application/res/todo.cpp:7
+msgid "Template"
+msgstr "Fíoraí"
+
+#: Application/DialogDayRange.cpp:29
+msgid "Select the day range"
+msgstr "Roghnaigh an lá-raon"
+
+#: Application/DialogDayRange.cpp:36
+msgid "This exporter is unable to save recurring events so they need to be converted to single instances. Please define the day range which will be saved to the file."
+msgstr "Ní féidir leis an ngléas thabhartha amuigh na himeachtaí athfhillteacha a thaisc mar sin caithfear iad a thiontú go dtí imeachtaí uair amháin. Sonraigh an lá raon a thaiscfear chuig an gcomhad."
+
+#: Application/DialogDayRange.cpp:43
+#: Application/res/print.cpp:5
+msgid "From:"
+msgstr "Ó:"
+
+#: Application/DialogDayRange.cpp:50
+#: Application/res/print.cpp:6
+msgid "To:"
+msgstr "Chuig:"
+
+#: Application/DialogDayRange.cpp:60
+#: Application/Resource.h:312
+msgid "Ok"
+msgstr "Tá go maith"
+
+#: Application/DialogEvent.cpp:78
+#: Application/DialogManager.cpp:1522
+#: Application/res/event.cpp:1
+#: Application/res/event.cpp:8
+#: Application/res/manager.cpp:9
+msgid "Event"
+msgstr "Imeacht"
+
+#: Application/DialogEvent.cpp:340
+#: Application/Util.cpp:1484
+#: Application/Resource.h:330
+msgid "Birthday"
+msgstr "Lá Breithe"
+
+#: Application/DialogEvent.cpp:340
+#: Application/Util.cpp:1485
+#: Application/Resource.h:329
+msgid "Anniversary"
+msgstr "Comóradh lae"
+
+#: Application/DialogEvent.cpp:342
+msgid ""
+"You have created a birthday or anniversary but didn't define any recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Chruthaigh tú lá breithe nó cothrom an lae ach níor shainmhínigh tú aon athfhilleadh.\n"
+"An mian leat go atarlóidh an t-imeacht gach bliain?"
+
+#: Application/DialogManager.cpp:79
+#: Application/res/manager.cpp:1
+msgid "Manager"
+msgstr "Bainisteoir"
+
+#: Application/DialogManager.cpp:255
+#: Application/DialogManager.cpp:332
+msgid "Choose a file"
+msgstr "Roghnaigh comhad"
+
+#: Application/DialogManager.cpp:264
+msgid "Import failed!"
+msgstr "Theip ar an allmhuiriú!"
+
+#: Application/DialogManager.cpp:340
+#, c-format
+msgid "Exported %i events successfully."
+msgstr "Onnmhairíodh %i imeachtaí  go rathúil."
+
+#: Application/DialogManager.cpp:344
+#, c-format
+msgid "Exported %i todo items successfully."
+msgstr "Onnmhairíodh %i míreanna le déanamh go ráthúil."
+
+#: Application/DialogManager.cpp:351
+msgid "Export failed!"
+msgstr "Theip ar an onnmhuiriú!"
+
+#: Application/DialogManager.cpp:446
+msgid "Do you want to delete the selected item?"
+msgstr "An mian leat an mhír roghnaithe a scriosadh?"
+
+#: Application/DialogManager.cpp:450
+#, c-format
+msgid "Do you want to delete the selected %i items?"
+msgstr "An mian leat na %i míreanna roghnaithe a scriosadh?"
+
+#: Application/DialogManager.cpp:495
+msgid "The selected item is read only and cannot be deleted."
+msgstr "Tá an mhír roghnaithe inléite amháin agus ní féidir í a scriosadh."
+
+#: Application/DialogManager.cpp:499
+#, c-format
+msgid "There were %i read only items which were not deleted."
+msgstr "Bhí %i m(h)íreanna inléite amháin ann nár scriosadh."
+
+#: Application/DialogManager.cpp:502
+msgid "Unable to delete some items."
+msgstr "Níorbh fhéidir roinnt mhíreanna a scriosadh."
+
+#: Application/DialogManager.cpp:610
+msgid "Select the calendar where the items should be copied to:"
+msgstr "Roghnaigh an féilire air ar chóir na míreanna a mhacasamhlú chuige:"
+
+#: Application/DialogManager.cpp:614
+msgid "Select the calendar where the items should be moved to:"
+msgstr "Roghnaigh an féilire air ar chóir na míreanna a bhogadh chuige:"
+
+#: Application/DialogManager.cpp:633
+#: Application/DialogManager.cpp:719
+msgid "Operation failed!"
+msgstr "Theip ar an oibríocht!"
+
+#: Application/DialogManager.cpp:633
+msgid "There are no calendars available that are able to store the items."
+msgstr "Níl féilire ar bith ann atá in ann na míreanna seo a chur i dtaisce."
+
+#: Application/DialogManager.cpp:658
+msgid "Are you sure you want to do this?"
+msgstr "An bhfuil tú cinnte gur mian leat é seo a dhéanamh?"
+
+#: Application/DialogManager.cpp:659
+msgid ""
+"Moving items to an online calendar is not safe. If the destination\n"
+"calendar doesn't accept the items because of network problems or\n"
+"for some other reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are doing."
+msgstr ""
+"Níl sé slán míreanna a bhogadh go dtí féilire ar an ngréasán. Mura ghlacann\n"
+"an spriocfhéilire leis na míreanna mar gheall ar fhadhbanna líonra nó\n"
+"de bharr fáth eile, caillfear na himeachtaí go léir a bhogadh.\n"
+"\n"
+"Mar sin, brúigh \"Tá\" má tá tú iomlán cinnte faoi cad atá ar siúl agat."
+
+#: Application/DialogManager.cpp:699
+#, c-format
+msgid "Moved %i items to these calendars:\n"
+msgstr "Bogadh %i m(h)ír chuig na bhféilirí seo:\n"
+
+#: Application/DialogManager.cpp:703
+#, c-format
+msgid "Copied %i items to these calendars:\n"
+msgstr "Macasamhlaíodh %i m(h)ír chuig na bhféilirí seo:\n"
+
+#: Application/DialogManager.cpp:708
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't be available until after a while."
+msgstr ""
+"\n"
+"Aire! Tógann sé tamaillín míreanna a mhacasamhlú chuig féilire ar an ngréasán. Dá bharr sin, ní bheidh siad ar fáil ar feadh tamall."
+
+#: Application/DialogManager.cpp:711
+msgid "Operation finished!"
+msgstr "Oibríocht críochnaithe!"
+
+#: Application/DialogManager.cpp:719
+msgid "You need to select at least one calendar for the events."
+msgstr "Caithfear féilire amháin ar a laghad a roghnú do na himeachtaí."
+
+#: Application/DialogManager.cpp:839
+#: Application/DialogManager.cpp:1174
+msgid "Archive (*.zip)|*.zip"
+msgstr "Cartlann (*.zip)|*.zip"
+
+#: Application/DialogManager.cpp:840
+#: Application/DialogManager.cpp:1173
+msgid "Choose the backup path"
+msgstr "Roghnaigh conair an chúltaca"
+
+#: Application/DialogManager.cpp:849
+msgid "Backup was successful."
+msgstr "D'éirigh leis an gcúltaca."
+
+#: Application/DialogManager.cpp:850
+msgid "The backup contains these files:"
+msgstr "Tá na comhaid seo a leanas sa chúltaca:"
+
+#: Application/DialogManager.cpp:869
+msgid "Warning! The backup file does not contain any iCalendar files. If you have any locally stored events or tasks you need to back up them manually."
+msgstr "Rabhadh! Níl comhaid iCalendar ar bith sa chomhad cúltaca. Má tá imeachtaí nó bearta oibre i dtaisce go logánta agat, caithfear cúltaca a dhéanamh dóibh de láimh."
+
+#: Application/DialogManager.cpp:877
+#: Application/DialogManager.cpp:1218
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:241
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:266
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:385
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:395
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:444
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:466
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:529
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:537
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:653
+msgid "Write error!"
+msgstr "Botún scríofa!"
+
+#: Application/DialogManager.cpp:877
+msgid "Unable to create the backup file."
+msgstr "Níorbh fhéidir an comhad cúltaca a chruthú."
+
+#: Application/DialogManager.cpp:1004
+msgid "Choose the backup file:"
+msgstr "Roghnaigh an comhad cúltaca"
+
+#: Application/DialogManager.cpp:1034
+msgid "The settings do not exist!"
+msgstr "Níl na socruithe ann."
+
+#: Application/DialogManager.cpp:1035
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "Níl comhad na socruithe sa chúltaca roghnaithe."
+
+#: Application/DialogManager.cpp:1048
+msgid "No backups found!"
+msgstr "Níor aimsíodh cúltacaithe!"
+
+#: Application/DialogManager.cpp:1049
+msgid "There are no backups available in the backup folder."
+msgstr "Níl aon chúltacaí i bhfillteán na gcúltacaí."
+
+#: Application/DialogManager.cpp:1200
+msgid "The file already exists:"
+msgstr "Tá an comhad ann cheana:"
+
+#: Application/DialogManager.cpp:1203
+msgid "Do you want to overwrite the file?"
+msgstr "An mian leat forscríobh ar an gcomhad?"
+
+#: Application/DialogManager.cpp:1216
+msgid "Unable to overwrite file:"
+msgstr "Níorbh fhéidir forscríobh ar an gcomhad:"
+
+#: Application/DialogManager.cpp:1229
+#, c-format
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"Níorbh fhéidir an comhad a athchur:\n"
+"%s\n"
+"\n"
+"Caithfear an comhad a bhaint de láimh ón gcartlann chúltaca."
+
+#: Application/DialogManager.cpp:1230
+msgid "Restore error!"
+msgstr "Botún athchuir!"
+
+#: Application/DialogManager.cpp:1249
+msgid "The archive contains unknown files:\n"
+msgstr "Tá comhaid anaithnid sa chartlann:\n"
+
+#: Application/DialogManager.cpp:1256
+msgid "Restore was successful."
+msgstr "D'éirigh leis an athchur"
+
+#: Application/DialogManager.cpp:1260
+msgid "There were problems during the restore."
+msgstr "Tharla fadhbhanna i rith an athchuir."
+
+#: Application/DialogManager.cpp:1529
+msgid "New Event..."
+msgstr "Imeacht Nua..."
+
+#: Application/DialogManager.cpp:1568
+#: Application/DialogTodo.cpp:88
+#: Application/DialogTodo.cpp:430
+msgid "Task"
+msgstr "Beart Oibre"
+
+#: Application/DialogManager.cpp:1575
+msgid "New Task..."
+msgstr "Beart oibre nua..."
+
+#: Application/DialogManager.cpp:1772
+msgid "Daily"
+msgstr "Laethúil"
+
+#: Application/DialogManager.cpp:1775
+msgid "Weekly"
+msgstr "Seachtainiúil"
+
+#: Application/DialogManager.cpp:1778
+msgid "Monthly"
+msgstr "Míosúil"
+
+#: Application/DialogManager.cpp:1781
+msgid "Yearly"
+msgstr "Bliantúil"
+
+#: Application/DialogManager.cpp:1793
+msgid "Single"
+msgstr "Uair amháin"
+
+#: Application/DialogManager.cpp:1845
+#: Application/DialogSkinSettings.cpp:325
+#: Application/ItemListTodo.cpp:962
+#: Application/res/todo.cpp:17
+#: Application/res/todo.cpp:18
+#: Application/Resource.h:377
+msgid "None"
+msgstr "Dada"
+
+#: Application/DialogManager.cpp:1849
+#: Application/ItemListTodo.cpp:966
+#: Application/res/todo.cpp:21
+msgid "High"
+msgstr "Ard"
+
+#: Application/DialogManager.cpp:1853
+#: Application/ItemListTodo.cpp:970
+#: Application/res/todo.cpp:20
+msgid "Medium"
+msgstr "Meánach"
+
+#: Application/DialogManager.cpp:1857
+#: Application/ItemListTodo.cpp:974
+#: Application/res/todo.cpp:19
+msgid "Low"
+msgstr "Íseal"
+
+#: Application/DialogManager.cpp:1880
+#: Application/ItemListTodo.cpp:751
+#: Application/ItemListTodo.cpp:983
+#: Application/ItemListTodo.cpp:1396
+#: Application/res/todo.cpp:26
+msgid "Completed"
+msgstr "Críochnaithe"
+
+#: Application/DialogManager.cpp:1887
+#: Application/ItemListTodo.cpp:754
+#: Application/ItemListTodo.cpp:986
+#: Application/ItemListTodo.cpp:1397
+#: Application/res/todo.cpp:27
+msgid "Cancelled"
+msgstr "Cealaithe"
+
+#: Application/DialogManager.cpp:1902
+#: Application/ItemListTodo.cpp:748
+#: Application/ItemListTodo.cpp:989
+#: Application/ItemListTodo.cpp:1394
+#: Application/res/todo.cpp:25
+msgid "In Progress"
+msgstr "Ar Siúl"
+
+#: Application/DialogManager.cpp:1909
+#: Application/ItemListTodo.cpp:758
+#: Application/ItemListTodo.cpp:992
+#: Application/ItemListTodo.cpp:1381
+msgid "Needs Action"
+msgstr "Gníomh De Dhíth"
+
+#: Application/DialogMessage.cpp:160
+msgid "Error"
+msgstr "Botún"
+
+#: Application/DialogMessage.cpp:164
+msgid "Warning"
+msgstr "Rabhadh"
+
+#: Application/DialogMessage.cpp:168
+msgid "Question"
+msgstr "Ceist"
+
+#: Application/DialogMessage.cpp:172
+msgid "Information"
+msgstr "Eolas"
+
+#: Application/DialogMessage.cpp:230
+msgid "Do not show this again"
+msgstr "Ná taispeáin seo arís"
+
+#: Application/DialogMessage.cpp:301
+#: Application/DialogMessage.cpp:339
+msgid "&Yes"
+msgstr "Tá"
+
+#: Application/DialogMessage.cpp:302
+#: Application/DialogMessage.cpp:343
+msgid "&No"
+msgstr "Níl"
+
+#: Application/DialogOptions.cpp:84
+msgid "Options"
+msgstr "Roghanna"
+
+#: Application/DialogOptions.cpp:134
+msgid "Skins"
+msgstr "Craicinn"
+
+#: Application/DialogOptions.cpp:137
+#: Application/res/options.cpp:23
+msgid "Hotkeys"
+msgstr "Eochracha aicearra"
+
+#: Application/DialogOptions.cpp:140
+msgid "Advanced"
+msgstr "Ardroghanna"
+
+#: Application/DialogOptions.cpp:162
+msgid "Reset"
+msgstr "Athshocraigh"
+
+#: Application/DialogOptions.cpp:345
+msgid "Get more languages..."
+msgstr "Faigh tuilleadh teangacha..."
+
+#: Application/DialogOptions.cpp:584
+msgid "Get more skins..."
+msgstr "Faigh tuilleadh craicinn..."
+
+#: Application/DialogOptions.cpp:680
+#: Application/DialogOptions.cpp:930
+#: Application/DialogOptions.cpp:1035
+msgid "TrayIcon"
+msgstr "Deilbhín Tráidire"
+
+#: Application/DialogOptions.cpp:790
+msgid "Author"
+msgstr "Údar"
+
+#: Application/DialogOptions.cpp:805
+msgid "Homepage"
+msgstr "Clár Cinn"
+
+#: Application/DialogOptions.cpp:812
+msgid "Addons"
+msgstr "Breiseáin"
+
+#: Application/DialogOptions.cpp:836
+msgid "This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "Is seanchraiceann Rainlendar é seo. B'fhéidir nach bhfeidhmeoidh roinnt do na gnéithe."
+
+#: Application/DialogOptions.cpp:881
+#: Application/res/options.cpp:33
+msgid "Advanced >>>"
+msgstr "Ardroghanna >>>"
+
+#: Application/DialogOptions.cpp:885
+msgid "<<< Simple"
+msgstr "<<< Diúid"
+
+#: Application/DialogOptions.cpp:994
+msgid "Open containing folder"
+msgstr "Oscail an fillteán ina bhfuil sé ann"
+
+#: Application/DialogOptions.cpp:995
+#: Application/HotkeyControl.cpp:180
+#: Application/ItemCalendar.cpp:686
+#: Application/ItemListAlarm.cpp:461
+#: Application/ItemListAlarm.cpp:469
+#: Application/res/event.cpp:40
+#: Application/res/event.cpp:41
+#: Application/res/manager.cpp:12
+#: Application/res/todo.cpp:64
+#: Application/res/todo.cpp:65
+msgid "Delete"
+msgstr "Scrios"
+
+#: Application/DialogOptions.cpp:1136
+msgid "Custom categories are not supported."
+msgstr "Ní thacaítear le catagóirí saincheaptha."
+
+#: Application/DialogOptions.cpp:1136
+#, c-format
+msgid "The skin \"%s\" doesn't support custom category appearances so it's not possible to edit them."
+msgstr "Ní thacaíonn an craiceann \"%s\" le cuma shaincheaptha ar chatagóirí, mar sin ní féidir iad a chur in eagar."
+
+#: Application/DialogOptions.cpp:1586
+msgid "Hotkey"
+msgstr "Eochair aicearra"
+
+#: Application/DialogOptions.cpp:1587
+msgid "Function"
+msgstr "Feidhm"
+
+#: Application/DialogOptions.cpp:1677
+#: Application/res/manager.cpp:18
+msgid "Search:"
+msgstr "Cuardaigh:"
+
+#: Application/DialogOptions.cpp:1709
+#: Application/Rainlendar.cpp:497
+msgid "Do you want to reset all settings?"
+msgstr "An mian leat na socruithe uile a athshocrú?"
+
+#: Application/DialogOptions.cpp:1710
+msgid "This will reset all settings to default values. The default settings are applied immediately. Do you want to continue?"
+msgstr "Athsocróidh sé seo gach socrú go luachanna réamhshocraithe. Cuirtear na réamhshocruithe i bhfeidhm láithreach. An mian leat leanúint ar aghaidh?"
+
+#: Application/DialogOptions.cpp:1787
+msgid "Common"
+msgstr "Coitianta"
+
+#: Application/DialogOptions.cpp:1788
+#: Application/DialogOptions.cpp:2132
+msgid "Enabled"
+msgstr "Cumasaithe"
+
+#: Application/DialogOptions.cpp:1789
+#: Application/DialogOptions.cpp:2136
+msgid "Read only"
+msgstr "Inléite amháin"
+
+#: Application/DialogOptions.cpp:1790
+#: Application/DialogOptions.cpp:2140
+msgid "Ignore alarms"
+msgstr "Ná bac le na rabhcháin"
+
+#: Application/DialogOptions.cpp:1802
+#: Application/DialogOptions.cpp:2144
+msgid "Visual category"
+msgstr "Aicme infheicthe"
+
+#: Application/DialogOptions.cpp:1804
+#: Application/DialogOptions.cpp:2156
+msgid "Time offset (mins)"
+msgstr "Fritháireamh ama (nóiméid)"
+
+#: Application/DialogOptions.cpp:1992
+#, c-format
+msgid "Copy of %s"
+msgstr "Macasamhail de %s"
+
+#: Application/DialogOptions.cpp:1996
+#: Application/WizardPageCalendar.cpp:627
+msgid "Please enter a name for the calendar."
+msgstr "Cuir isteach ainm don fhéilire le do thoil."
+
+#: Application/DialogOptions.cpp:2001
+#: Application/DialogOptions.cpp:2006
+msgid "Unable to create the calendar!"
+msgstr "Níorbh fhéidir an féilire a chruthú!"
+
+#: Application/DialogOptions.cpp:2001
+#: Application/WizardPageCalendar.cpp:731
+msgid "You must give a name for the calendar."
+msgstr "Caithfear ainm a thabhairt don fhéilire."
+
+#: Application/DialogOptions.cpp:2024
+#, c-format
+msgid "A calendar called \"%s\" already exists."
+msgstr "Tá féilire eile ann darbh ainm \"%s\" cheana féin."
+
+#: Application/DialogOptions.cpp:2025
+msgid "Choose another name."
+msgstr "Roghnaigh ainm eile."
+
+#: Application/DialogOptions.cpp:2547
+msgid "Do you want to delete the skin?"
+msgstr "An mian leat an craiceann a scriosadh?"
+
+#: Application/DialogOptions.cpp:2548
+#, c-format
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"Má roghnaíonn tú tá, scriosfar\n"
+"an craiceann \"%s\" go deo."
+
+#: Application/DialogOptions.cpp:2554
+msgid "Delete failed!"
+msgstr "Theip ar an scriosadh!"
+
+#: Application/DialogOptions.cpp:2555
+msgid "Unable to delete the skin."
+msgstr "Níorbh fhéidir an craiceann a scriosadh."
+
+#: Application/DialogPrint.cpp:46
+msgid "Print"
+msgstr "Clóbhuail"
+
+#: Application/DialogPrint.cpp:82
+msgid "Print items"
+msgstr "Clóbhuail na míreanna"
+
+#: Application/DialogPrint.cpp:372
+msgid "Location"
+msgstr "Suíomh"
+
+#: Application/DialogPrint.cpp:400
+#: Application/HotkeyControl.cpp:186
+msgid "End"
+msgstr "Deireadh"
+
+#: Application/DialogPrint.cpp:425
+msgid "Url"
+msgstr "URL"
+
+#: Application/DialogSkinSettings.cpp:52
+#: Application/res/options.cpp:22
+msgid "Settings"
+msgstr "Socruithe"
+
+#: Application/DialogSkinSettings.cpp:81
+msgid "Variables"
+msgstr "Athróga"
+
+#: Application/DialogSkinSettings.cpp:89
+msgid "Window settings"
+msgstr "Socruithe na fuinneoige"
+
+#: Application/DialogSkinSettings.cpp:94
+msgid "Settings can be shown only for a single window."
+msgstr "Ní féidir socruithe a thaispeáint ach do fhuinneog amháin."
+
+#: Application/DialogSkinSettings.cpp:98
+msgid "No settings available."
+msgstr "Níl socruithe ar fáil."
+
+#: Application/DialogSkinSettings.cpp:216
+msgid "Global variables"
+msgstr "Athróga comhchoiteanna"
+
+#: Application/DialogSkinSettings.cpp:236
+#: Application/DialogSkinSettings.cpp:458
+msgid "Visible"
+msgstr "Infheicthe"
+
+#: Application/DialogSkinSettings.cpp:238
+#: Application/DialogSkinSettings.cpp:459
+msgid "Grow upwards"
+msgstr "Fás in airde é"
+
+#: Application/DialogSkinSettings.cpp:241
+#: Application/DialogSkinSettings.cpp:461
+msgid "Scale"
+msgstr "Scála"
+
+#: Application/DialogSkinSettings.cpp:245
+msgid "Filters"
+msgstr "Scagairí"
+
+#: Application/DialogSkinSettings.cpp:251
+#: Application/DialogSkinSettings.cpp:480
+msgid "Included calendars"
+msgstr "Féilirí san áireamh"
+
+#: Application/DialogSkinSettings.cpp:252
+#: Application/DialogSkinSettings.cpp:487
+msgid "Excluded calendars"
+msgstr "Féilirí as an áireamh"
+
+#: Application/DialogSkinSettings.cpp:275
+#: Application/DialogSkinSettings.cpp:494
+msgid "Included categories"
+msgstr "Aicmí san áireamh"
+
+#: Application/DialogSkinSettings.cpp:278
+#: Application/DialogSkinSettings.cpp:509
+msgid "Excluded categories"
+msgstr "Aicmí as an áireamh"
+
+#: Application/DialogSkinSettings.cpp:284
+msgid "Task list"
+msgstr "Bearta Oibre"
+
+#: Application/DialogSkinSettings.cpp:287
+#: Application/ItemListTodo.cpp:1240
+#: Application/ItemListTodo.cpp:1258
+msgid "Alphabetically"
+msgstr "De réir aibítre"
+
+#: Application/DialogSkinSettings.cpp:288
+#: Application/ItemListTodo.cpp:1241
+#: Application/ItemListTodo.cpp:1259
+msgid "By Category"
+msgstr "De réir aicme"
+
+#: Application/DialogSkinSettings.cpp:289
+#: Application/ItemListTodo.cpp:1242
+#: Application/ItemListTodo.cpp:1260
+msgid "By Due Date"
+msgstr "De réir dáta dlite"
+
+#: Application/DialogSkinSettings.cpp:290
+#: Application/ItemListTodo.cpp:1243
+#: Application/ItemListTodo.cpp:1261
+msgid "By Start Date"
+msgstr "De réir dáta tosaithe"
+
+#: Application/DialogSkinSettings.cpp:291
+#: Application/ItemListTodo.cpp:1244
+#: Application/ItemListTodo.cpp:1262
+msgid "By Status"
+msgstr "De réir treo"
+
+#: Application/DialogSkinSettings.cpp:292
+#: Application/ItemListTodo.cpp:1245
+#: Application/ItemListTodo.cpp:1263
+msgid "By Priority"
+msgstr "De réir tosaíochta"
+
+#: Application/DialogSkinSettings.cpp:293
+#: Application/ItemListTodo.cpp:1246
+#: Application/ItemListTodo.cpp:1264
+msgid "By Location"
+msgstr "De réir suímh"
+
+#: Application/DialogSkinSettings.cpp:294
+#: Application/ItemListTodo.cpp:1247
+#: Application/ItemListTodo.cpp:1265
+msgid "By Calendar"
+msgstr "De réir féilire"
+
+#: Application/DialogSkinSettings.cpp:295
+#: Application/ItemListTodo.cpp:1248
+#: Application/ItemListTodo.cpp:1266
+msgid "Custom"
+msgstr "Saincheaptha"
+
+#: Application/DialogSkinSettings.cpp:297
+#: Application/DialogSkinSettings.cpp:466
+#: Application/ItemListTodo.cpp:1302
+msgid "Primary sort order"
+msgstr "Príomhbhealach sraithrannaithe"
+
+#: Application/DialogSkinSettings.cpp:298
+#: Application/DialogSkinSettings.cpp:467
+#: Application/ItemListTodo.cpp:1303
+msgid "Secondary sort order"
+msgstr "Dara bhealach sraithrainnaithe"
+
+#: Application/DialogSkinSettings.cpp:299
+#: Application/DialogSkinSettings.cpp:468
+msgid "Reverse primary sorting"
+msgstr "An phríomhshórtáil droim ar ais"
+
+#: Application/DialogSkinSettings.cpp:300
+#: Application/DialogSkinSettings.cpp:469
+msgid "Reverse secondary sorting"
+msgstr "An tsórtáil thanáisteach droim ar ais"
+
+#: Application/DialogSkinSettings.cpp:301
+#: Application/DialogSkinSettings.cpp:470
+#: Application/ItemListTodo.cpp:1351
+msgid "Hide completed tasks"
+msgstr "Folaigh bearta oibre atá críochnaithe"
+
+#: Application/DialogSkinSettings.cpp:302
+#: Application/DialogSkinSettings.cpp:471
+#: Application/ItemListTodo.cpp:1356
+msgid "Hide canceled tasks"
+msgstr "Folaigh bearta oibre atá cealaithe"
+
+#: Application/DialogSkinSettings.cpp:303
+#: Application/DialogSkinSettings.cpp:472
+#: Application/ItemListTodo.cpp:1361
+msgid "Hide upcoming tasks"
+msgstr "Folaigh bearta oibre atá le teacht"
+
+#: Application/DialogSkinSettings.cpp:308
+msgid "Window variables"
+msgstr "Athróga na fuinneoige"
+
+#: Application/DialogSkinSettings.cpp:319
+msgid "Operations"
+msgstr "Oibríochtaí"
+
+#: Application/DialogSkinSettings.cpp:368
+#: Application/DialogSkinSettings.cpp:530
+msgid "Left click"
+msgstr "Clébhrúigh"
+
+#: Application/DialogSkinSettings.cpp:371
+#: Application/DialogSkinSettings.cpp:540
+msgid "Right click"
+msgstr "Deasbhrúigh"
+
+#: Application/DialogSkinSettings.cpp:374
+#: Application/DialogSkinSettings.cpp:550
+msgid "Double left click"
+msgstr "Brúigh ar chlé faoi dhó"
+
+#: Application/DialogSkinSettings.cpp:377
+#: Application/DialogSkinSettings.cpp:560
+msgid "Double right click"
+msgstr "Brúigh ar dheis faoi dhó"
+
+#: Application/DropTarget.cpp:81
+msgid "Upgrade to Pro version before installing the license."
+msgstr "Faigh an leagan Pro roimh an ceadúnas a shuiteáil."
+
+#: Application/DropTarget.cpp:82
+msgid "You are still using the Lite version which doesn't include the Pro features. You need to go to the Rainlendar's download page and get the Pro version."
+msgstr "Tá tú fós ag baint feidhm an leagan Lite, nach áirítear ann gnéithe Pro. Caithfear dul go dtí leathanach íosluchtaithe Rainlendar agus an leagan Pro a fháil."
+
+#: Application/DropTarget.cpp:85
+msgid "&Get Pro"
+msgstr "Faigh Pro"
+
+#: Application/DropTarget.cpp:86
+msgid "&Ignore"
+msgstr "Déan neamhaird de"
+
+#: Application/DropTarget.cpp:105
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"Má íosluchtaigh tú comhad .r2skin nó .r2lang agus d'athraigh\n"
+"do líonléitheoir an iarmhír go .zip, is féidir leat an comhad\n"
+"a athainmniú go dtí mar a bhí agus é a thabhairt isteach arís."
+
+#: Application/DropTarget.cpp:106
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Ní féidir cartlanna ZIP a thabhairt isteach go Rainlendar."
+
+#: Application/DropTarget.cpp:133
+#, c-format
+msgid "Unknown file \"%s\"."
+msgstr "Comhad anaithnid \"%s\"."
+
+#: Application/DropTarget.cpp:134
+msgid "The file cannot be imported into Rainlendar."
+msgstr "Ní féidir an comhad a thabhairt isteach i Rainlendar."
+
+#: Application/DropTarget.cpp:141
+msgid "Installation failed!"
+msgstr "Theip ar an suiteáil!"
+
+#: Application/DropTarget.cpp:142
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Ní féidir an comhad a mhacasamhlú. Is ionann an fhoinse agus an sprioc."
+
+#: Application/DropTarget.cpp:163
+#, c-format
+msgid "Unable to install the file \"%s\"."
+msgstr "Níorbh fhéidir an comhad \"%s\" a shuiteáil."
+
+#: Application/DropTarget.cpp:164
+#: Application/Util.cpp:2393
+msgid "The folder does not have write permissions."
+msgstr "Níl ceadanna scríofa ag an bhfillteán."
+
+#: Application/DropTarget.cpp:230
+#, c-format
+msgid "The skin %s doesn't exist."
+msgstr "Níl an craiceann %s ann."
+
+#: Application/DropTarget.cpp:231
+msgid "Unable to merge the addon."
+msgstr "Níorbh fhéidir an breiseán a chumascú."
+
+#: Application/DropTarget.cpp:263
+#, c-format
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"Tá an comhad \"%s\" ann cheana.\n"
+"An mian leat comhad eile a chur ina ionad?"
+
+#: Application/DropTarget.cpp:291
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Tá an comhad thuas ann cheana. An mian leat forscríobh air?"
+
+#: Application/DropTarget.cpp:333
+msgid "Unable to install the skin!"
+msgstr "Níorbh fhéidir an craiceann a shuiteáil!"
+
+#: Application/DropTarget.cpp:334
+msgid "The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml format Rainlendar skin?"
+msgstr "Níl an comhad \"skin.xml\" sa chraiceann. An bhfuil tú cinnte gurb craiceann Rainlendar xml é seo?"
+
+#: Application/DropTarget.cpp:356
+msgid "The installation was successful!"
+msgstr "D'éirigh leis an suiteáil!"
+
+#: Application/DropTarget.cpp:357
+#, c-format
+msgid "The file \"%s\" was installed successfully.."
+msgstr "Suiteáladh an comhad \"%s\" go rathúil..."
+
+#: Application/DropTarget.cpp:359
+msgid "Please refresh (or restart) Rainlendar to see the changes."
+msgstr "Athnuaigh (nó atosaigh) Rainlendar chun na hathruithe a fheiceáil."
+
+#: Application/DropTarget.cpp:364
+msgid "The installation failed!"
+msgstr "Theip ar an suiteáil!"
+
+#: Application/DropTarget.cpp:365
+#, c-format
+msgid "The installation of the file \"%s\" failed!"
+msgstr "Theip ar shuiteáil an comhad  \"%s\"."
+
+#: Application/DropTarget.cpp:409
+msgid "Select the calendar for the imported items:"
+msgstr "Roghnaigh an féilire do na míreanna tugtha isteach:"
+
+#: Application/DropTarget.cpp:421
+msgid "There are no calendars available that are able to store the item."
+msgstr "Níl féilire ar bith ar fáil atá in ann an mhír a chur i dtaisce."
+
+#: Application/DropTarget.cpp:439
+#, c-format
+msgid "Imported %i items successfully."
+msgstr "Tugadh isteach %i m(h)íreanna go rathúil."
+
+#: Application/DropTarget.cpp:451
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Caithfear féilire amháin ar a laghad a roghnú do na himeachtaí allmhuirithe"
+
+#: Application/DropTarget.cpp:543
+#, c-format
+msgid ""
+"This skin addon is for version %s of the skin.\n"
+"The installed version is %s."
+msgstr ""
+"Tá an breiseán craicinn seo do leagan a %s den craiceann.\n"
+"Is é leagan a %s atá suiteáilte."
+
+#: Application/DropTarget.cpp:559
+#, c-format
+msgid "Failed to install \"%s\"."
+msgstr "Níor éirigh le suitéail \"%s\"."
+
+#: Application/DropTarget.cpp:560
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"Cuireadh an breiseán craicinn i bhfeidhm ar an gcraiceann cheana féin.\n"
+"Ní féidir an breiseán céanna a chur i bhfeidhm ar an gcraiceann ach uair amháin."
+
+#: Application/DropTarget.cpp:774
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Níorbh fhéidir comhad sealadach a chruthú chun an breiseán a chumuscú ann."
+
+#: Application/HotkeyControl.cpp:104
+msgid "Win"
+msgstr "Win"
+
+#: Application/HotkeyControl.cpp:110
+msgid "Control"
+msgstr "Control"
+
+#: Application/HotkeyControl.cpp:116
+msgid "Alt"
+msgstr "Alt"
+
+#: Application/HotkeyControl.cpp:122
+msgid "Shift"
+msgstr "Iomlaoid (Shift)"
+
+#: Application/HotkeyControl.cpp:170
+msgid "Back"
+msgstr "Siar"
+
+#: Application/HotkeyControl.cpp:172
+msgid "Tab"
+msgstr "Tab"
+
+#: Application/HotkeyControl.cpp:174
+msgid "Return"
+msgstr "Aisfhill (Return)"
+
+#: Application/HotkeyControl.cpp:176
+msgid "Esc"
+msgstr "Esc"
+
+#: Application/HotkeyControl.cpp:178
+msgid "Space"
+msgstr "Bearna (Space)"
+
+#: Application/HotkeyControl.cpp:182
+msgid "Page Up"
+msgstr "Page Up"
+
+#: Application/HotkeyControl.cpp:184
+msgid "Page Down"
+msgstr "Page Down"
+
+#: Application/HotkeyControl.cpp:198
+msgid "Insert"
+msgstr "Insert"
+
+#: Application/HotkeyControl.cpp:232
+msgid "NumLock"
+msgstr "NumLock"
+
+#: Application/HotkeyControl.cpp:234
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+#: Application/ItemCalendar.cpp:672
+#, c-format
+msgid "Edit \"%s\""
+msgstr "Cuir \"%s\" in eagar"
+
+#: Application/ItemCalendar.cpp:681
+msgid "Delete all"
+msgstr "Scrios uile"
+
+#: Application/ItemCalendar.cpp:688
+msgid "Events"
+msgstr "Imeachtaí"
+
+#: Application/ItemList.cpp:615
+msgid "Today"
+msgstr "Inniu"
+
+#: Application/ItemList.cpp:619
+msgid "Tomorrow"
+msgstr "Amárach"
+
+#: Application/ItemList.cpp:623
+msgid "Yesterday"
+msgstr "Inné"
+
+# The %1 will be replaced with the day (e.g. Last Monday). This text is shown in the event list.
+#: Application/ItemList.cpp:662
+#: Application/ItemList.cpp:698
+msgid "Last %1"
+msgstr "An %1 deiridh"
+
+#: Application/ItemList.cpp:669
+#: Application/ItemList.cpp:726
+msgid "%1 next week"
+msgstr "%1 an tseachtain seo chugainn"
+
+#: Application/ItemList.cpp:674
+#: Application/ItemList.cpp:706
+msgid "%1 last week"
+msgstr "%1 an tseachtain seo chaite"
+
+#: Application/ItemList.cpp:679
+#: Application/ItemList.cpp:712
+msgid "%1 %2 weeks ago"
+msgstr "%1 %2 seachtainí ó shin"
+
+#: Application/ItemList.cpp:686
+#: Application/ItemList.cpp:731
+msgid "%1 in %2 weeks"
+msgstr "%1 i %2 seachtainí"
+
+#: Application/ItemListAlarm.cpp:238
+#, c-format
+msgid " (Due in %s)"
+msgstr " (Dlite i %s)"
+
+#: Application/ItemListAlarm.cpp:244
+#, c-format
+msgid " (Overdue %s)"
+msgstr "(Thar téarma %s)"
+
+#: Application/ItemListAlarm.cpp:258
+#: Application/ItemListAlarm.cpp:293
+#: Application/ItemListAlarm.cpp:429
+msgid "day"
+msgstr "lá"
+
+# Plural version of "day". Shown in the alarm window's due date counter.
+#: Application/ItemListAlarm.cpp:258
+#: Application/ItemListAlarm.cpp:293
+#: Application/ItemListAlarm.cpp:429
+msgid "days"
+msgstr "lá"
+
+#: Application/ItemListAlarm.cpp:262
+#: Application/ItemListAlarm.cpp:437
+msgid "hour"
+msgstr "uair"
+
+#: Application/ItemListAlarm.cpp:262
+#: Application/ItemListAlarm.cpp:437
+msgid "hours"
+msgstr "uair"
+
+#: Application/ItemListAlarm.cpp:266
+#: Application/ItemListAlarm.cpp:445
+msgid "minute"
+msgstr "nóiméad"
+
+#: Application/ItemListAlarm.cpp:266
+#: Application/ItemListAlarm.cpp:445
+msgid "minutes"
+msgstr "nóiméad"
+
+#: Application/ItemListAlarm.cpp:275
+msgid " (Due now)"
+msgstr "(Dlite anois)"
+
+#: Application/ItemListAlarm.cpp:416
+#: Application/Resource.h:435
+msgid "Dismiss"
+msgstr "Ruaig"
+
+#: Application/ItemListAlarm.cpp:450
+#: Application/Resource.h:434
+msgid "Snooze"
+msgstr "Codail"
+
+#: Application/ItemListAlarm.cpp:459
+#: Application/ItemListAlarm.cpp:467
+msgid "Edit..."
+msgstr "Eagar..."
+
+#: Application/ItemListEvent.cpp:478
+#, c-format
+msgid " (%i days)"
+msgstr " (%i lá)"
+
+#: Application/ItemListEvent.cpp:585
+#: Application/ItemScheduleEvent.cpp:200
+msgid "Edit event"
+msgstr "Cuir an t-imeacht in eagar"
+
+#: Application/ItemListEvent.cpp:586
+#: Application/ItemScheduleEvent.cpp:201
+msgid "Delete event"
+msgstr "Scrios an t-imeacht"
+
+#: Application/ItemListEvent.cpp:595
+msgid "Event list"
+msgstr "Imeachtaí"
+
+#: Application/ItemListTodo.cpp:158
+#, c-format
+msgid "[Due %x]"
+msgstr "[Dlite %x]"
+
+#: Application/ItemListTodo.cpp:709
+msgid "No location"
+msgstr "Gan suíomh"
+
+#: Application/ItemListTodo.cpp:717
+msgid "No category"
+msgstr "Gan aicme"
+
+#: Application/ItemListTodo.cpp:734
+msgid "No due date"
+msgstr "Gan dáta dlite"
+
+#: Application/ItemListTodo.cpp:738
+msgid "No start date"
+msgstr "Gan dáta tosaithe"
+
+#: Application/ItemListTodo.cpp:767
+msgid "High Priority"
+msgstr "Tosaíocht Ard"
+
+#: Application/ItemListTodo.cpp:770
+msgid "Medium Priority"
+msgstr "Tosaíocht Mheánach"
+
+#: Application/ItemListTodo.cpp:773
+msgid "Low Priority"
+msgstr "Tosaíocht Íseal"
+
+#: Application/ItemListTodo.cpp:777
+msgid "No Priority"
+msgstr "Gan Tosaíocht"
+
+#: Application/ItemListTodo.cpp:1251
+#: Application/ItemListTodo.cpp:1269
+msgid "Reverse sorting"
+msgstr "Ord droim ar ais"
+
+#: Application/ItemListTodo.cpp:1335
+msgid "New subtask"
+msgstr "Fobheart oibre nua"
+
+#: Application/ItemListTodo.cpp:1339
+#: Application/ItemScheduleEvent.cpp:188
+msgid "Edit task"
+msgstr "Cuir an beart oibre in eagar"
+
+#: Application/ItemListTodo.cpp:1340
+#: Application/ItemScheduleEvent.cpp:189
+msgid "Delete task"
+msgstr "Scrios an beart oibre"
+
+#: Application/ItemListTodo.cpp:1367
+msgid "Todo list"
+msgstr "Le Déanamh"
+
+#: Application/ItemListTooltip.cpp:64
+msgid "No events today."
+msgstr "Níl imeachtaí ann inniu."
+
+#: Application/ItemListTooltip.cpp:86
+msgid "Today's events:"
+msgstr "Imeachtaí an lae inniu:"
+
+#: Application/ItemTime.cpp:117
+#: Application/SkinXML.cpp:411
+msgid "Local"
+msgstr "Áitiúil"
+
+#: Application/PluginManager.cpp:164
+msgid "Invalid plugins found!"
+msgstr "Aimsíodh breiseáin neamhbhailí!"
+
+#: Application/PluginManager.cpp:165
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"Tá na comhaid seo a leanas i bhfillteán breiseáin\n"
+"Rainlendar neamhbhailí agus ba chóir iad a bhaint:\n"
+
+#: Application/PluginManager.cpp:174
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"Cinntigh go bhfuil gach breiseán ón leagan céanna de Rainlendar."
+
+#: Application/Rainlendar.cpp:176
+msgid "allow multiple instances"
+msgstr "ceadaigh iliomad ásc"
+
+#: Application/Rainlendar.cpp:177
+msgid "install a skin or a language"
+msgstr "suiteáil craiceann nó teanga"
+
+#: Application/Rainlendar.cpp:178
+msgid "import the given file"
+msgstr "allmhairigh an comhad seo"
+
+#: Application/Rainlendar.cpp:179
+msgid "path where the configuration file will be stored"
+msgstr "an chonair ina gcuirfear an comhad cumraíochta i dtaisce"
+
+#: Application/Rainlendar.cpp:180
+msgid "execute the given function in a script"
+msgstr "rith an fheidhm thugtha i script"
+
+#: Application/Rainlendar.cpp:181
+msgid "path where the log file will be stored"
+msgstr "an chonair ina gcuirfear comhad an oiris i dtaisce"
+
+#: Application/Rainlendar.cpp:182
+msgid "path where the backups will be stored"
+msgstr "an chonair ina gcuirfear na cúltacaí i dtaisce"
+
+#: Application/Rainlendar.cpp:183
+msgid "add event or task to the calendar"
+msgstr "cuir imeacht nó beart oibre leis an bhféilire"
+
+#: Application/Rainlendar.cpp:184
+msgid "enable verbose logging"
+msgstr "cumasaigh taifead briathrach"
+
+#: Application/Rainlendar.cpp:185
+msgid "enable debug logging"
+msgstr "cumasaigh taifead dífhabhtaí"
+
+#: Application/Rainlendar.cpp:186
+msgid "don't show the messagebox after importing and installing files"
+msgstr "ná taispeáin bosca na dteachtaireachtaí tar éis comhaid a thabhairt isteach agus amach"
+
+#: Application/Rainlendar.cpp:480
+msgid "Do you want to start another instance?"
+msgstr "An mian leat ásc eile a thosú?"
+
+#: Application/Rainlendar.cpp:481
+msgid "Rainlendar seems to be already running. You can start another instance by selecting 'Yes'."
+msgstr "Tá an dealramh air go bhfuil Rainlendar á rith cheana féin. Is féidir ásc eila a thosú trí 'Tá' a bhrú."
+
+#: Application/Rainlendar.cpp:484
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"Murab amhlaidh atá agus preabann an cheist seo anuas gach uair a thosaítear Rainlendar, bain an comhad seo:\n"
+
+#: Application/Rainlendar.cpp:499
+msgid "Note that your events and tasks will be left untouched."
+msgstr "Ní athrófar do chuid imeachtaí agus bearta oibre."
+
+#: Application/Rainlendar.cpp:519
+#, c-format
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Ní féidir an comhad cumraíochta seo a chruthú:\n"
+"\n"
+"%s\n"
+"\n"
+"Cinntigh go bhfuil ceadanna scríofa ag an bhfillteán."
+
+#: Application/Rainlendar.cpp:552
+#, c-format
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"Ní féidir scríobh chuig an gcomhad cumraíochta:\n"
+"\n"
+"%s\n"
+"\n"
+"Cinntigh go bhfuil na ceadanna ceart aige."
+
+#: Application/Rainlendar.cpp:554
+msgid "You won't be able to store any settings permanently."
+msgstr "Ní bheidh tú in ann socrú ar bith a chur i dtaisce go buan."
+
+#: Application/Rainlendar.cpp:625
+#, c-format
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Níorbh fhéidir acmhainní a luchtú ón gconair:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:677
+msgid "This is a BETA version."
+msgstr "Is leagan BETA é seo."
+
+#: Application/Rainlendar.cpp:678
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar.net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr "Tá tú ag úsáid leagan BETA de Rainlendar. Ciallaíonn sé seo nach bhfuil tástáil déanta air fós, agus nach bhfuil sé oiriúnach d'úsáid laethúil.\n\nDéan tuairisc ar aon bhotúin san fhóram Rainlendar BETA ar www.rainlendar.net.\n\n(Ní thaispeánfar an teachtaireacht seo ach uair amháin)"
+
+#: Application/Rainlendar.cpp:681
+#: Application/Rainlendar.cpp:1151
+msgid "&Ok"
+msgstr "Tá g&o maith"
+
+# Used in the Outlook calendar settings
+#: Application/Rainlendar.cpp:876
+msgid "Everything is hidden."
+msgstr "Tá gach rud i bhfolach."
+
+#: Application/Rainlendar.cpp:877
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog again. Click 'No' to make all windows visible again."
+msgstr ""
+"Tá an dealramh air go gcuireadh na fuinneoga uile agus deilbhín an tráidire i bhfolach. An raibh sé mar chuspóir agat?\n"
+"\n"
+"Brúigh 'Tá' más mian leat gach rud a choimeád i bhfolach agus gan an fógra seo a fheiceáil riamh arís. Brúigh 'Níl' chun na fuinneoga a fheiceáil arís."
+
+#: Application/Rainlendar.cpp:1054
+#: Application/Rainlendar.cpp:1133
+msgid "Startup error!"
+msgstr "Botún tosaithe!"
+
+#: Application/Rainlendar.cpp:1055
+msgid "Rainlendar was not able to refresh the settings correctly. Do you want to reset all settings and try again or use one of the backed up versions?"
+msgstr "Ní éirigh le Rainlendar na socruithe a athnuachan i gceart. An mian leat na socruithe uile a athshocrú agus triail a bhaint as arís, nó leagan cúltaca a úsáid?"
+
+#: Application/Rainlendar.cpp:1058
+msgid "&Reset"
+msgstr "Athshoc&raigh"
+
+#: Application/Rainlendar.cpp:1059
+msgid "&Use backup"
+msgstr "Úsáid &cúltaca"
+
+#: Application/Rainlendar.cpp:1060
+msgid "&Keep"
+msgstr "Coimeád"
+
+#: Application/Rainlendar.cpp:1119
+#, c-format
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Níl aon chraiceann sa chonair:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:1134
+msgid "Rainlendar was not able to load the selected skin. Do you want to use the default skin instead?"
+msgstr "Ní raibh Rainlendar in ann an craiceann roghnaithe a luchtú. An mian leat feidhm a bhaint as an gcraiceann réamhshocraithe ina ionad?"
+
+#: Application/Rainlendar.cpp:1147
+msgid "Unable to load the skin!"
+msgstr "Níorbh fhéidir an craiceann a luchtú!"
+
+#: Application/Rainlendar.cpp:1148
+msgid "The selected skin could not be loaded. You can find more details from the Rainlendar's log."
+msgstr "Níorbh fhéidir an craiceann roghnaithe a luchtú. Is féidir tuilleadh sonraí a léamh ar bhlag Rainlendar."
+
+#: Application/Rainlendar.cpp:1152
+msgid "&Show log"
+msgstr "Tai&speáin an logchomhad"
+
+#: Application/Rainlendar.cpp:1190
+#: Application/Resource.h:308
+msgid "Yes"
+msgstr "Tá"
+
+#: Application/Rainlendar.cpp:1190
+#: Application/Resource.h:309
+msgid "No"
+msgstr "Níl"
+
+#: Application/Rainlendar.cpp:1484
+msgid ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+msgstr ""
+"Tá an dealramh air go bhfuil rud éigin cearr le comhad an cheadúnais.\n"
+"Cinntigh go bhfuil URL an íosluchtaithe ceart agus triail arís é."
+
+#: Application/Rainlendar.cpp:2019
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Aimsíodh na seanchomhaid Rainlendar seo:\n"
+"\n"
+
+#: Application/Rainlendar.cpp:2026
+msgid "Do you want to import them?"
+msgstr "An mian leat iad a thabhairt isteach?"
+
+#: Application/Rainlendar.cpp:2048
+#, c-format
+msgid "Import failed with file: \"%s\""
+msgstr "Theip ar an allmhuiriú leis an gcomhad: \"%s\""
+
+#: Application/Rainlendar.cpp:2164
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "Ceannaigh Rainlendar2 Pro?"
+
+#: Application/Rainlendar.cpp:2165
+msgid ""
+"You've been using the unlicensed version of Rainlendar2 Pro for over a month now. Have you considered supporting the developer and purchasing a license?\n"
+"\n"
+"As a special one time offer you can purchase it now just for 5 EUR if you click the \"Buy Now\" link below."
+msgstr "Tá an leagan seo de Rainlendar2 Pro in úsáid agat gan cheadúnas ar feadh níos mó ná mí amháin. Ar mhaith leat ceadúnas a cheannach chun tacaíocht a thabhairt don fhorbróir?\n\nMar thairiscint speisialta, is féidir leat ceadúnas a fháil ar 5 EUR tríd an gcnaipe \"Ceannaigh Anois\" thíos."
+
+#: Application/Rainlendar.cpp:2168
+msgid "&Buy Now"
+msgstr "&Ceannaigh Anois"
+
+#: Application/Rainlendar.cpp:2169
+msgid "&No Thanks"
+msgstr "&Níl, go raibh maith agat"
+
+#: Application/SkinIni.cpp:228
+msgid "The color of the text in calendar and in the lists."
+msgstr "Dath téacs san fhéilire agus sna liostaí."
+
+#: Application/SkinIni.cpp:235
+msgid "The color of the text in the tooltip."
+msgstr "Dath an téasc sa leid uirlise"
+
+#: Application/SkinIni.cpp:343
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 0 to 11 for a specific month in the current year."
+msgstr "Socraíonn sé an mhí a taispeánann an féilire. Socraigh chuig +1 don mhí ar aghaidh, -1 don mhí roimhe nó luach ó 0 go dtí a 11 do mhí shainiúl sa bhliain reatha."
+
+#: Application/SkinIni.cpp:557
+#: Application/Resource.h:631
+msgid "Defines the width of the event list."
+msgstr "Socraíonn sé leithead réim na n-imeachtaí."
+
+#: Application/SkinIni.cpp:558
+#: Application/Resource.h:632
+msgid "Defines the width of the to do list."
+msgstr "Socraíonn sé leithead na réime rudaí le déanamh."
+
+#: Application/SkinManager.cpp:98
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Níorbh fhéidir craicinn gníomhacha a aimsiú.\n"
+"Brúigh Tá go maith chun an chéad chraiceann ar fáil a luchtú."
+
+#: Application/SkinManager.cpp:103
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"Níl fuinneoga gníomhacha ag an gcraiceann.\n"
+"Tá feidhm a bhaint as na bhfuinneoga réamhshocraithe ina n-ionaid."
+
+#: Application/SkinManager.cpp:108
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Níl an craiceann ann.\n"
+"Brúigh Tá go maith chun an chéad chraiceann ar fáil a luchtú."
+
+#: Application/TrayIcon.cpp:582
+msgid "Synchronizing"
+msgstr "Ag comhionannú"
+
+#: Application/TrayIcon.cpp:586
+msgid "Offline"
+msgstr "Gan ceangail leis an idirlíon"
+
+#: Application/Util.cpp:615
+msgid "Jan"
+msgstr "Ean"
+
+#: Application/Util.cpp:617
+msgid "Feb"
+msgstr "Fea"
+
+#: Application/Util.cpp:619
+msgid "Mar"
+msgstr "Már"
+
+#: Application/Util.cpp:621
+msgid "Apr"
+msgstr "Aib"
+
+#: Application/Util.cpp:625
+msgid "Jun"
+msgstr "Mei"
+
+#: Application/Util.cpp:627
+msgid "Jul"
+msgstr "Iúi"
+
+#: Application/Util.cpp:629
+msgid "Aug"
+msgstr "Lún"
+
+#: Application/Util.cpp:631
+msgid "Sep"
+msgstr "MFó"
+
+#: Application/Util.cpp:633
+msgid "Oct"
+msgstr "DFó"
+
+#: Application/Util.cpp:635
+msgid "Nov"
+msgstr "Sam"
+
+#: Application/Util.cpp:637
+msgid "Dec"
+msgstr "Nol"
+
+# This defines how the years are shown after the birthdays and anniversaries. The %1 will be replaced with the ordinal number (e.g. \"2nd\"). Alternatively you can also use %2 which will display just the number (e.g. \"2\").
+#: Application/Util.cpp:1524
+msgid " (%1)"
+msgstr " (%1)"
+
+# This is the common ordinal format. Set it like the ordinal numbers (5th, 27th, 599th) are usually written in your language. The %i will be raplaced with the number. The exceptions are defined in the next entry.
+#: Application/Util.cpp:1973
+#, c-format
+msgid "%ith"
+msgstr "%ith"
+
+# These are the the exceptions to the ordinal numbers. The numeric value in the exceptions is checked with the ordinal number and if the last numbers match the exception format is used instead of the normal format. For example "11th" will match with 11, 111, 211, 311, etc. The "1st" will match with 1, 21, 31, ..., 101, 121, 131, etc. Note that "1st" will not be used with 11, 111, 211, etc. because the "11th" was checked and matched first.
+#: Application/Util.cpp:1974
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11ú;12ú;13ú;1ú;2ú;3ú"
+
+#: Application/Util.cpp:2207
+msgid "edit"
+msgstr "cuir in eagar"
+
+#: Application/Util.cpp:2382
+msgid "Do you want to create the file?"
+msgstr "An mian leat an comhad a chruthú?"
+
+#: Application/Util.cpp:2383
+#, c-format
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"Níl an comhad seo ann:\n"
+"%s"
+
+#: Application/Util.cpp:2392
+#, c-format
+msgid "Unable to create the file \"%s\"."
+msgstr "Níorbh fhéidir an comhad \"%s\" a chruthú."
+
+#: Application/Util.cpp:2597
+msgid "This is a read only event."
+msgstr "Is imeacht inléite amháin é seo."
+
+#: Application/Util.cpp:2597
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "Ní féidir an t-imeacht seo a chur in eagar le Rainlendar."
+
+#: Application/Util.cpp:2601
+msgid "This is a read only task."
+msgstr "Is beart oibre inléite amháin é seo."
+
+#: Application/Util.cpp:2601
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "Ní féidir an beart oibre seo a chur in eagar le Rainlendar."
+
+#: Application/WindowTooltip.cpp:287
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:207
+msgid "URL"
+msgstr "URL"
+
+#: Application/WizardCalendar.cpp:25
+#: Application/WizardCalendar.cpp:30
+msgid "Create a new calendar"
+msgstr "Cruthaigh féilire nua"
+
+#: Application/WizardPageCalendar.cpp:47
+msgid "Please select the type of the calendar."
+msgstr "Roghnaigh an cineál féilire le do thoil."
+
+#: Application/WizardPageCalendar.cpp:51
+msgid "The calendar type defines the format of the events and where they are stored."
+msgstr "Sonraíonn an cineál féilire leagan amach na n-imeachtaí agus cá gcuirtear i dtaisce iad."
+
+#: Application/WizardPageCalendar.cpp:66
+msgid "Type"
+msgstr "Cineál"
+
+#: Application/WizardPageCalendar.cpp:74
+msgid "Go Pro"
+msgstr "Faigh Pro"
+
+#: Application/WizardPageCalendar.cpp:76
+msgid "Rainlendar Pro allows you to access your Outlook, Google Calendar and Remember the Milk events and tasks directly from the desktop calendar."
+msgstr "Ligeann Rainlendar Pro duit teacht ar imeachtaí agus bearta oibre ó Outlook, Google Calendar, agus Remember the Milk go díreach ó fhéilire amháín ar an deasc."
+
+#: Application/WizardPageCalendar.cpp:78
+msgid "Rainlendar Pro allows you to access your Google Calendar and Remember the Milk events and tasks directly from the desktop calendar."
+msgstr "Ligeann Rainlendar Pro duit teacht ar imeachtaí agus bearta oibre ó Google Calendar, agus Remember the Milk go díreach ó fhéilire amháín ar an deasc."
+
+#: Application/WizardPageCalendar.cpp:83
+msgid "Buy license"
+msgstr "Ceannaigh ceadúnas"
+
+#: Application/WizardPageCalendar.cpp:109
+msgid "No calendar selected!"
+msgstr "Níor roghnaíodh féilire!"
+
+#: Application/WizardPageCalendar.cpp:110
+msgid "You need to select a calendar type."
+msgstr "Caithfear cineál féilire a roghnú."
+
+#: Application/WizardPageCalendar.cpp:174
+#: Application/res/alarm.cpp:3
+msgid "Browse..."
+msgstr "Siortaigh..."
+
+#: Application/WizardPageCalendar.cpp:349
+msgid "Downloading..."
+msgstr "Ag íosluchtú..."
+
+#: Application/WizardPageCalendar.cpp:409
+msgid "No urls allowed!"
+msgstr "Ní cheadaítear URLanna!"
+
+#: Application/WizardPageCalendar.cpp:410
+msgid "Only local files can be defined as the file name."
+msgstr "Is comhaid logánta amháin ar féidir a shainmhíniú mar an gcomhadainm."
+
+#: Application/WizardPageCalendar.cpp:416
+msgid "No UNC paths allowed!"
+msgstr "Ní cheadaítear conair UNC!"
+
+#: Application/WizardPageCalendar.cpp:417
+msgid "It's not possible to use UNC paths as the file name. You need to map the network drive to be able to access the files on a server."
+msgstr ""
+"Ní féidir feidhm a bhaint as conair UNC mar chomhadainm.\n"
+"Caithfear an tiomanaí líonra a léarscáiliú chun rochtain a fháil ar na gcomhaid ar fhreastalaí."
+
+#: Application/WizardPageCalendar.cpp:423
+msgid "No filename defined!"
+msgstr "Níl comhadainm sainmhínithe!"
+
+#: Application/WizardPageCalendar.cpp:424
+msgid "You cannot leave the filename field empty. You need to define a file where the events and tasks will be stored."
+msgstr "Ní féidir réimse an chomhadainm a fhágáil folamh. Caithfear comhad a shonrú ina gcuirfear na himeachtaí agus na bearta oibre i dtaisce."
+
+#: Application/WizardPageCalendar.cpp:430
+msgid "The file name is missing."
+msgstr "Tá an comhadainm in easnamh."
+
+#: Application/WizardPageCalendar.cpp:431
+msgid "If you are creating a new calendar you can enter anything as the name. Otherwise select an existing iCalendar (*.ics) file."
+msgstr "Má tá féilire nua á cruthú agat is féidir pé rud is mian leat a chur isteach mar ainm air. Mura dhéantar sin, roghnaigh comhad iCalendar (*.ics) atá ann cheana."
+
+#: Application/WizardPageCalendar.cpp:450
+msgid "The url is empty!"
+msgstr "Tá an tURL folamh!"
+
+#: Application/WizardPageCalendar.cpp:451
+msgid "You cannot leave the url field empty. You need to define a file where the events and tasks will be stored."
+msgstr "Ní féidir réimse an URL a fhágáil folamh. Caithfear comhad a shonrú ina gcuirfear imeachtaí agus bearta oibre i dtaisce."
+
+#: Application/WizardPageCalendar.cpp:457
+msgid "The protocol is missing!"
+msgstr "Tá an comhghnás in easnamh!"
+
+#: Application/WizardPageCalendar.cpp:458
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "Tabhair an comhghnás don tURL freisin le do thoil (m.sh. \"http://\")."
+
+#: Application/WizardPageCalendar.cpp:464
+msgid "The file name is missing from the url!"
+msgstr "Tá an comhadainm in easnamh ón URL!"
+
+#: Application/WizardPageCalendar.cpp:465
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. Otherwise you should verify that the server really doesn't define any file for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Má tá féilire nua á cruthú agat is féidir pé rud is mian leat a chur isteach mar ainm air. Mura dhéantar sin, ba chóir fíorú nach sonraíonn an freastalaí aon chomhad don URL.\n"
+"\n"
+"An mian leat leanúint ar aghaidh?"
+
+#: Application/WizardPageCalendar.cpp:482
+msgid "Incorrect email!"
+msgstr "Seoladh ríomhphoist mícheart!"
+
+#: Application/WizardPageCalendar.cpp:483
+msgid "You need to enter a full email address."
+msgstr "Caithfear seoladh ríomhphoist iomlán a chur isteach."
+
+#: Application/WizardPageCalendar.cpp:635
+msgid "Name"
+msgstr "Ainm"
+
+#: Application/WizardPageCalendar.cpp:721
+msgid "The calendar already exists!"
+msgstr "Tá an féilire ann cheana!"
+
+#: Application/WizardPageCalendar.cpp:722
+msgid "Please choose some other name for the calendar."
+msgstr "Roghnaigh ainm eile don fhéilire le do thoil."
+
+#: Application/WizardPageCalendar.cpp:730
+msgid "The calendar name is empty!"
+msgstr "Tá ainm an fhéilire folamh!"
+
+#: Application/WizardPageCalendar.cpp:739
+msgid "Illegal character!"
+msgstr "Carachtar neamhcheadaithe!"
+
+#: Application/res/about.cpp:2
+#: Application/res/manager.cpp:8
+#: Application/res/manager.cpp:19
+#: Application/res/print.cpp:11
+msgid "Close"
+msgstr "Dún"
+
+#: Application/res/alarm.cpp:1
+msgid "Alarm sound"
+msgstr "Fuaim rabhcháin"
+
+#: Application/res/alarm.cpp:2
+msgid "Select the sound file for the alarm"
+msgstr "Roghnaigh an comhad fuaime don rabhchán"
+
+#: Application/res/event.cpp:3
+#: Application/res/todo.cpp:3
+msgid "Save\tCtrl+S"
+msgstr "Taisc\tCtrl+S"
+
+#: Application/res/event.cpp:4
+#: Application/res/todo.cpp:4
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "Taisc Mar Nua\tShift+Ctrl+S"
+
+#: Application/res/event.cpp:5
+#: Application/res/todo.cpp:5
+msgid "Delete\tCtrl+Delete"
+msgstr "Scrios\tCtrl+Delete"
+
+#: Application/res/event.cpp:6
+#: Application/res/todo.cpp:6
+msgid "Close\tAlt-F4"
+msgstr "Dún\tAlt-F4"
+
+#: Application/res/event.cpp:9
+#: Application/res/todo.cpp:9
+msgid "Summary:"
+msgstr "Achoimre:"
+
+#: Application/res/event.cpp:10
+#: Application/res/todo.cpp:10
+msgid "Location:"
+msgstr "Suíomh:"
+
+#: Application/res/event.cpp:11
+#: Application/res/todo.cpp:11
+msgid "Private"
+msgstr "Caonta"
+
+#: Application/res/event.cpp:12
+#: Application/res/todo.cpp:12
+msgid "Url:"
+msgstr "Url:"
+
+#: Application/res/event.cpp:13
+#: Application/res/todo.cpp:13
+msgid "Start time:"
+msgstr "Am tosaithe:"
+
+#: Application/res/event.cpp:14
+msgid "All day event"
+msgstr "Imeacht an lae ar fad"
+
+#: Application/res/event.cpp:15
+msgid "End time:"
+msgstr "Am críochnaithe:"
+
+#: Application/res/event.cpp:16
+msgid "Mark time as busy"
+msgstr "Rianaigh an t-am mar ghnóthach"
+
+#: Application/res/event.cpp:17
+#: Application/res/todo.cpp:41
+msgid "Calendar:"
+msgstr "Féilire:"
+
+#: Application/res/event.cpp:19
+#: Application/res/todo.cpp:43
+msgid "Category:"
+msgstr "Aicme:"
+
+#: Application/res/event.cpp:21
+#: Application/res/todo.cpp:45
+msgid "Recurrence"
+msgstr "Atarlú"
+
+#: Application/res/event.cpp:22
+#: Application/res/todo.cpp:46
+msgid "Repeat every"
+msgstr "Athdhéan gach"
+
+#: Application/res/event.cpp:24
+#: Application/res/todo.cpp:48
+msgid "Weeks"
+msgstr "Seachtain"
+
+#: Application/res/event.cpp:25
+#: Application/res/todo.cpp:49
+msgid "Months"
+msgstr "Mí"
+
+#: Application/res/event.cpp:26
+#: Application/res/todo.cpp:50
+msgid "Years"
+msgstr "Bliain"
+
+#: Application/res/event.cpp:27
+#: Application/res/todo.cpp:51
+msgid "Mon"
+msgstr "Lua"
+
+#: Application/res/event.cpp:28
+#: Application/res/todo.cpp:52
+msgid "Tue"
+msgstr "Mái"
+
+#: Application/res/event.cpp:29
+#: Application/res/todo.cpp:53
+msgid "Wed"
+msgstr "Céa"
+
+#: Application/res/event.cpp:30
+#: Application/res/todo.cpp:54
+msgid "Thu"
+msgstr "Déa"
+
+#: Application/res/event.cpp:31
+#: Application/res/todo.cpp:55
+msgid "Fri"
+msgstr "Aoi"
+
+#: Application/res/event.cpp:32
+#: Application/res/todo.cpp:56
+msgid "Sat"
+msgstr "Sat"
+
+#: Application/res/event.cpp:33
+#: Application/res/todo.cpp:57
+msgid "Sun"
+msgstr "Dom"
+
+#: Application/res/event.cpp:34
+#: Application/res/todo.cpp:58
+msgid "Repeat"
+msgstr "Athdhéan"
+
+#: Application/res/event.cpp:35
+#: Application/res/todo.cpp:59
+msgid "Forever"
+msgstr "Choíche"
+
+#: Application/res/event.cpp:36
+#: Application/res/todo.cpp:60
+msgid "Number of times"
+msgstr "Líon na n-uaireanta"
+
+#: Application/res/event.cpp:37
+#: Application/res/todo.cpp:61
+msgid "Until"
+msgstr "Go dtí"
+
+#: Application/res/event.cpp:38
+#: Application/res/todo.cpp:62
+msgid "Exception dates"
+msgstr "Dátaí eisceachtúla"
+
+#: Application/res/event.cpp:39
+#: Application/res/options.cpp:27
+#: Application/res/todo.cpp:63
+msgid "Add"
+msgstr "Cuir leis"
+
+#: Application/res/manager.cpp:3
+msgid "Import"
+msgstr "Allmhuirigh"
+
+#: Application/res/manager.cpp:4
+msgid "Export"
+msgstr "Onnmhuirigh"
+
+#: Application/res/manager.cpp:5
+#: Application/res/print.cpp:9
+msgid "Print..."
+msgstr "Clóbhuail..."
+
+#: Application/res/manager.cpp:6
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:229
+msgid "Backup"
+msgstr "Déan cúltaca"
+
+#: Application/res/manager.cpp:7
+msgid "Restore"
+msgstr "Athchur"
+
+#: Application/res/manager.cpp:10
+msgid "New"
+msgstr "Nua"
+
+#: Application/res/manager.cpp:11
+msgid "Edit"
+msgstr "Eagar"
+
+#: Application/res/manager.cpp:13
+msgid "Copy to..."
+msgstr "Macasamhlaigh go..."
+
+#: Application/res/manager.cpp:14
+msgid "Move to..."
+msgstr "Bog go..."
+
+#: Application/res/manager.cpp:15
+msgid "Set categories..."
+msgstr "Socraigh aicmí..."
+
+#: Application/res/manager.cpp:16
+msgid "Show events"
+msgstr "Taispeáin imeachtaí"
+
+#: Application/res/manager.cpp:17
+msgid "Show tasks"
+msgstr "Taispeáin na bearta oibre"
+
+#: Application/res/options.cpp:2
+msgid "Week's start day:"
+msgstr "Lá tosaithe na seachtaine:"
+
+#: Application/res/options.cpp:3
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Taispeáin na himeachtaí inniu ar an tráidire nuair a thosaítear Rainlendar"
+
+#: Application/res/options.cpp:4
+msgid "Add years to birthdays and anniversaries"
+msgstr "Cuir blianta leis na laethanta breithe agus cothromaí bliana"
+
+#: Application/res/options.cpp:5
+msgid "Hide list windows if there are no items"
+msgstr "Folaigh liostaí mura bhfuil míreanna iontu"
+
+#: Application/res/options.cpp:6
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Brúigh tríd (coinnigh síos an cnaipe Iomlaoide chun díghníomhachtú)"
+
+#: Application/res/options.cpp:7
+msgid "Lock windows in place"
+msgstr "Glasaigh na fuinneoga ina láithreacha"
+
+#: Application/res/options.cpp:8
+msgid "Enable on startup"
+msgstr "Cumasaigh ag an tosú"
+
+#: Application/res/options.cpp:9
+msgid "Language:"
+msgstr "Teanga:"
+
+#: Application/res/options.cpp:10
+msgid "Position"
+msgstr "Suíomh"
+
+#: Application/res/options.cpp:11
+msgid "On Top"
+msgstr "Ar Barr"
+
+#: Application/res/options.cpp:13
+msgid "On Bottom"
+msgstr "Ag an mbun"
+
+#: Application/res/options.cpp:14
+msgid "On Desktop"
+msgstr "Ar an Lomchlár"
+
+#: Application/res/options.cpp:15
+msgid "Opacity"
+msgstr "Teimhneacht:"
+
+#: Application/res/options.cpp:16
+msgid "Normal:"
+msgstr "Gnáth:"
+
+#: Application/res/options.cpp:17
+msgid "Mouse over:"
+msgstr "Bog an luchóg thar:"
+
+#: Application/res/options.cpp:21
+msgid "Duplicate..."
+msgstr "Macasamhlaigh..."
+
+#: Application/res/options.cpp:24
+msgid "Action:"
+msgstr "Gníomh:"
+
+#: Application/res/options.cpp:25
+msgid "Hotkey:"
+msgstr "Eochair aicearra:"
+
+#: Application/res/options.cpp:26
+msgid "Set"
+msgstr "Socraigh"
+
+#: Application/res/options.cpp:29
+msgid "Available skins"
+msgstr "Craicinn ar fáil"
+
+#: Application/res/options.cpp:30
+msgid "Active skins"
+msgstr "Craicinn ghníomhacha"
+
+#: Application/res/options.cpp:31
+msgid "Categories..."
+msgstr "Aicmí..."
+
+#: Application/res/options.cpp:32
+msgid "Settings..."
+msgstr "Socruithe..."
+
+#: Application/res/options.cpp:34
+msgid "Details"
+msgstr "Sonraí"
+
+#: Application/res/print.cpp:1
+msgid "All items"
+msgstr "Gach mír"
+
+#: Application/res/print.cpp:2
+msgid "Selected items"
+msgstr "Míreanna roghnaithe"
+
+#: Application/res/print.cpp:3
+msgid "Day range"
+msgstr "Raon laethanta"
+
+#: Application/res/print.cpp:4
+msgid "Select days"
+msgstr "Roghnaigh laethanta"
+
+#: Application/res/print.cpp:7
+msgid "Add title"
+msgstr "Cuir teideal air"
+
+#: Application/res/print.cpp:8
+msgid "Preview..."
+msgstr "Réamhamharc..."
+
+#: Application/res/print.cpp:10
+msgid "Page Setup..."
+msgstr "Socrú an Leathanaigh..."
+
+#: Application/res/todo.cpp:1
+#: Application/res/todo.cpp:8
+msgid "Todo"
+msgstr "Le déanamh"
+
+#: Application/res/todo.cpp:14
+msgid "Due time:"
+msgstr "Am dlite:"
+
+#: Application/res/todo.cpp:15
+msgid "Show in calendar"
+msgstr "Taispeáin sa féilire"
+
+#: Application/res/todo.cpp:16
+msgid "Priority:"
+msgstr "Tosaíocht:"
+
+#: Application/res/todo.cpp:22
+msgid "Status:"
+msgstr "Treo:"
+
+#: Application/res/todo.cpp:23
+#: Application/res/todo.cpp:24
+msgid "Not Started"
+msgstr "Níl Sé Tosaithe"
+
+#: Application/res/todo.cpp:28
+msgid "Progress:"
+msgstr "Dul chun cinn:"
+
+#: Application/res/todo.cpp:29
+#: Application/res/todo.cpp:30
+msgid "0 %"
+msgstr "0 %"
+
+#: Application/res/todo.cpp:31
+msgid "10 %"
+msgstr "10 %"
+
+#: Application/res/todo.cpp:32
+msgid "20 %"
+msgstr "20 %"
+
+#: Application/res/todo.cpp:33
+msgid "30 %"
+msgstr "30 %"
+
+#: Application/res/todo.cpp:34
+msgid "40 %"
+msgstr "40 %"
+
+#: Application/res/todo.cpp:35
+msgid "50 %"
+msgstr "50 %"
+
+#: Application/res/todo.cpp:36
+msgid "60 %"
+msgstr "60 %"
+
+#: Application/res/todo.cpp:37
+msgid "70 %"
+msgstr "70 %"
+
+#: Application/res/todo.cpp:38
+msgid "80 %"
+msgstr "80 %"
+
+#: Application/res/todo.cpp:39
+msgid "90 %"
+msgstr "90 %"
+
+#: Application/res/todo.cpp:40
+msgid "100 %"
+msgstr "100 %"
+
+#: Plugins/Common/ThreadHelper.cpp:570
+msgid "Make sure that your network is working and that your firewall is not blocking the connection."
+msgstr "Cinntigh go bhfuil do líonra ag feidhmiú agus nach bhfuil do bhall dóiteáin ag cur bac ar an gceangail."
+
+#: Plugins/Common/ThreadHelper.cpp:585
+msgid "Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr "Níorbh fhéidir an seachfhreastalaí a réitiú. Fíoraigh go bhfuil do sheachshocruithe ceart."
+
+#: Plugins/Common/ThreadHelper.cpp:586
+msgid "Unable to resolve the host."
+msgstr "Níorbh fhéidir an t-óstach a réiteach."
+
+#: Plugins/Common/ThreadHelper.cpp:587
+msgid "Unable to connect to the server."
+msgstr "Níorbh fhéidir ceangailt leis an bhfreastalaí."
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:230
+msgid "Calendar name"
+msgstr "Ainm an fhéilire"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:234
+msgid "Task list name"
+msgstr "Ainm an tascliosta"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:238
+msgid "Email"
+msgstr "Ríomhphost"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:242
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:215
+msgid "Password"
+msgstr "Focal Faire"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:252
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:225
+#: Plugins/OutlookPlugin/MapiHandler.cpp:507
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:222
+msgid "Poll frequency (mins)"
+msgstr "Minicíocht na bpoll (nóim)"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:267
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:233
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:237
+msgid "Suppress errors"
+msgstr "Ceil botúin"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:271
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:237
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:241
+msgid "Keep offline copy"
+msgstr "Coinnigh macasamhail i dtaisce ar an ríomhaire"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:275
+msgid "Google Calendar alarms"
+msgstr "Rabhcháin Google Calendar"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:280
+msgid "Always use alert"
+msgstr "Bain feidhm as an bhfoláireamh choíche"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:281
+msgid "Default Google methods"
+msgstr "Modhanna Google réamhshocraithe"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:282
+msgid "Default Google notifications"
+msgstr "Fógraí Google réamhshocraithe"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:283
+#: Plugins/iCalMacPlugin/iCalMacHandler.cpp:382
+#: Plugins/OutlookPlugin/MapiHandler.cpp:512
+msgid "Import limit"
+msgstr "Tabhair isteach teorainn"
+
+# Used in the Outlook calendar settings
+#: Plugins/GooglePlugin/GoogleHandler.cpp:285
+#: Plugins/OutlookPlugin/MapiHandler.cpp:514
+msgid "Everything"
+msgstr "Gach rud"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:286
+msgid "Future only"
+msgstr "An todhchaí amháin"
+
+# Used in the Outlook calendar settings
+#: Plugins/GooglePlugin/GoogleHandler.cpp:287
+msgid "Past month"
+msgstr "An mhí seo caite"
+
+# Used in the Outlook calendar settings
+#: Plugins/GooglePlugin/GoogleHandler.cpp:288
+msgid "Past 6 months"
+msgstr "An 6 mhí seo caite"
+
+# Used in the Outlook calendar settings
+#: Plugins/GooglePlugin/GoogleHandler.cpp:289
+msgid "Past year"
+msgstr "An bhliain seo caite"
+
+# Used in the Outlook calendar settings
+#: Plugins/GooglePlugin/GoogleHandler.cpp:290
+msgid "Past 2 years"
+msgstr "An 2 bhliain seo caite"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:360
+msgid "Enter the email and password for your Google account, click the \"Select calendar\" button and choose the calendar and task list you want to access."
+msgstr "Cuir isteach an seoladh r-phoist agus an focal faire do do chuntas Google, cliceáil an cnaipe \"Roghnaigh Féilire\" agus roghnaigh an féilire agus an tascliosta ba mhaith leat a úsáid."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:123
+msgid "Unable to read the calendars."
+msgstr "Níorbh fhéidir na féilirí a léamh."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:128
+#: Plugins/GooglePlugin/GoogleThread.cpp:171
+msgid "Authentication failed."
+msgstr "Theip ar an bhfíordheimhniú."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:133
+#: Plugins/GooglePlugin/GoogleThread.cpp:176
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr "Níorbh fhéidir logáil isteach in Google.\nDeimhnigh gur chuir tú an seoladh r-phoist agus focal faire ceart isteach."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:166
+msgid "Unable to read the task lists."
+msgstr "Níorbh fhéidir na tascliostaí a léamh."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:222
+msgid "The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr "Ní féidir an t-imeacht seo a uasluchtú toisc nach bhfuil an spriocfhéilire ann."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:234
+msgid "The task cannot be uploaded because the target task list hasn't been defined."
+msgstr "Ní féidir an beart oibre seo a uasluchtú toisc nach bhfuil an tascliosta sprice ann."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:245
+#: Plugins/GooglePlugin/GoogleThread.cpp:375
+#: Plugins/GooglePlugin/GoogleThread.cpp:605
+#: Plugins/GooglePlugin/GoogleThread.cpp:732
+#: Plugins/GooglePlugin/GoogleThread.cpp:764
+#: Plugins/GooglePlugin/GoogleThread.cpp:790
+#: Plugins/GooglePlugin/GoogleThread.cpp:825
+#: Plugins/GooglePlugin/GoogleThread.cpp:851
+#: Plugins/GooglePlugin/GoogleThread.cpp:1089
+#: Plugins/GooglePlugin/GoogleThread.cpp:1407
+#: Plugins/GooglePlugin/GoogleThread.cpp:1486
+#: Plugins/GooglePlugin/GoogleThread.cpp:1526
+#: Plugins/GooglePlugin/GoogleThread.cpp:1825
+#, c-format
+msgid "Google Error (%s)!"
+msgstr "Botún Ghoogle (%s)!"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:377
+#, c-format
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Níorbh fhéidir fíordheimhniú le Google.\n"
+"Thug an freastalaí an toradh: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:607
+#: Plugins/GooglePlugin/GoogleThread.cpp:1827
+#, c-format
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Níorbh fhéidir na féilirí a íosluchtú.\n"
+"Thug an freastalaí an toradh: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:734
+#, c-format
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Níorbh fhéidir na tascliostaí a íosluchtú.\n"
+"Thug an freastalaí an toradh: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:766
+msgid "Unable to parse the calendar url."
+msgstr "Níorbh fhéidir URL an fhéilire a mhiondealú."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:794
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Tá an dealramh air go bhfuil URL curtha isteach agat mar ainm an fhéilire.\n"
+"Caithfear feidhm a bhaint as ceann de na hainmneacha thíos ina ionad:\n"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:798
+#, c-format
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Níorbh fhéidir an féilire roghnaithe (%s) a aimsiú.\n"
+"\n"
+"Is iad na féilirí ar fáil ná:\n"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:827
+msgid "Unable to parse the task list url."
+msgstr "Níorbh fhéidir URL an tascliosta a mhiondealú."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:855
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Tá an dealramh air go bhfuil URL curtha isteach agat mar ainm an tascliosta.\n"
+"Caithfear feidhm a bhaint as ceann de na hainmneacha thíos ina ionad:\n"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:859
+#, c-format
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"Níorbh fhéidir an tascliosta roghnaithe (%s) a aimsiú.\n"
+"\n"
+"Is iad na liostaí ar fáil ná:\n"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:1091
+#, c-format
+msgid ""
+"Unable to delete the item.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Níorbh fhéidir an mhír a scriosadh.\n"
+"Thug an freastalaí an toradh seo: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:1411
+msgid "The task cannot be uploaded to the Google Tasks due to a conflict. The updated task will be reloaded from the Google Tasks."
+msgstr ""
+"Ní féidir an beart oibre a uasluchtú chuig Google Tasks de bharr coimhlint. Athuasluchtófar an beart oibre nuashonraithe ó Google Tasks."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:1415
+msgid "The event cannot be uploaded to the Google Calendar due to a conflict. The updated event will be reloaded from the Google Calendar."
+msgstr ""
+"Ní féidir an t-imeacht a uasluchtú chuig an bhFéilire Google de bharr coimhlint. Athuasluchtófar an t-imeacht nuashonraithe ón bhFéilire Google."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:1488
+msgid "Unable to parse the events."
+msgstr "Níorbh fhéidir na himeachtaí a mhiondealú."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:1530
+#, c-format
+msgid ""
+"Unable to upload the task.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Níorbh fhéidir an beart oibre a uasluchtú.\n"
+"Thug an freastalaí an toradh seo: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:1534
+#, c-format
+msgid ""
+"Unable to upload the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Níorbh fhéidir an t-imeacht a uasluchtú.\n"
+"Thug an freastalaí an toradh seo: (%i) %i %s."
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:241
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:444
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:653
+#, c-format
+msgid "Unable to open file \"%s\" for writing."
+msgstr "Níorbh fhéidir an comhad \"%s\" a oscailt chun scríobh ann."
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:266
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:466
+#, c-format
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "Níorbh fhéidir cóip shealadach den chomhad \"%s\" a chruthú."
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:385
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:395
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:529
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:537
+#, c-format
+msgid "Unable to replace the file \"%s\"."
+msgstr "Níorbh fhéidir comhad nua a chur in áit \"%s\"."
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:775
+msgid "Filename"
+msgstr "Comhadainm"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:780
+msgid "Monitor changes"
+msgstr "Déan faireachán ar na hathruithe"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:840
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a new file will be created."
+msgstr ""
+"Roghnaigh comhad don fhéilire.\n"
+"\n"
+"Is féidir leat comhad-ics atá ann cheana a roghnú nó conair-ainm nua a chlóscríobh. Má dhéantar sin, cruthófar comhad nua."
+
+# Used in the Outlook calendar settings
+#: Plugins/iCalMacPlugin/iCalMacHandler.cpp:387
+#: Plugins/OutlookPlugin/MapiHandler.cpp:516
+msgid "6 months"
+msgstr "6 mhí"
+
+# Used in the Outlook calendar settings
+#: Plugins/iCalMacPlugin/iCalMacHandler.cpp:388
+msgid "1 year"
+msgstr "Bliain amháin"
+
+# Used in the Outlook calendar settings
+#: Plugins/iCalMacPlugin/iCalMacHandler.cpp:389
+#: Plugins/OutlookPlugin/MapiHandler.cpp:518
+msgid "2 years"
+msgstr "2 bhliain"
+
+#: Plugins/iCalMacPlugin/iCalMacHandler.cpp:458
+msgid "Select the iCal calendar from the list."
+msgstr "Roghnaigh an féilire iCal ón liosta."
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:211
+msgid "Username"
+msgstr "Ainm úsáideora"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:241
+msgid "Safe upload"
+msgstr "Uasluchtú slán"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:245
+msgid "Authentication"
+msgstr "Fíordheimhniú"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:248
+msgid "Basic"
+msgstr "Bunúsach"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:249
+msgid "Digest"
+msgstr "Digest"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:250
+msgid "GSS-Negotiate"
+msgstr "GSS-Negotiate"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:251
+msgid "NTLM"
+msgstr "NTLM"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:297
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Roghnaigh URL, ainm úsáideora agus focal faire don bhféilire.\n"
+"\n"
+"Is féidir le comhghnáis http, https nó ftp a bheith san URL. Is féidir réimsí an ainm úsáideora agus an fhocail fhaire a fhágáil bán mura bhfuil siad de dhíth."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:195
+#: Plugins/NetworkPlugin/NetworkThread.cpp:217
+#: Plugins/NetworkPlugin/NetworkThread.cpp:377
+#: Plugins/NetworkPlugin/NetworkThread.cpp:427
+#: Plugins/NetworkPlugin/NetworkThread.cpp:461
+#: Plugins/NetworkPlugin/NetworkThread.cpp:847
+#, c-format
+msgid "Network Error (%s)!"
+msgstr "Botún Líonra (%s)!"
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:197
+msgid "Unable to add the item to the online calendar."
+msgstr "Níorbh fhéidir an mhír a chur leis an bhféilire ar an ngréasán."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:219
+msgid "Unable to remove the item from the online calendar."
+msgstr "Níorbh fhéidir an mhír a bhaint ón bhféilire ar an ngréasán."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:379
+#, c-format
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"Níorbh fhéidir an comhad seo a mhiondealú: %s\n"
+"B'fhéidir go bhfuil an comhad truaillithe."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:429
+msgid "The server returned an empty result. Make sure that the calendar url points to a file and not to a folder."
+msgstr "Fuaireadh toradh folamh ón bhfreastalaí. Cinntigh go bhfuil URL an fhéilire dírithe ar chomhad agus ní ar fhillteán."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:463
+#, c-format
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Botún i rith íosluchtú na sonraí ón URL:\n"
+"%s\n"
+"\n"
+"D'athsheol an freastalaí an toradh: (%i) %i %s."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:849
+#, c-format
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Botún i rith uasluchtú na sonraí chuig an URL:\n"
+"%s\n"
+"D'athsheol an freastalaí an toradh: (%i) %i %s."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:126
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both applications."
+msgstr ""
+"Botún Outlook!\n"
+"Níorbh fhéidir an leabharlann MAPI a thúsú.\n"
+"\n"
+"Má tá Rainlendar nó Outlook uasghrádaithe agat, caithfear an féilire Outlook a athchruthú i roghanna Rainlendar.\n"
+"\n"
+"Cinntigh freisin go bhfuil feidhm a bhaint agat as na leaganacha céanna (32beart vs. 64beart) den dá fheidhmchlár."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:380
+#: Plugins/OutlookPlugin/MapiHandler.cpp:613
+#: Plugins/OutlookPlugin/MapiHandler.cpp:627
+msgid "Application"
+msgstr "Feidhmchlár"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:394
+#: Plugins/OutlookPlugin/MapiHandler.cpp:634
+msgid "Profile"
+msgstr "Beathaisnéisín"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:417
+#: Plugins/OutlookPlugin/MapiHandler.cpp:640
+msgid "MessageStore"
+msgstr "Taisce Teachtaireachtaí"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:440
+msgid "Folders"
+msgstr "Fillteáin"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:447
+msgid "Default Folder"
+msgstr "Fillteán Réamhshocraithe"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:492
+msgid "Use labels instead of categories"
+msgstr "Bain feidhm as lipéidí in ionad aicmí"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:497
+msgid "Show edit links"
+msgstr "Taispeáin naisc eagarthóireachta"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:502
+msgid "Keep MAPI connection alive"
+msgstr "Coinnigh an ceangail MAPI beo"
+
+# Used in the Outlook calendar settings
+#: Plugins/OutlookPlugin/MapiHandler.cpp:515
+msgid "Month"
+msgstr "Mí"
+
+# Used in the Outlook calendar settings
+#: Plugins/OutlookPlugin/MapiHandler.cpp:517
+msgid "Year"
+msgstr "Bliain"
+
+# Setting for the Outlook calendar.
+#: Plugins/OutlookPlugin/MapiHandler.cpp:522
+msgid "Read birthdays from contacts"
+msgstr "Faigh breithlaethanta ó theagmhálaithe"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:694
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Roghnaigh cén taisce teachtaireachtaí Outlook ar mian leat a fheiceáil i Rainlendar."
+
+#: Plugins/OutlookPlugin/MapiItem.cpp:622
+#: Plugins/OutlookPlugin/MapiItem.cpp:636
+#, c-format
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][edit]]"
+
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:489
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:560
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:576
+msgid "Outlook error!"
+msgstr "Botún Outlook!"
+
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:491
+#, c-format
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "Theip ar nuashonrú na míre. Tagairt an bhotúin 0x%p"
+
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:562
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:578
+#, c-format
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "Ní féidir an mhír a scriosadh. Tagairt an bhotúin 0x%p"
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:75
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "Níorbh fhéidir an réim Remember The Milk a aimsiú!"
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:77
+#, c-format
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "Níorbh fhéidir an réim \"%s\" a aimsiú. Seo na réimeanna atá ar fáil: "
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:82
+msgid "Please write the name exactly like it is in the above list."
+msgstr "Scríobh an t-ainm díreach mar atá sé sa réim thuas le do thoil."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:315
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:561
+msgid "Unable to parse the ID from the task."
+msgstr "Níorbh fhéidir aitheantas a mhiondealú ón mbeart oibre."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:618
+msgid "Unable to create the task."
+msgstr "Níorbh fhéidir an beart oibre a chruthú."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:624
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:671
+msgid "Unable to parse the timeline."
+msgstr "Níorbh fhéidir an líne ama a mhiondealú."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:867
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:877
+msgid "The service is temporarily unavailable."
+msgstr "Níl an seirbhís ar fáil ar feadh seal."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1024
+msgid "Please log in to Remember The Milk."
+msgstr "Sínigh isteach i Remember The Milk."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1026
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. Please log in to the Remember The Milk web site and give Rainlendar access to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK button."
+msgstr ""
+"Caithfear cead a thabhairt do Rainlendar rochtain a fháil ar do chuntas Remember The Milk. Sínigh isteach i láithreán gréasáin Remember The Milk agus tabhair rochtain do Rainlendar do do chuntas.\n"
+"\n"
+"Osclóidh do líonléitheoir réamhshocraithe nuair a bhrúann tú an cnaipe Tá go maith."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1032
+msgid "Continue after authorization."
+msgstr "Lean ar aghaidh tar éis an ceadúnú."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1034
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr "Brúigh an cnaipe 'Tá go maith' chun leanúint ar aghaidh tar éis duit cead a thabhairt do Rainlendar."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1068
+msgid "Unable to parse the output."
+msgstr "Níorbh fhéidir an t-aschur a mhiondealú."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1143
+#, c-format
+msgid "Unknown response for call \"%s\"."
+msgstr "Freagra anaithnid don glao \"%s\"."
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1159
+#, c-format
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"Theip ar an nglao \"%s\":\n"
+"%s"
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1175
+#, c-format
+msgid "Call to method \"%s\" failed."
+msgstr "Theip ar an nglao chuig an modh \"%s\" "
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1185
+#: Plugins/RememberTheMilkPlugin/RTMThread.cpp:75
+#, c-format
+msgid "Remember The Milk Error (%s)!"
+msgstr "Botún Remember The Milk (%s)!"
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1196
+#, c-format
+msgid "Server returned result: (%i) %i %s."
+msgstr "Thug an freastalaí an toradh seo ar ais: (%i) %i %s."
+
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:218
+msgid "List"
+msgstr "Réim"
+
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:300
+msgid "Choose the name of the task list from the Remember The Milk. You can also leave the field empty if you want to get all your lists."
+msgstr "Roghnaigh ainm réim na mbeart oibre ó Remember The Milk. Is féidir freisin an réimse a fhágáil bán má theastaíonn uait do réimeanna uile a fháil."
+
+#: Plugins/RememberTheMilkPlugin/RTMThread.cpp:77
+msgid "Authentication token is missing. You need to give Rainlendar access to your Remember The Milk account."
+msgstr "Tá an comhartha fíordheimhnithe in easnamh. Caithfear rochtain a thabhairt do Rainlendar do do chuntas Remember The Milk."
+
+#: Application/Resource.h:313
+msgid "Update"
+msgstr "Nuashonrú"
+
+#: Application/Resource.h:315
+msgid "Make a selection:"
+msgstr "Déan rogha:"
+
+#: Application/Resource.h:317
+msgid "Hide Windows"
+msgstr "Folaigh Fuinneoga"
+
+#: Application/Resource.h:318
+msgid "Show Windows"
+msgstr "Taispeáin Fuinneoga"
+
+#: Application/Resource.h:319
+msgid "Toggle Windows"
+msgstr "Scoránaigh Fuinneoga"
+
+#: Application/Resource.h:324
+msgid "Create New Task"
+msgstr "Cruthaigh Beart Oibre Nua"
+
+#: Application/Resource.h:325
+msgid "Create New Event"
+msgstr "Cruthaigh Imeacht Nua"
+
+#: Application/Resource.h:326
+msgid "Create new event or task"
+msgstr "Cruthaigh imeacht nó beart oibre nua"
+
+#: Application/Resource.h:327
+msgid "Quit Application"
+msgstr "Scoir ón bhFeidhmchlár"
+
+#: Application/Resource.h:331
+msgid "Business"
+msgstr "Gnó"
+
+#: Application/Resource.h:332
+msgid "Calls"
+msgstr "Glaonna"
+
+#: Application/Resource.h:333
+msgid "Clients"
+msgstr "Cliaint"
+
+#: Application/Resource.h:334
+msgid "Competition"
+msgstr "Comórtas"
+
+#: Application/Resource.h:335
+msgid "Customer"
+msgstr "Rochtaire"
+
+#: Application/Resource.h:336
+msgid "Exam"
+msgstr "Scrúdú"
+
+#: Application/Resource.h:337
+msgid "Favorites"
+msgstr "Ceanáin"
+
+#: Application/Resource.h:338
+msgid "Follow Up"
+msgstr "Obair Sa Bhreis"
+
+#: Application/Resource.h:339
+msgid "Gifts"
+msgstr "Bronntanais"
+
+#: Application/Resource.h:340
+msgid "Holidays"
+msgstr "Laethanta Saoire"
+
+#: Application/Resource.h:341
+msgid "Ideas"
+msgstr "Smaointe"
+
+#: Application/Resource.h:342
+msgid "Important"
+msgstr "Tábhachtach"
+
+#: Application/Resource.h:343
+msgid "Issues"
+msgstr "Fadhbanna"
+
+#: Application/Resource.h:344
+msgid "Miscellaneous"
+msgstr "Ilghnéitheach"
+
+#: Application/Resource.h:345
+msgid "Personal"
+msgstr "Pearsanta"
+
+#: Application/Resource.h:346
+msgid "Projects"
+msgstr "Tionscadail"
+
+#: Application/Resource.h:347
+msgid "Public Holiday"
+msgstr "Saoire Phoiblí"
+
+#: Application/Resource.h:349
+msgid "Suppliers"
+msgstr "Soláthraithe"
+
+#: Application/Resource.h:350
+msgid "Travel"
+msgstr "Taisteal"
+
+#: Application/Resource.h:351
+msgid "Trip"
+msgstr "Turas"
+
+#: Application/Resource.h:352
+#: Application/Resource.h:575
+msgid "TV"
+msgstr "Cianamharcaíocht"
+
+#: Application/Resource.h:353
+msgid "Vacation"
+msgstr "Saoire"
+
+#: Application/Resource.h:354
+msgid "Work"
+msgstr "Obair"
+
+#: Application/Resource.h:355
+msgid "Medical"
+msgstr "Leigheas"
+
+#: Application/Resource.h:357
+msgid "Urgent"
+msgstr "Práinneach"
+
+#: Application/Resource.h:358
+msgid "Health"
+msgstr "Sláinte"
+
+#: Application/Resource.h:359
+msgid "Sport"
+msgstr "Reabhraí"
+
+#: Application/Resource.h:360
+msgid "Game"
+msgstr "Cluiche"
+
+#: Application/Resource.h:361
+msgid "School"
+msgstr "Scoil"
+
+#: Application/Resource.h:362
+msgid "Party"
+msgstr "Cóisir"
+
+#: Application/Resource.h:363
+msgid "Movie"
+msgstr "Scannán"
+
+#: Application/Resource.h:365
+msgid "[Black]"
+msgstr "[Dubh]"
+
+#: Application/Resource.h:366
+msgid "[Blue]"
+msgstr "[Gorm]"
+
+#: Application/Resource.h:367
+msgid "[Brown]"
+msgstr "[Donn]"
+
+#: Application/Resource.h:368
+msgid "[Cyan]"
+msgstr "[Cian]"
+
+#: Application/Resource.h:369
+msgid "[Green]"
+msgstr "[Uaine]"
+
+#: Application/Resource.h:370
+msgid "[Grey]"
+msgstr "[Liath]"
+
+#: Application/Resource.h:371
+msgid "[Magenta]"
+msgstr "[Maigeanta]"
+
+#: Application/Resource.h:372
+msgid "[Pink]"
+msgstr "[Bándearg]"
+
+#: Application/Resource.h:373
+msgid "[Red]"
+msgstr "[Dearg]"
+
+#: Application/Resource.h:374
+msgid "[Yellow]"
+msgstr "[Buí]"
+
+#: Application/Resource.h:375
+msgid "[Orange]"
+msgstr "[Flannbhuí]"
+
+#: Application/Resource.h:378
+msgid "Must Attend"
+msgstr "Caithfear Bheith Ann"
+
+#: Application/Resource.h:379
+msgid "Travel Required"
+msgstr "Taisteal De Dhíth"
+
+#: Application/Resource.h:380
+msgid "Needs Preparation"
+msgstr "Ullmhú De Dhíth"
+
+#: Application/Resource.h:381
+msgid "Phone Call"
+msgstr "Glao Gutháin"
+
+#: Application/Resource.h:383
+msgid "iCalendar Format"
+msgstr "Leagan amach iCalendar"
+
+#: Application/Resource.h:384
+msgid "Network Shared Calendar"
+msgstr "Féilire a Roinntear ar an Líonra"
+
+#: Application/Resource.h:385
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+#: Application/Resource.h:386
+msgid "Rainlendar Ini Format"
+msgstr "Leagan amach Rainlendar Ini"
+
+#: Application/Resource.h:387
+msgid "Google Calendar"
+msgstr "Féilire Google"
+
+#: Application/Resource.h:389
+msgid "&Next >"
+msgstr "Ar Aghaidh >"
+
+#: Application/Resource.h:390
+msgid "< &Back"
+msgstr "< Siar"
+
+#: Application/Resource.h:391
+msgid "&Finish"
+msgstr "Críochnaigh"
+
+#: Application/Resource.h:393
+msgid "Vertical Calendar"
+msgstr "Féilire Ingearach"
+
+#: Application/Resource.h:395
+msgid "Year Calendar"
+msgstr "Féilire Bliana"
+
+#: Application/Resource.h:396
+msgid "Sidebar"
+msgstr "Taobhstiall"
+
+#: Application/Resource.h:397
+msgid "DigiClock"
+msgstr "Clog digiteachh"
+
+#: Application/Resource.h:398
+msgid "Dual Calendar"
+msgstr "Féilire Déidhe"
+
+#: Application/Resource.h:400
+msgid "Todo List"
+msgstr "Rudaí Le Déanamh"
+
+#: Application/Resource.h:401
+msgid "Grid Calendar"
+msgstr "Féilire Branra"
+
+#: Application/Resource.h:402
+msgid "Vertical Line Calendar"
+msgstr "Féilire Líne Ingearach"
+
+#: Application/Resource.h:403
+msgid "Horizontal Line Calendar"
+msgstr "Féilire Líne Chothrománach"
+
+#: Application/Resource.h:405
+#: Application/Resource.h:414
+msgid "Visible month"
+msgstr "Mí infheicthe"
+
+#: Application/Resource.h:406
+msgid "Show buttons"
+msgstr "Taispeáin Cnaipí"
+
+#: Application/Resource.h:407
+msgid "Show adjacent days"
+msgstr "Taispeáin laethanta cóngaracha"
+
+#: Application/Resource.h:408
+msgid "Eventlist width"
+msgstr "Leithead liosta na n-imeachtaí"
+
+#: Application/Resource.h:409
+msgid "Eventlist height"
+msgstr "Airde liosta na n-imeachtaí"
+
+#: Application/Resource.h:410
+msgid "Todolist width"
+msgstr "Leithead réim Rudaí Le Déanamh"
+
+#: Application/Resource.h:411
+msgid "Todolist height"
+msgstr "Airde réim Rudaí Le Déanamh"
+
+#: Application/Resource.h:412
+msgid "Calendar list width"
+msgstr "Leithead réim na bhféilirí"
+
+#: Application/Resource.h:413
+msgid "Calendar list height"
+msgstr "Airde réim na bhféilirí"
+
+#: Application/Resource.h:415
+msgid "Width"
+msgstr "Leithead"
+
+#: Application/Resource.h:416
+msgid "Show week numbers"
+msgstr "Taispeáin uimhreacha na seachtainí"
+
+#: Application/Resource.h:417
+msgid "Format"
+msgstr "Leagan amach"
+
+#: Application/Resource.h:418
+msgid "Timezone"
+msgstr "Crios ama"
+
+#: Application/Resource.h:419
+msgid "Label"
+msgstr "Lipéad"
+
+#: Application/Resource.h:420
+msgid "Show 3rd month"
+msgstr "Taispeáin an 3ú mí"
+
+#: Application/Resource.h:421
+msgid "Show 4th month"
+msgstr "Taispeáin an 4ú mí"
+
+#: Application/Resource.h:422
+msgid "Show 5th month"
+msgstr "Taispeáin an 5ú mí"
+
+#: Application/Resource.h:423
+msgid "Show 6th month"
+msgstr "Taispeáin an 6ú mí"
+
+#: Application/Resource.h:424
+msgid "Show 7th month"
+msgstr "Taispeáin an 7ú mí"
+
+#: Application/Resource.h:425
+msgid "Show 8th month"
+msgstr "Taispeáin an 8ú mí"
+
+#: Application/Resource.h:426
+msgid "Color"
+msgstr "Dath"
+
+#: Application/Resource.h:427
+msgid "Analog Clock"
+msgstr "Clog Analógach"
+
+#: Application/Resource.h:428
+msgid "Calendar List"
+msgstr "Réim na bhFéilirí"
+
+#: Application/Resource.h:429
+msgid "X count"
+msgstr "X áireamh"
+
+#: Application/Resource.h:430
+msgid "Y count"
+msgstr "Y áireamh"
+
+#: Application/Resource.h:432
+msgid "Snooze All"
+msgstr "Codail Uile"
+
+#: Application/Resource.h:433
+msgid "Dismiss All"
+msgstr "Ruaig Uile"
+
+#: Application/Resource.h:437
+msgid "To do"
+msgstr "Le déanamh"
+
+#: Application/Resource.h:440
+msgid "Today color"
+msgstr "Dath do inniu"
+
+#: Application/Resource.h:441
+msgid "Today shape"
+msgstr "Cruth do inniu"
+
+#: Application/Resource.h:442
+msgid "Circle"
+msgstr "Ciorcal"
+
+#: Application/Resource.h:443
+msgid "Rectangle"
+msgstr "Dronuilleog"
+
+#: Application/Resource.h:444
+#: Application/Resource.h:519
+#: Application/Resource.h:658
+msgid "Red"
+msgstr "Dearg"
+
+#: Application/Resource.h:445
+#: Application/Resource.h:451
+msgid "Orange"
+msgstr "Flannbhuí"
+
+#: Application/Resource.h:446
+#: Application/Resource.h:520
+#: Application/Resource.h:659
+msgid "Yellow"
+msgstr "Buí"
+
+#: Application/Resource.h:447
+#: Application/Resource.h:517
+#: Application/Resource.h:660
+msgid "Green"
+msgstr "Uaine"
+
+#: Application/Resource.h:448
+#: Application/Resource.h:516
+#: Application/Resource.h:667
+msgid "Cyan"
+msgstr "Cian"
+
+#: Application/Resource.h:449
+#: Application/Resource.h:515
+#: Application/Resource.h:657
+msgid "Blue"
+msgstr "Gorm"
+
+#: Application/Resource.h:450
+#: Application/Resource.h:661
+msgid "Magenta"
+msgstr "Maigeanta"
+
+#: Application/Resource.h:452
+msgid "A sequel to the popular Shadow3-skin with some added features like visible days from the next and previous month and a skinned tooltip."
+msgstr "Is leagan leantach é seo don craiceann, Shadow-3, ar a raibh éileamh mór le gnéithe nua churtha leis amhail laethanta infheicthe ón mhí ar aghaidh agus roimhe agus leid uirlise le craiceann uirthi."
+
+#: Application/Resource.h:453
+#: Application/Resource.h:461
+#: Application/Resource.h:522
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 1 to 12 for a specific month in the current year."
+msgstr "Sonraíonn sé an mhí a thaispeánann an féilire. Socraigh chuig +1 don mhí ar aghaidh, -1 don mhí roimhe nó luach ó 1 go dtí a 12 do mhí áirithe sa bhliain reatha."
+
+#: Application/Resource.h:454
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr "Bain an tic chun na cnaipí roimhe agus ar aghaidh a chur i bhfolach ar an bhféilire."
+
+#: Application/Resource.h:455
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr "Bain an tic chun na laethanta a chur i bhfolach ón mhí roimhe agus ar aghaidh."
+
+#: Application/Resource.h:456
+msgid "Defines the width of the event list. The default value is 165 pixels."
+msgstr "Socraíonn sé leithead réim na n-imeachtaí. Is é 165 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:457
+#: Application/Resource.h:524
+msgid "Defines the maximum height of the event list. The default value is 300 pixels."
+msgstr "Socraíonn sé uasairde réim na n-imeachtaí. Is é 300 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:458
+msgid "Defines the width of the to do list. The default value is 165 pixels."
+msgstr "Socraíonn sé leithead na réime rudaí le déanamh. Is é 165 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:459
+#: Application/Resource.h:525
+msgid "Defines the maximum height of the to do list. The default value is 300 pixels."
+msgstr "Socraíonn sé uasairde réim rudaí le déanamh. Is é 300 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:460
+msgid "Defines the width of the calendar list. The default value is 165 pixels."
+msgstr "Socraíonn sé leithead réim an fhéilire. Is é 165 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:462
+msgid "Defines the width of the window. The default value is 165 pixels."
+msgstr "Socraíonn sé leithead na fuinneoige. Is é 165 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:463
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "Bain an tic chun uimhreacha na seachtainí a chur i bhfolach ar an bhféilire."
+
+#: Application/Resource.h:464
+msgid "This defines the format of the clock. To get rid of the seconds use %H:%M or %#I:%M %p"
+msgstr "Socraíonn sé seo leagan amach an chloig. Chun fáil réidh leis na soicindí, bain feidhm as %H:%M nó %#I:%M %p"
+
+#: Application/Resource.h:465
+msgid "Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . You can also use values like CET, EST, PST, A_CST, ..."
+msgstr "Socraíonn sé an crios ama. Socraigh chuig uimhir é: ... -3, -2, -1, 0, +1, +2, +3, ... . Is féidir feidhm a bhaint as luachanna amhail CET, EST, PST, A_CST, ..."
+
+#: Application/Resource.h:466
+msgid "Adds a label for the clock."
+msgstr "Cuireann sé lipéad leis don clog."
+
+#: Application/Resource.h:467
+msgid "Defines the color of the today marker."
+msgstr "Socraíonn sé dath an chomhartha a léiríonn an lá inniu."
+
+#: Application/Resource.h:468
+msgid "Defines the shape of the today marker."
+msgstr "Socraíonn sé cruth an chomhartha a léiríonn an lá inniu."
+
+#: Application/Resource.h:469
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "Socraíonn sé líon na bhféilirí a thaispeántar go cothrománach san fhuinneog."
+
+#: Application/Resource.h:470
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "Socraíonn sé líon na bhféilirí a thaispeántar go hingearach san fhuinneog."
+
+#: Application/Resource.h:471
+#: Application/Resource.h:499
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "Bain an tic chun ainmneacha laethanta na seachtaine a chur i bhfolach ar an bhféilire."
+
+#: Application/Resource.h:472
+msgid "Defines the width of the calendar window. The default value is 500 pixels."
+msgstr "Socraíonn sé leithead fuinneog an fhéilire. Is é 500 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:473
+msgid "Defines the height of the calendar window. The default value is 545 pixels."
+msgstr "Socraíonn sé airde fuinneog an fhéilire. Is é 545 picteilíní an luach réamhshocraithe.\""
+
+#: Application/Resource.h:475
+msgid "Week View"
+msgstr "Amharc Seachtainiúil"
+
+#: Application/Resource.h:476
+msgid "Week view width"
+msgstr "Leithead an amhairc sheachtainiúil"
+
+#: Application/Resource.h:477
+msgid "Defines the width of the week view window. The default value is 400 pixels."
+msgstr "Socraíonn sé leithead na fuinneoige amharc seachtainiúil. Is é 400 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:478
+msgid "Week view height"
+msgstr "Airde an amhairc sheachtainiúil"
+
+#: Application/Resource.h:479
+msgid "Defines the height of the week view window. The default value is 300 pixels."
+msgstr "Socraíonn sé airde fuinneog an amhairc seachtainiúil. Is é 300 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:480
+msgid "Today position"
+msgstr "Suíomh inniu"
+
+#: Application/Resource.h:481
+msgid "Defines the position where today is located. If set to 0 (the default) the week view shows a full calendar week and the today's position changes. If set to 1 to 7 the today is kept on that position always and the weekdays are changed accordingly."
+msgstr "Socraíonn sé an suíomh ina bhfuil inniu lonnaithe. Má tá sé socraithe ag 0 (an réamhshocrú), taispeánann an t-amharc seachtainiúil seachtain féilire iomlán agus athraíonn suíomh inniu. Má tá sé socraithe ó a 1 go dtí a 7, coimeádtar inniu ar an suíomh sin i gcónaí agus athraítear laethanta na seachtaine dá réir sin."
+
+#: Application/Resource.h:482
+msgid "Autoscroll"
+msgstr "Uathscrollú"
+
+#: Application/Resource.h:483
+msgid "Uncheck to disable the autoscroll."
+msgstr "Bain an tic chun an t-uathscrollú a díchumasú."
+
+#: Application/Resource.h:484
+msgid "Week view date format"
+msgstr "Leagan amach an dáta don amharc seachtainiúil"
+
+#: Application/Resource.h:485
+#, c-format
+msgid "This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr "Socraíonn sé seo leagan amach an dáta sa chlár ama. Is é %#d.%#m an réamhshocrú."
+
+#: Application/Resource.h:486
+msgid "Week view time format"
+msgstr "Leagan amach an ama don amharc seachtainiúil"
+
+#: Application/Resource.h:487
+msgid "This defines the format of the time in the schedule. The default is %H:%M. For AM/PM format use %#I %p"
+msgstr "Socraíonn sé seo leagan amach an ama sa chlár ama. Is é %H:%M an réamhshocrú. Do leagan amach RN/IN, bain feidhm as %#I %p"
+
+#: Application/Resource.h:488
+msgid "Time item height"
+msgstr "Airde na míre ama"
+
+#: Application/Resource.h:489
+msgid "Defines the height of one time item in the view. The default value is 30 pixels."
+msgstr "Socraíonn sé airde míre amháin san amharc. Is é 30 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:490
+msgid "Time item duration"
+msgstr "Tréimhse gach míre"
+
+#: Application/Resource.h:491
+msgid "60 Minutes"
+msgstr "60 Nóiméid"
+
+#: Application/Resource.h:492
+msgid "30 Minutes"
+msgstr "30 Nóiméid"
+
+#: Application/Resource.h:493
+msgid "15 Minutes"
+msgstr "15 Nóiméid"
+
+#: Application/Resource.h:494
+msgid "Defines the duration of one time item in the view. The default value is 60 minutes."
+msgstr "Socraíonn sé an tréimhse a bhainfidh le mír amháin san amharc. Is é 60 nóiméad an luach réamhshocraithe."
+
+#: Application/Resource.h:495
+msgid "All day max height"
+msgstr "Airde is mó d'imeacht lae ar fad"
+
+#: Application/Resource.h:496
+msgid "The maximum height of the all day event area. A scrollbar is shown after the events don't fit anymore inside this area."
+msgstr "An airde is mó ar an limistéar d'imeachtaí an lae ar fad. Taispeánfar scrollbharra má tá imeacht níos mó ná an limistéar seo."
+
+#: Application/Resource.h:497
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "Bain an tic chun uimhreacha na seachtainí a chur i bhfolach san amharc."
+
+#: Application/Resource.h:498
+msgid "Show weekdays"
+msgstr "Taispeáin laethanta na seachtaine"
+
+#: Application/Resource.h:501
+msgid "Day View"
+msgstr "Amharc Laethúil"
+
+#: Application/Resource.h:502
+msgid "Day view width"
+msgstr "Leithead an amhairc laethúil"
+
+#: Application/Resource.h:503
+msgid "Defines the width of the day view window. The default value is 165 pixels."
+msgstr "Socraíonn sé leithead na fuinneoige amharc laethúil. Is é 165 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:504
+msgid "Day view height"
+msgstr "Airde an amhairc laethúil"
+
+#: Application/Resource.h:505
+msgid "Defines the height of the day view window. The default value is 300 pixels."
+msgstr "Socraíonn sé airde na fuinneoieg amharc laethúil. Is é 300 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:506
+msgid "Day view time format"
+msgstr "Leagan amach an ama don amharc laethúil"
+
+#: Application/Resource.h:507
+msgid "Day view date format"
+msgstr "Leagan amach an dáta don amharc laethúil"
+
+#: Application/Resource.h:509
+msgid "Month View"
+msgstr "Amharc Míosúil"
+
+#: Application/Resource.h:510
+msgid "Show background"
+msgstr "Taispeáin an cúlra"
+
+#: Application/Resource.h:511
+msgid "Uncheck to make the background transparent."
+msgstr "Bain an tic chun an cúlra a dhéanamh trédhearcach."
+
+#: Application/Resource.h:514
+msgid "The skin contains multiple different color variations. You can change them either from the skin's settings or by clicking the down arrow on the calendar."
+msgstr "Is iomaí comhathrú dath éagsúla atá ann sa chraiceann. Is féidir iad a athrú ó socruithe an chraicinn nó trí an tsaighead síos a bhrú ar an bhféilire."
+
+#: Application/Resource.h:518
+#: Application/Resource.h:666
+msgid "Brown"
+msgstr "Donn"
+
+#: Application/Resource.h:521
+msgid "Defines the color of the windows."
+msgstr "Sainmhíníonn sé dath na bhfuinneog."
+
+#: Application/Resource.h:523
+msgid "Defines the format for the dates on the event list headers."
+msgstr "Socraíonn sé an leagan amach do na dátaí ar cheanntáisc réim na n-imeachtaí."
+
+#: Application/Resource.h:526
+msgid "All day"
+msgstr "An lá ar fad"
+
+#: Application/Resource.h:529
+msgid "Conditions: "
+msgstr "Staid Aimsire:"
+
+#: Application/Resource.h:530
+msgid "Temperature: "
+msgstr "Teocht:"
+
+#: Application/Resource.h:531
+msgid "Humidity: "
+msgstr "Bogthaise: "
+
+#: Application/Resource.h:532
+msgid "Winds: "
+msgstr "Goatha:"
+
+#: Application/Resource.h:533
+msgid "Time: "
+msgstr "Am:"
+
+#: Application/Resource.h:534
+msgid "Refreshing..."
+msgstr "Ag athnuachan..."
+
+#: Application/Resource.h:535
+msgid "Downloading: "
+msgstr "Ag íosluchtú: "
+
+#: Application/Resource.h:536
+#: Application/Resource.h:541
+msgid "Download failed!"
+msgstr "Theip ar an íosluchtú!"
+
+#: Application/Resource.h:537
+msgid "Loading..."
+msgstr "Ag luchtú..."
+
+#: Application/Resource.h:538
+msgid "Unknown result!"
+msgstr "Toradh anaithnid!"
+
+#: Application/Resource.h:539
+msgid "Upcoming programs:"
+msgstr "Cláir atá ag teacht aníos:"
+
+#: Application/Resource.h:540
+msgid "Parsing failed!"
+msgstr "Theip ar an miondealú!"
+
+# The positions and the widths should be about the same as in the English string. There isn't much extra space in the widget.
+#: Application/Resource.h:542
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr " LÁ    UAIR  NÓIM   SOIC"
+
+#: Application/Resource.h:543
+msgid "Loading feed..."
+msgstr "Ag luchtú an fotha..."
+
+# Lowest temperature in the weather widget
+#: Application/Resource.h:544
+msgid "Lo: "
+msgstr "Ís"
+
+# Highest temperature in the weather widget
+#: Application/Resource.h:545
+msgid "Hi: "
+msgstr "Ard:"
+
+#: Application/Resource.h:546
+msgid "Chance of precipitation: "
+msgstr "Faill frasaíochta: "
+
+#: Application/Resource.h:547
+msgid "New moon"
+msgstr "Nuaré"
+
+#: Application/Resource.h:548
+msgid "Waxing crescent"
+msgstr "Gealach dheirceach"
+
+#: Application/Resource.h:549
+msgid "First quarter"
+msgstr "Béal Ceathrún"
+
+#: Application/Resource.h:550
+msgid "Waxing gibbous"
+msgstr "Gealach scothlán ag líonadh"
+
+#: Application/Resource.h:551
+msgid "Full moon"
+msgstr "Lánré"
+
+#: Application/Resource.h:552
+msgid "Waning gibbous"
+msgstr "Gealach scothlán ag dul ar gcúl"
+
+#: Application/Resource.h:553
+msgid "Last quarter"
+msgstr "An cheathrú dheireanach"
+
+#: Application/Resource.h:554
+msgid "Waning crescent"
+msgstr "Seanghealach"
+
+#: Application/Resource.h:555
+msgid "Southern hemisphere"
+msgstr "An leathchruinn theas"
+
+#: Application/Resource.h:556
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr "Socraigh ag a 1 chun na céimeanna a athrú go dtí mar a fheictear sa leathchruinn theas iad."
+
+#: Application/Resource.h:558
+msgid "World Time"
+msgstr "Am Domhanda"
+
+#: Application/Resource.h:559
+msgid "World time format"
+msgstr "Leagan amach an ama dhomhanda"
+
+#: Application/Resource.h:560
+msgid "This defines the format of the time. The default is %H:%M. For AM/PM format use %#I:%M %p"
+msgstr "Socraíonn sé seo leagan amach an ama. Is é %H:%M an réamhshocrú. Do leagan amach RN/IN, bain feidhm as %#I:%M %p"
+
+#: Application/Resource.h:561
+msgid "World time location 1"
+msgstr "Suíomh domhanda 1"
+
+#: Application/Resource.h:562
+msgid "Defines the title for the time."
+msgstr "Socraíonn seo teideal an ama."
+
+#: Application/Resource.h:563
+msgid "World time timezone 1"
+msgstr "Crios ama domhanda 1"
+
+#: Application/Resource.h:564
+msgid "World time location 2"
+msgstr "Suíomh domhanda 2"
+
+#: Application/Resource.h:565
+msgid "World time timezone 2"
+msgstr "Crios ama domhanda 2"
+
+#: Application/Resource.h:566
+msgid "World time location 3"
+msgstr "Suíomh domhanda 3"
+
+#: Application/Resource.h:567
+msgid "World time timezone 3"
+msgstr "Crios ama domhanda 3"
+
+#: Application/Resource.h:568
+msgid "World time location 4"
+msgstr "Suíomh domhanda 4"
+
+#: Application/Resource.h:569
+msgid "World time timezone 4"
+msgstr "Crios ama domhanda 4"
+
+#: Application/Resource.h:571
+msgid "Photos"
+msgstr "Grianghraif"
+
+#: Application/Resource.h:572
+msgid "Weather"
+msgstr "Aimsir"
+
+#: Application/Resource.h:573
+msgid "Countdown"
+msgstr "Comhaireamh síos"
+
+#: Application/Resource.h:574
+msgid "RSS"
+msgstr "RSS"
+
+#: Application/Resource.h:576
+msgid "Create New"
+msgstr "Cruthaigh Ní Nua"
+
+#: Application/Resource.h:577
+msgid "Moonphase"
+msgstr "Céimeanna na gealaí"
+
+#: Application/Resource.h:578
+msgid "QuickAdd"
+msgstr "QuickAdd"
+
+#: Application/Resource.h:579
+msgid "Translate"
+msgstr "Aistrigh"
+
+#: Application/Resource.h:580
+msgid "Text File"
+msgstr "Comhad Téacs"
+
+#: Application/Resource.h:582
+msgid "RSS width"
+msgstr "Leithead an RSS"
+
+#: Application/Resource.h:583
+#: Application/Resource.h:603
+#: Application/Resource.h:625
+msgid "Defines the width of the list. The default value is 165 pixels."
+msgstr "Socraíonn sé leithead na réime. Is é 165 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:584
+msgid "RSS height"
+msgstr "Airde an RSS"
+
+#: Application/Resource.h:585
+#: Application/Resource.h:605
+#: Application/Resource.h:627
+msgid "Defines the maximum height of the list. The default value is 300 pixels."
+msgstr "Socraíonn sé uasairde an réime. Is é 300 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:586
+msgid "RSS location"
+msgstr "Suíomh an RSS"
+
+#: Application/Resource.h:587
+msgid "Location of the RSS feed."
+msgstr "Suíomh an fhotha RSS."
+
+#: Application/Resource.h:588
+msgid "Weather location"
+msgstr "Suíomh na haimsire"
+
+#: Application/Resource.h:589
+msgid "Location of the weather feed."
+msgstr "Suíomh fotha na haimsire."
+
+#: Application/Resource.h:590
+msgid "Photos random"
+msgstr "Grianghraif fánacha"
+
+#: Application/Resource.h:591
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr "Bain an tic chun na híomhánna a thaispeáint de réir oird. Leis an tic, taispeántar go fánach iad."
+
+#: Application/Resource.h:592
+msgid "Photos update"
+msgstr "Nuashonrú na ngrianghraf"
+
+#: Application/Resource.h:593
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "Sainmhíníonn sé cé chomh minic is a nuashonraítear an íomhá. Tá an luach i nóiméid."
+
+#: Application/Resource.h:594
+msgid "Photos folder"
+msgstr "Fillteán na ngrianghraf"
+
+#: Application/Resource.h:595
+msgid "Defines the local folder which is scanned for photos. If this is left empty the photos are downloaded from Flickr."
+msgstr "Socraíonn sé an fillteán logánta a scrúdaítear do ghrianghraif. Má fhágtar folamh é, íosluchtaíotar na grianghraif ó Flickr."
+
+#: Application/Resource.h:596
+msgid "Countdown event"
+msgstr "Comhaireamh anuas"
+
+#: Application/Resource.h:597
+msgid "The description of the event."
+msgstr "Cur síos an imeachta."
+
+#: Application/Resource.h:598
+msgid "Countdown time"
+msgstr "Am chomhairimh anuas"
+
+#: Application/Resource.h:599
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "Am an imeachta. Bíodh sé UU:NN:SS."
+
+#: Application/Resource.h:600
+msgid "Countdown date"
+msgstr "Dáta chomhairimh anuas"
+
+#: Application/Resource.h:601
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "Dáta an imeachta. Bíodh sé BBBB-MM-LL."
+
+#: Application/Resource.h:602
+msgid "TV width"
+msgstr "Leithead an chianamharcáin"
+
+#: Application/Resource.h:604
+msgid "TV height"
+msgstr "Airde an chianamharcáin"
+
+#: Application/Resource.h:606
+msgid "Calendar width"
+msgstr "Leithead an fhéilire"
+
+#: Application/Resource.h:607
+msgid "Defines the width of the calendar window. The default value is 165 pixels."
+msgstr "Socraíonn sé leithead fuinneog an fhéilire. Is é 165 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:608
+msgid "Calendar height"
+msgstr "Airde an fhéilire"
+
+#: Application/Resource.h:609
+msgid "Defines the height of the calendar window. The default value is 155 pixels."
+msgstr "Socraíonn sé airde fuinneog an fhéilire. Is é 155 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:610
+msgid "Translate width"
+msgstr "Leithead an aistriúcháin"
+
+#: Application/Resource.h:611
+msgid "Defines the width of the translate list. The default value is 165 pixels."
+msgstr "Socraíonn sé leithead na réim aistriúcháin. Is é 165 picteilíní an luach réamhshocraithe."
+
+#: Application/Resource.h:612
+msgid "Translate from language"
+msgstr "Aistrigh ó theanga"
+
+#: Application/Resource.h:613
+msgid "Source language"
+msgstr "Teanga fhoinseach"
+
+#: Application/Resource.h:614
+msgid "Translate to languages"
+msgstr "Aistrigh go teangacha"
+
+#: Application/Resource.h:615
+msgid "List of target languages separated with '|'-char."
+msgstr "Sraith de spriocteangacha scartha le '|' ."
+
+#: Application/Resource.h:617
+msgid "Copy to clipboard"
+msgstr "Macasamhlaigh chuig an ngearrthaisce"
+
+#: Application/Resource.h:618
+msgid "File path"
+msgstr "Conair an chomhaid"
+
+#: Application/Resource.h:619
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "Socraíonn seo an t-ainm agus an chonair iomlán den chomhad a thaispeánfar san fhuinneog."
+
+#: Application/Resource.h:620
+msgid "No file given"
+msgstr "Níor tugadh comhad"
+
+# File widget text when no file path is set.
+#: Application/Resource.h:621
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr "Roghnaigh ainm agus cosán comhaid téacs i socruithe na fuinneoige."
+
+#: Application/Resource.h:622
+msgid "File window full rows"
+msgstr "Taispeáin sraitheanna iomlána i bhfuinneog na gcomhad"
+
+#: Application/Resource.h:623
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr "Cuir tic anseo chun sraitheanna iomlána a thaispeáint."
+
+#: Application/Resource.h:624
+msgid "File window height"
+msgstr "Airde fhuinneog na gcomhad"
+
+#: Application/Resource.h:626
+msgid "File window width"
+msgstr "Leithead fhuinneog na gcomhad"
+
+#: Application/Resource.h:629
+msgid "The width of the calendar window."
+msgstr "Leithead fhuinneog an fhéilire."
+
+#: Application/Resource.h:630
+msgid "The height of the calendar window."
+msgstr "Airde fhuinneog an fhéilire."
+
+#: Application/Resource.h:633
+msgid "Defines the width of the quickadd window."
+msgstr "Socraíonn sé leithead na fuinneoige mearchruthaithe."
+
+#: Application/Resource.h:634
+msgid "Defines the width of the day view window."
+msgstr "Socraíonn sé leithead fhuinneog an amhairc laethúil."
+
+#: Application/Resource.h:635
+msgid "Defines the height of the day view window."
+msgstr "Socraíonn sé airde fhuinneog an amhairc laethúil."
+
+#: Application/Resource.h:636
+msgid "Defines the width of the week view window."
+msgstr "Socraíonn sé leithead fhuinneog an amhairc sheachtainiúil."
+
+#: Application/Resource.h:637
+msgid "Defines the height of the week view window."
+msgstr "Socraíonn sé airde fhuinneog an amhairc sheachtainiúil."
+
+#: Application/Resource.h:638
+msgid "Defines the width of the calendar window."
+msgstr "Socraíonn sé leithead fhuinneog an fhéilire."
+
+#: Application/Resource.h:639
+msgid "Defines the height of the calendar window."
+msgstr "Sainmhíníonn sé airde fhuinneog an fhéilire."
+
+#: Application/Resource.h:641
+msgid "ctrl"
+msgstr "ctrl"
+
+#: Application/Resource.h:642
+msgid "alt"
+msgstr "alt"
+
+#: Application/Resource.h:643
+msgid "shift"
+msgstr "shift"
+
+#: Application/Resource.h:645
+msgid "Mark as completed"
+msgstr "Rianaigh mar chríochnaithe"
+
+#: Application/Resource.h:646
+msgid "Mark as needs action"
+msgstr "Rianaigh go bhfuil gníomh de dhíth"
+
+#: Application/Resource.h:648
+msgid "Summary"
+msgstr "Achoimre"
+
+#: Application/Resource.h:649
+msgid "Recurring"
+msgstr "Athfhillteach"
+
+#: Application/Resource.h:650
+msgid "Description"
+msgstr "Cur síos"
+
+#: Application/Resource.h:653
+#: Application/Resource.h:679
+msgid "Text color"
+msgstr "Dath an téacs"
+
+#: Application/Resource.h:654
+msgid "Tooltip color"
+msgstr "Dath na leide uirlise"
+
+#: Application/Resource.h:655
+msgid "Black"
+msgstr "Dubh"
+
+#: Application/Resource.h:656
+msgid "White"
+msgstr "Bán"
+
+#: Application/Resource.h:662
+msgid "Light grey"
+msgstr "Liath éadrom"
+
+#: Application/Resource.h:663
+msgid "Light pink"
+msgstr "Bándearg éadrom"
+
+#: Application/Resource.h:664
+msgid "Grey"
+msgstr "Liath"
+
+#: Application/Resource.h:665
+msgid "Pink"
+msgstr "Bándearg"
+
+#: Application/Resource.h:668
+msgid "Schedule background"
+msgstr "Cúlra an chláir ama"
+
+#: Application/Resource.h:669
+msgid "The background color for the day, week and month views."
+msgstr "An dath sa chúlra i gcomhair na hamhairc lae, seachtaine agus míosa."
+
+#: Application/Resource.h:670
+msgid "Schedule text color"
+msgstr "Dath téacs an chláir ama"
+
+#: Application/Resource.h:671
+msgid "The text color for the day, week and month views."
+msgstr "Dath téacs sna hamhairc laethúil, seachtainiúil, agus míosúil."
+
+#: Application/Resource.h:672
+msgid "Calendar day color"
+msgstr "Dath lae an fhéilire"
+
+#: Application/Resource.h:673
+msgid "The color for the day numbers in the calendar."
+msgstr "An dath d'uimhreacha lae sa bhféilire."
+
+#: Application/Resource.h:674
+msgid "The color for the days in the calendar."
+msgstr "An dath do na laethanta sa bhféilire."
+
+#: Application/Resource.h:675
+msgid "Small icon"
+msgstr "Deilbhín beag"
+
+#: Application/Resource.h:676
+msgid "The icon which is shown in the calendar."
+msgstr "An deilbhín a thaispeántar sa bhféilire."
+
+#: Application/Resource.h:677
+msgid "Large icon"
+msgstr "Deilbhín mór"
+
+#: Application/Resource.h:678
+msgid "The icon which is shown in the event and to do lists."
+msgstr "An deilbhín a thaispeánfar i liosta na n-imeachtaí agus sa tascliosta."
+
+#: Application/Resource.h:680
+msgid "The color of the text in the lists and tooltip."
+msgstr "Dath an téacs sna liostaí agus i leideanna uirlise."
+
+#: Application/Resource.h:682
+msgid "The priority defines which category is shown when there are multiple on the same day."
+msgstr "Úsáidfear an tosaíocht chun fáil amach cén chatagóir le taispeáint nuair atá níos mó ná ceann amháin ar lá amháin"
+
+#: Plugins/CSVPlugin/CSVHandler.h:31
+#: Plugins/CSVPlugin/CSVHandler.h:32
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "Comma Separated Values (*.csv)|*.csv"
+
+#: Plugins/GooglePlugin/GoogleHandler.h:81
+msgid "Select Calendar"
+msgstr "Roghnaigh Féilire:"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:42
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "Comhaid iCalendar (*.ics)|*.ics|Comhaid vCalendar (*.vcs)|*.vcs"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:43
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "Comhaid iCalendar (*.ics)|*.ics"
+
+#: Plugins/IniFormatPlugin/IniFormatHandler.h:18
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Comhaid Rainlendar (*.ini)|*.ini"
+
+#~ msgid "Visual category overwrites normal category"
+#~ msgstr "Forscríobhann amharc-aicme gnáthaicme"
+
+#~ msgid "TodoList"
+#~ msgstr "Le Déanamh"
+
+#~ msgid "Input text"
+#~ msgstr "Cuir isteach téacs"
+
+#~ msgid "New Todo..."
+#~ msgstr "Ní Nua Le Déanamh..."
+
+#~ msgid ""
+#~ "IMPORTANT! Read the documentation before changing these settings. It's "
+#~ "possible to make Rainlendar inoperable if you just randomly change the "
+#~ "values. Consider yourself warned!"
+#~ msgstr ""
+#~ "FÓGRA TÁBHACHTACH! Léigh an doiciméadú roimh na socruithe seo a athrú. Is "
+#~ "féidir Rainlendar a chur ó mhaith má athraíonn tú na luachanna go fánach. "
+#~ "Glac leis gur tugadh rabhadh duit!"
+
+#~ msgid "Visible calendars"
+#~ msgstr "Féilirí infheicthe"
+
+#~ msgid "Unknown"
+#~ msgstr "Anaithnid"
+
+#~ msgid "Unable to load the skin. Check the log for more details."
+#~ msgstr ""
+#~ "Níorbh fhéidir an craiceann a luchtú. Breathnaigh ar an oireas chun "
+#~ "tuilleadh sonraí a léamh."
+
+#~ msgid "You need to give some name for the calendar."
+#~ msgstr "Caithfear ainm éigin a thabhairt don fhéilire."
+
+#~ msgid "Show todo items"
+#~ msgstr "Taispeáin míreanna atá le déanamh"
+
+#~ msgid ""
+#~ "Choose the name of the calendar, email and password for your Google "
+#~ "account.\n"
+#~ "You can also leave the calendar field empty if you only have a one "
+#~ "calendar."
+#~ msgstr ""
+#~ "Roghnaigh ainm an fhéilire, seoladh ríomhphoist agus focal faire do do "
+#~ "chuntas Google.\n"
+#~ "Is féidir réimse an fhéilire a fhágáil bán freisin mura bhfuil agat ach "
+#~ "féilire amháin."
+
+#~ msgid ""
+#~ "Google Error!\n"
+#~ "Unable to parse the events."
+#~ msgstr ""
+#~ "Botún Google!\n"
+#~ "Níorbh fhéidir na himeachtaí a mhiondealú."

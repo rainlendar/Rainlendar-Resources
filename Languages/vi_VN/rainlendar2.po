@@ -1,0 +1,5236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vietnamese\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: 2022-03-21 16:01+0200\n"
+"Last-Translator: Phạm Duy Tùng <pduu9661591@gmail.com>\n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: C:/Projects/Rainlendar2-x86\n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: Application\n"
+"X-Poedit-SearchPath-1: Plugins\n"
+"X-Poedit-SearchPath-2: Testbench/Debug/resources\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Rainlendar không thể khởi động máy chủ HTTP để nhận phản hồi OAuthXác minh "
+"rằng bạn không có bất kỳ phần mềm bảo mật nào ngăn chặn ứng dụng khởi động "
+"máy chủ và không có dịch vụ nào khác chạy trong cùng một cổng"
+
+msgid "Server Port: "
+msgstr "Cổng máy phục vụ:"
+
+msgid "Failed to start HTTP server"
+msgstr "Không thể khởi động máy chủ HTTP"
+
+msgid "Choose the backup path"
+msgstr "Chọn đường dẫn sao lưu"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "Tệp nén (*.zip)|*.zip"
+
+msgid "Authentication failed!"
+msgstr "Xác thực không thành công"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "Đảm bảo rằng bạn hoàn tất quá trình xác thực"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr "và cấp cho Rainlendar quyền truy cập vào lịch của bạn."
+
+msgid "Authentication succeeded!"
+msgstr "Xác thực thành công!"
+
+msgid "You may close the browser window now."
+msgstr "Bạn có thể đóng cửa sổ trình duyệt ngay bây giờ."
+
+msgid "Choose the backup file:"
+msgstr "Chọn tập tin sao lưu:"
+
+msgid "Select"
+msgstr "Chọn"
+
+msgid "No backups found!"
+msgstr "Không tìm thấy sao lưu nào."
+
+msgid "There are no backups available in the backup folder."
+msgstr "Không có bản sao lưu có sẵn trong thư mục sao lưu."
+
+msgid "The settings do not exist!"
+msgstr "Các thiết lập này không tồn tại!"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "Các tập tin sao lưu đã chọn không chứa các tập tin cài đặt."
+
+msgid "The file already exists:"
+msgstr "Tệp đã tồn tại:"
+
+msgid "Do you want to overwrite the file?"
+msgstr "Bạn có muốn ghi đè lên tệp?"
+
+msgid "Unable to overwrite file:"
+msgstr "Không thể ghi đè:"
+
+msgid "Write error!"
+msgstr "Quá trình ghi bị lỗi"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"Không thể phục hồi tập tin:\n"
+"%s\n"
+"\n"
+"Bạn phải phục hồi một cách thủ công tập tin này từ tập tin sao lưu."
+
+msgid "Restore error!"
+msgstr "Phục hồi bị lỗi!"
+
+msgid "[None]"
+msgstr "<Không>"
+
+msgid "<Hidden>"
+msgstr "<Ẩn>"
+
+msgid "all"
+msgstr "Tất Cả"
+
+msgid "active"
+msgstr "Kích Hoạt"
+
+msgid "dismissed"
+msgstr "Ẩn các Sự kiện hủy bỏ"
+
+msgid "snoozed"
+msgstr "Hiện biểu tượng dưới khay"
+
+msgid "Show only needs action"
+msgstr "Đánh dấu là cần hành động"
+
+msgid "Show only in progress"
+msgstr "Hiện biểu tượng dưới khay"
+
+msgid "Show only completed"
+msgstr "Đã hoàn thành"
+
+msgid "Show only cancelled"
+msgstr "Hiện biểu tượng dưới khay"
+
+msgid "Hide needs action"
+msgstr "Cần hành động"
+
+msgid "Hide in progress"
+msgstr "Đang thực hiện"
+
+msgid "Hide completed"
+msgstr "ĐÃ ẨN TẬP TIN"
+
+msgid "Hide cancelled"
+msgstr "Â ̉ n đa ̃ hu ̉ y"
+
+msgid "Reset completed time"
+msgstr " Lặp lại"
+
+msgid "Show only no priority"
+msgstr "Hiện biểu tượng dưới khay"
+
+msgid "Show only high priority"
+msgstr "Ưu tiên cao"
+
+msgid "Show only normal priority"
+msgstr "Hiện biểu tượng dưới khay"
+
+msgid "Show only low priority"
+msgstr "Ưu tiên thấp"
+
+msgid "Hide no priority"
+msgstr "Ẩn không ưu tiên"
+
+msgid "Hide high priority"
+msgstr "Ưu tiên cao"
+
+msgid "Hide normal priority"
+msgstr "Ưu tiên thông thường"
+
+msgid "Hide low priority"
+msgstr "Ưu tiên thấp"
+
+msgid "Show only alarms"
+msgstr "Hiện biểu tượng dưới khay"
+
+msgid "Show only active"
+msgstr "Kích Hoạt"
+
+msgid "Show only snoozed"
+msgstr "Hiện biểu tượng dưới khay"
+
+msgid "Show only dismissed"
+msgstr "Hiện biểu tượng dưới khay"
+
+msgid "Hide alarms"
+msgstr "Ẩn cảnh báo"
+
+msgid "Hide active"
+msgstr "Ẩn hoạt động"
+
+msgid "Hide snoozed"
+msgstr "Ẩn tạm dừng"
+
+msgid "Hide dismissed"
+msgstr "Ẩn hoặc loại bỏ"
+
+msgid "Reset dismiss time"
+msgstr " Lặp lại"
+
+msgid "Reset snooze time"
+msgstr "Mặc định thời gian ngủ (giây)"
+
+msgid "Dismiss next alarm"
+msgstr "Hủy bỏ"
+
+msgid "Duration:"
+msgstr "Thời gian hiệu ứng mờ (ms)"
+
+msgid "Next alarm:"
+msgstr "Âm Báo kế tiếp"
+
+msgid "Dismissed:"
+msgstr "Ẩn"
+
+msgid "Snoozed until:"
+msgstr "Cho đến khi"
+
+msgid "In Progress"
+msgstr "Đang thực hiện"
+
+msgid "Completed"
+msgstr "Đã hoàn thành"
+
+msgid "Needs Action"
+msgstr "Cần thực hiện"
+
+msgid "Cancelled"
+msgstr "Đã hủy"
+
+msgid "None"
+msgstr "Không có"
+
+msgid "High"
+msgstr "Cao"
+
+msgid "Normal"
+msgstr "Bình thường"
+
+msgid "Low"
+msgstr "Thấp"
+
+msgid "All"
+msgstr "Tất Cả"
+
+msgid "Active"
+msgstr "Kích Hoạt"
+
+msgid "Dismissed"
+msgstr "Ẩn"
+
+msgid "Snoozed"
+msgstr "Hiện biểu tượng dưới khay hệ thống"
+
+msgid "Daily"
+msgstr "Hàng ngày"
+
+msgid "Weekly"
+msgstr "Hàng tuần"
+
+msgid "Monthly"
+msgstr "Hàng tháng"
+
+msgid "Yearly"
+msgstr "Hàng năm"
+
+msgid "Private"
+msgstr "Cá nhân"
+
+msgid "Public"
+msgstr "Kế hoạch tháng"
+
+msgid "Confidential"
+msgstr "Tài liệu mật"
+
+msgid "Default"
+msgstr "Mặc định"
+
+msgid "No priority"
+msgstr "Không có ưu tiên"
+
+msgid "Normal priority"
+msgstr "Độ ưu tiên bình thường"
+
+msgid "High priority"
+msgstr "Ưu tiên cao"
+
+msgid "Low priority"
+msgstr "Ưu tiên thấp"
+
+msgid "Created: "
+msgstr "Được tạo ra:"
+
+msgid "Unknown"
+msgstr "Không xác định"
+
+msgid "Modified: "
+msgstr "Được sửa đổi:"
+
+msgid "Copy"
+msgstr "Sao chép"
+
+msgid "Region"
+msgstr "Khu vực"
+
+msgid "Native"
+msgstr "Nơi sinh"
+
+msgid "Sunday"
+msgstr "Chủ nhật"
+
+msgid "Monday"
+msgstr "Thứ hai"
+
+msgid "Tuesday"
+msgstr "Thứ ba"
+
+msgid "Wednesday"
+msgstr "Thứ tư"
+
+msgid "Thursday"
+msgstr "Thứ năm"
+
+msgid "Friday"
+msgstr "Thứ sáu"
+
+msgid "Saturday"
+msgstr "Thứ bảy"
+
+msgid "Every second Saturday"
+msgstr "Mỗi thứ bảy lần thứ hai"
+
+msgid "Start"
+msgstr "Bắt đầu"
+
+msgid "Due"
+msgstr "Kết thúc"
+
+msgid "Priority"
+msgstr "Độ ưu tiên"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Category"
+msgstr "Theo nhóm"
+
+msgid "Recurrence"
+msgstr "Lặp lại"
+
+msgid "Off"
+msgstr "Tắt"
+
+msgid "Beta"
+msgstr "Beta"
+
+msgid "General"
+msgstr "Chung"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "% H:% M (ví dụ như \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "%#H:%M (ví dụ như \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "%I:%M %p (ví dụ như \"01:42 pm\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "%#I:%M %p (ví dụ như \"3:42 pm\")"
+
+msgid "Time format"
+msgstr "Định dạng thời gian"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "%d.%#m.%Y (ví dụ \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "%d.%m.%Y (ví dụ  \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "%Y-%m-%d (ví dụ \"2012-04-21\")"
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "%#m/%d/%Y (ví dụ \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "%m/%d/%Y (ví dụ \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "Định dạng ngày tháng"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "Sử dụng 'Hôm nay' và 'Ngày mai'"
+
+msgid "Weekend days"
+msgstr "Ngày cuối tuần"
+
+msgid "Week number delta"
+msgstr "Chữ số của Tuần"
+
+msgid "Default categories"
+msgstr "Nhóm mặc định"
+
+msgid "Show categories from the skin"
+msgstr "Hiện nhóm từ giao diện"
+
+msgid "Show tray icon"
+msgstr "Hiện biểu tượng dưới khay hệ thống"
+
+msgid "Show tray status icons"
+msgstr "Hiện biểu tượng trạng thái dưới khay hệ thống"
+
+msgid "Day number"
+msgstr "Số Ngày"
+
+msgid "Week number"
+msgstr "Số Tuần"
+
+msgid "Number in tray"
+msgstr "Số lượng trong khay hệ thống"
+
+msgid "Always"
+msgstr "Luôn luôn xài cảnh báo"
+
+msgid "Never"
+msgstr ""
+"Có vẻ như tất cả cửa sổ và biểu tượng khay đều bị ẩn.\n"
+"Có phải bạn muốn như vậy?\n"
+" \n"
+"Nhấn \"Đồng ý\" nếu bạn muốn giữ mọi thứ ẩn và bạn sẽ không thấy bảng thông "
+"báo này nữa.\n"
+"Nhấn \"Không\" nếu bạn muốn các cửa sổ hiện lại như cũ."
+
+msgid "Show full menus"
+msgstr "Hiển thị menu đầy đủ"
+
+msgid "Disable keyboard shortcuts"
+msgstr "Vô hiệu phím tắt"
+
+msgid "List wheel scroll"
+msgstr "Nút cuộn cho Danh sách"
+
+msgid "Skin language"
+msgstr "Ngôn ngữ giao diện"
+
+msgid "Number of stored backups"
+msgstr "Số bản sao lưu được lưu trữ"
+
+msgid "Show delete confirmations"
+msgstr "Hiện Xác nhận xóa"
+
+msgid "Disable text formatting"
+msgstr "Vô hiệu Định dạng chữ"
+
+msgid "Show empty list text"
+msgstr "Hiện ngày liền kề"
+
+msgid "Check for updates"
+msgstr "Kiểm tra phiên bản mới"
+
+msgid "Show url icons"
+msgstr "Hiện biểu tượng url"
+
+msgid "Simultaneous transfers"
+msgstr "Chuyển giao đồng thời"
+
+msgid "Only uncategorized"
+msgstr "Hiện biểu tượng dưới khay"
+
+msgid "Icon from events"
+msgstr "Biểu tượng từ các sự kiện"
+
+msgid "Visual category overwrite"
+msgstr "Loại Visual ghi đè"
+
+msgid "Store English category names"
+msgstr "Lưu trữ thể loại tên Tiếng Anh"
+
+msgid "Custom category icon path"
+msgstr "Tuỳ chỉnh path biểu tượng hạng mục"
+
+msgid "Use antialiased fonts"
+msgstr "Sử dụng tên cửa sổ"
+
+msgid "Count"
+msgstr "Đếm"
+
+msgid "Ordinal"
+msgstr "thứ tự"
+
+msgid "Type of year to add for categories"
+msgstr "Loại trong năm để thêm các danh mục"
+
+msgid "Use custom password encrypting"
+msgstr "Sử dụng mã hóa mật khẩu tùy chỉnh"
+
+msgid "Editor"
+msgstr "Định dạng thời gian"
+
+msgid "Allow multiple calendars"
+msgstr "cho phép nhiều minh dụ"
+
+msgid "Allow multiple categories"
+msgstr "cho phép nhiều minh dụ"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "Giữ biên tập cho đến khi viết thành công"
+
+msgid "Time span in the editor"
+msgstr "khoảng thời gian trong trình soạn thảo"
+
+msgid "Number of previous locations"
+msgstr "Chữ số của Tuần"
+
+msgid "Default event duration"
+msgstr "Mẫu Sự kiện mặc định"
+
+msgid "Windows"
+msgstr "Cửa sổ"
+
+msgid "Use window names"
+msgstr "Sử dụng tên cửa sổ"
+
+msgid "Hide on Aero peek"
+msgstr "Ẩn trên Aero peek"
+
+msgid "Transparency type"
+msgstr "Kiểu trong suốt"
+
+msgid "Copy transparency sleep time"
+msgstr "Chép thời gian ngủ trong suốt"
+
+msgid "Fade delay (ms)"
+msgstr "Độ trễ hiệu ứng mờ (ms)"
+
+msgid "Fade duration (ms)"
+msgstr "Thời gian hiệu ứng mờ (ms)"
+
+msgid "Allow window fading"
+msgstr "cho phép nhiều minh dụ"
+
+msgid "Keep on screen"
+msgstr "Giữ trong màn hình"
+
+msgid "Bring all windows on top when clicked"
+msgstr "Đưa tất cả các cửa sổ lên đầu khi nhấp chuột"
+
+msgid "Show in all desktops"
+msgstr "Hiện ở mọi destop"
+
+msgid "Snap distance"
+msgstr "Khoảng cách snap"
+
+msgid "Snap center"
+msgstr "Snap giữa"
+
+msgid "Don't save"
+msgstr "Không lưu"
+
+msgid "Per resolution"
+msgstr "mỗi độ phân giải"
+
+msgid "Single value"
+msgstr "1 giá trị"
+
+msgid "Save window position"
+msgstr "Ghi nhớ vị trí cửa sổ"
+
+msgid "Font face"
+msgstr "bề mặt Font"
+
+msgid "Scaling quality"
+msgstr "Chất lượng mặt độ"
+
+msgid "Network"
+msgstr "Mạng"
+
+msgid "Reload delay after resume (s)"
+msgstr "Thời gian trễ sau khi phục hồi (ms)"
+
+msgid "Network access delay after startup (s)"
+msgstr "Thời gian kết nối mạng trễ sau khi khởi động (ms)"
+
+msgid "Proxy server"
+msgstr "Proxy Máy chủ"
+
+msgid "Proxy user"
+msgstr "Proxy Người dùng"
+
+msgid "Proxy password"
+msgstr "Proxy Mật khẩu"
+
+msgid "HTTP"
+msgstr "\tHTTP"
+
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgid "Proxy type"
+msgstr "Proxy Người dùng"
+
+msgid "Try direct connection if proxy fails"
+msgstr "Thử Kết nối trực tiếp nếu Proxy thất bại"
+
+msgid "Calendar"
+msgstr "Lịch"
+
+msgid "Show all icons"
+msgstr "Hiện tất cả biểu tượng "
+
+msgid "Show one icon per type"
+msgstr "\tHiển thị một biểu tượng cho mỗi loại"
+
+msgid "Show only one icon"
+msgstr "Chỉ hiện một biểu tượng"
+
+msgid "Show no icons"
+msgstr "Hiện Không biểu tượng"
+
+msgid "Combine icons in the calendar"
+msgstr "Kết hợp các Biểu tượng trong Lịch"
+
+msgid "Calendar wheel scroll"
+msgstr "Nút cuộn cho Lịch"
+
+msgid "Show tasks in calendar"
+msgstr "Hiển thị các công việc trên lịch"
+
+msgid "Always show menu"
+msgstr "Luôn hiện menu đầy đủ"
+
+msgid "Always create new event"
+msgstr "Tạo sự kiện hay nhiệm vụ mới"
+
+msgid "Do nothing"
+msgstr "Không có Công Việc Nào"
+
+msgid "Double click action"
+msgstr "Nhấp đôi phải"
+
+msgid "Tooltip"
+msgstr "Chú thích"
+
+msgid "Show tooltips"
+msgstr "Hiện Chú thích"
+
+msgid "Only on days with events"
+msgstr "Các sự kiện hôm nay"
+
+msgid "Show tooltip in tray"
+msgstr "Hiện biểu tượng dưới khay"
+
+msgid "Max tooltip window width"
+msgstr "Chiều rộng cửa sổ Chú thích tối đa"
+
+msgid "Show description in tooltip"
+msgstr "Hiện Miêu tả trong Chú thích"
+
+msgid "Task fields in tooltip"
+msgstr "Chú thích"
+
+msgid "Event fields in tooltip"
+msgstr "Chú thích"
+
+msgid "Traytip show duration (s)"
+msgstr "Thời gian hiện Traytip (ms)"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "Thời gian hiệu ứng mờ Chú thích (ms)"
+
+msgid "Tooltip show delay (ms)"
+msgstr "Độ trễ khi hiện Chú thích (ms)"
+
+msgid "Tooltip format"
+msgstr "Định dạng Chú thích"
+
+msgid "Task List"
+msgstr "Danh sách công việc"
+
+msgid "Show full task summary"
+msgstr "Hiện tóm tắt đầy đủ Công việc"
+
+msgid "Show task due time"
+msgstr "Hiện thời gian chờ cho các công việc"
+
+msgid "Show task location"
+msgstr "Hiện địa điểm công việc"
+
+msgid "Show task calendar"
+msgstr "Hiện Lịch của công việc"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "Số ngày hiện trong Danh sách (0 = tất cả)"
+
+msgid "Show task time when arranged by start or due date"
+msgstr "Hiện thời gian khi sắp xếp bằng thời gian bắt đầu hay kết thúc"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr "%A %d.%#m.%Y (ví dụ như \"Monday 21.4.2012\")"
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr "%A %d.%m.%Y (ví dụ như \"Monday 21.04.2012\")"
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr "%A %Y-%m-%d (ví dụ như \"Monday 2012-04-21\")"
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr "%A %#m/%d/%Y (ví dụ như \"Monday 4/21/2012\")"
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr "%A %m/%d/%Y (ví dụ như \"Monday 04/21/2012\")"
+
+msgid "Task list header format"
+msgstr "Định dạng Tiêu đề danh sách công việc"
+
+msgid "<None>"
+msgstr "<Không>"
+
+msgid "Default task template"
+msgstr "Mẫu công việc mặc định"
+
+msgid "Event List"
+msgstr "Danh sách Sự kiện"
+
+msgid "Show full event summary"
+msgstr "Hiện tóm tắt đầy đủ Sự kiện"
+
+msgid "Show event start time"
+msgstr "Hiện thời gian bắt đầu Sự kiện"
+
+msgid "Show event end time"
+msgstr "Hiện thời gian kết thúc Sự kiện"
+
+msgid "Show event location"
+msgstr "Hiện địa điểm Sự kiện"
+
+msgid "Show event calendar"
+msgstr "Hiện Lịch của Sự kiện"
+
+msgid "Hide dismissed events"
+msgstr "Ẩn các Sự kiện hủy bỏ"
+
+msgid "Hide past events"
+msgstr "Ẩn các Sự kiện quá khứ"
+
+msgid "Number of future days the list shows"
+msgstr "Số ngày tương lai hiện trong Danh sách"
+
+msgid "Number of past days the list shows"
+msgstr "Số ngày quá khứ hiện trong Danh sách"
+
+msgid "Age from start of the week"
+msgstr "Ngày bắt đầu của Tuần"
+
+msgid "Event list header format"
+msgstr "Định dạng tiêu đề danh sách sự kiện"
+
+msgid "Default event template"
+msgstr "Mẫu Sự kiện mặc định"
+
+msgid "No grouping"
+msgstr "Không có nhóm"
+
+msgid "Start and end dates"
+msgstr "Ngày bắt đầu và kết thúc"
+
+msgid "Start date and duration"
+msgstr "Ngày bắt đầu và khoảng"
+
+msgid "Group multiday events"
+msgstr "Nhóm lại ngày cho cùng sự kiện"
+
+msgid "Schedule"
+msgstr "Lịch trình"
+
+msgid "Show schedule descriptions"
+msgstr "Hiển thị mô tả lịch"
+
+msgid "Show schedule start time"
+msgstr "Hiển thị lịch trình thời gian bắt đầu"
+
+msgid "Show schedule end time"
+msgstr "Hiển thị lịch trình thời gian kết thúc"
+
+msgid "Show schedule location"
+msgstr "Hiển thị vị trí lịch trình"
+
+msgid "Show schedule calendar"
+msgstr "Hiển thị tên lịch trình"
+
+msgid "Create, move and resize events with mouse"
+msgstr "Tạo, Di Chuyển và thay đổi kích thước với chuột"
+
+msgid "First shown hour"
+msgstr "thứ nhất"
+
+msgid "Last shown hour"
+msgstr "giờ"
+
+msgid "Alarm"
+msgstr "Âm Báo thức"
+
+msgid "Show alarm start time"
+msgstr "Hiện thời gian bắt đầu Báo giờ"
+
+msgid "Show alarm end time"
+msgstr "Hiện thời gian kết thúc Báo giờ"
+
+msgid "Show alarm location"
+msgstr "Hiện địa điểm Báo giờ"
+
+msgid "Show alarm calendar"
+msgstr "Hiện Lịch báo giờ"
+
+msgid "Show due to the event"
+msgstr "Hiện các sự kiện đang chờ"
+
+msgid "Support Mozilla alarms"
+msgstr "Hỗ trợ Báo giờ Mozilla"
+
+msgid "Keep alarm always on top"
+msgstr "Giữ Báo giờ luôn trên cùng"
+
+msgid "Default snooze time (secs)"
+msgstr "Mặc định thời gian ngủ (giây)"
+
+msgid "Max alarm window width"
+msgstr "Chiều rộng cửa sổ Báo giờ tối đa"
+
+msgid "Hide from alarm after days"
+msgstr "Ẩn Báo giờ sau số ngày"
+
+msgid "Default alarm time (mins)"
+msgstr "Thời gian cảnh báo mặc định (phút)"
+
+msgid "Default alarm file"
+msgstr "File âm Báo mặc định"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "Không hiện báo thức khi ở chế độ toàn màn hình"
+
+msgid "Loop the alarm sound (secs)"
+msgstr "Lặp lại âm báo"
+
+msgid "Snooze times (mins)"
+msgstr "Thời gian ngủ (phút)"
+
+msgid "Create Error!"
+msgstr "Việc tạo bị lỗi!"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "Không thể chọn mục Lịch yêu cầu"
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "Không thể tạo mục mới từ chuỗi:\n"
+
+msgid "Parse Error!"
+msgstr "Cú pháp sai"
+
+msgid "New version found!"
+msgstr "Tìm thấy phiên bản mới!"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"Đã có phiên bản %s.\n"
+"Bạn có muốn truy cập trang web ngay bây giờ?"
+
+msgid "No updates available."
+msgstr "Không có phiên bản cập nhật"
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "Bạn đang có phiên bản mới nhất của Rainlendar"
+
+msgid "New event"
+msgstr "Sự kiện mới"
+
+msgid "New task"
+msgstr "Công việc mới"
+
+msgid "Refresh"
+msgstr "Làm tươi"
+
+msgid "Options..."
+msgstr "Tùy chọn..."
+
+msgid "Manager..."
+msgstr "Quản lý..."
+
+msgid "Exit"
+msgstr "Thoát"
+
+msgid "File"
+msgstr "Tập tin"
+
+msgid "View"
+msgstr "Xem"
+
+msgid "About..."
+msgstr "Giới thiệu"
+
+msgid "Open help\tCtrl+?"
+msgstr "Trợ giúp\tCtrl+?"
+
+msgid "Help"
+msgstr "Giúp đỡ"
+
+msgid "About"
+msgstr "Giới thiệu"
+
+msgid "Calendars"
+msgstr "Các lịch"
+
+msgid "Choose day"
+msgstr "Chọn ngày"
+
+msgid "Choose month"
+msgstr "Chọn tháng"
+
+msgid "Install license..."
+msgstr "Cài đặt giấy phép..."
+
+msgid "Show debug log"
+msgstr "Xem bản ghi chú sửa lỗi"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+msgid "Enable all calendars"
+msgstr " Các Lịch cho hiện"
+
+msgid "Disable all calendars"
+msgstr " Các Lịch cho hiện"
+
+msgid "Current Day"
+msgstr "Ngày hiện tại"
+
+msgid "Next Day"
+msgstr "Ngày tiếp theo"
+
+msgid "Previous Day"
+msgstr "Tháng trước"
+
+msgid "Next Week"
+msgstr "tuần sau"
+
+msgid "Previous Week"
+msgstr "Năm trước"
+
+msgid "Next Month"
+msgstr "Tháng sau"
+
+msgid "Previous Month"
+msgstr "Tháng trước"
+
+msgid "Current Month"
+msgstr "Tháng hiện tại"
+
+msgid "Next Year"
+msgstr "Năm tới"
+
+msgid "Previous Year"
+msgstr "Năm trước"
+
+msgid "Home"
+msgstr "Trang chủ"
+
+msgid "Right"
+msgstr "Phải"
+
+msgid "Left"
+msgstr "Trái"
+
+msgid "Up"
+msgstr "Trên"
+
+msgid "Down"
+msgstr "Dưới"
+
+msgid "January"
+msgstr "Tháng Giêng"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+msgid "February"
+msgstr "Tháng Hai"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+msgid "March"
+msgstr "Tháng Ba"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+msgid "April"
+msgstr "Tháng Tư"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+msgid "May"
+msgstr "Tháng Năm"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+msgid "June"
+msgstr "Tháng Sáu"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+msgid "July"
+msgstr "Tháng Bảy"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+msgid "August"
+msgstr "Tháng Tám"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+msgid "September"
+msgstr "Tháng Chín"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+msgid "October"
+msgstr "Tháng Mười"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+msgid "November"
+msgstr "Tháng Mười Một"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+msgid "December"
+msgstr "Tháng Chạp"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+msgid "Visible"
+msgstr "Hiện"
+
+msgid "More settings..."
+msgstr "その他の設定..."
+
+msgid "Today"
+msgstr "Hôm nay"
+
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+msgid "Show all windows"
+msgstr " Hiện cửa sổ"
+
+msgid "Hide all windows"
+msgstr " Ẩn cửa sổ"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "License  files (*.ics)|*.ics"
+
+msgid "Choose the license file"
+msgstr " Chọn một tập tin"
+
+msgid "*Empty*"
+msgstr "*Trống*"
+
+msgid "This instance"
+msgstr "Ví dụ này"
+
+msgid "Whole event"
+msgstr "Tổng số các sự kiện"
+
+msgid "All following"
+msgstr "Tất cả  tiếp theo"
+
+msgid "Cancel"
+msgstr "Hủy"
+
+msgid "Do you want to delete this item?"
+msgstr "Bạn có muốn xóa mục này không?"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"Đây là mục định kỳ:\n"
+"\n"
+"%s\\ n\n"
+"Bạn có thể xóa chỉ trường hợp này (%s), tất cả các sự kiện sau hoặc toàn bộ "
+"sự kiện định kỳ"
+
+msgid "The item is read only and cannot be deleted."
+msgstr "Các mục được chỉ đọc và không thể bị xóa."
+
+msgid "Unable to delete the item."
+msgstr "Không thể xóa được. Mã lỗi 0x%p"
+
+msgid "Do you want to delete these items?"
+msgstr "Bạn có muốn xóa những mục này?"
+
+msgid "The item is read only and cannot be moved."
+msgstr "Mu ̣ c chi ̉ đươ ̣ c đo ̣ c va ̀ không thê ̉ di chuyê ̉ n."
+
+msgid "Unable to move the item."
+msgstr "Không thê ̉ di chuyê ̉ n mu ̣ c."
+
+msgid "Choose a directory"
+msgstr "Chọn một tập tin"
+
+msgid "Version"
+msgstr "Phiên bản"
+
+msgid "Built on"
+msgstr "Được xây dựng trên"
+
+msgid "Developed by"
+msgstr "Phát triển bởi"
+
+msgid "Translated (%s) by"
+msgstr "Dịch (%s) bởi"
+
+msgid "Licensed to"
+msgstr "Bản quyền cho"
+
+msgid "Plugins"
+msgstr "Tiện ích gắn thêm"
+
+msgid "Links"
+msgstr "Các liên kết"
+
+msgid "FAQ"
+msgstr "Câu hỏi thường gặp"
+
+msgid "Forum"
+msgstr "Diễn đàn"
+
+msgid "Menu icons by"
+msgstr "Biểu tượng menu bởi"
+
+msgid "Application icon by"
+msgstr "Ứng dụng"
+
+msgid "Copyrights"
+msgstr "Bản quyền"
+
+msgid "Please wait..."
+msgstr "Vui lòng chờ..."
+
+msgid "Check for update"
+msgstr "Kiểm tra cập nhật"
+
+msgid "Choose Alarm"
+msgstr "Chọn Báo giờ"
+
+msgid "All files (*.*)|*.*"
+msgstr "Tất cả các tập tin (*.*)|*.*"
+
+msgid "Change Fields"
+msgstr "Chú thích"
+
+msgid "%i events selected"
+msgstr "Xuất sự kiện %i thành công."
+
+msgid "%i tasks selected"
+msgstr "%i Tất cả các mục chọn"
+
+msgid "End time:"
+msgstr "Kết thúc:"
+
+msgid "Due time:"
+msgstr "Hết hạn:"
+
+msgid "Add new alarm"
+msgstr "Báo giờ"
+
+msgid "Are you sure you want to do this?"
+msgstr "Bạn có chắc muốn thực hiện việc này?"
+
+msgid "The selected fields will be changed to %i items."
+msgstr "Bạn có muốn xóa các mục đã chọn %i ?"
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr ""
+"Nó không thể hoàn tác các hoạt động để click \"Yes \" nếu bạn là hoàn toàn "
+"chắc chắn rằng bạn biết những gì bạn đang làm."
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr ""
+"Lưu ý rằng việc thay đổi kiểu giữa các sự kiện và nhiệm vụ sẽ dẫn đến một số "
+"mất mát dữ liệu."
+
+msgid "Categories"
+msgstr "Các nhóm"
+
+msgid "Add..."
+msgstr "Thêm..."
+
+msgid "Clear"
+msgstr "Xoá"
+
+msgid "Remove"
+msgstr "Bỏ"
+
+msgid "Values"
+msgstr "giá trị"
+
+msgid "Please give a name for the category"
+msgstr "Xin chọn tên cho Mẫu"
+
+msgid "Enter text"
+msgstr "Nhập văn bản"
+
+msgid "Unable to create the category!"
+msgstr "Không thể tạo Mẫu"
+
+msgid "You must give a name for the category."
+msgstr "Bạn phải đặt tên cho Mẫu"
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "Không cho phép dùng ký tự '/'-để đặt tên."
+
+msgid "A category called \"%s\" already exists."
+msgstr "Mẫu với tên \"%s\" đã tồn tại."
+
+msgid "Link start and end dates"
+msgstr "Liên kết ngày bắt đầu và ngày kết thúc"
+
+msgid "Save\tCtrl+S"
+msgstr "Lưu \tCtrl + S"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "Lưu Như mới \tShift + Ctrl + S"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "Lưu Như mới \tShift + Ctrl + S"
+
+msgid "Print...\tCtrl+P"
+msgstr "Ctrl"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "Xóa Mẫu... "
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "Đo ́ ng  Châ ́  p nhâ ̣ n\tCtrl Nhâ ̣ p"
+
+msgid "Close\tCtrl+W"
+msgstr "Đo ́ ng\tCtrl W"
+
+msgid "Close\tAlt-F4"
+msgstr "Đóng \tAlt-F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "Lịch chọn không hỗ trợ tái phát."
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr ""
+"Các âm báo sẽ không được hiển thị vì lịch đã bỏ qua cảnh báo thiết lập được "
+"kích hoạt."
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr "Các âm báo sẽ không được hiển thị vì da không có một cửa sổ báo động"
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr "Nhiệm vụ là chỉ đọc và sửa đổi không thể được cứu."
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr "Sự kiện này là chỉ đọc và sửa đổi không thể được lưu."
+
+msgid "The task is from a read-only calendar."
+msgstr "Đây là một công việc chỉ đọc."
+
+msgid "The event is from a read-only calendar."
+msgstr "Đây là một sự kiện chỉ đọc."
+
+msgid "There are no calendars available which can store tasks."
+msgstr "Không co ́ li ̣ ch să ̃ n du ̀ ng na ̀ o co ́ thê ̉ lưu ta ́ c vu ̣."
+
+msgid "There are no calendars available which can store events."
+msgstr "Không có lịch nào có sẵn có thể lưu trữ các sự kiện."
+
+msgid "No target calendar has been selected."
+msgstr "Không có lịch đích đã được chọn ."
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr "Mô tả ban đầu ở dạng HTML và không thể chỉnh sửa."
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"Không có lịch chọn cho mục này. Bấm vào nút Lịch và chọn lịch nào bạn muốn "
+"để lưu các mục."
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"Không có lịch hợp lệ nơi mà mục có thể được cứu. Bạn cần phải đi đến các tùy "
+"chọn và tạo ra một lịch mới cho mục . Lưu ý rằng một số lịch không hỗ trợ cả "
+"hai sự kiện và nhiệm vụ ."
+
+msgid "Unable to save the item."
+msgstr " Không thể tạo Mẫu"
+
+msgid "Updating"
+msgstr "Cập nhật thất bại. Mã lỗi 0x%p"
+
+msgid "Do you want to save the changes?"
+msgstr "Bạn có muốn lưu các thay đổi"
+
+msgid "You have made some changes to the fields."
+msgstr ""
+" Bạn đã thay đổi các mục\n"
+"mà sẽ bị hủy khi bạn chọn 'Không'."
+
+msgid "&Save"
+msgstr "&Lưu"
+
+msgid "&Discard"
+msgstr "&Huỷ"
+
+msgid "&Cancel"
+msgstr "&Hủy"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Bạn có chắc muốn xóa mục này"
+
+msgid "Event"
+msgstr "Sự kiện"
+
+msgid "Choose a file"
+msgstr "Chọn một tập tin"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar files (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "Chọn Lịch:"
+
+msgid "Select the categories:"
+msgstr "Chọn Nhóm:"
+
+msgid "before the event starts."
+msgstr "trước khi sự kiện bắt đầu."
+
+msgid "before the task is due."
+msgstr "trước khi công việc hết hạn."
+
+msgid "Set alarm sound"
+msgstr "Âm báo"
+
+msgid "Current alarm: "
+msgstr "Tháng hiện tại"
+
+msgid "Remove alarm"
+msgstr "Bỏ"
+
+msgid "Minutes"
+msgstr "Phút"
+
+msgid "Hours"
+msgstr "Giờ"
+
+msgid "Days"
+msgstr "Ngày"
+
+msgid "Alert"
+msgstr "Luôn luôn xài cảnh báo"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr ""
+"Không tìm thấy trình điều khiển lịch cho sự kiện này. Có thể sự kiện này "
+"chưa lưu trữ"
+
+msgid "On the %s day of the month"
+msgstr "Vào ngày %s của mỗi tháng"
+
+msgid "first"
+msgstr "thứ nhất"
+
+msgid "second"
+msgstr "thứ hai"
+
+msgid "third"
+msgstr "thứ ba"
+
+msgid "fourth"
+msgstr "thứ tư"
+
+msgid "fifth"
+msgstr "thứ năm"
+
+msgid "On the %s %s of the month"
+msgstr "Vào %s %s của tháng"
+
+msgid "On the last %s of the month"
+msgstr "Vào ngày %s cuối cùng của tháng."
+
+msgid "On the first weekday of the month"
+msgstr "Vào ngày thường đầu tiên của tháng"
+
+msgid "On the last weekday of the month"
+msgstr "Vào ngày thường cuối cùng trong tháng"
+
+msgid "On the last day of the month"
+msgstr "Vào ngày cuối cùng của tháng"
+
+msgid "Please give a name for the template"
+msgstr "Xin chọn tên cho Mẫu"
+
+msgid "Unable to create the template!"
+msgstr "Không thể tạo Mẫu"
+
+msgid "You must give a name for the template."
+msgstr "Bạn phải đặt tên cho Mẫu"
+
+msgid "A template called \"%s\" already exists."
+msgstr "Mẫu với tên \"%s\" đã tồn tại."
+
+msgid "Do you want to overwrite the template?"
+msgstr "Bạn có muốn ghi đè lên Mẫu"
+
+msgid "Choose the template to delete:"
+msgstr "Chọn Mẫu để xóa"
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "Chọn Mẫu dùng cho Công việc mới"
+
+msgid "Choose the template which is used for new events:"
+msgstr "Chọn Mẫu dùng cho Sự kiện mới"
+
+msgid "Save as template..."
+msgstr "Lưu thành Mẫu..."
+
+msgid "Delete template..."
+msgstr "Xóa Mẫu..."
+
+msgid "Set the default template..."
+msgstr "Thiết lập Mẫu mặc định"
+
+msgid "Template"
+msgstr "Mẫu"
+
+msgid "Select the day range"
+msgstr "Chọn Lịch:"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"Điều này xuất khẩu không thể để tiết kiệm định kỳ các sự kiện như vậy họ cần "
+"phải được chuyển đổi sang trường hợp duy nhất. Xin vui lòng xác định phạm vi "
+"ngày, trong đó sẽ được lưu vào tập tin."
+
+msgid "From:"
+msgstr "Từ:"
+
+msgid "To:"
+msgstr "Đến:"
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "Thời gian kết thúc không thể sớm hơn thời gian bắt đầu."
+
+msgid "Birthday"
+msgstr "Sinh nhật"
+
+msgid "Anniversary"
+msgstr "Ngày kỷ niệm"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Bạn đã tạo một ngày Sinh nhật hay Kỷ niệm mà không xác định vòng lặp.\n"
+"Bạn có muốn sự kiện này lặp lại mỗi năm?"
+
+msgid "Error"
+msgstr "Lỗi"
+
+msgid "Warning"
+msgstr "Cảnh báo"
+
+msgid "Question"
+msgstr "Câu hỏi"
+
+msgid "Information"
+msgstr "Thông tin"
+
+msgid "Do not show this again"
+msgstr "Không hiển thị lại sau này"
+
+msgid "&OK"
+msgstr "OK"
+
+msgid "&Yes"
+msgstr "Đồng ý"
+
+msgid "&No"
+msgstr "&Không"
+
+msgid "Manager"
+msgstr "Quản lý"
+
+msgid "Events"
+msgstr "Các sự kiện"
+
+msgid "Tasks"
+msgstr "Các Công Việc"
+
+msgid "Show original"
+msgstr "Sự Kiện đang tồn tại"
+
+msgid "Show current"
+msgstr "Sự Kiện đang diễn ra"
+
+msgid "Show upcoming"
+msgstr "Sự Kiện Sắp Bắt Đầu :"
+
+msgid "New"
+msgstr "Mới"
+
+msgid "Edit"
+msgstr "Sửa"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Copy to"
+msgstr "Sao chép đến..."
+
+msgid "Move to"
+msgstr "Di chuyển đến..."
+
+msgid "Change fields"
+msgstr "Chú thích"
+
+msgid "Import"
+msgstr "Nhập"
+
+msgid "Export"
+msgstr "Xuất"
+
+msgid "Print..."
+msgstr "In..."
+
+msgid "Backup"
+msgstr "Sao lưu"
+
+msgid "Restore"
+msgstr "Phục hồi"
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "Select all"
+msgstr "Tất Cả"
+
+msgid "Select none"
+msgstr "<Không>"
+
+msgid "Toggle selection"
+msgstr "Chọn"
+
+msgid "Select duplicates"
+msgstr "Chọn"
+
+msgid "Sort by due time"
+msgstr "Sắp xếp theo thời gian chờ"
+
+msgid "Sort by end time"
+msgstr "Theo thời gian kết thúc Sự kiện"
+
+msgid "Sort by summary"
+msgstr "Tổng Hợp"
+
+msgid "Sort by location"
+msgstr "Theo Vị Trí"
+
+msgid "Sort by calendar"
+msgstr "Theo Lịch"
+
+msgid "Sort by category"
+msgstr "Theo Nhóm"
+
+msgid "Sort by url"
+msgstr "Theo Địa Chỉ"
+
+msgid "Sort by repeat"
+msgstr "Theo Số lần Lặp lại"
+
+msgid "Sort by priority"
+msgstr "Theo tính ưu tiên"
+
+msgid "Sort by status"
+msgstr "Theo Trạng thái"
+
+msgid "Sort by create time"
+msgstr "Sắp xếp theo thời gian tạo"
+
+msgid "Sort by modify time"
+msgstr "Sắp xếp theo thời gian sửa đổi"
+
+msgid "Sort by start time"
+msgstr "Theo thời gian bắt đầu Sự kiện"
+
+msgid "Start time"
+msgstr "Giờ bắt đầu:"
+
+msgid "End time"
+msgstr "Kết thúc:"
+
+msgid "Summary"
+msgstr "Tiêu Đề"
+
+msgid "Location"
+msgstr "Địa điểm"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Create time"
+msgstr "Thời gian tạo"
+
+msgid "Modify time"
+msgstr "Sửa đổi thời gian"
+
+msgid "Reverse sorting"
+msgstr "Thứ tự sắp xếp thứ nhất"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "Tổng: (%i) (Chọn: %i)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr ""
+"Mở ra nhiều mục để chỉnh sửa có thể mất một thời gian dài . Bạn có chắc chắn "
+"muốn làm điều này?"
+
+msgid "Do you want to delete the selected item?"
+msgstr "Bạn có muốn xóa (các) mục?"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "Bạn có muốn xóa các mục đã chọn %i ?"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr "Các sản phẩm được chọn là chỉ đọc và không thể bị xóa."
+
+msgid "There were %i read only items which were not deleted."
+msgstr "Các mục %i chỉ đọc khi nó không bị xoá"
+
+msgid "Unable to delete some items."
+msgstr "Không thể xóa các skin."
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "Chọn Lịch mà muốn sao chép các mục này đến"
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "Chọn Lịch mà muốn di chuyển các mục này đến"
+
+msgid "Operation failed!"
+msgstr "Thực hiện thất bại"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr "Không có Lịch nào có thể chứa các mục này"
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"Di chuyển các mục sang Lịch trực tuyến thì không an toàn. Nếu Lịch\n"
+"đích không chấp nhận các mục vì trục trặc mạng hay vì\n"
+"lý do nào đó, bạn sẽ mất toàn bộ các mục di chuyển.\n"
+"\n"
+"Do đó, chỉ chọn \"Đồng ý\" khi bạn biết chắc mình đang làm gì."
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "Đã chuyển %i các mục đến Lịch:\n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "Đã sao chép %i các mục đến Lịch:\n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"Quan trọng! Sao chép bản ghi vào một lịch trực tuyến kéo dài một thời gian "
+"do đó họ sẽ không có sẵn cho đến khi sau một thời gian."
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr ""
+"Một số mục đã được thiết lập như là chỉ đọc và đã được sao chép thay vì di "
+"chuyển."
+
+msgid "Operation finished!"
+msgstr "Thực hiện hoàn tất"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "Bạn cần phải chọn ít nhất một lịch để tạo sự kiện"
+
+msgid "Backup was successful."
+msgstr "Sao lưu thành công"
+
+msgid "The backup contains these files:"
+msgstr "Bản sao lưu chứa các tập tin này:"
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"Cảnh báo! Các tập tin sao lưu không chứa bất kỳ tập tin iCalendar. Nếu bạn "
+"có bất kỳ sự kiện hoặc các công việc bạn cần phải sao lưu chúng bằng tay."
+
+msgid "Unable to create the backup file."
+msgstr "Không thể tạo tệp Sao lưu."
+
+msgid "The archive contains unknown files:\n"
+msgstr "Tệp nén chứa các tập tin không rõ:\n"
+
+msgid "Restore was successful."
+msgstr "Khôi phục thành công"
+
+msgid "There were problems during the restore."
+msgstr "Có một số lỗi trong khi phục hồi."
+
+msgid "Exported %i events successfully."
+msgstr "Xuất sự kiện %i thành công."
+
+msgid "Exported %i todo items successfully."
+msgstr "Đã xuất mục công việc %i thành công."
+
+msgid "Export failed!"
+msgstr "Xuất thất bại"
+
+msgid "Import failed!"
+msgstr "Nhập thất bại"
+
+msgid "Options"
+msgstr "Các tùy chọn"
+
+msgid "Skins"
+msgstr "Các giao diện"
+
+msgid "Hotkeys"
+msgstr "Các phím nóng"
+
+msgid "Advanced"
+msgstr "Nâng cao"
+
+msgid "Reset all settings"
+msgstr " Bạn có muốn lưu các thay đổi"
+
+msgid "Reset offline copy"
+msgstr "Giữ bản sao trên máy"
+
+msgid "Authenticate"
+msgstr ""
+"Google bị lỗi!\n"
+"Không thể xác thực tới Google.\n"
+"Kết quả máy chủ trả về: (%i) %i %s."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Get more languages..."
+msgstr "Tìm thêm ngôn ngữ..."
+
+msgid "On Top"
+msgstr "Nằm bên trên và đè lên các cửa sổ trong windows"
+
+msgid "On Bottom"
+msgstr "Nằm bên dưới"
+
+msgid "On Desktop"
+msgstr "Trên màn hình Desktop"
+
+msgid "Get more skins..."
+msgstr "Tìm thêm Giao diện..."
+
+msgid "TrayIcon"
+msgstr "Biểu tượng khay hệ thống"
+
+msgid "Author"
+msgstr "Tác giả"
+
+msgid "Homepage"
+msgstr "Trang chủ"
+
+msgid "Addons"
+msgstr "Addons"
+
+msgid "Version history"
+msgstr "Phiên bản"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "Đây là giao diện cũ. Có một vài tính năng sẽ không được hỗ trợ"
+
+msgid "Advanced >>>"
+msgstr "Nâng cao >>>"
+
+msgid "<<< Simple"
+msgstr "<<< Đơn giản"
+
+msgid "Open containing folder"
+msgstr "Thư mục mặc định"
+
+msgid "Custom categories are not supported."
+msgstr "Tùy chỉnh"
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr ""
+"Giao diện \"%s\" không hỗ trợ xuất hiện loại tùy chỉnh để nó không thể chỉnh "
+"sửa chúng."
+
+msgid "Activate only default windows?"
+msgstr "Kích hoạt chỉ cửa sổ mặc định?"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr ""
+"Bạn có muốn kích hoạt chỉ có các cửa sổ mặc định hoặc tất cả các cửa sổ?"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr "Lưu ý rằng kích hoạt tất cả các cửa sổ có thể làm giảm hiệu suất."
+
+msgid "&Default"
+msgstr "Mặc định"
+
+msgid "&All"
+msgstr "Tất Cả"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"Kích hoạt các lĩnh vực chỉnh sửa và nhấn tổ hợp phím nóng. Lưu ý rằng các "
+"phím nóng toàn cầu đang và sẽ ảnh hưởng đến các ứng dụng khác quá nên không "
+"làm cho họ quá đơn giản ."
+
+msgid "Hotkey"
+msgstr "Phím nóng"
+
+msgid "Function"
+msgstr "Chức năng"
+
+msgid "Search:"
+msgstr "Tìm..."
+
+msgid "Do you want to reset all settings?"
+msgstr " Bạn có muốn lưu các thay đổi"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+" Công việc này sẽ đặt lại tất cả thiết lặp mặc định.\n"
+" Các thiết lặp mặc định sẽ có hiệu lực ngay lặp tức\n"
+"Bạn có muốn tiếp tục?"
+
+msgid "Common"
+msgstr "Thông dụng"
+
+msgid "Enabled"
+msgstr "Cho phép"
+
+msgid "Read only"
+msgstr "Chỉ đọc"
+
+msgid "Ignore alarms"
+msgstr "Bỏ qua Âm Báo"
+
+msgid "Default alarm (minutes)"
+msgstr "File âm Báo mặc định"
+
+msgid "Visual category"
+msgstr "Nhóm"
+
+msgid "Time offset (mins)"
+msgstr "Thời gian ngủ (phút)"
+
+msgid "Time zone"
+msgstr "Múi Giờ:"
+
+msgid "Copy of %s"
+msgstr "Bản sao của %s"
+
+msgid "Please enter a name for the calendar."
+msgstr " Chọn tên cho lịch"
+
+msgid "Illegal character!"
+msgstr "Ký tự không hợp lệ!"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "Không cho phép dùng ký tự '/'-để đặt tên."
+
+msgid "A calendar called \"%s\" already exists."
+msgstr " Mẫu với tên \"%s\" đã tồn tại."
+
+msgid "Choose another name."
+msgstr "Chọn một tên khác"
+
+msgid "Authentication failure"
+msgstr "Xác thực thất bại"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr ""
+"Quá trình OAuth thất bại. Rainlendar không thê ̉ truy câ ̣ p dư ̃ liê ̣ u li ̣ ch "
+"cu ̉ a ba ̣ n."
+
+msgid "Do you want to delete the skin?"
+msgstr "Bạn có muốn xóa skin?"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"Chọn Đồng ý và skin \"%s\"\n"
+" sẽ bị xóa lập tức"
+
+msgid "Delete failed!"
+msgstr "Xóa không thành công!"
+
+msgid "Unable to delete the skin."
+msgstr "Không thể xóa các skin."
+
+msgid "Print"
+msgstr "In"
+
+msgid "Print items"
+msgstr "In các mục"
+
+msgid "End"
+msgstr "Kết thúc"
+
+msgid "Settings"
+msgstr "Các thiết lập"
+
+msgid "Variables"
+msgstr "Các tuỳ biến"
+
+msgid "Window settings"
+msgstr "Các thiết lập cửa sổ"
+
+msgid "Settings can be shown only for a single window."
+msgstr "Các thiết lập chỉ hiện trong cửa sổ đơn"
+
+msgid "No settings available."
+msgstr "Không có thiết lập nào khả dụng"
+
+msgid "Global variables"
+msgstr "Tuỳ biến toàn bộ"
+
+msgid "Grow upwards"
+msgstr "Tăng kích thước"
+
+msgid "Window position"
+msgstr "Ghi nhớ vị trí cửa sổ"
+
+msgid "Disabled"
+msgstr "Tắt"
+
+msgid "Click through"
+msgstr "Tỷ lệ nhấp chuột trên một trang"
+
+msgid "Scale"
+msgstr "Tỷ lệ"
+
+msgid "Filters"
+msgstr "Lọc"
+
+msgid "Included calendars"
+msgstr "Bao gồm các lịch"
+
+msgid "Excluded calendars"
+msgstr "Ngoại trừ các lịch"
+
+msgid "Included categories"
+msgstr "Bao gồm các nhóm"
+
+msgid "Excluded categories"
+msgstr "Ngoại trừ các nhóm"
+
+msgid "Task list"
+msgstr "Danh sách công việc"
+
+msgid "Alphabetically"
+msgstr "Thứ thự ABC"
+
+msgid "By Category"
+msgstr "Không có nhóm"
+
+msgid "By Due Date"
+msgstr "Theo ngày kết thúc"
+
+msgid "By Start Date"
+msgstr "Theo ngày bắt đầu"
+
+msgid "By Status"
+msgstr "Theo Trạng thái"
+
+msgid "By Priority"
+msgstr "Theo tính ưu tiên"
+
+msgid "By Location"
+msgstr "Theo địa điểm"
+
+msgid "By Calendar"
+msgstr "Theo loại Lịch"
+
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+msgid "Primary sort order"
+msgstr "Thứ tự sắp xếp thứ nhất"
+
+msgid "Secondary sort order"
+msgstr "Thứ tự sắp xếp thứ hai"
+
+msgid "Reverse primary sorting"
+msgstr "Thứ tự sắp xếp thứ nhất"
+
+msgid "Reverse secondary sorting"
+msgstr "Thứ tự sắp xếp thứ hai"
+
+msgid "Empty at top"
+msgstr "Nằm bên trên"
+
+msgid "Hide completed tasks"
+msgstr "Ẩn các công việc hoàn thành"
+
+msgid "Hide canceled tasks"
+msgstr "Ẩn các công việc bị hủy"
+
+msgid "Hide upcoming tasks"
+msgstr "Ẩn các công việc sắp đến"
+
+msgid "Event list"
+msgstr "Danh sách sự kiện"
+
+msgid "Show empty days"
+msgstr "Hiện ngày liền kề"
+
+msgid "Window variables"
+msgstr "Các tuỳ biến cửa sổ"
+
+msgid "Appearance"
+msgstr "Xuất hiện"
+
+msgid "Operations"
+msgstr "Thực hiện"
+
+msgid "Left click"
+msgstr "Nhấp trái"
+
+msgid "Right click"
+msgstr "Nhấp phải"
+
+msgid "Double left click"
+msgstr "Nhấp đôi trái"
+
+msgid "Double right click"
+msgstr "Nhấp đôi phải"
+
+msgid "Local"
+msgstr "Địa điểm "
+
+msgid "Task"
+msgstr "Hiện tóm tắt đầy đủ Công việc"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr ""
+"Ngày đến hạn cần phải được thiết lập trước khi tái phát có thể được xác định."
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "Thời gian đến hạn không thể sớm hơn thời gian bắt đầu."
+
+msgid "Unable to add new alarm!"
+msgstr "Chọn loại Lịch "
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr ""
+"Ngày đến hạn cần phải được quy định cho các nhiệm vụ trước khi nó có thể có "
+"báo động ."
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "Nâng cấp lên phiên bản Pro trước khi cài đặt giấy phép."
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"Bạn vẫn đang sử dụng phiên bản Lite mà không bao gồm các tính năng Pro. Bạn "
+"cần phải đi đến Rainlendar của trang download và nhận được phiên bản Pro."
+
+msgid "&Get Pro"
+msgstr "&Nhận Pro"
+
+msgid "&Ignore"
+msgstr "&Bỏ qua"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"Nếu bạn tải một file .r2skin hay .r2lang và trình duyệt\n"
+"web của bạn đổi đuôi file thành .zip, bạn có thể đổi lại tên\n"
+"file như cũ và nhập lại file đó vào."
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Tệp nén Zip không thể nhập vào Rainlendar."
+
+msgid "Unknown file \"%s\"."
+msgstr "Không biết file  \"%s\"."
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "Tập tin không thể nhập vào Rainlendar."
+
+msgid "Installation failed!"
+msgstr "Cài đặt không thành công!"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Không thể sao chép. Nơi sao chép trên cùng vị trí"
+
+msgid "Unable to install the file \"%s\"."
+msgstr "Không thể cài file \"%s\"."
+
+msgid "The folder does not have write permissions."
+msgstr "Thư mục không cho phép ghi vào"
+
+msgid "The skin %s doesn't exist."
+msgstr "Giao diện %s không tồn tại"
+
+msgid "Unable to merge the addon."
+msgstr "Không thể thêm vào."
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"Tập tin \"%s\" đã tồn tại.\n"
+"Bạn có muốn thay thế nó?"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Tập tin ở trên đang tồn tại. Có muốn ghi đè lên không?"
+
+msgid "Unable to install the skin!"
+msgstr " Không thể cài file \"%s\"."
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"Giao Diện không chứa \"skin.xml \" tập tin này. Bạn có chắc chắn rằng đây là "
+"một xml Rainlendar da?"
+
+msgid "The installation was successful!"
+msgstr "Việc cài đặt đã thành công!"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "Cài đặt %s thành công .."
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr ""
+"Vui lòng Làm tươi (hoặc khởi động lại) Rainlendar để nhìn thấy các thay đổi"
+
+msgid "&Refresh"
+msgstr "Làm tươi"
+
+msgid "The installation failed!"
+msgstr "Việc cài đặt bị lỗi!"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr "Cài đặt %s bị lỗi !"
+
+msgid "Select the calendar for the imported items:"
+msgstr "Chọn loại lịch từ các mục được nhập vào:"
+
+msgid "There are no calendars available that are able to store the item."
+msgstr "Không có lịch biểu có sẵn mà có thể lưu trữ các mục."
+
+msgid "Imported %i items successfully."
+msgstr "Nhập %i mục thành công!"
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Bạn cần phải chọn ít nhất một lịch để nhập sự kiện vào"
+
+msgid "Version mismatch!"
+msgstr "Phiên bản"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr ""
+"Skin addon này cho phiên bản %s của skin.\n"
+"Phiên bản cài đặt là %s."
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "Bạn có muốn tiếp tục? ( Giao diện có thể bị hỏng)"
+
+msgid "&Continue"
+msgstr "Tiếp tục sau khi xác thực."
+
+msgid "Ca&ncel"
+msgstr "&Huỷ"
+
+msgid "Failed to install \"%s\"."
+msgstr "Không thể cài file \"%s\"."
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"Skin addon này đã được áp dụng lên Skin.\n"
+"Bạn chỉ có thể áp dụng mỗi addon một lần mà thôi."
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Không thể tạo thư mục tạm để trộn các mục thêm vào"
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Space"
+msgstr "Space"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "NumLock"
+msgstr "NumLock"
+
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+msgid "Edit \"%s\""
+msgstr "Sửa \"%s\""
+
+msgid "Delete all"
+msgstr "Xóa hết"
+
+msgid "Dismiss alarm"
+msgstr "Bỏ cảnh báo"
+
+msgid "Tomorrow"
+msgstr "Ngày mai"
+
+msgid "Yesterday"
+msgstr "Hôm qua"
+
+msgid "Last %1"
+msgstr "%1 trước"
+
+msgid "%1 next week"
+msgstr "%1 tuần sau"
+
+msgid "%1 last week"
+msgstr "%1 tuần trước"
+
+msgid "%1 %2 weeks ago"
+msgstr "%1 %2 tuần trước đó"
+
+msgid "%1 in %2 weeks"
+msgstr "%1 trong %2 tuần nữa"
+
+msgid " (Due in %s)"
+msgstr "(Do trong%s)"
+
+msgid " (Overdue %s)"
+msgstr "(Quá hạn%s)"
+
+msgid "day"
+msgstr "ngày"
+
+msgid "days"
+msgstr "ngày"
+
+msgid "hour"
+msgstr "giờ"
+
+msgid "hours"
+msgstr "giờ"
+
+msgid "minute"
+msgstr "phút"
+
+msgid "minutes"
+msgstr "phút"
+
+msgid " (Due now)"
+msgstr "Kết thúc"
+
+msgid "before target"
+msgstr "trước khi sự kiện bắt đầu."
+
+msgid "Snooze"
+msgstr "Ngủ"
+
+msgid "Dismiss"
+msgstr "Hủy bỏ"
+
+msgid "Edit..."
+msgstr "Sửa..."
+
+msgid "Move to next day"
+msgstr "Chuyển sang ngày hôm sau"
+
+msgid " (%i days)"
+msgstr "(%i ngày)"
+
+msgid "Edit event"
+msgstr "Sửa sự kiện"
+
+msgid "Delete event"
+msgstr "Xóa sự kiện"
+
+msgid "[Due %x]"
+msgstr "[Hết hạn %x]"
+
+msgid "No location"
+msgstr "Không có địa điểm"
+
+msgid "No category"
+msgstr "Không có nhóm"
+
+msgid "No due date"
+msgstr "Theo ngày kết thúc"
+
+msgid "No start date"
+msgstr "Theo ngày bắt đầu"
+
+msgid "High Priority"
+msgstr "Ưu tiên cao"
+
+msgid "Medium Priority"
+msgstr "Ưu tiên trung bình"
+
+msgid "Low Priority"
+msgstr "Ưu tiên thấp"
+
+msgid "No Priority"
+msgstr "Không có ưu tiên"
+
+msgid "Medium"
+msgstr "Trung bình"
+
+msgid "Expand"
+msgstr "Phát triển"
+
+msgid "Collapse"
+msgstr "Sụp đổ"
+
+msgid "New subtask"
+msgstr "Mới"
+
+msgid "Edit task"
+msgstr "Sửa công việc"
+
+msgid "Delete task"
+msgstr "Xóa công việc"
+
+msgid "Todo list"
+msgstr "Danh sách Công việc"
+
+msgid "Completed to now"
+msgstr "Đã hoàn thành"
+
+msgid "No events today."
+msgstr "Không có sự kiện hôm nay"
+
+msgid "Today's events:"
+msgstr "Các sự kiện hôm nay:"
+
+msgid "Invalid plugins found!"
+msgstr "Phát hiện các plugin không đúng!"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"Các tập tin sau trong thư mục plugin của\n"
+"Rainlendar không hoạt động và nên được xóa bỏ:\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"Hãy chắc rằng tất cả plugins đều cùng một phiên bản Rainlendar."
+
+msgid "allow multiple instances"
+msgstr "cho phép nhiều minh dụ"
+
+msgid "install a skin or a language"
+msgstr "cài đặt giao diện hoặc ngôn ngữ"
+
+msgid "import the given file"
+msgstr "nhập file đã cho"
+
+msgid "path where the configuration file will be stored"
+msgstr "nơi lưu trữ các tập tin cấu hình"
+
+msgid "execute the given function in a script"
+msgstr "thi hành các đoạn mã lệnh đã cho"
+
+msgid "path where the log file will be stored"
+msgstr "noi lưu trữ các tập tin log"
+
+msgid "path where the backups will be stored"
+msgstr "noi lưu trữ các tập tin sao lưu"
+
+msgid "add event or task to the calendar"
+msgstr "thêm sự kiện hay công việc vào Lịch"
+
+msgid "enable verbose logging"
+msgstr "cho phép ghi file log đầy đủ"
+
+msgid "enable debug logging"
+msgstr "cho phép ghi lại các kiểm tra"
+
+msgid "disable all logging"
+msgstr " Các Lịch cho hiện"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr ""
+"không hiển thị hộp thông báo sau khi nhập khẩu hoặc cài đặt các tập tin"
+
+msgid "Do you want to start another instance?"
+msgstr "Bạn có muốn chạy một minh dụ khác?"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"Rainlendar có vẻ như đã được chạy.\n"
+"Bạn có thể chạy thêm một minh dụ bằng cách chọn 'Đồng ý'. "
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"Nếu không phải là trường hợp này và câu hỏi này cứ xuất hiện\n"
+" mỗi khi bạn chạy Rainlendar, vui lòng xóa tập tin này:\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Không thể tải thông tin từ đường dẫn:\n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "Lưu ý rằng các sự kiện và nhiệm vụ của bạn sẽ được giữ nguyên ."
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"Các tập tin cài đặt bị thiếu hoặc có sản phẩm nào.\n"
+"Bạn có muốn khôi phục lại nó từ mới nhất các tập tin sao lưu?"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Không thể tạo tệp lưu cấu hình:\n"
+"\n"
+"%s\n"
+"\n"
+"Hãy chắc rằng thư mục cho phép ghi vào."
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"Tệp lưu cấu hình không thể ghi:\n"
+"\n"
+"%s\n"
+"\n"
+"Hãy chắc rằng nó có quyền đúng."
+
+msgid "You won't be able to store any settings permanently."
+msgstr "Bạn sẽ không thể lưu bất cứ thiết lập nào lâu dài được."
+
+msgid "This is a BETA version."
+msgstr "Beta"
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"Bạn đang sử dụng một phiên bản BETA của Rainlendar . Nó có nghĩa là các phần "
+"mềm chưa được thử nghiệm và không thích hợp cho sử dụng hàng ngày \n"
+"\n"
+"Hãy báo cáo tất cả các lỗi phiên bản BETA của Rainlendar tại www.rainlendar."
+"net.\n"
+"\n"
+"(Thông báo này được hiển thị chỉ một lần)"
+
+msgid "Google Calendar support has been changed"
+msgstr "Google Calendar  hỗ trợ  đã được thay đổi"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"Sự hỗ trợ của Google Calender bây giờ sử dụng một loại lịch khác nhau. Để "
+"hiển thị các sự kiện Google một lần nữa bạn cần phải tạo ra một lịch mới và "
+"chọn ' Google Calendar ( v3 ) như các loại lịch ."
+
+msgid "Everything is hidden."
+msgstr ""
+"Có vẻ như tất cả cửa sổ và biểu tượng khay đều bị ẩn.\n"
+"Có phải bạn muốn như vậy?\n"
+" \n"
+"Nhấn \"Đồng ý\" nếu bạn muốn giữ mọi thứ ẩn và bạn sẽ không thấy bảng thông "
+"báo này nữa.\n"
+"Nhấn \"Không\" nếu bạn muốn các cửa sổ hiện lại như cũ."
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"Có vẻ như tất cả cửa sổ và biểu tượng khay đều bị ẩn.\n"
+"Có phải bạn muốn như vậy?\n"
+" \n"
+"Nhấn \"Đồng ý\" nếu bạn muốn giữ mọi thứ ẩn và bạn sẽ không thấy bảng thông "
+"báo này nữa.\n"
+"Nhấn \"Không\" nếu bạn muốn các cửa sổ hiện lại như cũ."
+
+msgid "Startup error!"
+msgstr "Lỗi khởi động!"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"Rainlendar đã không thể làm mới các thiết lập một cách chính xác . Bạn có "
+"muốn đặt lại tất cả các thiết lập và thử lại hoặc sử dụng một trong các "
+"phiên bản sao lưu ?"
+
+msgid "&Reset"
+msgstr "Lặp lại "
+
+msgid "&Use backup"
+msgstr "Sao lưu"
+
+msgid "&Keep"
+msgstr "&Giữ"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Không có giao diện ở đường dẫn:\n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"Rainlendar không thể tải giao diện được chon.\n"
+" Bạn có muốn dùng giao diện mặc định không?"
+
+msgid "Unable to load the skin!"
+msgstr "Không thể tải giao diện. Kiểm tra các tệp log để biêt thêm chi tiết."
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr ""
+"Giao diện được lựa chọn không thể được nạp. Bạn có thể tìm thêm thông tin "
+"chi tiết từ nhật ký của Rainlendar ."
+
+msgid "&Ok"
+msgstr " OK"
+
+msgid "&Show log"
+msgstr "Xem bản ghi chú sửa lỗi"
+
+msgid "Yes"
+msgstr "Đồng ý"
+
+msgid "No"
+msgstr "Không"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr ""
+"Tệp giấy phép trống"
+"Đảm bảo sử dụng url hoàn chỉnh khi tải xuống tệp giấy phép"
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"Tệp giấy phép không hợp lệ"
+"Bạn đã vượt quá số lần giấy phép có thể được tải xuống"
+"Vui lòng liên hệ với bộ phận hỗ trợ của Rainlendar để biết thêm chi tiết"
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"Tệp giấy phép không có định dạng hợp lệ"
+"Đảm bảo rằng bạn đang sử dụng đúng tệp giấy phép"
+"Bạn cũng có thể thử tải xuống tệp một lần nữa nếu lỗi vẫn tồn tại"
+
+msgid "Skin error!"
+msgstr "Lỗi da!"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"Cửa sổ giao diện 'Lịch Lớn' trong Shadow4 đã được thay thế bằng tùy chọn "
+"'Lớn' cho cửa sổ 'Lịch' mặc địnhNhấp vào OK để cài đặt lại giao diện"
+
+msgid "Use large default skin?"
+msgstr "Sử dụng skin mặc định lớn?"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"Các giá trị mặc ​​định có thể là quá nhỏ so với độ phân giải màn hình của "
+"bạn . Bạn có muốn sử dụng phông chữ và cửa sổ lớn hơn?"
+
+msgid "&Large"
+msgstr "&lớn"
+
+msgid "&Small"
+msgstr "&nhỏ"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Tìm thầy tập tin cũ này của Rainlendar:\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "Bạn có muốn nhập chúng vào chương trình?"
+
+msgid "Import failed with file: \"%s\""
+msgstr "Nhập bị lỗi với các tập tin: \"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "&Nhận Pro"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"Tôi hy vọng bạn đã rất thích sử dụng Rainlendar trong tháng qua . Bạn có "
+"muốn nâng cấp lên phiên bản Pro với chức năng bổ sung ? Nếu bạn sử dụng \" "
+"Mua ngay \" liên kết bên dưới, bạn có thể mua giấy phép ở một mức giá giảm "
+"giá . Bạn cũng có thể bấm vào nút \" Không, cảm ơn \" và không bao giờ nhìn "
+"thấy thông báo này một lần nữa.\n"
+"\n"
+"Cảm ơn bạn đã hỗ trợ."
+
+msgid "&Buy Now"
+msgstr "&Mua ngay"
+
+msgid "&Remind later"
+msgstr "&Nhắc tôi sau"
+
+msgid "&No Thanks"
+msgstr "&Không , cảm ơn"
+
+msgid "Ok"
+msgstr "Đồng ý"
+
+msgid "Update"
+msgstr "Cập nhật"
+
+msgid "Make a selection:"
+msgstr "Chọn"
+
+msgid "Hide Windows"
+msgstr "Ẩn cửa sổ"
+
+msgid "Show Windows"
+msgstr "Hiện cửa sổ"
+
+msgid "Toggle Windows"
+msgstr "Toggle cửa sổ"
+
+msgid "Toggle Today Window"
+msgstr "Hôm nay"
+
+msgid "Create New Task"
+msgstr "Tạo Công việc mới"
+
+msgid "Create New Event"
+msgstr "Tạo Sự kiện mới"
+
+msgid "Create new event or task"
+msgstr "Tạo sự kiện hay nhiệm vụ mới"
+
+msgid "Quit Application"
+msgstr "Thoát ứng dụng"
+
+msgid "Business"
+msgstr "Kinh doanh"
+
+msgid "Calls"
+msgstr "Cuộc gọi"
+
+msgid "Clients"
+msgstr "Đối tác"
+
+msgid "Competition"
+msgstr "Đối thủ"
+
+msgid "Customer"
+msgstr "Khách hàng"
+
+msgid "Exam"
+msgstr "Thi cử"
+
+msgid "Favorites"
+msgstr "Yêu thích"
+
+msgid "Follow Up"
+msgstr "Tiếp theo"
+
+msgid "Gifts"
+msgstr "Tặng quà"
+
+msgid "Holidays"
+msgstr "Các ngày nghỉ"
+
+msgid "Ideas"
+msgstr "Ý tưởng"
+
+msgid "Important"
+msgstr "Quan trọng"
+
+msgid "Issues"
+msgstr "Phát hành"
+
+msgid "Miscellaneous"
+msgstr "Linh tinh"
+
+msgid "Personal"
+msgstr "Cá nhân"
+
+msgid "Projects"
+msgstr "Dự án"
+
+msgid "Public Holiday"
+msgstr "Kế hoạch tháng"
+
+msgid "Suppliers"
+msgstr "Nhà cung cấp"
+
+msgid "Travel"
+msgstr "Du lịch"
+
+msgid "Trip"
+msgstr "Công tác"
+
+msgid "TV"
+msgstr "Kế hoạch tuần"
+
+msgid "Vacation"
+msgstr "Kỳ nghỉ"
+
+msgid "Work"
+msgstr "Công việc"
+
+msgid "Medical"
+msgstr "Y tế"
+
+msgid "Urgent"
+msgstr "Khẩn cấp"
+
+msgid "Health"
+msgstr "Sức khỏe"
+
+msgid "Sport"
+msgstr "Thể thao"
+
+msgid "Game"
+msgstr "Trò chơi"
+
+msgid "School"
+msgstr "Trường học"
+
+msgid "Party"
+msgstr "Họp nhóm"
+
+msgid "Movie"
+msgstr "Phim"
+
+msgid "Car"
+msgstr "Xe hơi"
+
+msgid "Payments"
+msgstr "Thanh toán"
+
+msgid "Money"
+msgstr "Tiền"
+
+msgid "Pets"
+msgstr "Vật nuôi"
+
+msgid "Theatre"
+msgstr "Rạp hát"
+
+msgid "Music"
+msgstr "Âm nhạc"
+
+msgid "[Black]"
+msgstr "[Đen]"
+
+msgid "[Blue]"
+msgstr "[Xanh dương]"
+
+msgid "[Brown]"
+msgstr "[Màu nâu]"
+
+msgid "[Cyan]"
+msgstr "[Xanh lá mạ]"
+
+msgid "[Green]"
+msgstr "[Xanh lá]"
+
+msgid "[Grey]"
+msgstr "Xám"
+
+msgid "[Magenta]"
+msgstr "[Đỏ sậm]"
+
+msgid "[Pink]"
+msgstr "Hồng"
+
+msgid "[Red]"
+msgstr "[Đỏ]"
+
+msgid "[Yellow]"
+msgstr "[Vàng]"
+
+msgid "[Orange]"
+msgstr "Màu cam"
+
+msgid "Must Attend"
+msgstr "Phải quan tâm"
+
+msgid "Travel Required"
+msgstr "Sửa soạn chuyến đi"
+
+msgid "Needs Preparation"
+msgstr "Chuẩn bị các yêu cầu"
+
+msgid "Phone Call"
+msgstr "Gọi điện"
+
+msgid "iCalendar Format"
+msgstr "Định dạng iCalendar"
+
+msgid "Network Shared Calendar"
+msgstr "Chia sẻ Lịch qua mạng"
+
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+msgid "Rainlendar Ini Format"
+msgstr "Định dạng Ini Rainlendar"
+
+msgid "Google Calendar"
+msgstr "Google Calendar"
+
+msgid "CalDAV Calendar"
+msgstr "Theo loại Lịch"
+
+msgid "Google Calendar (v3)"
+msgstr "Google Calendar"
+
+msgid "Google Tasks"
+msgstr "Google Calendar"
+
+msgid "Comma Separated Values"
+msgstr "Comma Separated Values (*.csv)|*.csv"
+
+msgid "&Next >"
+msgstr "&Tiếp >"
+
+msgid "< &Back"
+msgstr "< &Lui"
+
+msgid "&Finish"
+msgstr "&amp;Hoàn tất "
+
+msgid "Vertical Calendar"
+msgstr "Lịch dọc"
+
+msgid "Year Calendar"
+msgstr "Lịch năm"
+
+msgid "Sidebar"
+msgstr "Sidebar"
+
+msgid "DigiClock"
+msgstr "Đồng hồ điện tử"
+
+msgid "Dual Calendar"
+msgstr "Lịch đôi"
+
+msgid "Todo List"
+msgstr "Danh sách Công việc"
+
+msgid "Grid Calendar"
+msgstr "Grid Calendar"
+
+msgid "Vertical Line Calendar"
+msgstr "Vertical Line Calendar"
+
+msgid "Horizontal Line Calendar"
+msgstr "Horizontal Line Calendar"
+
+msgid "Visible month"
+msgstr "Tháng hiển thị"
+
+msgid "Show buttons"
+msgstr "Hiện nút"
+
+msgid "Show adjacent days"
+msgstr "Hiện ngày liền kề"
+
+msgid "Eventlist max height"
+msgstr "Chiều cao danh sách sự kiện"
+
+msgid "Todolist max height"
+msgstr "Chiều cao danh sách công việc"
+
+msgid "Show week numbers"
+msgstr "Hiện số tuần"
+
+msgid "Format"
+msgstr "Định dạng"
+
+msgid "Timezone"
+msgstr "Múi giờ"
+
+msgid "Label"
+msgstr "Nhãn"
+
+msgid "Show 3rd month"
+msgstr "Hiện tháng thứ 3"
+
+msgid "Show 4th month"
+msgstr "Hiện tháng thứ 4"
+
+msgid "Show 5th month"
+msgstr "Hiện tháng thứ 5"
+
+msgid "Show 6th month"
+msgstr "Hiện tháng thứ 6"
+
+msgid "Show 7th month"
+msgstr "Hiện tháng thứ 7"
+
+msgid "Show 8th month"
+msgstr "Hiện tháng thứ 8"
+
+msgid "Color"
+msgstr "Màu sắc"
+
+msgid "Analog Clock"
+msgstr "Đồng hồ kim"
+
+msgid "Calendar List"
+msgstr "Danh sách Lịch"
+
+msgid "X count"
+msgstr "Đếm X"
+
+msgid "Y count"
+msgstr "Đếm Y"
+
+msgid "Snooze All"
+msgstr "Tắt tạm Tất cả"
+
+msgid "Dismiss All"
+msgstr "Hủy bỏ Tất cả"
+
+msgid "To do"
+msgstr "Công việc"
+
+msgid "Today color"
+msgstr "Màu hiện tại"
+
+msgid "Today shape"
+msgstr "Kiểu hiện tại"
+
+msgid "Circle"
+msgstr "Vòng tròn"
+
+msgid "Rectangle"
+msgstr "Hình chữ nhật"
+
+msgid "Slim circle"
+msgstr "Vòng tròn viền mỏng"
+
+msgid "Slim rectangle"
+msgstr "Hình chữ nhật viền mỏng"
+
+msgid "Red"
+msgstr "Màu đỏ"
+
+msgid "Orange"
+msgstr "Màu cam"
+
+msgid "Yellow"
+msgstr "Màu vàng"
+
+msgid "Green"
+msgstr "Xanh lá"
+
+msgid "Cyan"
+msgstr "Xanh lá mạ"
+
+msgid "Blue"
+msgstr "Xanh dương"
+
+msgid "Magenta"
+msgstr "Đỏ tươi"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"Tác động đến giao diện phổ biến Shadow-3 ở một vài tính năng như hiển thị "
+"ngày của tháng trước và tháng sau, và hộp Thông tin"
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"Xác định tháng hiển thị lên Lịch. Chọn +1 cho tháng kế tiếp, -1 cho tháng "
+"trước đó hay giá trị từ 1-12 cho tháng xác định trong năm"
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr "Chọn 0 để ẩn nút Tiếp và Lùi trên Lịch"
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr "Chọn 0 để ẩn ngày của tháng trước và tháng sau"
+
+msgid "Defines the maximum height of the alarm."
+msgstr "Xác định chiều cao tối đa của chuông báo."
+
+msgid "Defines the maximum height of the event list."
+msgstr ""
+"Xác định chiều cao tối đa danh sách Sự kiện. Giá trị mặc định là 300 pixels"
+
+msgid "Defines the maximum height of the to do list."
+msgstr ""
+"Xác định chiều cao tối đa danh sách Công việc. Giá trị mặc định là 300 pixels"
+
+msgid "Defines the width of the calendar list."
+msgstr "Xác định chiều rộng danh sách Lịch. Giá trị mặc định là 165 pixels"
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "Chọn 0 để ẩn số tuần trên Lịch"
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr "Định dạng hiển thị thời gian. Để bỏ hiện giây dùng %H:%M hay %#I:%M %p"
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"Xác định Múi giờ. Chọn một số:  ... -3, -2, -1, 0, +1, +2, +3, ... .Bạn có "
+"thể chọn thêm giá trị CET, EST, PST, A_CST, ..."
+
+msgid "Adds a label for the clock."
+msgstr "Đồng hồ kim"
+
+msgid "Defines the color of the today marker."
+msgstr "Xác định Màu đánh dấu cho hôm nay."
+
+msgid "Defines the shape of the today marker."
+msgstr "Xác định Dạng đánh dấu cho hôm nay."
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "Xác định có bao nhiêu lịch được hiển thị theo chiều ngang của cửa sổ."
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "Xác định có bao nhiêu lịch được hiển thị theo chiều dọc của cửa sổ."
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "Đặt 0 để giấu tên của các ngày trong tuần từ lịch."
+
+msgid "Week View"
+msgstr "Xem theo tuần"
+
+msgid "Today position"
+msgstr "Vị trí hôm nay"
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"Xác định vị trí mà ngày hiện tại. Nếu bạn đặt là 0 (mặc định) xem theo tuần "
+"sẽ hiển thị một lịch đầy đủ và vị trí ngày hiện tại sẽ thay đổi. Nếu đặt là "
+"7 ngày hiện tại luôn được giữ tại vị trí và các ngày trong tuần sẽ thay đổi "
+"tương ứng."
+
+msgid "Autoscroll"
+msgstr "Autoscroll"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "Đặt 0 để vô hiệu hóa autoscroll."
+
+msgid "Week view date format"
+msgstr "Định dạng ngày tháng xem theo tuần"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr ""
+"Điều này định nghĩa định dạng của các ngày trong lịch trình. Mặc định là %#d."
+"%#m."
+
+msgid "Week view time format"
+msgstr "Định dạng thời gian xem theo tuần"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"Này định nghĩa định dạng của thời gian trong lịch trình. Mặc định là %H:%M. "
+"Với định dạng AM/PM, sử dụng %#I %p"
+
+msgid "Time item height"
+msgstr "Chiều cao danh sách sự kiện"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr ""
+"Xa ́ c đi ̣ nh chiê ̀ u cao cu ̉ a mô ̣ t mu ̣ c thơ ̀ i gian trong da ̣ ng xemGiá "
+"trị mặc định là 30 pixel"
+
+msgid "Time item duration"
+msgstr "Thời gian hiệu ứng mờ (ms)"
+
+msgid "60 Minutes"
+msgstr "60 phút"
+
+msgid "30 Minutes"
+msgstr "30 phút"
+
+msgid "15 Minutes"
+msgstr "15 phút"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr ""
+"Xa ́ c đi ̣ nh thơ ̀ i lươ ̣ ng cu ̉ a mô ̣ t mu ̣ c thơ ̀ i gian trong da ̣ ng "
+"xemGiá trị mặc định là 8 phút."
+
+msgid "All day max height"
+msgstr "Tất cả ngày tối đa chiều cao"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"Chiều cao tối đa của khu vực sự kiện cả ngàyMột thanh cuộn được hiển thị sau "
+"khi các sự kiện không còn phù hợp bên trong khu vực này"
+
+msgid "Event min height"
+msgstr "Chiều cao nhỏ nhất  tổ chức sự kiện"
+
+msgid "The minimum height of the event."
+msgstr "Sự kiện"
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "Chọn 0 để ẩn số tuần trên Lịch"
+
+msgid "Show weekdays"
+msgstr "Hiện Chú thích"
+
+msgid "Day View"
+msgstr "Xem theo ngày"
+
+msgid "Day view time format"
+msgstr "Định dạng thời gian xem theo ngày"
+
+msgid "Day view date format"
+msgstr "Định dạng thời gian xem theo ngày"
+
+msgid "Month View"
+msgstr "Xem theo tháng"
+
+msgid "Show background"
+msgstr "Hiện nền"
+
+msgid "Uncheck to make the background transparent."
+msgstr "Đặt 0 để làm cho nền trong suốt."
+
+msgid "Large Calendar"
+msgstr "Theo loại Lịch"
+
+msgid "Today window max height"
+msgstr "Chiều rộng  tối đa của cửa sổ Chú thích"
+
+msgid "Defines the maximum height of the today window."
+msgstr "Xa ́ c đi ̣ nh chiê ̀ u cao tô ́ i đa cu ̉ a cư ̉ a sô ̉ hôm nay."
+
+msgid "Today show tasks"
+msgstr "Hiển thị các công việc trên lịch"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr ""
+"Xa ́ c đi ̣ nh xem ca ́ c nhiê ̣ m vu ̣ co ́ đươ ̣ c hiê ̉ n thi ̣ trong cư ̉ a sô ̉ "
+"hôm nay hay không."
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"Giao diện có nhiều Màu sắc khác nhau. Bạn có thể thay đổi trong Thiết lập "
+"giao diện hoặc bằng cách nhấn phím mũi tên xuống trên Lịch"
+
+msgid "Brown"
+msgstr "Màu nâu"
+
+msgid "Dark"
+msgstr "Tối"
+
+msgid "Colorless"
+msgstr "Không màu"
+
+msgid "Defines the color of the windows."
+msgstr "Xác định Màu của cửa sổ"
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr "Xác định định dạng ngày tháng của Tiêu đề trong danh sách sự kiện"
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr ""
+"Xác định chiều cao tối đa danh sách Sự kiện. Giá trị mặc định là 300 pixels"
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr ""
+"Xác định chiều cao tối đa danh sách Công việc. Giá trị mặc định là 300 pixels"
+
+msgid "Removes the color from the windows."
+msgstr "Xác định Màu của cửa sổ"
+
+msgid "Creates darker version of the windows."
+msgstr "Tạo phiên bản đen tối của các cửa sổ ."
+
+msgid "All day"
+msgstr "Tất cả các ngày"
+
+msgid "Day bar show day"
+msgstr "Day bar show day"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr ""
+"Xác định xem số ngày và tên có được hiển thị trong thanh ngày hay không."
+
+msgid "Day bar am-pm"
+msgstr "Thanh ngày am-pm"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "Chọn để hiển thị thời gian với đồng hồ 12 giờ."
+
+msgid "Bar event"
+msgstr "Sự kiện quán bar"
+
+msgid "The event color for the bars."
+msgstr "Màu sự kiện cho các thanh."
+
+msgid "Conditions: "
+msgstr "Điều kiện:"
+
+msgid "Temperature: "
+msgstr "Nhiệt độ:"
+
+msgid "Humidity: "
+msgstr "Độ ẩm:"
+
+msgid "Winds: "
+msgstr "Gió:"
+
+msgid "Time: "
+msgstr "Giờ:"
+
+msgid "Refreshing..."
+msgstr "Làm tươi..."
+
+msgid "Downloading: "
+msgstr "Đang tải"
+
+msgid "Download failed!"
+msgstr "Tải về thất bại!"
+
+msgid "Loading..."
+msgstr "Đang tải ..."
+
+msgid "Unknown result!"
+msgstr "Không rõ kết quả!"
+
+msgid "Upcoming programs:"
+msgstr "Các chương trình sắp phát hành:"
+
+msgid "Parsing failed!"
+msgstr "Thực hiện thất bại !"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr "NGÀY    GIỜ  PHÚT   GIÂY"
+
+msgid "Loading feed..."
+msgstr "Đang tải ..."
+
+msgid "Lo: "
+msgstr "Xem Kìa"
+
+msgid "Hi: "
+msgstr "Chào: "
+
+msgid "Min:"
+msgstr "Nhỏ Nhất:"
+
+msgid "Max:"
+msgstr "Chiều rộng cửa sổ Báo giờ tối đa"
+
+msgid "Chance of precipitation: "
+msgstr "Có thể có mưa:"
+
+msgid "New moon"
+msgstr "Tuần trăng mới:"
+
+msgid "Waxing crescent"
+msgstr "Waxing crescent"
+
+msgid "First quarter"
+msgstr "Đầu Quý"
+
+msgid "Waxing gibbous"
+msgstr "Waxing gibbous"
+
+msgid "Full moon"
+msgstr "Trăng tròn"
+
+msgid "Waning gibbous"
+msgstr "Trăng Khuyết"
+
+msgid "Last quarter"
+msgstr "Cuối Quý"
+
+msgid "Waning crescent"
+msgstr "Trăng lưỡi liềm"
+
+msgid "Southern hemisphere"
+msgstr "Nam bán cầu"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr "Đặt thành 1 để thay đổi các giai đoạn như đã thấy từ Nam bán cầu."
+
+msgid "World Time"
+msgstr "Giờ:"
+
+msgid "World time format"
+msgstr "Định dạng thời gian"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"Này định nghĩa định dạng của thời gian trong lịch trình. Mặc định là %H:%M. "
+"Với định dạng AM/PM, sử dụng %#I %p"
+
+msgid "World time location 1"
+msgstr "Vi ̣ tri ́ giơ ̀ thê ́ giơ ́ i 1"
+
+msgid "Defines the title for the time."
+msgstr "Giờ:"
+
+msgid "World time timezone 1"
+msgstr "Múi giờ thế giới 1"
+
+msgid "World time location 2"
+msgstr "Vi ̣ tri ́ giơ ̀ thê ́ giơ ́ i 2"
+
+msgid "World time timezone 2"
+msgstr "Múi giờ thế giới 2"
+
+msgid "World time location 3"
+msgstr "Vi ̣ tri ́ giơ ̀ thê ́ giơ ́ i 3"
+
+msgid "World time timezone 3"
+msgstr "Múi giờ thế giới 3"
+
+msgid "World time location 4"
+msgstr "VỊ trí thời gian thế giới 4"
+
+msgid "World time timezone 4"
+msgstr "Múi giờ thế giới 4"
+
+msgid "Photos"
+msgstr "Các bức ảnh"
+
+msgid "Weather"
+msgstr "Thời tiết"
+
+msgid "Countdown"
+msgstr "Đếm ngược"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Create New"
+msgstr "Tạo mới"
+
+msgid "Moon Phase"
+msgstr "Trăng tròn"
+
+msgid "QuickAdd"
+msgstr "Thêm nhanh"
+
+msgid "Translate"
+msgstr "Phiên dịch"
+
+msgid "Text File"
+msgstr "Văn bản nhập vào"
+
+msgid "RSS height"
+msgstr "Chiều cao RSS"
+
+msgid "Defines the maximum height of the list."
+msgstr ""
+"Xác định chiều cao tối đa danh sách Sự kiện. Giá trị mặc định là 300 pixels"
+
+msgid "RSS location"
+msgstr "Địa điểm RSS"
+
+msgid "Location of the RSS feed."
+msgstr "Nơi cung cấp RSS"
+
+msgid "Weather location"
+msgstr "Thời tiết"
+
+msgid "Location of the weather feed."
+msgstr "Nơi cung cấp thời tiết"
+
+msgid "Weather city"
+msgstr "Thời tiết"
+
+msgid "The city for the weather."
+msgstr "Thời tiết"
+
+msgid "Weather language"
+msgstr "Ngôn ngữ:"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr ""
+"Ngôn ngữ thời tiết. Sử dụng chữ viết tắt ngôn ngữ như en, fi, ru, zh-cn, ..."
+
+msgid "Photos random"
+msgstr "Ngẫu nhiên các bức ảnh"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr ""
+"Bỏ chọn để hiển thị hình ảnh trong phần tiếp theo. Kiểm tra cho thấy chúng "
+"theo thứ tự ngẫu nhiên."
+
+msgid "Photos update"
+msgstr "Ảnh cập nhật"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr ""
+"Xác định khoảng thời gian ảnh được cập nhật. Giá trị được tính bằng phút."
+
+msgid "Photos folder"
+msgstr "Thư mục ảnh"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"Xác định địa phương đó là thư mục cho hình ảnh quét. Nếu điều này là trống "
+"rỗng, còn lại các hình ảnh được tải về từ Flickr."
+
+msgid "Countdown event"
+msgstr "Sự kiện đếm ngược"
+
+msgid "The description of the event."
+msgstr "Miêu tả của sự kiện"
+
+msgid "Countdown time"
+msgstr "Thời gian đếm ngược"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "Giờ xảy ra sự kiện. Dùng định dạng HH:MM:SS"
+
+msgid "Countdown date"
+msgstr "Ngày đếm ngược"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "Ngày xảy ra sự kiện. Dùng định dạng YYYY-MM-DD"
+
+msgid "TV height"
+msgstr "Chiều cao danh sách công việc"
+
+msgid "Copy to clipboard"
+msgstr "Chép vào Clipboard"
+
+msgid "File path"
+msgstr "Đường dẫn tập tin"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr ""
+"Xa ́ c đi ̣ nh tên va ̀ đươ ̀ ng dâ ̃ n tơ ́ i tê ̣ p đươ ̣ c hiê ̉ n thi ̣ trong cư ̉ "
+"a sô ̉."
+
+msgid "No file given"
+msgstr "nhập file đã cho"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr "Vào cài đặt của cửa sổ và chỉ biến đường dẫn đến một tập tin văn bản"
+
+msgid "File window full rows"
+msgstr "Cư ̉ a sô ̉ tê ̣ p co ́ ha ̀ ng đâ ̀ y"
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr "Chọn để hiển thị hàng đầy đủ. Bỏ chọn các đường cắt."
+
+msgid "File window width"
+msgstr "Chiều rộng cửa sổ Báo giờ tối đa"
+
+msgid "The width of the calendar window."
+msgstr "Xác định chiều rộng của cửa sổ lịch. Giá trị mặc định là 500 pixel."
+
+msgid "The height of the calendar window."
+msgstr "Xác định chiều cao của cửa sổ lịch. Giá trị mặc định là 545 pixel."
+
+msgid "Defines the width of the event list."
+msgstr "Xác định độ rộng của danh sách sự kiện"
+
+msgid "Defines the width of the to do list."
+msgstr ""
+"Xác định chiều rộng danh sách Công việc. Giá trị mặc định là 165 pixels"
+
+msgid "Defines the width of the quickadd window."
+msgstr "Chiều rộng cửa sổ Chú thích tối đa"
+
+msgid "Defines the width of the day view window."
+msgstr ""
+"Xác định chiều rộng của cửa sổ xem ngày. Giá trị mặc định là 165 pixel."
+
+msgid "Defines the height of the day view window."
+msgstr "Xác định chiều cao của cửa sổ xem ngày. Giá trị mặc định là 300 pixel."
+
+msgid "Defines the width of the week view window."
+msgstr ""
+"Xác định chiều rộng của cửa sổ xem tuần. Giá trị mặc định là 400 pixel."
+
+msgid "Defines the height of the week view window."
+msgstr "Xác định chiều cao của cửa sổ xem tuần. Giá trị mặc định là 300 pixel."
+
+msgid "Defines the width of the calendar window."
+msgstr "Xác định chiều rộng của cửa sổ lịch. Giá trị mặc định là 500 pixel."
+
+msgid "Defines the height of the calendar window."
+msgstr "Xác định chiều cao của cửa sổ lịch. Giá trị mặc định là 545 pixel."
+
+msgid "ctrl"
+msgstr "Ctrl"
+
+msgid "alt"
+msgstr "Alt"
+
+msgid "shift"
+msgstr "Shift"
+
+msgid "Mark as completed"
+msgstr "Đánh dấu là đã hoàn thành"
+
+msgid "Mark as needs action"
+msgstr "Đánh dấu là cần hành động"
+
+msgid "Recurring"
+msgstr "Lặp lại"
+
+msgid "Description"
+msgstr "Miêu tả"
+
+msgid "Text color"
+msgstr "Màu sắc"
+
+msgid "Tooltip color"
+msgstr "Chú thích"
+
+msgid "Black"
+msgstr "[Đen]"
+
+msgid "White"
+msgstr "Trắng"
+
+msgid "Light grey"
+msgstr "Xám"
+
+msgid "Light pink"
+msgstr "Hồng"
+
+msgid "Grey"
+msgstr "Xám"
+
+msgid "Pink"
+msgstr "Hồng"
+
+msgid "Schedule background"
+msgstr "Hiện nền"
+
+msgid "The background color for the day, week and month views."
+msgstr "Màu nền cho chế độ xem ngày, tuần và tháng."
+
+msgid "Schedule text color"
+msgstr "Schedule text color"
+
+msgid "The text color for the day, week and month views."
+msgstr "Màu văn bản cho các chế độ xem ngày, tuần và tháng."
+
+msgid "Calendar day color"
+msgstr "Calendar day color"
+
+msgid "Large calendar day color"
+msgstr "Màu ngày dương lịch lớn"
+
+msgid "The color for the days in the calendar."
+msgstr "The color for the days in the calendar."
+
+msgid "Calendar day text color"
+msgstr "Màu văn bản ngày trên lịch"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "Màu sắc cho số ngày trong lịch."
+
+msgid "Small icon"
+msgstr "Hiện biểu tượng dưới khay"
+
+msgid "The icon which is shown in the calendar."
+msgstr "Biểu tượng được hiển thị trong lịch."
+
+msgid "Large icon"
+msgstr "Hiện biểu tượng dưới khay"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "Biểu tượng được hiển thị trong các danh sách sự kiện và để thực hiện."
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "Màu của văn bản trong danh sách và chú giải công cụ."
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr ""
+"Ưu tiên xác định danh mục nào được hiển thị khi có nhiều danh mục trong cùng "
+"một ngày"
+
+msgid "Schedule text shadow color"
+msgstr "Li ̣ ch biê ̉ u ma ̀ u bo ́ ng văn ba ̉ n"
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "Ma ̀ u bo ́ ng văn ba ̉ n cho da ̣ ng xem nga ̀ y, tuâ ̀ n va ̀ tha ́ ng."
+
+msgid "Calendar day text shadow color"
+msgstr "Ma ̀ u bo ́ ng văn ba ̉ n nga ̀ y dương li ̣ ch"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "Màu cho bóng số ngày trong lịch."
+
+msgid "Text shadow color"
+msgstr "Văn bản nhập vào"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "Màu của bóng văn bản trong danh sách và chú giải công cụ."
+
+msgid "Show date"
+msgstr "Định dạng ngày tháng"
+
+msgid "Check to show also the current date."
+msgstr "Kiểm tra để hiển thị cũng ngày hiện tại"
+
+msgid "This defines the format of the time."
+msgstr ""
+"Này định nghĩa định dạng của thời gian trong lịch trình. Mặc định là %H:%M. "
+"Với định dạng AM/PM, sử dụng %#I %p"
+
+msgid "This defines the format of the date."
+msgstr ""
+"Điều này định nghĩa định dạng của các ngày trong lịch trình. Mặc định là %#d."
+"%#m."
+
+msgid "Search"
+msgstr "Tìm Kiếm"
+
+msgid "Search engine"
+msgstr "Công Cụ Tìm Kiếm"
+
+msgid "Choose the search engine"
+msgstr "Chọn Công Cụ Tìm Kiếm"
+
+msgid "Enter search text"
+msgstr "Nhập văn bản"
+
+msgid "Show title"
+msgstr "Thêm tiêu đề"
+
+msgid "Check to show a title text."
+msgstr "Chọn để hiện văn bản tiêu đề ."
+
+msgid "Title text"
+msgstr "Thêm tiêu đề"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "Điều này xác định một văn bản tiêu đề được hiển thị ở trên thời gian ."
+
+msgid "Weather woeid"
+msgstr "Thời tiết"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "Nơi cung cấp thời tiết"
+
+msgid "Weather celsius"
+msgstr "Thời tiết"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "Nếu chọn thì nhiệt độ được hiện dạng độ C ."
+
+msgid "Bold blue"
+msgstr "[Xanh dương]"
+
+msgid "Turquoise"
+msgstr "ngọc lam"
+
+msgid "Bold green"
+msgstr "[Xanh lá]"
+
+msgid "Bold red"
+msgstr "[Đỏ]"
+
+msgid "Purple"
+msgstr "Tím"
+
+msgid "Gray"
+msgstr "Xám"
+
+msgid "No events today"
+msgstr "Không có sự kiện hôm nay"
+
+msgid "No tasks today"
+msgstr "Không có công việc nào hôm nay"
+
+msgid "Background opacity"
+msgstr "Giao diện trong suốt"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr ""
+"Xác định độ trong suốt của các nền cửa sổ . Sử dụng các giá trị từ 0 đến "
+"100 ."
+
+msgid "Snooze menu"
+msgstr "Biểu tượng menu bởi"
+
+msgid "Pressure: "
+msgstr "Sức ép:"
+
+msgid "UV index: "
+msgstr "Chỉ số UV:"
+
+msgid "Feels like: "
+msgstr "Cảm thấy thích:"
+
+msgid "Sunrise: "
+msgstr "Bình Minh"
+
+msgid "Sunset: "
+msgstr "Hoàng Hôn"
+
+msgid "Tonight"
+msgstr "Tối nay"
+
+msgid "Menu"
+msgstr "Biểu tượng menu"
+
+msgid "Large"
+msgstr "Lớn"
+
+msgid "Use large images and more space between the items."
+msgstr "Sử dụng hình ảnh lớn và nhiều không gian hơn giữa các mục."
+
+msgid "Alarm max height"
+msgstr "Chiều cao tối đa của cảnh báo"
+
+msgid "Horizontal Day Bar"
+msgstr "Thanh nga ̀ y ngang"
+
+msgid "Vertical Day Bar"
+msgstr "Thanh nga ̀ y do ̣ c"
+
+msgid "Day bar show text"
+msgstr "Thanh ngày hiển thị văn bản"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "Bỏ chọn để ẩn các văn bản khỏi các sự kiện."
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "Các màu sắc của văn bản trong lịch và trong danh sách."
+
+msgid "The color of the text in the tooltip."
+msgstr "Chú thích"
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"Xác định tháng để Rainlendar hiển thị, Chọn +1 cho tháng tới, -1 cho tháng "
+"trước đó hoặc giá trị từ 0 đến 11 cho việc chỉ định tháng tương ứng trong "
+"năm."
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Không thể tìm thấy giao diện hiện tại.\n"
+"Nhấn Đồng ý để sử dụng giao diện trước đây."
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"Giao diện không hoạt động được bất kỳ cửa sổ nào.\n"
+"Cửa sổ mặc định đã được kích hoạt."
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Giao diện không tồn tại.\n"
+"Nhấn Đồng ý để sử dụng giao diện đầu tiên sẵn có."
+
+msgid "No items"
+msgstr "Không có mục nào"
+
+msgid "No events"
+msgstr "Không có sự kiện"
+
+msgid "No tasks"
+msgstr "Không có công việc"
+
+msgid "Synchronizing"
+msgstr "Đồng bộ"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "today"
+msgstr "hôm nay"
+
+msgid "tomorrow"
+msgstr "ngày mai"
+
+msgid "yesterday"
+msgstr "hôm qua"
+
+msgid "Jan"
+msgstr " Tháng Giêng"
+
+msgid "Feb"
+msgstr "Tháng hai."
+
+msgid "Mar"
+msgstr " Tháng Ba"
+
+msgid "Apr"
+msgstr " Tháng Tư"
+
+msgid "Jun"
+msgstr " Tháng Sáu"
+
+msgid "Jul"
+msgstr " Tháng Bảy"
+
+msgid "Aug"
+msgstr "Tháng Tám "
+
+msgid "Sep"
+msgstr "Tháng Chín"
+
+msgid "Oct"
+msgstr "Tháng Mười "
+
+msgid "Nov"
+msgstr "Không "
+
+msgid "Dec"
+msgstr "Kết thúc "
+
+msgid "%ith"
+msgstr "%ith"
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11th;12th;13th;1st;2nd;3rd"
+
+msgid "edit"
+msgstr "Sửa"
+
+msgid "Do you want to create the file?"
+msgstr "Bạn có muốn tạo tập tin?"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr "Tập tin %s không tồn tại"
+
+msgid "Unable to create the file \"%s\"."
+msgstr "Không thể tạo tập tin \"%s\"."
+
+msgid "This is a read only event."
+msgstr "Đây là một sự kiện chỉ đọc."
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "Không thể thay đổi sự kiện này với Rainlendar."
+
+msgid "This is a read only task."
+msgstr "Đây là một công việc chỉ đọc."
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "Không thể chỉnh sử công việc này với Rainlendar."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Organizer"
+msgstr "Đơn vị tổ chức"
+
+msgid "Accepted"
+msgstr "Đã chấp nhận"
+
+msgid "Declined"
+msgstr "Suy giảm"
+
+msgid "Tentative"
+msgstr "thử"
+
+msgid "Needs action"
+msgstr "Cần hành động"
+
+msgid "Create a new calendar"
+msgstr "Tạo Lịch mới"
+
+msgid "Please select the type of the calendar."
+msgstr "Chọn loại Lịch"
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr ""
+"Kiểu lịch sẽ xác định định dạng cho các sự kiện và nơi chúng được lưu trữ."
+
+msgid "local"
+msgstr "Địa điểm "
+
+msgid "deprecated"
+msgstr "phản đối"
+
+msgid "Type"
+msgstr "Loại"
+
+msgid "Go Pro"
+msgstr "Nhận Pro"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro cho phép bạn truy cập vào Outlook , Google Calendar và lịch "
+"bên thứ 3 khác và nhiệm vụ danh sách trực tiếp từ máy tính để bàn ."
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro cho phép bạn truy cập vào lịch đảng Lịch và thứ 3 khác Google "
+"của bạn và danh sách nhiệm vụ trực tiếp từ máy tính để bàn ."
+
+msgid "Buy license"
+msgstr "License  files (*.ics)|*.ics"
+
+msgid "See differences"
+msgstr "thấy sự khác biệt"
+
+msgid "No calendar selected!"
+msgstr "Không có lịch được chọn!"
+
+msgid "You need to select a calendar type."
+msgstr "Bạn cần phải chọn một loại lịch."
+
+msgid "Finish the authentication in your browser"
+msgstr "Hoàn tất xác thực trong trình duyệt của bạn"
+
+msgid "Authenticating..."
+msgstr "Xác thực ..."
+
+msgid "Downloading..."
+msgstr "Đang tải"
+
+msgid "No urls allowed!"
+msgstr "Không có Urls cho phép!"
+
+msgid "Only local files can be defined as the file name."
+msgstr "Chỉ có những tập tin trên máy mới có thể định nghĩa tên"
+
+msgid "No UNC paths allowed!"
+msgstr "Không có đường dẫn UNC cho phép!"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"Nó không thể sử dụng đường dẫn UNC như tên file. Bạn cần chỉ rõ ổ đĩa mạng "
+"để có thể truy cập các tập tin trên một máy chủ."
+
+msgid "No filename defined!"
+msgstr "Không có tập tin được định nghĩa!"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"Bạn không thể để phần tên dữ liệu trống.Bạn cần xác định một tâp tin mà sẽ "
+"lưu những sự kiện và công việc."
+
+msgid "The file name is missing."
+msgstr "Tên tập tin bị thiếu."
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"Nếu bạn đang tạo một lịch mới bạn có thể nhập bất cứ gì như tên gọi.Nếu "
+"không hãy chọn một tập tin iCalendar (*.ics) có sẵn."
+
+msgid "The url is empty!"
+msgstr "Url trống!"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"Bạn không thể để phần url trống.Bạn cần xác định một tập tin mà sẽ lưu những "
+"sự kiện và công việc."
+
+msgid "The protocol is missing!"
+msgstr "Còn thiếu giao thức!"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "Xin vui lòng cung cấp các giao thức cho url (Ví dụ \"http://\")."
+
+msgid "The file name is missing from the url!"
+msgstr "Tên tập tin mất từ url!"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Nếu bạn đang tạo một bộ lịch mới, bạn có thể nhập bất cứ điều gì như tên. "
+"Nếu không, bạn nên kiểm tra xem máy chủ thực sự không xác định bất kỳ tập "
+"tin cho url. \n"
+"\n"
+"Bạn có muốn tiếp tục không?"
+
+msgid "Incorrect email!"
+msgstr "Email không chính xác!"
+
+msgid "You need to enter a full email address."
+msgstr "Bạn cần phải nhập địa chỉ email."
+
+msgid "Please select the calendar."
+msgstr "Chọn loại Lịch"
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr "Bạn chưa chọn bất kỳ lịch . Bạn có chắc muốn tiếp tục không?"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "The calendar already exists!"
+msgstr "lịch đã tồn tại!"
+
+msgid "Please choose some other name for the calendar."
+msgstr "Hãy chọn một số tên khác cho lịch này."
+
+msgid "The calendar name is empty!"
+msgstr "Tên lịch còn trống!"
+
+msgid "You must give a name for the calendar."
+msgstr " Bạn phải đặt tên cho Mẫu"
+
+msgid "Alarm sound"
+msgstr "Âm báo"
+
+msgid "Select alarm sound"
+msgstr "Chọn file âm thanh cho âm báo"
+
+msgid "Default sound"
+msgstr "Âm báo"
+
+msgid "Preview"
+msgstr "Xem trước..."
+
+msgid "No sound"
+msgstr "Âm báo"
+
+msgid "Custom sound / executable"
+msgstr "Tùy chỉnh"
+
+msgid "Browse..."
+msgstr "Đường dẫn..."
+
+msgid "Bulk Change"
+msgstr "Thay đổi số lượng lớn"
+
+msgid "Type:"
+msgstr "Loại"
+
+msgid "Summary:"
+msgstr "Tiêu Đề :"
+
+msgid "Location:"
+msgstr "Địa điểm:"
+
+msgid "Url:"
+msgstr "Url:"
+
+msgid "Class:"
+msgstr "Lớp:"
+
+msgid "Time type:"
+msgstr "Loại"
+
+msgid "With time"
+msgstr "Giờ:"
+
+msgid "Start time:"
+msgstr "Giờ bắt đầu:"
+
+msgid "Absolute"
+msgstr "tuyệt đối"
+
+msgid "Relative"
+msgstr "Có quan hệ"
+
+msgid "Months"
+msgstr "Tháng"
+
+msgid "Years"
+msgstr "Năm"
+
+msgid "Visibility:"
+msgstr "Tầm nhìn:"
+
+msgid "Show in calendar"
+msgstr "Hiện lên lịch"
+
+msgid "Priority:"
+msgstr "Độ ưu tiên:"
+
+msgid "Status:"
+msgstr "Hiện trạng:"
+
+msgid "Not Started"
+msgstr "Chưa bắt đầu"
+
+msgid "Progress:"
+msgstr "Tiến trình"
+
+msgid "0 %"
+msgstr "0 %"
+
+msgid "10 %"
+msgstr "10 %"
+
+msgid "20 %"
+msgstr "20 %"
+
+msgid "30 %"
+msgstr "30 %"
+
+msgid "40 %"
+msgstr "40 %"
+
+msgid "50 %"
+msgstr "50 %"
+
+msgid "60 %"
+msgstr "60 %"
+
+msgid "70 %"
+msgstr "70 %"
+
+msgid "80 %"
+msgstr "80 %"
+
+msgid "90 %"
+msgstr "90 %"
+
+msgid "100 %"
+msgstr "100 %"
+
+msgid "Free/Busy:"
+msgstr "Rảnh rỗi/Bận Rộn"
+
+msgid "Free"
+msgstr "Rảnh"
+
+msgid "Busy"
+msgstr "Bận"
+
+msgid "Description:"
+msgstr "Miêu tả"
+
+msgid "Alarm:"
+msgstr "Báo giờ"
+
+msgid "Category:"
+msgstr "Theo nhóm"
+
+msgid "Recurrence:"
+msgstr "Tính lặp lại"
+
+msgid "Repeat every"
+msgstr "Lặp lại mỗi"
+
+msgid "Weeks"
+msgstr "Tuần"
+
+msgid "Repeat ending"
+msgstr "Lặp lại"
+
+msgid "Forever"
+msgstr "Mãi mãi"
+
+msgid "Number of times"
+msgstr "Số lần"
+
+msgid "Until"
+msgstr "Cho đến khi"
+
+msgid "Debug Window"
+msgstr "Xem bản ghi chú sửa lỗi"
+
+msgid "Sensitivity:"
+msgstr "Mức Nhạy Cảm:"
+
+msgid "All day event"
+msgstr "Tất cả các ngày trong sự kiện"
+
+msgid "Mark time as busy"
+msgstr "Đánh dấu như thời gian bận rộn"
+
+msgid "Time zone:"
+msgstr "Giờ:"
+
+msgid "Calendar:"
+msgstr "Lịch"
+
+msgid "Mon"
+msgstr "T2"
+
+msgid "Tue"
+msgstr "T3"
+
+msgid "Wed"
+msgstr "T4"
+
+msgid "Thu"
+msgstr "T5"
+
+msgid "Fri"
+msgstr "T6"
+
+msgid "Sat"
+msgstr "T7"
+
+msgid "Sun"
+msgstr "CN"
+
+msgid "Repeat"
+msgstr "Lặp lại"
+
+msgid "End after"
+msgstr "Kết thúc"
+
+msgid "occurrences"
+msgstr "xuất hiện"
+
+msgid "Exception dates"
+msgstr "Ngoại trừ các ngày"
+
+msgid "Add"
+msgstr "Thêm"
+
+msgid "Show descriptions"
+msgstr "Hiển thị mô tả lịch"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Hiển thị các sự kiện hôm nay trên khay khi Rainlendar được bắt đầu"
+
+msgid "Hide list windows if there are no items"
+msgstr "Ẩn cửa sổ nếu không có mục nào"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Nhấn xuyên (giữ phím Shift để vô hiệu hóa)"
+
+msgid "Lock windows in place"
+msgstr "Khóa cửa sổ ở vị trí cố định"
+
+msgid "Enable on startup"
+msgstr "Cho phép khởi động cùng hệ thống"
+
+msgid "Hide from taskbar"
+msgstr "Â ̉ n kho ̉ i thanh ta ́ c vu ̣"
+
+msgid "Use Retina Resolution"
+msgstr "Sử dụng Độ phân giải võng mạc"
+
+msgid "Add years for categories"
+msgstr "Thêm năm cho danh mục"
+
+msgid "Categories..."
+msgstr "Các nhóm"
+
+msgid "Week's start day:"
+msgstr "Ngày đầu tiên của tuần:"
+
+msgid "Position:"
+msgstr "Chức vụ:"
+
+msgid "Language:"
+msgstr "Ngôn ngữ:"
+
+msgid "Opacity"
+msgstr "Độ trong suốt"
+
+msgid "Normal:"
+msgstr "Bình thường:"
+
+msgid "Mouse over:"
+msgstr "Lướt chuột qua:"
+
+msgid "Apply to all windows at the same time"
+msgstr "A ́ p du ̣ ng cho tâ ́ t ca ̉ cư ̉ a sô ̉ cu ̀ ng lu ́ c"
+
+msgid "Font Size"
+msgstr "Cỡ chữ"
+
+msgid "Size:"
+msgstr "Kích Thước:"
+
+msgid "Duplicate..."
+msgstr "Xóa Mẫu... "
+
+msgid "Action:"
+msgstr "Hành động:"
+
+msgid "Hotkey:"
+msgstr "Phím nóng:"
+
+msgid "Set"
+msgstr "Thiết Đặt"
+
+msgid "Available skins"
+msgstr "Giao diện có thể dùng được"
+
+msgid "Active skins"
+msgstr "Kích hoạt giao diện"
+
+msgid "Settings..."
+msgstr "Cấu hình..."
+
+msgid "All items"
+msgstr "Tất cả các mục"
+
+msgid "Selected items"
+msgstr "Tất cả các mục chọn"
+
+msgid "Day range"
+msgstr "Chuỗi ngày"
+
+msgid "Select days"
+msgstr "Chọn các ngày"
+
+msgid "Add title"
+msgstr "Thêm tiêu đề"
+
+msgid "Preview..."
+msgstr "Xem trước..."
+
+msgid "Page Setup..."
+msgstr "Thiết lập trang..."
+
+msgid "Todo"
+msgstr "Công việc"
+
+msgid "Date only"
+msgstr "Chỉ đọc"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "Comma Separated Values (*.csv)|*.csv"
+
+msgid "Username"
+msgstr "Tên đăng nhập"
+
+msgid "Password"
+msgstr "Mật khẩu"
+
+msgid "Calendar name"
+msgstr "Tên lịch"
+
+msgid "Poll frequency (mins)"
+msgstr "Tần số thăm dò ý kiến (phút)"
+
+msgid "Suppress errors"
+msgstr "Chặn lỗi"
+
+msgid "Keep offline copy"
+msgstr "Giữ bản sao trên máy"
+
+msgid "Authentication"
+msgstr "Sự chứng thực"
+
+msgid "Basic"
+msgstr "Cơ bản"
+
+msgid "Digest"
+msgstr "Bản tóm tắt"
+
+msgid "GSS-Negotiate"
+msgstr "GSS-Thoả thuận"
+
+msgid "NTLM"
+msgstr "NTLM"
+
+msgid "Support"
+msgstr "Hỗ trợ Báo giờ Mozilla"
+
+msgid "Automatic"
+msgstr "Tự Động"
+
+msgid "Both"
+msgstr ""
+"Hiện có hợp lệ không có nơi mà các mục lịch có thể được lưu giữ. Bạn cần "
+"phải đi đến các tùy chọn và tạo một lịch biểu mới cho các mục. Lưu ý rằng "
+"một số lịch không hỗ trợ cả hai sự kiện và công việc. Bạn không thể ví dụ "
+"Công việc thêm vào Lịch Google."
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Chọn một URL , tên người dùng và mật khẩu cho lịch và nhấp vào nút chọn "
+"lịch.\n"
+"\n"
+"Các thông tin username và mật khẩu có thể được bỏ trống nếu không cần thiết ."
+
+msgid "Select Calendar"
+msgstr "Bạn cần phải chọn một loại lịch."
+
+msgid "CalDAV Error (%s)!"
+msgstr "Lỗi CalDAV (%s)!"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Mạng Lỗi! \n"
+"Lỗi tải lên dữ liệu đến địa chỉ: \n"
+"%s \n"
+"\n"
+"Máy chủ trả về kết quả: (%i)%i %s."
+
+msgid "Google Error (%s)!"
+msgstr ""
+"Google bị lỗi! (%s)\n"
+"Không thể nhận dạng sự kiện."
+
+msgid "Unable to delete the event."
+msgstr ""
+"Google bị lỗi!\n"
+"Không thể xóa sự kiện.\n"
+"Kết quả máy chủ trả về: (%i) %i %s."
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "Server trả về kết quả: (%i) %i %s."
+
+msgid "Unable to read the calendars from the server."
+msgstr "Không thể đọc lịch từ máy chủ."
+
+msgid "Unable to authenticate to the server."
+msgstr ""
+"Google bị lỗi!\n"
+"Không thể xác thực tới Google.\n"
+"Kết quả máy chủ trả về: (%i) %i %s."
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Google Error!\n"
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "Không thể đọc lịch từ máy chủ."
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr ""
+"Quá trình xác thực đã thất bại. Xác minh rằng bạn đã nhập tên người dùng "
+"chính xác"
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr ""
+"Xa ́ c minh ră ̀ ng ba ̣ n cu ̃ ng đang sư ̉ du ̣ ng mâ ̣ t khâ ̉ u cu ̣ thê ̉ ư ́ ng du"
+" ̣ ng cho Rainlendar."
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr ""
+"Không thể kết nối đến máy chủ . Hãy chắc chắn rằng kết nối mạng của bạn đang "
+"làm việc."
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "Địa chỉ \"%s\"không chứa bất kỳ lịch nào ."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr "Lỗi tải dữ liệu từ địa chỉ : %s."
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr ""
+"Hãy chắc rằng mạng của bạn đang hoạt động và tường lửa không ngăn chặn kết "
+"nối."
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr ""
+"Không thể sửa proxy.Xác minh rằng các thiết lập proxy của bạn là chính xác."
+
+msgid "Unable to resolve the host."
+msgstr "Không thể phân giải máy chủ."
+
+msgid "Unable to connect to the server."
+msgstr "Không thể kết nối tới máy chủ"
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "kết nối an toàn ( SSL ) đến máy chủ thất bại."
+
+msgid "FALSE"
+msgstr "Lỗi"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Ignore private events"
+msgstr "Bỏ qua sự kiện riêng tư"
+
+msgid "Import limit"
+msgstr "Hạn chế nhập khẩu"
+
+msgid "Everything"
+msgstr "Mọi thứ"
+
+msgid "Future only"
+msgstr "chỉ trong tương lai"
+
+msgid "Past month"
+msgstr "Tháng Trước"
+
+msgid "Past 6 months"
+msgstr "6 tháng trước"
+
+msgid "Past year"
+msgstr "Năm Ngoái"
+
+msgid "Past 2 years"
+msgstr "2 năm Trước"
+
+msgid "Delete notifications"
+msgstr "Xóa thông báo"
+
+msgid "External Only"
+msgstr "Chỉ bên ngoài"
+
+msgid "Future Only"
+msgstr "Chỉ trong tương lai"
+
+msgid "Color mapping"
+msgstr "Màu sắc vẽ bản đồ"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"Nhập địa chỉ email tài khoản Google của bạn và nhấp vào nút \"Chọn lịch \" "
+"và chọn lịch bạn muốn truy cập."
+
+msgid "Select calendar"
+msgstr "Bạn cần phải chọn một loại lịch."
+
+msgid "Unable to read the calendars."
+msgstr "không thể đọc lịch ."
+
+msgid "Authentication failed."
+msgstr "Quá trình xác thực đã thất bại."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Không thể xác thực với Google\n"
+"Vui lòng xác minh rằng email và mật khẩu của bạn là chính xác"
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr ""
+"Không thê ̉ ta ̉ i sư ̣ kiê ̣ n lên vi ̀ li ̣ ch đi ́ ch chưa đươ ̣ c xa ́ c đi ̣ nh."
+
+msgid "Google Calendar Error (%s)!"
+msgstr ""
+"Google bị lỗi!\n"
+"Không thể nhận dạng đường dẫn của lịch (%s) !"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"Không thể xác thực với GoogleXác minh 2 bước được bật cho tài khoản của bạn "
+"vì vậy bạn cần tạo một mật khẩu ứng dụng cụ thể cho RainlendarBạn có thể "
+"thực hiện điều này trong cài đặt tài khoản Google trong \"Xác minh 2 bước\""
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"Không thể xác thực với GoogleQuyền truy cập của Rainlendar vào Lịch Google "
+"có thể đã bị thu hồiVui lòng vào Tùychọn- &gt;Lịch và chạy lại xác thực cho "
+"lịch"
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google bị lỗi!\n"
+"Không thể xác thực tới Google.\n"
+"Kết quả máy chủ trả về: (%i) %i %s."
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google bị lỗi!\n"
+"Không thể tải lịch.\n"
+"Kết quả máy chủ trả về: (%i) %i %s."
+
+msgid "Unable to parse the calendar url."
+msgstr ""
+"Google bị lỗi!\n"
+"Không thể nhận dạng đường dẫn của lịchl."
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Lỗi Google!\n"
+"Có vẻ như bạn đã nhập một url cho tên lịch.\n"
+"Bạn phải sử dụng một trong các tên dưới đây: \n"
+
+msgid "Unable to delete the event: "
+msgstr ""
+"Google bị lỗi!\n"
+"Không thể xóa sự kiện.\n"
+"Kết quả máy chủ trả về: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"Lỗi Google!\n"
+"Sự kiện không thể tải lên Google Calendar vì có sự xung đột.Sự kiện cập nhật "
+"sẽ được nạp lại từ Google Calendar."
+
+msgid "Unable to parse the events."
+msgstr ""
+"Google bị lỗi!\n"
+"Không thể nhận dạng sự kiện."
+
+msgid "Unable to upload the event: "
+msgstr ""
+"Google bị lỗi!\n"
+"Không thể tải lên sự liện.\n"
+"Kết quả máy chủ trả về: (%i) %i %s."
+
+msgid "Task list name"
+msgstr "Định dạng Tiêu đề danh sách công việc"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"Nhập địa chỉ email tài khoản Google của bạn và nhấp vào nút\"Chọn danh sách "
+"nhiệm vụ\" và chọn danh sách nhiệm vụ bạn muốn truy cập"
+
+msgid "Select task list"
+msgstr "Định dạng Tiêu đề danh sách công việc"
+
+msgid "Unable to read the task lists."
+msgstr "Đây là một công việc chỉ đọc."
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr ""
+"Không thê ̉ ta ̉ i ta ́ c vu ̣ lên vi ̀ danh sa ́ ch ta ́ c vu ̣ đi ́ ch chưa đươ ̣ c "
+"xa ́ c đi ̣ nh."
+
+msgid "Google Tasks Error (%s)!"
+msgstr ""
+"Google bị lỗi (%s)!\n"
+"Không thể nhận dạng sự kiện."
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"Không thể xác thực với GoogleQuyền truy cập của Rainlendar vào danh sách Tác "
+"vụ của Google có thể đã bị thu hồiVui lòng làm mới lịch và xác thực lại "
+"Rainlendar vào tài khoản Google của bạn"
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google bị lỗi!\n"
+"Không thể tải lịch.\n"
+"Kết quả máy chủ trả về: (%i) %i %s."
+
+msgid "Unable to parse the task list url."
+msgstr "Không thể phân tách các ID từ nhiệm vụ."
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Lỗi Google!\n"
+"Có vẻ như bạn đã nhập một url cho tên lịch.\n"
+"Bạn phải sử dụng một trong các tên dưới đây: \n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"Không thể tìm thấy danh sách nhiệm vụ đã chọn (%s)\n"
+"\\ nCácdanh sách lịch trình là:\n"
+
+msgid "Unable to delete the task: "
+msgstr "Không thể xóa các skin."
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"Không thể tải tác vụ lên Google Task do xung độtTác vụ được cập nhật sẽ được "
+"tải lại từ Tác vụ Google"
+
+msgid "Unable to upload the task: "
+msgstr "Không thể tạo nhiệm vụ."
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar files (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "Tải lên an toàn"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"Chọn một URL, tên người dùng và mật khẩu cho lịch này. \n"
+"\n"
+"Các URL có thể sử dụng http, https hoặc giao thức FTP.Username, password có "
+"thể để trống nếu không cần thiết."
+
+msgid "Network Error (%s)!"
+msgstr "Mạng bị lỗi (%s)!"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "Chọn loại Lịch "
+
+msgid "Unable to remove the item from the online calendar."
+msgstr "Không thể gỡ bỏ các mục từ trực tuyến lịch."
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"Không nhận dạng được tập tin: %s\n"
+"Tập tin có thể đã bị hỏng"
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"Máy chủ trả lại không có kết quả.Hãy chắc rằng url lịch trỏ đến một tập tin "
+"và không trỏ đến một thư mục."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Lỗi mạng!\n"
+"Có lỗi trong lúc tải dữ liệu từ url:\n"
+"%s\n"
+" Kết quả máy chủ trả về:(%i) %i %s."
+
+msgid "Downloaded event count"
+msgstr "Số sự kiện đã tải xuống"
+
+msgid "Office 365"
+msgstr "Microsoft Office 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"Nhập địa chỉ email tài khoản Office 365 của bạn và nhấp vào nút\"Chọn lịch\" "
+"và chọn lịch bạn muốn truy cập"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Không thê ̉ xa ́ c thư ̣ c va ̀ o ta ̀ i khoa ̉ n Office 365\n"
+"Vui lòng xác minh rằng email và mật khẩu của bạn là chính xác"
+
+msgid "Office365 Error (%s)!"
+msgstr "Lỗi Office365 (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Không thê ̉ xa ́ c thư ̣ c va ̀ o ta ̀ i khoa ̉ n Office 365Quyền truy cập của "
+"Rainlendar vào lịch Office 365 có thể đã bị thu hồiVui lòng làm mới lịch và "
+"xác thực lại Rainlendar vào tài khoản Office 365 của bạn"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Không thê ̉ xa ́ c thư ̣ c va ̀ o ta ̀ i khoa ̉ n Office 365\n"
+"Kết quả trả về máy chủ: (%i) %i %s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Không thể tải sự kiện lên do xung độtSự kiện cập nhật sẽ được tải lại từ máy "
+"chủ"
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"Lỗi Outlook ! \n"
+"Không thể khởi tạo thư viện MAPI. \n"
+"\n"
+"Nếu bạn mới nâng cấp Rainlendar hay Outlook bạn cần tạo lại lịch Outlook "
+"trong tùy chọn Rainlendar. \n"
+"\n"
+"Bạn cũng cần chắc rằng hai chương trình này cùng phiên bản (32bit hay 64bit)."
+
+msgid "Application"
+msgstr "Ứng dụng"
+
+msgid "Profile"
+msgstr "Hồ sơ"
+
+msgid "MessageStore"
+msgstr "Kho lưu trữ tin nhắn"
+
+msgid "Folders"
+msgstr "Các thư mục"
+
+msgid "Default Folder"
+msgstr "Thư mục mặc định"
+
+msgid "Use labels instead of categories"
+msgstr "Dùng nhãn tên thay cho nhóm"
+
+msgid "Show edit links"
+msgstr "Hiện đường dẫn sửa đổi"
+
+msgid "Keep MAPI connection alive"
+msgstr "Giữ thông kết nối MAPI"
+
+msgid "Month"
+msgstr "Tháng"
+
+msgid "6 months"
+msgstr "6 tháng"
+
+msgid "Year"
+msgstr "Năm"
+
+msgid "2 years"
+msgstr "2 năm"
+
+msgid "Read birthdays from contacts"
+msgstr "Lấy ngày sinh nhật từ liên hệ"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Chọn nơi lưu tin nhắn của Outlook mà bạn muốn xem ở Rainlendar"
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][edit]]"
+
+msgid "Outlook error!"
+msgstr "Outlook bị lỗi !"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr ""
+"Không thể đọc các mục Outlook từ \"%s\". Xem nhật ký để biết thêm chi tiết."
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "Cập nhật thất bại. Mã lỗi 0x%p"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr ""
+"Không thê ̉ ghi mu ̣ c OutlookKhông co ́ thư mu ̣ c na ̀ o să ̃ n du ̀ ng đê ̉ lưu "
+"trư ̃"
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "Không thể xóa được. Mã lỗi 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "Không thể tìm thấy danh sách công việc Remember The Milk!"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "Danh sách \"%s\" không thể tìm thấy.Những danh sách có thể dùng là :"
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "Xin viết tên chính xác như danh sách ở trên."
+
+msgid "Unable to parse the ID from the task."
+msgstr "Không thể phân tách các ID từ nhiệm vụ."
+
+msgid "Unable to create the task."
+msgstr "Không thể tạo nhiệm vụ."
+
+msgid "Unable to parse the timeline."
+msgstr "Không thể phân tích dòng thời gian."
+
+msgid "The service is temporarily unavailable."
+msgstr "Dịch vụ hiện tại không dùng được."
+
+msgid "Please log in to Remember The Milk."
+msgstr "Xin hãy đăng nhập vào Remember The Milk."
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"Bạn cần phải cho phép Rainlendar để truy nhập tài khoản Remember The Milk "
+"của bạn.Xin hãy đăng nhập vào Web site Remember The Milk và cho Rainlendar "
+"truy cập vào  tài khoản của bạn.\n"
+"\n"
+"Trình duyệt mặc định của bạn sẽ tự động mở khi ban nhấn vào nút Ok."
+
+msgid "Continue after authorization."
+msgstr "Tiếp tục sau khi xác thực."
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr "Nhấn nút Ok để tiếp tục sau khi bạn đã ủy quyền Rainlendar."
+
+msgid "Unable to parse the output."
+msgstr "Không thể phân tích đầu ra."
+
+msgid "Unknown response for call \"%s\"."
+msgstr "Trả lời không rõ cho cuộc gọi \"%s\"."
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"Gọi \"%s\" không thành công:\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "Gọi đến phương pháp \"%s\" không thành công."
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "Lỗi Remember The Milk (%s)!"
+
+msgid "List"
+msgstr "Danh sách"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"Chọn tên của danh sách công việc từ Remember The Milk. Bạn cũng có thể để "
+"trống nếu bạn muốn nhận được tất cả danh sách của bạn."
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"Dấu hiệu xác thực đã mất.Bạn cần cung cấp cho  Rainlendar truy nhập vào tài "
+"khoản Remember The Milk của bạn."
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"Không thể tìm thấy thư mục \"%s\"\n"
+"\n"
+"Các thư mục có sẵn là:"
+
+msgid "Toodledo Error (%s)!"
+msgstr "Lỗi Toodledo (%s)!"
+
+msgid "Folder"
+msgstr "Thư mục ảnh"
+
+msgid "Poll for changes"
+msgstr "Theo dõi các thay đổi"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr "Vui lòng nhập địa chỉ email và mật khẩu của bạn cho Toodledo."
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "Không thể cài file \"%s\"."
+
+msgid "Filename"
+msgstr "Tên tập tin"
+
+msgid "Monitor changes"
+msgstr "Theo dõi các thay đổi"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"Chọn tập tin cho lịch.\n"
+"\n"
+"Bạn có thể chọn *.ics có trên máy hoặc chọn đường dẫn cho trường hợp tạo mới "
+"tập tin này."
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr ""
+"Đường dẫn đến tệp lịch\"%s\" không thoát raĐi đến Tùy chọn-&gt;Lịch và xác "
+"minh rằng vị trí của tệp được thiết lập chính xác"
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "Không thể tạo bản sao tạm thời của tệp \"%s\"."
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "Không thể cài file \"%s\"."
+

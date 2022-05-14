@@ -1,0 +1,5150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2 uk_UA\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: 2022-03-21 15:51+0200\n"
+"Last-Translator: Vira Motorko <vira_motorko@i.ua>\n"
+"Language-Team: Andriy Dmytruk <g47qk@ukr.net>\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: D:/Projects/Rainlendar2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SearchPath-0: Application\n"
+"X-Poedit-SearchPath-1: Plugins\n"
+"X-Poedit-SearchPath-2: Testbench/Debug/resources\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Rainlendar не вдалося запустити сервер http для отримання відповіді "
+"OAuthПереконайтеся, що у вас немає жодного програмного забезпечення для "
+"безпеки, яке не дозволяє програмі запускати сервери, і що в цьому ж порту "
+"немає інших служб"
+
+msgid "Server Port: "
+msgstr "Порт сервера"
+
+msgid "Failed to start HTTP server"
+msgstr "Не вдалося запустити сервер http"
+
+msgid "Choose the backup path"
+msgstr "Виберіть шлях до резервної копії"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "Архів (*.zip)|*.zip"
+
+msgid "Authentication failed!"
+msgstr "Помилка автентификації"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "Переконайтеся, що завершили процес автентифікації"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr "і надайте Rainlendar дозвіл на доступ до календаря."
+
+msgid "Authentication succeeded!"
+msgstr "Успішна автентифікація"
+
+msgid "You may close the browser window now."
+msgstr "Тепер можна закрити вікно веб-переглядача."
+
+msgid "Choose the backup file:"
+msgstr "Виберіть шлях до резервної копії:"
+
+msgid "Select"
+msgstr "Вибір"
+
+msgid "No backups found!"
+msgstr "Немає резервних копій!"
+
+msgid "There are no backups available in the backup folder."
+msgstr "В архівній директорії немає архівів."
+
+msgid "The settings do not exist!"
+msgstr "Налаштування не існують!"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "У резервній копії немає файлу налаштувань."
+
+msgid "The file already exists:"
+msgstr "Файл вже існує:"
+
+msgid "Do you want to overwrite the file?"
+msgstr "Чи ви хочете перезаписати файл?"
+
+msgid "Unable to overwrite file:"
+msgstr "Неможливо перезаписати файл:"
+
+msgid "Write error!"
+msgstr "Помилка запису!"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"Неможливо відновити файл:\n"
+"%s\n"
+"\n"
+"Вам потрібно дістати файл вручну з резервного архіву."
+
+msgid "Restore error!"
+msgstr "Помилка відновлення!"
+
+msgid "[None]"
+msgstr "[Немає]"
+
+msgid "<Hidden>"
+msgstr "<Прихована>"
+
+msgid "all"
+msgstr "усі"
+
+msgid "active"
+msgstr "активні"
+
+msgid "dismissed"
+msgstr "скасовані"
+
+msgid "snoozed"
+msgstr "відкладені"
+
+msgid "Show only needs action"
+msgstr "Показувати лише те, що потребує діїі"
+
+msgid "Show only in progress"
+msgstr "Показувати лише у процесі"
+
+msgid "Show only completed"
+msgstr "Показувати лише завершені"
+
+msgid "Show only cancelled"
+msgstr "Показувати лише скасовані"
+
+msgid "Hide needs action"
+msgstr "Потребує дії"
+
+msgid "Hide in progress"
+msgstr "У процесі"
+
+msgid "Hide completed"
+msgstr "Сховати завершено"
+
+msgid "Hide cancelled"
+msgstr "Сховати скасовано"
+
+msgid "Reset completed time"
+msgstr "Скинути час виконання"
+
+msgid "Show only no priority"
+msgstr "Показувати лише без пріоритету"
+
+msgid "Show only high priority"
+msgstr "Показувати лише з високим пріоритетом"
+
+msgid "Show only normal priority"
+msgstr "Показувати лише зі звичайнимпріоритетом"
+
+msgid "Show only low priority"
+msgstr "Показувати лише з низьким пріоритетом"
+
+msgid "Hide no priority"
+msgstr "Без пріоритету"
+
+msgid "Hide high priority"
+msgstr "Високий пріоритет"
+
+msgid "Hide normal priority"
+msgstr "Звичайний пріоритет"
+
+msgid "Hide low priority"
+msgstr "Приховати з низьким пріоритетом"
+
+msgid "Show only alarms"
+msgstr "Показувати лише будильники"
+
+msgid "Show only active"
+msgstr "Показувати лише активні"
+
+msgid "Show only snoozed"
+msgstr "Показувати лише відкладені"
+
+msgid "Show only dismissed"
+msgstr "Показувати тільки скасовані"
+
+msgid "Hide alarms"
+msgstr "Сховати нагадування"
+
+msgid "Hide active"
+msgstr "Сховати активні"
+
+msgid "Hide snoozed"
+msgstr "Приховати вимкнений режим"
+
+msgid "Hide dismissed"
+msgstr "Приховати звільнені"
+
+msgid "Reset dismiss time"
+msgstr "Скинути час скасування"
+
+msgid "Reset snooze time"
+msgstr "Скинути час відкладення"
+
+msgid "Dismiss next alarm"
+msgstr "Скасувати наступний будильник"
+
+msgid "Duration:"
+msgstr "Тривалість:"
+
+msgid "Next alarm:"
+msgstr "Наступний будильник:"
+
+msgid "Dismissed:"
+msgstr "Скасовані:"
+
+msgid "Snoozed until:"
+msgstr "Відкладено до:"
+
+msgid "In Progress"
+msgstr "У процесі"
+
+msgid "Completed"
+msgstr "Завершено"
+
+msgid "Needs Action"
+msgstr "Потрібна дія"
+
+msgid "Cancelled"
+msgstr "Відмінено"
+
+msgid "None"
+msgstr "Немає"
+
+msgid "High"
+msgstr "Високий"
+
+msgid "Normal"
+msgstr "Нормально"
+
+msgid "Low"
+msgstr "Низький"
+
+msgid "All"
+msgstr "Усі"
+
+msgid "Active"
+msgstr "Активні"
+
+msgid "Dismissed"
+msgstr "Скасовані"
+
+msgid "Snoozed"
+msgstr "Відкладені"
+
+msgid "Daily"
+msgstr "Щоденно"
+
+msgid "Weekly"
+msgstr "Щотижня"
+
+msgid "Monthly"
+msgstr "Щомісяця"
+
+msgid "Yearly"
+msgstr "Щороку"
+
+msgid "Private"
+msgstr "Приватно"
+
+msgid "Public"
+msgstr "Державні свята"
+
+msgid "Confidential"
+msgstr "Конфіденційно"
+
+msgid "Default"
+msgstr "За замовчуванням"
+
+msgid "No priority"
+msgstr "Без пріоритету"
+
+msgid "Normal priority"
+msgstr "Звичайний пріоритет"
+
+msgid "High priority"
+msgstr "Високий пріоритет"
+
+msgid "Low priority"
+msgstr "Низький пріоритет"
+
+msgid "Created: "
+msgstr "Створено:"
+
+msgid "Unknown"
+msgstr "Невідомо"
+
+msgid "Modified: "
+msgstr "Змінений:"
+
+msgid "Copy"
+msgstr "Копіювати"
+
+msgid "Region"
+msgstr "Область"
+
+msgid "Native"
+msgstr "Системна"
+
+msgid "Sunday"
+msgstr "Неділя"
+
+msgid "Monday"
+msgstr "Понеділок"
+
+msgid "Tuesday"
+msgstr "Вівторок"
+
+msgid "Wednesday"
+msgstr "Середа"
+
+msgid "Thursday"
+msgstr "Четвер"
+
+msgid "Friday"
+msgstr "П'ятниця"
+
+msgid "Saturday"
+msgstr "Субота"
+
+msgid "Every second Saturday"
+msgstr "Через суботу"
+
+msgid "Start"
+msgstr "Початок"
+
+msgid "Due"
+msgstr "Кінець"
+
+msgid "Priority"
+msgstr "Пріоритет"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Category"
+msgstr "Категорія"
+
+msgid "Recurrence"
+msgstr "Повтор"
+
+msgid "Off"
+msgstr "Вимк."
+
+msgid "Beta"
+msgstr "Бета-версії"
+
+msgid "General"
+msgstr "Загальні"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "%H:%M (напр. \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "%#H:%M (напр. \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "%I:%M %p (напр. \"01:42 pm\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "%#I:%M %p (напр. \"3:42 pm\")"
+
+msgid "Time format"
+msgstr "Формат часу"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "%d.%#m.%Y (напр. \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "%d.%m.%Y (напр. \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "%Y-%m-%d (напр. \"2012-04-21\")"
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "%#m/%d/%Y (напр. \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "%m/%d/%Y (напр. \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "Формат дати"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "Використовуйте «Сьогодні» та «Завтра»"
+
+msgid "Weekend days"
+msgstr "Вихідні дні"
+
+msgid "Week number delta"
+msgstr "Зсув номера тижня"
+
+msgid "Default categories"
+msgstr "Стандартні категорії"
+
+msgid "Show categories from the skin"
+msgstr "Показувати категорії оформлення"
+
+msgid "Show tray icon"
+msgstr "Показувати значок у треї"
+
+msgid "Show tray status icons"
+msgstr "Показувати значок статусу в треї"
+
+msgid "Day number"
+msgstr "Номер дня"
+
+msgid "Week number"
+msgstr "Номер тижня"
+
+msgid "Number in tray"
+msgstr "Цифра у треї"
+
+msgid "Always"
+msgstr "Завжди"
+
+msgid "Never"
+msgstr "Ніколи"
+
+msgid "Show full menus"
+msgstr "Показати повні меню"
+
+msgid "Disable keyboard shortcuts"
+msgstr "Відключити гарячі клавіші"
+
+msgid "List wheel scroll"
+msgstr "Швидкість прокрутки списку"
+
+msgid "Skin language"
+msgstr "Мова оформлення"
+
+msgid "Number of stored backups"
+msgstr "Кількість резервних копій"
+
+msgid "Show delete confirmations"
+msgstr "Підтверджувати видалення"
+
+msgid "Disable text formatting"
+msgstr "Відключити форматування тексту"
+
+msgid "Show empty list text"
+msgstr "Показувати пустий список"
+
+msgid "Check for updates"
+msgstr "Перевірка наявності оновлень"
+
+msgid "Show url icons"
+msgstr "Показувати значки url"
+
+msgid "Simultaneous transfers"
+msgstr "Одночасні завантаження"
+
+msgid "Only uncategorized"
+msgstr "Тільки без категорії"
+
+msgid "Icon from events"
+msgstr "Значок подій"
+
+msgid "Visual category overwrite"
+msgstr "Перезапис візуальних категорій"
+
+msgid "Store English category names"
+msgstr "Зберігати англійські назви категорій"
+
+msgid "Custom category icon path"
+msgstr "Шлях до значків категорій"
+
+msgid "Use antialiased fonts"
+msgstr "Використовувати шрифти згладжування"
+
+msgid "Count"
+msgstr "Кількісний"
+
+msgid "Ordinal"
+msgstr "Порядковий"
+
+msgid "Type of year to add for categories"
+msgstr "Тип року, щоб додати до категорій"
+
+msgid "Use custom password encrypting"
+msgstr "Використовувати особливе шифрування пароля"
+
+msgid "Editor"
+msgstr "Редактор"
+
+msgid "Allow multiple calendars"
+msgstr "Дозволити декілька календарів"
+
+msgid "Allow multiple categories"
+msgstr "Дозволити декілька категорій"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "Не закривати редактор до кінця запису"
+
+msgid "Time span in the editor"
+msgstr "Висота елемента часу в редакторі"
+
+msgid "Number of previous locations"
+msgstr "Кількість попередніх місць"
+
+msgid "Default event duration"
+msgstr "Тривалість події по замовчуванню"
+
+msgid "Windows"
+msgstr "Вікна"
+
+msgid "Use window names"
+msgstr "Використовувати назви вікон"
+
+msgid "Hide on Aero peek"
+msgstr "Ховати при перегляді в Aero"
+
+msgid "Transparency type"
+msgstr "Прозорість"
+
+msgid "Copy transparency sleep time"
+msgstr "Період копіювання прозорості"
+
+msgid "Fade delay (ms)"
+msgstr "Затримка зникнення (мс)"
+
+msgid "Fade duration (ms)"
+msgstr "Тривалість зникнення (мс)"
+
+msgid "Allow window fading"
+msgstr "Дозволити поступове згасання вікна"
+
+msgid "Keep on screen"
+msgstr "Утримувати на екрані"
+
+msgid "Bring all windows on top when clicked"
+msgstr "Після натискання перемістити всі вікна вгору"
+
+msgid "Show in all desktops"
+msgstr "Показувати на всіх робочих столах"
+
+msgid "Snap distance"
+msgstr "Відстань до краю екрану"
+
+msgid "Snap center"
+msgstr "Приліпити до центру"
+
+msgid "Don't save"
+msgstr "Не зберігати"
+
+msgid "Per resolution"
+msgstr "Роздільна здатність"
+
+msgid "Single value"
+msgstr "Єдине значення"
+
+msgid "Save window position"
+msgstr "Запам'ятовувати положення вікна"
+
+msgid "Font face"
+msgstr "Вигляд шрифта"
+
+msgid "Scaling quality"
+msgstr "Якість масштабування"
+
+msgid "Network"
+msgstr "Мережа"
+
+msgid "Reload delay after resume (s)"
+msgstr "Перезавантажити затримку після завершення (с)"
+
+msgid "Network access delay after startup (s)"
+msgstr "Затримка доступу до мережі після запуску (с)"
+
+msgid "Proxy server"
+msgstr "Проксі сервер"
+
+msgid "Proxy user"
+msgstr "Користувач проксі"
+
+msgid "Proxy password"
+msgstr "Пароль проксі"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgid "Proxy type"
+msgstr "Тип проксі"
+
+msgid "Try direct connection if proxy fails"
+msgstr "Підключатися напряму, якщо проксі не працює"
+
+msgid "Calendar"
+msgstr "Календар"
+
+msgid "Show all icons"
+msgstr "Показувати всі значки"
+
+msgid "Show one icon per type"
+msgstr "Показувати один значок для кожного типу"
+
+msgid "Show only one icon"
+msgstr "Показувати лише один значок"
+
+msgid "Show no icons"
+msgstr "Не показувати значки"
+
+msgid "Combine icons in the calendar"
+msgstr "Об'єднувати значки в календарі"
+
+msgid "Calendar wheel scroll"
+msgstr "Швидкість прокрутки календаря"
+
+msgid "Show tasks in calendar"
+msgstr "Показувати завдання в календарі"
+
+msgid "Always show menu"
+msgstr "Завжди показувати меню"
+
+msgid "Always create new event"
+msgstr "Завжди створювати нову подію"
+
+msgid "Do nothing"
+msgstr "Нічого не робити"
+
+msgid "Double click action"
+msgstr "Дія при подвійному кліку"
+
+msgid "Tooltip"
+msgstr "Спливаюча підказка"
+
+msgid "Show tooltips"
+msgstr "Показувати спливаючі підказки"
+
+msgid "Only on days with events"
+msgstr "Тільки у дні з подіями"
+
+msgid "Show tooltip in tray"
+msgstr "Показувати спливаючі підказки у треї"
+
+msgid "Max tooltip window width"
+msgstr "Максимальна ширина спливаючої підказки"
+
+msgid "Show description in tooltip"
+msgstr "Показувати опис у спливаючій підказці"
+
+msgid "Task fields in tooltip"
+msgstr "Поля завдання у спливаючій підказці"
+
+msgid "Event fields in tooltip"
+msgstr "Поля події у спливаючій підказці"
+
+msgid "Traytip show duration (s)"
+msgstr "Тривалість показу підказки у треї (с)"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "Час зникнення спливаючої підказки (мс)"
+
+msgid "Tooltip show delay (ms)"
+msgstr "Затримка зникнення спливаючої підказки (мс)"
+
+msgid "Tooltip format"
+msgstr "Формат спливаючої підказки"
+
+msgid "Task List"
+msgstr "Список завдань"
+
+msgid "Show full task summary"
+msgstr "Показувати повний опис завдання"
+
+msgid "Show task due time"
+msgstr "Показувати час закінчення завдання"
+
+msgid "Show task location"
+msgstr "Показувати місце завдання"
+
+msgid "Show task calendar"
+msgstr "Показувати календар завдань"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "Кількість днів для показу у списку (0 = показувати усі)"
+
+msgid "Show task time when arranged by start or due date"
+msgstr "Показувати час завдання при сортуванні за датою"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr "%A %d.%#m.%Y (напр. \"Понеділок 21.4.2012\")"
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr "%A %d.%m.%Y (напр. \"Понеділок 21.04.2012\")"
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr "%A %Y-%m-%d (напр. \"Понеділок 2012-04-21\")"
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr "%A %#m/%d/%Y (напр. \"Понеділок 4/21/2012\")"
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr "%A %m/%d/%Y (напр. \"Понеділок 04/21/2012\")"
+
+msgid "Task list header format"
+msgstr "Формат заголовку списку завдань"
+
+msgid "<None>"
+msgstr "<Немає>"
+
+msgid "Default task template"
+msgstr "Шаблон завдань"
+
+msgid "Event List"
+msgstr "Список подій"
+
+msgid "Show full event summary"
+msgstr "Показувати повний опис події"
+
+msgid "Show event start time"
+msgstr "Показувати початок події"
+
+msgid "Show event end time"
+msgstr "Показувати кінець події"
+
+msgid "Show event location"
+msgstr "Показувати місце події"
+
+msgid "Show event calendar"
+msgstr "Показувати календар події"
+
+msgid "Hide dismissed events"
+msgstr "Сховати скасовані події"
+
+msgid "Hide past events"
+msgstr "Сховати минулі події"
+
+msgid "Number of future days the list shows"
+msgstr "Скільки майбутніх днів показувати?"
+
+msgid "Number of past days the list shows"
+msgstr "Скільки минулих днів показувати?"
+
+msgid "Age from start of the week"
+msgstr "Вести відлік від початку тижня"
+
+msgid "Event list header format"
+msgstr "Формат заголовку списку подій"
+
+msgid "Default event template"
+msgstr "Шаблон подій"
+
+msgid "No grouping"
+msgstr "Не групувати"
+
+msgid "Start and end dates"
+msgstr "Початкові та кінцеві дати"
+
+msgid "Start date and duration"
+msgstr "Час початку та тривалість"
+
+msgid "Group multiday events"
+msgstr "Групувати багатоденні події"
+
+msgid "Schedule"
+msgstr "Розклад"
+
+msgid "Show schedule descriptions"
+msgstr "Показувати описи розкладу"
+
+msgid "Show schedule start time"
+msgstr "Показувати початок розкладу"
+
+msgid "Show schedule end time"
+msgstr "Показувати кінець розкладу"
+
+msgid "Show schedule location"
+msgstr "Показувати місцезнаходження розкладу"
+
+msgid "Show schedule calendar"
+msgstr "Показувати календар розкладу"
+
+msgid "Create, move and resize events with mouse"
+msgstr "Створювати та змінювати події мишкою"
+
+msgid "First shown hour"
+msgstr "Перша показана година"
+
+msgid "Last shown hour"
+msgstr "Остання показана година"
+
+msgid "Alarm"
+msgstr "Будильник"
+
+msgid "Show alarm start time"
+msgstr "Показувати час початку будильника"
+
+msgid "Show alarm end time"
+msgstr "Показувати час закінчення будильника"
+
+msgid "Show alarm location"
+msgstr "Показувати місцезнаходження будильника"
+
+msgid "Show alarm calendar"
+msgstr "Показувати календар будильника"
+
+msgid "Show due to the event"
+msgstr "Показувати у зв'язку з подією"
+
+msgid "Support Mozilla alarms"
+msgstr "Підтримка будильників Mozilla"
+
+msgid "Keep alarm always on top"
+msgstr "Будильник поверх усіх вікон"
+
+msgid "Default snooze time (secs)"
+msgstr "Відкласти на (с)"
+
+msgid "Max alarm window width"
+msgstr "Максимальна ширина вікна будильника"
+
+msgid "Hide from alarm after days"
+msgstr "Коли відключити будильник (днів)?"
+
+msgid "Default alarm time (mins)"
+msgstr "Типовий час нагадування"
+
+msgid "Default alarm file"
+msgstr "Стандартний файл будильника"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "Не показувати будильник у повноекранному режимі"
+
+msgid "Loop the alarm sound (secs)"
+msgstr "Повторювати звук будильника (с)"
+
+msgid "Snooze times (mins)"
+msgstr "Час відкладення (хв)"
+
+msgid "Create Error!"
+msgstr "Помилка створення!"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "Неможливо вибрати цільовий календар."
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "Неможливо створити новий запис з рядка: \n"
+
+msgid "Parse Error!"
+msgstr "Помилка розпізнавання!"
+
+msgid "New version found!"
+msgstr "Знайдена нова версія!"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"Версія %s доступна для завантаження.\n"
+"Перейти на сайт?"
+
+msgid "No updates available."
+msgstr "Оновлень немає."
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "У вас встановлена найновіша версія Rainlendar."
+
+msgid "New event"
+msgstr "Нова подія"
+
+msgid "New task"
+msgstr "Нове завдання"
+
+msgid "Refresh"
+msgstr "Оновити"
+
+msgid "Options..."
+msgstr "Опції..."
+
+msgid "Manager..."
+msgstr "Менеджер..."
+
+msgid "Exit"
+msgstr "Вихід"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "View"
+msgstr "Огляд"
+
+msgid "About..."
+msgstr "Про програму..."
+
+msgid "Open help\tCtrl+?"
+msgstr "Відкрити допомогу\tCtrl+?"
+
+msgid "Help"
+msgstr "Допомога"
+
+msgid "About"
+msgstr "Про програму"
+
+msgid "Calendars"
+msgstr "Календарі"
+
+msgid "Choose day"
+msgstr "Вибрати день"
+
+msgid "Choose month"
+msgstr "Вибрати місяць"
+
+msgid "Install license..."
+msgstr "Інсталювати ліцензію..."
+
+msgid "Show debug log"
+msgstr "Показати log-файл"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+msgid "Enable all calendars"
+msgstr "Увімкнути всі календарі"
+
+msgid "Disable all calendars"
+msgstr "Вимкнути всі календарі"
+
+msgid "Current Day"
+msgstr "Поточний день"
+
+msgid "Next Day"
+msgstr "Наступний день"
+
+msgid "Previous Day"
+msgstr "Попередній день"
+
+msgid "Next Week"
+msgstr "Наступний тиждень"
+
+msgid "Previous Week"
+msgstr "Попередній тиждень"
+
+msgid "Next Month"
+msgstr "Наступний місяць"
+
+msgid "Previous Month"
+msgstr "Попередній місяць"
+
+msgid "Current Month"
+msgstr "Поточний місяць"
+
+msgid "Next Year"
+msgstr "Наступний рік"
+
+msgid "Previous Year"
+msgstr "Попередній рік"
+
+msgid "Home"
+msgstr "Домашня сторінка"
+
+msgid "Right"
+msgstr "Вправо"
+
+msgid "Left"
+msgstr "Вліво"
+
+msgid "Up"
+msgstr "Вверх"
+
+msgid "Down"
+msgstr "Вниз"
+
+msgid "January"
+msgstr "Січень"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+msgid "February"
+msgstr "Лютий"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+msgid "March"
+msgstr "Березень"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+msgid "April"
+msgstr "Квітень"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+msgid "May"
+msgstr "Травень"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+msgid "June"
+msgstr "Червень"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+msgid "July"
+msgstr "Липень"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+msgid "August"
+msgstr "Серпень"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+msgid "September"
+msgstr "Вересень"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+msgid "October"
+msgstr "Жовтень"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+msgid "November"
+msgstr "Листопад"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+msgid "December"
+msgstr "Грудень"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+msgid "Visible"
+msgstr "Видимість"
+
+msgid "More settings..."
+msgstr "Інші налаштування"
+
+msgid "Today"
+msgstr "Сьогодні"
+
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+msgid "Show all windows"
+msgstr "Показувати всі вікна"
+
+msgid "Hide all windows"
+msgstr "Сховати всі вікна"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "Файли ліцензії (*.r2lic)|*.r2lic"
+
+msgid "Choose the license file"
+msgstr "Вибрати файл ліцензії"
+
+msgid "*Empty*"
+msgstr "*Порожньо*"
+
+msgid "This instance"
+msgstr "Одну подію"
+
+msgid "Whole event"
+msgstr "Всю серію"
+
+msgid "All following"
+msgstr "Всі наступні"
+
+msgid "Cancel"
+msgstr "Відмінити"
+
+msgid "Do you want to delete this item?"
+msgstr "Чи ви хочете видалити цей елемент?"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"Це повторюваний елемент:\n"
+"\n"
+"%s\n"
+"\n"
+"Ви можете або видалити лише цей екземпляр (%s), всі наступні події або всю "
+"повторювану подію"
+
+msgid "The item is read only and cannot be deleted."
+msgstr "Елемент 'тільки для читання' і не може бути видалений."
+
+msgid "Unable to delete the item."
+msgstr "Неможливо видалити об'єкт."
+
+msgid "Do you want to delete these items?"
+msgstr "Ви хочете видалити ці елементи?"
+
+msgid "The item is read only and cannot be moved."
+msgstr "Елемент доступний лише для читання і не може бути переміщений."
+
+msgid "Unable to move the item."
+msgstr "Неможливо перемістити елемент."
+
+msgid "Choose a directory"
+msgstr "Вибрати теку"
+
+msgid "Version"
+msgstr "Версія"
+
+msgid "Built on"
+msgstr "Дата випуску"
+
+msgid "Developed by"
+msgstr "Розробник"
+
+msgid "Translated (%s) by"
+msgstr "Перекладено (%s):"
+
+msgid "Licensed to"
+msgstr "Ліцензія"
+
+msgid "Plugins"
+msgstr "Модулі"
+
+msgid "Links"
+msgstr "Посилання"
+
+msgid "FAQ"
+msgstr "ЧАПИ"
+
+msgid "Forum"
+msgstr "Форум"
+
+msgid "Menu icons by"
+msgstr "Значки меню"
+
+msgid "Application icon by"
+msgstr "Значок програми: "
+
+msgid "Copyrights"
+msgstr "Авторські права"
+
+msgid "Please wait..."
+msgstr "Зачекайте, будь ласка..."
+
+msgid "Check for update"
+msgstr "Перевірити наявність оновлень"
+
+msgid "Choose Alarm"
+msgstr "Вибрати будильник"
+
+msgid "All files (*.*)|*.*"
+msgstr "Всі файли (*.*) |*.*"
+
+msgid "Change Fields"
+msgstr "Змінити Поля"
+
+msgid "%i events selected"
+msgstr "Обрано %i подій"
+
+msgid "%i tasks selected"
+msgstr "Обрано %i завдань"
+
+msgid "End time:"
+msgstr "Час закінчення"
+
+msgid "Due time:"
+msgstr "Час тривалості:"
+
+msgid "Add new alarm"
+msgstr "Додати новий будильник"
+
+msgid "Are you sure you want to do this?"
+msgstr "Ви впевнені, що хочете продовжити?"
+
+msgid "The selected fields will be changed to %i items."
+msgstr "Обрані поля будуть змінені для %i елементів."
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr ""
+"Цю операцію неможливо відмінити, тож натисніть \"Так\", тільки якщо чітко "
+"розумієте наслідки своїх дій."
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr ""
+"Зауважте, що зміна події на завдання (та навпаки) призведе до втрати даних."
+
+msgid "Categories"
+msgstr "Категорії"
+
+msgid "Add..."
+msgstr "Додати..."
+
+msgid "Clear"
+msgstr "Очистити"
+
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "Values"
+msgstr "Значення"
+
+msgid "Please give a name for the category"
+msgstr "Вкажіть назву категорії"
+
+msgid "Enter text"
+msgstr "Ввести текст"
+
+msgid "Unable to create the category!"
+msgstr "Неможливо створити категорію!"
+
+msgid "You must give a name for the category."
+msgstr "Необхідно вказати назву категорії."
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "Назва не може містити символ '/'."
+
+msgid "A category called \"%s\" already exists."
+msgstr "Категорія \"%s\" вже існує."
+
+msgid "Link start and end dates"
+msgstr "Дата початку і завершення"
+
+msgid "Save\tCtrl+S"
+msgstr "Зберегти\tCtrl+S"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "Зберегти як...\tShift+Ctrl+S"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "Зберегти у файл...\tAlt+Ctrl+S"
+
+msgid "Print...\tCtrl+P"
+msgstr "Друкувати...\tCtrl+P"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "Видалити\tCtrl+Delete"
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "Закрити  Прийняти\tCtrl Enter"
+
+msgid "Close\tCtrl+W"
+msgstr "Закрити\tCtrl W"
+
+msgid "Close\tAlt-F4"
+msgstr "Закрити\tAlt-F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "Обраний календар не підтримує повтор подій."
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr "Будильник не буде показано, оскільки календар ігнорує будильник."
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr ""
+"Будильник не буде показано, оскільки оформлення не має вікна будильника."
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr "Завдання 'тільки для читання' і зміни не можуть бути збережені."
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr "Подія 'тільки для читання' і зміни не можуть бути збережені."
+
+msgid "The task is from a read-only calendar."
+msgstr "Це завдання з календаря 'тільки для читання'."
+
+msgid "The event is from a read-only calendar."
+msgstr "Ця подія з календаря 'тільки для читання'."
+
+msgid "There are no calendars available which can store tasks."
+msgstr "Немає доступних календарів, які можуть зберігати завдання."
+
+msgid "There are no calendars available which can store events."
+msgstr "Немає доступних календарів, які можуть зберігати події."
+
+msgid "No target calendar has been selected."
+msgstr "Цільовий календар не обрано."
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr "Оригінальний опис знаходиться в HTML і не може бути відредагований."
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"Не вибраний жоден календар для об'єкта. Будь ласка, виберіть календар, до "
+"якого ви хочете додати об'єкт."
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"Немає жодних календарів, у яких об'єкт може бути збережений. Вам потрібно "
+"перейти до вибору і створити новий календар для об'єкта. Зверніть увагу, що "
+"деякі календарі не підтримують події та завдання одночасно."
+
+msgid "Unable to save the item."
+msgstr "Неможливо зберегти елемент."
+
+msgid "Updating"
+msgstr "Оновлення"
+
+msgid "Do you want to save the changes?"
+msgstr "Зберегти зміни?"
+
+msgid "You have made some changes to the fields."
+msgstr "Ви внесли деякі зміни до полів."
+
+msgid "&Save"
+msgstr "&Зберегти"
+
+msgid "&Discard"
+msgstr "&Скинути"
+
+msgid "&Cancel"
+msgstr "&Відмінити"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Ви точно хочете видалити цей елемент?"
+
+msgid "Event"
+msgstr "Подія"
+
+msgid "Choose a file"
+msgstr "Вибрати файл"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar файли (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "Вибрати календарі:"
+
+msgid "Select the categories:"
+msgstr "Вибрати категорії:"
+
+msgid "before the event starts."
+msgstr "до початку події."
+
+msgid "before the task is due."
+msgstr "до закінчення завдання."
+
+msgid "Set alarm sound"
+msgstr "Звук будильника"
+
+msgid "Current alarm: "
+msgstr "Поточний будильник:"
+
+msgid "Remove alarm"
+msgstr "Видалити будильник"
+
+msgid "Minutes"
+msgstr "Хвилин"
+
+msgid "Hours"
+msgstr "Годин"
+
+msgid "Days"
+msgstr "Днів"
+
+msgid "Alert"
+msgstr "Будильник"
+
+msgid "Email"
+msgstr "Електронна пошта"
+
+msgid "SMS"
+msgstr "СМС"
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "Не знайдено обробника події. Подія не збережена."
+
+msgid "On the %s day of the month"
+msgstr "У %s день місяця"
+
+msgid "first"
+msgstr "перший"
+
+msgid "second"
+msgstr "другий"
+
+msgid "third"
+msgstr "третій"
+
+msgid "fourth"
+msgstr "четвертий"
+
+msgid "fifth"
+msgstr "п'ятий"
+
+msgid "On the %s %s of the month"
+msgstr "У %s %s місяця"
+
+msgid "On the last %s of the month"
+msgstr "В останній %s місяця"
+
+msgid "On the first weekday of the month"
+msgstr "У перший будній день місяця"
+
+msgid "On the last weekday of the month"
+msgstr "В останній будній день місяця"
+
+msgid "On the last day of the month"
+msgstr "В останній день місяця"
+
+msgid "Please give a name for the template"
+msgstr "Будь ласка, назвіть шаблон"
+
+msgid "Unable to create the template!"
+msgstr "Неможливо створити шаблон!"
+
+msgid "You must give a name for the template."
+msgstr "Ви повинні назвати шаблон."
+
+msgid "A template called \"%s\" already exists."
+msgstr "Шаблон \"%s\" вже існує."
+
+msgid "Do you want to overwrite the template?"
+msgstr "Чи ви хочете перезаписати шаблон?"
+
+msgid "Choose the template to delete:"
+msgstr "Виберіть шаблон для видалення:"
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "Виберіть шаблон для нових завдань:"
+
+msgid "Choose the template which is used for new events:"
+msgstr "Виберіть шаблон для нових подій:"
+
+msgid "Save as template..."
+msgstr "Зберегти як шаблон..."
+
+msgid "Delete template..."
+msgstr "Видалити шаблон..."
+
+msgid "Set the default template..."
+msgstr "Встановити типовий шаблон..."
+
+msgid "Template"
+msgstr "Шаблон"
+
+msgid "Select the day range"
+msgstr "Виберіть діапазон днів"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"Цей експортер не в змозі зберегти події, що повторюються, тому їх потрібно "
+"перетворити на окремі події. Визначте діапазон днів, який буде збережений до "
+"файлу."
+
+msgid "From:"
+msgstr "Від:"
+
+msgid "To:"
+msgstr "До:"
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "Час закінчення не може бути раніше часу початку."
+
+msgid "Birthday"
+msgstr "День народження"
+
+msgid "Anniversary"
+msgstr "Річниця"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Ви створили день народженні або річницю, але не задали повтор.\n"
+"Задати щорічне повторення?"
+
+msgid "Error"
+msgstr "Помилка"
+
+msgid "Warning"
+msgstr "Попередження"
+
+msgid "Question"
+msgstr "Питання"
+
+msgid "Information"
+msgstr "Інформація"
+
+msgid "Do not show this again"
+msgstr "Більше не показувати"
+
+msgid "&OK"
+msgstr "&OК"
+
+msgid "&Yes"
+msgstr "&Так"
+
+msgid "&No"
+msgstr "&Ні"
+
+msgid "Manager"
+msgstr "Менеджер"
+
+msgid "Events"
+msgstr "Події"
+
+msgid "Tasks"
+msgstr "Завдання"
+
+msgid "Show original"
+msgstr "Показувати оригінал"
+
+msgid "Show current"
+msgstr "Показувати поточні"
+
+msgid "Show upcoming"
+msgstr "Показувати наступні"
+
+msgid "New"
+msgstr "Додати"
+
+msgid "Edit"
+msgstr "Змінити"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Copy to"
+msgstr "Копіювати в"
+
+msgid "Move to"
+msgstr "Перенести в"
+
+msgid "Change fields"
+msgstr "Змінити поля"
+
+msgid "Import"
+msgstr "Імпортувати"
+
+msgid "Export"
+msgstr "Експортувати"
+
+msgid "Print..."
+msgstr "Друкувати..."
+
+msgid "Backup"
+msgstr "Створити резервну копію"
+
+msgid "Restore"
+msgstr "Відновити з резервної копії"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Select all"
+msgstr "Вибрати все"
+
+msgid "Select none"
+msgstr "Вибрати нічого"
+
+msgid "Toggle selection"
+msgstr "Переключити вибір"
+
+msgid "Select duplicates"
+msgstr "Вибрати дублікати"
+
+msgid "Sort by due time"
+msgstr "Сортувати за тривалістю"
+
+msgid "Sort by end time"
+msgstr "Сортувати за часом закінчення"
+
+msgid "Sort by summary"
+msgstr "Сортувати за описом"
+
+msgid "Sort by location"
+msgstr "Сортувати за місцем"
+
+msgid "Sort by calendar"
+msgstr "Сортувати за календарем"
+
+msgid "Sort by category"
+msgstr "Сортувати за категорією"
+
+msgid "Sort by url"
+msgstr "Сортувати за посиланням"
+
+msgid "Sort by repeat"
+msgstr "Сортувати за повторенням"
+
+msgid "Sort by priority"
+msgstr "Сортувати за пріоритетом"
+
+msgid "Sort by status"
+msgstr "Сортувати за статусом"
+
+msgid "Sort by create time"
+msgstr "Сортувати за часом створення"
+
+msgid "Sort by modify time"
+msgstr "Сортувати за часом зміни"
+
+msgid "Sort by start time"
+msgstr "Сортувати за часом початку"
+
+msgid "Start time"
+msgstr "Час початку"
+
+msgid "End time"
+msgstr "Час закінчення"
+
+msgid "Summary"
+msgstr "Опис"
+
+msgid "Location"
+msgstr "Місце"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Create time"
+msgstr "Створити час"
+
+msgid "Modify time"
+msgstr "Час зміни"
+
+msgid "Reverse sorting"
+msgstr "Зворотнє сортування"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "Усього: %i (Обрано: %i)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr ""
+"Відкриття багатьох подій для редагування може зайняти багато часу. Ви "
+"впевнені, що хочете цього?"
+
+msgid "Do you want to delete the selected item?"
+msgstr "Ви хочете видалити вибраний об'єкт?"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "Ви хочете видалити %i вибраних(-і) об'єктів(-и)?"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr "Вибраний об'єкт 'тільки для читання' і не може бути видалений."
+
+msgid "There were %i read only items which were not deleted."
+msgstr "%i елементів 'тільки для читання' не були видалені."
+
+msgid "Unable to delete some items."
+msgstr "Неможливо видалити деякі об'єкти."
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "Виберіть календар, в котрий будуть скопійовані записи:"
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "Виберіть календар, в котрий будуть переміщені записи:"
+
+msgid "Operation failed!"
+msgstr "Помилка операції!"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr "Немає календарів, в котрих можна зберігати записи."
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"Преміщення записів в онлайн-календар не є безпечним. Якщо кінцевий календар "
+"не прийме записів унаслідок мережних проблем чи з іншої причини, ви втратите "
+"всі переміщені записи.\n"
+"\n"
+"Тому натисніть \"Так\", лише якщо Ви повністю впевнені у своїх діях."
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "Переміщено %i записів в наступні календарі:\n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "Скопійовано %i записів в наступні календарі:\n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"Важливо! Копіювання об'єктів до онлайн-календаря займає деякий час, тому "
+"вони не будуть доступні деякий час."
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr ""
+"Деякі елементи були встановлені як доступні лише для читання та скопійовані, "
+"а не переміщені."
+
+msgid "Operation finished!"
+msgstr "Операція завершена!"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "Необхідно вибрати хоча б один календар для подій."
+
+msgid "Backup was successful."
+msgstr "Резервна копія створена успішно."
+
+msgid "The backup contains these files:"
+msgstr "У резервній копії є  ці файли:"
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"Увага! Резервний файл не містить жодних файлів типу iCalendar. Якщо ви маєте "
+"в окремо визначеному місці будь-які збережені події або завдання, вам "
+"потрібно зберегти їх вручну."
+
+msgid "Unable to create the backup file."
+msgstr "Неможливо створити резервний файл."
+
+msgid "The archive contains unknown files:\n"
+msgstr "Невідомі файли в архіві:\n"
+
+msgid "Restore was successful."
+msgstr "Відновлення завершено успішно."
+
+msgid "There were problems during the restore."
+msgstr "Під час відновлення були проблеми."
+
+msgid "Exported %i events successfully."
+msgstr "%i подій успішно експортовано."
+
+msgid "Exported %i todo items successfully."
+msgstr "%i завдань успішно експортовано."
+
+msgid "Export failed!"
+msgstr "Помилка експорту!"
+
+msgid "Import failed!"
+msgstr "Помилка імпорту!"
+
+msgid "Options"
+msgstr "Опції"
+
+msgid "Skins"
+msgstr "Оформлення"
+
+msgid "Hotkeys"
+msgstr "Гарячі клавіші"
+
+msgid "Advanced"
+msgstr "Детально"
+
+msgid "Reset all settings"
+msgstr "Скинути всі налаштування"
+
+msgid "Reset offline copy"
+msgstr "Скинути автономну копію"
+
+msgid "Authenticate"
+msgstr "Автентифікувати"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Get more languages..."
+msgstr "Отримати більше мов..."
+
+msgid "On Top"
+msgstr "Поверх всіх вікон"
+
+msgid "On Bottom"
+msgstr "Внизу"
+
+msgid "On Desktop"
+msgstr "На робочому столі"
+
+msgid "Get more skins..."
+msgstr "Отримати більше оформлень..."
+
+msgid "TrayIcon"
+msgstr "Значок в області повідомлень"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Homepage"
+msgstr "Домашня сторінка"
+
+msgid "Addons"
+msgstr "Додатки"
+
+msgid "Version history"
+msgstr "Історія версій"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "Це старе оформлення. Деякі функції можуть не підтримуватися."
+
+msgid "Advanced >>>"
+msgstr "Детально >>>"
+
+msgid "<<< Simple"
+msgstr "<<< Просто"
+
+msgid "Open containing folder"
+msgstr "Відкрити теку"
+
+msgid "Custom categories are not supported."
+msgstr "Власні категорії не підтримуються."
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr ""
+"Оформлення \"%s\" не підтримує зображення власних категорій, тож їх не можна "
+"редагувати."
+
+msgid "Activate only default windows?"
+msgstr "Активувати лише стандартні вікна?"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr "Ви хочете активувати лише стандартні вікна чи всі вікна?"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr "Зауважте, що активація всіх вікон може зменшити продуктивність."
+
+msgid "&Default"
+msgstr "&За замовчуванням"
+
+msgid "&All"
+msgstr "&Всі"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"Активуйте поле для редагування та натисніть комбінацію гарячих клавіш. "
+"Зауважте, що гарячі клавіші є глобальними та можуть впливати на інші "
+"програми, тож не використовуйте надто прості комбінації."
+
+msgid "Hotkey"
+msgstr "Гаряча клавіша"
+
+msgid "Function"
+msgstr "Функція"
+
+msgid "Search:"
+msgstr "Шукати:"
+
+msgid "Do you want to reset all settings?"
+msgstr "Чи ви бажаєте скинути всі налаштування?"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"Це знову скине всі налаштування до стандартних значень. Стандартні "
+"налаштування будуть застосовані негайно. Ви хочете продовжити?"
+
+msgid "Common"
+msgstr "Загальні"
+
+msgid "Enabled"
+msgstr "Увімкнено"
+
+msgid "Read only"
+msgstr "Лише читання"
+
+msgid "Ignore alarms"
+msgstr "Ігнорувати попередження"
+
+msgid "Default alarm (minutes)"
+msgstr "Стандартний будильник (хв)"
+
+msgid "Visual category"
+msgstr "Візуальна категорія"
+
+msgid "Time offset (mins)"
+msgstr "Зсув часу, хв"
+
+msgid "Time zone"
+msgstr "Часовий пояс"
+
+msgid "Copy of %s"
+msgstr "Копіювання %s"
+
+msgid "Please enter a name for the calendar."
+msgstr "Будь ласка, введіть назву календаря."
+
+msgid "Illegal character!"
+msgstr "Неприпустимий символ!"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "Не дозволяється використовувати \"/\" або \";\" символи в імені."
+
+msgid "A calendar called \"%s\" already exists."
+msgstr "Календар \"%s\" вже існує."
+
+msgid "Choose another name."
+msgstr "Виберіть іншу назву."
+
+msgid "Authentication failure"
+msgstr "Помилка автентифікації"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr ""
+"Процес OAuth зазнав невдачі. Rainlendar не може отримати доступ до даних "
+"календаря."
+
+msgid "Do you want to delete the skin?"
+msgstr "Чи ви хочете видалити це оформлення?"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"Якщо ви виберете \"Так\" оформлення \"%s\"\n"
+"буде назавжди видалене."
+
+msgid "Delete failed!"
+msgstr "Помилка видалення!"
+
+msgid "Unable to delete the skin."
+msgstr "Неможливо видалити оформлення."
+
+msgid "Print"
+msgstr "Друкувати"
+
+msgid "Print items"
+msgstr "Друкувати елементи"
+
+msgid "End"
+msgstr "Кінець"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "Variables"
+msgstr "Змінні"
+
+msgid "Window settings"
+msgstr "Налаштування вікна"
+
+msgid "Settings can be shown only for a single window."
+msgstr "Налаштування можуть бути показані лише для одного вікна."
+
+msgid "No settings available."
+msgstr "Налаштування недоступні."
+
+msgid "Global variables"
+msgstr "Глобальні змінні"
+
+msgid "Grow upwards"
+msgstr "Розширити вверх"
+
+msgid "Window position"
+msgstr "Положення вікна"
+
+msgid "Disabled"
+msgstr "Вимкнено"
+
+msgid "Click through"
+msgstr "Перейти"
+
+msgid "Scale"
+msgstr "Масштаб"
+
+msgid "Filters"
+msgstr "Фільтри"
+
+msgid "Included calendars"
+msgstr "Включені календарі"
+
+msgid "Excluded calendars"
+msgstr "Виключені календарі"
+
+msgid "Included categories"
+msgstr "Включені категорії"
+
+msgid "Excluded categories"
+msgstr "Виключені категорії"
+
+msgid "Task list"
+msgstr "Список завдань"
+
+msgid "Alphabetically"
+msgstr "За алфавітом"
+
+msgid "By Category"
+msgstr "За категоріями"
+
+msgid "By Due Date"
+msgstr "За датою закінчення"
+
+msgid "By Start Date"
+msgstr "За датою початку"
+
+msgid "By Status"
+msgstr "За статусом"
+
+msgid "By Priority"
+msgstr "За пріоритетом"
+
+msgid "By Location"
+msgstr "За місцем"
+
+msgid "By Calendar"
+msgstr "За календарем"
+
+msgid "Custom"
+msgstr "Власний"
+
+msgid "Primary sort order"
+msgstr "Основний порядок сортування"
+
+msgid "Secondary sort order"
+msgstr "Додатковий порядок сортування"
+
+msgid "Reverse primary sorting"
+msgstr "Зворонє основне сортування"
+
+msgid "Reverse secondary sorting"
+msgstr "Зворотнє допоміжне сортування"
+
+msgid "Empty at top"
+msgstr "Порожні на зверху"
+
+msgid "Hide completed tasks"
+msgstr "Сховати виконані завдання"
+
+msgid "Hide canceled tasks"
+msgstr "Сховати відмінені завдання"
+
+msgid "Hide upcoming tasks"
+msgstr "Сховати майбутні завдання"
+
+msgid "Event list"
+msgstr "Список подій"
+
+msgid "Show empty days"
+msgstr "Показувати порожні дні"
+
+msgid "Window variables"
+msgstr "Властивості вікон"
+
+msgid "Appearance"
+msgstr "Зовнішній вигляд"
+
+msgid "Operations"
+msgstr "Операції"
+
+msgid "Left click"
+msgstr "Лівий клік"
+
+msgid "Right click"
+msgstr "Правий клік"
+
+msgid "Double left click"
+msgstr "Подвійний лівий клік"
+
+msgid "Double right click"
+msgstr "Подвійний правий клік"
+
+msgid "Local"
+msgstr "Місцевий"
+
+msgid "Task"
+msgstr "Завдання"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr ""
+"Необхідно вказати дату закінчення, перш ніж можна буде встановити повтор."
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "Час виконання не може бути раніше часу початку."
+
+msgid "Unable to add new alarm!"
+msgstr "Неможливо додати новий будильник!"
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr "Завдання повинне мати дату закінчення, щоб мати будильник."
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "Оновіть до версії Pro перед установкою ліцензії."
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"Ви все ще використовуєте версію Lite, яка не включає фунції Pro. Вам "
+"потрібно зайти на сторінку завантаження Rainlendar і отримати версію Pro."
+
+msgid "&Get Pro"
+msgstr "&Завантажити версію Pro"
+
+msgid "&Ignore"
+msgstr "&Ігнорувати"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"Якщо Ви завантажили файл .r2skin або .r2lang  і Ваш \n"
+"веб-браузер змінив расширення на .zip, то потрібно\n"
+"перейменувати файл назад та імортувати його знову."
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Архіви zip не можуть бути імпортовані в Rainlendar."
+
+msgid "Unknown file \"%s\"."
+msgstr "Невідомий файл \"%s\""
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "Файл не може бути імортований в Rainlendar."
+
+msgid "Installation failed!"
+msgstr "Помилка при встановленні!"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Неможливо скопіювати файл сам на себе."
+
+msgid "Unable to install the file \"%s\"."
+msgstr "Неможливо встановити файл \"%s\"."
+
+msgid "The folder does not have write permissions."
+msgstr "Тека не має права запису."
+
+msgid "The skin %s doesn't exist."
+msgstr "Оформлення %s не існує."
+
+msgid "Unable to merge the addon."
+msgstr "Неможливо з'єднати доповнення."
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"Файл \"%s\" вже існує.\n"
+"Чи ви хочете замінити його?"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Цей файл вже існує. Чи ви хочете перезаписати його?"
+
+msgid "Unable to install the skin!"
+msgstr "Неможливо встановити оформлення!"
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"Оформлення не містить файлу \"skin.xml\". Чи ви впевнені, що це оформлення "
+"Rainlendar у форматі xml?"
+
+msgid "The installation was successful!"
+msgstr "Інсталяція пройшла успішно!"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "Файл \"%s\" було успішно встановлено."
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr "Будь ласка, освіжіть Rainlendar, щоб побачити зміни"
+
+msgid "&Refresh"
+msgstr "&Освіжити"
+
+msgid "The installation failed!"
+msgstr "Помилка при встановленні!"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr "Помилка при встановленні файлу \"%s\"!"
+
+msgid "Select the calendar for the imported items:"
+msgstr "Виберіть календар для імпортованих подій:"
+
+msgid "There are no calendars available that are able to store the item."
+msgstr "Немає календарів, в котрих можна зберігати записи."
+
+msgid "Imported %i items successfully."
+msgstr "Успішно імпортованих елементів:  %i."
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Необхідно вибрати хоча б один календар для імпортованих подій"
+
+msgid "Version mismatch!"
+msgstr "Невідповідність версій!"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr ""
+"Це додаток оформлення для версії оформлення %s. Встановлена версія — %s."
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "Чи ви хочете продовжити? (Оформлення може зламатися)"
+
+msgid "&Continue"
+msgstr "&Продовжити"
+
+msgid "Ca&ncel"
+msgstr "&Відмінити"
+
+msgid "Failed to install \"%s\"."
+msgstr "Помилка при встановленні \"%s\"."
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"Додаток вже був застосований до оформлення.\n"
+"Ви можете застосувати один і той самий додаток\n"
+"лише один раз до окремого оформлення."
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Неможливо створити тимчасову теку для під'єднання додатку."
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Control"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Return"
+msgstr "Enter"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Space"
+msgstr "Пробіл"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "NumLock"
+msgstr "NumLock"
+
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+msgid "Edit \"%s\""
+msgstr "Змінити \"%s\""
+
+msgid "Delete all"
+msgstr "Видалити все"
+
+msgid "Dismiss alarm"
+msgstr "Відхилити нагадування"
+
+msgid "Tomorrow"
+msgstr "Завтра"
+
+msgid "Yesterday"
+msgstr "Вчора"
+
+msgid "Last %1"
+msgstr "Остан. %1"
+
+msgid "%1 next week"
+msgstr "%1 наступного тижня"
+
+msgid "%1 last week"
+msgstr "%1 минулого тижня"
+
+msgid "%1 %2 weeks ago"
+msgstr "%1  %2 тижні тому"
+
+msgid "%1 in %2 weeks"
+msgstr "%1 на %2 тижні"
+
+msgid " (Due in %s)"
+msgstr " (Точно через %s)"
+
+msgid " (Overdue %s)"
+msgstr " (Запізнення %s)"
+
+msgid "day"
+msgstr "день"
+
+msgid "days"
+msgstr "дні"
+
+msgid "hour"
+msgstr "год"
+
+msgid "hours"
+msgstr "год."
+
+msgid "minute"
+msgstr "хвилина"
+
+msgid "minutes"
+msgstr "хв."
+
+msgid " (Due now)"
+msgstr "(Закінчується зараз)"
+
+msgid "before target"
+msgstr "до цілі"
+
+msgid "Snooze"
+msgstr "Відкласти"
+
+msgid "Dismiss"
+msgstr "Відмінити"
+
+msgid "Edit..."
+msgstr "Змінити..."
+
+msgid "Move to next day"
+msgstr "Перемістити на наступний день"
+
+msgid " (%i days)"
+msgstr " (%i днів)"
+
+msgid "Edit event"
+msgstr "Змінити подію"
+
+msgid "Delete event"
+msgstr "Видалити подію"
+
+msgid "[Due %x]"
+msgstr "[До %x]"
+
+msgid "No location"
+msgstr "Немає місця"
+
+msgid "No category"
+msgstr "Без категорії"
+
+msgid "No due date"
+msgstr "Немає дати закінчення"
+
+msgid "No start date"
+msgstr "Немає дати початку"
+
+msgid "High Priority"
+msgstr "Високий пріоритет"
+
+msgid "Medium Priority"
+msgstr "Середній пріоритет"
+
+msgid "Low Priority"
+msgstr "Низький пріоритет"
+
+msgid "No Priority"
+msgstr "Без пріоритету"
+
+msgid "Medium"
+msgstr "Середній"
+
+msgid "Expand"
+msgstr "Розгорнути"
+
+msgid "Collapse"
+msgstr "Згорнути"
+
+msgid "New subtask"
+msgstr "Нове під-завдання"
+
+msgid "Edit task"
+msgstr "Змінити завдання"
+
+msgid "Delete task"
+msgstr "Видалити завдання"
+
+msgid "Todo list"
+msgstr "Список завдань"
+
+msgid "Completed to now"
+msgstr "Завершено зараз"
+
+msgid "No events today."
+msgstr "Сьогодні подій немає."
+
+msgid "Today's events:"
+msgstr "Сьогоднішні події:"
+
+msgid "Invalid plugins found!"
+msgstr "Знайдено недійсні плагіни!"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"Наступні файли в теці додатків Rainlendar\n"
+"непрацездатні та мають бути видалені:\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"Переконайтеся, що всі плагіни до програми від тієї ж версії Rainlendar."
+
+msgid "allow multiple instances"
+msgstr "дозволити декілька примірників"
+
+msgid "install a skin or a language"
+msgstr "встановити оформлення або мову"
+
+msgid "import the given file"
+msgstr "імпортувати даний файл"
+
+msgid "path where the configuration file will be stored"
+msgstr "шлях до файла конфігурації"
+
+msgid "execute the given function in a script"
+msgstr "виконати дану функцію у скрипті"
+
+msgid "path where the log file will be stored"
+msgstr "шлях до log-файлу"
+
+msgid "path where the backups will be stored"
+msgstr "шлях до резервних файлів"
+
+msgid "add event or task to the calendar"
+msgstr "додати подію або завдання до календаря"
+
+msgid "enable verbose logging"
+msgstr "увімкнути детальний запис"
+
+msgid "enable debug logging"
+msgstr "увімкнути запис для відлагодження"
+
+msgid "disable all logging"
+msgstr "вимкнути всі журнали"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr "не показувати повідомлень після імпортування і встановлення файлів"
+
+msgid "Do you want to start another instance?"
+msgstr "Ви хочете запустити інший примірник?"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"Здається, Rainlendar вже працює. Ви можете запустити інший примірник, "
+"натиснувши  'Так'."
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"Якщо це повідомлення з'являється щоразу, як ви запускаєте Rainlendar, то "
+"видаліть, будь ласка, цей файл:\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Неможливо завантажити ресурси з \n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "Зауважте, що події та завдання не будуть змінені."
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"Файл налаштувань відсутній або порожній.\n"
+"Ви хочете відновити його з останньої резервної копії?"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Неможливо створити файл конфігурації:\n"
+"\n"
+"%s\n"
+"\n"
+"Можливо, папка має дозвіл \"лише для читання\""
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"Неможливо зберегти файл конфігурації:\n"
+"\n"
+"%s\n"
+"\n"
+"Можливо, папка \"лише для читання\""
+
+msgid "You won't be able to store any settings permanently."
+msgstr "Ви не зможете зберегти постійні налаштування."
+
+msgid "This is a BETA version."
+msgstr "Це бета-версія."
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"Ви користуєтесь 'бета'-версією Rainlendar. Це значить, що програма не "
+"протестована і не підходить для повсякденного використання.\n"
+"\n"
+"Будь-ласка, повідомляйте про всі помилки на форумі Rainlendar за адресою www."
+"rainlendar.net\n"
+"\n"
+"(Це повідомлення з'являється лише раз)"
+
+msgid "Google Calendar support has been changed"
+msgstr "Підтримка календаря Google була змінена"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"Підтримка календаря Google тепер використовує інший тип календаря. Щоб "
+"повторно показати події Google, потрібно створити новий календар і вибрати "
+"\"Календар Google (v3)\" як тип календаря."
+
+msgid "Everything is hidden."
+msgstr "Все сховано."
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"Здається, усі вікна та значок у панелі повідомлень були приховані. Ви бажали "
+"таких змін?\n"
+"\n"
+"Виберіть 'Так', якщо ви хочете залишити все прихованим і ніколи не бачити "
+"цей діалог знову.\n"
+"Виберіть 'Ні', щоб зробити всі вікна видимими знову."
+
+msgid "Startup error!"
+msgstr "Помилка при запуску!"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"Rainlendar не зміг привильно оновити налаштування. Скинути всі налаштування "
+"та спробувати ще раз чи використати одну з резервних версій?"
+
+msgid "&Reset"
+msgstr "&Скинути"
+
+msgid "&Use backup"
+msgstr "&Використати архів"
+
+msgid "&Keep"
+msgstr "&Зберегти"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Немає оформлень у \n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"Rainlendar не зміг завантажити обране оформлення. Ви хочете використати "
+"стандартне оформлення?"
+
+msgid "Unable to load the skin!"
+msgstr "Неможливо встановити оформлення!"
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr ""
+"Неможливо завантажити обране оформлення. Детальніше пояснення у лог-файлі."
+
+msgid "&Ok"
+msgstr "&ОК"
+
+msgid "&Show log"
+msgstr "Показати log-файл"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr ""
+"Файл ліцензії пустий"
+"Обов'язково використовуйте повну URL-адресу під час завантаження файлу ліцензії"
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"Неприпустимий файл ліцензії"
+"Ви перевищили кількість разів, коли ліцензію можна завантажити"
+"Будь ласка, зв'яжіться зі службою підтримки Rainlendar для отримання більш детальної інформації"
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"Файл ліцензії не має припустимого формату"
+"Переконайтеся, що використовується правильний файл ліцензії"
+"Ви також можете спробувати завантажити файл ще раз, якщо помилка не зникне"
+
+msgid "Skin error!"
+msgstr "Помилка шкіри!"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"Вікно «Великий календар» у Shadow4 було замінено параметром «Великий» для "
+"типового вікна «Календар»Натисніть OK, щоб скинути шкіру"
+
+msgid "Use large default skin?"
+msgstr "Використовувати велику шкіру за замовчуванням?"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"Значення за замовчуванням можуть бути занадто малими для роздільної "
+"здатності екрана. Ви хочете використовувати більші шрифти та вікна?"
+
+msgid "&Large"
+msgstr "&Великий"
+
+msgid "&Small"
+msgstr "&Маленький"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Знайдено старі файли Rainlendar'а.\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "Імпортувати їх?"
+
+msgid "Import failed with file: \"%s\""
+msgstr "Помилка при імпорті файла \"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "Купити  Rainlendar2 Pro?"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"Сподіваємось, що Rainlendar вам сподобався. Чи не хотіли б ви купити версію "
+"Pro з додатковими функціями? Якщо використаєте посилання \"Купити вже\", то "
+"отримаєте знижку при покупці ліцензії. Ви можете також натиснути кнопку "
+"\"Ні, дякую\" і це повідомлення більше не з'явиться. \n"
+"\n"
+"Дякуємо за підтримку."
+
+msgid "&Buy Now"
+msgstr "&Купити зараз"
+
+msgid "&Remind later"
+msgstr "&Нагадати пізніше"
+
+msgid "&No Thanks"
+msgstr "&Ні, дякую"
+
+msgid "Ok"
+msgstr "ОК"
+
+msgid "Update"
+msgstr "Оновлення"
+
+msgid "Make a selection:"
+msgstr "Виберіть:"
+
+msgid "Hide Windows"
+msgstr "Сховати вікна"
+
+msgid "Show Windows"
+msgstr "Показати вікна"
+
+msgid "Toggle Windows"
+msgstr "Поміняти вікна"
+
+msgid "Toggle Today Window"
+msgstr "Переключити вікно Сьогодні"
+
+msgid "Create New Task"
+msgstr "Створити нове завдання"
+
+msgid "Create New Event"
+msgstr "Створити нову подію"
+
+msgid "Create new event or task"
+msgstr "Створити нову подію або завдання"
+
+msgid "Quit Application"
+msgstr "Вихід"
+
+msgid "Business"
+msgstr "Бізнес"
+
+msgid "Calls"
+msgstr "Дзвінки"
+
+msgid "Clients"
+msgstr "Клієнти"
+
+msgid "Competition"
+msgstr "Змагання"
+
+msgid "Customer"
+msgstr "Замовник"
+
+msgid "Exam"
+msgstr "Екзамен"
+
+msgid "Favorites"
+msgstr "Обране"
+
+msgid "Follow Up"
+msgstr "Завершити"
+
+msgid "Gifts"
+msgstr "Подарунки"
+
+msgid "Holidays"
+msgstr "Свята"
+
+msgid "Ideas"
+msgstr "Ідеї"
+
+msgid "Important"
+msgstr "Важливо"
+
+msgid "Issues"
+msgstr "Результати"
+
+msgid "Miscellaneous"
+msgstr "Різне"
+
+msgid "Personal"
+msgstr "Особисте"
+
+msgid "Projects"
+msgstr "Проекти"
+
+msgid "Public Holiday"
+msgstr "Державні свята"
+
+msgid "Suppliers"
+msgstr "Постачальники"
+
+msgid "Travel"
+msgstr "Подорожі"
+
+msgid "Trip"
+msgstr "Поїздки"
+
+msgid "TV"
+msgstr "ТВ"
+
+msgid "Vacation"
+msgstr "Канікули"
+
+msgid "Work"
+msgstr "Робота"
+
+msgid "Medical"
+msgstr "Медицина"
+
+msgid "Urgent"
+msgstr "Терміново"
+
+msgid "Health"
+msgstr "Здоров'я"
+
+msgid "Sport"
+msgstr "Спорт"
+
+msgid "Game"
+msgstr "Гра"
+
+msgid "School"
+msgstr "Школа"
+
+msgid "Party"
+msgstr "Вечірка"
+
+msgid "Movie"
+msgstr "Кіно"
+
+msgid "Car"
+msgstr "Авто"
+
+msgid "Payments"
+msgstr "Оплати"
+
+msgid "Money"
+msgstr "Грошові знаки"
+
+msgid "Pets"
+msgstr "Тварини"
+
+msgid "Theatre"
+msgstr "Театр"
+
+msgid "Music"
+msgstr "Музика"
+
+msgid "[Black]"
+msgstr "[Чорна]"
+
+msgid "[Blue]"
+msgstr "[Синя]"
+
+msgid "[Brown]"
+msgstr "[Коричнева]"
+
+msgid "[Cyan]"
+msgstr "[Блакитна]"
+
+msgid "[Green]"
+msgstr "[Зелена]"
+
+msgid "[Grey]"
+msgstr "[Сіра]"
+
+msgid "[Magenta]"
+msgstr "[Малинова]"
+
+msgid "[Pink]"
+msgstr "[Рожева]"
+
+msgid "[Red]"
+msgstr "[Червона]"
+
+msgid "[Yellow]"
+msgstr "[Жовта]"
+
+msgid "[Orange]"
+msgstr "[Помаранчева]"
+
+msgid "Must Attend"
+msgstr "Потрібно відвідати"
+
+msgid "Travel Required"
+msgstr "Потрібно їхати"
+
+msgid "Needs Preparation"
+msgstr "Потрібна підготовка"
+
+msgid "Phone Call"
+msgstr "Дзвінок"
+
+msgid "iCalendar Format"
+msgstr "Формат iCalendar"
+
+msgid "Network Shared Calendar"
+msgstr "Спільний мережевий календар"
+
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+msgid "Rainlendar Ini Format"
+msgstr "Формат Ini-файлу Rainlendar"
+
+msgid "Google Calendar"
+msgstr "Календар Google"
+
+msgid "CalDAV Calendar"
+msgstr "Календар CalDAV"
+
+msgid "Google Calendar (v3)"
+msgstr "Календар Google (v3)"
+
+msgid "Google Tasks"
+msgstr "Google Tasks"
+
+msgid "Comma Separated Values"
+msgstr "Comma Separated Values"
+
+msgid "&Next >"
+msgstr "&Далі >"
+
+msgid "< &Back"
+msgstr "< &Назад"
+
+msgid "&Finish"
+msgstr "&Закінчити"
+
+msgid "Vertical Calendar"
+msgstr "Вертикальний календар"
+
+msgid "Year Calendar"
+msgstr "Річний календар"
+
+msgid "Sidebar"
+msgstr "Бічна смуга"
+
+msgid "DigiClock"
+msgstr "Цифровий годинник"
+
+msgid "Dual Calendar"
+msgstr "Подвійний календар"
+
+msgid "Todo List"
+msgstr "Список завдань"
+
+msgid "Grid Calendar"
+msgstr "Сітка календаря"
+
+msgid "Vertical Line Calendar"
+msgstr "Календар у вертикальну смужку"
+
+msgid "Horizontal Line Calendar"
+msgstr "Календар у горизонтальну смужку"
+
+msgid "Visible month"
+msgstr "Видимий місяць"
+
+msgid "Show buttons"
+msgstr "Показати кнопки"
+
+msgid "Show adjacent days"
+msgstr "Показати суміжні дні"
+
+msgid "Eventlist max height"
+msgstr "Максимальна висота списку подій"
+
+msgid "Todolist max height"
+msgstr "Максимальна висота списку завдань"
+
+msgid "Show week numbers"
+msgstr "Показати номери тижнів"
+
+msgid "Format"
+msgstr "Формат"
+
+msgid "Timezone"
+msgstr "Часовий пояс"
+
+msgid "Label"
+msgstr "Мітка"
+
+msgid "Show 3rd month"
+msgstr "Показати 3-й місяць"
+
+msgid "Show 4th month"
+msgstr "Показати 4-й місяць"
+
+msgid "Show 5th month"
+msgstr "Показати 5-й місяць"
+
+msgid "Show 6th month"
+msgstr "Показати 6-й місяць"
+
+msgid "Show 7th month"
+msgstr "Показати 7-й місяць"
+
+msgid "Show 8th month"
+msgstr "Показати 8-й місяць"
+
+msgid "Color"
+msgstr "Колір"
+
+msgid "Analog Clock"
+msgstr "Аналоговий годинник"
+
+msgid "Calendar List"
+msgstr "Список календарів"
+
+msgid "X count"
+msgstr "Кількість X"
+
+msgid "Y count"
+msgstr "Кількість Y"
+
+msgid "Snooze All"
+msgstr "Відкласти все"
+
+msgid "Dismiss All"
+msgstr "Вимкнути все"
+
+msgid "To do"
+msgstr "Завдання"
+
+msgid "Today color"
+msgstr "Колір поточного дня"
+
+msgid "Today shape"
+msgstr "Форма поточного дня"
+
+msgid "Circle"
+msgstr "Коло"
+
+msgid "Rectangle"
+msgstr "Прямокутник"
+
+msgid "Slim circle"
+msgstr "Тонке коло"
+
+msgid "Slim rectangle"
+msgstr "Тонкий прямокутник"
+
+msgid "Red"
+msgstr "Червоний"
+
+msgid "Orange"
+msgstr "Помаранчевий"
+
+msgid "Yellow"
+msgstr "Жовтий"
+
+msgid "Green"
+msgstr "Зелений"
+
+msgid "Cyan"
+msgstr "Блакитний"
+
+msgid "Blue"
+msgstr "Синій"
+
+msgid "Magenta"
+msgstr "Малиновий"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"Наступна версія популярного оформлення Shadow3 з доповненнями (видимі дні "
+"попереднього та наступного місяців)"
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"Місяць, показаний у календарі. Встановити +1 для наступного місяця, -1 для "
+"попереднього, або значення від 1 до 12 для конкретного місяця в поточному "
+"році."
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr "Зніміть вибір, щоб сховати наступну та попередню кнопки в календарі."
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr "Зніміть вибір, щоб сховати дні попереднього та наступного місяців."
+
+msgid "Defines the maximum height of the alarm."
+msgstr "Визначає максимальну висоту нагадування."
+
+msgid "Defines the maximum height of the event list."
+msgstr "Визначає максимальну висоту списку подій."
+
+msgid "Defines the maximum height of the to do list."
+msgstr "Визначає максимальну висоту списку робіт."
+
+msgid "Defines the width of the calendar list."
+msgstr "Визначає ширину вікна календаря."
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "Зніміть вибір, щоб сховати номери тижнів у календарі."
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr ""
+"Визначає формат часу. Щоб сховати секунди, використовуйте %H:%M або %#I:%M %p"
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"Визначає часовий пояс. Встановіть ... -3, -2, -1, 0, +1, +2, +3, ... . Можна "
+"також використовувати позначення CET, EST, PST, A_CST тощо."
+
+msgid "Adds a label for the clock."
+msgstr "Додає мітку для годинника."
+
+msgid "Defines the color of the today marker."
+msgstr "Визначає колір позначки \"сьогодні\"."
+
+msgid "Defines the shape of the today marker."
+msgstr "Визначає форму позначки \"сьогодні\"."
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "Вказує, скільки календарів показується у вікні горизонтально."
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "Вказуе, скільки календарів показується у вікні вертикально."
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "Зніміть вибір, щоб сховати назви днів тижня в календарі."
+
+msgid "Week View"
+msgstr "Режим 'тиждень'"
+
+msgid "Today position"
+msgstr "Позиція поточного дня"
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"Визначає позицію поточного дня. Якщо встановлене 0 (типово), показаний цілий "
+"тиждень, а позиція поточного дня змінюєтсься . Якщо встановлене значення від "
+"1 до 7, поточний день завжди знаходиться у тій позиції, а дні тижня "
+"змінюються."
+
+msgid "Autoscroll"
+msgstr "Автопрокрутка"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "Зніміть вибір, щоб відмінити автопрокрутку."
+
+msgid "Week view date format"
+msgstr "Формат дати у режимі 'тиждень'"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr "Визначає формат дати у розкладі. Стандартно - %#d.%#m."
+
+msgid "Week view time format"
+msgstr "Формат часу у режимі 'тиждень'"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"Визначає формат часу у розкладі. Стандартно - %H:%M. Для формату АМ/РМ "
+"використовуйте %#I %p"
+
+msgid "Time item height"
+msgstr "Висота елементу часу"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr "Визначає висоту одинарної події. Стандартне значення - 30 пікселів."
+
+msgid "Time item duration"
+msgstr "Вказати тривалість події"
+
+msgid "60 Minutes"
+msgstr "60 хвилин"
+
+msgid "30 Minutes"
+msgstr "30 хвилин"
+
+msgid "15 Minutes"
+msgstr "15 хвилин"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr "Визначає тривалість одинарної події.  Стандартне значення - 60 хвилин."
+
+msgid "All day max height"
+msgstr "Максимальна висота дня"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"Максимальна висота для події, що триває весь день. Якщо події не поміщаються "
+"у визначену ділянку, з'являється смуга прокрутки."
+
+msgid "Event min height"
+msgstr "Min висота події"
+
+msgid "The minimum height of the event."
+msgstr "Мінімальна висота події."
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "Зніміть вибір, щоб сховати номери тижнів у календарі."
+
+msgid "Show weekdays"
+msgstr "Показати будні дні"
+
+msgid "Day View"
+msgstr "Режим 'день'"
+
+msgid "Day view time format"
+msgstr "Формат часу в режимі 'день'"
+
+msgid "Day view date format"
+msgstr "Формат дати в режимі 'день'"
+
+msgid "Month View"
+msgstr "Режим 'місяць'"
+
+msgid "Show background"
+msgstr "Показувати фон"
+
+msgid "Uncheck to make the background transparent."
+msgstr "Зніміть вибір, щоб зробити фон прозорим."
+
+msgid "Large Calendar"
+msgstr "Річний календар"
+
+msgid "Today window max height"
+msgstr "Max висота вікна Сьогодні"
+
+msgid "Defines the maximum height of the today window."
+msgstr "Задає максимальну висоту вікна 'сьогодні'."
+
+msgid "Today show tasks"
+msgstr "Показати завдання 'сьогодні'"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr "Визначає, чи показувати завждання у вікні 'сьогодні'."
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"Оформлення має налаштування кольору. Ви можете змінити їх або вибрати після "
+"натискання стрілки 'вниз' у календарі."
+
+msgid "Brown"
+msgstr "Коричневий"
+
+msgid "Dark"
+msgstr "Темний"
+
+msgid "Colorless"
+msgstr "Без кольору"
+
+msgid "Defines the color of the windows."
+msgstr "Визначає колір вікон."
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr "Визначає формат дат для заголовків списку подій."
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr ""
+"Визначає максимальну висоту списку подій. Стандартне значення - 300 пікселів."
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr ""
+"Визначає максимальну висоту списку завдань. Стандартне значення - 300 "
+"пікселів."
+
+msgid "Removes the color from the windows."
+msgstr "Вилучає колір вікон."
+
+msgid "Creates darker version of the windows."
+msgstr "Створює темнішу версію вікон."
+
+msgid "All day"
+msgstr "Весь день"
+
+msgid "Day bar show day"
+msgstr "Денний бар показувати день"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr "Визначає, чи буде показано номер і назву дня на смужці дня."
+
+msgid "Day bar am-pm"
+msgstr "Денна планка з 00: 00 до 22: 00"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "Позначте, щоб відобразити час за допомогою 12-годинного годинника."
+
+msgid "Bar event"
+msgstr "Барний захід"
+
+msgid "The event color for the bars."
+msgstr "Колір події для смуг."
+
+msgid "Conditions: "
+msgstr "Умови: "
+
+msgid "Temperature: "
+msgstr "Температура: "
+
+msgid "Humidity: "
+msgstr "Вологість: "
+
+msgid "Winds: "
+msgstr "Вітер: "
+
+msgid "Time: "
+msgstr "Час:"
+
+msgid "Refreshing..."
+msgstr "Оновлення..."
+
+msgid "Downloading: "
+msgstr "Завантаження:"
+
+msgid "Download failed!"
+msgstr "Помилка завантаження!"
+
+msgid "Loading..."
+msgstr "Завантаження..."
+
+msgid "Unknown result!"
+msgstr "Невідомий результат!"
+
+msgid "Upcoming programs:"
+msgstr "Програми, які надходять:"
+
+msgid "Parsing failed!"
+msgstr "Помилка аналізу!"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr " ДНІ      ГОДИНИ   ХВ.   СЕК."
+
+msgid "Loading feed..."
+msgstr "Завантаження стрічки..."
+
+msgid "Lo: "
+msgstr "Низька:"
+
+msgid "Hi: "
+msgstr "Висока:"
+
+msgid "Min:"
+msgstr "Мінімум:"
+
+msgid "Max:"
+msgstr "Максимум:"
+
+msgid "Chance of precipitation: "
+msgstr "Імовірнісь опадів:"
+
+msgid "New moon"
+msgstr "Новий місяць"
+
+msgid "Waxing crescent"
+msgstr "Молодий місяць"
+
+msgid "First quarter"
+msgstr "Перша чверть"
+
+msgid "Waxing gibbous"
+msgstr "Місяць росте"
+
+msgid "Full moon"
+msgstr "Повний місяць"
+
+msgid "Waning gibbous"
+msgstr "Місяць спадає"
+
+msgid "Last quarter"
+msgstr "Остання чверть"
+
+msgid "Waning crescent"
+msgstr "Старий місяць"
+
+msgid "Southern hemisphere"
+msgstr "Південна півкуля"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr "Встановіть 1, щоб встановити фази для південної півкулі."
+
+msgid "World Time"
+msgstr "Світовий час"
+
+msgid "World time format"
+msgstr "Формат часу (див.інструкцію)"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"Визначає формат часу. Стандартний - %H:%M. Для формату АМ/РМ використовуйте "
+"%#I:%M %p"
+
+msgid "World time location 1"
+msgstr "Місцезнаходження 1"
+
+msgid "Defines the title for the time."
+msgstr "Визначає заголовок для часу."
+
+msgid "World time timezone 1"
+msgstr "Часовий пояс 1"
+
+msgid "World time location 2"
+msgstr "Місцезнаходження 2"
+
+msgid "World time timezone 2"
+msgstr "Часовий пояс 2"
+
+msgid "World time location 3"
+msgstr "Місцезнаходження 3"
+
+msgid "World time timezone 3"
+msgstr "Часовий пояс 3"
+
+msgid "World time location 4"
+msgstr "Місцезнаходження 4"
+
+msgid "World time timezone 4"
+msgstr "Часовий пояс 4"
+
+msgid "Photos"
+msgstr "Фото"
+
+msgid "Weather"
+msgstr "Погода"
+
+msgid "Countdown"
+msgstr "Зворотній відлік"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Create New"
+msgstr "Створити"
+
+msgid "Moon Phase"
+msgstr "Фаза Місяця"
+
+msgid "QuickAdd"
+msgstr "Швидко додати"
+
+msgid "Translate"
+msgstr "Перекласти"
+
+msgid "Text File"
+msgstr "Текстовий файл"
+
+msgid "RSS height"
+msgstr "Висота RSS"
+
+msgid "Defines the maximum height of the list."
+msgstr "Визначає максимальну висоту списку."
+
+msgid "RSS location"
+msgstr "Адреса RSS"
+
+msgid "Location of the RSS feed."
+msgstr "Адреса RSS-стрічки."
+
+msgid "Weather location"
+msgstr "Адреса погоди"
+
+msgid "Location of the weather feed."
+msgstr "Адреса стрічки погоди."
+
+msgid "Weather city"
+msgstr "Погода у"
+
+msgid "The city for the weather."
+msgstr "Місто погоди."
+
+msgid "Weather language"
+msgstr "Мова погоди"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr "Мова погоди. Абревіатури на зразок en, fi, ru, zh-cn, ..."
+
+msgid "Photos random"
+msgstr "Випадкові фото"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr ""
+"Зніміть вибір, щоб показувати зображення одне за одним. Виберіть, щоб "
+"показувати їх в довільному порядку."
+
+msgid "Photos update"
+msgstr "Оновлення фото"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "Визначає частоту оновлення картинки. Значення встановлене у хвилинах."
+
+msgid "Photos folder"
+msgstr "Тека фотографій"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"Визначає локальну теку з фотографіями. Якщо ця опція не відмічена, фото "
+"будуть завантажуватися з Flickr."
+
+msgid "Countdown event"
+msgstr "Подія зворотного відліку"
+
+msgid "The description of the event."
+msgstr "Опис події."
+
+msgid "Countdown time"
+msgstr "Час зворотного відліку"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "Час події. Використовуйте формат ГГ:ХХ:СС."
+
+msgid "Countdown date"
+msgstr "Дата зворотного відліку"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "Дата події. Використовуйте формат РРРР-MM-ДД."
+
+msgid "TV height"
+msgstr "Висота ТБ"
+
+msgid "Copy to clipboard"
+msgstr "Копіювати в буфер"
+
+msgid "File path"
+msgstr "Шлях до файлу"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "Визначає шлях та ім'я файлу, що відображаєтся у вікні."
+
+msgid "No file given"
+msgstr "Не вказане ім'я файлу"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr "Перейдіть у налаштування вікна і вкажіть шлях до текстового файлу."
+
+msgid "File window full rows"
+msgstr "Всі рядки вікна файлу"
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr ""
+"Виберіть, щоб показати рядки повністю. Зніміть вибір, що обрізати лінії."
+
+msgid "File window width"
+msgstr "Ширина вікна файлу"
+
+msgid "The width of the calendar window."
+msgstr "Ширина вікна календаря."
+
+msgid "The height of the calendar window."
+msgstr "Висота вікна календаря."
+
+msgid "Defines the width of the event list."
+msgstr "Ширина списку подій."
+
+msgid "Defines the width of the to do list."
+msgstr "Ширина списку завданнь."
+
+msgid "Defines the width of the quickadd window."
+msgstr "Ширина вікна швидкого додавання."
+
+msgid "Defines the width of the day view window."
+msgstr "Ширина вікна у режимі 'день'."
+
+msgid "Defines the height of the day view window."
+msgstr "Висота вікна у режимі 'день'."
+
+msgid "Defines the width of the week view window."
+msgstr "Визначає ширину  вікна у режимі 'тиждень'."
+
+msgid "Defines the height of the week view window."
+msgstr "Визначає висоту вікна у режимі 'тиждень'."
+
+msgid "Defines the width of the calendar window."
+msgstr "Визначає ширину вікна календаря."
+
+msgid "Defines the height of the calendar window."
+msgstr "Визначає висоту вікна календаря."
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "alt"
+msgstr "alt"
+
+msgid "shift"
+msgstr "shift"
+
+msgid "Mark as completed"
+msgstr "Відмітити як завершене"
+
+msgid "Mark as needs action"
+msgstr "Відмітити як таке, що потребує дії"
+
+msgid "Recurring"
+msgstr "Повтор"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "Text color"
+msgstr "Колір тексту"
+
+msgid "Tooltip color"
+msgstr "Колір підказки"
+
+msgid "Black"
+msgstr "Чорний"
+
+msgid "White"
+msgstr "Білий"
+
+msgid "Light grey"
+msgstr "Світло-сірий"
+
+msgid "Light pink"
+msgstr "Світло-рожевий"
+
+msgid "Grey"
+msgstr "Сірий"
+
+msgid "Pink"
+msgstr "Рожевий"
+
+msgid "Schedule background"
+msgstr "Фон розкладу"
+
+msgid "The background color for the day, week and month views."
+msgstr "Колір фону у режимі 'день', 'тиждень', 'місяць'."
+
+msgid "Schedule text color"
+msgstr "Колір тексту"
+
+msgid "The text color for the day, week and month views."
+msgstr "Колір тексту у режимі 'день', 'тиждень', 'місяць'."
+
+msgid "Calendar day color"
+msgstr "Колір дня"
+
+msgid "Large calendar day color"
+msgstr "Колір дня у річному календарі"
+
+msgid "The color for the days in the calendar."
+msgstr "Колір днів у календарі."
+
+msgid "Calendar day text color"
+msgstr "Колір дня у календарі"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "Колір номерів днів у календарі."
+
+msgid "Small icon"
+msgstr "Маленькі значки"
+
+msgid "The icon which is shown in the calendar."
+msgstr "Значок календаря"
+
+msgid "Large icon"
+msgstr "Великі значки"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "Значок для списків подій та завдань."
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "Колір тексту у списках та підказках."
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr "Пріоритет визначає, яку категорію видно, якщо є кілька у той же день."
+
+msgid "Schedule text shadow color"
+msgstr "Колір тіні тексту у розкладі"
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "Колір тіні тексту у режимі 'день', 'тиждень', 'місяць'."
+
+msgid "Calendar day text shadow color"
+msgstr "Колір тіні дня у календарі"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "Колір тіні чисел днів у календарі."
+
+msgid "Text shadow color"
+msgstr "Колір тіні тексту"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "Колір тіні тексту у списках та підказках."
+
+msgid "Show date"
+msgstr "Показувати дату"
+
+msgid "Check to show also the current date."
+msgstr "Виберіть, щоб показати поточну дату."
+
+msgid "This defines the format of the time."
+msgstr "Визначає формат часу."
+
+msgid "This defines the format of the date."
+msgstr "Визначає формат дати."
+
+msgid "Search"
+msgstr "Пошук:"
+
+msgid "Search engine"
+msgstr "Пошуковий сервіс:"
+
+msgid "Choose the search engine"
+msgstr "Виберіть пошуковий сервіс"
+
+msgid "Enter search text"
+msgstr "Введіть текст"
+
+msgid "Show title"
+msgstr "Показати заголовок"
+
+msgid "Check to show a title text."
+msgstr "Виберіть, щоб показати текст заголовка."
+
+msgid "Title text"
+msgstr "Текст заголовка"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "Визначає текст заголовка, що з'являється на часом."
+
+msgid "Weather woeid"
+msgstr "Ідентифікатор погоди woeid"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "Yahoo WOEID для місця погоди."
+
+msgid "Weather celsius"
+msgstr "Шкала Цельсія"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "Якщо відмічено, то температура відображається за шкалою Цельсія."
+
+msgid "Bold blue"
+msgstr "Густо-синій"
+
+msgid "Turquoise"
+msgstr "Бірюзовий"
+
+msgid "Bold green"
+msgstr "Густо-зелений"
+
+msgid "Bold red"
+msgstr "Густо-червоний"
+
+msgid "Purple"
+msgstr "Пурпуровий"
+
+msgid "Gray"
+msgstr "Сірий"
+
+msgid "No events today"
+msgstr "Сьогодні подій немає"
+
+msgid "No tasks today"
+msgstr "Сьогодні завдань немає"
+
+msgid "Background opacity"
+msgstr "Непрозорість фону"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr "Визначає непрозорість фону вікон. Використовує значення між 0 та 100."
+
+msgid "Snooze menu"
+msgstr "Відкласти меню"
+
+msgid "Pressure: "
+msgstr "Тиск:"
+
+msgid "UV index: "
+msgstr "УФ-індекс:"
+
+msgid "Feels like: "
+msgstr "Відчуває, як:"
+
+msgid "Sunrise: "
+msgstr "Схід сонця"
+
+msgid "Sunset: "
+msgstr "Захід сонця"
+
+msgid "Tonight"
+msgstr "Сьогодні ввечері"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Large"
+msgstr "Великий"
+
+msgid "Use large images and more space between the items."
+msgstr "Використовуйте великі зображення та більше місця між елементами."
+
+msgid "Alarm max height"
+msgstr "Максимальна висота сигналу тривоги"
+
+msgid "Horizontal Day Bar"
+msgstr "Горизонтальний денний бар"
+
+msgid "Vertical Day Bar"
+msgstr "Вертикальна смуга дня"
+
+msgid "Day bar show text"
+msgstr "Денний рядок показувати текст"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "Зніміть прапорець, щоб приховати тексти від подій."
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "Колір тексту в календарі та у списках."
+
+msgid "The color of the text in the tooltip."
+msgstr "Колір тексту в підказках."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"Місяць, що показаний у календарі. Вкажіть +1 для наступного місяця, -1 для "
+"попереднього, або значення від 0 до 11 для якогось конкретного місяця в році."
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Не вдалося знайти активне оформлення \n"
+"Натисніть OK, щоб завантажити перше доступне."
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"У оформлення немає активних вікон\n"
+"Будуть використані стандартні вікна."
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Оформлення не існує\n"
+"Натисніть OK, щоб завантажити перше доступне."
+
+msgid "No items"
+msgstr "Жодних елементів"
+
+msgid "No events"
+msgstr "Жодних подій"
+
+msgid "No tasks"
+msgstr "Жодних завдань"
+
+msgid "Synchronizing"
+msgstr "Синхронізація"
+
+msgid "Offline"
+msgstr "Вимкнено"
+
+msgid "today"
+msgstr "сьогодні"
+
+msgid "tomorrow"
+msgstr "завтра"
+
+msgid "yesterday"
+msgstr "вчора"
+
+msgid "Jan"
+msgstr "Січ"
+
+msgid "Feb"
+msgstr "Лют"
+
+msgid "Mar"
+msgstr "Бер"
+
+msgid "Apr"
+msgstr "Кві"
+
+msgid "Jun"
+msgstr "Чер"
+
+msgid "Jul"
+msgstr "Лип"
+
+msgid "Aug"
+msgstr "Сер"
+
+msgid "Sep"
+msgstr "Вер"
+
+msgid "Oct"
+msgstr "Жов"
+
+msgid "Nov"
+msgstr "Лис"
+
+msgid "Dec"
+msgstr "Гру"
+
+msgid "%ith"
+msgstr "%i-й"
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11-й;12-й;13-й;1-й;2-й;3-й"
+
+msgid "edit"
+msgstr "змінити"
+
+msgid "Do you want to create the file?"
+msgstr "Ви бажаєте створити файл?"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"Файл не існує:\n"
+"%s"
+
+msgid "Unable to create the file \"%s\"."
+msgstr "Неможливо створити файл \"%s\"."
+
+msgid "This is a read only event."
+msgstr "Ця подія лише для перегляду."
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "Неможливо змінити цю подію за допомогою Rainlendar."
+
+msgid "This is a read only task."
+msgstr "Це завдання лише для перегляду."
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "Неможливо редагувати це завдання за допомогою Rainlendar."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Organizer"
+msgstr "Організатор"
+
+msgid "Accepted"
+msgstr "Прийнято"
+
+msgid "Declined"
+msgstr "Відхилено"
+
+msgid "Tentative"
+msgstr "Орієнтова на"
+
+msgid "Needs action"
+msgstr "Потребує дії"
+
+msgid "Create a new calendar"
+msgstr "Створити новий календар"
+
+msgid "Please select the type of the calendar."
+msgstr "Будь ласка, виберіть тип календаря."
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr "Тип календаря визначає формат подій та місце їх зберігання."
+
+msgid "local"
+msgstr "місцевий"
+
+msgid "deprecated"
+msgstr "рекомендований"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Go Pro"
+msgstr "Завантажити версію Pro"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro дозволяє отримати доступ до ваших подій та завдань в Outlook, "
+"Google Calendar та інших календарях безпосередньо з робочого столу."
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro дозволяє отримати доступ до ваших подій та завдань в Google "
+"Calendar та інших календарях безпосередньо з робочого столу."
+
+msgid "Buy license"
+msgstr "Купити ліцензію"
+
+msgid "See differences"
+msgstr "Переглянути відмінності"
+
+msgid "No calendar selected!"
+msgstr "Календар не обрано!"
+
+msgid "You need to select a calendar type."
+msgstr "Необхідно вибрати тип календаря."
+
+msgid "Finish the authentication in your browser"
+msgstr "Завершіть аутентифікацію у своєму веб-переглядачі"
+
+msgid "Authenticating..."
+msgstr "Автентифікація..."
+
+msgid "Downloading..."
+msgstr "Завантаження..."
+
+msgid "No urls allowed!"
+msgstr "Url не дозволено!"
+
+msgid "Only local files can be defined as the file name."
+msgstr "Лише локальні файли можна використовувати як ім’я файлу."
+
+msgid "No UNC paths allowed!"
+msgstr "UNC-шляхи не дозволено!"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"Шляхи UNC не можуть бути використані в якості імен файлів.\n"
+"Необхідно підключити мережевий диск, щоб мати доступ до файлів на сервері"
+
+msgid "No filename defined!"
+msgstr "Не задане ім'я файлу!"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"Ви не можете залишити ім'я файлу порожнім. Потрібно вказати файл для "
+"зберігання подій та завдань."
+
+msgid "The file name is missing."
+msgstr "Відсутнє ім'я файлу."
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"Якщо ви створюєте новий календар, ім'я може бути довільним. У іншому вибадку "
+"оберіть існуючий файл iCalendar (*.ics)."
+
+msgid "The url is empty!"
+msgstr "Url порожній!"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"Ви не можете залишити поле url порожнім. Необхідно вказати файл для "
+"зберігання подій та завдань."
+
+msgid "The protocol is missing!"
+msgstr "Протокол відсутній!"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "Будь ласка, вкажіть протокол для цього url (напр. \"http://\")."
+
+msgid "The file name is missing from the url!"
+msgstr "В url відсутня назва файла!"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Якщо ви створюєте новий календар, ім'я може бути довільним. У іншому випадку "
+"переконайтесь, що сервер не визначає якийсь файл як URL.\n"
+"\n"
+"Продовжити?"
+
+msgid "Incorrect email!"
+msgstr "Невірна адреса!"
+
+msgid "You need to enter a full email address."
+msgstr "Ви маєте ввести повну електронну адресу."
+
+msgid "Please select the calendar."
+msgstr "Будь ласка, виберіть календар."
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr "Ви не обрали жоден календар. Чи ви точно хочете продовжити?"
+
+msgid "Name"
+msgstr "Ім'я"
+
+msgid "The calendar already exists!"
+msgstr "Календар вже існує!"
+
+msgid "Please choose some other name for the calendar."
+msgstr "Будь ласка, оберіть іншу назву календаря."
+
+msgid "The calendar name is empty!"
+msgstr "Назва календаря порожня!"
+
+msgid "You must give a name for the calendar."
+msgstr "Ви повинні назвати календар."
+
+msgid "Alarm sound"
+msgstr "Звук будильника"
+
+msgid "Select alarm sound"
+msgstr "Обрати звук будильника"
+
+msgid "Default sound"
+msgstr "Типовий звук"
+
+msgid "Preview"
+msgstr "Попередній перегляд"
+
+msgid "No sound"
+msgstr "Без звуку"
+
+msgid "Custom sound / executable"
+msgstr "Звук за замовчуванням / виконуваний"
+
+msgid "Browse..."
+msgstr "Вибрати..."
+
+msgid "Bulk Change"
+msgstr "Масовані зміни"
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "Summary:"
+msgstr "Опис:"
+
+msgid "Location:"
+msgstr "Місце:"
+
+msgid "Url:"
+msgstr "Url:"
+
+msgid "Class:"
+msgstr "Клас:"
+
+msgid "Time type:"
+msgstr "Тип часу:"
+
+msgid "With time"
+msgstr "Певний час"
+
+msgid "Start time:"
+msgstr "Початок:"
+
+msgid "Absolute"
+msgstr "Точний"
+
+msgid "Relative"
+msgstr "Відносний"
+
+msgid "Months"
+msgstr "місяць"
+
+msgid "Years"
+msgstr "рік"
+
+msgid "Visibility:"
+msgstr "Видимість:"
+
+msgid "Show in calendar"
+msgstr "Показувати в календарі"
+
+msgid "Priority:"
+msgstr "Пріоритет:"
+
+msgid "Status:"
+msgstr "Статус:"
+
+msgid "Not Started"
+msgstr "Не запущено"
+
+msgid "Progress:"
+msgstr "Прогрес:"
+
+msgid "0 %"
+msgstr "0 %"
+
+msgid "10 %"
+msgstr "10 %"
+
+msgid "20 %"
+msgstr "20 %"
+
+msgid "30 %"
+msgstr "30 %"
+
+msgid "40 %"
+msgstr "40 %"
+
+msgid "50 %"
+msgstr "50 %"
+
+msgid "60 %"
+msgstr "60 %"
+
+msgid "70 %"
+msgstr "70 %"
+
+msgid "80 %"
+msgstr "80 %"
+
+msgid "90 %"
+msgstr "90 %"
+
+msgid "100 %"
+msgstr "100 %"
+
+msgid "Free/Busy:"
+msgstr "Вільний/Зайнятий:"
+
+msgid "Free"
+msgstr "Вільний"
+
+msgid "Busy"
+msgstr "Зайнятий"
+
+msgid "Description:"
+msgstr "Опис:"
+
+msgid "Alarm:"
+msgstr "Будильник:"
+
+msgid "Category:"
+msgstr "Категорія:"
+
+msgid "Recurrence:"
+msgstr "Повтор:"
+
+msgid "Repeat every"
+msgstr "Повторювати кожен"
+
+msgid "Weeks"
+msgstr "тиждень"
+
+msgid "Repeat ending"
+msgstr "Повтор закінчується:"
+
+msgid "Forever"
+msgstr "Завжди"
+
+msgid "Number of times"
+msgstr "Кількість разів"
+
+msgid "Until"
+msgstr "До"
+
+msgid "Debug Window"
+msgstr "Вікно налагодження"
+
+msgid "Sensitivity:"
+msgstr "Чутливість:"
+
+msgid "All day event"
+msgstr "Весь день"
+
+msgid "Mark time as busy"
+msgstr "Позначити час як \"зайнятий\""
+
+msgid "Time zone:"
+msgstr "Часовий пояс:"
+
+msgid "Calendar:"
+msgstr "Календар:"
+
+msgid "Mon"
+msgstr "Пн"
+
+msgid "Tue"
+msgstr "Вт"
+
+msgid "Wed"
+msgstr "Ср"
+
+msgid "Thu"
+msgstr "Чт"
+
+msgid "Fri"
+msgstr "Пт"
+
+msgid "Sat"
+msgstr "Сб"
+
+msgid "Sun"
+msgstr "Нд"
+
+msgid "Repeat"
+msgstr "Повтор"
+
+msgid "End after"
+msgstr "Закінчити після"
+
+msgid "occurrences"
+msgstr "повтори"
+
+msgid "Exception dates"
+msgstr "Винятки"
+
+msgid "Add"
+msgstr "Додати"
+
+msgid "Show descriptions"
+msgstr "Показувати описи"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Показувати події в панелі повідомлень при запуску Rainlendar"
+
+msgid "Hide list windows if there are no items"
+msgstr "Ховати вікна списків, якщо вони порожні"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Скрізне натискання (утримуйте Shift, щоб вимкнути)"
+
+msgid "Lock windows in place"
+msgstr "Закріпити вікна"
+
+msgid "Enable on startup"
+msgstr "Запускати при старті системи"
+
+msgid "Hide from taskbar"
+msgstr "Сховати з панелі завдань"
+
+msgid "Use Retina Resolution"
+msgstr "Використовувати роздільну здатність Retina"
+
+msgid "Add years for categories"
+msgstr "Додати роки для категорій"
+
+msgid "Categories..."
+msgstr "Категорії..."
+
+msgid "Week's start day:"
+msgstr "1-й день тижня:"
+
+msgid "Position:"
+msgstr "Розташування елементів:"
+
+msgid "Language:"
+msgstr "Мова:"
+
+msgid "Opacity"
+msgstr "Прозорість"
+
+msgid "Normal:"
+msgstr "Нормальна:"
+
+msgid "Mouse over:"
+msgstr "Під курсором:"
+
+msgid "Apply to all windows at the same time"
+msgstr "Застосовувати одночасно до всіх вікон"
+
+msgid "Font Size"
+msgstr "Розмір шрифту"
+
+msgid "Size:"
+msgstr "Розмір:"
+
+msgid "Duplicate..."
+msgstr "Дублювати..."
+
+msgid "Action:"
+msgstr "Дія:"
+
+msgid "Hotkey:"
+msgstr "Гаряча клавіша:"
+
+msgid "Set"
+msgstr "Встановити"
+
+msgid "Available skins"
+msgstr "Доступні оформлення"
+
+msgid "Active skins"
+msgstr "Активне оформлення"
+
+msgid "Settings..."
+msgstr "Налаштування..."
+
+msgid "All items"
+msgstr "Всі елементи"
+
+msgid "Selected items"
+msgstr "Вибрані елементи"
+
+msgid "Day range"
+msgstr "Період"
+
+msgid "Select days"
+msgstr "Вибрати дні"
+
+msgid "Add title"
+msgstr "Додати заголовок"
+
+msgid "Preview..."
+msgstr "Проглянути..."
+
+msgid "Page Setup..."
+msgstr "Налаштування сторінки..."
+
+msgid "Todo"
+msgstr "Завдання"
+
+msgid "Date only"
+msgstr "Лише дата"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "Comma Separated Values (*.csv)|*.csv"
+
+msgid "Username"
+msgstr "Ім'я користувача"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Calendar name"
+msgstr "Назва календаря"
+
+msgid "Poll frequency (mins)"
+msgstr "Частота опитування (хв)"
+
+msgid "Suppress errors"
+msgstr "Ховати помилки"
+
+msgid "Keep offline copy"
+msgstr "Зберігати резервну копію"
+
+msgid "Authentication"
+msgstr "Автентифікація"
+
+msgid "Basic"
+msgstr "Основний"
+
+msgid "Digest"
+msgstr "Резюме"
+
+msgid "GSS-Negotiate"
+msgstr "GSS-переговори"
+
+msgid "NTLM"
+msgstr "NTLM"
+
+msgid "Support"
+msgstr "Підтримка"
+
+msgid "Automatic"
+msgstr "Автоматично"
+
+msgid "Both"
+msgstr "Обидва"
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Виберіть URL, ім'я та пароль для календаря.\n"
+"\n"
+"Поля імені та пароля можуть бути порожніми, якщо вони не потрібні."
+
+msgid "Select Calendar"
+msgstr "Виберіть календар"
+
+msgid "CalDAV Error (%s)!"
+msgstr "Помилка CalDAV (%s)!"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Помилка підвантаження даних на адресу:\n"
+"%s\n"
+"\n"
+"Відповідь сервера: (%i) %i %s."
+
+msgid "Google Error (%s)!"
+msgstr "Помилка Google (%s)!"
+
+msgid "Unable to delete the event."
+msgstr "Неможливо видалити подію."
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "Сервер повернув результат: (%i) %i %s."
+
+msgid "Unable to read the calendars from the server."
+msgstr "Неможливо прочитати календарі з сервера."
+
+msgid "Unable to authenticate to the server."
+msgstr "Неможливо пройти аутентифікацію на сервері."
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Неможливо знайти вибраний календар (%s).\n"
+"\n"
+"Доступні календарі:\n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "Неможливо прочитати календар з сервера."
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr ""
+"Невдала автентифікація. Перевірте правильність введеного імені та пароля."
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr ""
+"Переконайтеся також, що ви використовуєте спеціальний пароль програми для "
+"Rainlendar."
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr ""
+"Неможливо з'єднатись із сервером. Переконайтесь, що мережеве з'єднання "
+"працює."
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "Посилання \"%s\" не містить календаря."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr ""
+"Помилка завантаження даних з адреси:\n"
+"%s"
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr "Переконайтесь, що мережа працює, та файєрвол не блокує з'єднання."
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr ""
+"Неможливо з'єднатися з proxy. Переконайтеся, що він настроєний коректно."
+
+msgid "Unable to resolve the host."
+msgstr "Неможливо знайти сервер."
+
+msgid "Unable to connect to the server."
+msgstr "Неможливо підключитись до сервера."
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "Захищенне з'єднання (SSL) із сервером зірвалось."
+
+msgid "FALSE"
+msgstr "НЕПРАВИЛЬНО"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Ignore private events"
+msgstr "Ігнорувати приватні події"
+
+msgid "Import limit"
+msgstr "Обмеження імпорту"
+
+msgid "Everything"
+msgstr "Все"
+
+msgid "Future only"
+msgstr "Лише майбутні"
+
+msgid "Past month"
+msgstr "Минулий місяць"
+
+msgid "Past 6 months"
+msgstr "Минулі 6 місяців"
+
+msgid "Past year"
+msgstr "Минулий рік"
+
+msgid "Past 2 years"
+msgstr "Минулі 2 роки"
+
+msgid "Delete notifications"
+msgstr "Видалити сповіщення"
+
+msgid "External Only"
+msgstr "Тільки зовнішні"
+
+msgid "Future Only"
+msgstr "Тільки майбутнє"
+
+msgid "Color mapping"
+msgstr "Мапа кольорів"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"Вкажіть електронну адресу свого облікового запису Google, натисніть "
+"\"Вибрати календар\" і виберіть календар, який вам потрібен."
+
+msgid "Select calendar"
+msgstr "Вибрати календар"
+
+msgid "Unable to read the calendars."
+msgstr "Неможливо прочитати календар."
+
+msgid "Authentication failed."
+msgstr "Проблеми з автентифікацією."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Неможливо авторизуватись з Google.\n"
+"Переконайтесь, що ви правильно вказали\n"
+"адресу та пароль."
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr "Неможливо оновити подію, оскільки цільовий календар не визначено."
+
+msgid "Google Calendar Error (%s)!"
+msgstr "Помилка Календаря Google (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"Неможливо пройти аутентифікацію з Google. Ви увімкнули двокрокову "
+"аутентифікацію, тож вам потрібно створити спеціальний пароль для Rainlendar. "
+"Ви можете це зробити на сторінці облікового запису Google, у розділі "
+"\"Двокрокова аутентифікація\"."
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"Не вдалося автентифікуватися в GoogleМожливо, було скасовано доступ до "
+"Календаря Google для користувачів із дощовим календаремПерейдіть до розділу "
+"Параметри-&gt;Календарі та знову запустіть аутентифікацію для календаря."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Неможливо авторизуватись з Google.\n"
+"Сервер повернув результат: (%i) %i %s."
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Неможливо завантажити календарі.\n"
+"Сервер повернув результат: (%i) %i %s."
+
+msgid "Unable to parse the calendar url."
+msgstr "Неможливо розібрати URL календаря."
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Здається, що ви ввели URL як ім'я календаря.\n"
+"Вам потрібно використовувати одне з наступних імен:\n"
+
+msgid "Unable to delete the event: "
+msgstr "Неможливо видалити подію:"
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"Неможливо додати подію до календаря Google через конфлікт. Оновлена подія "
+"буде перезавантажена з календаря Google."
+
+msgid "Unable to parse the events."
+msgstr "Неможливо розібрати події."
+
+msgid "Unable to upload the event: "
+msgstr "Неможливо підвантажити подію:"
+
+msgid "Task list name"
+msgstr "Назва списку завдань"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"Вкажіть електронну адресу свого облікового запису Google, натисніть "
+"\"Вибрати список завдань\" і виберіть список завдань, який вам потрібен"
+
+msgid "Select task list"
+msgstr "Вибрати список завдань"
+
+msgid "Unable to read the task lists."
+msgstr "Неможливо прочитати список завдань."
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr ""
+"Неможливо оновити завдання, оскільки цільовий список завдань не визначено."
+
+msgid "Google Tasks Error (%s)!"
+msgstr "Помилка Google Tasks (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"Не вдалося пройти автентифікацію в Google. Доступ Rainlendar до Google Task "
+"було відмінено. Будь ласка, оновіть календар і пройдіть автентифікацію "
+"Rainlendar у вашому обліковому записі Google знову."
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Неможливо завантажити списки завдань.\n"
+"Сервер повернув результат: (%i) %i %s."
+
+msgid "Unable to parse the task list url."
+msgstr "Неможливо розібрати адресу списку завдань."
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Здається, що ви ввели URL як ім'я календаря.\n"
+"Вам потрібно використовувати одне з наступних імен:\n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"Неможливо знайти вибраний список завдань (%s).\n"
+"\n"
+"Доступні списки:\n"
+
+msgid "Unable to delete the task: "
+msgstr "Неможливо видалити завдання:"
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"Неможливо додати завдання до завдань Google через конфлікт. Оновлене "
+"завдання буде перезавантажене із завдань Google."
+
+msgid "Unable to upload the task: "
+msgstr "Неможливо підвантажити завдання:"
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar файли (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "Безпечне підвантаження"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"Виберіть URL, ім'я та пароль для календаря.\n"
+"\n"
+"URL може використовувати протоколи http, https або ftp. Поля імені та пароля "
+"можуть бути порожніми, якщо вони не потрібні."
+
+msgid "Network Error (%s)!"
+msgstr "Помилка мережі (%s)!"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "Неможливо додати об'єкт до он-лайн календаря."
+
+msgid "Unable to remove the item from the online calendar."
+msgstr "Неможливо видалити об'єкт з он-лайн календаря."
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"Неможливо проаналізувати файл: %s\n"
+"Можливо, файл пошкоджений."
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"Сервер повернув порожній результат. Переконайтеся, що url календаря вказує "
+"на файл, а не на теку."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Помилка завантаження даних з адреси:\n"
+"%s\n"
+"\n"
+"Відповідь сервера: (%i) %i %s."
+
+msgid "Downloaded event count"
+msgstr "Кількість завантажених подій"
+
+msgid "Office 365"
+msgstr "Office 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"Введіть адресу електронної пошти облікового запису Office 365, натисніть "
+"кнопку \"Вибрати календар\" та виберіть календар, до якого потрібно отримати "
+"доступ"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Неможливо автентифікувати обліковий запис Office 365\\ nПереконайтеся, що "
+"ваша електронна адреса\\ n і пароль правильні"
+
+msgid "Office365 Error (%s)!"
+msgstr "Помилка Office365 (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Неможливо автентифікувати обліковий запис Office 365Можливо, доступ "
+"Rainlendar до календаря Office 365 було скасованоОновіть календар і знову "
+"автентифікуйте Rainlendar у своєму обліковому записі Office 365"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Неможливо автентифікувати обліковий запис Office 365\\ nСервер повернув "
+"результат: (%i) %i %s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Не вдалося завантажити подію через конфліктОновлена подія буде "
+"перезавантажена з сервера"
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"Помилка Outlook!\n"
+"Неможливо ініціалізувати бібліотеку MAPI.\n"
+"\n"
+"Якщо ви оновили Rainlendar чи Outlook, вам потрібно заново створити календар "
+"Outlook у налаштуваннях Rainlendar.\n"
+"\n"
+"Переконайтесь, що ви користуєтесь сумісними версіями (32bit/64bit) обох "
+"програм."
+
+msgid "Application"
+msgstr "Програма"
+
+msgid "Profile"
+msgstr "Профіль"
+
+msgid "MessageStore"
+msgstr "Тека для повідомлень"
+
+msgid "Folders"
+msgstr "Теки"
+
+msgid "Default Folder"
+msgstr "Типова тека"
+
+msgid "Use labels instead of categories"
+msgstr "Використовувати мітки замість категорій"
+
+msgid "Show edit links"
+msgstr "Показувати зв'язки редагування"
+
+msgid "Keep MAPI connection alive"
+msgstr "Підтримувати з'єднання MAPI"
+
+msgid "Month"
+msgstr "Місяць"
+
+msgid "6 months"
+msgstr "6 місяців"
+
+msgid "Year"
+msgstr "Рік"
+
+msgid "2 years"
+msgstr "2 роки"
+
+msgid "Read birthdays from contacts"
+msgstr "Зчитувати дні народження контактів"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Виберіть теку Outlook, котру Ви хочете бачити в Rainlendar."
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][змінити]]"
+
+msgid "Outlook error!"
+msgstr "Помилка Outlook!"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr "Неможливо прочитати елемент Outlook з \"%s\". Деталі у log-файлі."
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "Помилка оновлення об'єкта. Код помилки 0x%p"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr ""
+"Неможливо записати подію Outlook. Немає доступних папок, де її можна було б "
+"створити."
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "Неможливо видалити об'єкт. Код помилки 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "Неможливо знайти список завдань Remember The Milk!"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "Список \"%s\" не знайдено. Доступні списки:"
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "Будь ласка, введіть ім'я як у списку нагорі."
+
+msgid "Unable to parse the ID from the task."
+msgstr "Неможливо розібрати ID завдання."
+
+msgid "Unable to create the task."
+msgstr "Неможливо створити завдання."
+
+msgid "Unable to parse the timeline."
+msgstr "Неможливо розібрати час."
+
+msgid "The service is temporarily unavailable."
+msgstr "Сервіс тимчасово недоступний."
+
+msgid "Please log in to Remember The Milk."
+msgstr "Будь ласка, увійдіть до Remember The Milk."
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"Ви маєте дозволити Rainlendar доступ до вашого рахунку Remember The Milk. "
+"Увійдіть на сайт Remember The Milk та надайте Rainlendar доступ до вашого "
+"рахунку.\n"
+"\n"
+"Ваш браузер буде запущено після натискання кнопки ОК."
+
+msgid "Continue after authorization."
+msgstr "Продовження після авторизації."
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr "Натисніть ОК щоб продовжити після того як авторизуєте Rainlendar."
+
+msgid "Unable to parse the output."
+msgstr "Неможливо розібрати результат."
+
+msgid "Unknown response for call \"%s\"."
+msgstr "Невідома відповідь на виклик \"%s\"."
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"Помилка виклику \"%s\":\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "Помилка виклику методу \"%s\"."
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "Помилка Remember The Milk (%s)!"
+
+msgid "List"
+msgstr "Список"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"Виберіть назву списку завдань зі списку Remember The Milk. Залиште порожнім, "
+"якщо бажаете отримати усі списки."
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"Відсутній дозвіл на аутентифікацію. Ви повинні надати Rainlendar доступ до "
+"вашого рахунку Remember The Milk."
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"Неможливо знайти теку \"%s\".\n"
+"\n"
+"Доступні теки:"
+
+msgid "Toodledo Error (%s)!"
+msgstr "Помилка Toodledo (%s)!"
+
+msgid "Folder"
+msgstr "Тека"
+
+msgid "Poll for changes"
+msgstr "Слідкувати за змінами"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr "Вкажіть електронну адресу та пароль до Toodledo."
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "Неможливо відкрити файл \"%s\" для запису."
+
+msgid "Filename"
+msgstr "Назва файлу"
+
+msgid "Monitor changes"
+msgstr "Слідкувати за змінами"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"Виберіть файл для календаря\n"
+"\n"
+"Можна вибрати існуючий файл ics або вказати новий шлях і файл буде створено."
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar файли (*.ics)|*.ics|vCalendar файли (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr ""
+"Шлях до файлу календаря \"% s\" не існує. Перейдіть до Параметри->Календарі "
+"та перевірте, чи правильно встановлено розташування файлу."
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "Неможливо створити тимчасову копію файлу \"%s\"."
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "Неможливо переписати файл \"%s\"."
+

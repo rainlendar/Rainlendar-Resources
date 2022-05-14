@@ -1,0 +1,5145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: 2020-11-26 02:35+0100\n"
+"Last-Translator: dkas <dkas01@gmail.com>\n"
+"Language-Team: Daniel Kasal <dkas01@gmail.com>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.5\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Rainlendar nemůže spustit server HTTP, aby obdržel odpověď OAuth. Ověřte, že "
+"nemáte žádný bezpečnostní software, který by zabraňoval spouštění serverů "
+"aplikací a že ve stejném portu nejsou spuštěny žádné další služby."
+
+msgid "Server Port: "
+msgstr "Port serveru:"
+
+msgid "Failed to start HTTP server"
+msgstr "Nepodařilo se spustit server HTTP"
+
+msgid "Choose the backup path"
+msgstr "Vyberte cestu pro zálohu"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "Archiv (*.zip)|*.zip"
+
+msgid "Authentication failed!"
+msgstr "Ověření se selhalo!"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "Ujistěte se, že jste dokončili proces ověřování"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr "a povolte Rainlendaru přístup do vašeho kalendáře."
+
+msgid "Authentication succeeded!"
+msgstr "Ověření proběhlo úspěšně!"
+
+msgid "You may close the browser window now."
+msgstr "Okno prohlížeče můžete nyní zavřít."
+
+msgid "Choose the backup file:"
+msgstr "Zvolit soubor zálohy:"
+
+msgid "Select"
+msgstr "Vybrat"
+
+msgid "No backups found!"
+msgstr "Nenalezeny žádné zálohy!"
+
+msgid "There are no backups available in the backup folder."
+msgstr "Nejsou k dispozici žádné zálohy ve složce záloh."
+
+msgid "The settings do not exist!"
+msgstr "Nastavení neexistuje!"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "Zvolený záložní soubor neobsahuje soubor nastavení."
+
+msgid "The file already exists:"
+msgstr "Tento soubor již existuje:"
+
+msgid "Do you want to overwrite the file?"
+msgstr "Chcete přepsat tento soubor?"
+
+msgid "Unable to overwrite file:"
+msgstr "Nelze přepsat soubor:"
+
+msgid "Write error!"
+msgstr "Chyba zápisu!"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"Nemohu obnovit soubor:\n"
+"%s\n"
+"\n"
+"Musíte soubor extrahovat ručně ze záložního archivu."
+
+msgid "Restore error!"
+msgstr "Chyba obnovení!"
+
+msgid "[None]"
+msgstr "[Žádný]"
+
+msgid "<Hidden>"
+msgstr "<Skrytý>"
+
+msgid "all"
+msgstr "vše"
+
+msgid "active"
+msgstr "aktivní"
+
+msgid "dismissed"
+msgstr "zamítnuto"
+
+msgid "snoozed"
+msgstr "odloženo"
+
+msgid "Show only needs action"
+msgstr "Zobrazit pouze akci vyžaduje"
+
+msgid "Show only in progress"
+msgstr "Zobrazit pouze v průběhu"
+
+msgid "Show only completed"
+msgstr "Zobrazit pouze dokončeno"
+
+msgid "Show only cancelled"
+msgstr "Zobrazit pouze zrušeno"
+
+msgid "Hide needs action"
+msgstr "Skrýt potřebuje akci"
+
+msgid "Hide in progress"
+msgstr "Zobrazit v průběhu"
+
+msgid "Hide completed"
+msgstr "Skrýt dokončeno"
+
+msgid "Hide cancelled"
+msgstr "Skrýt zrušeno"
+
+msgid "Reset completed time"
+msgstr "Obnovit dokončený čas"
+
+msgid "Show only no priority"
+msgstr "Zobrazit pouze bez priority"
+
+msgid "Show only high priority"
+msgstr "Zobrazit pouze vysokou prioritu"
+
+msgid "Show only normal priority"
+msgstr "Zobrazit pouze normální prioritu"
+
+msgid "Show only low priority"
+msgstr "Zobrazit pouze nízkou prioritu"
+
+msgid "Hide no priority"
+msgstr "Skrýt bez priority"
+
+msgid "Hide high priority"
+msgstr "Skrýt vysokou prioritu"
+
+msgid "Hide normal priority"
+msgstr "Skrýt normální prioritu"
+
+msgid "Hide low priority"
+msgstr "Skrýt nízkou prioritu"
+
+msgid "Show only alarms"
+msgstr "Zobrazit pouze alarmy"
+
+msgid "Show only active"
+msgstr "Zobrazit pouze aktivní"
+
+msgid "Show only snoozed"
+msgstr "Zobrazit pouze odložené"
+
+msgid "Show only dismissed"
+msgstr "Zobrazit pouze zamítnuto"
+
+msgid "Hide alarms"
+msgstr "Skrýt alarmy"
+
+msgid "Hide active"
+msgstr "Skrýt aktivní"
+
+msgid "Hide snoozed"
+msgstr "Skrýt odloženo"
+
+msgid "Hide dismissed"
+msgstr "Skrýt zamítnuto"
+
+msgid "Reset dismiss time"
+msgstr "Obnovit čas ukončení"
+
+msgid "Reset snooze time"
+msgstr "Obnovit čas odložení"
+
+msgid "Dismiss next alarm"
+msgstr "Zavřít další alarm"
+
+msgid "Duration:"
+msgstr "Délka trvání:"
+
+msgid "Next alarm:"
+msgstr "Další alarm:"
+
+msgid "Dismissed:"
+msgstr "Zamítnuto:"
+
+msgid "Snoozed until:"
+msgstr "Odloženo do:"
+
+msgid "In Progress"
+msgstr "Probíhá"
+
+msgid "Completed"
+msgstr "Dokončeno"
+
+msgid "Needs Action"
+msgstr "Nezahájeno"
+
+msgid "Cancelled"
+msgstr "Zrušeno"
+
+msgid "None"
+msgstr "Žádná"
+
+msgid "High"
+msgstr "Vysoká"
+
+msgid "Normal"
+msgstr "Normálně"
+
+msgid "Low"
+msgstr "Nízká"
+
+msgid "All"
+msgstr "Všechno"
+
+msgid "Active"
+msgstr "Aktivní"
+
+msgid "Dismissed"
+msgstr "Zamítnuto"
+
+msgid "Snoozed"
+msgstr "Odloženo"
+
+msgid "Daily"
+msgstr "Denně"
+
+msgid "Weekly"
+msgstr "Týdně"
+
+msgid "Monthly"
+msgstr "Měsíčně"
+
+msgid "Yearly"
+msgstr "Ročně"
+
+msgid "Private"
+msgstr "Soukromý"
+
+msgid "Public"
+msgstr "Veřejný"
+
+msgid "Confidential"
+msgstr "Důvěrné"
+
+msgid "Default"
+msgstr "Výchozí"
+
+msgid "No priority"
+msgstr "Žádná priorita"
+
+msgid "Normal priority"
+msgstr "Normální priorita"
+
+msgid "High priority"
+msgstr "Vysoká priorita"
+
+msgid "Low priority"
+msgstr "Nízká priorita"
+
+msgid "Created: "
+msgstr "Vytvořeno:"
+
+msgid "Unknown"
+msgstr "Neznámé"
+
+msgid "Modified: "
+msgstr "Upraveno:"
+
+msgid "Copy"
+msgstr "Kopírovat"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Native"
+msgstr "Přirozený"
+
+msgid "Sunday"
+msgstr "Neděle"
+
+msgid "Monday"
+msgstr "Pondělí"
+
+msgid "Tuesday"
+msgstr "Úterý"
+
+msgid "Wednesday"
+msgstr "Středa"
+
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+msgid "Friday"
+msgstr "Pátek"
+
+msgid "Saturday"
+msgstr "Sobota"
+
+msgid "Every second Saturday"
+msgstr "Každou druhou sobotu"
+
+msgid "Start"
+msgstr "Začít"
+
+msgid "Due"
+msgstr "Očekáváno"
+
+msgid "Priority"
+msgstr "Priorita"
+
+msgid "Status"
+msgstr "Stav"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Recurrence"
+msgstr "Opakování"
+
+msgid "Off"
+msgstr "Vypnout"
+
+msgid "Beta"
+msgstr "Beta"
+
+msgid "General"
+msgstr "Obecné"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "%H:%M (např. \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "%#H:%M (např. \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "%I:%M %p (např. \"01:42 pm\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "%#I:%M %p (např. \"3:42 pm\")"
+
+msgid "Time format"
+msgstr "Formát času"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "%d.%#m.%Y (např. \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "%d.%m.%Y (např. \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "%Y-%m-%d (např. \"2012-04-21\")"
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "%#m/%d/%Y (např. \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "%m/%d/%Y (např. \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "Formát datumu"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "Použít 'Dnes' a 'Zítra'"
+
+msgid "Weekend days"
+msgstr "Víkend ( vybrat dny )"
+
+msgid "Week number delta"
+msgstr "Úprava pořadového čísla týdnů"
+
+msgid "Default categories"
+msgstr "Základní kategorie:"
+
+msgid "Show categories from the skin"
+msgstr "Ukázat kategorie motivu"
+
+msgid "Show tray icon"
+msgstr "Ukazovat ikonu vedle hodin (tray)"
+
+msgid "Show tray status icons"
+msgstr "Zobrazit ikony v tray"
+
+msgid "Day number"
+msgstr "Číslo dne"
+
+msgid "Week number"
+msgstr "Číslo týdne"
+
+msgid "Number in tray"
+msgstr "Číslo v tray"
+
+msgid "Always"
+msgstr "Vždy"
+
+msgid "Never"
+msgstr "Nikdy"
+
+msgid "Show full menus"
+msgstr "Zobrazit celé menu"
+
+msgid "Disable keyboard shortcuts"
+msgstr "Zakázat klávesové zkratky"
+
+msgid "List wheel scroll"
+msgstr "Rolovat seznamy kolečkem"
+
+msgid "Skin language"
+msgstr "Jazyk motivu"
+
+msgid "Number of stored backups"
+msgstr "Počet uložených záloh"
+
+msgid "Show delete confirmations"
+msgstr "Zobrazovat potvrzení před mazáním"
+
+msgid "Disable text formatting"
+msgstr "Vypnout formátování textu"
+
+msgid "Show empty list text"
+msgstr "Zobrazit prázdný text seznamu"
+
+msgid "Check for updates"
+msgstr "Zjistit aktualizace"
+
+msgid "Show url icons"
+msgstr "Zobrazit ikony adresy"
+
+msgid "Simultaneous transfers"
+msgstr "Souběžný přenos"
+
+msgid "Only uncategorized"
+msgstr "Pouze nezařazeno"
+
+msgid "Icon from events"
+msgstr "Ikona z událostí"
+
+msgid "Visual category overwrite"
+msgstr "Přepsat kategorie vzhledu"
+
+msgid "Store English category names"
+msgstr "Záloha Anglických názvů kategorií"
+
+msgid "Custom category icon path"
+msgstr "Vlastní cesta kategorie ikony"
+
+msgid "Use antialiased fonts"
+msgstr "Použití vyhlazených fontů"
+
+msgid "Count"
+msgstr "Počítat"
+
+msgid "Ordinal"
+msgstr "Pořadí"
+
+msgid "Type of year to add for categories"
+msgstr "Zadat rok pro přidání do kategorií"
+
+msgid "Use custom password encrypting"
+msgstr "Použít vlastní šifrování hesla"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Allow multiple calendars"
+msgstr "Povolit více kalendářů"
+
+msgid "Allow multiple categories"
+msgstr "Povolit více kategorií"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "Nechat editor otevřený až do úspěšného dopsání"
+
+msgid "Time span in the editor"
+msgstr "Časové rozpětí v editoru"
+
+msgid "Number of previous locations"
+msgstr "Počet předchozích míst"
+
+msgid "Default event duration"
+msgstr "Výchozí doba trvání události"
+
+msgid "Windows"
+msgstr "Okna"
+
+msgid "Use window names"
+msgstr "Použít název okna"
+
+msgid "Hide on Aero peek"
+msgstr "Skrýt při Aero náhledu"
+
+msgid "Transparency type"
+msgstr "Typ průhlednosti"
+
+msgid "Copy transparency sleep time"
+msgstr "Doba zpoždění zkopírování průhlednosti"
+
+msgid "Fade delay (ms)"
+msgstr "Zpoždení vyblednutí (ms)"
+
+msgid "Fade duration (ms)"
+msgstr "Trvání vyblednutí (ms)"
+
+msgid "Allow window fading"
+msgstr "Povolit blednutí okna"
+
+msgid "Keep on screen"
+msgstr "Ponechat na obrazovce"
+
+msgid "Bring all windows on top when clicked"
+msgstr "Po kliknutí zobrazit všechna okna nahoře"
+
+msgid "Show in all desktops"
+msgstr "Zobrazovat na všech plochách"
+
+msgid "Snap distance"
+msgstr "Vzdálenost přichytávání oken"
+
+msgid "Snap center"
+msgstr "Na střed při přichytávání oken"
+
+msgid "Don't save"
+msgstr "Neukládat"
+
+msgid "Per resolution"
+msgstr "Na rozlišení"
+
+msgid "Single value"
+msgstr "Jedna hodnota"
+
+msgid "Save window position"
+msgstr "Uložit pozici okna"
+
+msgid "Font face"
+msgstr "Písmo vzhledu"
+
+msgid "Scaling quality"
+msgstr "Kvalita měřítka"
+
+msgid "Network"
+msgstr "Síť"
+
+msgid "Reload delay after resume (s)"
+msgstr "Zpoždění opětovného načtení po obnovení (s)"
+
+msgid "Network access delay after startup (s)"
+msgstr "Zpoždění přístupu k síti po spuštění (s)"
+
+msgid "Proxy server"
+msgstr "Proxy server"
+
+msgid "Proxy user"
+msgstr "Uživatel proxy"
+
+msgid "Proxy password"
+msgstr "Proxy heslo"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgid "Proxy type"
+msgstr "Typ proxy"
+
+msgid "Try direct connection if proxy fails"
+msgstr "Zkusit přímé spojení, pokud selže proxy"
+
+msgid "Calendar"
+msgstr "Kalendář"
+
+msgid "Show all icons"
+msgstr "Zobrazit všechny ikony"
+
+msgid "Show one icon per type"
+msgstr "Ukázat jednu ikonu za typ"
+
+msgid "Show only one icon"
+msgstr "Zobrazit jen jednu ikonu"
+
+msgid "Show no icons"
+msgstr "Nezobrazovat ikony"
+
+msgid "Combine icons in the calendar"
+msgstr "Kombinovat ikony v kalendáři"
+
+msgid "Calendar wheel scroll"
+msgstr "Rolovat kalendář kolečkem myši"
+
+msgid "Show tasks in calendar"
+msgstr "Zobrazit úkoly v kalendáři"
+
+msgid "Always show menu"
+msgstr "Vždy zobrazit menu"
+
+msgid "Always create new event"
+msgstr "Vždy vytvořit novou událost"
+
+msgid "Do nothing"
+msgstr "Nedělat nic"
+
+msgid "Double click action"
+msgstr "Akce pro dvojklik"
+
+msgid "Tooltip"
+msgstr "Tip"
+
+msgid "Show tooltips"
+msgstr "Zobrazovat tipy"
+
+msgid "Only on days with events"
+msgstr "Pouze ve dnech s událostmi"
+
+msgid "Show tooltip in tray"
+msgstr "Zobrazovat tipy v tray"
+
+msgid "Max tooltip window width"
+msgstr "Maximální šířka bubliny s nápovědou"
+
+msgid "Show description in tooltip"
+msgstr "Zobrazit popis v tooltipu"
+
+msgid "Task fields in tooltip"
+msgstr "Pole úkolu v tooltipu"
+
+msgid "Event fields in tooltip"
+msgstr "Pole události pole v tooltipu"
+
+msgid "Traytip show duration (s)"
+msgstr "Doba trvání zobrazení traytip (s)"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "Trvání vyblednutí tooltipu (ms)"
+
+msgid "Tooltip show delay (ms)"
+msgstr "Zpoždění zobrazení tooltipu (ms)"
+
+msgid "Tooltip format"
+msgstr "Formát tooltipu"
+
+msgid "Task List"
+msgstr "Seznam úkolů"
+
+msgid "Show full task summary"
+msgstr "Zobrazit celé shrnutí úkolů"
+
+msgid "Show task due time"
+msgstr "Zobrazit čas k úkolu"
+
+msgid "Show task location"
+msgstr "Zobrazit umístění úkolu"
+
+msgid "Show task calendar"
+msgstr "Zobrazit kalendář s úkoly"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "Počet dnů v seznamu (0 = zobrazit všechny)"
+
+msgid "Show task time when arranged by start or due date"
+msgstr "Ukáž čas úkolu při seřazení dle začátku nebo konce datumu"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr "%A %d.%#m.%Y (např. \"Pondělí 21.4.2012\")"
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr "%A %d.%m.%Y (např. \"Pondělí 21.04.2012\")"
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr "%A %Y-%m-%d (např. \"Pondělí 2012-04-21\")"
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr "%A %#m/%d/%Y (např. \"Pondělí 4/21/2012\")"
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr "%A %m/%d/%Y (např. \"Pondělí 04/21/2012\")"
+
+msgid "Task list header format"
+msgstr "Formát hlavičky seznamu úkolů"
+
+msgid "<None>"
+msgstr "<Žádná>"
+
+msgid "Default task template"
+msgstr "Výchozí šablona úkolů"
+
+msgid "Event List"
+msgstr "Seznam událostí"
+
+msgid "Show full event summary"
+msgstr "Zobrazit všechny podrobnosti události"
+
+msgid "Show event start time"
+msgstr "Zobrazit čas začátku události"
+
+msgid "Show event end time"
+msgstr "Zobrazit čas konce události"
+
+msgid "Show event location"
+msgstr "Zobrazit místo události"
+
+msgid "Show event calendar"
+msgstr "Zobrazit kalendář událostí"
+
+msgid "Hide dismissed events"
+msgstr "Skrýt zastavené události"
+
+msgid "Hide past events"
+msgstr "Skrýt uplynulé události"
+
+msgid "Number of future days the list shows"
+msgstr "Počet budoucích dnů zobrazených v seznamu"
+
+msgid "Number of past days the list shows"
+msgstr "Počet uplynulých dnů zobrazených v seznamu"
+
+msgid "Age from start of the week"
+msgstr "Doba od začátku týdne"
+
+msgid "Event list header format"
+msgstr "Formát hlavičky seznamu událostí"
+
+msgid "Default event template"
+msgstr "Výchozí šablona událostí"
+
+msgid "No grouping"
+msgstr "Žádné seskupení"
+
+msgid "Start and end dates"
+msgstr "Start a konec dat"
+
+msgid "Start date and duration"
+msgstr "Datum začátku a trvání"
+
+msgid "Group multiday events"
+msgstr "Seskupit déletrvající události"
+
+msgid "Schedule"
+msgstr "Plán"
+
+msgid "Show schedule descriptions"
+msgstr "Zobrazit popis plánu"
+
+msgid "Show schedule start time"
+msgstr "Zobrazit začátek plánu"
+
+msgid "Show schedule end time"
+msgstr "Zobrazit konec plánu"
+
+msgid "Show schedule location"
+msgstr "Zobrazit místo plánu"
+
+msgid "Show schedule calendar"
+msgstr "Zobrazit kalendář plánů"
+
+msgid "Create, move and resize events with mouse"
+msgstr "Vytvářet, přesouvat a měnit velikost události myší"
+
+msgid "First shown hour"
+msgstr "Jako první ukázat hodiny"
+
+msgid "Last shown hour"
+msgstr "Jako poslední ukázat hodiny"
+
+msgid "Alarm"
+msgstr "Upozornění"
+
+msgid "Show alarm start time"
+msgstr "Zobrazit čas začátku upozornění"
+
+msgid "Show alarm end time"
+msgstr "Zobrazit čas ukončení upozornění"
+
+msgid "Show alarm location"
+msgstr "Zobrazit místo upozornění"
+
+msgid "Show alarm calendar"
+msgstr "Zobrazit kalendář upozornění"
+
+msgid "Show due to the event"
+msgstr "Zobrazit očekávané události"
+
+msgid "Support Mozilla alarms"
+msgstr "Podpora Mozilla upozornění"
+
+msgid "Keep alarm always on top"
+msgstr "Zobrazit upozornění vždy navrchu"
+
+msgid "Default snooze time (secs)"
+msgstr "Výchozí čas odloženého alarmu (sek)"
+
+msgid "Max alarm window width"
+msgstr "Maximální šířka okna upozornění"
+
+msgid "Hide from alarm after days"
+msgstr "Skrýt před upozorněním po x dnech"
+
+msgid "Default alarm time (mins)"
+msgstr "Výchozí čas alarmu (min)"
+
+msgid "Default alarm file"
+msgstr "Výchozí soubor zvuku upozornění"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "Nezobrazovat alarm přes celé okno"
+
+msgid "Loop the alarm sound (secs)"
+msgstr "Opakovat zvuk upozornění (sek)"
+
+msgid "Snooze times (mins)"
+msgstr "Interval odložení (min)"
+
+msgid "Create Error!"
+msgstr "Chyba zápisu!"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "Nelze vybrat cílový kalendář pro položku."
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "Nelze vytvořit novou položku z řetězce:\n"
+
+msgid "Parse Error!"
+msgstr "Chyba zpracování!"
+
+msgid "New version found!"
+msgstr "Byla nalezena nová verze!"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"K dispozici je nová verze %s.\n"
+"Chcete přejít na webovou stránku Rainlendaru?"
+
+msgid "No updates available."
+msgstr "Nejsou k dispozici žádné aktualizace."
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "Máte nejnovější verzi Rainlendaru."
+
+msgid "New event"
+msgstr "Nová událost"
+
+msgid "New task"
+msgstr "Nový úkol"
+
+msgid "Refresh"
+msgstr "Obnovit"
+
+msgid "Options..."
+msgstr "Možnosti..."
+
+msgid "Manager..."
+msgstr "Správce..."
+
+msgid "Exit"
+msgstr "Ukončit"
+
+msgid "File"
+msgstr "Soubor"
+
+msgid "View"
+msgstr "Přehled"
+
+msgid "About..."
+msgstr "O programu..."
+
+msgid "Open help\tCtrl+?"
+msgstr "Otevřít nápovědu\tCtrl+?"
+
+msgid "Help"
+msgstr "Nápověda"
+
+msgid "About"
+msgstr "O programu"
+
+msgid "Calendars"
+msgstr "Kalendáře"
+
+msgid "Choose day"
+msgstr "Vyberte den"
+
+msgid "Choose month"
+msgstr "Vyberte měsíc"
+
+msgid "Install license..."
+msgstr "Instalace licence..."
+
+msgid "Show debug log"
+msgstr "Zobrazit zápis ladění"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+msgid "Enable all calendars"
+msgstr "Povolit všechny kalendáře"
+
+msgid "Disable all calendars"
+msgstr "Zakázat všechny kalendáře"
+
+msgid "Current Day"
+msgstr "Aktuální den"
+
+msgid "Next Day"
+msgstr "Příští den"
+
+msgid "Previous Day"
+msgstr "Předchozí den"
+
+msgid "Next Week"
+msgstr "Příští týden"
+
+msgid "Previous Week"
+msgstr "Předchozí týden"
+
+msgid "Next Month"
+msgstr "Další měsíc"
+
+msgid "Previous Month"
+msgstr "Předchozí měsíc"
+
+msgid "Current Month"
+msgstr "Aktuální měsíc"
+
+msgid "Next Year"
+msgstr "Příští rok"
+
+msgid "Previous Year"
+msgstr "Předchozí rok"
+
+msgid "Home"
+msgstr "Domovská stránka"
+
+msgid "Right"
+msgstr "Vpravo"
+
+msgid "Left"
+msgstr "Vlevo"
+
+msgid "Up"
+msgstr "Nahoru"
+
+msgid "Down"
+msgstr "Dolů"
+
+msgid "January"
+msgstr "Leden"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+msgid "February"
+msgstr "Únor"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+msgid "March"
+msgstr "Březen"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+msgid "April"
+msgstr "Duben"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+msgid "May"
+msgstr "Květen"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+msgid "June"
+msgstr "Červen"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+msgid "July"
+msgstr "Červenec"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+msgid "August"
+msgstr "Srpen"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+msgid "September"
+msgstr "Září"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+msgid "October"
+msgstr "Říjen"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+msgid "November"
+msgstr "Listopad"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+msgid "December"
+msgstr "Prosinec"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+msgid "Visible"
+msgstr "Viditelný"
+
+msgid "More settings..."
+msgstr "Více nastavení..."
+
+msgid "Today"
+msgstr "Dnes"
+
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+msgid "Show all windows"
+msgstr "Zobrazit všechna okna"
+
+msgid "Hide all windows"
+msgstr "Skrýt všechna okna"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "Licenční soubory (*.r2lic)|*.r2lic"
+
+msgid "Choose the license file"
+msgstr "Vybrat licenční soubor"
+
+msgid "*Empty*"
+msgstr "*Prázdné*"
+
+msgid "This instance"
+msgstr "Tato instance"
+
+msgid "Whole event"
+msgstr "Celá událost"
+
+msgid "All following"
+msgstr "Všechny následující"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Do you want to delete this item?"
+msgstr "Chcete odstranit tuto položku?"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"Toto je opakující se položka:\n"
+"\n"
+"%s\n"
+"\n"
+"Můžete odstranit pouze tuto instanci (%s), všechny následující události nebo "
+"celou opakující se událost."
+
+msgid "The item is read only and cannot be deleted."
+msgstr "Položka je pouze pro čtení a nelze ji smazat."
+
+msgid "Unable to delete the item."
+msgstr "Položku nelze smazat."
+
+msgid "Do you want to delete these items?"
+msgstr "Chcete odstranit tyto položky?"
+
+msgid "The item is read only and cannot be moved."
+msgstr "Položka je pouze pro čtení a nelze ji přesunout."
+
+msgid "Unable to move the item."
+msgstr "Položku nelze přesunout."
+
+msgid "Choose a directory"
+msgstr "Vybrat adresář"
+
+msgid "Version"
+msgstr "Verze"
+
+msgid "Built on"
+msgstr "Postaveno na"
+
+msgid "Developed by"
+msgstr "Vyvinuto"
+
+msgid "Translated (%s) by"
+msgstr "Přeložil (%s)"
+
+msgid "Licensed to"
+msgstr "Licence"
+
+msgid "Plugins"
+msgstr "Pluginy"
+
+msgid "Links"
+msgstr "Odkazy"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Forum"
+msgstr "Fórum"
+
+msgid "Menu icons by"
+msgstr "Ikony menu od"
+
+msgid "Application icon by"
+msgstr "Ikona aplikace dle"
+
+msgid "Copyrights"
+msgstr "Copyright"
+
+msgid "Please wait..."
+msgstr "Prosím čekejte..."
+
+msgid "Check for update"
+msgstr "Zjistit aktualizace"
+
+msgid "Choose Alarm"
+msgstr "Vyberte upozornění"
+
+msgid "All files (*.*)|*.*"
+msgstr "Všechny soubory (*.*)|*.*"
+
+msgid "Change Fields"
+msgstr "Změnit pole"
+
+msgid "%i events selected"
+msgstr "%i událostí vybráno"
+
+msgid "%i tasks selected"
+msgstr "%i vybraných úkolů"
+
+msgid "End time:"
+msgstr "Čas konce:"
+
+msgid "Due time:"
+msgstr "Čas vypršení:"
+
+msgid "Add new alarm"
+msgstr "Přidat nové upozornění"
+
+msgid "Are you sure you want to do this?"
+msgstr "Jste si jisti, že to chcete udělat?"
+
+msgid "The selected fields will be changed to %i items."
+msgstr "Vybrané pole bude změněno na %i položky."
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr ""
+"Není možné zrušit tuto operaci, klikněte na \"Yes\" pouze tehdy, pokud jste "
+"si naprosto jisti, že víte, co děláte."
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr ""
+"Mějte na paměti, že změna typu mezi událostí a úkolem povede k určité ztrátě "
+"dat."
+
+msgid "Categories"
+msgstr "Kategorie"
+
+msgid "Add..."
+msgstr "Přidat..."
+
+msgid "Clear"
+msgstr "Vyčistit"
+
+msgid "Remove"
+msgstr "Odebrat"
+
+msgid "Values"
+msgstr "Hodnoty"
+
+msgid "Please give a name for the category"
+msgstr "Zadejte prosím název pro kategorii"
+
+msgid "Enter text"
+msgstr "Vložit text"
+
+msgid "Unable to create the category!"
+msgstr "Nepodařilo se vytvořit kategorii!"
+
+msgid "You must give a name for the category."
+msgstr "Musíte dát kategorii nějaký název."
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "Znak '/' není povolen v názvu."
+
+msgid "A category called \"%s\" already exists."
+msgstr "Kategorie nazvaná \"%s\" již existuje."
+
+msgid "Link start and end dates"
+msgstr "Spojte data začátku a ukončení"
+
+msgid "Save\tCtrl+S"
+msgstr "Uložit\tCtrl+S"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "Uložit jako\tShift+Ctrl+S"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "Uložit do souboru...\tAlt+Ctrl+S"
+
+msgid "Print...\tCtrl+P"
+msgstr "Tisk...\tCtrl+P"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "Smazat\tCtrl+Delete"
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "Zavřít && Akceptovat\tCtrl+Enter"
+
+msgid "Close\tCtrl+W"
+msgstr "Zavřít\tCtrl+W"
+
+msgid "Close\tAlt-F4"
+msgstr "Zavřít\tAlt-F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "Vybraný kalendář nepodporuje opakování."
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr "Alarm nebude zobrazen, protože kalendář má nastaveno ignorovat alarmy."
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr "Alarm nebude zobrazen, protože skin nemá okno pro alarm."
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr "Úkol je pouze pro čtení a úpravy nelze uložit."
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr "Událost je jen pro čtení a úpravy nelze uložit."
+
+msgid "The task is from a read-only calendar."
+msgstr "Úkol z kalendáře je jen pro čtení."
+
+msgid "The event is from a read-only calendar."
+msgstr "Událost z kalendáře je jen pro čtení."
+
+msgid "There are no calendars available which can store tasks."
+msgstr "Nejsou k dispozici žádné kalendáře, do kterých lze ukládat úkoly."
+
+msgid "There are no calendars available which can store events."
+msgstr "K dispozici nejsou žádné kalendáře, do kterých lze ukládat události."
+
+msgid "No target calendar has been selected."
+msgstr "Nebyl vybrán žádný cílový kalendář."
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr "Původní popis je v HTML a nelze jej upravovat."
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"Není vybrán žádný kalendář pro položku. Prosím vyberte kalendář, kde chcete "
+"položku uložit."
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"Nejsou žádné platné kalendáře, kde může být položka uložena. Musíte jít do "
+"Možnosti a vytvořit nový kalendář pro položku. Mějte na paměti, že některé "
+"kalendáře nepodporují Události a Úkoly dohromady."
+
+msgid "Unable to save the item."
+msgstr "Nepodařilo se uložit položku!"
+
+msgid "Updating"
+msgstr "Aktualizace"
+
+msgid "Do you want to save the changes?"
+msgstr "Chcete uložit změny?"
+
+msgid "You have made some changes to the fields."
+msgstr "Provedli jste nějaké změny v polích."
+
+msgid "&Save"
+msgstr "&Uložit"
+
+msgid "&Discard"
+msgstr "&Zrušit"
+
+msgid "&Cancel"
+msgstr "&Zrušit"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Chcete odstranit tuto položku?"
+
+msgid "Event"
+msgstr "Událost"
+
+msgid "Choose a file"
+msgstr "Vybrat soubor"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "Soubory iCalendar (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "Vybrat kalendáře:"
+
+msgid "Select the categories:"
+msgstr "Vybrat kategorie:"
+
+msgid "before the event starts."
+msgstr "do začátku události."
+
+msgid "before the task is due."
+msgstr "před vypšením."
+
+msgid "Set alarm sound"
+msgstr "Nastavit zvuk upozornění"
+
+msgid "Current alarm: "
+msgstr "Aktuální alarm:"
+
+msgid "Remove alarm"
+msgstr "Odebrat upozornění"
+
+msgid "Minutes"
+msgstr "Minut"
+
+msgid "Hours"
+msgstr "Hodin"
+
+msgid "Days"
+msgstr "Dnů"
+
+msgid "Alert"
+msgstr "Upozornění"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "Pro událost nelze najít žádné záznamy. Událost nebyla uložena."
+
+msgid "On the %s day of the month"
+msgstr "%s den v měsíci"
+
+msgid "first"
+msgstr "první"
+
+msgid "second"
+msgstr "druhý"
+
+msgid "third"
+msgstr "třetí"
+
+msgid "fourth"
+msgstr "čtvrtý"
+
+msgid "fifth"
+msgstr "pátý"
+
+msgid "On the %s %s of the month"
+msgstr "%s %s v měsíci"
+
+msgid "On the last %s of the month"
+msgstr "Poslední %s v měsíci"
+
+msgid "On the first weekday of the month"
+msgstr "První víkend v měsíci"
+
+msgid "On the last weekday of the month"
+msgstr "Poslední víkend v měsíci"
+
+msgid "On the last day of the month"
+msgstr "Poslední den v měsíci"
+
+msgid "Please give a name for the template"
+msgstr "Zadejte prosím název šablony"
+
+msgid "Unable to create the template!"
+msgstr "Nepodařilo se vytvořit šablonu!"
+
+msgid "You must give a name for the template."
+msgstr "Musíte dát šabloně nějaký název."
+
+msgid "A template called \"%s\" already exists."
+msgstr "Šablona nazvaná „%s“ již existuje."
+
+msgid "Do you want to overwrite the template?"
+msgstr "Chcete přepsat tuto šablonu?"
+
+msgid "Choose the template to delete:"
+msgstr "Vybrat šablonu k odstranění:"
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "Vybrat šablonu použitou pro nové úkoly:"
+
+msgid "Choose the template which is used for new events:"
+msgstr "Vybrat šablonu použitou pro nové události:"
+
+msgid "Save as template..."
+msgstr "Uložit jako šablonu…"
+
+msgid "Delete template..."
+msgstr "Smazat šablonu…"
+
+msgid "Set the default template..."
+msgstr "Nastavit výchozí šablonu..."
+
+msgid "Template"
+msgstr "Šablona"
+
+msgid "Select the day range"
+msgstr "Vybrat denní rozpětí"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"Tento exportér není schopen uložit opakující se události takže potřebují být "
+"převedeny na jednotlivé případy. Prosím, definujte denní rozsah, který bude "
+"uložen do souboru."
+
+msgid "From:"
+msgstr "Od:"
+
+msgid "To:"
+msgstr "Do:"
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "Čas ukončení nemůže být dřívější než čas začátku."
+
+msgid "Birthday"
+msgstr "Narozeniny"
+
+msgid "Anniversary"
+msgstr "Výročí"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Vytvořili jste narozeniny nebo výročí, ale nenastavili jste žádné "
+"opakování.\n"
+"Chcete, aby se událost opakovala každý rok?"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Warning"
+msgstr "Varování"
+
+msgid "Question"
+msgstr "Otázka"
+
+msgid "Information"
+msgstr "Informace"
+
+msgid "Do not show this again"
+msgstr "Nezobrazovat znovu"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "&Yes"
+msgstr "&Ano"
+
+msgid "&No"
+msgstr "&Ne"
+
+msgid "Manager"
+msgstr "Správce"
+
+msgid "Events"
+msgstr "Události"
+
+msgid "Tasks"
+msgstr "Úkoly"
+
+msgid "Show original"
+msgstr "Zobrazit původní"
+
+msgid "Show current"
+msgstr "Zobrazit aktuální"
+
+msgid "Show upcoming"
+msgstr "Zobrazit nadcházející"
+
+msgid "New"
+msgstr "Nový"
+
+msgid "Edit"
+msgstr "Upravit"
+
+msgid "Delete"
+msgstr "Smazat"
+
+msgid "Copy to"
+msgstr "Kopírovat do"
+
+msgid "Move to"
+msgstr "Přesunout do"
+
+msgid "Change fields"
+msgstr "Změnit pole"
+
+msgid "Import"
+msgstr "Importovat"
+
+msgid "Export"
+msgstr "Exportovat"
+
+msgid "Print..."
+msgstr "Vytisknout..."
+
+msgid "Backup"
+msgstr "Zálohovat"
+
+msgid "Restore"
+msgstr "Obnovit"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "Select all"
+msgstr "Vybrat vše"
+
+msgid "Select none"
+msgstr "Nevybrat nic"
+
+msgid "Toggle selection"
+msgstr "Přepnout výběr"
+
+msgid "Select duplicates"
+msgstr "Vybrat duplikáty"
+
+msgid "Sort by due time"
+msgstr "Řadit dle konečného času"
+
+msgid "Sort by end time"
+msgstr "Řadit dle času konce"
+
+msgid "Sort by summary"
+msgstr "Řadit dle shrnutí"
+
+msgid "Sort by location"
+msgstr "Řadit dle umístění"
+
+msgid "Sort by calendar"
+msgstr "Řadit dle kalendáře"
+
+msgid "Sort by category"
+msgstr "Řadit dle kategorie"
+
+msgid "Sort by url"
+msgstr "Řadit dle adresy"
+
+msgid "Sort by repeat"
+msgstr "Řadit dle opakování"
+
+msgid "Sort by priority"
+msgstr "Řadit dle priority"
+
+msgid "Sort by status"
+msgstr "Řadit dle statusu"
+
+msgid "Sort by create time"
+msgstr "Řadit podle času vytvoření"
+
+msgid "Sort by modify time"
+msgstr "Řadit podle času úpravy"
+
+msgid "Sort by start time"
+msgstr "Řadit dle času začátku"
+
+msgid "Start time"
+msgstr "Čas začátku"
+
+msgid "End time"
+msgstr "Čas konce"
+
+msgid "Summary"
+msgstr "Shrnutí"
+
+msgid "Location"
+msgstr "Místo"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Create time"
+msgstr "Vytvořit čas"
+
+msgid "Modify time"
+msgstr "Upravit čas"
+
+msgid "Reverse sorting"
+msgstr "Obrácené řazení"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "Celkem: %i (Vybrané: %i)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr ""
+"Otevření mnoha položek pro editaci může trvat dlouhou dobu. Jste si jisti, "
+"že to chcete udělat?"
+
+msgid "Do you want to delete the selected item?"
+msgstr "Chcete smazat vybranou položku?"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "Chcete smazat vybrané%i  položky?"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr "Vybraná položka je pouze pro čtení a nelze ji odstranit."
+
+msgid "There were %i read only items which were not deleted."
+msgstr "Bylo tam %i položek pouze pro čtení, které nebyly smazány."
+
+msgid "Unable to delete some items."
+msgstr "Nelze smazat některé položky."
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "Vyberte kalendář kam by měly být položky zkopírovány:"
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "Vyberte kalendář kam by měly být položky přesunuty:"
+
+msgid "Operation failed!"
+msgstr "Operace selhala!"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr "Nejsou k dispozici žádné kalendáře pro uložení položek."
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"Přesun položek do online kalendáře není bezpečný. Pokud cílový kalendář "
+"nepřijme položky z důvodu problémů se sítí nebo z nějakého jiného důvodu, "
+"ztratíte všechny přesunuté události.\n"
+"\n"
+"Takže klikněte na „Ano“, pouze pokud jste si zcela jisti, že víte, co děláte."
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "Přesunuto %i položek do těchto kalendářů:\n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "Zkopírováno%i položek do těchto kalendářů:\n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"Důležité! Kopírování položek do online kalendáře trvá nějakou chvíli,takže "
+"nebudou do skončení operace dostupné."
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr "Některé položky jsou jen pro čtení a místo přesunutí byly zkopírovány."
+
+msgid "Operation finished!"
+msgstr "Operace dokončena!"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "Musíte vybrat nejméně jeden kalendář pro události."
+
+msgid "Backup was successful."
+msgstr "Zálohování bylo úspěšné."
+
+msgid "The backup contains these files:"
+msgstr "Záloha obsahuje tyto soubory:"
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"Pozor! Záložní kopie neobsahuje žádné iCalendar soubory. Pokud máte nějaké "
+"lokálně uložené události nebo úkoly, musíte je zálohovat ručně."
+
+msgid "Unable to create the backup file."
+msgstr "Nepodařilo se vytvořit záložní soubor."
+
+msgid "The archive contains unknown files:\n"
+msgstr "Tento archiv obsahuje neznáme soubory:\n"
+
+msgid "Restore was successful."
+msgstr "Obnovení bylo úspěšné."
+
+msgid "There were problems during the restore."
+msgstr "Vyskytly se problémy během obnovení."
+
+msgid "Exported %i events successfully."
+msgstr "Úspěšně exportováno %i událostí."
+
+msgid "Exported %i todo items successfully."
+msgstr "Úspěšně exportováno %i položek."
+
+msgid "Export failed!"
+msgstr "Export selhal!"
+
+msgid "Import failed!"
+msgstr "Import selhal!"
+
+msgid "Options"
+msgstr "Možnosti"
+
+msgid "Skins"
+msgstr "Motivy"
+
+msgid "Hotkeys"
+msgstr "Klávesové zkratky"
+
+msgid "Advanced"
+msgstr "Pokročilé"
+
+msgid "Reset all settings"
+msgstr "Obnovit všechna nastavení"
+
+msgid "Reset offline copy"
+msgstr "Obnovit offline kopii"
+
+msgid "Authenticate"
+msgstr "Ověřit"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Get more languages..."
+msgstr "Stáhnout jiné jazyky..."
+
+msgid "On Top"
+msgstr "Nahoře"
+
+msgid "On Bottom"
+msgstr "Dole"
+
+msgid "On Desktop"
+msgstr "Na ploše"
+
+msgid "Get more skins..."
+msgstr "Stáhnout jiné motivy..."
+
+msgid "TrayIcon"
+msgstr "Ikona v tray"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Homepage"
+msgstr "Domovská stránka"
+
+msgid "Addons"
+msgstr "Rozšíření"
+
+msgid "Version history"
+msgstr "Historie verzí"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "Tento motiv je zastaralý. Některé z funkcí možná nebudou podporovány."
+
+msgid "Advanced >>>"
+msgstr "Pokročilé >>>"
+
+msgid "<<< Simple"
+msgstr "<<< Základní"
+
+msgid "Open containing folder"
+msgstr "Otevřít obsahující složku"
+
+msgid "Custom categories are not supported."
+msgstr "Vlastní kategorie nejsou podporovány."
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr ""
+"Motiv \"%s\" nepodporuje vlastní kategorii vzhledů, takže ho není možné "
+"upravovat."
+
+msgid "Activate only default windows?"
+msgstr "Aktivovat pouze výchozí okna?"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr "Chcete aktivovat pouze výchozí okna nebo všechna okna?"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr "Aktivace všech oken může snížit výkon."
+
+msgid "&Default"
+msgstr "&Výchozí"
+
+msgid "&All"
+msgstr "&Vše"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"Aktivujte úpravu pole a stiskněte klávesovou zkratku. Všimněte si, že "
+"klávesové zkratky jsou globální a budou mít vliv i na ostatní aplikace, "
+"proto je nedělejte příliš jednoduché."
+
+msgid "Hotkey"
+msgstr "Klávesová zkratka"
+
+msgid "Function"
+msgstr "Funkce"
+
+msgid "Search:"
+msgstr "Hledat:"
+
+msgid "Do you want to reset all settings?"
+msgstr "Chcete obnovit všechna nastavení?"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"Všechna nastavení budou resetována do původních hodnot. Výchozí nastavení "
+"bude aplikováno okamžitě. Chcete pokračovat?"
+
+msgid "Common"
+msgstr "Společný"
+
+msgid "Enabled"
+msgstr "Povoleno"
+
+msgid "Read only"
+msgstr "Pouze pro čtení"
+
+msgid "Ignore alarms"
+msgstr "Ignorovat upozornění"
+
+msgid "Default alarm (minutes)"
+msgstr "Výchozí alarm (minuty)"
+
+msgid "Visual category"
+msgstr "Kategorie vzhledu"
+
+msgid "Time offset (mins)"
+msgstr "Časový posun (min)"
+
+msgid "Time zone"
+msgstr "Časové pásmo"
+
+msgid "Copy of %s"
+msgstr "Kopie %s"
+
+msgid "Please enter a name for the calendar."
+msgstr "Prosím zadejte název kalendáře."
+
+msgid "Illegal character!"
+msgstr "Nepřípustný znak!"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "Není dovoleno používat '/' nebo ';' znaky v názvu."
+
+msgid "A calendar called \"%s\" already exists."
+msgstr "Kalendář nazvaný \"%s\" již existuje."
+
+msgid "Choose another name."
+msgstr "Vyberte jiný název"
+
+msgid "Authentication failure"
+msgstr "Selhání autentizace"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr ""
+"Proces OAuth se nezdařil. Rainlendar nemá přístup k vašim datům kalendáře."
+
+msgid "Do you want to delete the skin?"
+msgstr "Chcete odstranit tento motiv?"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"Pokud zvolíte ano, bude motiv \"%s\"\n"
+"natrvalo odstraněn."
+
+msgid "Delete failed!"
+msgstr "Mazání selhalo!"
+
+msgid "Unable to delete the skin."
+msgstr "Nelze smazat tento motiv."
+
+msgid "Print"
+msgstr "Vytisknout..."
+
+msgid "Print items"
+msgstr "Tisknout položky"
+
+msgid "End"
+msgstr "Konec"
+
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Variables"
+msgstr "Proměnné"
+
+msgid "Window settings"
+msgstr "Nastavení okna"
+
+msgid "Settings can be shown only for a single window."
+msgstr "Nastavení mohou být zobrazena pouze pro jedno okno."
+
+msgid "No settings available."
+msgstr "Není k dispozici žádné nastavení."
+
+msgid "Global variables"
+msgstr "Globální proměnné"
+
+msgid "Grow upwards"
+msgstr "Růst nahoru"
+
+msgid "Window position"
+msgstr "Pozice okna"
+
+msgid "Disabled"
+msgstr "Zakázáno"
+
+msgid "Click through"
+msgstr "Proklik"
+
+msgid "Scale"
+msgstr "Rozměr"
+
+msgid "Filters"
+msgstr "Filtry"
+
+msgid "Included calendars"
+msgstr "Zahrnout kalendáře"
+
+msgid "Excluded calendars"
+msgstr "Vyloučit kalendáře"
+
+msgid "Included categories"
+msgstr "Zahrnout kategorie:"
+
+msgid "Excluded categories"
+msgstr "Vyloučit kategorie:"
+
+msgid "Task list"
+msgstr "Seznam úkolů"
+
+msgid "Alphabetically"
+msgstr "Podle abecedy"
+
+msgid "By Category"
+msgstr "Podle kategorie"
+
+msgid "By Due Date"
+msgstr "Podle konečného data"
+
+msgid "By Start Date"
+msgstr "Podle počátečního data"
+
+msgid "By Status"
+msgstr "Podle stavu"
+
+msgid "By Priority"
+msgstr "Podle priority"
+
+msgid "By Location"
+msgstr "Podle místa"
+
+msgid "By Calendar"
+msgstr "Podle kalendáře"
+
+msgid "Custom"
+msgstr "Vlastní"
+
+msgid "Primary sort order"
+msgstr "Primární řazení"
+
+msgid "Secondary sort order"
+msgstr "Sekundární řazení"
+
+msgid "Reverse primary sorting"
+msgstr "Obrácené primární řazení"
+
+msgid "Reverse secondary sorting"
+msgstr "Obrácené druhotné řazení"
+
+msgid "Empty at top"
+msgstr "Nahoře prázdné"
+
+msgid "Hide completed tasks"
+msgstr "Skrýt dokončené úkoly"
+
+msgid "Hide canceled tasks"
+msgstr "Skrýt zrušené úkoly"
+
+msgid "Hide upcoming tasks"
+msgstr "Skrýt aktuální úkoly"
+
+msgid "Event list"
+msgstr "Seznam událostí"
+
+msgid "Show empty days"
+msgstr "Zobrazit prázdné dny"
+
+msgid "Window variables"
+msgstr "Proměnné okna"
+
+msgid "Appearance"
+msgstr "Vzhled"
+
+msgid "Operations"
+msgstr "Operace"
+
+msgid "Left click"
+msgstr "Levý klik"
+
+msgid "Right click"
+msgstr "Pravý klik"
+
+msgid "Double left click"
+msgstr "Levý dvojklik"
+
+msgid "Double right click"
+msgstr "Pravý dvojklik"
+
+msgid "Local"
+msgstr "Lokální"
+
+msgid "Task"
+msgstr "Úkol"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr "Konečné datum musí být nastaveno před definováním opakování."
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "Čas splatnosti nemůže být dříve než čas začátku."
+
+msgid "Unable to add new alarm!"
+msgstr "Nelze přidat nový alarm!"
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr ""
+"Konečné datum musí být úkolu zadáno před tím, než může obsahovat alarmy."
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "Upgradujte na Pro verzi před instalováním licence."
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"Stále používáte Lite verzi, která neobsahuje vlastnosti Pro verze. Musíte "
+"navštívit domovskou stránku Rainlanderu a stáhnout Pro verzi."
+
+msgid "&Get Pro"
+msgstr "&Získat Pro"
+
+msgid "&Ignore"
+msgstr "&Ignorovat"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"Pokud jste stáhli .r2skin nebo .r2lang soubor a váš\n"
+"prohlížeč změnil koncovku na .zip, můžete soubor přejmenovat\n"
+"zpět jak byl a znovu naimportovat."
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Zip archivy nemohou být importovány do Rainlendaru."
+
+msgid "Unknown file \"%s\"."
+msgstr "Neznámý soubor \"%s\"."
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "Tento soubor nemohl být importován do Rainlendaru."
+
+msgid "Installation failed!"
+msgstr "Instalace se nezdařila!"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Nelze zkopírovat soubor. Zdrojové umístění je stejné jako cílové."
+
+msgid "Unable to install the file \"%s\"."
+msgstr "Nepodařilo se nainstalovat soubor „%s“."
+
+msgid "The folder does not have write permissions."
+msgstr "K této složce nejsou oprávnění k zápisu."
+
+msgid "The skin %s doesn't exist."
+msgstr "Motiv %s neexistuje."
+
+msgid "Unable to merge the addon."
+msgstr "Nelze sloučit rozšíření."
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"Soubor \"%s\" již existuje.\n"
+"Chcete ho přepsat?"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Soubor již existuje. Chcete ho přepsat?"
+
+msgid "Unable to install the skin!"
+msgstr "Nepodařilo se nainstalovat motiv!"
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"Motiv neobsahuje \"skin.xml\" soubor. Jste si jisti, že to je xml formát "
+"Rainlendar motivu?"
+
+msgid "The installation was successful!"
+msgstr "Instalace byla úspěšná!"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "Soubor \"%s\" byl úspěšně nainstalován.."
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr "Chcete-li zobrazit změny, obnovte Rainlendar."
+
+msgid "&Refresh"
+msgstr "&Obnovit"
+
+msgid "The installation failed!"
+msgstr "Instalace se nezdařila!"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr "Instalace souboru \"%s\"  se nezdařila!"
+
+msgid "Select the calendar for the imported items:"
+msgstr "Vybrat kalendář pro importované položky:"
+
+msgid "There are no calendars available that are able to store the item."
+msgstr "Nejsou k dispozici žádné kalendáře pro uložení položek."
+
+msgid "Imported %i items successfully."
+msgstr "Úspěšně importováno %i položek."
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Musíte vybrat nejméně jeden kalendář pro importované události."
+
+msgid "Version mismatch!"
+msgstr "Neshoda verze!"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr ""
+"Tento doplněk skinu je určen pro verzi %s skinu. Nainstalovaná verze je %s."
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "Chcete pokračovat? (Skin se může zničit)"
+
+msgid "&Continue"
+msgstr "&Pokračovat"
+
+msgid "Ca&ncel"
+msgstr "Zrušit"
+
+msgid "Failed to install \"%s\"."
+msgstr "Instalace \"%s\" se nezdařila."
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"Rozšíření motivu již bylo aplikováno na motiv.\n"
+"Stejné rozšíření můžete aplikovat pouze jednou do motivu."
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Nelze vytvořit dočasný adresář, kde by bylo sloučeno rozšíření."
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Control"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Alt"
+
+msgid "Back"
+msgstr "Zpět"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Return"
+msgstr "Enter"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Space"
+msgstr "Mezerník"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "NumLock"
+msgstr "NumLock"
+
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+msgid "Edit \"%s\""
+msgstr "Upravit \"%s\""
+
+msgid "Delete all"
+msgstr "Smazat vše"
+
+msgid "Dismiss alarm"
+msgstr "Zrušit alarm"
+
+msgid "Tomorrow"
+msgstr "Zítra"
+
+msgid "Yesterday"
+msgstr "Včera"
+
+msgid "Last %1"
+msgstr "Poslední %1"
+
+msgid "%1 next week"
+msgstr "%1 příští týden"
+
+msgid "%1 last week"
+msgstr "%1 minulý týden"
+
+msgid "%1 %2 weeks ago"
+msgstr "Před %1 %2 týdny"
+
+msgid "%1 in %2 weeks"
+msgstr "%1 za %2 týdnů"
+
+msgid " (Due in %s)"
+msgstr " (Očekáváno za %s)"
+
+msgid " (Overdue %s)"
+msgstr " (Zpoždění %s)"
+
+msgid "day"
+msgstr "den"
+
+msgid "days"
+msgstr "dny"
+
+msgid "hour"
+msgstr "hodina"
+
+msgid "hours"
+msgstr "hodiny"
+
+msgid "minute"
+msgstr "minuta"
+
+msgid "minutes"
+msgstr "minut"
+
+msgid " (Due now)"
+msgstr " (Očekáváno teď)"
+
+msgid "before target"
+msgstr "před cílem"
+
+msgid "Snooze"
+msgstr "Odložení"
+
+msgid "Dismiss"
+msgstr "Zastavit"
+
+msgid "Edit..."
+msgstr "Upravit..."
+
+msgid "Move to next day"
+msgstr "Přesunout na další den"
+
+msgid " (%i days)"
+msgstr " (%i dnů)"
+
+msgid "Edit event"
+msgstr "Upravit událost"
+
+msgid "Delete event"
+msgstr "Smazat událost"
+
+msgid "[Due %x]"
+msgstr "[Přesně %x]"
+
+msgid "No location"
+msgstr "Žádné umístění"
+
+msgid "No category"
+msgstr "Bez kategorie"
+
+msgid "No due date"
+msgstr "Není datum očekávání"
+
+msgid "No start date"
+msgstr "Není počáteční datum"
+
+msgid "High Priority"
+msgstr "Vysoká priorita"
+
+msgid "Medium Priority"
+msgstr "Střední priorita"
+
+msgid "Low Priority"
+msgstr "Nízká priorita"
+
+msgid "No Priority"
+msgstr "Bez priority"
+
+msgid "Medium"
+msgstr "Střední"
+
+msgid "Expand"
+msgstr "Rozbalit"
+
+msgid "Collapse"
+msgstr "Sbalit"
+
+msgid "New subtask"
+msgstr "Nový dílčí úkol"
+
+msgid "Edit task"
+msgstr "Upravit úkol"
+
+msgid "Delete task"
+msgstr "Smazat úkol"
+
+msgid "Todo list"
+msgstr "Seznam úkolů"
+
+msgid "Completed to now"
+msgstr "Nyní dokončeno"
+
+msgid "No events today."
+msgstr "Dnes nejsou žádné události."
+
+msgid "Today's events:"
+msgstr "Dnešní události:"
+
+msgid "Invalid plugins found!"
+msgstr "Nalezeny neplatné pluginy!"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"Následující soubory v adresáři pluginů\n"
+"jsou neplatné a měly by být odstraněny:\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"Ujistěte se, že všechny pluginy jsou ze stejné Rainlendar verze."
+
+msgid "allow multiple instances"
+msgstr "povolit více instancí"
+
+msgid "install a skin or a language"
+msgstr "nainstalovat motivn nebo jazyk"
+
+msgid "import the given file"
+msgstr "importovat soubor"
+
+msgid "path where the configuration file will be stored"
+msgstr "cesta ke konfiguračním souborům"
+
+msgid "execute the given function in a script"
+msgstr "spustit funkci ve skriptu"
+
+msgid "path where the log file will be stored"
+msgstr "cesta k logovacímu souboru"
+
+msgid "path where the backups will be stored"
+msgstr "cesta k záložnímu souboru"
+
+msgid "add event or task to the calendar"
+msgstr "Přidat událost nebo úkol do kalendáře"
+
+msgid "enable verbose logging"
+msgstr "povolit detailní logování"
+
+msgid "enable debug logging"
+msgstr "povolit ladící logování"
+
+msgid "disable all logging"
+msgstr "zakázat veškeré protokolování"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr "neukazuj okno hlášení po importování a instalování souborů"
+
+msgid "Do you want to start another instance?"
+msgstr "Chcete spustit další žádost?"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"Rainlendar se zdá být již spuštěn. Můžete spustit další žádost výběrem 'Ano'."
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"Pokud toto není případ a tato otázka vyskočí pokaždé při spuštění "
+"Rainlendaru, prosím odstraňte soubor:\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Nelze načíst zdroje z cesty:\n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "Mějte na paměti, že vaše události a úkoly budou ponechány beze změny."
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"Soubor nastavení chybí nebo je prázdný.\n"
+"Chcete jej obnovit z nejnovějšího záložního souboru?"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Nelze vytvořit konfigurační soubor:\n"
+"\n"
+"%s\n"
+"\n"
+"Ujistěte se, že máte k této složce práva zápisu."
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"Konfigurační soubor není zapisovatelný:\n"
+"\n"
+"%s\n"
+"\n"
+"Ujistěte se, že k této složce jsou práva k zápisu."
+
+msgid "You won't be able to store any settings permanently."
+msgstr "Nebudete schopni permanentně skladovat žádná nastavení."
+
+msgid "This is a BETA version."
+msgstr "Toto je BETA verze."
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"Používáte BETA verzi Rainlendaru. To znamená, že software nebyl testován a "
+"není vhodný pro každodenní použití.\n"
+"\n"
+"Oznamte prosím všechny chyby na BETA fórum Rainlendaru na www.rainlendar."
+"net\n"
+"\n"
+"(Tato zpráva se zobrazí pouze jednou)"
+
+msgid "Google Calendar support has been changed"
+msgstr "Podpora Google Calendar byla změněna"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"Podpora Kalendáře Google nyní používá jiný typ kalendáře. Chcete-li znovu "
+"zobrazit události Google, musíte vytvořit nový kalendář a vybrat 'Kalendář "
+"Google (v3)' jako typ kalendáře."
+
+msgid "Everything is hidden."
+msgstr "Všechno je skryto."
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"Vypadá to, že byla všechna okna a ikona v tray skryta.\n"
+"Je to váš záměr?\n"
+"\n"
+"Zvolte „Ano“, pokud chcete ponechat všechno skryté a už nechcete zobrazovat "
+"tento dialog znovu. Zvolte „Ne“, pokud mají být všechna okna znovu viditelná."
+
+msgid "Startup error!"
+msgstr "Chyba spouštění!"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"Rainlendar nebyl schopen úspěšně aktualizovat nastavení. Chcete obnovit "
+"všechna nastavení a zkusit to znovu nebo použít některou záložní verzi?"
+
+msgid "&Reset"
+msgstr "&Reset"
+
+msgid "&Use backup"
+msgstr "Po&užít zálohu"
+
+msgid "&Keep"
+msgstr "&Držet"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Na této cestě nejsou žádné motivy:\n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"Rainlendar nebyl schopen načíst zvolený motiv. Chcete místo něj použít "
+"výchozí motiv?"
+
+msgid "Unable to load the skin!"
+msgstr "Nepodařilo se nahrát motiv!"
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr "Vybraný motiv nelze načíst. Více infromací najdete v logu Rainlendaru."
+
+msgid "&Ok"
+msgstr "&Ok"
+
+msgid "&Show log"
+msgstr "&Zobrazit log"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "No"
+msgstr "Ne"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr ""
+"Licenční soubor je prázdný"
+"Při stahování licenčního souboru nezapomeňte použít úplnou adresu URL"
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"Licenční soubor není platný"
+"Překročili jste počet stažení licence"
+"Pro více informací prosím kontaktujte podporu Rainlendaru"
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"Licenční soubor nemá platný formát"
+"Ujistěte se, že používáte správný licenční soubor"
+"Můžete se také pokusit stáhnout soubor znovu, pokud chyba přetrvává"
+
+msgid "Skin error!"
+msgstr "Chyba skinu!"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"Okno 'Velký kalendář' ve Shadow4 bylo nahrazeno možností 'Velký' pro výchozí "
+"okno 'Kalendář'. Klepnutím na tlačítko OK obnovíte skin."
+
+msgid "Use large default skin?"
+msgstr "Použít velký výchozí skin?"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"Výchozí hodnoty mohou být pro vaše rozlišení obrazovky příliš malé. Chcete "
+"používat větší písma a okna?"
+
+msgid "&Large"
+msgstr "&Velké"
+
+msgid "&Small"
+msgstr "&Malé"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Nalezeny tyto staré soubory Rainlendaru:\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "Chcete je importovat?"
+
+msgid "Import failed with file: \"%s\""
+msgstr "Import neúspěšný u souboru: \"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "Koupit Rainlendar2 Pro?"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"Doufám, že jste si Rainlendar během posledního měsíce užili. Chtěli byste "
+"provést upgrade na verzi Pro s přidanými funkcemi? Pokud použijete \"Buy Now"
+"\" odkaz níže, můžete koupit licenci za zvýhodněnou cenu. Můžete také "
+"stisknout tlačítko \"No thanks\" a nikdy více tuto zprávu nezobrazovat.\n"
+"\n"
+"Děkuji za podporu."
+
+msgid "&Buy Now"
+msgstr "&Kup teď"
+
+msgid "&Remind later"
+msgstr "&Připomenout později"
+
+msgid "&No Thanks"
+msgstr "&Ne, děkuji"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Update"
+msgstr "Aktualizace"
+
+msgid "Make a selection:"
+msgstr "Proveďte výběr:"
+
+msgid "Hide Windows"
+msgstr "Skrýt okna"
+
+msgid "Show Windows"
+msgstr "Zobrazit okna"
+
+msgid "Toggle Windows"
+msgstr "Přepnout okna"
+
+msgid "Toggle Today Window"
+msgstr "Přepnout okno Dnes"
+
+msgid "Create New Task"
+msgstr "Vytvořit nový úkol"
+
+msgid "Create New Event"
+msgstr "Vytvořit novou událost"
+
+msgid "Create new event or task"
+msgstr "Vytvořit novou událost nebo úkol"
+
+msgid "Quit Application"
+msgstr "Odejít z aplikace"
+
+msgid "Business"
+msgstr "Obchodní"
+
+msgid "Calls"
+msgstr "Volání"
+
+msgid "Clients"
+msgstr "Klienti"
+
+msgid "Competition"
+msgstr "Soutěž"
+
+msgid "Customer"
+msgstr "Zákazník"
+
+msgid "Exam"
+msgstr "Zkouška"
+
+msgid "Favorites"
+msgstr "Oblíbené"
+
+msgid "Follow Up"
+msgstr "Zpracovat"
+
+msgid "Gifts"
+msgstr "Dárky"
+
+msgid "Holidays"
+msgstr "Prázdniny"
+
+msgid "Ideas"
+msgstr "Nápady"
+
+msgid "Important"
+msgstr "Důležité"
+
+msgid "Issues"
+msgstr "Problémy"
+
+msgid "Miscellaneous"
+msgstr "Různé"
+
+msgid "Personal"
+msgstr "Osobní"
+
+msgid "Projects"
+msgstr "Projekty"
+
+msgid "Public Holiday"
+msgstr "Státní svátek"
+
+msgid "Suppliers"
+msgstr "Dodavatelé"
+
+msgid "Travel"
+msgstr "Cestování"
+
+msgid "Trip"
+msgstr "Výlet"
+
+msgid "TV"
+msgstr "Televize"
+
+msgid "Vacation"
+msgstr "Dovolená"
+
+msgid "Work"
+msgstr "Pracovní"
+
+msgid "Medical"
+msgstr "Lékař"
+
+msgid "Urgent"
+msgstr "Naléhavé"
+
+msgid "Health"
+msgstr "Zdravotní"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Game"
+msgstr "Hra"
+
+msgid "School"
+msgstr "Škola"
+
+msgid "Party"
+msgstr "Večírek"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "Car"
+msgstr "Auto"
+
+msgid "Payments"
+msgstr "Platby"
+
+msgid "Money"
+msgstr "Peníze"
+
+msgid "Pets"
+msgstr "Domácí zvířata"
+
+msgid "Theatre"
+msgstr "Divadlo"
+
+msgid "Music"
+msgstr "Hudba"
+
+msgid "[Black]"
+msgstr "[Černá]"
+
+msgid "[Blue]"
+msgstr "[Modrá]"
+
+msgid "[Brown]"
+msgstr "[Hnědá]"
+
+msgid "[Cyan]"
+msgstr "[Azurová]"
+
+msgid "[Green]"
+msgstr "[Zelená]"
+
+msgid "[Grey]"
+msgstr "[Šedá]"
+
+msgid "[Magenta]"
+msgstr "[Fialová]"
+
+msgid "[Pink]"
+msgstr "[Růžová]"
+
+msgid "[Red]"
+msgstr "[Červená]"
+
+msgid "[Yellow]"
+msgstr "[Žlutá]"
+
+msgid "[Orange]"
+msgstr "[Oranžová]"
+
+msgid "Must Attend"
+msgstr "Potřeba vyřídit"
+
+msgid "Travel Required"
+msgstr "Požadavek cestování"
+
+msgid "Needs Preparation"
+msgstr "Potřebuje přípravu"
+
+msgid "Phone Call"
+msgstr "Volání"
+
+msgid "iCalendar Format"
+msgstr "Formát kalendáře"
+
+msgid "Network Shared Calendar"
+msgstr "Síťově sdílený kalendář"
+
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+msgid "Rainlendar Ini Format"
+msgstr "Rainlendar Ini Format"
+
+msgid "Google Calendar"
+msgstr "Google Kalendář"
+
+msgid "CalDAV Calendar"
+msgstr "CalDAV kalendář"
+
+msgid "Google Calendar (v3)"
+msgstr "Kalendář Google (v3)"
+
+msgid "Google Tasks"
+msgstr "Úkoly Google"
+
+msgid "Comma Separated Values"
+msgstr "Hodnoty oddělené čárkou"
+
+msgid "&Next >"
+msgstr "&Další >"
+
+msgid "< &Back"
+msgstr "< &Zpět"
+
+msgid "&Finish"
+msgstr "&Dokončit"
+
+msgid "Vertical Calendar"
+msgstr "Svislý kalendář"
+
+msgid "Year Calendar"
+msgstr "Roční kalendář"
+
+msgid "Sidebar"
+msgstr "Postranní lišta"
+
+msgid "DigiClock"
+msgstr "Digitální hodiny"
+
+msgid "Dual Calendar"
+msgstr "Dvojitý kalendář"
+
+msgid "Todo List"
+msgstr "Seznam úkolů"
+
+msgid "Grid Calendar"
+msgstr "Mřížkový kalendář"
+
+msgid "Vertical Line Calendar"
+msgstr "Svislý kalendář"
+
+msgid "Horizontal Line Calendar"
+msgstr "Vodorovný kalendář"
+
+msgid "Visible month"
+msgstr "Viditelný měsíc"
+
+msgid "Show buttons"
+msgstr "Zobrazit tlačítka"
+
+msgid "Show adjacent days"
+msgstr "Zobrazit sousední dny"
+
+msgid "Eventlist max height"
+msgstr "Maximální výška seznamu událostí"
+
+msgid "Todolist max height"
+msgstr "Todolist maximální výška"
+
+msgid "Show week numbers"
+msgstr "Zobrazit čísla týdnů"
+
+msgid "Format"
+msgstr "Formát"
+
+msgid "Timezone"
+msgstr "Časové pásmo"
+
+msgid "Label"
+msgstr "Etiketa"
+
+msgid "Show 3rd month"
+msgstr "Ukaž 3. měsíc"
+
+msgid "Show 4th month"
+msgstr "Ukaž 4. měsíc"
+
+msgid "Show 5th month"
+msgstr "Ukaž 5. měsíc"
+
+msgid "Show 6th month"
+msgstr "Ukaž 6. měsíc"
+
+msgid "Show 7th month"
+msgstr "Ukaž 7. měsíc"
+
+msgid "Show 8th month"
+msgstr "Ukaž 8. měsíc"
+
+msgid "Color"
+msgstr "Barva"
+
+msgid "Analog Clock"
+msgstr "Analogové hodiny"
+
+msgid "Calendar List"
+msgstr "Seznam kalendářů"
+
+msgid "X count"
+msgstr "Počet X"
+
+msgid "Y count"
+msgstr "Počet Y"
+
+msgid "Snooze All"
+msgstr "Odložit vše"
+
+msgid "Dismiss All"
+msgstr "Zastavit vše"
+
+msgid "To do"
+msgstr "Úkol"
+
+msgid "Today color"
+msgstr "Barva Dnes"
+
+msgid "Today shape"
+msgstr "Tvar Dnes"
+
+msgid "Circle"
+msgstr "Kruh"
+
+msgid "Rectangle"
+msgstr "Obdélník"
+
+msgid "Slim circle"
+msgstr "Tenký kruh"
+
+msgid "Slim rectangle"
+msgstr "Tenký obdélník"
+
+msgid "Red"
+msgstr "Červená"
+
+msgid "Orange"
+msgstr "Oranžová"
+
+msgid "Yellow"
+msgstr "Žlutá"
+
+msgid "Green"
+msgstr "Zelená"
+
+msgid "Cyan"
+msgstr "Azurová"
+
+msgid "Blue"
+msgstr "Modrá"
+
+msgid "Magenta"
+msgstr "Fialová"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"Nástupce populárního Shadow3-skinu s přidanými funkcemi jako viditelnými dny "
+"z předchozího a následujícího měsíce a skinovatelnou nápovědou."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"Nastavuje měsíc, který bude kalendář zobrazovat. Nastavte +1 pro další "
+"měsíc, -1 pro předešlý měsíc nebo hodnotu od 0 do 12 pro zobrazení "
+"specifického měsíce v nynějším roce."
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr ""
+"Zrušit zaškrtnutí políčka skrytí u tlačítek Další a Předchozí z kalendáře."
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr "Zrušit zaškrtnutí políčka skrytí dnů z Předchozího a Příštího měsíce."
+
+msgid "Defines the maximum height of the alarm."
+msgstr "Definuje maximální výšku alarmu."
+
+msgid "Defines the maximum height of the event list."
+msgstr "Definuje maximální výšku seznamu událostí."
+
+msgid "Defines the maximum height of the to do list."
+msgstr "Definuje maximální výšku seznamu úkolů."
+
+msgid "Defines the width of the calendar list."
+msgstr "Definuje šířku seznamu kalendářů."
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "Zrušit zaškrtnutí políčka skrytí čísla týdne v kalendáři."
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr "Určuje formát času. Pro skrytí sekund použijte %H:%M nebo %#I:%M %p"
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"Určuje časové pásmo. Nastavte číslo: … -3, -2, -1, 0, +1, +2, +3, … . Můžete "
+"také použít hodnoty jako CET, EST, PST, A_CST, …"
+
+msgid "Adds a label for the clock."
+msgstr "Přidá štítek pro hodiny."
+
+msgid "Defines the color of the today marker."
+msgstr "Definuje barvu dnešního označení."
+
+msgid "Defines the shape of the today marker."
+msgstr "Definuje tvar dnešního označení."
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "Definuje, kolik kalendářů bude zobrazeno vodorovně v okně."
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "Definuje, kolik kalendářů bude zobrazeno svisle v okně."
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "Zrušit zaškrtnutí políčka skrytí jmen dnů v týdnu v kalendáři."
+
+msgid "Week View"
+msgstr "Týdenní přehled "
+
+msgid "Today position"
+msgstr "Pozice dneška"
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"Definuje umístění dnešního dne. Pokud je hodnota 0 (výchozí), pak týdenní "
+"přehled zobrazuje celý týden a mění pozici dnešního dne. Pokud je hodnota "
+"nastavena mezi 1 a 7, zůstane dnešní den na dané  pozici a mění se dny v "
+"týdnu."
+
+msgid "Autoscroll"
+msgstr "Automatické posouvání"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "Zrušit zaškrtnutí políčka autoscroll."
+
+msgid "Week view date format"
+msgstr "Formát datumu zobrazení týdne"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr "Nastavuje formát datumu v plánu. Výchozí je %#d.%#m."
+
+msgid "Week view time format"
+msgstr "Formát času týdenního přehledu"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"Nastavuje formát času v plánu. Výchozí je %H:%M. Pro AM/PM použijte %#I %p"
+
+msgid "Time item height"
+msgstr "Výška času položky"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr ""
+"Nastavuje výšku jedné položky v kalendáři. Výchozí hodnota je 30 pixelů."
+
+msgid "Time item duration"
+msgstr "Doba trvání položky"
+
+msgid "60 Minutes"
+msgstr "60 minut"
+
+msgid "30 Minutes"
+msgstr "30 minut"
+
+msgid "15 Minutes"
+msgstr "15 minut"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr ""
+"Nastavuje dobu trvání jedné položky v kalendáři. Výchozí hodnota je 60 minut."
+
+msgid "All day max height"
+msgstr "Celý den - max. výška"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"Maximální výška oblasti celodenní události. Posuvník se zobrazí, pokud se "
+"události nevejdou do této oblasti."
+
+msgid "Event min height"
+msgstr "Min. Výška události"
+
+msgid "The minimum height of the event."
+msgstr "Minimální výška události."
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "Zrušit zaškrtnutí políčka skrytí čísla týdne v pohledu."
+
+msgid "Show weekdays"
+msgstr "Zobrazit dny"
+
+msgid "Day View"
+msgstr "Denní přehled"
+
+msgid "Day view time format"
+msgstr "Formát času denního přehledu"
+
+msgid "Day view date format"
+msgstr "Formát datumu zobrazení dne"
+
+msgid "Month View"
+msgstr "Mesíční přehled"
+
+msgid "Show background"
+msgstr "Zobrazit pozadí"
+
+msgid "Uncheck to make the background transparent."
+msgstr "Zrušit zaškrtnutí políčka, aby pozadí bylo průhledné."
+
+msgid "Large Calendar"
+msgstr "Velký kalendář"
+
+msgid "Today window max height"
+msgstr "Maximální výška okna Dnes"
+
+msgid "Defines the maximum height of the today window."
+msgstr "Definuje maximální výšku okna Dnes."
+
+msgid "Today show tasks"
+msgstr "Dnes zobraz úkoly"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr "Definuje, zda se mají úkoly zobrazit v dnešním okně."
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"Tento motiv obsahuje více barevných variací. Můžete je upravit v nastavení "
+"motivu nebo kliknutím na šipku dolů v kalendáři."
+
+msgid "Brown"
+msgstr "Hnědá"
+
+msgid "Dark"
+msgstr "Tmavé"
+
+msgid "Colorless"
+msgstr "Bezbarvé"
+
+msgid "Defines the color of the windows."
+msgstr "Nastavuje barvu oken."
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr "Nastavuje formát datumu v hlavičkách seznamu událostí."
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr ""
+"Nastavuje maximální výšku seznamu událostí. Výchozí hodnota je 300 pixelů."
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr ""
+"Nastavuje maximální výšku seznamu úkolů. Výchozí hodnota je 300 pixelů."
+
+msgid "Removes the color from the windows."
+msgstr "Odstraní barvu z oken."
+
+msgid "Creates darker version of the windows."
+msgstr "Vytvoří tmavší verzi oken."
+
+msgid "All day"
+msgstr "Celý den"
+
+msgid "Day bar show day"
+msgstr "Lišta dne zobrazí den"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr "Definice čísla a jména dne se zobrazí na liště dne."
+
+msgid "Day bar am-pm"
+msgstr "Lišta Dne am-pm"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "Zaškrtnutím se zobrazí 12-hodinový čas."
+
+msgid "Bar event"
+msgstr "Lišta událost"
+
+msgid "The event color for the bars."
+msgstr "Barva události pro lištu."
+
+msgid "Conditions: "
+msgstr "Situace:"
+
+msgid "Temperature: "
+msgstr "Teplota:"
+
+msgid "Humidity: "
+msgstr "Vlhkost:"
+
+msgid "Winds: "
+msgstr "Vítr:"
+
+msgid "Time: "
+msgstr "Čas:"
+
+msgid "Refreshing..."
+msgstr "Obnovení..."
+
+msgid "Downloading: "
+msgstr "Stahování:"
+
+msgid "Download failed!"
+msgstr "Stahování selhalo!"
+
+msgid "Loading..."
+msgstr "Stahování..."
+
+msgid "Unknown result!"
+msgstr "Neznámý výsledek!"
+
+msgid "Upcoming programs:"
+msgstr "Následující program:"
+
+msgid "Parsing failed!"
+msgstr "Analýza selhala!"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr " DNY     HOD    MIN    SEK"
+
+msgid "Loading feed..."
+msgstr "Stahuji RSS zdroj..."
+
+msgid "Lo: "
+msgstr "Nejnižší:"
+
+msgid "Hi: "
+msgstr "Nejvyšší:"
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "Max:"
+msgstr "Max:"
+
+msgid "Chance of precipitation: "
+msgstr "Pravděpodobnost srážek:"
+
+msgid "New moon"
+msgstr "Novoluní"
+
+msgid "Waxing crescent"
+msgstr "Dorůstající srpek "
+
+msgid "First quarter"
+msgstr "První čtvrt"
+
+msgid "Waxing gibbous"
+msgstr "Dorůstající Měsíc"
+
+msgid "Full moon"
+msgstr "Úplněk"
+
+msgid "Waning gibbous"
+msgstr "Couvající Měsíc"
+
+msgid "Last quarter"
+msgstr "Poslední čtvrt"
+
+msgid "Waning crescent"
+msgstr "Ubývající srpek"
+
+msgid "Southern hemisphere"
+msgstr "Jižní polokoule"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr "Nastavit na 1 pro změnu fáze, jak je patrné z jižní polokoule."
+
+msgid "World Time"
+msgstr "Světový čas"
+
+msgid "World time format"
+msgstr "Formát světového času"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"Toto definuje formát času. Výchozí hodnota je %H:%M. U formátu AM/PM použít "
+"%#I:%M %p"
+
+msgid "World time location 1"
+msgstr "Světový čas - místo 1"
+
+msgid "Defines the title for the time."
+msgstr "Definuje název pro čas."
+
+msgid "World time timezone 1"
+msgstr "Světový čas - časové pásmo 1"
+
+msgid "World time location 2"
+msgstr "Světový čas - místo 2"
+
+msgid "World time timezone 2"
+msgstr "Světový čas - časové pásmo 2"
+
+msgid "World time location 3"
+msgstr "Světový čas - místo 3"
+
+msgid "World time timezone 3"
+msgstr "Světový čas - časové pásmo 3"
+
+msgid "World time location 4"
+msgstr "Světový čas - místo 4"
+
+msgid "World time timezone 4"
+msgstr "Světový čas - časové pásmo 4"
+
+msgid "Photos"
+msgstr "Fotky"
+
+msgid "Weather"
+msgstr "Počasí"
+
+msgid "Countdown"
+msgstr "Odpočítávání"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Create New"
+msgstr "Vytvořit nový"
+
+msgid "Moon Phase"
+msgstr "Fáze Měsíce"
+
+msgid "QuickAdd"
+msgstr "Rychlé přidání"
+
+msgid "Translate"
+msgstr "Překladač"
+
+msgid "Text File"
+msgstr "Textový soubor"
+
+msgid "RSS height"
+msgstr "Výška RSS"
+
+msgid "Defines the maximum height of the list."
+msgstr "Definuje maximální výšku seznamu."
+
+msgid "RSS location"
+msgstr "Umístění RSS"
+
+msgid "Location of the RSS feed."
+msgstr "Adresa RSS zdroje."
+
+msgid "Weather location"
+msgstr "Umístění počasí"
+
+msgid "Location of the weather feed."
+msgstr "Adresa zdroje počasí."
+
+msgid "Weather city"
+msgstr "Počasí - město"
+
+msgid "The city for the weather."
+msgstr "Město pro počasí."
+
+msgid "Weather language"
+msgstr "Jazyk počasí"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr ""
+"Jazyk počasí. Použijte zkratku jazyka jako např. en, fi, ru, zh-cn, cz..."
+
+msgid "Photos random"
+msgstr "Náhodné snímky"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr ""
+"Zrušit zaškrtnutí políčka pro zobrazení obrázků v sekvenci. Zkontrolujte, "
+"zda se zobrazují v náhodném pořadí."
+
+msgid "Photos update"
+msgstr "Aktualizace snímků"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "Definuje za jak dlouho se obrázek aktualizuje. Hodnota je v minutách."
+
+msgid "Photos folder"
+msgstr "Adresář s fotkami"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"Definuje lokální složku, kde se skenují obrázky. Pokud to necháte prázdné, "
+"obrázky se stáhnou ze serveru Flickr."
+
+msgid "Countdown event"
+msgstr "Odpočítávání události"
+
+msgid "The description of the event."
+msgstr "Popis události."
+
+msgid "Countdown time"
+msgstr "Čas odpočítávání"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "Čas události. Používejte formát HH:MM:SS."
+
+msgid "Countdown date"
+msgstr "Datum odpočítávání"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "Datum události. Používejte formát YYYY-MM-DD."
+
+msgid "TV height"
+msgstr "TV výška"
+
+msgid "Copy to clipboard"
+msgstr "Zkopírovat do schránky"
+
+msgid "File path"
+msgstr "Cesta k souboru"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "Definuje název a cestu k souboru, který se zobrazí v okně."
+
+msgid "No file given"
+msgstr "Žádný daný soubor"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr ""
+"Přejděte do okna nastavení a označte cestu proměnné do textového souboru."
+
+msgid "File window full rows"
+msgstr "Celé řádky okna souboru "
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr ""
+"Zkontrolujte, zda zobrazuje celé řádky. Zrušte zaškrtnutí políčka řezů řádek."
+
+msgid "File window width"
+msgstr "Šířka okna souboru"
+
+msgid "The width of the calendar window."
+msgstr "Šířka okna kalendáře."
+
+msgid "The height of the calendar window."
+msgstr "Výška okna kalendáře."
+
+msgid "Defines the width of the event list."
+msgstr "Nastavuje šířku seznamu událostí."
+
+msgid "Defines the width of the to do list."
+msgstr "Nastavuje šířku seznamu úkolů."
+
+msgid "Defines the width of the quickadd window."
+msgstr "Nastavuje šířku okna rychlého přidání."
+
+msgid "Defines the width of the day view window."
+msgstr "Nastavuje šířku okna denního zobrazení."
+
+msgid "Defines the height of the day view window."
+msgstr "Nastavuje výšku okna denního zobrazení."
+
+msgid "Defines the width of the week view window."
+msgstr "Nastavuje šířku okna týdenního zobrazení."
+
+msgid "Defines the height of the week view window."
+msgstr "Nastavuje výšku okna týdenního zobrazení."
+
+msgid "Defines the width of the calendar window."
+msgstr "Definuje šířku okna kalendáře."
+
+msgid "Defines the height of the calendar window."
+msgstr "Definuje výšku okna kalendáře."
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "alt"
+msgstr "alt"
+
+msgid "shift"
+msgstr "shift"
+
+msgid "Mark as completed"
+msgstr "Označit jako dokončené"
+
+msgid "Mark as needs action"
+msgstr "Označit jako nedokončené"
+
+msgid "Recurring"
+msgstr "Periodická"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Text color"
+msgstr "Barva textu"
+
+msgid "Tooltip color"
+msgstr "Barva tipů"
+
+msgid "Black"
+msgstr "Černá"
+
+msgid "White"
+msgstr "Bílá"
+
+msgid "Light grey"
+msgstr "Světle šedá"
+
+msgid "Light pink"
+msgstr "Světle růžová"
+
+msgid "Grey"
+msgstr "Šedá"
+
+msgid "Pink"
+msgstr "Růžová"
+
+msgid "Schedule background"
+msgstr "Pozadí plánu"
+
+msgid "The background color for the day, week and month views."
+msgstr "Barva pozadí denního, týdenního a měsíčního zobrazení."
+
+msgid "Schedule text color"
+msgstr "Barva textu plánu"
+
+msgid "The text color for the day, week and month views."
+msgstr "Barva textu denního, týdenního a měsíčního zobrazení."
+
+msgid "Calendar day color"
+msgstr "Barva dne kalendáře"
+
+msgid "Large calendar day color"
+msgstr "Velký kalendář - barva dne"
+
+msgid "The color for the days in the calendar."
+msgstr "Barva dnů v kalendáři."
+
+msgid "Calendar day text color"
+msgstr "Barva textu dne kalendáře"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "Barva čísel dnů v kalendáři."
+
+msgid "Small icon"
+msgstr "Malá ikona"
+
+msgid "The icon which is shown in the calendar."
+msgstr "Ikona, která je zobrazena v kalendáři."
+
+msgid "Large icon"
+msgstr "Velká ikona"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "Ikona, která je zobrazena u událostí a úkolů."
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "Barva textu seznamu a tipů."
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr ""
+"Priorita definuje, které kategorie se zobrazí, pokud jich existuje více ve "
+"stejný den."
+
+msgid "Schedule text shadow color"
+msgstr "Barva stínu textu plánu"
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "Barva stínu textu denního, týdenního a měsíčního zobrazení."
+
+msgid "Calendar day text shadow color"
+msgstr "Barva stínu textu dne kalendáře"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "Barva stínu čísel dnů v kalendáři."
+
+msgid "Text shadow color"
+msgstr "Barva stínu textu"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "Barva stínu textu seznamu a tooltipu."
+
+msgid "Show date"
+msgstr "Zobrazit datum"
+
+msgid "Check to show also the current date."
+msgstr "Zkontrolujte, zda zobrazuje aktuální datum."
+
+msgid "This defines the format of the time."
+msgstr "Definuje formát času."
+
+msgid "This defines the format of the date."
+msgstr "Definuje formát datumu."
+
+msgid "Search"
+msgstr "Hledat"
+
+msgid "Search engine"
+msgstr "Vyhledávací engine"
+
+msgid "Choose the search engine"
+msgstr "Vybrat vyhledávací engine"
+
+msgid "Enter search text"
+msgstr "Vložit hledaný text"
+
+msgid "Show title"
+msgstr "Zobrazit nadpis"
+
+msgid "Check to show a title text."
+msgstr "Zkontrolujte pro zobrazení nadpisu."
+
+msgid "Title text"
+msgstr "Nadpis"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "Definuje text nadpisu, který je zobrazen nad časem."
+
+msgid "Weather woeid"
+msgstr "Počasí woeid"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "Yahoo WOEID pro místa počasí."
+
+msgid "Weather celsius"
+msgstr "Počasí Celsia"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "Pokud je zaškrtnuto, teplota se zobrazuje ve stupních Celsia."
+
+msgid "Bold blue"
+msgstr "Tučné modrá"
+
+msgid "Turquoise"
+msgstr "Tyrkysová"
+
+msgid "Bold green"
+msgstr "Tučné zelená"
+
+msgid "Bold red"
+msgstr "Tučné červená"
+
+msgid "Purple"
+msgstr "Fialová"
+
+msgid "Gray"
+msgstr "Šedá"
+
+msgid "No events today"
+msgstr "Dnes žádné události"
+
+msgid "No tasks today"
+msgstr "Dnes žádné úkoly"
+
+msgid "Background opacity"
+msgstr "Neprůhlednost pozadí"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr "Definuje neprůhlednost pozadí okna. Použijte hodnoty mezi 0 a 100."
+
+msgid "Snooze menu"
+msgstr "Odložit menu"
+
+msgid "Pressure: "
+msgstr "Tlak: "
+
+msgid "UV index: "
+msgstr "UV index: "
+
+msgid "Feels like: "
+msgstr "Cítím se jako:"
+
+msgid "Sunrise: "
+msgstr "Východ slunce:"
+
+msgid "Sunset: "
+msgstr "Západ slunce:"
+
+msgid "Tonight"
+msgstr "Dnes večer"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Large"
+msgstr "Velké"
+
+msgid "Use large images and more space between the items."
+msgstr "Použijte velké obrázky a větší místo mezi položkami."
+
+msgid "Alarm max height"
+msgstr "Maximální výška alarmu"
+
+msgid "Horizontal Day Bar"
+msgstr "Vodorovná lišta Dne"
+
+msgid "Vertical Day Bar"
+msgstr "Svislá lišta Dne"
+
+msgid "Day bar show text"
+msgstr "Zobrazení textu Denní lišty"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "Zrušením zaškrtnutí skryjete text z událostí."
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "Barva textu v kalendáři a v seznamech."
+
+msgid "The color of the text in the tooltip."
+msgstr "Barva textu v tipu."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"Nastavuje měsíc, který bude kalendář zobrazovat. Nastavte +1 pro další "
+"měsíc, -1 pro předešlý měsíc nebo hodnotu od 0 do 11 pro zobrazení "
+"specifického měsíce v nynějším roce."
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Nelze najít aktivní motiv.\n"
+"Klikněte na OK a načte se první motiv, který bude k dispozici."
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"Motiv nemá žádné aktivní okno.\n"
+"Budou použita výchozí okna."
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Motiv neexistuje.\n"
+"Klikněte na OK pro načtení prvního motivu, který bude k dispozici."
+
+msgid "No items"
+msgstr "Žádné položky"
+
+msgid "No events"
+msgstr "Žádné události"
+
+msgid "No tasks"
+msgstr "Žádné úkoly"
+
+msgid "Synchronizing"
+msgstr "Synchronizace"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "today"
+msgstr "dnes"
+
+msgid "tomorrow"
+msgstr "zítra"
+
+msgid "yesterday"
+msgstr "včera"
+
+msgid "Jan"
+msgstr "Leden"
+
+msgid "Feb"
+msgstr "Únor"
+
+msgid "Mar"
+msgstr "Březen"
+
+msgid "Apr"
+msgstr "Duben"
+
+msgid "Jun"
+msgstr "Červen"
+
+msgid "Jul"
+msgstr "Červenec"
+
+msgid "Aug"
+msgstr "Srpen"
+
+msgid "Sep"
+msgstr "Září"
+
+msgid "Oct"
+msgstr "Říjen"
+
+msgid "Nov"
+msgstr "Listopad"
+
+msgid "Dec"
+msgstr "Prosinec"
+
+msgid "%ith"
+msgstr "%i."
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "1.;2.;3.;4.;5.;6.;7.;8.;9.;0."
+
+msgid "edit"
+msgstr "upravit"
+
+msgid "Do you want to create the file?"
+msgstr "Chcete vytvořit tento soubor?"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"Soubor neexistuje:\n"
+"%s"
+
+msgid "Unable to create the file \"%s\"."
+msgstr "Nepodařilo se vytvořit soubor „%s“."
+
+msgid "This is a read only event."
+msgstr "Toto je událost jen ke čtení."
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "Není možné editovat tuto událost s Rainlendarem."
+
+msgid "This is a read only task."
+msgstr "Toto je úkol jen ke čtení."
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "Není možné editovat tento úkol s Rainlendarem."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Organizer"
+msgstr "Pořádá"
+
+msgid "Accepted"
+msgstr "Akceptováno"
+
+msgid "Declined"
+msgstr "Zamítnuto"
+
+msgid "Tentative"
+msgstr "Zkušební@ item event is definite"
+
+msgid "Needs action"
+msgstr "Vyžaduje akci"
+
+msgid "Create a new calendar"
+msgstr "Vytvořit nový kalendář"
+
+msgid "Please select the type of the calendar."
+msgstr "Prosím vyberte typ kalendáře."
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr "Typ kalendáře definuje formát událostí a to, kde budou uloženy."
+
+msgid "local"
+msgstr "lokální"
+
+msgid "deprecated"
+msgstr "zastaralé"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Go Pro"
+msgstr "Získat Pro"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro vám umožní přístup k událostem z vašeho Outlooku, Google "
+"kalendáře a dalším online kalendářům a také k úkolům přímo z plochy."
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro vám umožní přístup k událostem z Google kalendáře  a dalším "
+"online kalendářům a také k úkolům přímo z plochy."
+
+msgid "Buy license"
+msgstr "Koupit licenci"
+
+msgid "See differences"
+msgstr "Viz rozdíly"
+
+msgid "No calendar selected!"
+msgstr "Není vybrán kalendář!"
+
+msgid "You need to select a calendar type."
+msgstr "Musíte vybrat typ kalendáře."
+
+msgid "Finish the authentication in your browser"
+msgstr "Dokončit ověřování ve svém prohlížeči"
+
+msgid "Authenticating..."
+msgstr "Ověřování..."
+
+msgid "Downloading..."
+msgstr "Stahování..."
+
+msgid "No urls allowed!"
+msgstr "Nejsou povoleny url adresy!"
+
+msgid "Only local files can be defined as the file name."
+msgstr "Pro název souboru mohou být definovány pouze lokální soubory."
+
+msgid "No UNC paths allowed!"
+msgstr "Nejsou povoleny UNC cesty!"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"Není možné použít cesty UNC jako název souboru. Musíte namapovat síťovou "
+"jednotku, aby jste mohli přistupovat k souborům na serveru."
+
+msgid "No filename defined!"
+msgstr "Není definováno název souboru!"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"Nemůžete opustit prázdné pole jména souboru. Musíte definovat soubor, kde "
+"budou uloženy události a úkoly."
+
+msgid "The file name is missing."
+msgstr "Chybí název souboru."
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"Pokud vytvoříte nový kalendář, můžete zadat cokoli jako jeho název. Jinak "
+"vyberte existující iCalendar (*.ics) soubor."
+
+msgid "The url is empty!"
+msgstr "Url adresa je prázdná!"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"Nemůžete nechat pole url prázdné. Musíte definovat soubor, kde budou uloženy "
+"události a úkoly."
+
+msgid "The protocol is missing!"
+msgstr "Protokol chybí!"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "Zadejte prosím protokol pro url (např. \"http://\")."
+
+msgid "The file name is missing from the url!"
+msgstr "Název souboru chybí z url adresy!"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Pokud vytváříte nový kalendář, můžete zadat cokoli jako jeho název. V "
+"opačném případě byste měli ověřit, že server skutečně nedefinuje žádný "
+"soubor jako url.\n"
+"\n"
+"Chcete pokračovat?"
+
+msgid "Incorrect email!"
+msgstr "Nesprávný e-mail!"
+
+msgid "You need to enter a full email address."
+msgstr "Musíte zadat celou e-mailovou adresu."
+
+msgid "Please select the calendar."
+msgstr "Prosím vyberte kalendář."
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr "Nemáte vybraný žádný kalendář. Jste si jisti, že chcete pokračovat?"
+
+msgid "Name"
+msgstr "Název"
+
+msgid "The calendar already exists!"
+msgstr "Kalendář již existuje!"
+
+msgid "Please choose some other name for the calendar."
+msgstr "Prosím, vyberte jiný název pro kalendář."
+
+msgid "The calendar name is empty!"
+msgstr "Název kalendáře je prázdný!"
+
+msgid "You must give a name for the calendar."
+msgstr "Musíte dát kalendáři nějaký název."
+
+msgid "Alarm sound"
+msgstr "Zvuk upozornění"
+
+msgid "Select alarm sound"
+msgstr "Vyberte zvuk alarmu"
+
+msgid "Default sound"
+msgstr "Výchozí zvuk"
+
+msgid "Preview"
+msgstr "Náhled"
+
+msgid "No sound"
+msgstr "Žádný zvuk"
+
+msgid "Custom sound / executable"
+msgstr "Vlastní zvuk / spustitelný soubor"
+
+msgid "Browse..."
+msgstr "Procházet..."
+
+msgid "Bulk Change"
+msgstr "Změnit objem"
+
+msgid "Type:"
+msgstr "Typ:"
+
+msgid "Summary:"
+msgstr "Shrnutí:"
+
+msgid "Location:"
+msgstr "Místo:"
+
+msgid "Url:"
+msgstr "Url:"
+
+msgid "Class:"
+msgstr "Třída:"
+
+msgid "Time type:"
+msgstr "Typ času:"
+
+msgid "With time"
+msgstr "S časem"
+
+msgid "Start time:"
+msgstr "Čas začátku:"
+
+msgid "Absolute"
+msgstr "Absolutní"
+
+msgid "Relative"
+msgstr "Relativní"
+
+msgid "Months"
+msgstr "Měsíce"
+
+msgid "Years"
+msgstr "Roky"
+
+msgid "Visibility:"
+msgstr "Viditelnost:"
+
+msgid "Show in calendar"
+msgstr "Zobrazit v kalendáři"
+
+msgid "Priority:"
+msgstr "Priorita:"
+
+msgid "Status:"
+msgstr "Stav:"
+
+msgid "Not Started"
+msgstr "Nezahájeno"
+
+msgid "Progress:"
+msgstr "Průběh:"
+
+msgid "0 %"
+msgstr "0 %"
+
+msgid "10 %"
+msgstr "10 %"
+
+msgid "20 %"
+msgstr "20 %"
+
+msgid "30 %"
+msgstr "30 %"
+
+msgid "40 %"
+msgstr "40 %"
+
+msgid "50 %"
+msgstr "50 %"
+
+msgid "60 %"
+msgstr "60 %"
+
+msgid "70 %"
+msgstr "70 %"
+
+msgid "80 %"
+msgstr "80 %"
+
+msgid "90 %"
+msgstr "90 %"
+
+msgid "100 %"
+msgstr "100 %"
+
+msgid "Free/Busy:"
+msgstr "Volný/Obsazený:"
+
+msgid "Free"
+msgstr "Volný"
+
+msgid "Busy"
+msgstr "Obsazený"
+
+msgid "Description:"
+msgstr "Popis:"
+
+msgid "Alarm:"
+msgstr "Alarm:"
+
+msgid "Category:"
+msgstr "Kategorie:"
+
+msgid "Recurrence:"
+msgstr "Opakování:"
+
+msgid "Repeat every"
+msgstr "Opakovat každých"
+
+msgid "Weeks"
+msgstr "Týdny"
+
+msgid "Repeat ending"
+msgstr "Konec opakování"
+
+msgid "Forever"
+msgstr "Navždy"
+
+msgid "Number of times"
+msgstr "Kolikrát"
+
+msgid "Until"
+msgstr "Do"
+
+msgid "Debug Window"
+msgstr "Okno ladění"
+
+msgid "Sensitivity:"
+msgstr "Citlivost:"
+
+msgid "All day event"
+msgstr "Celodenní událost"
+
+msgid "Mark time as busy"
+msgstr "Označit čas jako obsazený"
+
+msgid "Time zone:"
+msgstr "Časové pásmo:"
+
+msgid "Calendar:"
+msgstr "Kalendář:"
+
+msgid "Mon"
+msgstr "Po"
+
+msgid "Tue"
+msgstr "Út"
+
+msgid "Wed"
+msgstr "St"
+
+msgid "Thu"
+msgstr "Čt"
+
+msgid "Fri"
+msgstr "Pá"
+
+msgid "Sat"
+msgstr "So"
+
+msgid "Sun"
+msgstr "Ne"
+
+msgid "Repeat"
+msgstr "Opakovat"
+
+msgid "End after"
+msgstr "Konec po"
+
+msgid "occurrences"
+msgstr "výskyty"
+
+msgid "Exception dates"
+msgstr "Data vyjímek"
+
+msgid "Add"
+msgstr "Přídat"
+
+msgid "Show descriptions"
+msgstr "Zobrazit popisy"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Zobrazit dnešní události v tray při spuštění"
+
+msgid "Hide list windows if there are no items"
+msgstr "Skrýt seznam oken, pokud v nich nejsou žádné položky"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Klikat skrz (podržte Shift-dolů pro deaktivaci)"
+
+msgid "Lock windows in place"
+msgstr "Uzamknout okna na místě"
+
+msgid "Enable on startup"
+msgstr "Spouštět při startu počítače"
+
+msgid "Hide from taskbar"
+msgstr "Skrýt na hlavním panelu"
+
+msgid "Use Retina Resolution"
+msgstr "Použít rozlišení Retina"
+
+msgid "Add years for categories"
+msgstr "Přidat roky do kategorie"
+
+msgid "Categories..."
+msgstr "Kategorie..."
+
+msgid "Week's start day:"
+msgstr "Týden začíná v:"
+
+msgid "Position:"
+msgstr "Pozice:"
+
+msgid "Language:"
+msgstr "Jazyk:"
+
+msgid "Opacity"
+msgstr "Neprůhlednost"
+
+msgid "Normal:"
+msgstr "Normální:"
+
+msgid "Mouse over:"
+msgstr "Při přejezdu myši:"
+
+msgid "Apply to all windows at the same time"
+msgstr "Aplikovat na všechna okna současně"
+
+msgid "Font Size"
+msgstr "Velikost písma"
+
+msgid "Size:"
+msgstr "Velikost:"
+
+msgid "Duplicate..."
+msgstr "Duplikovat..."
+
+msgid "Action:"
+msgstr "Akce:"
+
+msgid "Hotkey:"
+msgstr "Klávesová zkratka:"
+
+msgid "Set"
+msgstr "Nastavit"
+
+msgid "Available skins"
+msgstr "Motivy k dispozici"
+
+msgid "Active skins"
+msgstr "Aktivní motivy"
+
+msgid "Settings..."
+msgstr "Nastavení..."
+
+msgid "All items"
+msgstr "Všechny položky"
+
+msgid "Selected items"
+msgstr "Vybrané položky"
+
+msgid "Day range"
+msgstr "Rozsah dnů"
+
+msgid "Select days"
+msgstr "Vybrat dny"
+
+msgid "Add title"
+msgstr "Přidat titulek"
+
+msgid "Preview..."
+msgstr "Náhled..."
+
+msgid "Page Setup..."
+msgstr "Nastavení stránky…"
+
+msgid "Todo"
+msgstr "Úkol"
+
+msgid "Date only"
+msgstr "Pouze datum"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "Čárkou oddělené hodnoty (*.csv)|*.csv"
+
+msgid "Username"
+msgstr "Jméno uživatele"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Calendar name"
+msgstr "Název kalendáře"
+
+msgid "Poll frequency (mins)"
+msgstr "Intervaly dotazování (min)"
+
+msgid "Suppress errors"
+msgstr "Potlačit chyby"
+
+msgid "Keep offline copy"
+msgstr "Uchovat offline kopii"
+
+msgid "Authentication"
+msgstr "Ověření"
+
+msgid "Basic"
+msgstr "Základní"
+
+msgid "Digest"
+msgstr "Výběr"
+
+msgid "GSS-Negotiate"
+msgstr "GSS-jednat"
+
+msgid "NTLM"
+msgstr "NTLM"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Automatic"
+msgstr "Automaticky"
+
+msgid "Both"
+msgstr "Obojí"
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Vyberte adresu, uživatelské jméno a heslo ke kalendáři a klikněte na výběr "
+"tlačítka kalendáře.\n"
+"\n"
+"Pole uživatelského jména a hesla mohou být ponechána nevyplněná, pokud "
+"nejsou potřeba."
+
+msgid "Select Calendar"
+msgstr "Vybrat kalendář"
+
+msgid "CalDAV Error (%s)!"
+msgstr "Chyba CalDAV (%s)!"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Chyba při nahrávání dat na adresu:\n"
+"%s\n"
+"\n"
+"Server vrátil výsledek: (%i) %i %s."
+
+msgid "Google Error (%s)!"
+msgstr "Chyba Google (%s)!"
+
+msgid "Unable to delete the event."
+msgstr "Nelze smazat tuto událost."
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "Server vrátil výsledek:  (%i) %i %s."
+
+msgid "Unable to read the calendars from the server."
+msgstr "Nelze číst kalendáře ze serveru."
+
+msgid "Unable to authenticate to the server."
+msgstr "Nelze ověřit na serveru."
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Nelze najít zvolený kalendář (%s).\n"
+"\n"
+"Dostupné kalendáře jsou:\n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "Nepodařilo se načíst kalendář ze serveru."
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr ""
+"Ověření se nezdařilo. Zkontrolujte, zda jste zadali správné jméno uživatele "
+"a heslo."
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr "Ověřte také jestli používáte určité heslo pro aplikaci Rainlendar."
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr ""
+"Nelze se připojit k serveru. Ujistěte se, že vaše síťové připojení funguje."
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "Url \"%s\" neobsahuje žádné kalendáře."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr ""
+"Chyba při stahování dat z adresy:\n"
+"%s"
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr ""
+"Ujistěte se, že vaše síť pracuje bez problémů a váš firewall neblokuje "
+"spojení."
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr "Nelze vyřešit proxy. Ověřte, že vaše nastavení proxy je v pořádku."
+
+msgid "Unable to resolve the host."
+msgstr "Nelze vyřešit hostitele."
+
+msgid "Unable to connect to the server."
+msgstr "Nelze se připojit k serveru."
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "Zabezpečené připojení (SSL) k serveru se nezdařilo."
+
+msgid "FALSE"
+msgstr "NEPRAVDA"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Ignore private events"
+msgstr "Ignorovat soukromé události"
+
+msgid "Import limit"
+msgstr "Import omezení"
+
+msgid "Everything"
+msgstr "Všechno"
+
+msgid "Future only"
+msgstr "Pouze budoucí"
+
+msgid "Past month"
+msgstr "Poslední měsíc"
+
+msgid "Past 6 months"
+msgstr "Posledních 6 měsíců"
+
+msgid "Past year"
+msgstr "Poslední rok"
+
+msgid "Past 2 years"
+msgstr "Poslední 2 roky"
+
+msgid "Delete notifications"
+msgstr "Oznámení s smazání"
+
+msgid "External Only"
+msgstr "Pouze externí"
+
+msgid "Future Only"
+msgstr "Pouze budoucnost"
+
+msgid "Color mapping"
+msgstr "Mapování barvy"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"Zadejte e-mailovou adresu svého účtu Google, klikněte na tlačítko „Vybrat "
+"kalendář“ a vyberte kalendář, do kterého chcete přistupovat."
+
+msgid "Select calendar"
+msgstr "Vyberte kalendář"
+
+msgid "Unable to read the calendars."
+msgstr "Nelze číst kalendáře."
+
+msgid "Authentication failed."
+msgstr "Ověření selhalo."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Nelze ověřit na Google.\n"
+"Ověřte prosím, že váš e-mail\n"
+"a heslo jsou správné."
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr "Událost nelze nahrát, protože cílový kalendář nebyl definován."
+
+msgid "Google Calendar Error (%s)!"
+msgstr "Chyba kalendáře Google (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"Nelze ověřit Google účet. 2-stupňové ověření pro váš účet je povoleno, takže "
+"budete muset vytvořit specifické heslo pro Rainlendar. Můžete to udělat v "
+"nastavení účtu Google v rámci \"2-step verification\"."
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"Nelze se připojit do Googlu. Přístup Rainlendar ke Kalendáři Google mohl být "
+"zrušen. Přejděte do části Možnosti->Kalendáře a znovu spusťte ověřování "
+"kalendáře."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Nelze ověřit na Google.\n"
+"Server vrátil výsledek: (%i) %i %s."
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Nelze stáhnout kalendáře.\n"
+"Server vrátil výsledek: (%i) %i %s."
+
+msgid "Unable to parse the calendar url."
+msgstr "Nelze zpracovat URL kalendáře."
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Zdá se, že jste vložili URL adresu jako název kalendáře.\n"
+"Musíte použít jedno ze jmen níže:\n"
+
+msgid "Unable to delete the event: "
+msgstr "Nelze smazat tuto událost:"
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"Událost nemůže být nahrána do Google kalendáře v důsledku konfliktu. "
+"Aktualizovaná událost bude nahrána znovu z Google kalendáře."
+
+msgid "Unable to parse the events."
+msgstr "Nelze zpracovat události."
+
+msgid "Unable to upload the event: "
+msgstr "Nelze nahrát tuto událost:"
+
+msgid "Task list name"
+msgstr "Název seznamu úkolů"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"Zadejte e-mailovou adresu svého účtu Google, klikněte na tlačítko „Vybrat "
+"seznam úkolů“ a vyberte seznam úkolů, ke kterým chcete přistupovat."
+
+msgid "Select task list"
+msgstr "Vyberte seznam úkolů"
+
+msgid "Unable to read the task lists."
+msgstr "Nelze číst seznamy úkolů."
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr "Úkol nelze nahrát, protože cílový kalendář nebyl definován."
+
+msgid "Google Tasks Error (%s)!"
+msgstr "Chyba Úkoly Google (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"Nelze se připojit do Googlu. Přístup Rainlendar do seznamu úkolů Google mohl "
+"být zrušen. Obnovte prosím kalendář a znovu ověřte Rainlendar ke svému účtu "
+"Google."
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Nelze stáhnout seznam úkolů.\n"
+"Server vrátil výsledek: (%i) %i %s."
+
+msgid "Unable to parse the task list url."
+msgstr "Nelze zpracovat url seznamu úkolů."
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Zdá se, že jste vložili URL adresu jako název seznamu úkolů.\n"
+"Musíte použít jedno ze jmen níže:\n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"Nelze najít zvolený seznam úkolů (%s).\n"
+"\n"
+"Dostupné kalendáře jsou:\n"
+
+msgid "Unable to delete the task: "
+msgstr "Nelze smazat tento úkol:"
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"Událost nemůže být nahrána do Google úkolů v důsledku konfliktu. "
+"Aktualizovaná událost bude nahrána znovu z Google úkolů."
+
+msgid "Unable to upload the task: "
+msgstr "Nelze nahrát tento úkol:"
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Soubory Rainlendar (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "Bezepečné nahrání"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"Vyberte adresu, uživatelské jméno a heslo ke kalendáři.\n"
+"\n"
+"Adresa může používat http, https nebo ftp protokol. Pokud není potřeba "
+"uživatelské jméno a heslo, mohou pole zůstat prázdná."
+
+msgid "Network Error (%s)!"
+msgstr "Síťová chyba (%s)!"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "Není možné přidat položku do online kalendáře."
+
+msgid "Unable to remove the item from the online calendar."
+msgstr "Není možné odebrat položku z online kalendáře."
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"Nelze zpracovat soubor: %s\n"
+"Soubor může být poškozen."
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"Server vrátil prázdný výsledek. Ujistěte se, že url kalendáře ukazuje na "
+"soubor a ne na složku."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Chyba při stahování dat z adresy:\n"
+"%s\n"
+"\n"
+"Server vrátil výsledek:  (%i) %i %s."
+
+msgid "Downloaded event count"
+msgstr "Počet stažených událostí"
+
+msgid "Office 365"
+msgstr "Office 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"Zadejte e-mailovou adresu účtu Office 365, klikněte na tlačítko \"Vybrat "
+"kalendář\" a vyberte kalendář, ke kterému chcete přistupovat."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Nelze se připojit k účtu Office 365.\n"
+"Zkontrolujte prosím svůj e-mail\n"
+"a heslo jsou-li správné."
+
+msgid "Office365 Error (%s)!"
+msgstr "Chyba Office365 (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Nelze se připojit k účtu Office 365. Možná byl zrušen přístup Rainlendar ke "
+"kalendáři Office 365. Obnovte prosím kalendář a znovu ověřte Rainlendar ke "
+"svému účtu Office 365."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Nelze se připojit k účtu Office 365.\n"
+"Server vrátil výsledek: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Událost nelze zaznamenat kvůli konfliktu. Aktualizovaná událost bude znovu "
+"načtena ze serveru."
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"Chyba Outlooku!\n"
+"Nepodařilo se inicializovat knihovnu MAPI.\n"
+"\n"
+"Pokud jste aktualizovali Rainlendar nebo Outlook, musíte v nastavení "
+"Rainlendaru znovu vytvořit kalendář Outlooku.\n"
+"\n"
+"Zkontrolujte také, zda používáte stejné verze (32-bitové vs. 64-bitové) u "
+"obou aplikací."
+
+msgid "Application"
+msgstr "Aplikace"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "MessageStore"
+msgstr "Úložiště zpráv"
+
+msgid "Folders"
+msgstr "Složky"
+
+msgid "Default Folder"
+msgstr "Výchozí složka"
+
+msgid "Use labels instead of categories"
+msgstr "Používat štítky místo kategorií"
+
+msgid "Show edit links"
+msgstr "Zobrazit odkazy k upravení"
+
+msgid "Keep MAPI connection alive"
+msgstr "Udržovat MAPI spojení naživu"
+
+msgid "Month"
+msgstr "Měsíc"
+
+msgid "6 months"
+msgstr "6 měsíců"
+
+msgid "Year"
+msgstr "Rok"
+
+msgid "2 years"
+msgstr "2 roky"
+
+msgid "Read birthdays from contacts"
+msgstr "Číst narozeniny z kontaktů"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Vyberte úložiště zpráv Outlooku, které chcete vidět v Rainlendaru."
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][upravit]]"
+
+msgid "Outlook error!"
+msgstr "Chyba Outlooku!"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr "Chyba při čtení položek Outlooku z \"%s\". Viz log pro více informací."
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "Aktualizace položky selhala. Chybový kód 0x%p"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr ""
+"Nepodařilo se zapsat do položky Outlooku. Nejsou k dispozici žádné složky, "
+"kde by mohla být uložena."
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "Nepodařilo se smazat položku! Chybový kód 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "Nelze najít seznam úkolů Remeber The Milk!"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "Seznam \"%s\" nebyl nalezen. Dostupné seznamy jsou:"
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "Napište prosím jméno přesně jako to je ve výše uvedeném seznamu."
+
+msgid "Unable to parse the ID from the task."
+msgstr "Nelze zpracovat ID z úkolu."
+
+msgid "Unable to create the task."
+msgstr "Nelze vytvořit úkol."
+
+msgid "Unable to parse the timeline."
+msgstr "Nelze zpracovat časový přehled."
+
+msgid "The service is temporarily unavailable."
+msgstr "Služba je dočasně nedostupná."
+
+msgid "Please log in to Remember The Milk."
+msgstr "Přihlašte se prosím k Remeber The Milk účtu."
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"Musíte autorizovat Rainlendar pro přístup k vašemu Remeber The Milk účtu. "
+"Přihlašte se prosím k Remeber The Milk webové stránce a povolte Rainlendaru "
+"přístup k vašemu účtu.\n"
+"\n"
+"Váš výchozí internetový prohlížeč se automaticky otevře, pokud kliknete na "
+"OK."
+
+msgid "Continue after authorization."
+msgstr "Pokračovat po autorizaci."
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr "Klikněte na OK pro pokračování poté, co jste autorizovali Rainlendar."
+
+msgid "Unable to parse the output."
+msgstr "Nelze zpracovat výstup."
+
+msgid "Unknown response for call \"%s\"."
+msgstr "Neznámá odpověď pro volání \"%s\"."
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"Volám \"%s\" neúspěšně:\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "Volání způsobu \"%s\" neúspěšné."
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "Chyba Remember The Milk (%s)!"
+
+msgid "List"
+msgstr "Seznam"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"Vyberte název seznamu úkolů z Remember The Milk. Můžete také ponechat pole "
+"prázdné, pokud chcete získat všechny vaše seznamy."
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"Ověření tokenu chybí. Musíte dát Rainlenderu přístup k vašemu Remember The "
+"Milk účtu."
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"Nelze najít adresář \"%s\".\n"
+"\n"
+"Dostupné adresáře jsou:"
+
+msgid "Toodledo Error (%s)!"
+msgstr "Chyba Toodledo (%s)!"
+
+msgid "Folder"
+msgstr "Složka"
+
+msgid "Poll for changes"
+msgstr "Anketa pro změny"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr "Prosím zadejte svoji e-mailovou adresu a heslo pro Toodledo."
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "Nelze otevřít soubor \"%s\" pro psaní."
+
+msgid "Filename"
+msgstr "Název souboru"
+
+msgid "Monitor changes"
+msgstr "Sledovat změny"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"Vyberte soubor pro kalendář.\n"
+"\n"
+"Můžete vybrat existující soubor ics nebo napsat nový název. V tom případě "
+"bude vytvořen nový soubor."
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "Soubory iCalendar (*.ics)|*.ics|Soubory vCalendar (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr ""
+"Cesta k souboru kalendáře \"%s\" neexistuje. Přejděte na Možnosti->Kalendáře "
+"a ověřte, zda je umístění souboru správně nastaveno."
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "Nelze vytvořit dočasnou kopii souboru \"%s\"."
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "Nelze nahradit soubor \"%s\"."
+

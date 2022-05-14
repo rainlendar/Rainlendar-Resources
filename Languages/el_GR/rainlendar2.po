@@ -1,0 +1,5279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: 2019-12-25 11:26+0200\n"
+"Last-Translator: Lektor <lektor@4x4.gr>\n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Το Rainlendar δεν είναι δυνατό να ξεκινήσει το διακομιστή HTTP για να λάβει "
+"την απόκριση OAuth. Βεβαιωθείτε ότι δεν έχετε οποιοδήποτε λογισμικό "
+"ασφαλείας που αποτρέπει την εφαρμογή από τους διακομιστές εκκίνησης και ότι "
+"δεν υπάρχουν άλλες υπηρεσίες που εκτελούνται στην ίδια θύρα."
+
+msgid "Server Port: "
+msgstr "Θύρα διακομιστή: "
+
+msgid "Failed to start HTTP server"
+msgstr "Απέτυχε η εκκίνηση του διακομιστή HTTP"
+
+msgid "Choose the backup path"
+msgstr "Επιλέξτε τη διαδρομή αντιγράφου ασφαλείας"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "Αρχείο (*. zip) | *. zip"
+
+msgid "Authentication failed!"
+msgstr "Η ταυτοποίηση απέτυχε!"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "Βεβαιωθείτε ότι έχετε ολοκληρώσει τη διαδικασία ελέγχου ταυτότητας"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr ""
+"και δώσε άδεια στον Ρέινισταρ να αποκτήσει πρόσβαση στο ημερολόγιό σου."
+
+msgid "Authentication succeeded!"
+msgstr "Ο έλεγχος ταυτότητας ολοκληρώθηκε με επιτυχία!"
+
+msgid "You may close the browser window now."
+msgstr "Μπορείτε να κλείσετε το παράθυρο του προγράμματος περιήγησης τώρα."
+
+msgid "Choose the backup file:"
+msgstr "Επιλέξτε το αρχείο αντιγράφου ασφαλείας:"
+
+msgid "Select"
+msgstr "Επιλογή"
+
+msgid "No backups found!"
+msgstr "Δεν βρέθηκαν αντίγραφα ασφαλείας!"
+
+msgid "There are no backups available in the backup folder."
+msgstr ""
+"Δεν υπάρχουν διαθέσιμα αντίγραφα ασφαλείας στο φάκελο αντιγράφων ασφαλείας."
+
+msgid "The settings do not exist!"
+msgstr "Οι ρυθμίσεις δεν υπάρχουν!"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr ""
+"Το επιλεγμένο αρχείο αντιγράφου ασφαλείας δεν περιέχει το αρχείο ρυθμίσεων."
+
+msgid "The file already exists:"
+msgstr "Το αρχείο υπάρχει ήδη:"
+
+msgid "Do you want to overwrite the file?"
+msgstr "Θέλετε να αντικαταστήσετε το αρχείο;"
+
+msgid "Unable to overwrite file:"
+msgstr "Αδυναμία αντικατάστασης του αρχείου:"
+
+msgid "Write error!"
+msgstr "Σφάλμα εγγραφής!"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"Δεν είναι δυνατή η επαναφορά του αρχείου:\n"
+"%s\n"
+"\n"
+"Πρέπει να εξαγάγετε το αρχείο με μη αυτόματο τρόπο από το αρχείο αντιγράφων "
+"ασφαλείας."
+
+msgid "Restore error!"
+msgstr "Σφάλμα Επαναφοράς!"
+
+msgid "[None]"
+msgstr "[Κανένα]"
+
+msgid "<Hidden>"
+msgstr "<Κρυφό>"
+
+msgid "all"
+msgstr "όλα"
+
+msgid "active"
+msgstr "ενεργό"
+
+msgid "dismissed"
+msgstr "απέρριψε"
+
+msgid "snoozed"
+msgstr "σε αναβολή"
+
+msgid "Show only needs action"
+msgstr "Εμφάνιση μόνο αναγκέων δράσεων"
+
+msgid "Show only in progress"
+msgstr "Εμφάνιση μόνο σε εξέλιξη"
+
+msgid "Show only completed"
+msgstr "Εμφάνιση μόνο ολοκληρωμένων"
+
+msgid "Show only cancelled"
+msgstr "Εμφάνιση μόνο ακυρωμένων δράσεων"
+
+msgid "Hide needs action"
+msgstr "Απόκρυψη αναγκέων δράσεων"
+
+msgid "Hide in progress"
+msgstr "Απόκρυψη σε εξέλιξη"
+
+msgid "Hide completed"
+msgstr "Η απόκρυψη ολοκληρώθηκε"
+
+msgid "Hide cancelled"
+msgstr "Απόκρυψη ακυρωμένων"
+
+msgid "Reset completed time"
+msgstr "Επαναφορά ολοκληρωμένου χρόνου"
+
+msgid "Show only no priority"
+msgstr "Εμφάνιση μόνο χωρίς προτεραιότητα"
+
+msgid "Show only high priority"
+msgstr "Εμφάνιση μόνο υψηλής προτεραιότητας"
+
+msgid "Show only normal priority"
+msgstr "Εμφάνιση μόνο κανονικής προτεραιότητας"
+
+msgid "Show only low priority"
+msgstr "Εμφάνιση μόνο χαμηλής προτεραιότητας"
+
+msgid "Hide no priority"
+msgstr "Απόκρυψη χωρίς προτεραιότητα"
+
+msgid "Hide high priority"
+msgstr "Απόκρυψη υψηλής προτεραιότητας"
+
+msgid "Hide normal priority"
+msgstr "Απόκρυψη κανονικής προτεραιότητας"
+
+msgid "Hide low priority"
+msgstr "Απόκρυψη χαμηλής προτεραιότητας"
+
+msgid "Show only alarms"
+msgstr "Εμφάνιση μόνο συναγερμών"
+
+msgid "Show only active"
+msgstr "Εμφάνιση μόνο ενεργών"
+
+msgid "Show only snoozed"
+msgstr "Εμφάνιση μόνο σε αναμονή"
+
+msgid "Show only dismissed"
+msgstr "Εμφάνιση μόνο απορρίπτεται"
+
+msgid "Hide alarms"
+msgstr "Απόκρυψη συναγερμών"
+
+msgid "Hide active"
+msgstr "Απόκρυψη ενεργών"
+
+msgid "Hide snoozed"
+msgstr "Απόκρυψη σε αναμονή"
+
+msgid "Hide dismissed"
+msgstr "Απόκρυψη απορρίπτεται"
+
+msgid "Reset dismiss time"
+msgstr "Επαναφορά χρόνου απόρριψης"
+
+msgid "Reset snooze time"
+msgstr "Επαναφορά χρόνου αναβολής"
+
+msgid "Dismiss next alarm"
+msgstr "Απόρριψη επόμενου συναγερμού"
+
+msgid "Duration:"
+msgstr "Διάρκεια:"
+
+msgid "Next alarm:"
+msgstr "Επόμενος συναγερμός:"
+
+msgid "Dismissed:"
+msgstr "Απέρριψε:"
+
+msgid "Snoozed until:"
+msgstr "Αναμονή μέχρι:"
+
+msgid "In Progress"
+msgstr "Σε εξέλιξη"
+
+msgid "Completed"
+msgstr "Ολοκληρώθηκε"
+
+msgid "Needs Action"
+msgstr "Χρειάζεται δράση"
+
+msgid "Cancelled"
+msgstr "Ακυρώθηκε"
+
+msgid "None"
+msgstr "Καμμία"
+
+msgid "High"
+msgstr "Υψηλή"
+
+msgid "Normal"
+msgstr "Κανονική"
+
+msgid "Low"
+msgstr "Χαμηλή"
+
+msgid "All"
+msgstr "Όλα"
+
+msgid "Active"
+msgstr "Ενεργό"
+
+msgid "Dismissed"
+msgstr "Απορρίφθηκε"
+
+msgid "Snoozed"
+msgstr "Σε αναβολή"
+
+msgid "Daily"
+msgstr "Καθημερινά"
+
+msgid "Weekly"
+msgstr "Εβδομαδιαία"
+
+msgid "Monthly"
+msgstr "Μηνιαία"
+
+msgid "Yearly"
+msgstr "Ετήσια"
+
+msgid "Private"
+msgstr "Προσωπικό"
+
+msgid "Public"
+msgstr "Δημόσιο"
+
+msgid "Confidential"
+msgstr "Εμπιστευτικό"
+
+msgid "Default"
+msgstr "Προεπιλεγμένο"
+
+msgid "No priority"
+msgstr "Χωρίς προτεραιότητα"
+
+msgid "Normal priority"
+msgstr "Κανονική προτεραιότητα"
+
+msgid "High priority"
+msgstr "Υψηλή προτεραιότητα"
+
+msgid "Low priority"
+msgstr "Χαμηλή προτεραιότητα"
+
+msgid "Created: "
+msgstr "Δημιουργήθηκε: "
+
+msgid "Unknown"
+msgstr "Άγνωστο"
+
+msgid "Modified: "
+msgstr "Τροποποιήθηκε: "
+
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+msgid "Region"
+msgstr "Περιοχή"
+
+msgid "Native"
+msgstr "Τοπική"
+
+msgid "Sunday"
+msgstr "Κυριακή"
+
+msgid "Monday"
+msgstr "Δευτέρα"
+
+msgid "Tuesday"
+msgstr "Τρίτη"
+
+msgid "Wednesday"
+msgstr "Τετάρτη"
+
+msgid "Thursday"
+msgstr "Πέμπτη"
+
+msgid "Friday"
+msgstr "Παρασκευή"
+
+msgid "Saturday"
+msgstr "Σάββατο"
+
+msgid "Every second Saturday"
+msgstr "Κάθε δεύτερο Σάββατο"
+
+msgid "Start"
+msgstr "Αρχή"
+
+msgid "Due"
+msgstr "Λήξη"
+
+msgid "Priority"
+msgstr "Προτεραιότητα"
+
+msgid "Status"
+msgstr "Κατάσταση"
+
+msgid "Category"
+msgstr "Κατηγορία"
+
+msgid "Recurrence"
+msgstr "Επανεμφάνιση"
+
+msgid "Off"
+msgstr "Απενεργοποίηση"
+
+msgid "Beta"
+msgstr "Δοκιμαστική έκδοση"
+
+msgid "General"
+msgstr "Γενικά"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "% H:%M (π.χ. \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "% #H:% M (π.χ. \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "% I:%M% p (π.χ. \"01:42 μ.μ.\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "% #I:% M% p (π.χ. \"3:42 μ.μ.\")"
+
+msgid "Time format"
+msgstr "Διαμόρφωση ώρας"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "% d .% #m .% Y (π.χ. \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "% d .% m .% Y (π.χ. \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "% Y-% m-% d (π.χ. \"2012-04-21\")"
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "% #m/%d/%Y (π.χ. \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "% m/% d/% Y (π.χ. \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "Διαμόρφωση ημερομηνίας"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "Χρησιμοποιήστε «Σήμερα» και «Αύριο»"
+
+msgid "Weekend days"
+msgstr "Ημέρες Αργίας"
+
+msgid "Week number delta"
+msgstr "Αριθμός εβδομάδας Δέλτα"
+
+msgid "Default categories"
+msgstr "Προεπιλεγμένες κατηγορίες"
+
+msgid "Show categories from the skin"
+msgstr "Εμφάνιση κατηγοριών απο την υφή"
+
+msgid "Show tray icon"
+msgstr "Εμφάνιση γραμμής εργασιών"
+
+msgid "Show tray status icons"
+msgstr "Εμφάνιση κατάστασης εικονιδίων γραμμής εργασιών"
+
+msgid "Day number"
+msgstr "Αριθμός ημέρας"
+
+msgid "Week number"
+msgstr "Αριθμός εβδομάδας"
+
+msgid "Number in tray"
+msgstr "Αριθμός στην γραμμή εργασιών"
+
+msgid "Always"
+msgstr "Πάντα"
+
+msgid "Never"
+msgstr "Ποτέ"
+
+msgid "Show full menus"
+msgstr "Εμφάνιση πλήρης μενού"
+
+msgid "Disable keyboard shortcuts"
+msgstr "Απενεργοποίηση συντομεύσεων πληκτρολογίου"
+
+msgid "List wheel scroll"
+msgstr "Ταχύτητα μεσαίου κουμπιού στη λίστα"
+
+msgid "Skin language"
+msgstr "Γλώσσα εμφάνισης"
+
+msgid "Number of stored backups"
+msgstr "Αριθμός αποθηκευμένων αντιγράφων ασφαλείας"
+
+msgid "Show delete confirmations"
+msgstr "Εμφάνιση επιβεβαίωσης διαγραφής"
+
+msgid "Disable text formatting"
+msgstr "Απενεργοποίηση διαμόρφωσης κειμένου"
+
+msgid "Show empty list text"
+msgstr "Εμφάνιση κενού κειμένου λίστας"
+
+msgid "Check for updates"
+msgstr "Ελεγχος για ενημερώσεις"
+
+msgid "Show url icons"
+msgstr "Εμφάνιση URL εικονιδίων"
+
+msgid "Simultaneous transfers"
+msgstr "Ταυτόχρονες μεταβιβάσεις"
+
+msgid "Only uncategorized"
+msgstr "Μόνο χωρίς κατηγοριοποίηση"
+
+msgid "Icon from events"
+msgstr "Εικονίδιο από συμβάντα"
+
+msgid "Visual category overwrite"
+msgstr "Αντικατάσταση οπτικής κατηγορίας"
+
+msgid "Store English category names"
+msgstr "Αποθήκευση  Αγγλικών ονομάτων κατηγοριών"
+
+msgid "Custom category icon path"
+msgstr "Διαδρομή εικονιδίου προσαρμοσμένης κατηγορίας"
+
+msgid "Use antialiased fonts"
+msgstr "Χρήση αντιλυθέντων γραμματοσειρών"
+
+msgid "Count"
+msgstr "Μέτρηση"
+
+msgid "Ordinal"
+msgstr "Τακτικό"
+
+msgid "Type of year to add for categories"
+msgstr "Τύπος έτους για προσθήκη για κατηγορίες"
+
+msgid "Use custom password encrypting"
+msgstr "Χρήση προσαρμοσμένης κρυπτογράφησης κωδικού"
+
+msgid "Editor"
+msgstr "Συντάκτης"
+
+msgid "Allow multiple calendars"
+msgstr "Να επιτρέπονται πολλαπλά ημερολόγια"
+
+msgid "Allow multiple categories"
+msgstr "Να επιτρέπονται πολλές κατηγορίες"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "Διατηρήστε τον επεξεργαστή ανοιχτό μέχρι την επιτυχή εγγραφή"
+
+msgid "Time span in the editor"
+msgstr "Χρονικό διάστημα στο πρόγραμμα επεξεργασίας"
+
+msgid "Number of previous locations"
+msgstr "Αριθμός προηγούμενων τοποθεσιών"
+
+msgid "Default event duration"
+msgstr "Προεπιλεγμένη διάρκεια συμβάντος"
+
+msgid "Windows"
+msgstr "Παράθυρα"
+
+msgid "Use window names"
+msgstr "Χρήση ονομάτων παραθύρων"
+
+msgid "Hide on Aero peek"
+msgstr "Απόκρυψη του Aero peek"
+
+msgid "Transparency type"
+msgstr "Τύπος διαφάνειας"
+
+msgid "Copy transparency sleep time"
+msgstr "Χρόνος απόκρυψης αντιγράφου διαφάνειας"
+
+msgid "Fade delay (ms)"
+msgstr "Καθυστέρηση σβησίματος"
+
+msgid "Fade duration (ms)"
+msgstr "Διάρκεια σβησίματος (ms)"
+
+msgid "Allow window fading"
+msgstr "Δυνατότητα εξασθένης του παραθύρου"
+
+msgid "Keep on screen"
+msgstr "Πάντα στην οθόνη"
+
+msgid "Bring all windows on top when clicked"
+msgstr "Φέρτε όλα τα παράθυρα στην κορυφή όταν κάνετε κλικ"
+
+msgid "Show in all desktops"
+msgstr "Εμφάνιση σε όλες τις επιφάνειες εργασίας"
+
+msgid "Snap distance"
+msgstr "Διάκενο παραθύρων"
+
+msgid "Snap center"
+msgstr "Κεντραρισμένη μετατόπιση"
+
+msgid "Don't save"
+msgstr "Να μην αποθηκευθεί"
+
+msgid "Per resolution"
+msgstr "Ανά ανάλυση"
+
+msgid "Single value"
+msgstr "Μονή τιμή"
+
+msgid "Save window position"
+msgstr "Αποθήκευση θέσης παραθύρου"
+
+msgid "Font face"
+msgstr "Επιλογή γραμματοσειράς"
+
+msgid "Scaling quality"
+msgstr "Ποιότητα κλιμάκωσης"
+
+msgid "Network"
+msgstr "Δίκτυο"
+
+msgid "Reload delay after resume (s)"
+msgstr "Καθυστέρηση φόρτωσης μετά τη συνέχιση (ες)"
+
+msgid "Network access delay after startup (s)"
+msgstr "Καθυστέρηση πρόσβασης δικτύου στην εκκίνηση (δτλ)"
+
+msgid "Proxy server"
+msgstr "Διακομιστής Proxy"
+
+msgid "Proxy user"
+msgstr "Όνομα χρήστη proxy"
+
+msgid "Proxy password"
+msgstr "Κωδικός proxy"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgid "Proxy type"
+msgstr "Τύπος διακομιστή μεσολάβησης"
+
+msgid "Try direct connection if proxy fails"
+msgstr "Δοκίμασε απευθείας σύνδεση αν αποτύχει η σύνδεση με proxy"
+
+msgid "Calendar"
+msgstr "Ημερολόγιο"
+
+msgid "Show all icons"
+msgstr "Εμφάνιση όλων των εικονιδίων"
+
+msgid "Show one icon per type"
+msgstr "Εμφάνιση ενός εικονιδίου ανά τύπο"
+
+msgid "Show only one icon"
+msgstr "Εμφάνιση μόνο ενός εικονιδίου"
+
+msgid "Show no icons"
+msgstr "Εμφάνιση χωρίς εικονίδια"
+
+msgid "Combine icons in the calendar"
+msgstr "Συνδιάστε εικονίδια στο ημερολόγιο"
+
+msgid "Calendar wheel scroll"
+msgstr "Κύλιση τροχού ημερολογίου"
+
+msgid "Show tasks in calendar"
+msgstr "Εμφάνιση εργασιών στο ημερολόγιο"
+
+msgid "Always show menu"
+msgstr "Να εμφανίζεται πάντα το μενού"
+
+msgid "Always create new event"
+msgstr "Να δημιουργείται πάντα νέο συμβάν"
+
+msgid "Do nothing"
+msgstr "Καμία ενέργεια"
+
+msgid "Double click action"
+msgstr "Δράση διπλού κλικ"
+
+msgid "Tooltip"
+msgstr "Επεξήγηση εργαλείου"
+
+msgid "Show tooltips"
+msgstr "Εμφάνιση επεξήγησης εργαλείου"
+
+msgid "Only on days with events"
+msgstr "Μόνο σε ημέρες με γεγονότα"
+
+msgid "Show tooltip in tray"
+msgstr "Show tooltips"
+
+msgid "Max tooltip window width"
+msgstr "Μέγιστο πλάτος παραθύρου επεξήγησης εργαλείου"
+
+msgid "Show description in tooltip"
+msgstr "Εμφάνιση περιγραφής επεξήγησης εργαλείου"
+
+msgid "Task fields in tooltip"
+msgstr "Πεδία εργασίας στη συμβουλή εργαλείου"
+
+msgid "Event fields in tooltip"
+msgstr "Πεδία συμβάντος στη συμβουλή εργαλείου"
+
+msgid "Traytip show duration (s)"
+msgstr "Διάρκεια εμφάνισης επεξήγησης εργαλείου"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "Διάρκεια σβησίματος επεξήγησης εργαλείου (ms)"
+
+msgid "Tooltip show delay (ms)"
+msgstr "Καθυστέρηση εμφάνισης επεξήγησης εργαλείου (ms)"
+
+msgid "Tooltip format"
+msgstr "Διαμόρφωση επεξήγησης εργαλείου"
+
+msgid "Task List"
+msgstr "Λίστα Ενεργειών"
+
+msgid "Show full task summary"
+msgstr "Πλήρης εμφάνιση λίστας ενεργειών"
+
+msgid "Show task due time"
+msgstr "Εμφάνιση χρόνου λήξης ενεργειών"
+
+msgid "Show task location"
+msgstr "Εμφάνιση τοποθεσίας ενέργειας"
+
+msgid "Show task calendar"
+msgstr "Εμφάνιση ημερολογίου εργασίας"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "Ημέρες που εμφανίζει η λίστα (0 = Εμφάνιση όλων)"
+
+msgid "Show task time when arranged by start or due date"
+msgstr ""
+"Εμφάνιση χρόνου εργασίας κατά την τακτοποίηση κατά ημερομηνία έναρξης ή "
+"παράδοσης"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr "% A% d .% #m .% Y (π.χ. \"Δευτέρα 21.4.2012\")"
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr "% A% d .% m .% Y (π.χ. \"Δευτέρα 21.04.2012\")"
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr "% A% Y-% m-% d (π.χ. \"Δευτέρα 2012-04-21\")"
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr "% A% #m/%d/%Y (π.χ. \"Δευτέρα 4/21/2012\")"
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr "% A% m/% d/% Y (π.χ. \"Δευτέρα 04/21/2012\")"
+
+msgid "Task list header format"
+msgstr "Μορφή κεφαλίδας λίστας εργασιών"
+
+msgid "<None>"
+msgstr "<Κανένα>"
+
+msgid "Default task template"
+msgstr "Προεπιλεγμένο πρότυπο εργασίας"
+
+msgid "Event List"
+msgstr "Λίστα Συμβάντων"
+
+msgid "Show full event summary"
+msgstr "Πλήρης εμφάνιση γεγονότων"
+
+msgid "Show event start time"
+msgstr "Εμφάνιση ώρας έναρξης γεγονότος"
+
+msgid "Show event end time"
+msgstr "Εμφάνιση ώρας λήξης γεγονότος"
+
+msgid "Show event location"
+msgstr "Εμφάνιση τοποθεσίας γεγονότος"
+
+msgid "Show event calendar"
+msgstr "Εμφάνιση ημερολογίου συμβάντος"
+
+msgid "Hide dismissed events"
+msgstr "Απόκρυψη παρελθόντων γεγονότων"
+
+msgid "Hide past events"
+msgstr "Απόκρυψη παρελθονμένων γεγονότων"
+
+msgid "Number of future days the list shows"
+msgstr "Αριθμός μελλοντικών ημερών που εμφανίζει η λίστα"
+
+msgid "Number of past days the list shows"
+msgstr "Ο αριθμός των τελευταίων ημερών που εμφανίζει η λίστα"
+
+msgid "Age from start of the week"
+msgstr "Εμφάνιση επόμενης εβδομάδας"
+
+msgid "Event list header format"
+msgstr "Μορφή κεφαλίδας λίστας συμβάντων"
+
+msgid "Default event template"
+msgstr "Προεπιλεγμένο πρότυπο συμβάντος"
+
+msgid "No grouping"
+msgstr "Χωρίς ομαδοποίηση"
+
+msgid "Start and end dates"
+msgstr "Ημερομηνίες έναρξης και λήξης"
+
+msgid "Start date and duration"
+msgstr "Ημερομηνία έναρξης και διάρκεια"
+
+msgid "Group multiday events"
+msgstr "Ομαδικές εκδηλώσεις πολλαπλών ημερών"
+
+msgid "Schedule"
+msgstr "Πρόγραμμα"
+
+msgid "Show schedule descriptions"
+msgstr "Εμφάνιση περιγραφών χρονοδιαγράμματος"
+
+msgid "Show schedule start time"
+msgstr "Εμφάνιση ώρας έναρξης γεγονότος"
+
+msgid "Show schedule end time"
+msgstr "Εμφάνιση ώρας λήξης γεγονότος"
+
+msgid "Show schedule location"
+msgstr "Εμφάνιση τοποθεσίας γεγονότος"
+
+msgid "Show schedule calendar"
+msgstr "Εμφάνιση ημερολογίου χρονοδιαγράμματος"
+
+msgid "Create, move and resize events with mouse"
+msgstr "Δημιουργία, μετακίνηση συμβάντων με το ποντίκι"
+
+msgid "First shown hour"
+msgstr "Πρώτη ώρα που εμφανίζεται"
+
+msgid "Last shown hour"
+msgstr "Τελευταία ώρα που εμφανίζεται"
+
+msgid "Alarm"
+msgstr "Υπενθύμιση"
+
+msgid "Show alarm start time"
+msgstr "Ώρα έναρξης υπενθύμισης"
+
+msgid "Show alarm end time"
+msgstr "Εμφάνιση λήξης υπενθύμισης"
+
+msgid "Show alarm location"
+msgstr "Εμφάνιση τοποθεσίας υπενθύμισης"
+
+msgid "Show alarm calendar"
+msgstr "Εμφάνιση ημερολογίου συναγερμού"
+
+msgid "Show due to the event"
+msgstr "Εμφάνιση λόγω της εκδήλωσης"
+
+msgid "Support Mozilla alarms"
+msgstr "Υποστήριξη ειδοποιήσεων Mozilla"
+
+msgid "Keep alarm always on top"
+msgstr "Υπενθύμιση πάντα στην επιφάνεια"
+
+msgid "Default snooze time (secs)"
+msgstr "Προκαθορισμένη αναβολή υπενθύμισης (secs)"
+
+msgid "Max alarm window width"
+msgstr "Μέγιστο πλάτος παραθύρου υπενθύμισης"
+
+msgid "Hide from alarm after days"
+msgstr "Απόκρυψη υπενθύμισης μετά από μέρες"
+
+msgid "Default alarm time (mins)"
+msgstr "Προεπιλεγμένος χρόνος αφύπνισης (λεπτά)"
+
+msgid "Default alarm file"
+msgstr "Προκαθορισμένος φάκελος υπενθύμισης"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "Χωρίς συναγερμό σε παράθυρο πλήρους οθόνης"
+
+msgid "Loop the alarm sound (secs)"
+msgstr "Βρόχος του ήχου συναγερμού (δευτ.)"
+
+msgid "Snooze times (mins)"
+msgstr "Χρόνος αναβολής υπενθύμισης (mins)"
+
+msgid "Create Error!"
+msgstr "Δημιουργία σφάλματος!"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "Δεν είναι δυνατή η επιλογή του ημερολογίου προορισμού για το στοιχείο."
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "Δεν είναι δυνατή η δημιουργία νέου στοιχείου από τη συμβολοσειρά:\n"
+
+msgid "Parse Error!"
+msgstr "Σφάλμα ανάλυσης!"
+
+msgid "New version found!"
+msgstr "Βρέθηκε νέα έκδοση!"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"Η έκδοση %s είναι διαθέσιμη.\n"
+"Θέλετε να μεταβείτε τώρα στην ιστοσελίδα;"
+
+msgid "No updates available."
+msgstr "Δεν υπάρχουν διαθέσιμες ενημερώσεις."
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "Έχεις την πιο πρόσφατη εκδοχή του Ρέινλενταρ."
+
+msgid "New event"
+msgstr "Νέο γεγονός"
+
+msgid "New task"
+msgstr "Νέα ενέργεια"
+
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+msgid "Options..."
+msgstr "Επιλογές..."
+
+msgid "Manager..."
+msgstr "Διαχείριση..."
+
+msgid "Exit"
+msgstr "Έξοδος"
+
+msgid "File"
+msgstr "Αρχείο"
+
+msgid "View"
+msgstr "Προβολή"
+
+msgid "About..."
+msgstr "Σχετικά με..."
+
+msgid "Open help\tCtrl+?"
+msgstr "Open help\tCtrl+?"
+
+msgid "Help"
+msgstr "Βοήθεια"
+
+msgid "About"
+msgstr "Σχετικά με"
+
+msgid "Calendars"
+msgstr "Ημερολόγια"
+
+msgid "Choose day"
+msgstr "Επιλέξτε την ημέρα"
+
+msgid "Choose month"
+msgstr "Επιλέξτε μήνα"
+
+msgid "Install license..."
+msgstr "Εγκατάσταση αρχείου άδειας χρήσης"
+
+msgid "Show debug log"
+msgstr "Εμφάνιση αρχείου καταγραφής εντοπισμού σφαλμάτων"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+msgid "Enable all calendars"
+msgstr "Ενεργοποίηση όλων των ημερολογίων"
+
+msgid "Disable all calendars"
+msgstr "Απενεργοποίηση όλων των ημερολογίων"
+
+msgid "Current Day"
+msgstr "Τρέχουσα ημέρα"
+
+msgid "Next Day"
+msgstr "Επόμενη Ημέρα"
+
+msgid "Previous Day"
+msgstr "Προηγούμενη ημέρα"
+
+msgid "Next Week"
+msgstr "Επόμενη Εβδομάδα"
+
+msgid "Previous Week"
+msgstr "Προηγούμενη εβδομάδα"
+
+msgid "Next Month"
+msgstr "Επόμενος Μήνας"
+
+msgid "Previous Month"
+msgstr "Προηγούμενος Μήνας"
+
+msgid "Current Month"
+msgstr "Τρέχων Μήνας"
+
+msgid "Next Year"
+msgstr "Επόμενο έτος"
+
+msgid "Previous Year"
+msgstr "Προηγούμενο έτος"
+
+msgid "Home"
+msgstr "Αρχική"
+
+msgid "Right"
+msgstr "Δεξιά"
+
+msgid "Left"
+msgstr "Αριστερά"
+
+msgid "Up"
+msgstr "Πάνω"
+
+msgid "Down"
+msgstr "Κάτω"
+
+msgid "January"
+msgstr "Ιανουάριος"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+msgid "February"
+msgstr "Φεβρουάριος"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+msgid "March"
+msgstr "Μάρτιος"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+msgid "April"
+msgstr "Απρίλιος"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+msgid "May"
+msgstr "Μάιος"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+msgid "June"
+msgstr "Ιούνιος"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+msgid "July"
+msgstr "Ιούλιος"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+msgid "August"
+msgstr "Αύγουστος"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+msgid "September"
+msgstr "Σεπτέμβριος"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+msgid "October"
+msgstr "Οκτώβριος"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+msgid "November"
+msgstr "Νοέμβριος"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+msgid "December"
+msgstr "Δεκέμβριος"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+msgid "Visible"
+msgstr "Ορατό"
+
+msgid "More settings..."
+msgstr "Περισσότερες ρυθμίσεις..."
+
+msgid "Today"
+msgstr "Σήμερα"
+
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+msgid "Show all windows"
+msgstr "Εμφάνιση όλων των παραθύρων"
+
+msgid "Hide all windows"
+msgstr "Απόκρυψη όλων των παραθύρων"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "Αρχεία αδειών χρήσης (*. r2lic) | *. r2lic"
+
+msgid "Choose the license file"
+msgstr "Επιλέξτε το αρχείο άδειας χρήσης"
+
+msgid "*Empty*"
+msgstr "*Άδειο*"
+
+msgid "This instance"
+msgstr "Τρέχουσα εμφάνιση"
+
+msgid "Whole event"
+msgstr "Ολόκληρο το γεγονός"
+
+msgid "All following"
+msgstr "Όλα τα ακόλουθα"
+
+msgid "Cancel"
+msgstr "Άκύρωση"
+
+msgid "Do you want to delete this item?"
+msgstr "Θέλετε να διαγράψετε αυτό το στοιχείο?"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"Αυτό είναι ένα επαναλαμβανόμενο στοιχείο:\n"
+"\n"
+"%s\n"
+"\n"
+"Μπορείτε είτε να διαγράψετε μόνο αυτήν την παρουσία ( %s), όλα τα ακόλουθα "
+"συμβάντα ή ολόκληρο το επαναλαμβανόμενο συμβάν."
+
+msgid "The item is read only and cannot be deleted."
+msgstr ""
+"Το στοιχείο είναι μόνο για ανάγνωση και δεν είναι δυνατή η διαγραφή του."
+
+msgid "Unable to delete the item."
+msgstr "Δεν είναι δυνατή η διαγραφή του στοιχείου."
+
+msgid "Do you want to delete these items?"
+msgstr "Θέλετε να διαγράψετε αυτά τα στοιχεία?"
+
+msgid "The item is read only and cannot be moved."
+msgstr "Το στοιχείο είναι μόνο για ανάγνωση και δεν μπορεί να μετακινηθεί."
+
+msgid "Unable to move the item."
+msgstr "Δεν είναι δυνατή η μετακίνηση του στοιχείου."
+
+msgid "Choose a directory"
+msgstr "Επιλέξτε έναν φάκελο"
+
+msgid "Version"
+msgstr "Έκδοση"
+
+msgid "Built on"
+msgstr "(κατασκευασμένο στο )"
+
+msgid "Developed by"
+msgstr "Ανάπτυξη εφαρμογής από"
+
+msgid "Translated (%s) by"
+msgstr "Μετάφραση ( %s) από"
+
+msgid "Licensed to"
+msgstr "Εξουσιοδοτημένος χρήστης"
+
+msgid "Plugins"
+msgstr "Πρόσθετα"
+
+msgid "Links"
+msgstr "Συνδέσεις"
+
+msgid "FAQ"
+msgstr "Συχνές Ερωτήσεις"
+
+msgid "Forum"
+msgstr "Forum"
+
+msgid "Menu icons by"
+msgstr "Εικονίδια από τον/την"
+
+msgid "Application icon by"
+msgstr "Εικονίδιο εφαρμογής από"
+
+msgid "Copyrights"
+msgstr "Δικαιώματα πνευματικής ιδιοκτησίας"
+
+msgid "Please wait..."
+msgstr "Παρακαλώ περιμένετε..."
+
+msgid "Check for update"
+msgstr "Έλεγχος για διαθέσιμες ενημερώσεις"
+
+msgid "Choose Alarm"
+msgstr "Επιλέξτε υπενθύμιση"
+
+msgid "All files (*.*)|*.*"
+msgstr "Όλα τα αρχεία (*. *) | *. *"
+
+msgid "Change Fields"
+msgstr "Αλλαγή πεδίων"
+
+msgid "%i events selected"
+msgstr "έχουν επιλεγεί % i συμβάντα"
+
+msgid "%i tasks selected"
+msgstr "έχουν επιλεγεί % i εργασίες"
+
+msgid "End time:"
+msgstr "Χρόνος λήξης:"
+
+msgid "Due time:"
+msgstr "Χρόνος λήξης:"
+
+msgid "Add new alarm"
+msgstr "Προσθήκη νέας ειδοποίησης"
+
+msgid "Are you sure you want to do this?"
+msgstr "Είσαι σίγουρος ότι θέλεις να το κάνεις αυτό;"
+
+msgid "The selected fields will be changed to %i items."
+msgstr "Τα επιλεγμένα πεδία θα αλλάξουν σε% i στοιχεία."
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr ""
+"Δεν είναι δυνατή η αναίρεση της λειτουργίας, οπότε κάντε κλικ στο \"Ναι\" "
+"μόνο αν είστε απολύτως βέβαιοι ότι γνωρίζετε τι κάνετε."
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr ""
+"Σημειώστε ότι η αλλαγή του τύπου μεταξύ συμβάντων και εργασιών θα έχει ως "
+"αποτέλεσμα κάποια απώλεια δεδομένων."
+
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgid "Add..."
+msgstr "Προσθήκη..."
+
+msgid "Clear"
+msgstr "Καθαρισμός"
+
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+msgid "Values"
+msgstr "Τιμές"
+
+msgid "Please give a name for the category"
+msgstr "Παρακαλείσθε να δώσετε ένα όνομα για την κατηγορία"
+
+msgid "Enter text"
+msgstr "Εισαγάγετε κείμενο"
+
+msgid "Unable to create the category!"
+msgstr "Δεν είναι δυνατή η δημιουργία της κατηγορίας!"
+
+msgid "You must give a name for the category."
+msgstr "Πρέπει να δώσετε ένα όνομα για την κατηγορία."
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "Δεν επιτρέπεται να χρησιμοποιεί το χαρακτήρα '/' στο όνομα."
+
+msgid "A category called \"%s\" already exists."
+msgstr "Υπάρχει ήδη μια κατηγορία που ονομάζεται \" %s\"."
+
+msgid "Link start and end dates"
+msgstr "Σύνδεση ημερομηνιών έναρξης και λήξης"
+
+msgid "Save\tCtrl+S"
+msgstr "Αποθήκευση\tCtrl+S"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "Αποθήκευση ως νέου\tShift+Ctrl+S"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "Αποθήκευση σε αρχείο...\tAlt+Ctrl+S"
+
+msgid "Print...\tCtrl+P"
+msgstr "Εκτύπωση...\tCtrl+P"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "Διαγραφή\tCtrl+Delete"
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "Κλείσιμο και αποδοχή\tCtrl+Enter"
+
+msgid "Close\tCtrl+W"
+msgstr "Κλείσιμο\tCtrl+W"
+
+msgid "Close\tAlt-F4"
+msgstr "Κλείσιμο\tAlt-F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "Το επιλεγμένο ημερολόγιο δεν υποστηρίζει επανάληψη."
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr ""
+"Η ειδοποίηση δεν θα εμφανιστεί επειδή το ημερολόγιο έχει ενεργοποιήσει τη "
+"ρύθμιση προειδοποιήσεων."
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr ""
+"Ο συναγερμός δεν εμφανίζεται επειδή το δέρμα δεν έχει παράθυρο συναγερμού."
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr ""
+"Η εργασία είναι μόνο για ανάγνωση και δεν είναι δυνατή η αποθήκευση των "
+"τροποποιήσεων."
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr ""
+"Το συμβάν είναι μόνο για ανάγνωση και δεν είναι δυνατή η αποθήκευση των "
+"τροποποιήσεων."
+
+msgid "The task is from a read-only calendar."
+msgstr "Η εργασία προέρχεται από ένα ημερολόγιο μόνο για ανάγνωση."
+
+msgid "The event is from a read-only calendar."
+msgstr "Το συμβάν προέρχεται από ένα ημερολόγιο μόνο για ανάγνωση."
+
+msgid "There are no calendars available which can store tasks."
+msgstr ""
+"Δεν υπάρχουν διαθέσιμα ημερολόγια που να μπορούν να αποθηκεύσουν εργασίες."
+
+msgid "There are no calendars available which can store events."
+msgstr ""
+"Δεν υπάρχουν διαθέσιμα ημερολόγια που να μπορούν να αποθηκεύσουν συμβάντα."
+
+msgid "No target calendar has been selected."
+msgstr "Δεν έχει επιλεγεί ημερολόγιο προορισμού."
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr ""
+"Η αρχική περιγραφή είναι σε HTML και δεν είναι δυνατή η επεξεργασία της."
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"Δεν έχει επιλεγεί ημερολόγιο για το στοιχείο. Επιλέξτε το ημερολόγιο στο "
+"οποίο θέλετε να αποθηκεύσετε το στοιχείο."
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"Δεν υπάρχουν έγκυρα ημερολόγια όπου μπορεί να αποθηκευτεί το στοιχείο. "
+"Πρέπει να μεταβείτε στις επιλογές και να δημιουργήσετε ένα νέο ημερολόγιο "
+"για το στοιχείο. Σημειώστε ότι ορισμένα ημερολόγια δεν υποστηρίζουν τόσο "
+"συμβάντα όσο και εργασίες."
+
+msgid "Unable to save the item."
+msgstr "Δεν είναι δυνατή η αποθήκευση του στοιχείου."
+
+msgid "Updating"
+msgstr "Ενημερώνεται"
+
+msgid "Do you want to save the changes?"
+msgstr "Θέλετε να αποθηκευτούν οι αλλαγές?"
+
+msgid "You have made some changes to the fields."
+msgstr "Έχετε κάνει κάποιες αλλαγές στα πεδία."
+
+msgid "&Save"
+msgstr "&Αποθήκευση"
+
+msgid "&Discard"
+msgstr "Απορρίψη"
+
+msgid "&Cancel"
+msgstr "&Άκυρο"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Είστε σίγουρος πως θέλετε να διαγράψετε αυτό το στοιχείο?"
+
+msgid "Event"
+msgstr "Συμβάν"
+
+msgid "Choose a file"
+msgstr "Επιλογή αρχείου"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "Αρχεία iCalendar (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "Επιλέξτε τα ημερολόγια:"
+
+msgid "Select the categories:"
+msgstr "Επιλέξτε τις κατηγορίες:"
+
+msgid "before the event starts."
+msgstr "πριν αρχίσει το γεγονός."
+
+msgid "before the task is due."
+msgstr "πρίν λήξει η εργασία."
+
+msgid "Set alarm sound"
+msgstr "Ορισμός ήχου συναγερμού"
+
+msgid "Current alarm: "
+msgstr "Τρέχων συναγερμός: "
+
+msgid "Remove alarm"
+msgstr "Κατάργηση συναγερμού"
+
+msgid "Minutes"
+msgstr "Λεπτά"
+
+msgid "Hours"
+msgstr "Ώρες"
+
+msgid "Days"
+msgstr "Ημέρες"
+
+msgid "Alert"
+msgstr "Ειδοποίηση"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr ""
+"Δεν βρέθηκε χειριστής ημερολογίου για το συγκεκριμένο γεγονός. Το γεγονός "
+"δεν αποθηκεύθηκε."
+
+msgid "On the %s day of the month"
+msgstr "Την %s ημέρα του μήνα"
+
+msgid "first"
+msgstr "πρώτη (-ο)"
+
+msgid "second"
+msgstr "δεύτερη (-ο)"
+
+msgid "third"
+msgstr "τρίτη (-ο)"
+
+msgid "fourth"
+msgstr "τέταρτη (-ο)"
+
+msgid "fifth"
+msgstr "πέμπτη (-ο)"
+
+msgid "On the %s %s of the month"
+msgstr "Την (-ο) %s %s του μήνα"
+
+msgid "On the last %s of the month"
+msgstr "Την(-ο) τελευταία (-ο) %s του μήνα"
+
+msgid "On the first weekday of the month"
+msgstr "Την πρώτη εργάσιμη ημέρα του μήνα"
+
+msgid "On the last weekday of the month"
+msgstr "Την τελευταία ημέρα του μήνα"
+
+msgid "On the last day of the month"
+msgstr "Την τελευταία ημέρα του μήνα"
+
+msgid "Please give a name for the template"
+msgstr "Δώστε ένα όνομα για το πρότυπο"
+
+msgid "Unable to create the template!"
+msgstr "Δεν είναι δυνατή η δημιουργία του προτύπου!"
+
+msgid "You must give a name for the template."
+msgstr "Πρέπει να δώσετε ένα όνομα για το πρότυπο."
+
+msgid "A template called \"%s\" already exists."
+msgstr "Ένα πρότυπο που ονομάζεται \" %s\" υπάρχει ήδη."
+
+msgid "Do you want to overwrite the template?"
+msgstr "Θέλετε να αντικαταστήσετε το πρότυπο;"
+
+msgid "Choose the template to delete:"
+msgstr "Επιλέξτε το πρότυπο που θα διαγραφεί:"
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "Επιλέξτε το πρότυπο που χρησιμοποιείται για νέες εργασίες:"
+
+msgid "Choose the template which is used for new events:"
+msgstr "Επιλέξτε το πρότυπο που χρησιμοποιείται για νέα συμβάντα:"
+
+msgid "Save as template..."
+msgstr "Αποθήκευση ως προτύπου..."
+
+msgid "Delete template..."
+msgstr "Διαγραφή προτύπου..."
+
+msgid "Set the default template..."
+msgstr "Ορισμός του προεπιλεγμένου προτύπου..."
+
+msgid "Template"
+msgstr "Πρότυπο"
+
+msgid "Select the day range"
+msgstr "Επιλέξτε το εύρος ημέρας"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"Αυτός ο εξαγωγέας δεν είναι δυνατό να αποθηκεύσει επαναλαμβανόμενα συμβάντα, "
+"ώστε να πρέπει να μετατραπούν σε μονά περιστατικά. Καθορίστε το εύρος ημέρας "
+"που θα αποθηκευτεί στο αρχείο."
+
+msgid "From:"
+msgstr "Από:"
+
+msgid "To:"
+msgstr "Προς:"
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "Η ώρα λήξης δεν μπορεί να είναι προγενέστερη της ώρας έναρξης."
+
+msgid "Birthday"
+msgstr "Γενέθλια"
+
+msgid "Anniversary"
+msgstr "Επέτειος"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Δημιουργήσατε γενέθλια ή επέτειο αλλά δεν ορίσατε επανάληψη.\n"
+"Θέλετε το γεγονός να επαναλαμβάνεται κάθε χρόνο;"
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+msgid "Warning"
+msgstr "Προειδοποίηση"
+
+msgid "Question"
+msgstr "Ερώτηση"
+
+msgid "Information"
+msgstr "Πληροφορίες"
+
+msgid "Do not show this again"
+msgstr "Να μην εμφανιστεί ξανά αυτό το"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "&Yes"
+msgstr "&Ναι"
+
+msgid "&No"
+msgstr "&Όχι"
+
+msgid "Manager"
+msgstr "Διαχειριστής"
+
+msgid "Events"
+msgstr "Γεγονότα"
+
+msgid "Tasks"
+msgstr "Εργασίες"
+
+msgid "Show original"
+msgstr "Εμφάνιση πρωτότυπων"
+
+msgid "Show current"
+msgstr "Εμφάνιση τρεχουσών"
+
+msgid "Show upcoming"
+msgstr "Εμφάνιση επερχόμενων"
+
+msgid "New"
+msgstr "Νέο"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Copy to"
+msgstr "Αντιγραφή σε"
+
+msgid "Move to"
+msgstr "Μετακίνηση σε"
+
+msgid "Change fields"
+msgstr "Αλλαγή πεδίων"
+
+msgid "Import"
+msgstr "Εισαγωγή"
+
+msgid "Export"
+msgstr "Εξαγωγή"
+
+msgid "Print..."
+msgstr "Εκτύπωση..."
+
+msgid "Backup"
+msgstr "Αντίγραφο ασφαλείας"
+
+msgid "Restore"
+msgstr "Επαναφορά"
+
+msgid "Close"
+msgstr "Κλείσιμο"
+
+msgid "Select all"
+msgstr "Επιλογή όλων"
+
+msgid "Select none"
+msgstr "Κενή επιλογή"
+
+msgid "Toggle selection"
+msgstr "Εναλλαγή επιλογής"
+
+msgid "Select duplicates"
+msgstr "Επιλογή διπλότυπων"
+
+msgid "Sort by due time"
+msgstr "Ταξινόμηση κατά χρόνο"
+
+msgid "Sort by end time"
+msgstr "Ταξινόμηση κατά ώρα λήξης"
+
+msgid "Sort by summary"
+msgstr "Ταξινόμηση κατά σύνοψη"
+
+msgid "Sort by location"
+msgstr "Ταξινόμηση κατά τοποθεσία"
+
+msgid "Sort by calendar"
+msgstr "Ταξινόμηση κατά ημερολόγιο"
+
+msgid "Sort by category"
+msgstr "Ταξινόμηση κατά κατηγορία"
+
+msgid "Sort by url"
+msgstr "Ταξινόμηση κατά διεύθυνση URL"
+
+msgid "Sort by repeat"
+msgstr "Ταξινόμηση κατά επανάληψη"
+
+msgid "Sort by priority"
+msgstr "Ταξινόμηση κατά προτεραιότητα"
+
+msgid "Sort by status"
+msgstr "Ταξινόμηση κατά κατάσταση"
+
+msgid "Sort by create time"
+msgstr "Ταξινόμηση κατά δημιουργία χρόνου"
+
+msgid "Sort by modify time"
+msgstr "Ταξινόμηση κατά τροποποίηση χρόνου"
+
+msgid "Sort by start time"
+msgstr "Ταξινόμηση κατά ώρα έναρξης"
+
+msgid "Start time"
+msgstr "Ώρα έναρξης"
+
+msgid "End time"
+msgstr "Χρόνος λήξης"
+
+msgid "Summary"
+msgstr "Σύνοψη"
+
+msgid "Location"
+msgstr "Τοποθεσία"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Create time"
+msgstr "Δημιουργία χρόνου"
+
+msgid "Modify time"
+msgstr "Τροποποίηση χρόνου"
+
+msgid "Reverse sorting"
+msgstr "Αντίστροφη ταξινόμηση"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "Σύνολο: %i (επιλεγμένο: %i)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr ""
+"Το άνοιγμα πολλών στοιχείων για επεξεργασία μπορεί να διαρκέσει πολύ χρόνο. "
+"Είσαι σίγουρος ότι θέλεις να το κάνεις αυτό;"
+
+msgid "Do you want to delete the selected item?"
+msgstr "Θέλετε να διαγράψετε τα επιλεγμένα στοιχεία;"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "Θέλετε να διαγράψετε τα επιλεγμένα στοιχεία %i ;"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr ""
+"Το επιλεγμένο στοιχείο είναι μόνο για ανάγνωση και δεν είναι δυνατή η "
+"διαγραφή του."
+
+msgid "There were %i read only items which were not deleted."
+msgstr "Υπήρχαν %i στοιχεία μόνο για ανάγνωση που δεν διαγράφηκαν."
+
+msgid "Unable to delete some items."
+msgstr "Δεν είναι δυνατή η διαγραφή ορισμένων στοιχείων."
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "Επιλέξτε το ημερολόγιο στο οποίο πρέπει να αντιγραφούν τα στοιχεία:"
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "Επιλέξτε το ημερολόγιο όπου θα πρέπει να μετακινηθούν τα στοιχεία:"
+
+msgid "Operation failed!"
+msgstr "Η λειτουργία απέτυχε!"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr ""
+"Δεν υπάρχουν διαθέσιμα ημερολόγια που να μπορούν να αποθηκεύσουν τα στοιχεία."
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"Η μετακίνηση στοιχείων σε ένα διαδικτυακό ημερολόγιο δεν είναι ασφαλής. Εάν "
+"το ημερολόγιο προορισμού δεν αποδέχεται τα στοιχεία λόγω προβλημάτων δικτύου "
+"ή για κάποιο άλλο λόγο, θα χάσετε όλα τα συμβάντα που μετακινήθηκαν.\n"
+"\n"
+"Έτσι, κάντε κλικ στο \"Ναι\" μόνο αν είστε απολύτως βέβαιοι ότι γνωρίζετε τι "
+"κάνετε."
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "Μετακίνηση %i στοιχεία σε αυτά τα ημερολόγια:\n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "Αντιγραφή %i στοιχεία σε αυτά τα ημερολόγια:\n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"Σημαντικό! Η αντιγραφή στοιχείων σε ένα διαδικτυακό ημερολόγιο απαιτεί "
+"κάποιο χρονικό διάστημα, ώστε να μην είναι διαθέσιμα μέχρι μετά από λίγο."
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr ""
+"Ορισμένα στοιχεία έχουν οριστεί ως μόνο για ανάγνωση και τα οποία έχουν "
+"αντιγραφεί αντί να μετακινηθούν."
+
+msgid "Operation finished!"
+msgstr "Η επιχείρηση τελείωσε!"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "Πρέπει να επιλέξετε τουλάχιστον ένα ημερολόγιο για τα συμβάντα."
+
+msgid "Backup was successful."
+msgstr "Το αντίγραφο ασφαλείας έγινε επιτυχώς."
+
+msgid "The backup contains these files:"
+msgstr "Το αντίγραφο ασφαλείας περιέχει αυτά τα αρχεία:"
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"Προειδοποίηση! Το αρχείο αντιγράφων ασφαλείας δεν περιέχει αρχεία iCalendar. "
+"Εάν έχετε τοπικά αποθηκευμένα συμβάντα ή εργασίες που χρειάζεστε για να "
+"δημιουργήσετε αντίγραφα εργασίας με μη αυτόματο τρόπο."
+
+msgid "Unable to create the backup file."
+msgstr "Αδυναμία δημιουργίας αντιγράφου ασφαλείας."
+
+msgid "The archive contains unknown files:\n"
+msgstr "Το αρχείο περιέχει άγνωστους φακέλους:\n"
+
+msgid "Restore was successful."
+msgstr "Η επαναφορά ήταν επιτυχής."
+
+msgid "There were problems during the restore."
+msgstr "Υπήρχαν προβλήματα κατά τη διάρκεια της επαναφοράς."
+
+msgid "Exported %i events successfully."
+msgstr "Έχουν εξαχθεί %i γεγονότα επιτυχώς."
+
+msgid "Exported %i todo items successfully."
+msgstr "Έχουν εξαχθεί %i ενέργειες επιτυχώς."
+
+msgid "Export failed!"
+msgstr "Η εξαγωγή απέτυχε!"
+
+msgid "Import failed!"
+msgstr "Η εισαγωγή απέτυχε!"
+
+msgid "Options"
+msgstr "Επιλογές"
+
+msgid "Skins"
+msgstr "Εμφανίσεις"
+
+msgid "Hotkeys"
+msgstr "Συντομεύσεις"
+
+msgid "Advanced"
+msgstr "Σύνθετα"
+
+msgid "Reset all settings"
+msgstr "Επαναφορά όλων των ρυθμίσεων"
+
+msgid "Reset offline copy"
+msgstr "Επαναφορά αντιγράφου χωρίς σύνδεση"
+
+msgid "Authenticate"
+msgstr "Αναγνώριση"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Get more languages..."
+msgstr "Λήψη επιπλέον γλωσσών..."
+
+msgid "On Top"
+msgstr "Στην κορυφή"
+
+msgid "On Bottom"
+msgstr "Στο κάτω μέρος"
+
+msgid "On Desktop"
+msgstr "Στην επιφάνεια εργασίας"
+
+msgid "Get more skins..."
+msgstr "Λήψη περισσοτέρων εμφανίσεων..."
+
+msgid "TrayIcon"
+msgstr "Γραμμή εργασιών"
+
+msgid "Author"
+msgstr "Συντάκτης"
+
+msgid "Homepage"
+msgstr "Αρχική σελίδα"
+
+msgid "Addons"
+msgstr "Πρόσθετα"
+
+msgid "Version history"
+msgstr "Ιστορικό εκδόσεων"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr ""
+"Αυτή είναι μια παλαιά μοεφή υφής του Rainlendar. Κάποια από τα "
+"χαρακτηριστικά του πιθανόν να μην υποστηρίζονται."
+
+msgid "Advanced >>>"
+msgstr "Σύνθετο >>>"
+
+msgid "<<< Simple"
+msgstr "<<< Απλό"
+
+msgid "Open containing folder"
+msgstr "Άνοιγμα φακέλου περιεχομένου"
+
+msgid "Custom categories are not supported."
+msgstr "Οι προσαρμοσμένες κατηγορίες δεν υποστηρίζονται."
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr ""
+"Η εμφάνιση \"%s\" δεν υποστηρίζει εμφανίσεις προσαρμοσμένης κατηγορίας, ώστε "
+"να μην είναι δυνατή η επεξεργασία τους."
+
+msgid "Activate only default windows?"
+msgstr "Ενεργοποίηση μόνο των προεπιλεγμένων παραθύρων;"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr ""
+"Θέλετε να ενεργοποιήσετε μόνο τα προεπιλεγμένα παράθυρα ή όλα τα παράθυρα?"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr ""
+"Σημειώστε ότι η ενεργοποίηση όλων των παραθύρων μπορεί να μειώσει τις "
+"επιδόσεις."
+
+msgid "&Default"
+msgstr "Προεπιλεγμένο"
+
+msgid "&All"
+msgstr "Όλα"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"Ενεργοποιήστε το πεδίο επεξεργασίας και πατήστε το συνδυασμό hotkey. "
+"Σημειώστε ότι τα πλήκτρα συντόμευσης είναι καθολικά και θα επηρεάσουν και "
+"άλλες εφαρμογές, οπότε μην τις κάνετε πολύ απλές."
+
+msgid "Hotkey"
+msgstr "Συντόμευση"
+
+msgid "Function"
+msgstr "Λειτουργία"
+
+msgid "Search:"
+msgstr "Αναζήτηση:"
+
+msgid "Do you want to reset all settings?"
+msgstr "Θέλετε να επαναφέρετε όλες τις ρυθμίσεις;"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"Αυτή η επιλογή θα επαναφέρει όλες τις ρυθμίσεις στις αρχικές τιμές.\n"
+"Οι αρχικές ρυθμίσεις θα εφαρμοσθούν άμεσα.\n"
+"Θέλετε να συνεχίσετε?"
+
+msgid "Common"
+msgstr "Κοινό"
+
+msgid "Enabled"
+msgstr "Ενεργοποιημένο"
+
+msgid "Read only"
+msgstr "Μόνο για ανάγνωση"
+
+msgid "Ignore alarms"
+msgstr "Παράβλεψη συναγερμών"
+
+msgid "Default alarm (minutes)"
+msgstr "Προεπιλεγμένη ειδοποίηση (λεπτά)"
+
+msgid "Visual category"
+msgstr "Οπτική κατηγορία"
+
+msgid "Time offset (mins)"
+msgstr "Μετατόπιση χρόνου (λεπτά)"
+
+msgid "Time zone"
+msgstr "Ζώνη ώρας"
+
+msgid "Copy of %s"
+msgstr "Αντίγραφο του %s"
+
+msgid "Please enter a name for the calendar."
+msgstr "Πληκτρολογήστε ένα όνομα για το ημερολόγιο."
+
+msgid "Illegal character!"
+msgstr "Μη έγκυρος χαρακτήρας!"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "Δεν επιτρέπεται η χρήση των χαρακτήρων '/' ή '; ' στο όνομα."
+
+msgid "A calendar called \"%s\" already exists."
+msgstr "Υπάρχει ήδη ένα ημερολόγιο που ονομάζεται \"%s\"."
+
+msgid "Choose another name."
+msgstr "Επιλέξτε άλλο όνομα."
+
+msgid "Authentication failure"
+msgstr "Αποτυχία ελέγχου ταυτότητας"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr ""
+"Η διαδικασία OAuth απέτυχε. Δεν είναι δυνατή η πρόσβαση στα δεδομένα "
+"ημερολογίου σας από το Rainlendar."
+
+msgid "Do you want to delete the skin?"
+msgstr "Θέλετε να διαγράψετε αυτήν την εμφάνιση?"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"Εάν επιλέξετε Ναι, η εμφάνιση \"%s\"\n"
+"θα διαγραφή οριστικά."
+
+msgid "Delete failed!"
+msgstr "Η διαγραφή απέτυχε!"
+
+msgid "Unable to delete the skin."
+msgstr "Δεν είναι δυνατή η διαγραφή της εμφάνισης."
+
+msgid "Print"
+msgstr "Εκτύπωση"
+
+msgid "Print items"
+msgstr "Εκτύπωση στοιχείων"
+
+msgid "End"
+msgstr "Τέλος"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Variables"
+msgstr "Μεταβλητές"
+
+msgid "Window settings"
+msgstr "Ρυθμίσεις παραθύρου"
+
+msgid "Settings can be shown only for a single window."
+msgstr "Οι ρυθμίσεις μπορούν να εμφανιστούν μόνο για ένα μεμονωμένο παράθυρο."
+
+msgid "No settings available."
+msgstr "Δεν υπάρχουν διαθέσιμες ρυθμίσεις."
+
+msgid "Global variables"
+msgstr "Καθολικές μεταβλητές"
+
+msgid "Grow upwards"
+msgstr "Επέκταση προς τα πάνω"
+
+msgid "Window position"
+msgstr "Θέση παραθύρου"
+
+msgid "Disabled"
+msgstr "Απενεργοποιημένο"
+
+msgid "Click through"
+msgstr "Κάντε κλικ μέσα από"
+
+msgid "Scale"
+msgstr "Κλίμακα"
+
+msgid "Filters"
+msgstr "Φίλτρα"
+
+msgid "Included calendars"
+msgstr "Ορατά ημερολόγια"
+
+msgid "Excluded calendars"
+msgstr "Εξαιρούμενα ημερολόγια"
+
+msgid "Included categories"
+msgstr "Συμπεριλαμβανόμενες κατηγορίες"
+
+msgid "Excluded categories"
+msgstr "Μη συμπεριλαμβανόμενες κατηγορίες"
+
+msgid "Task list"
+msgstr "Λίστα Ενεργειών"
+
+msgid "Alphabetically"
+msgstr "Αλφαβητικά"
+
+msgid "By Category"
+msgstr "Κατά κατηγορία"
+
+msgid "By Due Date"
+msgstr "Κατά ημερομηνία λήξης"
+
+msgid "By Start Date"
+msgstr "Κατά ημερομηνία έναρξης"
+
+msgid "By Status"
+msgstr "Κατά Κατάσταση"
+
+msgid "By Priority"
+msgstr "Κατά Προτεραιότητα"
+
+msgid "By Location"
+msgstr "Κατά Τοποθεσία"
+
+msgid "By Calendar"
+msgstr "Κατά Ημερολόγιο"
+
+msgid "Custom"
+msgstr "Προσαρμοσμένο"
+
+msgid "Primary sort order"
+msgstr "Κύρια σειρά ταξινόμησης"
+
+msgid "Secondary sort order"
+msgstr "Δευτερεύουσα σειρα ταξινόμησης"
+
+msgid "Reverse primary sorting"
+msgstr "Αντιστροφή κύριας ταξινόμησης"
+
+msgid "Reverse secondary sorting"
+msgstr "Αντίστροφη δευτερεύουσα ταξινόμηση"
+
+msgid "Empty at top"
+msgstr "Κενό στην κορυφή"
+
+msgid "Hide completed tasks"
+msgstr "Απόκρυψη ολοκληρωθέντων εργασιών"
+
+msgid "Hide canceled tasks"
+msgstr "Απόκρυψη ακυρωμένων εργασιών"
+
+msgid "Hide upcoming tasks"
+msgstr "Απόκρυψη επερχόμενων εργασιών"
+
+msgid "Event list"
+msgstr "Λίστα γεγονότων"
+
+msgid "Show empty days"
+msgstr "Εμφάνιση κενών ημερών"
+
+msgid "Window variables"
+msgstr "Μεταβλητές παραθύρων"
+
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+msgid "Operations"
+msgstr "Λειτουργίες"
+
+msgid "Left click"
+msgstr "Αριστερό κλικ"
+
+msgid "Right click"
+msgstr "Δεξι κλικ"
+
+msgid "Double left click"
+msgstr "Διπλό αριστερό κλικ"
+
+msgid "Double right click"
+msgstr "Διπλό δεξί κλικ"
+
+msgid "Local"
+msgstr "Τοπικό"
+
+msgid "Task"
+msgstr "Εργασία"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr ""
+"Η ημερομηνία πληρωμής πρέπει να οριστεί πριν να καθοριστεί η περιοδικότητα."
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "Ο χρόνος παράδοσης δεν μπορεί να είναι νωρίτερα από την ώρα έναρξης."
+
+msgid "Unable to add new alarm!"
+msgstr "Δεν είναι δυνατή η προσθήκη νέου συναγερμού!"
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr ""
+"Η ημερομηνία πληρωμής πρέπει να καθοριστεί για την εργασία, για να μπορεί να "
+"έχει συναγερμούς."
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "Αναβάθμιση σε έκδοση Pro πριν από την εγκατάσταση της άδειας χρήσης."
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"Εξακολουθείτε να χρησιμοποιείτε την έκδοση Lite που δεν περιλαμβάνει τα "
+"χαρακτηριστικά Pro. Θα πρέπει να πάτε στη σελίδα λήψης του Rainlendar's και "
+"να πάρετε την έκδοση Pro."
+
+msgid "&Get Pro"
+msgstr "Με το Pro"
+
+msgid "&Ignore"
+msgstr "Και Αγνοήστε"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"Εάν κατεβάσατε ένα αρχείο. r2skin ή. r2lang και το πρόγραμμα\n"
+"περιήγησης άλλαξε την επέκταση σε. zip μπορείτε να μετονομάσετε\n"
+"το αρχείο πίσω στον τρόπο που ήταν και να το εισαγάγετε ξανά."
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Τα αρχεία zip δεν μπορούν να εισαχθούν στο Rainlendar."
+
+msgid "Unknown file \"%s\"."
+msgstr "Άγνωστο αρχείο \"%s\"."
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "Δεν είναι δυνατή η εισαγωγή του αρχείου στο Rainlendar."
+
+msgid "Installation failed!"
+msgstr "Η εγκατάσταση απέτυχε!"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr ""
+"Δεν είναι δυνατή η αντιγραφή του αρχείου. Το αρχείο προέλευσης και "
+"προορισμού είναι το ίδιο."
+
+msgid "Unable to install the file \"%s\"."
+msgstr ""
+"Η υφή %s δεν υπάρχει.\n"
+"Δεν ήταν δυνατή η συγχώνευση του πρόσθετου στοιχείου."
+
+msgid "The folder does not have write permissions."
+msgstr "Ο φάκελος δεν έχει δικαιώματα εγγραφής."
+
+msgid "The skin %s doesn't exist."
+msgstr "Η εμφάνηση %s δεν υπάρχει."
+
+msgid "Unable to merge the addon."
+msgstr "Δεν είναι δυνατή η συγχώνευση του προσθέτου."
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"Το αρχείο \"%s\" υπάρχει ήδη.\n"
+"Θέλετε να το αντικαταστήσετε?"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr ""
+"Το παραπάνω αρχείο υπάρχει ήδη. Θέλετε να αντικατασταθεί το υπάρχον αρχείο?"
+
+msgid "Unable to install the skin!"
+msgstr "Δεν είναι δυνατή η εγκατάσταση της εμφάνισης!"
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"Η εμφάνιση περιέχει το αρχείο \"skin.xml\". Είσαι σίγουρος ότι είναι μορφή "
+"XML?"
+
+msgid "The installation was successful!"
+msgstr "Η εγκατάσταση ήταν επιτυχής!"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "Το αρχείο \"%s\" εγκαταστάθηκε με επιτυχία.."
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr "Παρακαλώ ανανεώστε τον Rainlendar για να δείτε τις αλλαγές."
+
+msgid "&Refresh"
+msgstr "&Ανανέωση"
+
+msgid "The installation failed!"
+msgstr "Η εγκατάσταση του %s απέτυχε!"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr "Η εγκατάσταση του αρχείου \"%s\" απέτυχε!"
+
+msgid "Select the calendar for the imported items:"
+msgstr "Επιλέξτε το ημερολόγιο για τα εισαγόμενα στοιχεία:"
+
+msgid "There are no calendars available that are able to store the item."
+msgstr ""
+"Δεν υπάρχουν διαθέσιμα ημερολόγια που να μπορούν να αποθηκεύσουν το στοιχείο."
+
+msgid "Imported %i items successfully."
+msgstr "Έχουν εισαχθεί %i αντικείμενα επιτυχώς."
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr ""
+"Πρέπει να επιλέξετε τουλάχιστον ένα ημερολόγιο για τα γεγονότα που έχουν "
+"εισαχθεί"
+
+msgid "Version mismatch!"
+msgstr "Ασυμφωνία εκδόσεων!"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr ""
+"Αυτό το πρόσθετο εμφάνισης είναι για την έκδοση %s της εμφάνισης. Η "
+"εγκατεστημένη έκδοση είναι %s."
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "Θέλετε να συνεχίσετε; (Η εμφάνιση μπορεί να σπάσει)"
+
+msgid "&Continue"
+msgstr "&Συνέχεια"
+
+msgid "Ca&ncel"
+msgstr "Άκυρο"
+
+msgid "Failed to install \"%s\"."
+msgstr "Απέτυχε η εγκατάσταση του \"%s\"."
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"Το πρόσθετο εμφάνισης έχει ήδη εφαρμοστεί στην εμφάνιση.\n"
+"Μπορείτε να εφαρμόσετε το ίδιο πρόσθετο μόνο μία φορά."
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr ""
+"Δεν ήταν δυνατή η δημιουργία προσωρινού φακέλου για τη συγχώνευση του "
+"πρόσθετου στοιχείου."
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Space"
+msgstr "Space"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "NumLock"
+msgstr "NumLock"
+
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+msgid "Edit \"%s\""
+msgstr "Επεξεργασία \"%s\""
+
+msgid "Delete all"
+msgstr "Διαγραφή όλων"
+
+msgid "Dismiss alarm"
+msgstr "Απόρριψη συναγερμού"
+
+msgid "Tomorrow"
+msgstr "Αύριο"
+
+msgid "Yesterday"
+msgstr "Χθές"
+
+msgid "Last %1"
+msgstr "Τελευταίο %1"
+
+msgid "%1 next week"
+msgstr "%1 επόμενη εβδομάδα"
+
+msgid "%1 last week"
+msgstr "%1 την προηγούμενη εβδομάδα"
+
+msgid "%1 %2 weeks ago"
+msgstr "%1 %2 εβδομάδες πριν"
+
+msgid "%1 in %2 weeks"
+msgstr "%1 σε %2 εβδομάδες"
+
+msgid " (Due in %s)"
+msgstr " (Λόγω του %s)"
+
+msgid " (Overdue %s)"
+msgstr " (Ληξιπρόθεσμο %s)"
+
+msgid "day"
+msgstr "ημέρα"
+
+msgid "days"
+msgstr "ημέρες"
+
+msgid "hour"
+msgstr "ώρα"
+
+msgid "hours"
+msgstr "ώρες"
+
+msgid "minute"
+msgstr "λεπτό"
+
+msgid "minutes"
+msgstr "λεπτά"
+
+msgid " (Due now)"
+msgstr " (Λόγω τώρα)"
+
+msgid "before target"
+msgstr "πριν από τον στόχο"
+
+msgid "Snooze"
+msgstr "Αναβολή"
+
+msgid "Dismiss"
+msgstr "Απόρριψη"
+
+msgid "Edit..."
+msgstr "Επεξεργασία..."
+
+msgid "Move to next day"
+msgstr "Μετακίνηση στην επόμενη ημέρα"
+
+msgid " (%i days)"
+msgstr " (%i ημέρες)"
+
+msgid "Edit event"
+msgstr "Επεξεργασία γεγονότος"
+
+msgid "Delete event"
+msgstr "Διαγραφή γεγονότος"
+
+msgid "[Due %x]"
+msgstr "[Λήξη %x]"
+
+msgid "No location"
+msgstr "Καμμία τοποθεσία"
+
+msgid "No category"
+msgstr "Χωρίς κατηγορία"
+
+msgid "No due date"
+msgstr "Κατά ημερομηνία λήξης"
+
+msgid "No start date"
+msgstr "Κατά ημερομηνία έναρξης"
+
+msgid "High Priority"
+msgstr "Υψηλής προτεραιότητας"
+
+msgid "Medium Priority"
+msgstr "Μεσαία Προτεραιότητα"
+
+msgid "Low Priority"
+msgstr "Χαμηλής προτεραιότητας"
+
+msgid "No Priority"
+msgstr "Χωρίς προτεραιότητα"
+
+msgid "Medium"
+msgstr "Μέτρια"
+
+msgid "Expand"
+msgstr "Επέκταση"
+
+msgid "Collapse"
+msgstr "Σύμπτηξη"
+
+msgid "New subtask"
+msgstr "Νέα δευτερεύουσα εργασία"
+
+msgid "Edit task"
+msgstr "Επεξεργασία ενέργειας"
+
+msgid "Delete task"
+msgstr "Διαγραφή ενέργειας"
+
+msgid "Todo list"
+msgstr "Λίστα ενεργειών"
+
+msgid "Completed to now"
+msgstr "Ολοκληρώθηκε προς το παρόν"
+
+msgid "No events today."
+msgstr "Δεν υπάρχουν γεγονότα σήμερα."
+
+msgid "Today's events:"
+msgstr "Σημερινά γεγονότα:"
+
+msgid "Invalid plugins found!"
+msgstr "Βρέθηκαν μη έγκυρα πρόσθετα!"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"Τα παρακάτω αρχεία στον φάκελο πρόσθετων του\n"
+"Rainlendar δεν είναι έγκυρα και πρέπει να καταργηθούν:\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"Βεβαιώσου ότι όλα τα πρόσθετα είναι από την ίδια έκδοση του Rainlendar."
+
+msgid "allow multiple instances"
+msgstr "να επιτρέπονται πολλαπλές εμφανίσεις"
+
+msgid "install a skin or a language"
+msgstr "εγκατάσταση υφής ή γλώσσας"
+
+msgid "import the given file"
+msgstr "εισαγωγή του δοσμένου φακέλου"
+
+msgid "path where the configuration file will be stored"
+msgstr "διαδρομή όπου θα αποθηκεύεται το αρχείο ρυθμίσεων"
+
+msgid "execute the given function in a script"
+msgstr "εκτέλεση της συγκεκριμένης λειτουργίας σε κώδικα"
+
+msgid "path where the log file will be stored"
+msgstr "διαδρομή όπου θα αποθηκεύεται το αρχείο καταγραφής"
+
+msgid "path where the backups will be stored"
+msgstr "διαδρομή όπου θα αποθηκεύεται το αντίγραφο ασφαλείας"
+
+msgid "add event or task to the calendar"
+msgstr "προσθήκη συμβάντος ή εργασίας στο ημερολόγιο"
+
+msgid "enable verbose logging"
+msgstr "ενεργοποίηση εισώδου με απόκρυψη"
+
+msgid "enable debug logging"
+msgstr "ενεργοποίηση καταγραφής σφαλμάτων"
+
+msgid "disable all logging"
+msgstr "απενεργοποίηση όλων των καταγραφών"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr ""
+"να μην εμφανίζεται το πλαίσιο μηνύματος μετά την εισαγωγή και εγκατάσταση "
+"αρχείων"
+
+msgid "Do you want to start another instance?"
+msgstr "Θέλετε να ξεκινήσετε μια άλλη παρουσία?"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"Το Rainlendar φαίνεται να τρέχει ήδη. Μπορείτε να ξεκινήσετε μια άλλη "
+"παρουσία επιλέγοντας \"Ναι\"."
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"Αν αυτό δεν συμβαίνει και αυτό το ερώτημα αναδύεται κάθε φορά που ξεκινάτε "
+"τον Rainlendar, παρακαλώ αφαιρέστε αυτό το αρχείο:\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Δεν ήταν δυνατή η φόρτωση πόρων από τη διαδρομή:\n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "Σημειώστε ότι τα συμβάντα και οι εργασίες σας θα μένουν ανέπαφες."
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"Το αρχείο ρυθμίσεων λείπει ή είναι κενό.\n"
+"Θέλετε να το επαναφέρετε από το πιο πρόσφατο αρχείο επαναφοράς?"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Αδυναμία δημιουργίας φάκελου διαμόρφωσης:\n"
+"\n"
+"%s\n"
+"\n"
+"Βεβαιωθείτε οτι εχετε δικαίωμα εγγραφής."
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"Το αρχείο ρύθμισης παραμέτρων δεν είναι εγγράψιμο:\n"
+"\n"
+"%s\n"
+"\n"
+"Βεβαιωθείτε ότι έχει τα σωστά δικαιώματα."
+
+msgid "You won't be able to store any settings permanently."
+msgstr "Δεν θα μπορείτε να αποθηκεύετε μόνιμα τις ρυθμίσεις."
+
+msgid "This is a BETA version."
+msgstr "Αυτή είναι μια έκδοση BETA."
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"Χρησιμοποιείς μια έκδοση BETA του Rainlendar. Αυτό σημαίνει ότι το λογισμικό "
+"δεν έχει δοκιμαστεί και δεν είναι κατάλληλο για καθημερινή χρήση.\n"
+"\n"
+"Παρακαλώ αναφέρετε όλα τα σφάλματα στο φόρουμ BETA του Rainlendar στο www."
+"rainlendar.net.\n"
+"\n"
+"(Αυτό το μήνυμα εμφανίζεται μόνο μία φορά)"
+
+msgid "Google Calendar support has been changed"
+msgstr "Η υποστήριξη του ημερολογίου Google έχει αλλάξει"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"Η υποστήριξη του  Google Calender χρησιμοποιεί τώρα έναν διαφορετικό τύπο "
+"ημερολογίου. Για να εμφανίσετε ξανά τα συμβάντα Google, πρέπει να "
+"δημιουργήσετε ένα νέο ημερολόγιο και να επιλέξετε 'Google Calendar (v3)'  ως "
+"τύπο ημερολογίου."
+
+msgid "Everything is hidden."
+msgstr "Τα πάντα είναι κρυμμένα."
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"Φαίνεται ότι όλα τα παράθυρα και το εικονίδιο του έχουν κρυφτεί. Αυτός ήταν "
+"ο σκοπός σου;\n"
+"\n"
+"Κάντε κλικ στο ' ναι ' αν θέλετε να διατηρήσετε τα πάντα κρυμμένα και να μην "
+"ξαναδείτε αυτό το παράθυρο διαλόγου. Κάντε κλικ στο ' Όχι ' για να κάνετε "
+"ξανά ορατά όλα τα παράθυρα."
+
+msgid "Startup error!"
+msgstr "Σφάλμα εκκίνησης!"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"Δεν ήταν δυνατή η σωστή ανανέωση των ρυθμίσεων από το Rainlendar. Θέλετε να "
+"επαναφέρετε όλες τις ρυθμίσεις και να προσπαθήσετε ξανά ή να χρησιμοποιήσετε "
+"μία από τις εκδόσεις του αντιγράφου ασφαλείας;"
+
+msgid "&Reset"
+msgstr "Επαναφορά"
+
+msgid "&Use backup"
+msgstr "Χρήση αντιγράφων ασφαλείας"
+
+msgid "&Keep"
+msgstr "Κράτημα"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Δεν υπάρχουν εμφανίσεις στη διαδρομή:\n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"Το Rainlendar δεν μπόρεσε να φορτώσει την επιλεγμένη εμφάνιση.\n"
+"Θέλετε αντί αυτού να χρησιμοποιηθεί η προεπιλεγμένη εμφάνιση?"
+
+msgid "Unable to load the skin!"
+msgstr "Δεν είναι δυνατή η φόρτωση της εμφάνισης!"
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr ""
+"Δεν ήταν δυνατή η φόρτωση της επιλεγμένης εμφάνισης. Μπορείτε να βρείτε "
+"περισσότερες λεπτομέρειες από το ημερολόγιο του Rainlendar."
+
+msgid "&Ok"
+msgstr "&Ok"
+
+msgid "&Show log"
+msgstr "Εμφάνιση αρχείου καταγραφής"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "No"
+msgstr "Όχι"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr ""
+"Το αρχείο άδειας χρήσης είναι κενό"
+"Βεβαιωθείτε ότι χρησιμοποιείτε την πλήρη διεύθυνση URL κατά τη λήψη του αρχείου άδειας χρήσης"
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"Το αρχείο άδειας χρήσης δεν είναι έγκυρο"
+"Έχετε υπερβεί τον αριθμό των φορών λήψης της άδειας χρήσης"
+"Επικοινωνήστε με την υποστήριξη της Rainlendar για περισσότερες λεπτομέρειες"
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"Το αρχείο άδειας χρήσης δεν έχει έγκυρη μορφή"
+"Βεβαιωθείτε ότι χρησιμοποιείτε το σωστό αρχείο άδειας χρήσης"
+"Μπορείτε επίσης να προσπαθήσετε να κάνετε ξανά λήψη του αρχείου, εάν το σφάλμα παραμένει"
+
+msgid "Skin error!"
+msgstr "Σφάλμα εμφάνισης!"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"Το παράθυρο της εμφάνισης \"μεγάλο ημερολόγιο\" στο Shadow4 έχει "
+"αντικατασταθεί με μια επιλογή \"μεγάλη\" για το προεπιλεγμένο παράθυρο "
+"\"Ημερολόγιο\". Κάντε κλικ στο κουμπί OK για να επαναφέρετε την εμφάνιση."
+
+msgid "Use large default skin?"
+msgstr "Χρήση της μεγάλης προεπιλεγμένης εμφάνισης?"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"Οι προεπιλεγμένες τιμές μπορεί να είναι πολύ μικρές για την ανάλυση της "
+"οθόνης σας. Θέλετε να χρησιμοποιήσετε μεγαλύτερες γραμματοσειρές και "
+"παράθυρα;"
+
+msgid "&Large"
+msgstr "Μεγάλο"
+
+msgid "&Small"
+msgstr "Μικρό"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Βρέθηκαν τα παρακάτω παλιά αρχεία του Rainlendar:\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "Θέλετε να τα εισάγετε?"
+
+msgid "Import failed with file: \"%s\""
+msgstr "Απέτυχε η εισαγωγή του αρχείου: \"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "Θα αγοράσετε το Rainlendar2 Pro?"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"Ελπίζω να απόλαυσες τη χρήση του Rainlendar τον τελευταίο μήνα. Θέλετε να "
+"κάνετε αναβάθμιση στην έκδοση Pro με πρόσθετες λειτουργίες; Εάν "
+"χρησιμοποιείτε τον σύνδεσμο \"Αγοράστε τώρα\" παρακάτω, μπορείτε να "
+"αγοράσετε την άδεια σε μειωμένες τιμές. Μπορείτε επίσης να πατήσετε το "
+"κουμπί \"Όχι ευχαριστώ\" και να μην εμφανιστεί ξανά αυτό το μήνυμα.\n"
+"\n"
+"Ευχαριστώ για την υποστήριξη."
+
+msgid "&Buy Now"
+msgstr "Αγοράστε τώρα"
+
+msgid "&Remind later"
+msgstr "Υπενθύμιση αργότερα"
+
+msgid "&No Thanks"
+msgstr "Όχι ευχαριστώ"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Update"
+msgstr "Ενημέρωση"
+
+msgid "Make a selection:"
+msgstr "Κάντε μια επιλογή:"
+
+msgid "Hide Windows"
+msgstr "Απόκρυψη παραθύρων"
+
+msgid "Show Windows"
+msgstr "Εμφάνιση Παραθύρων"
+
+msgid "Toggle Windows"
+msgstr "Εναλλαγή Παραθύρων"
+
+msgid "Toggle Today Window"
+msgstr "Εναλλαγή παραθύρου σήμερα"
+
+msgid "Create New Task"
+msgstr "Δημιουργία νέας εργασίας"
+
+msgid "Create New Event"
+msgstr "Δημιουργία νέου γεγονότος"
+
+msgid "Create new event or task"
+msgstr "Δημιουργία νέου συμβάντος ή εργασίας"
+
+msgid "Quit Application"
+msgstr "Κλείσιμο εφαρμογής"
+
+msgid "Business"
+msgstr "Εργασίες"
+
+msgid "Calls"
+msgstr "Τηλεφωνήματα"
+
+msgid "Clients"
+msgstr "Πελάτες"
+
+msgid "Competition"
+msgstr "Διαγωνισμοί"
+
+msgid "Customer"
+msgstr "Αγοραστές"
+
+msgid "Exam"
+msgstr "Εξετάσεις"
+
+msgid "Favorites"
+msgstr "Αγαπημένα"
+
+msgid "Follow Up"
+msgstr "Παρακολούθηση"
+
+msgid "Gifts"
+msgstr "Δώρα"
+
+msgid "Holidays"
+msgstr "Αργίες"
+
+msgid "Ideas"
+msgstr "Ιδέες"
+
+msgid "Important"
+msgstr "Σημαντικό"
+
+msgid "Issues"
+msgstr "Ζητήματα"
+
+msgid "Miscellaneous"
+msgstr "Διάφορα"
+
+msgid "Personal"
+msgstr "Προσωπικά"
+
+msgid "Projects"
+msgstr "Έργα"
+
+msgid "Public Holiday"
+msgstr "Εθνική Εορτή"
+
+msgid "Suppliers"
+msgstr "Προμηθευτές"
+
+msgid "Travel"
+msgstr "Ταξίδι"
+
+msgid "Trip"
+msgstr "Διαδρομή"
+
+msgid "TV"
+msgstr "Τηλεόραση"
+
+msgid "Vacation"
+msgstr "Διακοπές"
+
+msgid "Work"
+msgstr "Εργασία"
+
+msgid "Medical"
+msgstr "Ιατρικό"
+
+msgid "Urgent"
+msgstr "Επείγον"
+
+msgid "Health"
+msgstr "Υγεία"
+
+msgid "Sport"
+msgstr "Αθλητικά"
+
+msgid "Game"
+msgstr "Παιχνίδι"
+
+msgid "School"
+msgstr "Σχολείο"
+
+msgid "Party"
+msgstr "Πάρτι"
+
+msgid "Movie"
+msgstr "Ταινία"
+
+msgid "Car"
+msgstr "Αυτοκίνητο"
+
+msgid "Payments"
+msgstr "Πληρωμές"
+
+msgid "Money"
+msgstr "Χρήματα"
+
+msgid "Pets"
+msgstr "Κατοικίδια"
+
+msgid "Theatre"
+msgstr "Θέατρο"
+
+msgid "Music"
+msgstr "Μουσική"
+
+msgid "[Black]"
+msgstr "[Μαύρο]"
+
+msgid "[Blue]"
+msgstr "[Μπλε]"
+
+msgid "[Brown]"
+msgstr "[Καφέ]"
+
+msgid "[Cyan]"
+msgstr "[Κυανό]"
+
+msgid "[Green]"
+msgstr "[Πράσινο]"
+
+msgid "[Grey]"
+msgstr "[Γκρι]"
+
+msgid "[Magenta]"
+msgstr "[Ματζέντα]"
+
+msgid "[Pink]"
+msgstr "[Ροζ]"
+
+msgid "[Red]"
+msgstr "[Κόκκινο]"
+
+msgid "[Yellow]"
+msgstr "[Κίτρινο]"
+
+msgid "[Orange]"
+msgstr "[Πορτοκαλί]"
+
+msgid "Must Attend"
+msgstr "Αναγκαία παρακολούθηση"
+
+msgid "Travel Required"
+msgstr "Απαιτείται ταξίδι"
+
+msgid "Needs Preparation"
+msgstr "Απαιτείται προετοιμασία"
+
+msgid "Phone Call"
+msgstr "Τηλεφωνική κλήση"
+
+msgid "iCalendar Format"
+msgstr "Μορφή iCalendar"
+
+msgid "Network Shared Calendar"
+msgstr "Ημερολόγιο μέσω Δικτύου"
+
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+msgid "Rainlendar Ini Format"
+msgstr "Μορφή Rainlendar Ini"
+
+msgid "Google Calendar"
+msgstr "Ημερολόγιο Google"
+
+msgid "CalDAV Calendar"
+msgstr "Ημερολόγιο CalDAV"
+
+msgid "Google Calendar (v3)"
+msgstr "Ημερολόγιο Google (v3)"
+
+msgid "Google Tasks"
+msgstr "Εργασίες Google"
+
+msgid "Comma Separated Values"
+msgstr "Τιμές με κόμμα διαχωρισμένες"
+
+msgid "&Next >"
+msgstr "&Επόμενο >"
+
+msgid "< &Back"
+msgstr "< &Πίσω"
+
+msgid "&Finish"
+msgstr "&Τέλος"
+
+msgid "Vertical Calendar"
+msgstr "Κάθετο ημερολόγιο"
+
+msgid "Year Calendar"
+msgstr "Ετήσιο Ημερολόγιο"
+
+msgid "Sidebar"
+msgstr "Πλευρική μπάρα"
+
+msgid "DigiClock"
+msgstr "Ψηφιακό Ρολόι"
+
+msgid "Dual Calendar"
+msgstr "Διπλό Ημερολόγιο"
+
+msgid "Todo List"
+msgstr "Λίστα Ενεργειών"
+
+msgid "Grid Calendar"
+msgstr "Ημερολόγιο πλέγματος"
+
+msgid "Vertical Line Calendar"
+msgstr "Κατακόρυφο ημερολόγιο γραμμής"
+
+msgid "Horizontal Line Calendar"
+msgstr "Οριζόντιο ημερολόγιο γραμμής"
+
+msgid "Visible month"
+msgstr "Ορατός μήνας"
+
+msgid "Show buttons"
+msgstr "Εμφάνιση πλήκτρων"
+
+msgid "Show adjacent days"
+msgstr "Εμφάνιση ημερομήνιων άλλου μήνα"
+
+msgid "Eventlist max height"
+msgstr "Μέγιστο ύψος λίστας συμβάντων"
+
+msgid "Todolist max height"
+msgstr "Μέγιστο ύψος λίστας ενεργειών"
+
+msgid "Show week numbers"
+msgstr "Εμφάνιση αρίθμησης εβδομάδων"
+
+msgid "Format"
+msgstr "Μορφή"
+
+msgid "Timezone"
+msgstr "Ζώνη ώρας"
+
+msgid "Label"
+msgstr "Ετικέτα"
+
+msgid "Show 3rd month"
+msgstr "Εμφάνιση 3ου μήνα"
+
+msgid "Show 4th month"
+msgstr "Εμφάνιση 4ου μήνα"
+
+msgid "Show 5th month"
+msgstr "Εμφάνιση 5ου μήνα"
+
+msgid "Show 6th month"
+msgstr "Εμφάνιση 6ου μήνα"
+
+msgid "Show 7th month"
+msgstr "Εμφάνιση 7ου μήνα"
+
+msgid "Show 8th month"
+msgstr "Εμφάνιση 8ου μήνα"
+
+msgid "Color"
+msgstr "Χρώμα"
+
+msgid "Analog Clock"
+msgstr "Αναλογικό ρολόι"
+
+msgid "Calendar List"
+msgstr "Λίστα ημερολογίων"
+
+msgid "X count"
+msgstr "Καταμέτρηση X"
+
+msgid "Y count"
+msgstr "Καταμέτρηση Y"
+
+msgid "Snooze All"
+msgstr "Αναβολή όλων"
+
+msgid "Dismiss All"
+msgstr "Απόρριψη όλων"
+
+msgid "To do"
+msgstr "Για να κάνετε"
+
+msgid "Today color"
+msgstr "Χρώμα σήμερα"
+
+msgid "Today shape"
+msgstr "Σημερινό σχήμα"
+
+msgid "Circle"
+msgstr "Κύκλος"
+
+msgid "Rectangle"
+msgstr "Ορθογώνιο"
+
+msgid "Slim circle"
+msgstr "Λεπτός κύκλος"
+
+msgid "Slim rectangle"
+msgstr "Λεπτό ορθογώνιο"
+
+msgid "Red"
+msgstr "Κόκκινο"
+
+msgid "Orange"
+msgstr "Πορτοκαλί"
+
+msgid "Yellow"
+msgstr "Κίτρηνο"
+
+msgid "Green"
+msgstr "Πράσινο"
+
+msgid "Cyan"
+msgstr "Κυανό"
+
+msgid "Blue"
+msgstr "Μπλε"
+
+msgid "Magenta"
+msgstr "Ματζέντα"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"Μια συνέχεια στο δημοφιλές Shadow3-Skin με ορισμένα πρόσθετα χαρακτηριστικά, "
+"όπως ορατές ημέρες από τον επόμενο και τον προηγούμενο μήνα και μια εκδορά "
+"συμβουλή εργαλείου."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"Καθορίζει το μήνα που εμφανίζεται το ημερολόγιο. Ρυθμίστε σε + 1 για τον "
+"επόμενο μήνα,-1 για τον προηγούμενο μήνα ή μια τιμή από 1 έως 12 για ένα "
+"συγκεκριμένο μήνα του τρέχοντος έτους."
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr ""
+"Καταργήστε την επιλογή για να αποκρύψετε τα επόμενα και τα προηγούμενα "
+"κουμπιά από το ημερολόγιο."
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr ""
+"Καταργήστε την επιλογή για να αποκρύψετε τις ημέρες από τον προηγούμενο και "
+"τον επόμενο μήνα."
+
+msgid "Defines the maximum height of the alarm."
+msgstr "Καθορίζει το μέγιστο ύψος του συναγερμού."
+
+msgid "Defines the maximum height of the event list."
+msgstr "Καθορίζει το μέγιστο ύψος της λίστας συμβάντων."
+
+msgid "Defines the maximum height of the to do list."
+msgstr "Καθορίζει το μέγιστο ύψος της λίστας που θα γίνει."
+
+msgid "Defines the width of the calendar list."
+msgstr "Καθορίζει το πλάτος της λίστας ημερολογίων."
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr ""
+"Καταργήστε την επιλογή για να αποκρύψετε τους αριθμούς εβδομάδων από το "
+"ημερολόγιο."
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr ""
+"Αυτό ορίζει τη μορφή του ρολογιού. Για να απαλλαγείτε από τα δευτερόλεπτα, "
+"χρησιμοποιήστε % H:%M ή% #I:% M% p"
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"Καθορίζει τη ζώνη ώρας. Ορισμός σε αριθμό:..: ... -3, -2, -1, 0, +1, +2, "
+"+3, ... .  Μπορείτε επίσης να χρησιμοποιήσετε τιμές όπως CET, EST, PST, "
+"A_CST,..."
+
+msgid "Adds a label for the clock."
+msgstr "Προσθέτει μια ετικέτα για το ρολόι."
+
+msgid "Defines the color of the today marker."
+msgstr "Καθορίζει το χρώμα του σήμερα δείκτη."
+
+msgid "Defines the shape of the today marker."
+msgstr "Καθορίζει το σχήμα του σήμερα δείκτη."
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr ""
+"Καθορίζει τον αριθμό των ημερολογίων που εμφανίζονται οριζόντια στο παράθυρο."
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr ""
+"Καθορίζει τον αριθμό των ημερολογίων που εμφανίζονται κατακόρυφα στο "
+"παράθυρο."
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr ""
+"Καταργήστε την επιλογή για να αποκρύψετε τα ονόματα των ημερών της εβδομάδας "
+"από το ημερολόγιο."
+
+msgid "Week View"
+msgstr "Προβολή Εβδομάδας"
+
+msgid "Today position"
+msgstr "Θέση Σήμερα"
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"Καθορίζει τη θέση όπου βρίσκεται σήμερα. Εάν έχει οριστεί σε 0 (η "
+"προεπιλογή) η προβολή εβδομάδας εμφανίζει μια πλήρη ημερολογιακή εβδομάδα "
+"και η σημερινή θέση αλλάζει. Αν οριστεί σε 1 για να 7 το σήμερα διατηρείται "
+"σε αυτή τη θέση πάντα και οι καθημερινές αλλάζουν ανάλογα."
+
+msgid "Autoscroll"
+msgstr "Αυτόματη κύλιση"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "Καταργήστε την επιλογή για να απενεργοποιήσετε την αυτόματη κύλιση."
+
+msgid "Week view date format"
+msgstr "Μορφή ημερομηνίας προβολής εβδομάδας"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr ""
+"Αυτό καθορίζει τη μορφή της ημερομηνίας στο χρονοδιάγραμμα. Η προεπιλογή "
+"είναι% #d .% #m."
+
+msgid "Week view time format"
+msgstr "Μορφή ώρας προβολής εβδομάδας"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"Αυτό καθορίζει τη μορφή του χρόνου στο χρονοδιάγραμμα. Η προεπιλογή είναι %H:"
+"%M. Για χρήση σε μορφή πμ/μμ %#I %p"
+
+msgid "Time item height"
+msgstr "Ύψος στοιχείου χρόνου"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr ""
+"Καθορίζει το ύψος ενός στοιχείου χρόνου στην προβολή. Η προεπιλεγμένη τιμή "
+"είναι 30 pixel."
+
+msgid "Time item duration"
+msgstr "Διάρκεια χρόνου στοιχείου"
+
+msgid "60 Minutes"
+msgstr "60 λεπτά"
+
+msgid "30 Minutes"
+msgstr "30 Λεπτά"
+
+msgid "15 Minutes"
+msgstr "15 Λεπτά"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr ""
+"Καθορίζει τη διάρκεια ενός στοιχείου χρόνου στην προβολή. Η προεπιλεγμένη "
+"τιμή είναι 60 λεπτά."
+
+msgid "All day max height"
+msgstr "Όλο το μέγιστο ύψος ημέρας"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"Το μέγιστο ύψος της περιοχής ολοήμερης εκδήλωσης. Μια γραμμή κύλισης "
+"εμφανίζεται αφού τα γεγονότα δεν ταιριάζουν πια σε αυτήν την περιοχή."
+
+msgid "Event min height"
+msgstr "Ελάχιστο ύψος εκδήλωσης"
+
+msgid "The minimum height of the event."
+msgstr "Το ελάχιστο ύψος του συμβάντος."
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr ""
+"Καταργήστε την επιλογή για να αποκρύψετε τους αριθμούς εβδομάδων από την "
+"προβολή."
+
+msgid "Show weekdays"
+msgstr "Εμφάνιση εργάσιμων ημερών"
+
+msgid "Day View"
+msgstr "Προβολή Ημέρας"
+
+msgid "Day view time format"
+msgstr "Μορφή ώρας προβολής ημέρας"
+
+msgid "Day view date format"
+msgstr "Μορφή ημερομηνίας προβολής ημέρας"
+
+msgid "Month View"
+msgstr "Προβολή Μήνα"
+
+msgid "Show background"
+msgstr "Εμφάνιση φόντου"
+
+msgid "Uncheck to make the background transparent."
+msgstr "Καταργήστε την επιλογή για να κάνετε το φόντο διαφανές."
+
+msgid "Large Calendar"
+msgstr "Μεγάλο ημερολόγιο"
+
+msgid "Today window max height"
+msgstr "Μέγιστο ύψος παράθυρου Σήμερα"
+
+msgid "Defines the maximum height of the today window."
+msgstr "Καθορίζει το μέγιστο ύψος του παραθύρου Σήμερα."
+
+msgid "Today show tasks"
+msgstr "Εμφάνιση εργασιών Σήμερα"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr ""
+"Καθορίζει εάν οι εργασίες πρέπει να εμφανίζονται στο σημερινό παράθυρο."
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"Η εμφάνιση περιέχει πολλές διαφορετικές χρωματικές παραλλαγές. Μπορείτε να "
+"τις αλλάξετε είτε από τις ρυθμίσεις της εμφάνισης είτε κάνοντας κλικ στο "
+"κάτω βέλος στο ημερολόγιο."
+
+msgid "Brown"
+msgstr "Καφέ"
+
+msgid "Dark"
+msgstr "Σκούρο"
+
+msgid "Colorless"
+msgstr "Άχρωμο"
+
+msgid "Defines the color of the windows."
+msgstr "Καθορίζει το χρώμα των παραθύρων."
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr ""
+"Καθορίζει τη μορφή για τις ημερομηνίες στις κεφαλίδες της λίστας συμβάντων."
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr ""
+"Καθορίζει το μέγιστο ύψος της λίστας συμβάντων. Η προεπιλεγμένη τιμή είναι "
+"300 pixel."
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr ""
+"Καθορίζει το μέγιστο ύψος της λίστας που θα γίνει. Η προεπιλεγμένη τιμή "
+"είναι 300 pixel."
+
+msgid "Removes the color from the windows."
+msgstr "Αφαιρεί το χρώμα από τα παράθυρα."
+
+msgid "Creates darker version of the windows."
+msgstr "Δημιουργεί πιο σκοτεινή έκδοση των παραθύρων."
+
+msgid "All day"
+msgstr "Όλη μέρα"
+
+msgid "Day bar show day"
+msgstr "Εμφάνιση γραμμής ημέρας"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr ""
+"Καθορίζει εάν ο αριθμός και το όνομα της ημέρας εμφανίζονται στη γραμμή "
+"ημέρας."
+
+msgid "Day bar am-pm"
+msgstr "Γραμμή ημέρας πμ-μμ"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "Ελέγξτε για να δείξετε τις ώρες με το ρολόι 12 ωρών."
+
+msgid "Bar event"
+msgstr "Εκδήλωση μπαρ"
+
+msgid "The event color for the bars."
+msgstr "Το χρώμα της εκδήλωσης για τις ράβδους."
+
+msgid "Conditions: "
+msgstr "Συνθήκες: "
+
+msgid "Temperature: "
+msgstr "Θερμοκρασία: "
+
+msgid "Humidity: "
+msgstr "Υγρασία: "
+
+msgid "Winds: "
+msgstr "Άνεμοι: "
+
+msgid "Time: "
+msgstr "Χρόνος: "
+
+msgid "Refreshing..."
+msgstr "Ανανεώνει ....."
+
+msgid "Downloading: "
+msgstr "Κατέβασμα: "
+
+msgid "Download failed!"
+msgstr "Η λήψη απέτυχε!"
+
+msgid "Loading..."
+msgstr "Φόρτωση..."
+
+msgid "Unknown result!"
+msgstr "Άγνωστο αποτέλεσμα!"
+
+msgid "Upcoming programs:"
+msgstr "Επερχόμενα προγράμματα:"
+
+msgid "Parsing failed!"
+msgstr "Η ανάλυση απέτυχε!"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr " ΜΕΡΕΣ ΩΡΕΣ ΛΕΠΤΑ ΔΕΥΤΕΡΟΛΕΠΤΑ"
+
+msgid "Loading feed..."
+msgstr "Φόρτωση τροφοδοσίας..."
+
+msgid "Lo: "
+msgstr "Χα: "
+
+msgid "Hi: "
+msgstr "Υψ: "
+
+msgid "Min:"
+msgstr "Ελχ:"
+
+msgid "Max:"
+msgstr "Μεγ:"
+
+msgid "Chance of precipitation: "
+msgstr "Πιθανότητα καθίζησης: "
+
+msgid "New moon"
+msgstr "Νέο φεγγάρι"
+
+msgid "Waxing crescent"
+msgstr "Αυξητική ημισέληνος"
+
+msgid "First quarter"
+msgstr "Πρώτο τρίμηνο"
+
+msgid "Waxing gibbous"
+msgstr "Φθίνουσα"
+
+msgid "Full moon"
+msgstr "Πανσέληνο"
+
+msgid "Waning gibbous"
+msgstr "Φθίνουσα"
+
+msgid "Last quarter"
+msgstr "Τελευταίο τρίμηνο"
+
+msgid "Waning crescent"
+msgstr "Αυξητική ημισέληνος"
+
+msgid "Southern hemisphere"
+msgstr "Νότιο ημισφαίριο"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr ""
+"Ρυθμίστε το 1 για να αλλάξετε τις φάσεις όπως φαίνεται από το νότιο "
+"ημισφαίριο."
+
+msgid "World Time"
+msgstr "Παγκόσμια ώρα"
+
+msgid "World time format"
+msgstr "Μορφή παγκόσμιας ώρας"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"Αυτό ορίζει τη μορφή της ώρας. Η προεπιλογή είναι %H:%M. Για χρήση σε μορφή "
+"πμ/μμ βάλτε  %#I:%M %p"
+
+msgid "World time location 1"
+msgstr "Τοποθεσία παγκόσμιας ώρας 1"
+
+msgid "Defines the title for the time."
+msgstr "Καθορίζει τον τίτλο για την ώρα."
+
+msgid "World time timezone 1"
+msgstr "Παγκόσμια χρονική ζώνη ώρας 1"
+
+msgid "World time location 2"
+msgstr "Τοποθεσία παγκόσμιας ώρας 2"
+
+msgid "World time timezone 2"
+msgstr "Παγκόσμια χρονική ζώνη ώρας 2"
+
+msgid "World time location 3"
+msgstr "Τοποθεσία παγκόσμιας ώρας 3"
+
+msgid "World time timezone 3"
+msgstr "Παγκόσμια χρονική ζώνη ώρας 3"
+
+msgid "World time location 4"
+msgstr "Τοποθεσία παγκόσμιας ώρας 4"
+
+msgid "World time timezone 4"
+msgstr "Παγκόσμια χρονική ζώνη ώρας 4"
+
+msgid "Photos"
+msgstr "Φωτογραφίες"
+
+msgid "Weather"
+msgstr "Καιρός"
+
+msgid "Countdown"
+msgstr "Αντίστροφη μέτρηση"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Create New"
+msgstr "Δημιουργία νέου"
+
+msgid "Moon Phase"
+msgstr "Φάση Σελήνης"
+
+msgid "QuickAdd"
+msgstr "Γρήγορη προσθήκη"
+
+msgid "Translate"
+msgstr "Μετάφρασε"
+
+msgid "Text File"
+msgstr "Αρχείο κειμένου"
+
+msgid "RSS height"
+msgstr "Ύψος RSS"
+
+msgid "Defines the maximum height of the list."
+msgstr "Καθορίζει το μέγιστο ύψος της λίστας."
+
+msgid "RSS location"
+msgstr "Θέση RSS"
+
+msgid "Location of the RSS feed."
+msgstr "Θέση της τροφοδοσίας RSS."
+
+msgid "Weather location"
+msgstr "Τοποθεσία καιρού"
+
+msgid "Location of the weather feed."
+msgstr "Η τοποθεσία της ροής του καιρού."
+
+msgid "Weather city"
+msgstr "Πόλη καιρού"
+
+msgid "The city for the weather."
+msgstr "Η πόλη για τον καιρό."
+
+msgid "Weather language"
+msgstr "Γλώσσα του καιρού"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr ""
+"Η γλώσσα του καιρού. Χρήση συντομογραφία γλώσσας, όπως en, fi, ru, zh-cn, ..."
+
+msgid "Photos random"
+msgstr "Τυχαίες φωτογραφίες"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr ""
+"Καταργήστε την επιλογή για να εμφανίσετε τις εικόνες στη συνέχεια. Ο έλεγχος "
+"τους εμφανίζει με τυχαία σειρά."
+
+msgid "Photos update"
+msgstr "Ενημέρωση φωτογραφιών"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "Καθορίζει τη συχνότητα ενημέρωσης της εικόνας. Η τιμή είναι σε λεπτά."
+
+msgid "Photos folder"
+msgstr "Φάκελος Φωτογραφίες"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"Καθορίζει τον τοπικό φάκελο που σαρώνεται για φωτογραφίες. Αν αυτό μείνει "
+"κενό, οι φωτογραφίες μεταφορτώνονται από το Flickr."
+
+msgid "Countdown event"
+msgstr "Συμβάν αντίστροφης μέτρησης"
+
+msgid "The description of the event."
+msgstr "Η περιγραφή του συμβάντος."
+
+msgid "Countdown time"
+msgstr "Χρόνος αντίστροφης μέτρησης"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "Η ώρα της εκδήλωσης. Χρησιμοποιήστε τη μορφή ωω:λλ:δδ."
+
+msgid "Countdown date"
+msgstr "Ημερομηνία αντίστροφης μέτρησης"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "Η ημερομηνία της εκδήλωσης. Χρησιμοποιήστε τη μορφή ΕΕΕΕ-ΜΜ-ΗΗ."
+
+msgid "TV height"
+msgstr "Ύψος TV"
+
+msgid "Copy to clipboard"
+msgstr "Αντιγραφή στο πρόχειρο"
+
+msgid "File path"
+msgstr "Διαδρομή αρχείου"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr ""
+"Καθορίζει το όνομα και τη διαδρομή του αρχείου που εμφανίζεται στο παράθυρο."
+
+msgid "No file given"
+msgstr "Δεν δόθηκε αρχείο"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr ""
+"Μεταβείτε στις ρυθμίσεις του παραθύρου και τοποθετήστε τη μεταβλητή "
+"διαδρομής σε ένα αρχείο κειμένου."
+
+msgid "File window full rows"
+msgstr "Παράθυρο αρχείων πλήρεις σειρές"
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr ""
+"Ελέγξτε για να εμφανίσετε πλήρεις σειρές. Καταργήστε την επιλογή κόβει τις "
+"γραμμές."
+
+msgid "File window width"
+msgstr "Πλάτος παραθύρου αρχείου"
+
+msgid "The width of the calendar window."
+msgstr "Το πλάτος του παραθύρου ημερολογίου."
+
+msgid "The height of the calendar window."
+msgstr "Το ύψος του παραθύρου ημερολογίου."
+
+msgid "Defines the width of the event list."
+msgstr "Ορίζει το πλάτος της λίστας γεγονότων."
+
+msgid "Defines the width of the to do list."
+msgstr "Ορίζει το πλάτος της λίστας ενεργειών."
+
+msgid "Defines the width of the quickadd window."
+msgstr "Καθορίζει το πλάτος του παραθύρου γρήγορης προσθήκης."
+
+msgid "Defines the width of the day view window."
+msgstr "Καθορίζει το πλάτος του παραθύρου της ημέρας προβολής."
+
+msgid "Defines the height of the day view window."
+msgstr "Καθορίζει το ύψος του παραθύρου προβολής ημέρας."
+
+msgid "Defines the width of the week view window."
+msgstr "Καθορίζει το πλάτος του παραθύρου της εβδομάδας προβολής."
+
+msgid "Defines the height of the week view window."
+msgstr "Καθορίζει το ύψος του παραθύρου της εβδομάδας προβολής."
+
+msgid "Defines the width of the calendar window."
+msgstr "Καθορίζει το πλάτος του παραθύρου ημερολογίου."
+
+msgid "Defines the height of the calendar window."
+msgstr "Καθορίζει το ύψος του παραθύρου ημερολογίου."
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "alt"
+msgstr "alt"
+
+msgid "shift"
+msgstr "shift"
+
+msgid "Mark as completed"
+msgstr "Σήμανση ως ολοκληρωμένου"
+
+msgid "Mark as needs action"
+msgstr "Σήμανση όπως χρειάζεται δράση"
+
+msgid "Recurring"
+msgstr "Επαναλαμβάνεται"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Text color"
+msgstr "Χρώμα κειμένου"
+
+msgid "Tooltip color"
+msgstr "Χρώμα συμβουλής"
+
+msgid "Black"
+msgstr "Μαύρο"
+
+msgid "White"
+msgstr "Λευκό"
+
+msgid "Light grey"
+msgstr "Ανοιχτό γκρι"
+
+msgid "Light pink"
+msgstr "Ανοιχτό ροζ"
+
+msgid "Grey"
+msgstr "Γκρι"
+
+msgid "Pink"
+msgstr "Ρόζ"
+
+msgid "Schedule background"
+msgstr "Προγραμματισμός φόντου"
+
+msgid "The background color for the day, week and month views."
+msgstr "Το χρώμα φόντου για τις προβολές ημέρας, εβδομάδας και μήνα."
+
+msgid "Schedule text color"
+msgstr "Χρώμα κειμένου χρονοδιαγράμματος"
+
+msgid "The text color for the day, week and month views."
+msgstr "Το χρώμα κειμένου για τις προβολές ημέρας, εβδομάδας και μήνα."
+
+msgid "Calendar day color"
+msgstr "Χρώμα ημέρας ημερολογίου"
+
+msgid "Large calendar day color"
+msgstr "Χρώμα μεγάλου ημερολογιακής ημέρας"
+
+msgid "The color for the days in the calendar."
+msgstr "Το χρώμα για τις ημέρες στο ημερολόγιο."
+
+msgid "Calendar day text color"
+msgstr "Χρώμα κειμένου ημέρας ημερολογίου"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "Το χρώμα για τους αριθμούς ημέρας στο ημερολόγιο."
+
+msgid "Small icon"
+msgstr "Μικρό εικονίδιο"
+
+msgid "The icon which is shown in the calendar."
+msgstr "Το εικονίδιο που εμφανίζεται στο ημερολόγιο."
+
+msgid "Large icon"
+msgstr "Μεγάλο εικονίδιο"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "Το εικονίδιο που εμφανίζεται στην εκδήλωση και να κάνει λίστες."
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "Το χρώμα του κειμένου στις λίστες και τη συμβουλή εργαλείου."
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr ""
+"Η προτεραιότητα καθορίζει ποια κατηγορία εμφανίζεται όταν υπάρχουν πολλαπλά "
+"την ίδια ημέρα."
+
+msgid "Schedule text shadow color"
+msgstr "Προγραμματισμός χρώματος σκιάς κειμένου"
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "Το χρώμα σκιάς κειμένου για τις προβολές ημέρας, εβδομάδας και μήνα."
+
+msgid "Calendar day text shadow color"
+msgstr "Χρώμα σκιάς κειμένου ημέρας ημερολογίου"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "Το χρώμα για τη σκιά των αριθμών ημέρας στο ημερολόγιο."
+
+msgid "Text shadow color"
+msgstr "Χρώμα σκιάς κειμένου"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "Το χρώμα της σκιάς κειμένου στις λίστες και τη συμβουλή εργαλείου."
+
+msgid "Show date"
+msgstr "Εμφάνιση ημερομηνίας"
+
+msgid "Check to show also the current date."
+msgstr "Ελέγξτε για να εμφανίσετε επίσης την τρέχουσα ημερομηνία."
+
+msgid "This defines the format of the time."
+msgstr "Αυτό ορίζει τη μορφή της ώρας."
+
+msgid "This defines the format of the date."
+msgstr "Αυτό ορίζει τη μορφή της ημερομηνίας."
+
+msgid "Search"
+msgstr "Αναζήτηση"
+
+msgid "Search engine"
+msgstr "Μηχανή αναζήτησης"
+
+msgid "Choose the search engine"
+msgstr "Επιλέξτε τη μηχανή αναζήτησης"
+
+msgid "Enter search text"
+msgstr "Εισαγωγή κειμένου αναζήτησης"
+
+msgid "Show title"
+msgstr "Εμφάνιση τίτλου"
+
+msgid "Check to show a title text."
+msgstr "Ελέγξτε για να εμφανίσετε ένα κείμενο τίτλου."
+
+msgid "Title text"
+msgstr "Κείμενο τίτλου"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "Αυτό ορίζει ένα κείμενο τίτλου που εμφανίζεται πάνω από την ώρα."
+
+msgid "Weather woeid"
+msgstr "Αναγνωριστικό καιρού"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "Το αναγνωριστικό της Yahoo για την τοποθεσία του καιρού (WOEID)."
+
+msgid "Weather celsius"
+msgstr "Καιρός σε Κελσίου"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "Εάν ελεγχθεί η θερμοκρασία εμφανίζεται σε βαθμούς Κελσίου."
+
+msgid "Bold blue"
+msgstr "Έντονο μπλε"
+
+msgid "Turquoise"
+msgstr "Τυρκουάζ"
+
+msgid "Bold green"
+msgstr "Έντονο πράσινο"
+
+msgid "Bold red"
+msgstr "Έντονο κόκκινο"
+
+msgid "Purple"
+msgstr "Μωβ"
+
+msgid "Gray"
+msgstr "Γκρί"
+
+msgid "No events today"
+msgstr "Δεν υπάρχουν γεγονότα σήμερα"
+
+msgid "No tasks today"
+msgstr "Δεν υπάρχουν εργασίες σήμερα"
+
+msgid "Background opacity"
+msgstr "Αδιαφάνεια φόντου"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr ""
+"Καθορίζει την αδιαφάνεια του φόντου του παραθύρου. Χρησιμοποιήστε τιμές "
+"μεταξύ 0 και 100."
+
+msgid "Snooze menu"
+msgstr "Μενού αναβολής"
+
+msgid "Pressure: "
+msgstr "Πίεση: "
+
+msgid "UV index: "
+msgstr "Δείκτης UV: "
+
+msgid "Feels like: "
+msgstr "Μοιάζει με: "
+
+msgid "Sunrise: "
+msgstr "Ανατολή: "
+
+msgid "Sunset: "
+msgstr "Ηλιοβασίλεμα: "
+
+msgid "Tonight"
+msgstr "Απόψε"
+
+msgid "Menu"
+msgstr "Μενού"
+
+msgid "Large"
+msgstr "Μεγάλο"
+
+msgid "Use large images and more space between the items."
+msgstr ""
+"Χρησιμοποιήστε μεγάλες εικόνες και περισσότερο χώρο μεταξύ των στοιχείων."
+
+msgid "Alarm max height"
+msgstr "Μέγιστο ύψος συναγερμού"
+
+msgid "Horizontal Day Bar"
+msgstr "Οριζόντια γραμμή ημέρας"
+
+msgid "Vertical Day Bar"
+msgstr "Κατακόρυφη γραμμή ημέρας"
+
+msgid "Day bar show text"
+msgstr "Η γραμμή ημέρας εμφανίζει κείμενο"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "Καταργήστε την επιλογή για να αποκρύψετε τα κείμενα από τα συμβάντα."
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "Το χρώμα του κειμένου στο ημερολόγιο και στις λίστες."
+
+msgid "The color of the text in the tooltip."
+msgstr "Το χρώμα του κειμένου στη συμβουλή εργαλείου."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"Ορίζει τον μήνα που δείχνει το ημερολόγιο. Εάν οριστεί σε +1 δείχνει τον "
+"επόμενο μήνα, -1 τον προηγούμενο μήνα, ενώ οι τιμές 0 έως 11 ορίζουν "
+"συγκεκριμένο μήνα του τρέχοντος έτους."
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Δεν βρέθηκαν ενεργές εμφανίσεις.\n"
+"Κάντε κλικ στο OK για να φορτώσετε την πρώτη διαθέσιμη."
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"Η εμφάνιση δεν έχει ενεργά παράθυρα.\n"
+"Αντί αυτού χρησιμοποιούνται τα προεπιλεγμένα παράθυρα."
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Η υφή δεν υπάρχει.\n"
+"Κάντε κλικ στο OK για να φορτώσετε την πρώτη διαθέσιμη εμφάνηση."
+
+msgid "No items"
+msgstr "Δεν υπάρχουν στοιχεία"
+
+msgid "No events"
+msgstr "Δεν υπάρχουν γεγονότα"
+
+msgid "No tasks"
+msgstr "Δεν υπάρχουν εργασίες"
+
+msgid "Synchronizing"
+msgstr "Συγχρονίζει"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "today"
+msgstr "σήμερα"
+
+msgid "tomorrow"
+msgstr "αύριο!»"
+
+msgid "yesterday"
+msgstr "εχθές"
+
+msgid "Jan"
+msgstr "Ιαν"
+
+msgid "Feb"
+msgstr "Φεβ"
+
+msgid "Mar"
+msgstr "Μάρ"
+
+msgid "Apr"
+msgstr "Απρ"
+
+msgid "Jun"
+msgstr "Ιού"
+
+msgid "Jul"
+msgstr "Ιύλ"
+
+msgid "Aug"
+msgstr "Αύγ"
+
+msgid "Sep"
+msgstr "Σεπ"
+
+msgid "Oct"
+msgstr "Οκτ"
+
+msgid "Nov"
+msgstr "Νοέ"
+
+msgid "Dec"
+msgstr "Δεκ"
+
+msgid "%ith"
+msgstr "%iη"
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11η;12η;13η;1η;2η;3η"
+
+msgid "edit"
+msgstr "επεξεργασία"
+
+msgid "Do you want to create the file?"
+msgstr "Θέλετε να δημιουργήσετε το αρχείο;"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"Το αρχείο δεν υπάρχει:\n"
+"%s"
+
+msgid "Unable to create the file \"%s\"."
+msgstr "Δεν είναι δυνατή η δημιουργία του αρχείου \"%s\"."
+
+msgid "This is a read only event."
+msgstr "Αυτό είναι ένα γεγονός μόνο για ανάγνωση."
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "Δεν είναι δυνατόν να επεξεργαστείτε αυτό το γεγονός με τον Rainlendar."
+
+msgid "This is a read only task."
+msgstr "Αυτή είναι μια εργασία μόνο για ανάγνωση."
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "Δεν είναι δυνατή η επεξεργασία αυτής της εργασίας με τον Ρέινλενταρ."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Organizer"
+msgstr "Διοργανωτής"
+
+msgid "Accepted"
+msgstr "Έγινε αποδεκτό"
+
+msgid "Declined"
+msgstr "Απορρίφθηκε"
+
+msgid "Tentative"
+msgstr "Δοκιμαστικά"
+
+msgid "Needs action"
+msgstr "Απαιτεί ενέργεια"
+
+msgid "Create a new calendar"
+msgstr "Δημιουργία νέου ημερολογίου"
+
+msgid "Please select the type of the calendar."
+msgstr "Παρακαλώ επιλέξτε τον τύπο του ημερολογίου."
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr ""
+"Ο τύπος ημερολογίου καθορίζει τη μορφή των συμβάντων και τον τόπο "
+"αποθήκευσής τους."
+
+msgid "local"
+msgstr "τοπικό"
+
+msgid "deprecated"
+msgstr "καταργηθεί"
+
+msgid "Type"
+msgstr "Τύπος"
+
+msgid "Go Pro"
+msgstr "Με το Pro"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"Το Rainlendar Pro σας επιτρέπει να έχετε πρόσβαση στο Outlook, στο "
+"ημερολόγιο Google και σε άλλα ημερολόγια 3ο Party και λίστες εργασιών "
+"απευθείας από την επιφάνεια εργασίας."
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"Το Rainlendar Pro σας επιτρέπει να προσπελάσετε το ημερολόγιό σας Google και "
+"άλλα ημερολόγια 3ο Party και λίστες εργασιών απευθείας από την επιφάνεια "
+"εργασίας."
+
+msgid "Buy license"
+msgstr "Αγοράστε άδεια"
+
+msgid "See differences"
+msgstr "Δείτε τις διαφορές"
+
+msgid "No calendar selected!"
+msgstr "Δεν έχει επιλεγεί ημερολόγιο!"
+
+msgid "You need to select a calendar type."
+msgstr "Πρέπει να επιλέξετε τον τύπο του ημερολογίου."
+
+msgid "Finish the authentication in your browser"
+msgstr "Ολοκληρώστε τον έλεγχο ταυτότητας στο πρόγραμμα περιήγησής σας"
+
+msgid "Authenticating..."
+msgstr "Έλεγχος ταυτότητας..."
+
+msgid "Downloading..."
+msgstr "Κατέβασμα..."
+
+msgid "No urls allowed!"
+msgstr "Δεν επιτρέπονται διευθύνσεις URL!"
+
+msgid "Only local files can be defined as the file name."
+msgstr "Μόνο τοπικά αρχεία μπορούν να δηλωθούν ως όνομα αρχείου."
+
+msgid "No UNC paths allowed!"
+msgstr "Δεν επιτρέπονται διαδρομές UNC!"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"Δεν είναι δυνατή η χρήση UNC διαδρομών ως ονομάτων αρχείων.\n"
+"Πρέπει να αντιστοιχίσετε έναν δίσκο δικτύου έτσι ώστε να μπορείτε να "
+"προσπελάσετε αρχεία στον server."
+
+msgid "No filename defined!"
+msgstr "Δεν έχει οριστεί όνομα αρχείου!"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"Δεν μπορείτε να αφήσετε το πεδίο του αρχείου κενό. Πρέπει να ορίσετε ένα "
+"αρχείο όπου θα αποθηκεύονται τα συμβάντα και οι εργασίες."
+
+msgid "The file name is missing."
+msgstr "Το όνομα αρχείου λείπει."
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"Εάν δημιουργείτε ένα νέο ημερολόγιο, μπορείτε να εισαγάγετε οτιδήποτε ως "
+"όνομα. Διαφορετικά, επιλέξτε ένα υπάρχον αρχείο  iCalendar (*.ics)."
+
+msgid "The url is empty!"
+msgstr "Η διεύθυνση URL είναι κενή!"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"Δεν μπορείτε να αφήσετε κενό το πεδίο διεύθυνσης URL. Πρέπει να ορίσετε ένα "
+"αρχείο όπου θα αποθηκεύονται τα συμβάντα και οι εργασίες."
+
+msgid "The protocol is missing!"
+msgstr "Το πρωτόκολλο λείπει!"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr ""
+"Παρακαλείσθε επίσης να δώσετε το πρωτόκολλο για τη διεύθυνση URL (π.χ. "
+"\"http://\")."
+
+msgid "The file name is missing from the url!"
+msgstr "Το όνομα αρχείου λείπει από τη διεύθυνση URL!"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Εάν δημιουργείτε ένα νέο ημερολόγιο, μπορείτε να εισαγάγετε οτιδήποτε ως "
+"όνομα. Διαφορετικά, θα πρέπει να επαληθεύσετε ότι ο διακομιστής δεν "
+"καθορίζει πραγματικά κανένα αρχείο για τη διεύθυνση URL.\n"
+"\n"
+"Θέλετε να συνεχίσετε;"
+
+msgid "Incorrect email!"
+msgstr "Λάθος email!"
+
+msgid "You need to enter a full email address."
+msgstr "Πρέπει να εισαγάγετε μια πλήρη διεύθυνση ηλεκτρονικού ταχυδρομείου."
+
+msgid "Please select the calendar."
+msgstr "Επιλέξτε το ημερολόγιο."
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr ""
+"Δεν έχετε επιλέξει κανένα ημερολόγιο. Είστε βέβαιοι ότι θέλετε να συνεχίσετε;"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "The calendar already exists!"
+msgstr "Το ημερολόγιο υπάρχει ήδη!"
+
+msgid "Please choose some other name for the calendar."
+msgstr "Επιλέξτε κάποιο άλλο όνομα για το ημερολόγιο."
+
+msgid "The calendar name is empty!"
+msgstr "Το όνομα του ημερολογίου είναι κενό!"
+
+msgid "You must give a name for the calendar."
+msgstr "Πρέπει να δώσετε ένα όνομα για το ημερολόγιο."
+
+msgid "Alarm sound"
+msgstr "Ήχος υπενθύμισης"
+
+msgid "Select alarm sound"
+msgstr "Επιλογή αρχείου ήχου για την υπενθύμιση"
+
+msgid "Default sound"
+msgstr "Προεπιλεγμένος ήχος"
+
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+msgid "No sound"
+msgstr "Χωρίς ήχο"
+
+msgid "Custom sound / executable"
+msgstr "Προσαρμοσμένος ήχος/εκτελέσιμο αρχείο"
+
+msgid "Browse..."
+msgstr "Αναζήτηση..."
+
+msgid "Bulk Change"
+msgstr "Μαζική αλλαγή"
+
+msgid "Type:"
+msgstr "Τύπος:"
+
+msgid "Summary:"
+msgstr "Περιγραφή:"
+
+msgid "Location:"
+msgstr "Τόπος:"
+
+msgid "Url:"
+msgstr "Url:"
+
+msgid "Class:"
+msgstr "Κατηγορία:"
+
+msgid "Time type:"
+msgstr "Τύπος ώρας:"
+
+msgid "With time"
+msgstr "Με το χρόνο"
+
+msgid "Start time:"
+msgstr "Ώρα έναρξης:"
+
+msgid "Absolute"
+msgstr "Απόλυτο"
+
+msgid "Relative"
+msgstr "Σχετικά"
+
+msgid "Months"
+msgstr "Μήνες"
+
+msgid "Years"
+msgstr "Έτη"
+
+msgid "Visibility:"
+msgstr "Προβολή:"
+
+msgid "Show in calendar"
+msgstr "Εμφάνιση στο Ημερολόγιο"
+
+msgid "Priority:"
+msgstr "Προτεραιότητα:"
+
+msgid "Status:"
+msgstr "Κατάσταση:"
+
+msgid "Not Started"
+msgstr "Δεν ξεκίνησε"
+
+msgid "Progress:"
+msgstr "Πρόοδος:"
+
+msgid "0 %"
+msgstr "0 %"
+
+msgid "10 %"
+msgstr "10 %"
+
+msgid "20 %"
+msgstr "20 %"
+
+msgid "30 %"
+msgstr "30 %"
+
+msgid "40 %"
+msgstr "40 %"
+
+msgid "50 %"
+msgstr "50 %"
+
+msgid "60 %"
+msgstr "60 %"
+
+msgid "70 %"
+msgstr "70 %"
+
+msgid "80 %"
+msgstr "80 %"
+
+msgid "90 %"
+msgstr "90 %"
+
+msgid "100 %"
+msgstr "100 %"
+
+msgid "Free/Busy:"
+msgstr "Ελεύθερο/Απασχολημένο:"
+
+msgid "Free"
+msgstr "Ελεύθερο"
+
+msgid "Busy"
+msgstr "Απασχολημένο"
+
+msgid "Description:"
+msgstr "Περιγραφή:"
+
+msgid "Alarm:"
+msgstr "Συναγερμός:"
+
+msgid "Category:"
+msgstr "Κατηγορία:"
+
+msgid "Recurrence:"
+msgstr "Επανάληψη:"
+
+msgid "Repeat every"
+msgstr "Επανάληψη κάθε"
+
+msgid "Weeks"
+msgstr "Εβδομάδες"
+
+msgid "Repeat ending"
+msgstr "Τέλος επανάληψης"
+
+msgid "Forever"
+msgstr "Για πάντα"
+
+msgid "Number of times"
+msgstr "Αριθμός επαναλήψεων"
+
+msgid "Until"
+msgstr "Έως"
+
+msgid "Debug Window"
+msgstr "Παράθυρο εντοπισμού σφαλμάτων"
+
+msgid "Sensitivity:"
+msgstr "Ευαισθησία:"
+
+msgid "All day event"
+msgstr "Ολοήμερο γεγονός"
+
+msgid "Mark time as busy"
+msgstr "Σήμανση χρόνου ως κατειλημμένος"
+
+msgid "Time zone:"
+msgstr "Ζώνη ώρας:"
+
+msgid "Calendar:"
+msgstr "Ημερολόγιο:"
+
+msgid "Mon"
+msgstr "Δευ"
+
+msgid "Tue"
+msgstr "Τρι"
+
+msgid "Wed"
+msgstr "Τετ"
+
+msgid "Thu"
+msgstr "Πεμ"
+
+msgid "Fri"
+msgstr "Παρ"
+
+msgid "Sat"
+msgstr "Σαβ"
+
+msgid "Sun"
+msgstr "Κυρ"
+
+msgid "Repeat"
+msgstr "Επανάληψη"
+
+msgid "End after"
+msgstr "Τέλος μετά"
+
+msgid "occurrences"
+msgstr "εμφανίσεις"
+
+msgid "Exception dates"
+msgstr "Εξαίρεση ημερομηνιών"
+
+msgid "Add"
+msgstr "Προσθήκη"
+
+msgid "Show descriptions"
+msgstr "Εμφάνιση περιγραφών"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr ""
+"Εμφάνιση σημερινών γεγονότων στην γραμμή εργασιών όταν ξεκινάει το Rainlendar"
+
+msgid "Hide list windows if there are no items"
+msgstr "Απόκρυψη παραθύρων λίστας, εάν δεν υπάρχουν στοιχεία"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Κλίκ ανάμεσα (κρατήστε πατημένο το πλήκτρο Shift για απενεργοποίηση)"
+
+msgid "Lock windows in place"
+msgstr "Κλείδωμα παραθύρων σε αυτή τη θέση"
+
+msgid "Enable on startup"
+msgstr "Ενεργοποιήση κατά την εκκίνηση"
+
+msgid "Hide from taskbar"
+msgstr "Απόκρυψη από τη γραμμή εργασιών"
+
+msgid "Use Retina Resolution"
+msgstr "Χρήση ανάλυσης Retina"
+
+msgid "Add years for categories"
+msgstr "Προσθήκη ετών για κατηγορίες"
+
+msgid "Categories..."
+msgstr "Κατηγορίες..."
+
+msgid "Week's start day:"
+msgstr "Ημέρα έναρξης εβδομάδας:"
+
+msgid "Position:"
+msgstr "Θέση:"
+
+msgid "Language:"
+msgstr "Γλώσσα:"
+
+msgid "Opacity"
+msgstr "Αδιαφάνεια"
+
+msgid "Normal:"
+msgstr "Κανονικό:"
+
+msgid "Mouse over:"
+msgstr "Ποντίκι επάνω:"
+
+msgid "Apply to all windows at the same time"
+msgstr "Εφαρμογή σε όλα τα παράθυρα ταυτόχρονα"
+
+msgid "Font Size"
+msgstr "Μέγεθος γραμματοσειράς"
+
+msgid "Size:"
+msgstr "Μέγεθος:"
+
+msgid "Duplicate..."
+msgstr "Διπλότυπες..."
+
+msgid "Action:"
+msgstr "Ενέργεια:"
+
+msgid "Hotkey:"
+msgstr "Συντόμευση:"
+
+msgid "Set"
+msgstr "Ορισμός"
+
+msgid "Available skins"
+msgstr "Διαθέσιμες εμφανίσεις"
+
+msgid "Active skins"
+msgstr "Ενεργές εμφανίσεις"
+
+msgid "Settings..."
+msgstr "Ρυθμίσεις..."
+
+msgid "All items"
+msgstr "Όλα τα στοιχεία"
+
+msgid "Selected items"
+msgstr "Επιλεγμένα στοιχεία"
+
+msgid "Day range"
+msgstr "Εύρος ημερών"
+
+msgid "Select days"
+msgstr "Επέλεξε ημέρες"
+
+msgid "Add title"
+msgstr "Προσθήκη τίτλου"
+
+msgid "Preview..."
+msgstr "Προεπισκόπιση..."
+
+msgid "Page Setup..."
+msgstr "Διαμόρφωση σελίδας..."
+
+msgid "Todo"
+msgstr "Να κάνω"
+
+msgid "Date only"
+msgstr "Μόνο ημερομηνία"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "Τιμές διαχωρισμένες με κόμμα (*.csv) | *.csv"
+
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+msgid "Calendar name"
+msgstr "Όνομα ημερολογίου"
+
+msgid "Poll frequency (mins)"
+msgstr "Συχνότητα σφυγμομέτρησης (λεπτά)"
+
+msgid "Suppress errors"
+msgstr "Απόκρυψη λαθών"
+
+msgid "Keep offline copy"
+msgstr "Διατήρηση αντιγράφου χωρίς σύνδεση"
+
+msgid "Authentication"
+msgstr "Πιστοποίηση"
+
+msgid "Basic"
+msgstr "Βασικά"
+
+msgid "Digest"
+msgstr "Digest"
+
+msgid "GSS-Negotiate"
+msgstr "GSS-Negotiate"
+
+msgid "NTLM"
+msgstr "NTLM"
+
+msgid "Support"
+msgstr "Υποστήριξη"
+
+msgid "Automatic"
+msgstr "Αυτόματο"
+
+msgid "Both"
+msgstr "Και τα δυο"
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Επιλέξτε ένα URL, ένα όνομα χρήστη και έναν κωδικό πρόσβασης για το "
+"ημερολόγιο και κάντε κλικ στο κουμπί επιλογής ημερολογίου.\n"
+"\n"
+"Τα πεδία ονόματος χρήστη και κωδικού πρόσβασης μπορούν να μένουν κενά αν δεν "
+"είναι απαραίτητα."
+
+msgid "Select Calendar"
+msgstr "Επιλογή ημερολογίου"
+
+msgid "CalDAV Error (%s)!"
+msgstr "Σφάλμα CalDAV (%s)!"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Σφάλμα κατά την αποστολή των δεδομένων στη διεύθυνση URL:\n"
+"%s\n"
+"\n"
+"Ο διακομιστής επέστρεψε αποτέλεσμα: (%i) %i %s."
+
+msgid "Google Error (%s)!"
+msgstr "Σφάλμα Google (%s)!"
+
+msgid "Unable to delete the event."
+msgstr "Δεν είναι δυνατή η διαγραφή του συμβάντος."
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "Ο διακομιστής επέστρεψε αποτέλεσμα: (%i) %i %s."
+
+msgid "Unable to read the calendars from the server."
+msgstr "Δεν είναι δυνατή η ανάγνωση των ημερολογίων από το διακομιστή."
+
+msgid "Unable to authenticate to the server."
+msgstr "Δεν είναι δυνατός ο έλεγχος ταυτότητας στο διακομιστή."
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Δεν είναι δυνατή η εύρεση του επιλεγμένου ημερολογίου (%s).\n"
+"\n"
+"Τα διαθέσιμα ημερολόγια είναι:\n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "Απέτυχε η ανάγνωση του ημερολογίου από το διακομιστή."
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr ""
+"Ο έλεγχος ταυτότητας απέτυχε. Επιβεβαιώστε ότι έχετε εισαγάγει το σωστό "
+"όνομα χρήστη και κωδικό πρόσβασης."
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr ""
+"Επιβεβαιώστε επίσης ότι χρησιμοποιείτε συγκεκριμένο κωδικό πρόσβασης για την "
+"εφαρμογή."
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr ""
+"Δεν είναι δυνατή η σύνδεση με το διακομιστή. Βεβαιωθείτε ότι η σύνδεσή σας "
+"στο δίκτυο λειτουργεί."
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "Η διεύθυνση URL \"%s\" δεν περιέχει ημερολόγια."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr ""
+"Σφάλμα κατά τη λήψη των δεδομένων από τη διεύθυνση URL:\n"
+"%s"
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr ""
+"Βεβαιωθείτε ότι το δίκτυό σας λειτουργεί και ότι το τείχος προστασίας δεν "
+"αποκλείει τη σύνδεση."
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr ""
+"Δεν είναι δυνατή η επίλυση του διακομιστή μεσολάβησης. Βεβαιωθείτε ότι οι "
+"ρυθμίσεις του διακομιστή μεσολάβησης είναι σωστές."
+
+msgid "Unable to resolve the host."
+msgstr "Δεν είναι δυνατή η επίλυση του κεντρικού υπολογιστή."
+
+msgid "Unable to connect to the server."
+msgstr "Η σύνδεση με τον server δεν είναι εφικτή."
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "Η ασφαλής σύνδεση (SSL) στο διακομιστή απέτυχε."
+
+msgid "FALSE"
+msgstr "FALSE"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Ignore private events"
+msgstr "Παράβλεψη ιδιωτικών συμβάντων"
+
+msgid "Import limit"
+msgstr "Όριο εισαγωγής"
+
+msgid "Everything"
+msgstr "Όλα"
+
+msgid "Future only"
+msgstr "Μόνο για το μέλλον"
+
+msgid "Past month"
+msgstr "Περασμένων μηνών"
+
+msgid "Past 6 months"
+msgstr "Τελευταίους 6 μήνες"
+
+msgid "Past year"
+msgstr "Προηγούμενο έτος"
+
+msgid "Past 2 years"
+msgstr "Τα τελευταία 2 χρόνια"
+
+msgid "Delete notifications"
+msgstr "Μπορεί να διαγράψει ειδοποιήσεις"
+
+msgid "External Only"
+msgstr "Μόνο εξωτερικά"
+
+msgid "Future Only"
+msgstr "Μόνο για το μέλλον"
+
+msgid "Color mapping"
+msgstr "Αντιστοίχιση χρωμάτων"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"Πληκτρολογήστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου του λογαριασμού σας "
+"Google και κάντε κλικ στο κουμπί \"επιλογή ημερολογίου\" και επιλέξτε το "
+"ημερολόγιο στο οποίο θέλετε να αποκτήσετε πρόσβαση."
+
+msgid "Select calendar"
+msgstr "Επιλογή ημερολογίου"
+
+msgid "Unable to read the calendars."
+msgstr "Δεν είναι δυνατή η ανάγνωση των ημερολογίων."
+
+msgid "Authentication failed."
+msgstr "Η ταυτοποίηση απέτυχε."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Δεν είναι δυνατός ο έλεγχος ταυτότητας στην Google.\n"
+"Επιβεβαιώστε ότι το email σας\n"
+"και ο κωδικός πρόσβασης είναι σωστοί."
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr ""
+"Δεν είναι δυνατή η αποστολή του συμβάντος, επειδή δεν έχει οριστεί το "
+"ημερολόγιο προορισμού."
+
+msgid "Google Calendar Error (%s)!"
+msgstr "Σφάλμα ημερολογίου Google (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"Δεν είναι δυνατός ο έλεγχος ταυτότητας στην Google. Η επαλήθευση σε 2 βήματα "
+"είναι ενεργοποιημένη για το λογαριασμό σας, οπότε πρέπει να δημιουργήσετε "
+"έναν συγκεκριμένο κωδικό πρόσβασης για την εφαρμογή για τον Rainlendar. "
+"Μπορείτε να το κάνετε αυτό στις ρυθμίσεις του λογαριασμού Google, κάτω από "
+"την \"επαλήθευση σε 2 βήματα\"."
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"Δεν είναι δυνατός ο έλεγχος ταυτότητας στην Google. Η πρόσβαση του "
+"Rainlendar στο ημερολόγιο Google μπορεί να έχει ανακληθεί. Μεταβείτε στα "
+"ημερολόγια και εκτελέστε ξανά τον έλεγχο ταυτότητας για το ημερολόγιο."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Δεν είναι δυνατός ο έλεγχος ταυτότητας στην Google.\n"
+"Ο διακομιστής επέστρεψε αποτέλεσμα: (%i) %i %s."
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Δεν είναι δυνατή η λήψη των ημερολογίων.\n"
+"Ο διακομιστής επέστρεψε αποτέλεσμα: (%i) %i %s."
+
+msgid "Unable to parse the calendar url."
+msgstr "Δεν είναι δυνατή η ανάλυση της διεύθυνσης URL ημερολογίου."
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Φαίνεται ότι έχετε εισαγάγει μια διεύθυνση URL ως το όνομα του ημερολογίου.\n"
+"Θα πρέπει να χρησιμοποιήσετε ένα από τα παρακάτω ονόματα αντί για:\n"
+
+msgid "Unable to delete the event: "
+msgstr "Δεν είναι δυνατή η διαγραφή του συμβάντος: "
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"Δεν είναι δυνατή η αποστολή του συμβάντος στο ημερολόγιο Google λόγω "
+"διένεξης. Το ενημερωμένο συμβάν θα επαναφορτωθεί από το ημερολόγιο Google."
+
+msgid "Unable to parse the events."
+msgstr "Δεν είναι δυνατή η ανάλυση των συμβάντων."
+
+msgid "Unable to upload the event: "
+msgstr "Δεν είναι δυνατή η αποστολή του συμβάντος: "
+
+msgid "Task list name"
+msgstr "Όνομα λίστας εργασιών"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"Πληκτρολογήστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου του λογαριασμού σας "
+"Google και κάντε κλικ στο κουμπί \"επιλογή λίστας εργασιών\" και επιλέξτε τη "
+"λίστα εργασιών στην οποία θέλετε να αποκτήσετε πρόσβαση."
+
+msgid "Select task list"
+msgstr "Επιλογή λίστας εργασιών"
+
+msgid "Unable to read the task lists."
+msgstr "Δεν είναι δυνατή η ανάγνωση των λιστών εργασιών."
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr ""
+"Δεν είναι δυνατή η αποστολή της εργασίας, επειδή δεν έχει οριστεί η λίστα "
+"εργασιών προορισμού."
+
+msgid "Google Tasks Error (%s)!"
+msgstr "Σφάλμα εργασιών Google (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"Δεν είναι δυνατός ο έλεγχος ταυτότητας στην Google. Η πρόσβαση του "
+"Rainlendar στη λίστα εργασιών Google μπορεί να έχει ανακληθεί. Ανανεώστε το "
+"ημερολόγιο και ελέγξτε ξανά τον έλεγχο του λογαριασμού σας στο Google."
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Δεν είναι δυνατή η λήψη των λιστών εργασιών.\n"
+"Ο διακομιστής επέστρεψε αποτέλεσμα: (%i) %i %s."
+
+msgid "Unable to parse the task list url."
+msgstr "Δεν είναι δυνατή η ανάλυση της διεύθυνσης URL της λίστας εργασιών."
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Φαίνεται ότι έχετε εισαγάγει μια διεύθυνση URL ως το όνομα της λίστας "
+"εργασιών.\n"
+"Θα πρέπει να χρησιμοποιήσετε ένα από τα παρακάτω ονόματα αντί για:\n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"Δεν είναι δυνατή η εύρεση της λίστας εργασιών που επιλέξατε (%s).\n"
+"\n"
+"Οι διαθέσιμοι κατάλογοι είναι:\n"
+
+msgid "Unable to delete the task: "
+msgstr "Δεν είναι δυνατή η διαγραφή της εργασίας: "
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"Δεν είναι δυνατή η αποστολή της εργασίας στις εργασίες Google λόγω διένεξης. "
+"Η ενημερωμένη εργασία θα επαναφορτωθεί από τις εργασίες Google."
+
+msgid "Unable to upload the task: "
+msgstr "Δεν είναι δυνατή η αποστολή της εργασίας: "
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Αρχεία Rainlendar (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "Ασφαλής αποστολή"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"Επιλέξτε διεύθυση ιστοσελίδας, όνομα χρήστη και κωδικός χρήστη για το "
+"ημερολόγιο.\n"
+"\n"
+"Το URL μπορεί να χρησιμοποιεί τα προτόκολλα http, https ή ftp. Τα πεδία με "
+"το όνομα χρήστη και τον κωδικό πρόσβασης μπορούν να παραμείνουν κενά εάν δεν "
+"απαιτούνται."
+
+msgid "Network Error (%s)!"
+msgstr "Σφάλμα δικτύου (%s)!"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "Δεν είναι δυνατή η προσθήκη του στοιχείου στο διαδικτυακό ημερολόγιο."
+
+msgid "Unable to remove the item from the online calendar."
+msgstr ""
+"Δεν είναι δυνατή η κατάργηση του στοιχείου από το διαδικτυακό ημερολόγιο."
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"Δεν είναι δυνατή η ανάλυση του αρχείου: %s\n"
+"Το αρχείο μπορεί να είναι κατεστραμμένο."
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"Ο διακομιστής επέστρεψε ένα κενό αποτέλεσμα. Βεβαιωθείτε ότι η διεύθυνση URL "
+"του ημερολογίου οδηγεί σε ένα αρχείο και όχι σε ένα φάκελο."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Σφάλμα κατά τη λήψη των δεδομένων από τη διεύθυνση URL:\n"
+"%s\n"
+"\n"
+"Ο διακομιστής επέστρεψε αποτέλεσμα:(%i) %i %s."
+
+msgid "Downloaded event count"
+msgstr "Πλήθος συμβάντων που κατεβάσατε"
+
+msgid "Office 365"
+msgstr "Office 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"Πληκτρολογήστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου του λογαριασμού Office "
+"365 και κάντε κλικ στο κουμπί \"επιλογή ημερολογίου\" και επιλέξτε το "
+"ημερολόγιο στο οποίο θέλετε να αποκτήσετε πρόσβαση."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Δεν είναι δυνατός ο έλεγχος ταυτότητας στο λογαριασμό Office 365.\n"
+"Επιβεβαιώστε ότι το email σας\n"
+"και ο κωδικός πρόσβασης είναι σωστοί."
+
+msgid "Office365 Error (%s)!"
+msgstr "Office365 σφάλμα (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Δεν είναι δυνατός ο έλεγχος ταυτότητας στο λογαριασμό Office 365. Η πρόσβαση "
+"του Rainlendar στο ημερολόγιο του Office 365 μπορεί να έχει ανακληθεί. "
+"Ανανεώστε το ημερολόγιο και ελέγξτε ξανά τον έλεγχο της υπηρεσίας στο "
+"λογαριασμό σας στο Office 365."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Δεν είναι δυνατός ο έλεγχος ταυτότητας στο λογαριασμό Office 365.\n"
+"Ο διακομιστής επέστρεψε αποτέλεσμα: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Δεν είναι δυνατή η αποστολή του συμβάντος λόγω διένεξης. Το ενημερωμένο "
+"συμβάν θα επαναφορτωθεί από το διακομιστή."
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"Σφάλμα του Outlook!\n"
+"Δεν είναι δυνατή η προετοιμασία της βιβλιοθήκης MAPI.\n"
+"\n"
+"Εάν έχετε αναβαθμίσει το πρόγραμμα Rainlendar ή το Outlook, πρέπει να "
+"δημιουργήσετε ξανά το ημερολόγιο του Outlook στις επιλογές του Rainlendar.\n"
+"\n"
+"Βεβαιωθείτε επίσης ότι χρησιμοποιείτε τις ίδιες εκδόσεις (32bit vs. 64bit) "
+"και των δύο εφαρμογών."
+
+msgid "Application"
+msgstr "Εφαρμογή"
+
+msgid "Profile"
+msgstr "Προφίλ"
+
+msgid "MessageStore"
+msgstr "MessageStore"
+
+msgid "Folders"
+msgstr "Φάκελοι"
+
+msgid "Default Folder"
+msgstr "Προεπιλεγμένος φάκελος"
+
+msgid "Use labels instead of categories"
+msgstr "Χρησιμοποίησε ετικέτες αντί για κατηγορίες"
+
+msgid "Show edit links"
+msgstr "Εμφάνισε δεσμούς επεξεργασίας"
+
+msgid "Keep MAPI connection alive"
+msgstr "Διατήρησε την σύνδεση ΜΑΡΙ ενεργή"
+
+msgid "Month"
+msgstr "Μήνας"
+
+msgid "6 months"
+msgstr "6 μήνες"
+
+msgid "Year"
+msgstr "Έτος"
+
+msgid "2 years"
+msgstr "2 χρόνια"
+
+msgid "Read birthdays from contacts"
+msgstr "Ανάγνωση γενεθλίων από επαφές"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr ""
+"Επιλέξτε το Outlook message store το οποίο θέλετε να εμφανίζετε στο  "
+"Rainlendar."
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][edit]]"
+
+msgid "Outlook error!"
+msgstr "Σφάλμα του Outlook!"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr ""
+"Απέτυχε η ανάγνωση των στοιχείων του Outlook από το \"%s\". Δείτε το αρχείο "
+"καταγραφής για περισσότερες λεπτομέρειες."
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "Η ενημέρωση του στοιχείου απέτυχε. Κωδικός σφάλματος 0x%p"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr ""
+"Απέτυχε η εγγραφή του στοιχείου του Outlook. Δεν υπάρχουν διαθέσιμοι φάκελοι "
+"όπου θα μπορούσε να αποθηκευτεί."
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "Δεν είναι δυνατή η διαγραφή του στοιχείου. Κωδικός σφάλματος 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr ""
+"Δεν είναι δυνατή η εύρεση της λίστας εργασιών \"Απομνημόνευση του γάλακτος\"!"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr ""
+"Δεν ήταν δυνατή η εύρεση της λίστας \"%s\". Οι διαθέσιμοι κατάλογοι είναι:"
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "Παρακαλώ γράψτε το όνομα ακριβώς όπως είναι στην παραπάνω λίστα."
+
+msgid "Unable to parse the ID from the task."
+msgstr "Δεν είναι δυνατή η ανάλυση τουID από την εργασία."
+
+msgid "Unable to create the task."
+msgstr "Δεν είναι δυνατή η δημιουργία της εργασίας."
+
+msgid "Unable to parse the timeline."
+msgstr "Δεν είναι δυνατή η ανάλυση της λωρίδας χρόνου."
+
+msgid "The service is temporarily unavailable."
+msgstr "Η υπηρεσία δεν είναι διαθέσιμη προσωρινά."
+
+msgid "Please log in to Remember The Milk."
+msgstr "Παρακαλώ συνδεθείτε για να θυμηθείτε το γάλα."
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"Πρέπει να εξουσιοδοτήσετε τον Rainlendar να αποκτήσει πρόσβαση στο "
+"λογαριασμό σας. Παρακαλώ συνδεθείτε στην ιστοσελίδα \"Θυμηθείτε το γάλα\" "
+"και δώστε στη Rainlendar πρόσβαση στο λογαριασμό σας.\n"
+"\n"
+"Το προεπιλεγμένο πρόγραμμα περιήγησης στο Web θα ανοίξει αυτόματα όταν "
+"κάνετε κλικ στο κουμπί OK."
+
+msgid "Continue after authorization."
+msgstr "Συνεχίστε μετά την έγκριση."
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr ""
+"Κάντε κλικ στο κουμπί OK για να συνεχίσετε αφού έχετε εξουσιοδοτήσει τον "
+"Rainlendar."
+
+msgid "Unable to parse the output."
+msgstr "Δεν είναι δυνατή η ανάλυση του αποτελέσματος."
+
+msgid "Unknown response for call \"%s\"."
+msgstr "Άγνωστη απόκριση για την κλήση \"%s\"."
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"Η κλήση \"%s\" απέτυχε:\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "Η κλήση στη μέθοδο \"%s\" απέτυχε."
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "Σφάλμα στο Θυμηθείτε το γάλα (%s)!"
+
+msgid "List"
+msgstr "Λίστα"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"Επιλέξτε το όνομα της λίστας εργασιών από το θυμηθείτε το γάλα. Μπορείτε "
+"επίσης να αφήσετε το πεδίο κενό αν θέλετε να λάβετε όλες τις λίστες σας."
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"Λείπει το διακριτικό ελέγχου ταυτότητας. Πρέπει να δώσεις στον Rainlendar "
+"πρόσβαση στο λογαριασμό σου \"Θυμήσου το γάλα\"."
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"Δεν είναι δυνατή η εύρεση του φακέλου \"%s\".\n"
+"\n"
+"Οι διαθέσιμοι φάκελοι είναι οι εξής:"
+
+msgid "Toodledo Error (%s)!"
+msgstr "Σφάλμα (%s)"
+
+msgid "Folder"
+msgstr "Φάκελος"
+
+msgid "Poll for changes"
+msgstr "Σφυγμομέτρηση για αλλαγές"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr ""
+"Παρακαλώ εισάγετε τη διεύθυνση email και τον κωδικό πρόσβασής σας για το "
+"Toodledo."
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "Δεν είναι δυνατό το άνοιγμα του αρχείου \"%s\" για εγγραφή."
+
+msgid "Filename"
+msgstr "Όνομα αρχείου"
+
+msgid "Monitor changes"
+msgstr "Παρακολούθηση Αλλαγών"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"Επιλέξτε ένα αρχείο για το ημερολόγιο.\n"
+"\n"
+"Μπορείτε να επιλέξετε ένα υπάρχον αρχείο ics ή να πληκτρολογήσετε μια "
+"καινούρια διαδρομή στην οποία θα δημιουργηθεί ένα νέο αρχείο."
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "Αρχεία iCalendar (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr ""
+"Η διαδρομή προς το αρχείο ημερολογίου \"%s\" δεν εξέρχεται. Μεταβείτε στα "
+"ημερολόγια και επιβεβαιώστε ότι η θέση του αρχείου έχει οριστεί σωστά."
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr ""
+"Δεν είναι δυνατή η πραγματοποίηση ενός προσωρινού αντιγράφου του αρχείου \"%s"
+"\"."
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "Δεν είναι δυνατή η αντικατάσταση του αρχείου \"%s\"."
+

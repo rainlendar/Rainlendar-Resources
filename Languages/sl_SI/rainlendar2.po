@@ -1,0 +1,5167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: 2022-03-21 15:46+0200\n"
+"Last-Translator: Zoran Kovacevic <kovacevic.zoran@gmail.com>\n"
+"Language-Team: \n"
+"Language: sl_SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: Plugins\n"
+"X-Poedit-SearchPath-1: Testbench/Debug/resources\n"
+"X-Poedit-SearchPath-2: Application\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Rainlendar ne more zagnati http strežnika, da bi prejel OAuth "
+"odgovorPreverite, da nimate nobene varnostne programske opreme, ki bi "
+"preprečevala zagon strežnikov aplikacije in da v istem portu ne poteka "
+"nobena druga storitev"
+
+msgid "Server Port: "
+msgstr "Vrata za strežnik"
+
+msgid "Failed to start HTTP server"
+msgstr "Zagon http strežnika ni uspel"
+
+msgid "Choose the backup path"
+msgstr "Izberite pot varnostne kopije"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "Arhiv (*.zip)|*.zip"
+
+msgid "Authentication failed!"
+msgstr "Avtentikacija ni uspela!"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "Prepričajte se, da ste končali postopek preverjanja pristnosti"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr "in dajte Rainlendarju dovoljenje za dostop do koledarja."
+
+msgid "Authentication succeeded!"
+msgstr "Preverjanje pristnosti je uspelo!"
+
+msgid "You may close the browser window now."
+msgstr "Zdaj lahko zaprete okno brskalnika."
+
+msgid "Choose the backup file:"
+msgstr "Izberite varnostno datoteko:"
+
+msgid "Select"
+msgstr "Izberi"
+
+msgid "No backups found!"
+msgstr "Ni varnostnih kopij!"
+
+msgid "There are no backups available in the backup folder."
+msgstr "V rezervni mapi ni varnostnih kopij."
+
+msgid "The settings do not exist!"
+msgstr "Nastavitve ne obstajajo!"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "Izbrana varnostna datoteka ne vsebuje datoteke nastavitev."
+
+msgid "The file already exists:"
+msgstr "Datoteka že obstaja:"
+
+msgid "Do you want to overwrite the file?"
+msgstr "Ali želite prepisati datoteko?"
+
+msgid "Unable to overwrite file:"
+msgstr "Ni mogoče prepisati datoteke:"
+
+msgid "Write error!"
+msgstr "Napaka pri pisanju!"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"Datoteke ni mogoče obnoviti:\n"
+"%s\n"
+"\n"
+"Datoteko morate izvleči iz varnostnega arhiva."
+
+msgid "Restore error!"
+msgstr "Napaka pri obnovitvi!"
+
+msgid "[None]"
+msgstr "[Nič]"
+
+msgid "<Hidden>"
+msgstr "<Skrito>"
+
+msgid "all"
+msgstr "vse"
+
+msgid "active"
+msgstr "aktivno"
+
+msgid "dismissed"
+msgstr "opuščeno"
+
+msgid "snoozed"
+msgstr "v dremežu"
+
+msgid "Show only needs action"
+msgstr "Prikaži samo potrebna dejanja"
+
+msgid "Show only in progress"
+msgstr "Prikaži samo v dejanju"
+
+msgid "Show only completed"
+msgstr "Prikaži samo končano"
+
+msgid "Show only cancelled"
+msgstr "Prikaži samo preklicano"
+
+msgid "Hide needs action"
+msgstr "Zahteva dejanje"
+
+msgid "Hide in progress"
+msgstr "V teku"
+
+msgid "Hide completed"
+msgstr "SKRIJ ZAKLJUČENO"
+
+msgid "Hide cancelled"
+msgstr "Skrij preklicano"
+
+msgid "Reset completed time"
+msgstr "Ponastavitev končanega časa"
+
+msgid "Show only no priority"
+msgstr "Prikaži samo brez prednosti"
+
+msgid "Show only high priority"
+msgstr "Prikaži samo visoko prioriteto"
+
+msgid "Show only normal priority"
+msgstr "Prikaži samo normalno prioriteto"
+
+msgid "Show only low priority"
+msgstr "Prikaži samo nizko prioriteto"
+
+msgid "Hide no priority"
+msgstr "Ne skrivaj prioritete"
+
+msgid "Hide high priority"
+msgstr "Visoka prioriteta"
+
+msgid "Hide normal priority"
+msgstr "Skrij normalno prioriteto"
+
+msgid "Hide low priority"
+msgstr "Nizka prioriteta"
+
+msgid "Show only alarms"
+msgstr "Prikaži samo alarme"
+
+msgid "Show only active"
+msgstr "Prikaži samo atktivno"
+
+msgid "Show only snoozed"
+msgstr "Prikaži samo v dremežu"
+
+msgid "Show only dismissed"
+msgstr "Prikaži samo opuščeno"
+
+msgid "Hide alarms"
+msgstr "Skrij alarme"
+
+msgid "Hide active"
+msgstr "Skrij aktivno"
+
+msgid "Hide snoozed"
+msgstr "Skrij v mirovanju"
+
+msgid "Hide dismissed"
+msgstr "Skrij zavrnjeno"
+
+msgid "Reset dismiss time"
+msgstr "Ponastavitev čas opustitve"
+
+msgid "Reset snooze time"
+msgstr "Ponastavitev čas dremeža"
+
+msgid "Dismiss next alarm"
+msgstr "Opusti naslednji alarm"
+
+msgid "Duration:"
+msgstr "Trajanje:"
+
+msgid "Next alarm:"
+msgstr "Naslednji alarm:"
+
+msgid "Dismissed:"
+msgstr "Opuščeno:"
+
+msgid "Snoozed until:"
+msgstr "V dremežu dokler:"
+
+msgid "In Progress"
+msgstr "V Poteku"
+
+msgid "Completed"
+msgstr "Dokončano"
+
+msgid "Needs Action"
+msgstr "Potrebna Dejanja"
+
+msgid "Cancelled"
+msgstr "Preklicano"
+
+msgid "None"
+msgstr "[Nič]"
+
+msgid "High"
+msgstr "Visoko"
+
+msgid "Normal"
+msgstr "Normalno"
+
+msgid "Low"
+msgstr "Nizko"
+
+msgid "All"
+msgstr "Vse"
+
+msgid "Active"
+msgstr "Aktivno"
+
+msgid "Dismissed"
+msgstr "Opuščeno"
+
+msgid "Snoozed"
+msgstr "Dremež"
+
+msgid "Daily"
+msgstr "Dnevno"
+
+msgid "Weekly"
+msgstr "Tedensko"
+
+msgid "Monthly"
+msgstr "Mesečno"
+
+msgid "Yearly"
+msgstr "Letno"
+
+msgid "Private"
+msgstr "Privatno"
+
+msgid "Public"
+msgstr "Javno"
+
+msgid "Confidential"
+msgstr "Zaupno"
+
+msgid "Default"
+msgstr "Privzeto"
+
+msgid "No priority"
+msgstr "Brez prioritete"
+
+msgid "Normal priority"
+msgstr "Normalna prioriteta"
+
+msgid "High priority"
+msgstr "Visoka prioriteta"
+
+msgid "Low priority"
+msgstr "Nizka prioriteta"
+
+msgid "Created: "
+msgstr "Ustvarjeno:"
+
+msgid "Unknown"
+msgstr "Neznano"
+
+msgid "Modified: "
+msgstr "Spremenjeno:"
+
+msgid "Copy"
+msgstr "Kopiraj"
+
+msgid "Region"
+msgstr "Področje"
+
+msgid "Native"
+msgstr "Izvorno"
+
+msgid "Sunday"
+msgstr "Nedelja"
+
+msgid "Monday"
+msgstr "Ponedeljek"
+
+msgid "Tuesday"
+msgstr "Torek"
+
+msgid "Wednesday"
+msgstr "Sreda"
+
+msgid "Thursday"
+msgstr "Četrtek"
+
+msgid "Friday"
+msgstr "Petek"
+
+msgid "Saturday"
+msgstr "Sobota"
+
+msgid "Every second Saturday"
+msgstr "Vsako drugo Soboto"
+
+msgid "Start"
+msgstr "Začetek"
+
+msgid "Due"
+msgstr "Rok"
+
+msgid "Priority"
+msgstr "Prioriteta"
+
+msgid "Status"
+msgstr "Stanje"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "Recurrence"
+msgstr "Ponovitev"
+
+msgid "Off"
+msgstr "Odjava"
+
+msgid "Beta"
+msgstr "Beta"
+
+msgid "General"
+msgstr "Splošno"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "%U:%M (npr. \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "%#U:%M (npr. \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "%I:%M %p (npr. \"01:42 pop\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "%#I:%M %p (npr. \"3:42 pop\")"
+
+msgid "Time format"
+msgstr "Oblika časa"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "%d.%#m.%L (npr. \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "%d.%m.%L (npr. \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "%L-%m-%d (npr. \"2012-04-21\")"
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "%#m/%d/%L (npr. \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "%m/%d/%L (npr. \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "Oblika časa"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "Uporabi \"Danes\" in \"Jutri\""
+
+msgid "Weekend days"
+msgstr "Dnevi vikenda"
+
+msgid "Week number delta"
+msgstr "Tedenska številka delta"
+
+msgid "Default categories"
+msgstr "Privzete kategorije"
+
+msgid "Show categories from the skin"
+msgstr "Pokaži kategorije iz preobleke"
+
+msgid "Show tray icon"
+msgstr "Prikaži ikono pladnja"
+
+msgid "Show tray status icons"
+msgstr "Pokaži ikone stanja pladnja"
+
+msgid "Day number"
+msgstr "Številka dneva"
+
+msgid "Week number"
+msgstr "Številka tedna"
+
+msgid "Number in tray"
+msgstr "Številka v pladnju"
+
+msgid "Always"
+msgstr "Vedno"
+
+msgid "Never"
+msgstr "Nikoli"
+
+msgid "Show full menus"
+msgstr "Prikaži polne menije"
+
+msgid "Disable keyboard shortcuts"
+msgstr "Onemogoči bližnjice na tipkovnici"
+
+msgid "List wheel scroll"
+msgstr "Seznam premika koleščka"
+
+msgid "Skin language"
+msgstr "Preobleka jezika"
+
+msgid "Number of stored backups"
+msgstr "V rezervni mapi ni varnostnih kopij."
+
+msgid "Show delete confirmations"
+msgstr "Prikaži samo potrditev brisanja"
+
+msgid "Disable text formatting"
+msgstr "Onemogoči oblikovanje besedila"
+
+msgid "Show empty list text"
+msgstr "Prikaži samo prazen seznam besedila"
+
+msgid "Check for updates"
+msgstr "Preveri za posodobitve"
+
+msgid "Show url icons"
+msgstr "Pokaži ikone url-ja"
+
+msgid "Simultaneous transfers"
+msgstr "Istočasni prenosi"
+
+msgid "Only uncategorized"
+msgstr "Samo nekategorizirano"
+
+msgid "Icon from events"
+msgstr "Ikona iz dogodkov"
+
+msgid "Visual category overwrite"
+msgstr "Vizualna kategorija prepisa"
+
+msgid "Store English category names"
+msgstr "Shranite imena kategorij v Angleščini"
+
+msgid "Custom category icon path"
+msgstr "Pot ikone kategorije po meri"
+
+msgid "Use antialiased fonts"
+msgstr "Uporabite preverjene pisave"
+
+msgid "Count"
+msgstr "Štetje"
+
+msgid "Ordinal"
+msgstr "Redno"
+
+msgid "Type of year to add for categories"
+msgstr "Vrsta leta za dodajanje kategorij"
+
+msgid "Use custom password encrypting"
+msgstr "Uporabite šifriranje gesla po meri"
+
+msgid "Editor"
+msgstr "Urejevalnik"
+
+msgid "Allow multiple calendars"
+msgstr "Dovoli več koledarjev"
+
+msgid "Allow multiple categories"
+msgstr "Dovoli več kategorij"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "Urejevalnik naj bo odprt, dokler ne uspe zapisati"
+
+msgid "Time span in the editor"
+msgstr "Časovni razpon v urejevalniku"
+
+msgid "Number of previous locations"
+msgstr "Število prejšnjih lokacij"
+
+msgid "Default event duration"
+msgstr "Privzeto trajanje dogodka"
+
+msgid "Windows"
+msgstr "Okna"
+
+msgid "Use window names"
+msgstr "Uporabi imena oken"
+
+msgid "Hide on Aero peek"
+msgstr "Skrij na Aero pogledu"
+
+msgid "Transparency type"
+msgstr "Vrsta preglednosti"
+
+msgid "Copy transparency sleep time"
+msgstr "Kopirajte pregleden čas spanja"
+
+msgid "Fade delay (ms)"
+msgstr "Zakasnitev bledenja (ms)"
+
+msgid "Fade duration (ms)"
+msgstr "Trajanje bledenja (ms)"
+
+msgid "Allow window fading"
+msgstr "Dovoli bledenje okna"
+
+msgid "Keep on screen"
+msgstr "Ohrani na zaslonu"
+
+msgid "Bring all windows on top when clicked"
+msgstr "Prinesite vsa okna na vrh ko so kliknjena"
+
+msgid "Show in all desktops"
+msgstr "Prikaži v vseh namiznih računalnikih"
+
+msgid "Snap distance"
+msgstr "Razdalja posnetka"
+
+msgid "Snap center"
+msgstr "Center posnetka"
+
+msgid "Don't save"
+msgstr "Ne shrani"
+
+msgid "Per resolution"
+msgstr "Obnašanje na ločljivost"
+
+msgid "Single value"
+msgstr "Posamezna vrednost"
+
+msgid "Save window position"
+msgstr "Shrani položaj okna"
+
+msgid "Font face"
+msgstr "Oblika pisave"
+
+msgid "Scaling quality"
+msgstr "Kvaliteta spreminjanja velikosti"
+
+msgid "Network"
+msgstr "Omrežje"
+
+msgid "Reload delay after resume (s)"
+msgstr "Obnovitvena zamuda po nadaljevanju (s)"
+
+msgid "Network access delay after startup (s)"
+msgstr "Zakasnitev dostopa do omrežja po zagonu (s)"
+
+msgid "Proxy server"
+msgstr "Proxy strežnik"
+
+msgid "Proxy user"
+msgstr "Proxy uporabnik"
+
+msgid "Proxy password"
+msgstr "Proxy geslo"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgid "Proxy type"
+msgstr "Proxy tip"
+
+msgid "Try direct connection if proxy fails"
+msgstr "Poskusite neposredno povezavo, če ne uspe posredovanje"
+
+msgid "Calendar"
+msgstr "Koledar"
+
+msgid "Show all icons"
+msgstr "Prikaži vse ikone"
+
+msgid "Show one icon per type"
+msgstr "Show one icon per type"
+
+msgid "Show only one icon"
+msgstr "Prikaži samo eno ikono"
+
+msgid "Show no icons"
+msgstr "Ne prikaži nobene ikone"
+
+msgid "Combine icons in the calendar"
+msgstr "Združite ikone v koledarju"
+
+msgid "Calendar wheel scroll"
+msgstr "Pomikanje koleščka koledarja"
+
+msgid "Show tasks in calendar"
+msgstr "Prikaži naloge v koledarju"
+
+msgid "Always show menu"
+msgstr "Vedno prikaži meni"
+
+msgid "Always create new event"
+msgstr "Vedno ustvarite nov dogodek"
+
+msgid "Do nothing"
+msgstr "Ne stori ničesar"
+
+msgid "Double click action"
+msgstr "Dvakrat kliknite akcijo"
+
+msgid "Tooltip"
+msgstr "Opis orodja"
+
+msgid "Show tooltips"
+msgstr "Prikaži opise orodja"
+
+msgid "Only on days with events"
+msgstr "Samo v dneh z dogodki"
+
+msgid "Show tooltip in tray"
+msgstr "Prikažite orodje v pladnju"
+
+msgid "Max tooltip window width"
+msgstr "Največja širina okna za orodje"
+
+msgid "Show description in tooltip"
+msgstr "Prikaži opis v orodni vrstici"
+
+msgid "Task fields in tooltip"
+msgstr "Naloga v orodni vrstici"
+
+msgid "Event fields in tooltip"
+msgstr "Polja dogodkov v orodni vrstici"
+
+msgid "Traytip show duration (s)"
+msgstr "Prikaži nasvet pladnja (s)"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "Čas bledenja orodja (ms)"
+
+msgid "Tooltip show delay (ms)"
+msgstr "Zamik prikaza orodne vrstice (ms)"
+
+msgid "Tooltip format"
+msgstr "Format orodja"
+
+msgid "Task List"
+msgstr "Seznam opravil"
+
+msgid "Show full task summary"
+msgstr "Prikaži celoten povzetek opravila"
+
+msgid "Show task due time"
+msgstr "Pokažite nalogo pravočasno"
+
+msgid "Show task location"
+msgstr "Pokaži lokacijo opravila"
+
+msgid "Show task calendar"
+msgstr "Prikaži koledar opravil"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "Število dni, ki so prikazani na seznamu (0 = prikaži vse)"
+
+msgid "Show task time when arranged by start or due date"
+msgstr "Pokažite čas naloge, če je urejen po datumu začetka ali zapadlosti"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr "%A %d.%#m.%L (npr. \"Ponedeljek 21.4.2012\")"
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr "%A %d.%m.%L (npr. \"Ponedeljek 21.04.2012\")"
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr "%A %L-%m-%d (npr. \"Ponedeljek 2012-04-21\")"
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr "%A %#m/%d/%L (npr. \"Ponedeljek 4/21/2012\")"
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr "%A %m/%d/%L (npr.. \"Ponedeljek 04/21/2012\")"
+
+msgid "Task list header format"
+msgstr "Oblika naslova seznama opravil"
+
+msgid "<None>"
+msgstr "[Nič]"
+
+msgid "Default task template"
+msgstr "Privzeta predloga naloge"
+
+msgid "Event List"
+msgstr "Seznam dogodkov"
+
+msgid "Show full event summary"
+msgstr "Prikaži celoten povzetek dogodkov"
+
+msgid "Show event start time"
+msgstr "Prikaži čas začetka dogodka"
+
+msgid "Show event end time"
+msgstr "Prikaži čas konca dogodka"
+
+msgid "Show event location"
+msgstr "Prikaži mesto dogodka"
+
+msgid "Show event calendar"
+msgstr "Prikaži koledar dogodkov"
+
+msgid "Hide dismissed events"
+msgstr "Skrij opuščene dogodke"
+
+msgid "Hide past events"
+msgstr "Skrij pretekle dogodke"
+
+msgid "Number of future days the list shows"
+msgstr "Število prihodnjih dni, ki jih prikazuje seznam"
+
+msgid "Number of past days the list shows"
+msgstr "Število zadnjih dni, ki jih prikazuje seznam"
+
+msgid "Age from start of the week"
+msgstr "Starost od začetka tedna"
+
+msgid "Event list header format"
+msgstr "Format glave seznama dogodkov"
+
+msgid "Default event template"
+msgstr "Privzeta predloga dogodka"
+
+msgid "No grouping"
+msgstr "Brez združevanja"
+
+msgid "Start and end dates"
+msgstr "Začetni in končni datumi"
+
+msgid "Start date and duration"
+msgstr "Datum začetka in trajanje"
+
+msgid "Group multiday events"
+msgstr "Skupina večdnevnih dogodkov"
+
+msgid "Schedule"
+msgstr "Urnik"
+
+msgid "Show schedule descriptions"
+msgstr "Prikaži opise urnika"
+
+msgid "Show schedule start time"
+msgstr "Prikaži čas začetka urnika"
+
+msgid "Show schedule end time"
+msgstr "Prikaži čas konca urnika"
+
+msgid "Show schedule location"
+msgstr "Prikaži lokacijo urnika"
+
+msgid "Show schedule calendar"
+msgstr "Prikaži koledar urnika"
+
+msgid "Create, move and resize events with mouse"
+msgstr "Ustvarite, premaknite in spremenite velikost dogodkov z miško"
+
+msgid "First shown hour"
+msgstr "Najprej prikaži uro"
+
+msgid "Last shown hour"
+msgstr "Nazadnje prikaži uro"
+
+msgid "Alarm"
+msgstr "Alarm"
+
+msgid "Show alarm start time"
+msgstr "Prikaži čas začetka alarma"
+
+msgid "Show alarm end time"
+msgstr "Prikaži čas konca alarma"
+
+msgid "Show alarm location"
+msgstr "Pokaži lokacijo alarma"
+
+msgid "Show alarm calendar"
+msgstr "Prikaži koledar alarmov"
+
+msgid "Show due to the event"
+msgstr "Prikaži rok do dogodka"
+
+msgid "Support Mozilla alarms"
+msgstr "Podpora za Mozilla alarme"
+
+msgid "Keep alarm always on top"
+msgstr "Alarm vedno držite na vrhu"
+
+msgid "Default snooze time (secs)"
+msgstr "Privzeti čas dremeža (sek)"
+
+msgid "Max alarm window width"
+msgstr "Največja širina alarmnega okna"
+
+msgid "Hide from alarm after days"
+msgstr "Skrivanje alarma po dnevih"
+
+msgid "Default alarm time (mins)"
+msgstr "Privzeti čas alarma (min)"
+
+msgid "Default alarm file"
+msgstr "Privzeta alarmna datoteka"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "Ne prikazujte alarma prek celotnega zaslona"
+
+msgid "Loop the alarm sound (secs)"
+msgstr "Zanka zvoka alarma (secs)"
+
+msgid "Snooze times (mins)"
+msgstr "Časi dremeža (mins)"
+
+msgid "Create Error!"
+msgstr "Napaka pri ustvarjanju !"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "Ciljnega koledarja za predmet ni mogel izbrati."
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "Unable to create a new item from the string:\n"
+
+msgid "Parse Error!"
+msgstr "Razčlenitvena napaka!"
+
+msgid "New version found!"
+msgstr "Najdena je nova različica!"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"Različica %s je na voljo.\n"
+"Želite zdaj na spletno stran?"
+
+msgid "No updates available."
+msgstr "Posodobitve niso na voljo."
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "Imate najnovejšo različico Rainlendarja."
+
+msgid "New event"
+msgstr "Nov dogodek"
+
+msgid "New task"
+msgstr "Nova naloga"
+
+msgid "Refresh"
+msgstr "Osveži"
+
+msgid "Options..."
+msgstr "Možnosti..."
+
+msgid "Manager..."
+msgstr "Upravitelj..."
+
+msgid "Exit"
+msgstr "Izhod"
+
+msgid "File"
+msgstr "Datoteka"
+
+msgid "View"
+msgstr "Pogled"
+
+msgid "About..."
+msgstr "O..."
+
+msgid "Open help\tCtrl+?"
+msgstr "Odpri pomoč\tCtrl+?"
+
+msgid "Help"
+msgstr "Pomoč"
+
+msgid "About"
+msgstr "O"
+
+msgid "Calendars"
+msgstr "Koledarji"
+
+msgid "Choose day"
+msgstr "Izberite dan"
+
+msgid "Choose month"
+msgstr "Izberite mesec"
+
+msgid "Install license..."
+msgstr "Namesti licenco ..."
+
+msgid "Show debug log"
+msgstr "Prikaži dnevnik odpravljanja napak"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+msgid "Enable all calendars"
+msgstr "Omogoči vse koledarje"
+
+msgid "Disable all calendars"
+msgstr "Onemogoči vse koledarje"
+
+msgid "Current Day"
+msgstr "Trenuten dan"
+
+msgid "Next Day"
+msgstr "Naslednji dan"
+
+msgid "Previous Day"
+msgstr "Prejšnji dan"
+
+msgid "Next Week"
+msgstr "Naslednji teden"
+
+msgid "Previous Week"
+msgstr "Prejšnji teden"
+
+msgid "Next Month"
+msgstr "Naslednji mesec"
+
+msgid "Previous Month"
+msgstr "Prejšnji mesec"
+
+msgid "Current Month"
+msgstr "Trenutni mesec"
+
+msgid "Next Year"
+msgstr "Naslednje leto"
+
+msgid "Previous Year"
+msgstr "Prejšnje leto"
+
+msgid "Home"
+msgstr "Domov"
+
+msgid "Right"
+msgstr "Desno"
+
+msgid "Left"
+msgstr "Levo"
+
+msgid "Up"
+msgstr "Gor"
+
+msgid "Down"
+msgstr "Dol"
+
+msgid "January"
+msgstr "Januar"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+msgid "February"
+msgstr "Februar"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+msgid "March"
+msgstr "Marec"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+msgid "April"
+msgstr "April"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+msgid "May"
+msgstr "Maj"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+msgid "June"
+msgstr "Junij"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+msgid "July"
+msgstr "Julij"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+msgid "August"
+msgstr "Avgust"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+msgid "September"
+msgstr "September"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+msgid "November"
+msgstr "November"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+msgid "December"
+msgstr "December"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+msgid "Visible"
+msgstr "Vidno"
+
+msgid "More settings..."
+msgstr "Več nastavitev..."
+
+msgid "Today"
+msgstr "Danes"
+
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+msgid "Show all windows"
+msgstr "Pokaži vsa okna"
+
+msgid "Hide all windows"
+msgstr "Skrij vsa okna"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "Datoteke licenc (*.r2lic)|*.r2lic"
+
+msgid "Choose the license file"
+msgstr "Izberite datoteko licence"
+
+msgid "*Empty*"
+msgstr "*Prazno*"
+
+msgid "This instance"
+msgstr "Ta primer"
+
+msgid "Whole event"
+msgstr "Celoten dogodek"
+
+msgid "All following"
+msgstr "Vse naslednje"
+
+msgid "Cancel"
+msgstr "Prekliči"
+
+msgid "Do you want to delete this item?"
+msgstr "Ali želite izbrisati ta podatek?"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"To je ponavljajoči se element:\n"
+"\n"
+"%s\n"
+"\\ nIzbrišete lahko samo ta primer (%s), vse naslednje dogodke ali celoten "
+"ponavljajoči se dogodek"
+
+msgid "The item is read only and cannot be deleted."
+msgstr "Podatek je samo za branje in ga ni mogoče izbrisati."
+
+msgid "Unable to delete the item."
+msgstr "Podatka ni mogoče izbrisati."
+
+msgid "Do you want to delete these items?"
+msgstr "Ali želite izbrisati te podatke?"
+
+msgid "The item is read only and cannot be moved."
+msgstr "Element je samo za branje in ga ni mogoče premakniti."
+
+msgid "Unable to move the item."
+msgstr "Artikla ni mogoče premakniti."
+
+msgid "Choose a directory"
+msgstr "Izberite imenik"
+
+msgid "Version"
+msgstr "Različica"
+
+msgid "Built on"
+msgstr "Temelji na"
+
+msgid "Developed by"
+msgstr "Razvil ga je"
+
+msgid "Translated (%s) by"
+msgstr "Prevedeno (%s) po"
+
+msgid "Licensed to"
+msgstr "Licencirano za"
+
+msgid "Plugins"
+msgstr "Vtičniki"
+
+msgid "Links"
+msgstr "Povezave"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Forum"
+msgstr "Forum"
+
+msgid "Menu icons by"
+msgstr "Ikone menija po"
+
+msgid "Application icon by"
+msgstr "Ikone aplikacij po"
+
+msgid "Copyrights"
+msgstr "Avtorske pravice"
+
+msgid "Please wait..."
+msgstr "Prosimo počakajte..."
+
+msgid "Check for update"
+msgstr "Preveri za posodobitve"
+
+msgid "Choose Alarm"
+msgstr "Izberi Alarm"
+
+msgid "All files (*.*)|*.*"
+msgstr "Vse datoteke (*.*)|*.*"
+
+msgid "Change Fields"
+msgstr "Spremeni Polja"
+
+msgid "%i events selected"
+msgstr "%i izbrani dogodki"
+
+msgid "%i tasks selected"
+msgstr "%i izbrana opravila"
+
+msgid "End time:"
+msgstr "Končni čas:"
+
+msgid "Due time:"
+msgstr "Obdobje:"
+
+msgid "Add new alarm"
+msgstr "Dodaj nov alarm"
+
+msgid "Are you sure you want to do this?"
+msgstr "Ste prepričani, da želite to storiti?"
+
+msgid "The selected fields will be changed to %i items."
+msgstr "Izbrana polja bodo spremenjena v %i elemente."
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr ""
+"Operacije ni mogoče razveljaviti, zato kliknite »Da« le, če ste popolnoma "
+"prepričani, da veste, kaj počnete."
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr ""
+"Upoštevajte, da bo sprememba vrste med dogodki in nalogami povzročila izgubo "
+"podatkov."
+
+msgid "Categories"
+msgstr "Kategorije"
+
+msgid "Add..."
+msgstr "Dodaj..."
+
+msgid "Clear"
+msgstr "Počisti"
+
+msgid "Remove"
+msgstr "Odstrani"
+
+msgid "Values"
+msgstr "Vrednosti"
+
+msgid "Please give a name for the category"
+msgstr "Navedite ime za kategorijo"
+
+msgid "Enter text"
+msgstr "Vnesite besedilo"
+
+msgid "Unable to create the category!"
+msgstr "Kategorije ni mogoče ustvariti!"
+
+msgid "You must give a name for the category."
+msgstr "Navesti morate ime za kategorijo."
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "V imenu ni dovoljeno uporabljati znaka »/«."
+
+msgid "A category called \"%s\" already exists."
+msgstr "Kategorija, ki se imenuje \"%s\" že obstaja."
+
+msgid "Link start and end dates"
+msgstr "[DATUMI ZAČETKA in KONCA]"
+
+msgid "Save\tCtrl+S"
+msgstr "Shrani\tCtrl+S"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "Shrani Kot Novo\tShift+Ctrl+S"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "Shrani v datoteko...\tAlt+Ctrl+S"
+
+msgid "Print...\tCtrl+P"
+msgstr "Natisni...\tCtrl+P"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "Izbriši\tCtrl+Delete"
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "Zapri && Sprejmi\tCtrl+Enter"
+
+msgid "Close\tCtrl+W"
+msgstr "Zapri\tCtrl+W"
+
+msgid "Close\tAlt-F4"
+msgstr "Zapri\tAlt-F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "Izbrani koledar ne podpira ponovitve."
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr "Alarm se ne bo prikazal, ker je koledar zanemaril nastavitev alarmov."
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr "Alarm ne bo prikazan, ker preobleka nima alarmnega okna."
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr "Naloga je samo za branje in sprememb ni mogoče shraniti."
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr "Dogodek je samo za branje in spremembe ni mogoče shraniti."
+
+msgid "The task is from a read-only calendar."
+msgstr "Naloga je iz koledarja, koledarja, ki je samo za branje."
+
+msgid "The event is from a read-only calendar."
+msgstr "Dogodek je iz koledarja, koledarja, ki je samo za branje."
+
+msgid "There are no calendars available which can store tasks."
+msgstr "Ni razpoložljivih koledarjev, ki bi lahko shranili opravila."
+
+msgid "There are no calendars available which can store events."
+msgstr "Ni razpoložljivih koledarjev, ki bi lahko shranili dogodke."
+
+msgid "No target calendar has been selected."
+msgstr "Noben ciljni koledar ni bil izbran."
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr "Prvotni opis je v HTML-ju in ga ni mogoče urejati."
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"Element za izbrani koledar ni izbran. Prosimo izberite koledar, kamor želite "
+"shraniti element."
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"Ni veljavnih koledarjev, kjer je mogoče shraniti postavko. Pojdite na "
+"možnosti in ustvarite nov koledar za element. Upoštevajte, da nekateri "
+"koledarji ne podpirajo dogodkov in nalog."
+
+msgid "Unable to save the item."
+msgstr "Elementa ni mogoče shraniti."
+
+msgid "Updating"
+msgstr "Posodabljanje"
+
+msgid "Do you want to save the changes?"
+msgstr "Ali želite shraniti spremembe?"
+
+msgid "You have made some changes to the fields."
+msgstr "Na poljih ste naredili nekaj sprememb."
+
+msgid "&Save"
+msgstr "&Shrani"
+
+msgid "&Discard"
+msgstr "&Zavrzi"
+
+msgid "&Cancel"
+msgstr "&Prekliči"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Ali ste prepričani, da želite izbrisati ta element?"
+
+msgid "Event"
+msgstr "Dogodek"
+
+msgid "Choose a file"
+msgstr "Izberite datoteko"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iKoledar datoteke (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "Izberite koledarje:"
+
+msgid "Select the categories:"
+msgstr "Izberite kategorije:"
+
+msgid "before the event starts."
+msgstr "preden se dogodek začne."
+
+msgid "before the task is due."
+msgstr "preden je naloga zapadla."
+
+msgid "Set alarm sound"
+msgstr "Nastavite zvok alarma"
+
+msgid "Current alarm: "
+msgstr "Trenuten alarm: "
+
+msgid "Remove alarm"
+msgstr "Odstranite alarm"
+
+msgid "Minutes"
+msgstr "Minute"
+
+msgid "Hours"
+msgstr "Ure"
+
+msgid "Days"
+msgstr "Dnevi"
+
+msgid "Alert"
+msgstr "Opozorilo"
+
+msgid "Email"
+msgstr "E-naslov"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr ""
+"Za dogodek ni bilo mogoče najti nobenih koledarjev. Dogodek ni bil shranjen."
+
+msgid "On the %s day of the month"
+msgstr "Na %s dan v mesecu"
+
+msgid "first"
+msgstr "prvi"
+
+msgid "second"
+msgstr "drugi"
+
+msgid "third"
+msgstr "tretji"
+
+msgid "fourth"
+msgstr "četrti"
+
+msgid "fifth"
+msgstr "peti"
+
+msgid "On the %s %s of the month"
+msgstr "Na %s %s v mesecu"
+
+msgid "On the last %s of the month"
+msgstr "Na zadnji %s v mesecu"
+
+msgid "On the first weekday of the month"
+msgstr "Na prvi delovni dan v mesecu"
+
+msgid "On the last weekday of the month"
+msgstr "Na zadnji delovni dan v mesecu"
+
+msgid "On the last day of the month"
+msgstr "Zadnji dan v mesecu"
+
+msgid "Please give a name for the template"
+msgstr "Navedite ime za predlogo"
+
+msgid "Unable to create the template!"
+msgstr "Predloge ni mogoče ustvariti!"
+
+msgid "You must give a name for the template."
+msgstr "Navesti morate ime za predlogo."
+
+msgid "A template called \"%s\" already exists."
+msgstr "Predloga imenovana \"%s\" že obstaja."
+
+msgid "Do you want to overwrite the template?"
+msgstr "Želite prepisati predlogo?"
+
+msgid "Choose the template to delete:"
+msgstr "Izberite predlogo za brisanje:"
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "Izberite predlogo, ki se uporablja za nove naloge:"
+
+msgid "Choose the template which is used for new events:"
+msgstr "Izberite predlogo, ki se uporablja za nove dogodke:"
+
+msgid "Save as template..."
+msgstr "Shrani kot predlogo..."
+
+msgid "Delete template..."
+msgstr "Izbriši predlogo..."
+
+msgid "Set the default template..."
+msgstr "Nastavite privzeto predlogo..."
+
+msgid "Template"
+msgstr "Predloga"
+
+msgid "Select the day range"
+msgstr "Izberite časovni obseg"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"Izvažanje datotek se ne more shraniti zaradi ponavljajočih se dogodkov, zato "
+"jih je treba pretvoriti v posamezne primere. Določite časovno obdobje, ki bo "
+"shranjeno v datoteko."
+
+msgid "From:"
+msgstr "Od:"
+
+msgid "To:"
+msgstr "Za:"
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "Končni čas ne more biti pred začetnim časom."
+
+msgid "Birthday"
+msgstr "Rojstni dan"
+
+msgid "Anniversary"
+msgstr "Obletnica"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Ustvarili ste rojstni dan ali obletnico, vendar niste določili ponovitve.\n"
+"Ali želite dogodek ponoviti vsako leto?"
+
+msgid "Error"
+msgstr "Napaka"
+
+msgid "Warning"
+msgstr "Opozorilo"
+
+msgid "Question"
+msgstr "Vprašanje"
+
+msgid "Information"
+msgstr "Informacije"
+
+msgid "Do not show this again"
+msgstr "Ne kaži več tega"
+
+msgid "&OK"
+msgstr "&V REDU"
+
+msgid "&Yes"
+msgstr "&Da"
+
+msgid "&No"
+msgstr "&Ne"
+
+msgid "Manager"
+msgstr "Upravitelj"
+
+msgid "Events"
+msgstr "Dogodki"
+
+msgid "Tasks"
+msgstr "Opravila"
+
+msgid "Show original"
+msgstr "Pokaži izvirnik"
+
+msgid "Show current"
+msgstr "Pokaži trenutni"
+
+msgid "Show upcoming"
+msgstr "Pokaži prihajajoči"
+
+msgid "New"
+msgstr "Nov"
+
+msgid "Edit"
+msgstr "Uredi"
+
+msgid "Delete"
+msgstr "Izbriši"
+
+msgid "Copy to"
+msgstr "Kopiraj v"
+
+msgid "Move to"
+msgstr "Premakni v"
+
+msgid "Change fields"
+msgstr "Spremenite polja"
+
+msgid "Import"
+msgstr "Uvozite"
+
+msgid "Export"
+msgstr "Izvozite"
+
+msgid "Print..."
+msgstr "Natisni..."
+
+msgid "Backup"
+msgstr "Varnostna kopija"
+
+msgid "Restore"
+msgstr "Obnovi"
+
+msgid "Close"
+msgstr "Zapri"
+
+msgid "Select all"
+msgstr "Izberi vse"
+
+msgid "Select none"
+msgstr "Ničesar ne izberite"
+
+msgid "Toggle selection"
+msgstr "Preklopi izbiro"
+
+msgid "Select duplicates"
+msgstr "Izberite dvojnike"
+
+msgid "Sort by due time"
+msgstr "Razvrsti po roku"
+
+msgid "Sort by end time"
+msgstr "Razvrsti po koncu časa"
+
+msgid "Sort by summary"
+msgstr "Razvrsti po povzetku"
+
+msgid "Sort by location"
+msgstr "Razvrsti po lokaciji"
+
+msgid "Sort by calendar"
+msgstr "Razvrsti po koledarju"
+
+msgid "Sort by category"
+msgstr "Razvrsti po kategoriji"
+
+msgid "Sort by url"
+msgstr "Razvrsti po spletnem naslovu"
+
+msgid "Sort by repeat"
+msgstr "Razvrsti po ponovitvah"
+
+msgid "Sort by priority"
+msgstr "Razvrsti po prednostih"
+
+msgid "Sort by status"
+msgstr "Razvrsti po statusu"
+
+msgid "Sort by create time"
+msgstr "Razvrsti po času ustvarjanja"
+
+msgid "Sort by modify time"
+msgstr "Razvrsti po času spreminjanja"
+
+msgid "Sort by start time"
+msgstr "Razvrsti po začetnem času"
+
+msgid "Start time"
+msgstr "Začetni čas"
+
+msgid "End time"
+msgstr "Končni čas"
+
+msgid "Summary"
+msgstr "Povzetek"
+
+msgid "Location"
+msgstr "Lokacija"
+
+msgid "Url"
+msgstr "Spletni naslov"
+
+msgid "Create time"
+msgstr "Čas nastanka:"
+
+msgid "Modify time"
+msgstr "Spremeni čas"
+
+msgid "Reverse sorting"
+msgstr "Povratno sortiranje"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "Skupaj: %i (Izbrano: %i)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr ""
+"Odpiranje veliko elementov za urejanje lahko traja dolgo. Ste prepričani, da "
+"želite to storiti?"
+
+msgid "Do you want to delete the selected item?"
+msgstr "Želite izbrisati izbrani element?"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "Želite izbrisati izbrane %i elemente?"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr "Izbrani element je samo za branje in ga ni mogoče izbrisati."
+
+msgid "There were %i read only items which were not deleted."
+msgstr "Tam so %i elementi za branje, kateri ne bodo izbrisani."
+
+msgid "Unable to delete some items."
+msgstr "Nekaterih elementov ni bilo mogoče izbrisati."
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "Izberite koledar, kjer je treba postavke kopirati v:"
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "Izberite koledar, v katerem naj bodo elementi premaknjeni v:"
+
+msgid "Operation failed!"
+msgstr "Postopek ni uspel!"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr "Koledarji, ki lahko shranijo elemente, niso na voljo."
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"Premikanje predmetov v spletni koledar ni varno. Če koledar destinacije ne "
+"sprejema predmetov zaradi težav v omrežju ali iz kakšnega drugega razloga, "
+"boste izgubili vse premične dogodke.\n"
+"\n"
+"Torej, kliknite »Da« le, če ste popolnoma prepričani, da veste, kaj počnete."
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "Premaknjeni %i elementi v te koledarje:\n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "Kopirani %i elementi v te koledarje:\n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"Pomembno! Kopiranje predmetov v spletni koledar traja nekaj časa, tako da "
+"nekaj časa ne bodo na voljo."
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr ""
+"Nekateri elementi so bili nastavljeni kot samo za branje in so bili "
+"premeščeni."
+
+msgid "Operation finished!"
+msgstr "Postopek končan!"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "Za dogodke morate izbrati vsaj en koledar."
+
+msgid "Backup was successful."
+msgstr "Varnostno kopiranje je bilo uspešno."
+
+msgid "The backup contains these files:"
+msgstr "Varnostno kopiranje vsebuje te datoteke:"
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"Opozorilo! Varnostna datoteka ne vsebuje datotek iKoledarja. Če imate kakšne "
+"lokalno shranjene dogodke ali opravila, jih morate ročno varnostno kopirati."
+
+msgid "Unable to create the backup file."
+msgstr "Datoteke z varnostno kopijo ni bilo mogoče ustvariti."
+
+msgid "The archive contains unknown files:\n"
+msgstr "Arhiv vsebuje neznane datoteke:\n"
+
+msgid "Restore was successful."
+msgstr "Obnovitev je bila uspešna."
+
+msgid "There were problems during the restore."
+msgstr "Med obnovitvijo so bili težave."
+
+msgid "Exported %i events successfully."
+msgstr "Izvoženi %i dogodki uspešno."
+
+msgid "Exported %i todo items successfully."
+msgstr "Izvoženi %i elementi z opravili uspešno."
+
+msgid "Export failed!"
+msgstr "Izvoz ni uspel!"
+
+msgid "Import failed!"
+msgstr "Uvoz ni uspel!"
+
+msgid "Options"
+msgstr "Možnosti"
+
+msgid "Skins"
+msgstr "Preobleke"
+
+msgid "Hotkeys"
+msgstr "Bližnjice"
+
+msgid "Advanced"
+msgstr "Napredno"
+
+msgid "Reset all settings"
+msgstr "Ponastavite vse nastavitve"
+
+msgid "Reset offline copy"
+msgstr "Ponastavite kopijo brez povezave"
+
+msgid "Authenticate"
+msgstr "Preverjanje pristnosti"
+
+msgid "OK"
+msgstr "V redu"
+
+msgid "Get more languages..."
+msgstr "Pridobi več jezikov..."
+
+msgid "On Top"
+msgstr "Na Vrh"
+
+msgid "On Bottom"
+msgstr "Na Dno"
+
+msgid "On Desktop"
+msgstr "Na Namizje"
+
+msgid "Get more skins..."
+msgstr "Pridobi več preoblek..."
+
+msgid "TrayIcon"
+msgstr "Ikona pladnja"
+
+msgid "Author"
+msgstr "Avtor"
+
+msgid "Homepage"
+msgstr "Domača stran"
+
+msgid "Addons"
+msgstr "Dodatki"
+
+msgid "Version history"
+msgstr "Zgodovina različice"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr ""
+"To je stara preobleka Rainlendarja. Nekatere funkcije morda ne bodo podprte."
+
+msgid "Advanced >>>"
+msgstr "Napredno >>>"
+
+msgid "<<< Simple"
+msgstr "<<< Preprosto"
+
+msgid "Open containing folder"
+msgstr "Odpri vsebujočo mapo"
+
+msgid "Custom categories are not supported."
+msgstr "Kategorije po meri niso podprte."
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr ""
+"Preobleka \"%s\" ne podpira prikazov kategorije po meri, zato jih ni mogoče "
+"urejati."
+
+msgid "Activate only default windows?"
+msgstr "Vključite samo privzeta okna?"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr "Želite aktivirati samo privzeta okna ali vsa okna?"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr "Upoštevajte, da lahko aktiviranje vseh oken zmanjša učinkovitost."
+
+msgid "&Default"
+msgstr "&Privzeto"
+
+msgid "&All"
+msgstr "&Vse"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"Vključite polje za urejanje in pritisnite kombinacijo blazničinih tipk. "
+"Upoštevajte, da so hitre tipke globalne in bodo vplivale tudi na druge "
+"aplikacije, zato jih ne naredite preveč preproste."
+
+msgid "Hotkey"
+msgstr "Bljižnica"
+
+msgid "Function"
+msgstr "Funkcija"
+
+msgid "Search:"
+msgstr "Iskanje:"
+
+msgid "Do you want to reset all settings?"
+msgstr "Ali želite ponastaviti vse nastavitve?"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"S tem bodo vse nastavitve ponastavljene na privzete vrednosti. Privzete "
+"nastavitve se uporabljajo takoj. Želite nadaljevati?"
+
+msgid "Common"
+msgstr "Pogosto"
+
+msgid "Enabled"
+msgstr "Omogočeno"
+
+msgid "Read only"
+msgstr "Le za branje"
+
+msgid "Ignore alarms"
+msgstr "Prezri alarme"
+
+msgid "Default alarm (minutes)"
+msgstr "Privzeti alarm (minute)"
+
+msgid "Visual category"
+msgstr "Vizualna kategorija"
+
+msgid "Time offset (mins)"
+msgstr "Časovni zamik (min)"
+
+msgid "Time zone"
+msgstr "Časovni pas"
+
+msgid "Copy of %s"
+msgstr "Kopirano od %s"
+
+msgid "Please enter a name for the calendar."
+msgstr "Prosimo vnesite ime koledarja."
+
+msgid "Illegal character!"
+msgstr "Nepravilen znak!"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "Ni dovoljeno uporabljati '/' ali ';' znakov v imenu."
+
+msgid "A calendar called \"%s\" already exists."
+msgstr "Koledar imenovan \"%s\" že obstaja."
+
+msgid "Choose another name."
+msgstr "Izberite drugo ime."
+
+msgid "Authentication failure"
+msgstr "neuspela avtentifikacija,"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr ""
+"Postopek OAuth ni uspel. Rainlendar ne more dostopati do vaših koledarskih "
+"podatkov."
+
+msgid "Do you want to delete the skin?"
+msgstr "Ali želite izbrisati preobleko?"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"Če izberete DA, bo preobleka \"%s\"\n"
+"bodo trajno izbrisana."
+
+msgid "Delete failed!"
+msgstr "Izbris ni uspel!"
+
+msgid "Unable to delete the skin."
+msgstr "Preobleke ni mogoče izbrisati."
+
+msgid "Print"
+msgstr "Natisni"
+
+msgid "Print items"
+msgstr "Elementi tiskanja"
+
+msgid "End"
+msgstr "Konec"
+
+msgid "Settings"
+msgstr "Nastavitve"
+
+msgid "Variables"
+msgstr "Spremenljivke"
+
+msgid "Window settings"
+msgstr "Nastavitve okna"
+
+msgid "Settings can be shown only for a single window."
+msgstr "Nastavitve je mogoče prikazati samo za eno okno."
+
+msgid "No settings available."
+msgstr "Nobene nastavitve niso dosegljiv."
+
+msgid "Global variables"
+msgstr "Globalne spremenljivke"
+
+msgid "Grow upwards"
+msgstr "Rast navzgor"
+
+msgid "Window position"
+msgstr "Položaj okna"
+
+msgid "Disabled"
+msgstr "Onemogočeno"
+
+msgid "Click through"
+msgstr "Klik skozi"
+
+msgid "Scale"
+msgstr "Lestvica"
+
+msgid "Filters"
+msgstr "Filtri"
+
+msgid "Included calendars"
+msgstr "Vključeni koledarji"
+
+msgid "Excluded calendars"
+msgstr "Izločeni koledarji"
+
+msgid "Included categories"
+msgstr "Vključene kategorije"
+
+msgid "Excluded categories"
+msgstr "Izključene kategorije"
+
+msgid "Task list"
+msgstr "Seznam opravil"
+
+msgid "Alphabetically"
+msgstr "Po abecedi"
+
+msgid "By Category"
+msgstr "Po Kategoriji"
+
+msgid "By Due Date"
+msgstr "Po Datumu Roka"
+
+msgid "By Start Date"
+msgstr "Po Začetku Časa"
+
+msgid "By Status"
+msgstr "Po Stanju"
+
+msgid "By Priority"
+msgstr "Po Prioriteti"
+
+msgid "By Location"
+msgstr "Po Lokaciji"
+
+msgid "By Calendar"
+msgstr "Po Koledarju"
+
+msgid "Custom"
+msgstr "Po meri"
+
+msgid "Primary sort order"
+msgstr "Primarni vrstni red"
+
+msgid "Secondary sort order"
+msgstr "Sekundarni vrstni red"
+
+msgid "Reverse primary sorting"
+msgstr "Povratno primarno razvrščanje"
+
+msgid "Reverse secondary sorting"
+msgstr "Povratno sekundarno razvrščanje"
+
+msgid "Empty at top"
+msgstr "Prazno na vrhu"
+
+msgid "Hide completed tasks"
+msgstr "Skrij opravljena opravila"
+
+msgid "Hide canceled tasks"
+msgstr "Skrij preklicana opravila"
+
+msgid "Hide upcoming tasks"
+msgstr "Skrij prihajajoča opravila"
+
+msgid "Event list"
+msgstr "Seznam dogodkov"
+
+msgid "Show empty days"
+msgstr "Pokaži prazne dni"
+
+msgid "Window variables"
+msgstr "Spremenljivke oken"
+
+msgid "Appearance"
+msgstr "Videz"
+
+msgid "Operations"
+msgstr "Operacije"
+
+msgid "Left click"
+msgstr "Levi klik"
+
+msgid "Right click"
+msgstr "Desni klik"
+
+msgid "Double left click"
+msgstr "Dvakratni levi klik"
+
+msgid "Double right click"
+msgstr "Dvakratni desni klik"
+
+msgid "Local"
+msgstr "Lokalno"
+
+msgid "Task"
+msgstr "Opravilo"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr "Datum zapadlosti je potrebno nastaviti pred ponovitvijo."
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "Rok ne more biti zgodnejši od začetnega časa."
+
+msgid "Unable to add new alarm!"
+msgstr "Ni mogoče dodati novega alarma!"
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr "Za to nalogo je treba določiti rok, preden lahko pride do alarmov."
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "Pred namestitvijo licence nadgradite na različico Pro."
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"Še vedno uporabljate različico Lite, ki ne vključuje funkcij Pro. Iti morate "
+"na stran za prenos Rainlendarja in dobiti različico Pro."
+
+msgid "&Get Pro"
+msgstr "&Pridobi Pro"
+
+msgid "&Ignore"
+msgstr "&Prezri"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"Če ste prenesli .r2skin or .r2lang datoteko in vaš \n"
+"spletni brskalnik je spremenil razširitev na .zip, ki ga lahko preimenujete\n"
+"datoteko nazaj na način, ki je bila in ga znova uvozite."
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Zip arhivov ni mogoče uvoziti v Rainlendar."
+
+msgid "Unknown file \"%s\"."
+msgstr "Neznana datoteka \"%s\"."
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "Datoteke ni mogoče uvoziti v Rainlendar."
+
+msgid "Installation failed!"
+msgstr "Namestitev ni uspela!"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Datoteke ni bilo mogoče kopirati. Vir je isti kot destinacija."
+
+msgid "Unable to install the file \"%s\"."
+msgstr "Datoteke ni mogoče namestit \"%s\"."
+
+msgid "The folder does not have write permissions."
+msgstr "Mapa nima dovoljenj za pisanje."
+
+msgid "The skin %s doesn't exist."
+msgstr "Preobleka %s ne obstaja."
+
+msgid "Unable to merge the addon."
+msgstr "Dodatka ni mogoče združiti."
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"Datoteka \"%s\" že obstaja.\n"
+"Ali jo želite zamenjati?"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Zgornja datoteka že obstaja. Ali ga želite prepisati?"
+
+msgid "Unable to install the skin!"
+msgstr "Preobleke ni mogoče namestiti!"
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"Preobleka ne vsebuje datoteke \"skin.xml\". Ali ste prepričani, da je ta "
+"koža xml oblika Rainlendar?"
+
+msgid "The installation was successful!"
+msgstr "Namestitev je bila uspešna!"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "Datteka \"%s\" je bila uspešno nameščena.."
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr "Če želite videti spremembe, osvežite Rainlendar."
+
+msgid "&Refresh"
+msgstr "&Osveži"
+
+msgid "The installation failed!"
+msgstr "Namestitev ni uspela!"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr "Namestitev datoteke \"%s\" ni uspela!"
+
+msgid "Select the calendar for the imported items:"
+msgstr "Izberite koledar za uvožene elemente:"
+
+msgid "There are no calendars available that are able to store the item."
+msgstr "Na voljo ni nobenih koledarjev, ki lahko shranijo element."
+
+msgid "Imported %i items successfully."
+msgstr "Uvažanje %i elementov je bilo uspešno."
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Za uvožene dogodke morate izbrati vsaj en koledar"
+
+msgid "Version mismatch!"
+msgstr "Neusklajenost različice!"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr ""
+"Ta dodatek preobleke je za različico % s preobleke. Nameščena različica je "
+"% s."
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "Želite nadaljevati? (preobleka se lahko poškoduje)"
+
+msgid "&Continue"
+msgstr "&Nadaljuj"
+
+msgid "Ca&ncel"
+msgstr "Pre&kliči"
+
+msgid "Failed to install \"%s\"."
+msgstr "Namestitev ni uspela \"%s\"."
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"Dodatek preobleke je že bil dodan preobleki.\n"
+"Isti dodatek lahko dodate preobleki samo enkrat."
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Ni mogoče ustvariti začasne mape, kjer bi združili dodatke."
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Back"
+msgstr "Backspace"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Space"
+msgstr "Preslednica"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "NumLock"
+msgstr "NumLock"
+
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+msgid "Edit \"%s\""
+msgstr "Uredi \"%s\""
+
+msgid "Delete all"
+msgstr "Izbriši vse"
+
+msgid "Dismiss alarm"
+msgstr "Opusti alarm"
+
+msgid "Tomorrow"
+msgstr "Jutri"
+
+msgid "Yesterday"
+msgstr "Včeraj"
+
+msgid "Last %1"
+msgstr "Zadnje %1"
+
+msgid "%1 next week"
+msgstr "%1 naslednji teden"
+
+msgid "%1 last week"
+msgstr "%1 zadnji teden"
+
+msgid "%1 %2 weeks ago"
+msgstr "%1 %2 pred tedni"
+
+msgid "%1 in %2 weeks"
+msgstr "%1 in %2 tedni"
+
+msgid " (Due in %s)"
+msgstr " (Rok v %s)"
+
+msgid " (Overdue %s)"
+msgstr " (Zapadlo %s)"
+
+msgid "day"
+msgstr "dan"
+
+msgid "days"
+msgstr "dnevi"
+
+msgid "hour"
+msgstr "ure"
+
+msgid "hours"
+msgstr "ur"
+
+msgid "minute"
+msgstr "minuta"
+
+msgid "minutes"
+msgstr "minute"
+
+msgid " (Due now)"
+msgstr " (Rok zdaj)"
+
+msgid "before target"
+msgstr "pred ciljem"
+
+msgid "Snooze"
+msgstr "Dremež"
+
+msgid "Dismiss"
+msgstr "Opusti"
+
+msgid "Edit..."
+msgstr "Uredi..."
+
+msgid "Move to next day"
+msgstr "Premakni na naslednji dan"
+
+msgid " (%i days)"
+msgstr " (%i dnevi)"
+
+msgid "Edit event"
+msgstr "Uredi dogodek"
+
+msgid "Delete event"
+msgstr "Izbriši dogodek"
+
+msgid "[Due %x]"
+msgstr "[Rok %x]"
+
+msgid "No location"
+msgstr "Ni lokacije"
+
+msgid "No category"
+msgstr "Ni kategorije"
+
+msgid "No due date"
+msgstr "Brez zapadlosti"
+
+msgid "No start date"
+msgstr "Ni začetnega datuma"
+
+msgid "High Priority"
+msgstr "Visoka prioriteta"
+
+msgid "Medium Priority"
+msgstr "Srednja prioriteta"
+
+msgid "Low Priority"
+msgstr "Nizka prioriteta"
+
+msgid "No Priority"
+msgstr "Brez prioritete"
+
+msgid "Medium"
+msgstr "Srednje"
+
+msgid "Expand"
+msgstr "Razširi"
+
+msgid "Collapse"
+msgstr "Strni"
+
+msgid "New subtask"
+msgstr "Nova podnaloga"
+
+msgid "Edit task"
+msgstr "Uredi opravilo"
+
+msgid "Delete task"
+msgstr "Izbriši opravilo"
+
+msgid "Todo list"
+msgstr "Seznam opravil"
+
+msgid "Completed to now"
+msgstr "Dokončano do sedaj"
+
+msgid "No events today."
+msgstr "Danes ni dogodkov."
+
+msgid "Today's events:"
+msgstr "Današnji dogodki:"
+
+msgid "Invalid plugins found!"
+msgstr "Neveljavni vtičniki najdeni!"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"Naslednje datoteke v Rainlendarovih vtičnikih\n"
+"so neveljavne in jih je treba odstraniti:\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"Prepričajte se, da so vsi vtičniki iz iste verzije Rainlenderja."
+
+msgid "allow multiple instances"
+msgstr "dovolite več primerkov"
+
+msgid "install a skin or a language"
+msgstr "namestite preobleko ali jezik"
+
+msgid "import the given file"
+msgstr "uvozite dano datoteko"
+
+msgid "path where the configuration file will be stored"
+msgstr "pot, kjer bo shranjena konfiguracijska datoteka"
+
+msgid "execute the given function in a script"
+msgstr "izvršiti dano funkcijo v skriptu"
+
+msgid "path where the log file will be stored"
+msgstr "pot, kjer bo shranjena datoteka dnevnika"
+
+msgid "path where the backups will be stored"
+msgstr "pot, kjer bodo shranjene varnostne kopije"
+
+msgid "add event or task to the calendar"
+msgstr "dodajte dogodek ali opravilo v koledar"
+
+msgid "enable verbose logging"
+msgstr "omogočite podrobno beleženje"
+
+msgid "enable debug logging"
+msgstr "omogočite poročanje o odpravljanju napak"
+
+msgid "disable all logging"
+msgstr "onemogočite vsa poročila"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr "po uvozu in namestitvi datotek ne pokažite sporočilnega polja"
+
+msgid "Do you want to start another instance?"
+msgstr "Ali želite začeti nov primer?"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"Zdi se, da Rainlendar že deluje. Lahko zaženete drug primer, tako da "
+"izberete »Da«."
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"Če temu ni tako in to vprašanje se prikaže vsakič, ko začnete Rainlendar, "
+"odstranite to datoteko:\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Ni moč naložiti virov iz poti:\n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "Upoštevajte, da bodo vaši dogodki in opravila ostali nedotaknjeni."
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"Datoteka z nastavitvami manjka, ali je prazna.\n"
+"Ali jo želite obnoviti iz najnovejše datoteke za varnostno kopiranje?"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Prepričajte se, da ima mapa dovoljenje za pisanje."
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"Konfiguracijske datoteke ni mogoče zapisati:\n"
+"\n"
+"%s\n"
+"\n"
+"Poskrbite, da ima pravilna dovoljenja."
+
+msgid "You won't be able to store any settings permanently."
+msgstr "Ne boste mogli trajno shraniti nastavitev."
+
+msgid "This is a BETA version."
+msgstr "To je različica BETA."
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"Uporabljate različico BETA Rainlendar. To pomeni, da programska oprema ni "
+"bila testirana in ni primerna za vsakodnevno uporabo.\n"
+"\n"
+"Prosimo, prijavite vse napake na forum Rainine's BETA na www.rainlendar."
+"net.\n"
+"\n"
+"(To sporočilo je prikazano samo enkrat)"
+
+msgid "Google Calendar support has been changed"
+msgstr "Podpora za Google Koledar je bila spremenjena"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"Podpora za Google Koledar zdaj uporablja drugačen tip koledarja. Če želite "
+"znova prikazati dogodke v Googlu, morate ustvariti nov koledar in izbrati "
+"»Google Koledar (v3)« kot vrsto koledarja."
+
+msgid "Everything is hidden."
+msgstr "Vse je skrito."
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"Izgleda, da so bila vsa okna in ikona pladnja skriti. Je bil to vaš namen?\n"
+"\n"
+"Kliknite »Da«, če želite, da je vse skrito in nikoli več ne bo prikazalo "
+"tega pogovornega okna. Kliknite »Ne«, da bi bila vsa okna ponovno vidna."
+
+msgid "Startup error!"
+msgstr "Napaka pri zagonu!"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"Rainlendar ni uspel pravilno nastaviti nastavitev. Ali želite ponastaviti "
+"vse nastavitve in poskusiti znova ali uporabiti eno od varnostno kopiranih "
+"različic?"
+
+msgid "&Reset"
+msgstr "&Ponastavi"
+
+msgid "&Use backup"
+msgstr "&Uporabi varnostno kopijo"
+
+msgid "&Keep"
+msgstr "&Obdrži"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Ni preoblek v poti:\n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"Rainlendar ni mogel naložiti izbrane kože. Želite uporabiti privzeto kožo "
+"namesto tega?"
+
+msgid "Unable to load the skin!"
+msgstr "Ni mogoče naložiti preobleke!"
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr ""
+"Izbrane preoblek ni bilo mogoče naložiti. Več podrobnosti najdete v dnevniku "
+"Rainlendarja."
+
+msgid "&Ok"
+msgstr "&V redu"
+
+msgid "&Show log"
+msgstr "&Prikaži dnevnik"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "No"
+msgstr "Ne"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr ""
+"Datoteka licence je prazna"
+"Pri prenosu licenčne datoteke se prepričajte, da boste uporabili celoten url"
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"Datoteka licence ni veljavna"
+"Presegali ste število, kolikokrat je mogoče prenesti licenco"
+"Za več podrobnosti se obrnite na Podporo rainlendarja"
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"Datoteka licence nima veljavne oblike zapisa"
+"Preverite, ali uporabljate pravilno licenčno datoteko"
+"Datoteko lahko poskusite znova prenesti tudi, če se napaka nadaljuje"
+
+msgid "Skin error!"
+msgstr "Napaka preobleke!"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"Okno \"Veliki koledar\" v Shadow4 je zamenjano z možnostjo »Velika« za "
+"privzeto okno »Koledar«. Kliknite OK, da ponastavite kožo."
+
+msgid "Use large default skin?"
+msgstr "Uporabite veliko privzeto preobleko?"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"Privzete vrednosti so morda premajhne za vašo ločljivost zaslona. Ali želite "
+"uporabiti večje pisave in okna?"
+
+msgid "&Large"
+msgstr "&Veliko"
+
+msgid "&Small"
+msgstr "&Majhno"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Najdite te stare datoteke Rainlendarja:\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "Ali jih želite uvoziti?"
+
+msgid "Import failed with file: \"%s\""
+msgstr "Uvoz ni uspel z datoteko: \"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "Nakup Rainlendar2 Pro?"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"Upam, da ste uživali v uporabi Rainlendarja v preteklem mesecu. Želite "
+"nadgraditi na različico Pro z dodatnimi funkcijami? Če uporabljate spodnjo "
+"povezavo »Kupi zdaj«, lahko licenco kupite po znižani ceni. Lahko tudi "
+"pritisnete gumb \"Ne hvala\" in nikoli več ne vidite tega sporočila.\n"
+"\n"
+"Hvala za podporo."
+
+msgid "&Buy Now"
+msgstr "&Kupi zdaj"
+
+msgid "&Remind later"
+msgstr "&Spomni pozneje"
+
+msgid "&No Thanks"
+msgstr "&Ne hvala"
+
+msgid "Ok"
+msgstr "V redu"
+
+msgid "Update"
+msgstr "Posodobitev"
+
+msgid "Make a selection:"
+msgstr "Izberi:"
+
+msgid "Hide Windows"
+msgstr "Skrij Okna"
+
+msgid "Show Windows"
+msgstr "Prikaži Okna"
+
+msgid "Toggle Windows"
+msgstr "Preklopi Okna"
+
+msgid "Toggle Today Window"
+msgstr "Preklopi Okno Danes"
+
+msgid "Create New Task"
+msgstr "Ustvari Novo Nalogo"
+
+msgid "Create New Event"
+msgstr "Ustvari Nov Dogodek"
+
+msgid "Create new event or task"
+msgstr "Ustvari nov dogodek ali nalogo"
+
+msgid "Quit Application"
+msgstr "Zaprite Aplikacijo"
+
+msgid "Business"
+msgstr "Poslovanje"
+
+msgid "Calls"
+msgstr "Klici"
+
+msgid "Clients"
+msgstr "Stranke"
+
+msgid "Competition"
+msgstr "Tekmovanje"
+
+msgid "Customer"
+msgstr "Stranka"
+
+msgid "Exam"
+msgstr "Izpit"
+
+msgid "Favorites"
+msgstr "Priljubljene"
+
+msgid "Follow Up"
+msgstr "Nadaljuj"
+
+msgid "Gifts"
+msgstr "Darila"
+
+msgid "Holidays"
+msgstr "Prazniki"
+
+msgid "Ideas"
+msgstr "Zamisli"
+
+msgid "Important"
+msgstr "Pomembno"
+
+msgid "Issues"
+msgstr "Težave"
+
+msgid "Miscellaneous"
+msgstr "Razno"
+
+msgid "Personal"
+msgstr "Osebno"
+
+msgid "Projects"
+msgstr "Projekti"
+
+msgid "Public Holiday"
+msgstr "Državni praznik"
+
+msgid "Suppliers"
+msgstr "Dobavitelji"
+
+msgid "Travel"
+msgstr "Potovanje"
+
+msgid "Trip"
+msgstr "Izlet"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Vacation"
+msgstr "Počitnice"
+
+msgid "Work"
+msgstr "Delo"
+
+msgid "Medical"
+msgstr "Medicinski"
+
+msgid "Urgent"
+msgstr "Nujno"
+
+msgid "Health"
+msgstr "Zdravje"
+
+msgid "Sport"
+msgstr "Šport"
+
+msgid "Game"
+msgstr "Igra"
+
+msgid "School"
+msgstr "Šola"
+
+msgid "Party"
+msgstr "Zabava"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "Car"
+msgstr "Avto"
+
+msgid "Payments"
+msgstr "Placila"
+
+msgid "Money"
+msgstr "Denar"
+
+msgid "Pets"
+msgstr "Ljubljenčki"
+
+msgid "Theatre"
+msgstr "Gledališče"
+
+msgid "Music"
+msgstr "Glasba"
+
+msgid "[Black]"
+msgstr "[Črno]"
+
+msgid "[Blue]"
+msgstr "[Modro]"
+
+msgid "[Brown]"
+msgstr "[Rjavo]"
+
+msgid "[Cyan]"
+msgstr "[Zeleno-modro]"
+
+msgid "[Green]"
+msgstr "[Zelena]"
+
+msgid "[Grey]"
+msgstr "[Siva]"
+
+msgid "[Magenta]"
+msgstr "[Vijolična]"
+
+msgid "[Pink]"
+msgstr "[Roza]"
+
+msgid "[Red]"
+msgstr "[Rdeča]"
+
+msgid "[Yellow]"
+msgstr "[Rumeno]"
+
+msgid "[Orange]"
+msgstr "[Oranžna]"
+
+msgid "Must Attend"
+msgstr "Prisluhniti"
+
+msgid "Travel Required"
+msgstr "Potovanje je obvezno"
+
+msgid "Needs Preparation"
+msgstr "Potrebna Priprava"
+
+msgid "Phone Call"
+msgstr "Telefonski Klic"
+
+msgid "iCalendar Format"
+msgstr "iKoledar Format"
+
+msgid "Network Shared Calendar"
+msgstr "Omrežni Skupni Koledar"
+
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+msgid "Rainlendar Ini Format"
+msgstr "Rainlendar Ini Format"
+
+msgid "Google Calendar"
+msgstr "Google Koledar"
+
+msgid "CalDAV Calendar"
+msgstr "CalDAV Kolendar"
+
+msgid "Google Calendar (v3)"
+msgstr "Google Koledar (v3)"
+
+msgid "Google Tasks"
+msgstr "Google Opravila"
+
+msgid "Comma Separated Values"
+msgstr "Vrednosti, ločene z vejico"
+
+msgid "&Next >"
+msgstr "&Naprej >"
+
+msgid "< &Back"
+msgstr "< &Nazaj"
+
+msgid "&Finish"
+msgstr "&Konec"
+
+msgid "Vertical Calendar"
+msgstr "Navpični Koledar"
+
+msgid "Year Calendar"
+msgstr "Letni koledar"
+
+msgid "Sidebar"
+msgstr "Stranska vrstica"
+
+msgid "DigiClock"
+msgstr "Digitalna Ura"
+
+msgid "Dual Calendar"
+msgstr "Dvojni Koledar"
+
+msgid "Todo List"
+msgstr "Seznam opravil"
+
+msgid "Grid Calendar"
+msgstr "Mrežni Koledar"
+
+msgid "Vertical Line Calendar"
+msgstr "Koledar Navpične Linije"
+
+msgid "Horizontal Line Calendar"
+msgstr "Koledar Vodoravne Linije"
+
+msgid "Visible month"
+msgstr "Viden mesec"
+
+msgid "Show buttons"
+msgstr "Pokaži gumbe"
+
+msgid "Show adjacent days"
+msgstr "Prikaži sosednje dni"
+
+msgid "Eventlist max height"
+msgstr "Najvišja višina seznama dogodkov"
+
+msgid "Todolist max height"
+msgstr "Najvišja višina seznama opravil"
+
+msgid "Show week numbers"
+msgstr "Prikaži tedenske številke"
+
+msgid "Format"
+msgstr "Oblika"
+
+msgid "Timezone"
+msgstr "Časovni pas"
+
+msgid "Label"
+msgstr "Oznaka"
+
+msgid "Show 3rd month"
+msgstr "Prikaži 3-tji mesec"
+
+msgid "Show 4th month"
+msgstr "Prikaži 4-ti mesec"
+
+msgid "Show 5th month"
+msgstr "Prikaži 5-ti mesec"
+
+msgid "Show 6th month"
+msgstr "Prikaži 6-ti mesec"
+
+msgid "Show 7th month"
+msgstr "Prikaži 7. mesec"
+
+msgid "Show 8th month"
+msgstr "Prikaži 8. mesec"
+
+msgid "Color"
+msgstr "Barva"
+
+msgid "Analog Clock"
+msgstr "Analogna Ura"
+
+msgid "Calendar List"
+msgstr "Seznam Koledarja"
+
+msgid "X count"
+msgstr "X šteje"
+
+msgid "Y count"
+msgstr "Y šteje"
+
+msgid "Snooze All"
+msgstr "Preloži Vse"
+
+msgid "Dismiss All"
+msgstr "Opusti Vse"
+
+msgid "To do"
+msgstr "Narediti"
+
+msgid "Today color"
+msgstr "Današnja barva"
+
+msgid "Today shape"
+msgstr "Današnja oblika"
+
+msgid "Circle"
+msgstr "Krog"
+
+msgid "Rectangle"
+msgstr "Pravokotnik"
+
+msgid "Slim circle"
+msgstr "Tanek krog"
+
+msgid "Slim rectangle"
+msgstr "Tanek pravokotnik"
+
+msgid "Red"
+msgstr "Rdeča"
+
+msgid "Orange"
+msgstr "Oranžna"
+
+msgid "Yellow"
+msgstr "Rumena"
+
+msgid "Green"
+msgstr "Zelena"
+
+msgid "Cyan"
+msgstr "Zeleno-modra"
+
+msgid "Blue"
+msgstr "Modra"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"Nadaljevanje popularne Shadow3-preobleke z nekaj dodatnimi funkcijami, kot "
+"so vidni dnevi od naslednjega in prejšnjega meseca, in skica orodja."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"Določi mesec, ki ga prikazuje koledar. Nastavite na +1 za naslednji mesec, "
+"-1 za prejšnji mesec ali vrednost od 1 do 12 za določen mesec v tekočem letu."
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr "Počistite, če želite skriti naslednje in prejšnje gumbe iz koledarja."
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr "Počistite, da skrijete dneve prejšnjega in prihodnjega meseca."
+
+msgid "Defines the maximum height of the alarm."
+msgstr "Določi največjo višino alarma."
+
+msgid "Defines the maximum height of the event list."
+msgstr "Določi največjo višino seznama dogodkov."
+
+msgid "Defines the maximum height of the to do list."
+msgstr "Določi največjo višino seznama opravil."
+
+msgid "Defines the width of the calendar list."
+msgstr "Določi širino seznama koledarjev."
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "Počistite, če želite skriti številke tedna iz koledarja."
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr ""
+"To določa obliko ure. Če se želite znebiti sekund, uporabite %U:%M ali % #I:"
+"%M %p"
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"Določi časovni pas. Nastavite na številko: ... -3, -2, -1, 0, +1, +2, "
+"+3, ... . Uporabite lahko tudi vrednosti, kot so CET, EST, PST, A_CST, ..."
+
+msgid "Adds a label for the clock."
+msgstr "Dodaj oznako za uro."
+
+msgid "Defines the color of the today marker."
+msgstr "Določi barvo današnjega označevalca."
+
+msgid "Defines the shape of the today marker."
+msgstr "Določi obliko današnjega označevalca."
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "Določi, koliko koledarjev je prikazano vodoravno v oknu."
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "Določi, koliko koledarjev je prikazano navpično v oknu."
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "Počistite, da skrijete imena dni v tednu iz koledarja."
+
+msgid "Week View"
+msgstr "Pogled Tedna"
+
+msgid "Today position"
+msgstr "Današnji položaj"
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"Določi položaj, v katerem se nahaja danes. Če je nastavljeno na 0 "
+"(privzeto), tedenski prikaz prikazuje celoten koledarski teden in se "
+"spremeni današnji položaj. Če je nastavljeno na 1 do 7, je danes na tem "
+"položaju vedno in se teden dni ustrezno spremenijo."
+
+msgid "Autoscroll"
+msgstr "Samodrsenje"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "Počistite polje, da onemogočite samodrsenje."
+
+msgid "Week view date format"
+msgstr "Oblika datuma v tednu"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr "To opredeljuje obliko datuma v urniku. Privzeta vrednost je %#d.%#m."
+
+msgid "Week view time format"
+msgstr "Oblika časa v tednu"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"To opredeljuje obliko časa v urniku. Privzeta vrednost je %U:% M. Za format "
+"DOP/POP uporabite %#I %p"
+
+msgid "Time item height"
+msgstr "Višina časovnega elementa"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr ""
+"Določi višino enega časa v pogledu. Privzeta vrednost je 30 slikovnih pik."
+
+msgid "Time item duration"
+msgstr "Trajanje časovnega elementa"
+
+msgid "60 Minutes"
+msgstr "60 minut"
+
+msgid "30 Minutes"
+msgstr "30 minut"
+
+msgid "15 Minutes"
+msgstr "15 minut"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr ""
+"Določi trajanje ene časovne postavke v pogledu. Privzeta vrednost je 60 "
+"minut."
+
+msgid "All day max height"
+msgstr "Maksimalna višina celodnevnega dne"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"Najvišja višina območja celotnega dogodka. Drsna vrstica se prikaže, ko "
+"dogodki v tem območju ne ustrezajo več."
+
+msgid "Event min height"
+msgstr "Višina dogodka min"
+
+msgid "The minimum height of the event."
+msgstr "Najmanjša višina dogodka."
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "Počistite, če želite skriti številke tedna iz pogleda."
+
+msgid "Show weekdays"
+msgstr "Prikaži delovne dni"
+
+msgid "Day View"
+msgstr "Pogled dneva"
+
+msgid "Day view time format"
+msgstr "Oblika časa dnevnega pogleda"
+
+msgid "Day view date format"
+msgstr "Dnevni format datuma"
+
+msgid "Month View"
+msgstr "Mesečni Pogled"
+
+msgid "Show background"
+msgstr "Pokaži ozadje"
+
+msgid "Uncheck to make the background transparent."
+msgstr "Počistite, da ozadje postane pregledno."
+
+msgid "Large Calendar"
+msgstr "Velik Koledar"
+
+msgid "Today window max height"
+msgstr "Današnja maksimalna višina okna"
+
+msgid "Defines the maximum height of the today window."
+msgstr "Določi največjo višino današnjega okna."
+
+msgid "Today show tasks"
+msgstr "Prikaži današnja opravila"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr "Določi, ali naj bodo opravila prikazana v trenutnem oknu."
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"Preobleka vsebuje več različnih barvnih razlik. Lahko jih spremenite bodisi "
+"iz nastavitev preobleke, bodisi s klikom na puščico navzdol na koledarju."
+
+msgid "Brown"
+msgstr "Rjavo"
+
+msgid "Dark"
+msgstr "Temno"
+
+msgid "Colorless"
+msgstr "Brezbarvno"
+
+msgid "Defines the color of the windows."
+msgstr "Določa barvo oken."
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr "Določi obliko datuma za glave seznama dogodkov."
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr ""
+"Določi največjo višino seznama dogodkov. Privzeta vrednost je 300 slikovnih "
+"pik."
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr ""
+"Določa največjo višino seznama opravil. Privzeta vrednost je 300 slikovnih "
+"pik."
+
+msgid "Removes the color from the windows."
+msgstr "Odstrani barvo iz oken."
+
+msgid "Creates darker version of the windows."
+msgstr "Ustvari temnejšo različico oken."
+
+msgid "All day"
+msgstr "Ves dan"
+
+msgid "Day bar show day"
+msgstr "Dnevna vrstica kaže dan"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr "Določi, ali sta v dnevni vrstici prikazana številka in ime dneva."
+
+msgid "Day bar am-pm"
+msgstr "Dnevna vrstica dop-pop"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "Preverite, ali želite prikazati čas s 12-urno uro."
+
+msgid "Bar event"
+msgstr "Vrstica z dogodki"
+
+msgid "The event color for the bars."
+msgstr "Barva dogodka za vrstico."
+
+msgid "Conditions: "
+msgstr "Pogoji: "
+
+msgid "Temperature: "
+msgstr "Temperatura: "
+
+msgid "Humidity: "
+msgstr "Vlažnost: "
+
+msgid "Winds: "
+msgstr "Vetrovi: "
+
+msgid "Time: "
+msgstr "Čas: "
+
+msgid "Refreshing..."
+msgstr "Osveževanje..."
+
+msgid "Downloading: "
+msgstr "Prenašanje: "
+
+msgid "Download failed!"
+msgstr "Prenos ni uspel!"
+
+msgid "Loading..."
+msgstr "Nalaganje..."
+
+msgid "Unknown result!"
+msgstr "Neznan rezultat!"
+
+msgid "Upcoming programs:"
+msgstr "Prihajajoči programi:"
+
+msgid "Parsing failed!"
+msgstr "Razčlenjevanje ni uspelo!"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr " DNEVI     URE  MIN   SEK"
+
+msgid "Loading feed..."
+msgstr "Nalaganje vira..."
+
+msgid "Lo: "
+msgstr "Ni: "
+
+msgid "Hi: "
+msgstr "Vi: "
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "Max:"
+msgstr "Maks:"
+
+msgid "Chance of precipitation: "
+msgstr "Možnost padavin: "
+
+msgid "New moon"
+msgstr "Nova luna"
+
+msgid "Waxing crescent"
+msgstr "Rastoči polmesec"
+
+msgid "First quarter"
+msgstr "Prva četrtina"
+
+msgid "Waxing gibbous"
+msgstr "Rastoči prvi krajec"
+
+msgid "Full moon"
+msgstr "Polna luna"
+
+msgid "Waning gibbous"
+msgstr "Pojemajoči polni mesec"
+
+msgid "Last quarter"
+msgstr "Zadnja četrtina"
+
+msgid "Waning crescent"
+msgstr "Pojemajoči zadnji krajec"
+
+msgid "Southern hemisphere"
+msgstr "Južna polobla"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr "Nastavite na 1, da spremenite faze, kot jih vidite na južni polobli."
+
+msgid "World Time"
+msgstr "Svetovni čas"
+
+msgid "World time format"
+msgstr "Format svetovnega časa"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"To opredeljuje obliko časa. Privzeta vrednost je %U:%M. Za DOP/POP format "
+"uporabe %#I:%M %p"
+
+msgid "World time location 1"
+msgstr "Svetovna časovna lokacija 1"
+
+msgid "Defines the title for the time."
+msgstr "Določi naslov za čas."
+
+msgid "World time timezone 1"
+msgstr "Svetovni časovni pas 1"
+
+msgid "World time location 2"
+msgstr "Svetovna časovna lokacija 2"
+
+msgid "World time timezone 2"
+msgstr "Svetovni časovni pas 2"
+
+msgid "World time location 3"
+msgstr "Svetovna časovna lokacija 3"
+
+msgid "World time timezone 3"
+msgstr "Svetovni časovni pas 3"
+
+msgid "World time location 4"
+msgstr "Svetovna časovna lokacija 4"
+
+msgid "World time timezone 4"
+msgstr "Svetovni časovni pas 4"
+
+msgid "Photos"
+msgstr "Fotografije"
+
+msgid "Weather"
+msgstr "Vreme"
+
+msgid "Countdown"
+msgstr "Odštevanje"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Create New"
+msgstr "Ustvari Novo"
+
+msgid "Moon Phase"
+msgstr "Lunina faza"
+
+msgid "QuickAdd"
+msgstr "Hitri dodatki"
+
+msgid "Translate"
+msgstr "Prevod"
+
+msgid "Text File"
+msgstr "Besedilna datoteka"
+
+msgid "RSS height"
+msgstr "RSS višina"
+
+msgid "Defines the maximum height of the list."
+msgstr "Določi največjo višino seznama."
+
+msgid "RSS location"
+msgstr "RSS lokacija"
+
+msgid "Location of the RSS feed."
+msgstr "Lokacija vira RSS."
+
+msgid "Weather location"
+msgstr "Lokacija vremena"
+
+msgid "Location of the weather feed."
+msgstr "Lokacija vremenskega vira."
+
+msgid "Weather city"
+msgstr "Mesto vremena"
+
+msgid "The city for the weather."
+msgstr "Vreme za mesto."
+
+msgid "Weather language"
+msgstr "Jezik vremena"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr ""
+"Jezik vremena. Uporabite jezikovno okrajšavo, kot so en, fi, ru, zh-cn, ..."
+
+msgid "Photos random"
+msgstr "Fotografije naključno"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr ""
+"Počistite, če želite, da se slike nadaljujejo. Preverjanje se pokaže v "
+"naključnem vrstnem redu."
+
+msgid "Photos update"
+msgstr "Posodobitev fotografij"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "Določa, kako pogosto se posodablja slika. Vrednost je v minutah."
+
+msgid "Photos folder"
+msgstr "Mapa fotografij"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"Določa lokalno mapo, ki je skenirana za fotografije. Če je to prazno, se "
+"fotografije prenesejo iz Flickr-ja."
+
+msgid "Countdown event"
+msgstr "Odštevanje dogokov"
+
+msgid "The description of the event."
+msgstr "Opis dogodka."
+
+msgid "Countdown time"
+msgstr "Čas odštevanja"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "Čas dogodka. Uporabite obliko UU:MM:SS."
+
+msgid "Countdown date"
+msgstr "Datum odštevanja"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "Datum dogodka. Uporabi obliko LLLL-MM-DD."
+
+msgid "TV height"
+msgstr "TV višina"
+
+msgid "Copy to clipboard"
+msgstr "Kopiraji v odložišče"
+
+msgid "File path"
+msgstr "Pot do datoteke"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "Določi ime in pot do datoteke, ki je prikazana v oknu."
+
+msgid "No file given"
+msgstr "Ni danih podatkov"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr ""
+"Pojdite na nastavitve okna in usmerite spremenljivko poti v besedilno "
+"datoteko."
+
+msgid "File window full rows"
+msgstr "Okno datoteke polne vrstice"
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr "Preverite, ali želite prikazati vse vrstice. Počistite kvadratke."
+
+msgid "File window width"
+msgstr "Širina okna datoteke"
+
+msgid "The width of the calendar window."
+msgstr "Širina okna koledarja."
+
+msgid "The height of the calendar window."
+msgstr "Višina okna koledarja."
+
+msgid "Defines the width of the event list."
+msgstr "Določi širino seznama dogodkov."
+
+msgid "Defines the width of the to do list."
+msgstr "Določi širino seznama opravil."
+
+msgid "Defines the width of the quickadd window."
+msgstr "Določi širino hitrega okna."
+
+msgid "Defines the width of the day view window."
+msgstr "Določi širino okna dnevnega pogleda."
+
+msgid "Defines the height of the day view window."
+msgstr "Določi višino okna dnevnega pogleda."
+
+msgid "Defines the width of the week view window."
+msgstr "Določi širino okna tedenskega pogleda."
+
+msgid "Defines the height of the week view window."
+msgstr "Določi višino okna tedenskega pogleda."
+
+msgid "Defines the width of the calendar window."
+msgstr "Določi širino okna koledarja."
+
+msgid "Defines the height of the calendar window."
+msgstr "Določi višino okna koledarja."
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "alt"
+msgstr "alt"
+
+msgid "shift"
+msgstr "shift"
+
+msgid "Mark as completed"
+msgstr "Označi kot končano"
+
+msgid "Mark as needs action"
+msgstr "Označite, kot da je potrebno ukrepanje"
+
+msgid "Recurring"
+msgstr "Ponavljajoče se"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Text color"
+msgstr "Barva besedila"
+
+msgid "Tooltip color"
+msgstr "Barva orodne vrstice"
+
+msgid "Black"
+msgstr "Črna"
+
+msgid "White"
+msgstr "Bela"
+
+msgid "Light grey"
+msgstr "Svetlo-siva"
+
+msgid "Light pink"
+msgstr "Svetlo-roza"
+
+msgid "Grey"
+msgstr "Siva"
+
+msgid "Pink"
+msgstr "Roza"
+
+msgid "Schedule background"
+msgstr "Načrtuje ozadje"
+
+msgid "The background color for the day, week and month views."
+msgstr "Barva ozadja za dnevne, tedenske in mesečne poglede."
+
+msgid "Schedule text color"
+msgstr "Načrtujte barvo besedila"
+
+msgid "The text color for the day, week and month views."
+msgstr "Barva besedila za dnevne, tedenske in mesečne poglede."
+
+msgid "Calendar day color"
+msgstr "Barva dneva Koledarja"
+
+msgid "Large calendar day color"
+msgstr "Barva dneva velikega Koledarja"
+
+msgid "The color for the days in the calendar."
+msgstr "Barva dni v koledarju."
+
+msgid "Calendar day text color"
+msgstr "Barva besedila koledarja"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "Barva dnevnih številk v koledarju."
+
+msgid "Small icon"
+msgstr "Small icon"
+
+msgid "The icon which is shown in the calendar."
+msgstr "Ikona, ki je prikazana v koledarju."
+
+msgid "Large icon"
+msgstr "Velika ikona"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "Ikona, ki se prikaže v dogodku in naredi sezname opravil."
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "Barva besedila v seznamih in opis orodja."
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr ""
+"Določi prioriteto, katera kategorija je prikazana, če jih je več istega dne."
+
+msgid "Schedule text shadow color"
+msgstr "Načrtujte barvo sence besedila"
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "Barva senčnega besedila za dnevne, tedenske in mesečne poglede."
+
+msgid "Calendar day text shadow color"
+msgstr "Barva senčnega besedila v koledarju"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "Barva dnevne številke sence v koledarju."
+
+msgid "Text shadow color"
+msgstr "Barva senčnega besedila"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "Barva besedilne sence v seznamih in orodni vrstici."
+
+msgid "Show date"
+msgstr "Prikaži datum"
+
+msgid "Check to show also the current date."
+msgstr "Preverite tudi prikaz trenutnega datuma."
+
+msgid "This defines the format of the time."
+msgstr "To opredeljuje obliko časa."
+
+msgid "This defines the format of the date."
+msgstr "To opredeljuje obliko datuma."
+
+msgid "Search"
+msgstr "Iskanje"
+
+msgid "Search engine"
+msgstr "Iskalnik"
+
+msgid "Choose the search engine"
+msgstr "Izberi iskalnik"
+
+msgid "Enter search text"
+msgstr "Vnesite besedilo iskanja"
+
+msgid "Show title"
+msgstr "Prikaži naslov"
+
+msgid "Check to show a title text."
+msgstr "Preverite, ali želite prikazati naslovno besedilo."
+
+msgid "Title text"
+msgstr "Naslov besedila"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "To določa naslovno besedilo, ki je prikazano nad časom."
+
+msgid "Weather woeid"
+msgstr "Vremenski WOEID (Where On Earth IDentifier)"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "Yahoo WOEID (Where On Earth IDentifier) za vremensko lokacijo."
+
+msgid "Weather celsius"
+msgstr "Vreme v celziju"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "Če se preveri, je temperatura prikazana v Celzijih."
+
+msgid "Bold blue"
+msgstr "Krepko modro"
+
+msgid "Turquoise"
+msgstr "Tirkizno"
+
+msgid "Bold green"
+msgstr "Krepko zeleno"
+
+msgid "Bold red"
+msgstr "Krepko rdeče"
+
+msgid "Purple"
+msgstr "Vijolična"
+
+msgid "Gray"
+msgstr "Siva"
+
+msgid "No events today"
+msgstr "Danes ni nobenih dogodkov"
+
+msgid "No tasks today"
+msgstr "Danes ni nobenih opravil"
+
+msgid "Background opacity"
+msgstr "Neprosojnost ozadja"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr "Določa neprosojnost ozadij oken. Uporabite vrednosti med 0 in 100."
+
+msgid "Snooze menu"
+msgstr "Meni demeža"
+
+msgid "Pressure: "
+msgstr "Pritisk: "
+
+msgid "UV index: "
+msgstr "UV indeks: "
+
+msgid "Feels like: "
+msgstr "Čuti se kot: "
+
+msgid "Sunrise: "
+msgstr "Sončni vzhod: "
+
+msgid "Sunset: "
+msgstr "Sončni zahod: "
+
+msgid "Tonight"
+msgstr "Nocoj"
+
+msgid "Menu"
+msgstr "Meni"
+
+msgid "Large"
+msgstr "Veliko"
+
+msgid "Use large images and more space between the items."
+msgstr "Uporabite velike slike in več prostora med predmeti."
+
+msgid "Alarm max height"
+msgstr "Maksimalna višina alarma"
+
+msgid "Horizontal Day Bar"
+msgstr "Horizontalna dnevna vrstica"
+
+msgid "Vertical Day Bar"
+msgstr "Vertikalna dnevna vrstica"
+
+msgid "Day bar show text"
+msgstr "Dnevna vrstica prikazuje besedilo"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "Počistite besedilo, da skrijete besedila iz dogodkov."
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "Barva besedila v koledarju in na seznamih."
+
+msgid "The color of the text in the tooltip."
+msgstr "Barva besedila v orodni vrstici."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"Določi mesec, ki ga prikazuje koledar. Nastavite na +1 za naslednji mesec, "
+"-1 za prejšnji mesec ali vrednost od 0 do 11 za določen mesec v tekočem letu."
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Aktivne preobleke ni mogoče najti.\n"
+"Kliknite V redu, da naložite prvo razpoložljivo kožo."
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"Preobleka nima aktivnih oken.\n"
+"Namesto tega se uporabljajo privzeta okna."
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Preobleka ne obstaja.\n"
+"Kliknite V redu, da naložite prvo razpoložljivo preobleko."
+
+msgid "No items"
+msgstr "Ni elementov"
+
+msgid "No events"
+msgstr "Ni dogodkov"
+
+msgid "No tasks"
+msgstr "Ni opravil"
+
+msgid "Synchronizing"
+msgstr "Sinhronizacija"
+
+msgid "Offline"
+msgstr "Brez povezave"
+
+msgid "today"
+msgstr "Danes"
+
+msgid "tomorrow"
+msgstr "Jutri"
+
+msgid "yesterday"
+msgstr "Včeraj"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Aug"
+msgstr "Avg"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Okt"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "%ith"
+msgstr "%ini"
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11-ti;12-ti;12;13-ti;1-vi;2-gi;3-tji"
+
+msgid "edit"
+msgstr "uredi"
+
+msgid "Do you want to create the file?"
+msgstr "Ali želite ustvariti datoteko?"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"Datoteka ne obstaja:\n"
+"%s"
+
+msgid "Unable to create the file \"%s\"."
+msgstr "Datoteke ni bilo mogoče ustvariti \"%s\"."
+
+msgid "This is a read only event."
+msgstr "To je dogodek samo za branje."
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "Dogodka z Rainlendarom ni mogoče urediti."
+
+msgid "This is a read only task."
+msgstr "To je opravilo samo za branje."
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "To opravilo ni mogoče urediti z Rainlendar-jem."
+
+msgid "URL"
+msgstr "Spletni naslov"
+
+msgid "Organizer"
+msgstr "Organizator"
+
+msgid "Accepted"
+msgstr "Sprejeto"
+
+msgid "Declined"
+msgstr "Zavrnjeno"
+
+msgid "Tentative"
+msgstr "Oklevajoče"
+
+msgid "Needs action"
+msgstr "Zahteva dejanje"
+
+msgid "Create a new calendar"
+msgstr "Ustvari nov koledar"
+
+msgid "Please select the type of the calendar."
+msgstr "Izberite vrsto koledarja."
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr "Vrsta koledarja določa obliko dogodkov in kje so shranjeni."
+
+msgid "local"
+msgstr "lokalno"
+
+msgid "deprecated"
+msgstr "zastarelo"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Go Pro"
+msgstr "Pridobi Pro"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro vam omogoča dostop do Outlooka, Google Koledarja in drugih "
+"koledarjev in seznamov opravil neposredno z namizja."
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro omogoča dostop do vašega Google Koledarja in drugih "
+"koledarjev in seznamov opravil od drugod neposredno z namizja."
+
+msgid "Buy license"
+msgstr "Kupite licenco"
+
+msgid "See differences"
+msgstr "Glej razlike"
+
+msgid "No calendar selected!"
+msgstr "Noben koledar ni izbran!"
+
+msgid "You need to select a calendar type."
+msgstr "Izbrati morate vrsto koledarja."
+
+msgid "Finish the authentication in your browser"
+msgstr "Dokončajte preverjanje pristnosti v brskalniku"
+
+msgid "Authenticating..."
+msgstr "Preverjanje pristnosti..."
+
+msgid "Downloading..."
+msgstr "Prenos..."
+
+msgid "No urls allowed!"
+msgstr "Nobene spletne strani niso dovoljene!"
+
+msgid "Only local files can be defined as the file name."
+msgstr "Samo lokalne datoteke je mogoče opredeliti kot ime datoteke."
+
+msgid "No UNC paths allowed!"
+msgstr "Nobene poti UNC niso dovoljene!"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"Za ime datoteke ni mogoče uporabljati poti UNC. Omrežni disk morate "
+"mapirati, da lahko dostopate do datotek na strežniku."
+
+msgid "No filename defined!"
+msgstr "Ni definirano ime datoteke!"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"Polje za ime datoteke ne morete pustiti praznega. Določiti morate datoteko, "
+"v kateri bodo shranjeni dogodki in naloge."
+
+msgid "The file name is missing."
+msgstr "Ime datoteke manjka."
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"Če ustvarjate nov koledar, lahko karkoli vnesete kot ime. V nasprotnem "
+"primeru izberite obstoječo datoteko iCalendar (* .ics)."
+
+msgid "The url is empty!"
+msgstr "Spletni naslov je prazen!"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"Polja za spletni naslov ne morete pustiti praznega. Določiti morate "
+"datoteko, v kateri bodo shranjeni dogodki in naloge."
+
+msgid "The protocol is missing!"
+msgstr "Manjka protokol!"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "Prosim navedite tudi protokol za URL (npr. »http://«)."
+
+msgid "The file name is missing from the url!"
+msgstr "Manjka ime datoteke iz spletnega naslova!"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Če ustvarjate nov koledar, lahko karkoli vnesete kot ime. V nasprotnem "
+"primeru morate preveriti, ali strežnik resnično ne določa nobene datoteke za "
+"spletni naslov.\n"
+"\n"
+"Želite nadaljevati?"
+
+msgid "Incorrect email!"
+msgstr "Napačen e-poštni naslov!"
+
+msgid "You need to enter a full email address."
+msgstr "Vnesti morate popoln e-poštni naslov."
+
+msgid "Please select the calendar."
+msgstr "Prosim Izberite koledar."
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr ""
+"Niste izbrali nobenega koledarja. Ste prepričani, da želite nadaljevati?"
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "The calendar already exists!"
+msgstr "Koledar že obstaja!"
+
+msgid "Please choose some other name for the calendar."
+msgstr "Prosim izberite drugo ime za koledar."
+
+msgid "The calendar name is empty!"
+msgstr "Ime koledarja je prazno!"
+
+msgid "You must give a name for the calendar."
+msgstr "Navesti morate ime koledarja."
+
+msgid "Alarm sound"
+msgstr "Zvok alarma"
+
+msgid "Select alarm sound"
+msgstr "Izberi zvok alarma"
+
+msgid "Default sound"
+msgstr "Privzeti zvok"
+
+msgid "Preview"
+msgstr "Predogled"
+
+msgid "No sound"
+msgstr "Brez zvoka"
+
+msgid "Custom sound / executable"
+msgstr "Zvok po izbiri / izvršljivi"
+
+msgid "Browse..."
+msgstr "Prebrskaj..."
+
+msgid "Bulk Change"
+msgstr "Sprememba množice"
+
+msgid "Type:"
+msgstr "Vrsta:"
+
+msgid "Summary:"
+msgstr "Povzetek:"
+
+msgid "Location:"
+msgstr "Lokacija:"
+
+msgid "Url:"
+msgstr "Spletni naslov:"
+
+msgid "Class:"
+msgstr "Razred:"
+
+msgid "Time type:"
+msgstr "Oblika časa:"
+
+msgid "With time"
+msgstr "S časom"
+
+msgid "Start time:"
+msgstr "Začetek časa:"
+
+msgid "Absolute"
+msgstr "Absolutno"
+
+msgid "Relative"
+msgstr "Relativno"
+
+msgid "Months"
+msgstr "Mesci"
+
+msgid "Years"
+msgstr "Leta"
+
+msgid "Visibility:"
+msgstr "Vidnost:"
+
+msgid "Show in calendar"
+msgstr "Prikaži v koledarju"
+
+msgid "Priority:"
+msgstr "Prioriteta:"
+
+msgid "Status:"
+msgstr "Stanje:"
+
+msgid "Not Started"
+msgstr "Ni se začelo"
+
+msgid "Progress:"
+msgstr "Napredek:"
+
+msgid "0 %"
+msgstr "0 %"
+
+msgid "10 %"
+msgstr "10 %"
+
+msgid "20 %"
+msgstr "20 %"
+
+msgid "30 %"
+msgstr "30 %"
+
+msgid "40 %"
+msgstr "40 %"
+
+msgid "50 %"
+msgstr "50 %"
+
+msgid "60 %"
+msgstr "60 %"
+
+msgid "70 %"
+msgstr "70 %"
+
+msgid "80 %"
+msgstr "80 %"
+
+msgid "90 %"
+msgstr "90 %"
+
+msgid "100 %"
+msgstr "100 %"
+
+msgid "Free/Busy:"
+msgstr "Prosto/Zasedeno:"
+
+msgid "Free"
+msgstr "Prosto"
+
+msgid "Busy"
+msgstr "Zasedeno"
+
+msgid "Description:"
+msgstr "Opis:"
+
+msgid "Alarm:"
+msgstr "Alarm:"
+
+msgid "Category:"
+msgstr "Kategorija:"
+
+msgid "Recurrence:"
+msgstr "Ponovitev:"
+
+msgid "Repeat every"
+msgstr "Ponovi vsako"
+
+msgid "Weeks"
+msgstr "Tedni"
+
+msgid "Repeat ending"
+msgstr "Ponovite končanje"
+
+msgid "Forever"
+msgstr "Za vedno"
+
+msgid "Number of times"
+msgstr "Število krat"
+
+msgid "Until"
+msgstr "Dokler:"
+
+msgid "Debug Window"
+msgstr "Okno z napakami"
+
+msgid "Sensitivity:"
+msgstr "Občutljivost:"
+
+msgid "All day event"
+msgstr "Celodnevni dogodek"
+
+msgid "Mark time as busy"
+msgstr "Označi čas kot zasedeno"
+
+msgid "Time zone:"
+msgstr "Oblika časa:"
+
+msgid "Calendar:"
+msgstr "Koledar:"
+
+msgid "Mon"
+msgstr "Pon"
+
+msgid "Tue"
+msgstr "Tor"
+
+msgid "Wed"
+msgstr "Sre"
+
+msgid "Thu"
+msgstr "Čet"
+
+msgid "Fri"
+msgstr "Pet"
+
+msgid "Sat"
+msgstr "Sob"
+
+msgid "Sun"
+msgstr "Ned"
+
+msgid "Repeat"
+msgstr "Ponovi"
+
+msgid "End after"
+msgstr "Končaj po"
+
+msgid "occurrences"
+msgstr "dogodki"
+
+msgid "Exception dates"
+msgstr "Datumi izjeme"
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "Show descriptions"
+msgstr "Prikaži opis"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Prikaži današnji dogodek na pladnju, ko se Rainlendar začne"
+
+msgid "Hide list windows if there are no items"
+msgstr "Skrij seznam oken, če ni elementov"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Kliknite skozi (držite tipko Shift, da deaktivirate)"
+
+msgid "Lock windows in place"
+msgstr "Zaklenite okna na svoje mesto"
+
+msgid "Enable on startup"
+msgstr "Omogoči ob zagonu"
+
+msgid "Hide from taskbar"
+msgstr "Skrij iz opravilne vrstice"
+
+msgid "Use Retina Resolution"
+msgstr "Uporabi ločljivost mrežnice"
+
+msgid "Add years for categories"
+msgstr "Dodaj leto za kategorijo"
+
+msgid "Categories..."
+msgstr "Kategorije..."
+
+msgid "Week's start day:"
+msgstr "Začetni dan tedna:"
+
+msgid "Position:"
+msgstr "Položaj:"
+
+msgid "Language:"
+msgstr "Jezik:"
+
+msgid "Opacity"
+msgstr "Neprosojnost"
+
+msgid "Normal:"
+msgstr "Normalno:"
+
+msgid "Mouse over:"
+msgstr "Miška preko:"
+
+msgid "Apply to all windows at the same time"
+msgstr "Uporabite za vsa okna hkrati"
+
+msgid "Font Size"
+msgstr "Velikost Pisave"
+
+msgid "Size:"
+msgstr "Velikost:"
+
+msgid "Duplicate..."
+msgstr "Podvojeni..."
+
+msgid "Action:"
+msgstr "Ukrep:"
+
+msgid "Hotkey:"
+msgstr "Bljižnica:"
+
+msgid "Set"
+msgstr "Nastavitev"
+
+msgid "Available skins"
+msgstr "Dosegljive preobleke"
+
+msgid "Active skins"
+msgstr "Aktivne preobleke"
+
+msgid "Settings..."
+msgstr "Nastavitve..."
+
+msgid "All items"
+msgstr "Vsi elementi"
+
+msgid "Selected items"
+msgstr "Izbrani elementi"
+
+msgid "Day range"
+msgstr "Dnevno območje"
+
+msgid "Select days"
+msgstr "Izbrani dnevi"
+
+msgid "Add title"
+msgstr "Dodaj naslov"
+
+msgid "Preview..."
+msgstr "Predogled ..."
+
+msgid "Page Setup..."
+msgstr "Nastavitev strani..."
+
+msgid "Todo"
+msgstr "Opraviti"
+
+msgid "Date only"
+msgstr "Samo datum"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "Vrednosti, ločene z vejico (*.csv)|*.csv"
+
+msgid "Username"
+msgstr "Uporabniško ime"
+
+msgid "Password"
+msgstr "Geslo"
+
+msgid "Calendar name"
+msgstr "Ime Koledarja"
+
+msgid "Poll frequency (mins)"
+msgstr "Pogostnost ankete (min)"
+
+msgid "Suppress errors"
+msgstr "Zavrni napake"
+
+msgid "Keep offline copy"
+msgstr "Ohranite kopijo brez povezave"
+
+msgid "Authentication"
+msgstr "Pristnost"
+
+msgid "Basic"
+msgstr "Osnovno"
+
+msgid "Digest"
+msgstr "Povzetek"
+
+msgid "GSS-Negotiate"
+msgstr "GSS-pogajanje"
+
+msgid "NTLM"
+msgstr "NTLM"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Automatic"
+msgstr "Samodejno"
+
+msgid "Both"
+msgstr "Oboje"
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Izberite koledar, uporabniško ime in geslo za koledar ter kliknite gumb za "
+"izbiro koledarja.\n"
+"\n"
+"Polje za uporabniško ime in geslo je lahko prazno, če ni potrebno."
+
+msgid "Select Calendar"
+msgstr "Izberi Koledar"
+
+msgid "CalDAV Error (%s)!"
+msgstr "CalDAV Napaka (%s)!"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Napaka pri prenašanju podatkov v spletni naslov:\n"
+"%s\n"
+"\n"
+"Strežnik je vrnil rezultat: (%i) %i %s."
+
+msgid "Google Error (%s)!"
+msgstr "Google Napaka (%s)!"
+
+msgid "Unable to delete the event."
+msgstr "Dogodka ni mogoče izbrisati."
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "Strežnik je vrnil rezultat: (%i) %i %s."
+
+msgid "Unable to read the calendars from the server."
+msgstr "Koledarjev ni mogoče prebrati iz strežnika."
+
+msgid "Unable to authenticate to the server."
+msgstr "Strežnika ni mogoče overiti."
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Izbranega koledarja ni mogoče najti (%s).\n"
+"\n"
+"Na voljo so koledarji:\n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "Koledarja ni bilo mogoče prebrati iz strežnika."
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr ""
+"Overitev ni uspela. Preverite, ali ste vnesli pravilno uporabniško ime in "
+"geslo."
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr ""
+"Preverite tudi, ali uporabljate geslo za dostop do programa Rainlendar."
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr ""
+"Povezave s strežnikom ni mogoče. Prepričajte se, da vaša omrežna povezava "
+"deluje."
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "Spletni nalov \"%s\" ne vsebuje nobenih koledarjev."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr ""
+"Napaka pri prenosu podatkov iz spletnega naslova:\n"
+"%s"
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr ""
+"Prepričajte se, da vaše omrežje deluje in da vaš požarni zid ne blokira "
+"povezave."
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr ""
+"Stražnik ni mogoče razrešiti. Preverite, ali so nastavitve strežnika "
+"pravilne."
+
+msgid "Unable to resolve the host."
+msgstr "Gostitelja ni mogoče razrešiti."
+
+msgid "Unable to connect to the server."
+msgstr "Povezave s strežnikom ni mogoče."
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "Varna povezava (SSL) s strežnikom ni uspela."
+
+msgid "FALSE"
+msgstr "FALSE"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Ignore private events"
+msgstr "Prezri zasebne dogodke"
+
+msgid "Import limit"
+msgstr "Uvozna omejitev"
+
+msgid "Everything"
+msgstr "Vse"
+
+msgid "Future only"
+msgstr "Samo prihodnost"
+
+msgid "Past month"
+msgstr "Pretekli mesec"
+
+msgid "Past 6 months"
+msgstr "Zadnjih 6 mesecev"
+
+msgid "Past year"
+msgstr "Preteklem leto"
+
+msgid "Past 2 years"
+msgstr "Prejšnje dve leti"
+
+msgid "Delete notifications"
+msgstr "Izbriši obvestila"
+
+msgid "External Only"
+msgstr "Samo za zunanjost"
+
+msgid "Future Only"
+msgstr "Samo za prihodnost"
+
+msgid "Color mapping"
+msgstr "Barvno preslikavanje"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"Vnesite e-poštni naslov za Google Račun in kliknite gumb »Izberi koledar« in "
+"izberite koledar, do katerega želite dostopati."
+
+msgid "Select calendar"
+msgstr "Izberite koledar"
+
+msgid "Unable to read the calendars."
+msgstr "Koledarjev ni mogoče prebrati."
+
+msgid "Authentication failed."
+msgstr "Overitev ni uspela."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Google ni mogoče preveriti pristnosti.\n"
+"Preverite to e-poštno sporočilo\n"
+"in geslo sta pravilna."
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr "Dogodka ni mogoče naložiti, ker ciljni koledar ni bil določen."
+
+msgid "Google Calendar Error (%s)!"
+msgstr "Napaka Google Koledarja (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"Google ni mogel preveriti pristnosti. V vašem računu je omogočeno "
+"preverjanje v dveh korakih, zato morate za Rainlendar ustvariti posebno "
+"geslo za aplikacijo. To lahko storite v nastavitvah Google računa pod "
+"»preverjanje v dveh korakih«."
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"Google ni mogel preveriti pristnosti. Dostop Rainlendar do Google Koledarja "
+"je morda bil preklican. Prosimo, pojdite na Možnosti-> Koledarji in znova "
+"zaženite preverjanje pristnosti za koledar."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google ni mogel preveriti pristnosti.\n"
+"Strežnik je vrnil rezultat: (%i) %i %s."
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Koledarjev ni mogoče prenesti.\n"
+"Strežnik je vrnil rezultat: (%i) %i %s."
+
+msgid "Unable to parse the calendar url."
+msgstr "Razčlenitev koledarja ni mogoča."
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Zdi se, da ste vnesli spletni naslov kot ime koledarja.\n"
+"Namesto tega morate uporabiti eno od spodnjih imen:\n"
+
+msgid "Unable to delete the event: "
+msgstr "Dogodka ni mogoče izbrisati: "
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"Dogodka zaradi konflikta ni mogoče prenesti v Google Koledar. Posodobljeni "
+"dogodek bo ponovno naložen iz Google Koledarja.."
+
+msgid "Unable to parse the events."
+msgstr "Razčlenitev datoteke ni mogoča."
+
+msgid "Unable to upload the event: "
+msgstr "Dogodka ni mogoče naložiti: "
+
+msgid "Task list name"
+msgstr "Ime seznama opravil"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"Vnesite e-poštni naslov za Google Račun in kliknite gumb »Izberi seznam "
+"opravil« in izberite seznam opravil, do katerega želite dostopati."
+
+msgid "Select task list"
+msgstr "Izberite seznam opravil"
+
+msgid "Unable to read the task lists."
+msgstr "Seznama opravil ni mogoče prebrati."
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr "Opravila ni mogoče naložiti, ker seznam ciljev ni bil določen."
+
+msgid "Google Tasks Error (%s)!"
+msgstr "Napaka Googlovih opravil (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"Google ni mogel preveriti pristnosti. Dostop Rainlendar do seznama Google "
+"opravil je morda bil preklican. Osvežite koledar in ponovno potrdite "
+"Rainlendar v svojem Google Računu."
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Seznami opravil ni mogoče prenesti.\n"
+"Strežnik je vrnil rezultat: (%i) %i %s."
+
+msgid "Unable to parse the task list url."
+msgstr "Seznama opravil spletne strani ni bilo mogoče razčleniti."
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Zdi se, da ste vnesli spletni naslov kot ime seznama opravil.\n"
+"Namesto tega morate uporabiti eno od spodnjih imen:\n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"Izbranega seznama opravil ni mogoče najti (%s).\n"
+"\n"
+"Na voljo so:\n"
+
+msgid "Unable to delete the task: "
+msgstr "Opravila ni mogoče izbrisati: "
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"Tega opravila zaradi konflikta ni mogoče prenesti v Google Opravila. "
+"Posodobljena naloga bo ponovno naložena iz Google Opravila."
+
+msgid "Unable to upload the task: "
+msgstr "Tega opravila ni mogoče naložiti: "
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Datoteke Rainlendar (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "Varno nalaganje"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"Izberite spletni naslov, uporabniško imena in geslo za koledar.\n"
+"\n"
+"Spletni naslov lahko uporablja protokole http, https ali ftp. Polje za "
+"uporabniško ime in geslo je lahko prazno, če ni potrebno."
+
+msgid "Network Error (%s)!"
+msgstr "Napaka Omrežja (%s)!"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "Elementa ni mogoče dodati v spletni koledar."
+
+msgid "Unable to remove the item from the online calendar."
+msgstr "Elementa ni mogoče odstraniti iz spletnega koledarja."
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"Datoteke ni bilo mogoče razčleniti: %s\n"
+"Datoteka je morda poškodovana."
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"Strežnik je vrnil prazen rezultat. Prepričajte se, da se koledarski spletni "
+"naslov nakazuje v datoteko in ne v mapo."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Napaka pri prenosu podatkov iz spletnega naslova:\n"
+"%s\n"
+"\n"
+"Strežnik je vrnil rezultat: (%i) %i %s."
+
+msgid "Downloaded event count"
+msgstr "Preneseno število dogodkov"
+
+msgid "Office 365"
+msgstr "Office 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"Vnesite e-poštni naslov računa za Office 365 in kliknite gumb »Izberi "
+"koledar« in izberite koledar, do katerega želite dostopati."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"V računu Office 365 ni mogoče preveriti pristnosti.\n"
+"Preverite to e-poštno sporočilo\n"
+"in geslo sta pravilna."
+
+msgid "Office365 Error (%s)!"
+msgstr "Napaka Office365 (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"V računu Office 365 ni mogoče preveriti pristnosti. Dostop Rainlendar do "
+"koledarja Office 365 bi lahko bil preklican. Osvežite koledar in ponovno "
+"potrdite Rainlendar v računu Office 365."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"V računu Office 365 ni mogoče preveriti pristnosti.\n"
+"Strežnik je vrnil rezultat: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Dogodka ni mogoče naložiti zaradi spora. Posodobljeni dogodek bo ponovno "
+"naložen s strežnika."
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"Outlookova napaka!\n"
+"MAPI knjižnice ni bilo mogoče inicializirati.\n"
+"\n"
+"Če ste nadgradili Rainlendar ali Outlook, morate obnoviti koledar Outlook v "
+"možnostih Rainlendarja.\n"
+"\n"
+"Prepričajte se, da uporabljate iste različice (32bit vs. 64bit) obeh "
+"aplikacij."
+
+msgid "Application"
+msgstr "Aplikacija"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "MessageStore"
+msgstr "Shranjevanje sporočil"
+
+msgid "Folders"
+msgstr "Mape"
+
+msgid "Default Folder"
+msgstr "Privzeta mapa"
+
+msgid "Use labels instead of categories"
+msgstr "Uporabite oznake namesto kategorij"
+
+msgid "Show edit links"
+msgstr "Prikaži urejevalne povezave"
+
+msgid "Keep MAPI connection alive"
+msgstr "MAPI povezavo hranite živo"
+
+msgid "Month"
+msgstr "Mesec"
+
+msgid "6 months"
+msgstr "6 mesecev"
+
+msgid "Year"
+msgstr "Leto"
+
+msgid "2 years"
+msgstr "2 leti"
+
+msgid "Read birthdays from contacts"
+msgstr "Preberite rojstne dneve iz stikov"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr ""
+"Izberite shrambo sporočil Outlook, ki jo želite videti v programu Rainlendar."
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][uredi]]"
+
+msgid "Outlook error!"
+msgstr "Outlookova napaka!"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr ""
+"Elementov Outlook iz programa ni bilo mogoče prebrati \"%s\". Več "
+"podrobnosti najdete v dnevniku."
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "Posodabljanje elementa ni uspelo. Koda napake 0x%p"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr ""
+"Elementa Outlook ni bilo mogoče napisati. Na voljo ni nobenih map, kjer bi "
+"jih bilo mogoče shraniti."
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "Elementa ni mogoče izbrisati. Koda napake 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "Ne morem najti seznama opravil The Milk!"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "Seznama \"%s\" ni bilo mogoče najti. Na voljo so:"
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "Navedite ime tako, kot je na zgornjem seznamu."
+
+msgid "Unable to parse the ID from the task."
+msgstr "Iz opravila ni bilo mogoče razčleniti ID-ja."
+
+msgid "Unable to create the task."
+msgstr "Opravila ni bilo mogoče ustvariti."
+
+msgid "Unable to parse the timeline."
+msgstr "Časovnice ni mogoče razčleniti."
+
+msgid "The service is temporarily unavailable."
+msgstr "Storitev trenutno ni na voljo."
+
+msgid "Please log in to Remember The Milk."
+msgstr "Prijavite se, da se na The Milk."
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"Pooblastiti morat Rainlendar za dostop do računa »Remember the Milk«. "
+"Prijavite se na spletno mesto Remember the Milk in omogočite Rainlendar "
+"dostop do vašega računa.\n"
+"\n"
+"Privzeti spletni brskalnik se bo samodejno odprl, ko kliknete gumb V redu."
+
+msgid "Continue after authorization."
+msgstr "Nadaljuj po overitvi."
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr "Kliknite gumb V redu, da nadaljujete, ko ste overili Rainlendar."
+
+msgid "Unable to parse the output."
+msgstr "Izhodne datoteke ni mogoče razčleniti."
+
+msgid "Unknown response for call \"%s\"."
+msgstr "Neznan odziv za klic \"%s\"."
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"Klic \"%s\" ni uspel:\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "Klic na metodo \"%s\" ni uspel."
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "Zapomni si napako The Milk (%s)!"
+
+msgid "List"
+msgstr "Seznam"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"Izberite ime seznama opravil iz seznama The Milk. Polje lahko tudi pustite "
+"prazno, če želite dobiti vse svoje sezname."
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"Manjka overitev. Rainlendarju morate omogočiti dostop do vašega računa "
+"»Remember the Milk«."
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"Mape ni mogoče najti \"%s\".\n"
+"\n"
+"Na voljo so naslednje mape:"
+
+msgid "Toodledo Error (%s)!"
+msgstr "Napaka Toodledo (%s)!"
+
+msgid "Folder"
+msgstr "Mapa"
+
+msgid "Poll for changes"
+msgstr "Anketa za spremembe"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr "Vnesite svoj e-poštni naslov in geslo za Toodledo."
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "Ni mogoče odpreti datoteke \"%s\" za branje."
+
+msgid "Filename"
+msgstr "Ime datoteke"
+
+msgid "Monitor changes"
+msgstr "Nadzor sprememb"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"Izberite datoteko za koledar.\n"
+"\n"
+"Izberete lahko obstoječo datoteko ics ali vnesete novo ime poti, v tem "
+"primeru pa bo ustvarjena nova datoteka."
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar datoteke (*.ics)|*.ics|vCalendar datoteke (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr ""
+"Pot do koledarske datoteke \"%s\" ne obstaja.  Pojdite v Možnosti-> "
+"Koledarji in preverite, ali je lokacija datoteke pravilno nastavljena."
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "Ni mogoče narediti začasne kopije datoteke \"%s\"."
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "Datoteke ni mogoče zamenjati \"%s\"."
+

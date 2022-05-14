@@ -1,0 +1,1976 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-01-14 03:24+0300\n"
+"Last-Translator: Aliaksandr Kalybenka <sonic2@tut.by>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: REPUBLIC BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: Application/Config.cpp:568
+#: Application/Rainlendar.cpp:984
+#: Application/Rainlendar.cpp:995
+#: Application/Rainlendar.cpp:1108
+#: Plugins/OutlookPlugin/MapiHandler.cpp:388
+msgid "Default"
+msgstr "Default"
+
+#: Application/Config.cpp:574
+msgid "Copy"
+msgstr "Скапіяваць"
+
+#: Application/Config.cpp:575
+msgid "Region"
+msgstr "Рэгіён"
+
+#: Application/Config.cpp:577
+msgid "Native"
+msgstr "Родны"
+
+#: Application/Config.cpp:586
+#: Application/Util.cpp:767
+msgid "Sunday"
+msgstr "Нядзеля"
+
+#: Application/Config.cpp:587
+#: Application/Util.cpp:770
+msgid "Monday"
+msgstr "Панядзелак"
+
+#: Application/Config.cpp:588
+#: Application/Util.cpp:773
+msgid "Tuesday"
+msgstr "Аўторак"
+
+#: Application/Config.cpp:589
+#: Application/Util.cpp:776
+msgid "Wednesday"
+msgstr "Серада"
+
+#: Application/Config.cpp:590
+#: Application/Util.cpp:779
+msgid "Thursday"
+msgstr "Чацвер"
+
+#: Application/Config.cpp:591
+#: Application/Util.cpp:782
+msgid "Friday"
+msgstr "Пятніца"
+
+#: Application/Config.cpp:592
+#: Application/Util.cpp:785
+msgid "Saturday"
+msgstr "Субота"
+
+#: Application/Config.cpp:595
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogPrint.cpp:313
+#: Application/WindowTooltip.cpp:195
+msgid "Start"
+msgstr "Старт"
+
+#: Application/Config.cpp:596
+#: Application/DialogManager.cpp:815
+#: Application/DialogPrint.cpp:343
+#: Application/WindowTooltip.cpp:205
+msgid "Due"
+msgstr "Да"
+
+#: Application/Config.cpp:597
+#: Application/DialogManager.cpp:815
+#: Application/WindowTooltip.cpp:216
+msgid "Priority"
+msgstr "Прыярытэт"
+
+#: Application/Config.cpp:598
+#: Application/DialogManager.cpp:815
+#: Application/ItemListTodo.cpp:775
+#: Application/WindowTooltip.cpp:228
+#: Application/Resource.h:245
+msgid "Status"
+msgstr "Статут"
+
+#: Application/Config.cpp:602
+#: Application/DialogOptions.cpp:77
+#: Application/DialogSkinSettings.cpp:55
+#: Application/res/options.cpp:1
+msgid "General"
+msgstr "Агульныя"
+
+#: Application/Config.cpp:629
+#: Application/DialogOptions.cpp:513
+msgid "Tooltip"
+msgstr "Падказка"
+
+#: Application/Config.cpp:635
+msgid "TodoList"
+msgstr "Спіс задач"
+
+#: Application/Config.cpp:640
+msgid "EventList"
+msgstr "Спіс падзей"
+
+#: Application/Config.cpp:657
+#: Application/res/manager.cpp:1
+msgid "Manager"
+msgstr "Мэнэджэр"
+
+#: Application/ControlWindow.cpp:197
+msgid "About"
+msgstr "Аб праграме"
+
+#: Application/ControlWindow.cpp:198
+#: Application/DialogOptions.cpp:104
+msgid "Help"
+msgstr "Дапамога"
+
+#: Application/ControlWindow.cpp:200
+#: Application/ItemCalendar.cpp:204
+#: Application/ItemListEvent.cpp:346
+msgid "New event"
+msgstr "Новая падзея"
+
+#: Application/ControlWindow.cpp:201
+#: Application/ItemListTodo.cpp:792
+msgid "New task"
+msgstr "Новае заданне"
+
+#: Application/ControlWindow.cpp:223
+#: Application/DialogOptions.cpp:515
+#: Application/DialogOptions.cpp:1061
+msgid "Windows"
+msgstr "Вокны"
+
+#: Application/ControlWindow.cpp:241
+#: Application/DialogComponent.cpp:505
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogOptions.cpp:79
+#: Application/DropTarget.cpp:240
+#: Application/res/event.cpp:15
+#: Application/res/options.cpp:18
+#: Application/res/todo.cpp:39
+msgid "Calendars"
+msgstr "Каляндары"
+
+#: Application/ControlWindow.cpp:244
+msgid "Current Month\tHome"
+msgstr "Бягучы месяц\tДахаты"
+
+#: Application/ControlWindow.cpp:245
+msgid "Next Month\tRight"
+msgstr "Наступны месяц\tНаправа"
+
+#: Application/ControlWindow.cpp:246
+msgid "Prev Month\tLeft"
+msgstr "Папярэдні месяц\tНалева"
+
+#: Application/ControlWindow.cpp:247
+msgid "Next Year\tUp"
+msgstr "Наступны год\tУверх"
+
+#: Application/ControlWindow.cpp:248
+msgid "Previous Year\tDown"
+msgstr "Папярэдні год\tУніз"
+
+#: Application/ControlWindow.cpp:250
+#, c-format
+msgid "January %s\tCtrl-F1"
+msgstr "Студзень %s\tCtrl-F1"
+
+#: Application/ControlWindow.cpp:251
+#, c-format
+msgid "February %s\tCtrl-F2"
+msgstr "Люты %s\tCtrl-F2"
+
+#: Application/ControlWindow.cpp:252
+#, c-format
+msgid "March %s\tCtrl-F3"
+msgstr "Сакавік %s\tCtrl-F3"
+
+#: Application/ControlWindow.cpp:253
+#, c-format
+msgid "April %s\tCtrl-F4"
+msgstr "Красавік %s\tCtrl-F4"
+
+#: Application/ControlWindow.cpp:254
+#, c-format
+msgid "May %s\tCtrl-F5"
+msgstr "Травень %s\tCtrl-F5"
+
+#: Application/ControlWindow.cpp:255
+#, c-format
+msgid "June %s\tCtrl-F6"
+msgstr "Чэрвень %s\tCtrl-F6"
+
+#: Application/ControlWindow.cpp:256
+#, c-format
+msgid "July %s\tCtrl-F7"
+msgstr "Ліпень %s\tCtrl-F7"
+
+#: Application/ControlWindow.cpp:257
+#, c-format
+msgid "August %s\tCtrl-F8"
+msgstr "Жнівень %s\tCtrl-F8"
+
+#: Application/ControlWindow.cpp:258
+#, c-format
+msgid "September %s\tCtrl-F9"
+msgstr "Верасень %s\tCTRL-F9"
+
+#: Application/ControlWindow.cpp:259
+#, c-format
+msgid "October %s\tCtrl-F10"
+msgstr "Кастрычнік %s\tCtrl-F10"
+
+#: Application/ControlWindow.cpp:260
+#, c-format
+msgid "November %s\tCtrl-F11"
+msgstr "Лістапад %s\tCtrl-F11"
+
+#: Application/ControlWindow.cpp:261
+#, c-format
+msgid "December %s\tCtrl-F12"
+msgstr "Снежань %s\tCtrl-F12"
+
+#: Application/ControlWindow.cpp:263
+msgid "Choose month"
+msgstr "Вылучыць месяц"
+
+#: Application/ControlWindow.cpp:265
+#: Application/Resource.h:224
+msgid "Refresh"
+msgstr "Абнавіць"
+
+#: Application/ControlWindow.cpp:266
+msgid "Options..."
+msgstr "Опцыі..."
+
+#: Application/ControlWindow.cpp:267
+msgid "Manager..."
+msgstr "Мэнэджэр..."
+
+#: Application/ControlWindow.cpp:281
+msgid "Exit"
+msgstr "Выхад"
+
+#: Application/ControlWindow.cpp:568
+#, c-format
+msgid ""
+"This is a recurring item:\n"
+"%s\n"
+"\n"
+"Do you want to delete just this instance?\n"
+"(Select No to delete whole pattern)"
+msgstr ""
+"Гэта паўтаральны элемент.\n"
+"%s\n"
+"\n"
+"Вы жадаеце выдаліць толькі гэты асобнік?\n"
+"(Нажмите Нет чтобы удалить всю цепочку)"
+
+#: Application/ControlWindow.cpp:589
+#, c-format
+msgid ""
+"Do you want to delete this item?\n"
+"%s"
+msgstr ""
+"Вы жадаеце выдаліць гэты элемент?\n"
+"%s"
+
+#: Application/ControlWindow.cpp:600
+msgid "Do you want to delete these items?"
+msgstr "Вы жадаеце выдаліць гэтыя элементы?"
+
+#: Application/DialogAbout.cpp:47
+#: Application/DialogOptions.cpp:587
+msgid "Version"
+msgstr "Версія"
+
+#: Application/DialogAbout.cpp:55
+msgid "Build on"
+msgstr "Білд"
+
+#: Application/DialogAbout.cpp:60
+msgid "Developed by"
+msgstr "Распрацоўнікі"
+
+#: Application/DialogAbout.cpp:68
+msgid "Licensed to"
+msgstr "Ліцэнзія"
+
+#: Application/DialogAbout.cpp:75
+msgid "Plugins"
+msgstr "Модулі"
+
+#: Application/DialogAbout.cpp:94
+msgid "Links"
+msgstr "Спасылкі"
+
+#: Application/DialogAbout.cpp:96
+#: Application/HotkeyControl.cpp:185
+msgid "Home"
+msgstr "Дахаты"
+
+#: Application/DialogAbout.cpp:99
+msgid "FAQ"
+msgstr "ЧаПы"
+
+#: Application/DialogAbout.cpp:102
+msgid "Forum"
+msgstr "Форум"
+
+#: Application/DialogAbout.cpp:108
+msgid "Icons by"
+msgstr "Значкі"
+
+#: Application/DialogAbout.cpp:118
+msgid "Copyrights"
+msgstr "Аўтарскія правы"
+
+#: Application/DialogAbout.cpp:139
+msgid "About Rainlendar..."
+msgstr "Аб праграме"
+
+#: Application/DialogAbout.cpp:151
+msgid "Please wait..."
+msgstr "Калі ласка, пачакайце"
+
+#: Application/DialogAbout.cpp:164
+msgid "Unknown response from the server."
+msgstr "Невядомы адказ ад сервера"
+
+#: Application/DialogAbout.cpp:193
+#, c-format
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"Версія %s даступная для запампоўкі\n"
+"Паглядзець на сайце?"
+
+#: Application/DialogAbout.cpp:201
+msgid "No updates available."
+msgstr "Няма даступных абнаўленняў"
+
+#: Application/DialogAbout.cpp:210
+msgid "Unable to connect to the server."
+msgstr "Немагчыма падлучыцца да сервера"
+
+#: Application/DialogAbout.cpp:215
+#: Application/res/about.cpp:1
+msgid "Check for update"
+msgstr "Праверыць абнаўленні"
+
+#: Application/DialogAlarm.cpp:32
+msgid "Sound files (*.wav)|*.wav"
+msgstr "Гукавыя файлы (*.wav)|*.wav"
+
+#: Application/DialogComponent.cpp:505
+msgid "Select the calendars:"
+msgstr "Вылучыць каляндары:"
+
+#: Application/DialogComponent.cpp:557
+msgid "Select the categories:"
+msgstr "Выбрать категории:"
+
+#: Application/DialogComponent.cpp:557
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/res/event.cpp:16
+#: Application/res/todo.cpp:40
+msgid "Categories"
+msgstr "Категории:"
+
+#: Application/DialogComponent.cpp:704
+msgid "Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "Не атрымалася знайсці апрацоўшчыкаў для падзеі. Падзея не было захавана."
+
+#: Application/DialogComponent.cpp:920
+#, c-format
+msgid "On the %s day of the month"
+msgstr "У %s дзень месяца"
+
+#: Application/DialogComponent.cpp:928
+msgid "first"
+msgstr "першы"
+
+#: Application/DialogComponent.cpp:932
+msgid "second"
+msgstr "другі"
+
+#: Application/DialogComponent.cpp:936
+msgid "third"
+msgstr "трэці"
+
+#: Application/DialogComponent.cpp:940
+msgid "fourth"
+msgstr "чацвёрты"
+
+#: Application/DialogComponent.cpp:944
+msgid "fifth"
+msgstr "пяты"
+
+#: Application/DialogComponent.cpp:946
+#, c-format
+msgid "On the %s %s of the month"
+msgstr "У %s %s месяца"
+
+#: Application/DialogComponent.cpp:953
+#, c-format
+msgid "On the last %s of the month"
+msgstr "У апошні %s месяца"
+
+#: Application/DialogComponent.cpp:962
+msgid "On the first weekday of the month"
+msgstr "У першы працоўны дзень месяца"
+
+#: Application/DialogComponent.cpp:971
+msgid "On the last weekday of the month"
+msgstr "У апошні працоўны дзень месяца"
+
+#: Application/DialogComponent.cpp:978
+msgid "On the last day of the month"
+msgstr "У апошні дзень месяца"
+
+#: Application/DialogManager.cpp:196
+#: Application/DialogManager.cpp:250
+msgid "Choose a file"
+msgstr "Вылучыце файл"
+
+#: Application/DialogManager.cpp:209
+msgid "Import failed!"
+msgstr "Імпарт не атрымаўся!"
+
+#: Application/DialogManager.cpp:268
+msgid "Export failed!"
+msgstr "Імпарт не атрымаўся!"
+
+#: Application/DialogManager.cpp:335
+msgid "Do you want to delete the selected item(s)?"
+msgstr "Вы жадаеце выдаліць гэта?"
+
+#: Application/DialogManager.cpp:444
+#: Application/DialogManager.cpp:525
+msgid "Archive (*.zip)|*.zip"
+msgstr "Архіваваць(*.zip)|*.zip"
+
+#: Application/DialogManager.cpp:445
+#: Application/DialogManager.cpp:524
+msgid "Choose the backup path"
+msgstr "Вылучыць шлях архіва"
+
+#: Application/DialogManager.cpp:581
+msgid "Restore was succesful."
+msgstr "Аднаўленне завершанае паспяхова"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogPrint.cpp:329
+#: Application/HotkeyControl.cpp:183
+msgid "End"
+msgstr "Канец"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogOptions.cpp:512
+#: Application/ItemListAlarm.cpp:221
+#: Application/res/event.cpp:9
+#: Application/res/todo.cpp:33
+msgid "Alarm"
+msgstr "Будзільнік"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+msgid "Summary"
+msgstr "Падрахунак"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+msgid "Recurring"
+msgstr "Паўтор"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogPrint.cpp:301
+msgid "Location"
+msgstr "Месца"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogOptions.cpp:644
+msgid "Description"
+msgstr "Апісанне"
+
+#: Application/DialogManager.cpp:795
+#: Application/res/event.cpp:1
+#: Application/res/event.cpp:2
+msgid "Event"
+msgstr "Падзея"
+
+#: Application/DialogManager.cpp:802
+msgid "New Event..."
+msgstr "Новая падзея..."
+
+#: Application/DialogManager.cpp:824
+#: Application/res/todo.cpp:1
+#: Application/res/todo.cpp:2
+msgid "Todo"
+msgstr "Задачы"
+
+#: Application/DialogManager.cpp:831
+msgid "New Todo..."
+msgstr "Новая задача..."
+
+#: Application/DialogManager.cpp:1000
+msgid "Single"
+msgstr "Адзін"
+
+#: Application/DialogManager.cpp:1033
+#: Application/DialogSkinSettings.cpp:80
+#: Application/ItemListTodo.cpp:593
+#: Application/res/todo.cpp:9
+#: Application/res/todo.cpp:10
+msgid "None"
+msgstr "Не"
+
+#: Application/DialogManager.cpp:1037
+#: Application/ItemListTodo.cpp:605
+#: Application/res/todo.cpp:13
+msgid "High"
+msgstr "Высокі"
+
+#: Application/DialogManager.cpp:1041
+#: Application/ItemListTodo.cpp:601
+#: Application/res/todo.cpp:12
+msgid "Medium"
+msgstr "Сярэдні"
+
+#: Application/DialogManager.cpp:1066
+#: Application/ItemListTodo.cpp:331
+#: Application/ItemListTodo.cpp:617
+#: Application/ItemListTodo.cpp:774
+#: Application/res/todo.cpp:19
+msgid "Cancelled"
+msgstr "Скасаваны"
+
+#: Application/DialogManager.cpp:1086
+#: Application/res/todo.cpp:15
+#: Application/res/todo.cpp:16
+msgid "Not Started"
+msgstr "Не запушчаны"
+
+#: Application/DialogOptions.cpp:42
+msgid "Options"
+msgstr "Налады"
+
+#: Application/DialogOptions.cpp:81
+msgid "Skins"
+msgstr "Скуркі"
+
+#: Application/DialogOptions.cpp:84
+#: Application/res/options.cpp:22
+msgid "Hotkeys"
+msgstr "Гарачы. кнопкі"
+
+#: Application/DialogOptions.cpp:87
+msgid "Advanced"
+msgstr "Дадаткова"
+
+#: Application/DialogOptions.cpp:109
+#: Application/DialogSkinSettings.cpp:28
+#: Application/res/alarm.cpp:4
+#: Application/res/event.cpp:37
+#: Application/res/todo.cpp:61
+msgid "OK"
+msgstr "OK"
+
+#: Application/DialogOptions.cpp:113
+#: Application/DialogSkinSettings.cpp:31
+#: Application/res/alarm.cpp:5
+#: Application/res/event.cpp:38
+#: Application/res/todo.cpp:62
+msgid "Cancel"
+msgstr "Адмена"
+
+#: Application/DialogOptions.cpp:276
+msgid "Get more languages..."
+msgstr "Атрымаць мовы..."
+
+#: Application/DialogOptions.cpp:434
+msgid "Get more skins..."
+msgstr "Атрымаць скуркі..."
+
+#: Application/DialogOptions.cpp:514
+#: Application/DialogOptions.cpp:792
+#: Application/DialogOptions.cpp:1061
+msgid "TrayIcon"
+msgstr "Значок у панэлі задач"
+
+#: Application/DialogOptions.cpp:597
+msgid "Author"
+msgstr "Аўтар"
+
+#: Application/DialogOptions.cpp:612
+msgid "Homepage"
+msgstr "Хатняя старонка"
+
+#: Application/DialogOptions.cpp:630
+msgid "This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "Гэта старая скурка. Некаторыя магчымасці могуць не падтрымлівацца"
+
+#: Application/DialogOptions.cpp:640
+msgid "Window"
+msgstr "Акно"
+
+#: Application/DialogOptions.cpp:642
+msgid "Variable"
+msgstr "Пераменная"
+
+#: Application/DialogOptions.cpp:697
+#: Application/res/options.cpp:33
+msgid "Advanced >>>"
+msgstr "Дадаткова >>>"
+
+#: Application/DialogOptions.cpp:701
+msgid "<<< Simple"
+msgstr "<<< Проста"
+
+#: Application/DialogOptions.cpp:1103
+msgid "Hotkey"
+msgstr "Гарачая клавіша"
+
+#: Application/DialogOptions.cpp:1104
+msgid "Function"
+msgstr "Функцыя"
+
+#: Application/DialogOptions.cpp:1188
+msgid "IMPORTANT! Read the documentation before changing these settings. It's possible to make Rainlendar inoperable if you just randomly change the values. Consider yourself warned!"
+msgstr "Увага! Прачытайце дакументацыю перад зменай гэтых налад. Праграма можа перастаць працаваць, калі вы хаатычна будзеце змяняць значэнні. Майце ў выгляду, я папярэджваў!"
+
+#: Application/DialogOptions.cpp:1195
+msgid "Reset All Settings"
+msgstr "Адкаціць усе налады"
+
+#: Application/DialogOptions.cpp:1208
+msgid ""
+"This will reset all settings to default values.\n"
+"The default settings are applied immediately.\n"
+"Do you want to continue?"
+msgstr ""
+"Гэта адкоціць усе змены да значэнняў па змаўчанні.\n"
+"Новыя значэнні будуць ужытыя адразу жа\n"
+"Працягнуць?"
+
+#: Application/DialogOptions.cpp:1278
+msgid "Common"
+msgstr "Агульныя"
+
+#: Application/DialogOptions.cpp:1279
+#: Application/DialogOptions.cpp:1418
+msgid "Enabled"
+msgstr "Уключаны"
+
+#: Application/DialogOptions.cpp:1292
+#: Application/DialogOptions.cpp:1422
+msgid "Visual category"
+msgstr "Візуальная катэгорыя"
+
+#: Application/DialogPrint.cpp:55
+msgid "Print items"
+msgstr "Надрукаваць элементы"
+
+#: Application/DialogSkinSettings.cpp:56
+#: Application/DialogSkinSettings.cpp:110
+msgid "Visible"
+msgstr "Бачнасць"
+
+#: Application/DialogSkinSettings.cpp:57
+#: Application/DialogSkinSettings.cpp:111
+msgid "Scale"
+msgstr "Маштаб"
+
+#: Application/DialogSkinSettings.cpp:61
+msgid "Variables"
+msgstr "Пераменныя"
+
+#: Application/DialogSkinSettings.cpp:76
+msgid "Operations"
+msgstr "Аперацыі"
+
+#: Application/DialogSkinSettings.cpp:102
+#: Application/DialogSkinSettings.cpp:126
+msgid "Double click"
+msgstr "Падвойная пстрычка"
+
+#: Application/DropTarget.cpp:42
+msgid "skin"
+msgstr "скурка"
+
+#: Application/DropTarget.cpp:47
+msgid "addon"
+msgstr "фіча"
+
+#: Application/DropTarget.cpp:53
+msgid "language"
+msgstr "мова"
+
+#: Application/DropTarget.cpp:61
+msgid "license"
+msgstr "ліцэнзія"
+
+#: Application/DropTarget.cpp:87
+#, c-format
+msgid "Unknown file \"%s\"."
+msgstr "Невядомы файл: \"%s\""
+
+#: Application/DropTarget.cpp:93
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Немагчыма скапіяваць файл. Крыніца і прызначэнне супадаюць."
+
+#: Application/DropTarget.cpp:111
+#, c-format
+msgid ""
+"The skin %s doesn't exist.\n"
+"Unable to merge the addon."
+msgstr ""
+"Шкурка %s не существует.\n"
+"Немагчыма дадаць фічу."
+
+#: Application/DropTarget.cpp:125
+#, c-format
+msgid ""
+"The %s \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"%s \"%s\" уже существует.\n"
+"Замяніць?"
+
+#: Application/DropTarget.cpp:153
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Гэты файл ужо існуе. Перазапісаць?"
+
+#: Application/DropTarget.cpp:191
+#, c-format
+msgid ""
+"The %s was installed succesfully!\n"
+"Please refresh (or restart) Rainlendar to see the changes."
+msgstr ""
+"%s установлен успешно\n"
+"Абновіце або перазапусціце Rainlendar, каб змены ўступілі ў сілу"
+
+#: Application/DropTarget.cpp:196
+#, c-format
+msgid "The %s installation failed!"
+msgstr "%s не можа быць усталяваны!"
+
+#: Application/DropTarget.cpp:240
+msgid "Select the calendars for the imported items:"
+msgstr "Вылучыце каляндары для імпартаваных падзей"
+
+#: Application/DropTarget.cpp:256
+msgid ""
+"Import failed.\n"
+"\n"
+"There are no calendars available that are able to store the item."
+msgstr ""
+"Імпарт не атрымаўся.\n"
+"\n"
+"Няма даступных каляндароў для захавання элементаў"
+
+#: Application/DropTarget.cpp:268
+#, c-format
+msgid "Imported %i items succesfully."
+msgstr "%i элементаў імпартаваныя паспяхова."
+
+#: Application/DropTarget.cpp:279
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Неабходна вылучыць хоць бы адзін каляндар для імпартуемых падзей"
+
+#: Application/DropTarget.cpp:548
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Немагчыма стварыць часовы каталог, каб злучыць прымочку."
+
+#: Application/HotkeyControl.cpp:101
+msgid "Win"
+msgstr "Win"
+
+#: Application/HotkeyControl.cpp:107
+msgid "Control"
+msgstr "Control"
+
+#: Application/HotkeyControl.cpp:113
+msgid "Alt"
+msgstr "Alt"
+
+#: Application/HotkeyControl.cpp:119
+msgid "Shift"
+msgstr "Shift"
+
+#: Application/HotkeyControl.cpp:167
+msgid "Back"
+msgstr "Назад"
+
+#: Application/HotkeyControl.cpp:169
+msgid "Tab"
+msgstr "Tab"
+
+#: Application/HotkeyControl.cpp:171
+msgid "Return"
+msgstr "Return"
+
+#: Application/HotkeyControl.cpp:173
+msgid "Esc"
+msgstr "Esc"
+
+#: Application/HotkeyControl.cpp:175
+msgid "Space"
+msgstr "Прабел"
+
+#: Application/HotkeyControl.cpp:177
+#: Application/res/event.cpp:36
+#: Application/res/manager.cpp:11
+#: Application/res/todo.cpp:60
+msgid "Delete"
+msgstr "Delete"
+
+#: Application/HotkeyControl.cpp:179
+msgid "Page Up"
+msgstr "Page Up"
+
+#: Application/HotkeyControl.cpp:181
+msgid "Page Down"
+msgstr "Page Down"
+
+#: Application/HotkeyControl.cpp:187
+msgid "Left"
+msgstr "Налева"
+
+#: Application/HotkeyControl.cpp:189
+msgid "Up"
+msgstr "Уверх"
+
+#: Application/HotkeyControl.cpp:191
+msgid "Right"
+msgstr "Направа"
+
+#: Application/HotkeyControl.cpp:193
+msgid "Down"
+msgstr "Уніз"
+
+#: Application/HotkeyControl.cpp:195
+msgid "Insert"
+msgstr "Insert"
+
+#: Application/ItemCalendar.cpp:196
+#, c-format
+msgid "Edit \"%s\""
+msgstr "Рэдагаваць \"%s\""
+
+#: Application/ItemCalendar.cpp:201
+msgid "Delete all events"
+msgstr "Выдаліць усе падзеі"
+
+#: Application/ItemCalendar.cpp:207
+#: Application/ItemListEvent.cpp:348
+msgid "Delete event"
+msgstr "Выдаліць падзею"
+
+#: Application/ItemCalendar.cpp:209
+msgid "Events"
+msgstr "Падзеі"
+
+#: Application/ItemListAlarm.cpp:202
+msgid "1 minute"
+msgstr "1 хвіліна"
+
+#: Application/ItemListAlarm.cpp:203
+msgid "5 minutes"
+msgstr "5 хвілін"
+
+#: Application/ItemListAlarm.cpp:204
+msgid "10 minutes"
+msgstr "10 хвілін"
+
+#: Application/ItemListAlarm.cpp:205
+msgid "30 minutes"
+msgstr "30 хвілін"
+
+#: Application/ItemListAlarm.cpp:206
+msgid "1 hour"
+msgstr "1 гадзіна"
+
+#: Application/ItemListAlarm.cpp:207
+msgid "2 hours"
+msgstr "2 гадзіны"
+
+#: Application/ItemListAlarm.cpp:209
+msgid "Snooze"
+msgstr "Драмаць"
+
+#: Application/ItemListAlarm.cpp:210
+msgid "Dismiss"
+msgstr "Дзякуй"
+
+#: Application/ItemListAlarm.cpp:214
+#: Application/ItemListAlarm.cpp:218
+msgid "Edit..."
+msgstr "Рэдагаваць..."
+
+#: Application/ItemListEvent.cpp:180
+msgid "Today"
+msgstr "Сёння"
+
+#: Application/ItemListEvent.cpp:184
+msgid "Tomorrow"
+msgstr "Заўтра"
+
+#: Application/ItemListEvent.cpp:192
+#, c-format
+msgid "%s next week"
+msgstr "%s наступных тыдняў"
+
+#: Application/ItemListEvent.cpp:196
+#, c-format
+msgid "%s in %i weeks"
+msgstr "%s в %i тыднях"
+
+#: Application/ItemListEvent.cpp:347
+msgid "Edit event"
+msgstr "Рэдагаваць падзею"
+
+#: Application/ItemListEvent.cpp:357
+msgid "Event list"
+msgstr "Спіс падзей"
+
+#: Application/ItemListTodo.cpp:93
+#, c-format
+msgid "[Due %x]"
+msgstr "[Сапраўдны %x]"
+
+#: Application/ItemListTodo.cpp:166
+msgid "No category"
+msgstr "Без катэгорыі"
+
+#: Application/ItemListTodo.cpp:255
+msgid "Unknown"
+msgstr "Невядома"
+
+#: Application/ItemListTodo.cpp:316
+#: Application/ItemListTodo.cpp:623
+#: Application/ItemListTodo.cpp:758
+msgid "Needs Action"
+msgstr "Патрабуецца дзеянне"
+
+#: Application/ItemListTodo.cpp:321
+#: Application/ItemListTodo.cpp:620
+#: Application/ItemListTodo.cpp:771
+#: Application/res/todo.cpp:17
+msgid "In Progress"
+msgstr "У працэсе"
+
+#: Application/ItemListTodo.cpp:326
+#: Application/ItemListTodo.cpp:614
+#: Application/ItemListTodo.cpp:773
+#: Application/res/todo.cpp:18
+msgid "Completed"
+msgstr "Завершанае"
+
+#: Application/ItemListTodo.cpp:362
+msgid "High Priority"
+msgstr "Высокі прыярытэт"
+
+#: Application/ItemListTodo.cpp:367
+msgid "Medium Priority"
+msgstr "Сярэдні прыярытэт"
+
+#: Application/ItemListTodo.cpp:372
+msgid "Low Priority"
+msgstr "Нізкі прыярытэт"
+
+#: Application/ItemListTodo.cpp:377
+msgid "No Priority"
+msgstr "Без прыярытэту"
+
+#: Application/ItemListTodo.cpp:597
+#: Application/res/todo.cpp:11
+msgid "Low"
+msgstr "Нізкі"
+
+#: Application/ItemListTodo.cpp:725
+msgid "Alphabetically"
+msgstr "У алфавітным парадку"
+
+#: Application/ItemListTodo.cpp:726
+msgid "By Category"
+msgstr "Па катэгорыях"
+
+#: Application/ItemListTodo.cpp:727
+msgid "By Due Date"
+msgstr "Па даце канчатка"
+
+#: Application/ItemListTodo.cpp:728
+msgid "By Start Date"
+msgstr "Па даце пачатку"
+
+#: Application/ItemListTodo.cpp:729
+msgid "By Status"
+msgstr "Па статуце"
+
+#: Application/ItemListTodo.cpp:730
+msgid "By Priority"
+msgstr "Па прыярытэце"
+
+#: Application/ItemListTodo.cpp:732
+msgid "Arrange"
+msgstr "Размясціць"
+
+#: Application/ItemListTodo.cpp:793
+msgid "Edit task"
+msgstr "Рэдагаваць задачу"
+
+#: Application/ItemListTodo.cpp:794
+msgid "Delete task"
+msgstr "Выдаліць задачу"
+
+#: Application/ItemListTodo.cpp:804
+msgid "Hide completed tasks"
+msgstr "Схаваць выкананыя задачы"
+
+#: Application/ItemListTodo.cpp:810
+msgid "Todo list"
+msgstr "Спіс задач"
+
+#: Application/ItemListTooltip.cpp:54
+msgid "No events today."
+msgstr "Сёння падзей няма"
+
+#: Application/ItemListTooltip.cpp:75
+msgid "Today's events:"
+msgstr "Сённяшнія падзеі"
+
+#: Application/Rainlendar.cpp:104
+msgid "allow multiple instances"
+msgstr "дазволіць некалькі асобнікаў"
+
+#: Application/Rainlendar.cpp:105
+msgid "install a skin or a language"
+msgstr "усталяваць скурку або мова"
+
+#: Application/Rainlendar.cpp:106
+msgid "path where the configuration file will be stored"
+msgstr "шлях да канфігурацыйных файлаў"
+
+#: Application/Rainlendar.cpp:108
+msgid "path where the log file will be stored"
+msgstr "шлях да логаў"
+
+#: Application/Rainlendar.cpp:109
+msgid "enable verbose logging"
+msgstr "уключыць залішняе журналяванне"
+
+#: Application/Rainlendar.cpp:110
+msgid "enable debug logging"
+msgstr "уключыць журналяванне адладкі"
+
+#: Application/Rainlendar.cpp:296
+#, c-format
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Немагчыма загрузіць рэсурсы з \n"
+"%s"
+
+#: Application/Rainlendar.cpp:512
+msgid ""
+"Rainlendar was not able to refresh the settings correctly.\n"
+"Do you want to reset all settings and try again?\n"
+"(Select \"No\" to open Rainlendar with old settings)"
+msgstr ""
+"Rainlendar не змог абнавіць правільна налады.\n"
+"Жадаеце адкаціць усе налады і паспрабаваць яшчэ раз?\n"
+"(Вылучыце \"No\" каб адкрыць старыя налады Rainledar'а)"
+
+#: Application/Rainlendar.cpp:526
+#, c-format
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Няма скурак у \n"
+"%s"
+
+#: Application/Rainlendar.cpp:540
+msgid ""
+"Rainlendar was not able to load the selected skin.\n"
+"Do you want to use the default skin instead?"
+msgstr ""
+"Rainlendar'у не атрымалася загрузіць вылучаную скурку.\n"
+"Жадаеце выкарыстаць скурку па змаўчанні?"
+
+#: Application/Rainlendar.cpp:553
+msgid "Unable to load the skin. Check the log for more details."
+msgstr "Немагчыма загрузіць скурку. Дэталі ў логах."
+
+#: Application/Rainlendar.cpp:823
+msgid ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+msgstr ""
+"Нешта не так з файлам ліцэнзіі\n"
+"Упэўніцеся што URL правільны і паўторыце яшчэ раз."
+
+#: Application/Rainlendar.cpp:1097
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Знойдзеныя старыя файлы Rainlendar'а.\n"
+"\n"
+
+#: Application/Rainlendar.cpp:1104
+msgid "Do you want to import them?"
+msgstr "Імпартаваць іх?"
+
+#: Application/Rainlendar.cpp:1126
+#, c-format
+msgid "Import failed with file: \"%s\""
+msgstr "Імпарт не атрымаўся. Памылка ў \"%s\""
+
+#: Application/SkinIni.cpp:303
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 0 to 11 for a specific month in the current year."
+msgstr "Месяц, які адлюстроўваецца каляндаром. Пакажыце +1 для наступнага месяца, -1 для папярэдняга або значэнне ад 0 да 11 для вызначанага месяца ў бягучым году"
+
+#: Application/SkinIni.cpp:448
+msgid "Defines the width of the event list."
+msgstr "Шырыня акна з спісам падзей"
+
+#: Application/SkinIni.cpp:449
+msgid "Defines the width of the todo list."
+msgstr "Шырыня акна з спісам задач"
+
+#: Application/SkinManager.cpp:87
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Не атрымалася знайсці актыўныя скуркі\n"
+"Націсніце OK, каб загрузіць першую даступную скурку"
+
+#: Application/SkinManager.cpp:92
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"У скуркі няма актыўных вокнаў\n"
+"Вокны па змаўчанні будуць скарыстаныя"
+
+#: Application/SkinManager.cpp:97
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Скурка не існуе\n"
+"Націсніце OK, каб загрузіць першую даступную скурку"
+
+#: Application/Util.cpp:725
+msgid "January"
+msgstr "Студзень"
+
+#: Application/Util.cpp:727
+msgid "February"
+msgstr "Люты"
+
+#: Application/Util.cpp:729
+msgid "March"
+msgstr "Сакавік"
+
+#: Application/Util.cpp:731
+msgid "April"
+msgstr "Красавік"
+
+#: Application/Util.cpp:733
+msgid "May"
+msgstr "Травень"
+
+#: Application/Util.cpp:735
+msgid "June"
+msgstr "Чэрвень"
+
+#: Application/Util.cpp:737
+msgid "July"
+msgstr "Ліпень"
+
+#: Application/Util.cpp:739
+msgid "August"
+msgstr "Жнівень"
+
+#: Application/Util.cpp:741
+msgid "September"
+msgstr "Верасень"
+
+#: Application/Util.cpp:743
+msgid "October"
+msgstr "Кастрычнік"
+
+#: Application/Util.cpp:745
+msgid "November"
+msgstr "Лістапад"
+
+#: Application/Util.cpp:747
+msgid "December"
+msgstr "Снежань"
+
+#: Application/Util.cpp:788
+#: Application/res/event.cpp:29
+#: Application/res/todo.cpp:53
+msgid "Sun"
+msgstr "Нд"
+
+#: Application/Util.cpp:791
+#: Application/res/event.cpp:23
+#: Application/res/todo.cpp:47
+msgid "Mon"
+msgstr "Пн"
+
+#: Application/Util.cpp:794
+#: Application/res/event.cpp:24
+#: Application/res/todo.cpp:48
+msgid "Tue"
+msgstr "Аў"
+
+#: Application/Util.cpp:797
+#: Application/res/event.cpp:25
+#: Application/res/todo.cpp:49
+msgid "Wed"
+msgstr "Ср"
+
+#: Application/Util.cpp:800
+#: Application/res/event.cpp:26
+#: Application/res/todo.cpp:50
+msgid "Thu"
+msgstr "Чц"
+
+#: Application/Util.cpp:803
+#: Application/res/event.cpp:27
+#: Application/res/todo.cpp:51
+msgid "Fri"
+msgstr "Пт"
+
+#: Application/Util.cpp:806
+#: Application/res/event.cpp:28
+#: Application/res/todo.cpp:52
+msgid "Sat"
+msgstr "Сб"
+
+#: Application/WizardCalendar.cpp:22
+#: Application/WizardCalendar.cpp:27
+msgid "Create a new calendar"
+msgstr "Стварыць новы каляндар"
+
+#: Application/WizardPageCalendar.cpp:33
+msgid "Please select the type of the calendar."
+msgstr "Вылучыце тып каляндара"
+
+#: Application/WizardPageCalendar.cpp:42
+msgid "Type"
+msgstr "Тып"
+
+#: Application/WizardPageCalendar.cpp:68
+msgid ""
+"The calendar type defines the format of the events\n"
+"and where they are stored."
+msgstr ""
+"Тып каляндара вызначае фармат падзей\n"
+"і дзе яны захоўваюцца"
+
+#: Application/WizardPageCalendar.cpp:85
+msgid "You need to select a calendar type!"
+msgstr "Неабходна вылучыць тып каляндара!"
+
+#: Application/WizardPageCalendar.cpp:172
+#: Application/res/alarm.cpp:3
+msgid "Browse..."
+msgstr "Вылучыць..."
+
+#: Application/WizardPageCalendar.cpp:248
+msgid "Only local files can be defined as the file name."
+msgstr "Толькі лакальныя файлы могуць быць у якасці імя файла"
+
+#: Application/WizardPageCalendar.cpp:254
+msgid ""
+"It's not possible to use UNC paths as the file name.\n"
+"You need to map the network drive to be able to access the files on a server."
+msgstr ""
+"Шляхі UNC не могуць быць скарыстаныя ў якасці імя файла.\n"
+"Неабходна падлучыць сеткавы дыск, каб мець доступ да файлаў на серверы"
+
+#: Application/WizardPageCalendar.cpp:362
+msgid "Please choose a name for the the calendar."
+msgstr "Вылучыце назоў каляндара."
+
+#: Application/WizardPageCalendar.cpp:370
+msgid "Name"
+msgstr "Імя"
+
+#: Application/WizardPageCalendar.cpp:408
+msgid ""
+"The calendar with the same name already exists.\n"
+"Please use some other name."
+msgstr ""
+"Каляндар з такім імем ужо існуе\n"
+"Выкарыстайце іншае імя."
+
+#: Application/WizardPageCalendar.cpp:415
+msgid "You need to give some name for the calendar."
+msgstr "Неабходна задаць імя каляндара"
+
+#: Application/res/about.cpp:2
+#: Application/res/manager.cpp:8
+#: Application/res/manager.cpp:15
+#: Application/res/print.cpp:10
+msgid "Close"
+msgstr "Зачыніць"
+
+#: Application/res/alarm.cpp:1
+msgid "Alarm sound"
+msgstr "Гук абвесткі"
+
+#: Application/res/alarm.cpp:2
+msgid "Select the sound file for the alarm"
+msgstr "Вылучыць гук для абвесткі"
+
+#: Application/res/event.cpp:3
+#: Application/res/todo.cpp:3
+msgid "Summary:"
+msgstr "Падрахунак:"
+
+#: Application/res/event.cpp:4
+#: Application/res/todo.cpp:4
+msgid "Location:"
+msgstr "Месца:"
+
+#: Application/res/event.cpp:5
+#: Application/res/todo.cpp:5
+msgid "Private"
+msgstr "Прыватны"
+
+#: Application/res/event.cpp:6
+#: Application/res/todo.cpp:6
+msgid "Start time:"
+msgstr "Пачатак:"
+
+#: Application/res/event.cpp:7
+msgid "All day event"
+msgstr "Увесь дзень"
+
+#: Application/res/event.cpp:8
+msgid "End time:"
+msgstr "Канец:"
+
+#: Application/res/event.cpp:10
+#: Application/res/event.cpp:11
+#: Application/res/todo.cpp:35
+msgid "Minutes"
+msgstr "Хвіліны"
+
+#: Application/res/event.cpp:12
+#: Application/res/todo.cpp:36
+msgid "Hours"
+msgstr "Гадзіны"
+
+#: Application/res/event.cpp:13
+#: Application/res/event.cpp:19
+#: Application/res/todo.cpp:34
+#: Application/res/todo.cpp:37
+#: Application/res/todo.cpp:43
+msgid "Days"
+msgstr "Дні"
+
+#: Application/res/event.cpp:14
+msgid "before the event starts."
+msgstr "да пачатку падзеі"
+
+#: Application/res/event.cpp:17
+#: Application/res/todo.cpp:41
+msgid "Recurrence"
+msgstr "Паўтор"
+
+#: Application/res/event.cpp:18
+#: Application/res/todo.cpp:42
+msgid "Repeat every"
+msgstr "Паўтараць кожны(-е)"
+
+#: Application/res/event.cpp:20
+#: Application/res/todo.cpp:44
+msgid "Weeks"
+msgstr "Тыдні"
+
+#: Application/res/event.cpp:21
+#: Application/res/todo.cpp:45
+msgid "Months"
+msgstr "Месяцы"
+
+#: Application/res/event.cpp:22
+#: Application/res/todo.cpp:46
+msgid "Years"
+msgstr "Гады"
+
+#: Application/res/event.cpp:30
+#: Application/res/todo.cpp:54
+msgid "Repeat"
+msgstr "Паўтараць"
+
+#: Application/res/event.cpp:31
+#: Application/res/todo.cpp:55
+msgid "Forever"
+msgstr "Пажыццёва"
+
+#: Application/res/event.cpp:32
+#: Application/res/todo.cpp:56
+msgid "Number of times"
+msgstr "Колькасць раз"
+
+#: Application/res/event.cpp:33
+#: Application/res/todo.cpp:57
+msgid "Until"
+msgstr "Да"
+
+#: Application/res/event.cpp:34
+#: Application/res/todo.cpp:58
+msgid "Exception dates"
+msgstr "Выключэнні"
+
+#: Application/res/event.cpp:35
+#: Application/res/options.cpp:26
+#: Application/res/todo.cpp:59
+msgid "Add"
+msgstr "Дадаць"
+
+#: Application/res/manager.cpp:2
+msgid "File"
+msgstr "Файл"
+
+#: Application/res/manager.cpp:3
+msgid "Import"
+msgstr "Імпартаваць"
+
+#: Application/res/manager.cpp:4
+msgid "Export"
+msgstr "Экспартаваць"
+
+#: Application/res/manager.cpp:5
+#: Application/res/print.cpp:9
+msgid "Print..."
+msgstr "Надрукаваць..."
+
+#: Application/res/manager.cpp:6
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:180
+msgid "Backup"
+msgstr "Захаваць рэзервовую копію"
+
+#: Application/res/manager.cpp:7
+msgid "Restore"
+msgstr "Аднавіць з рэзервовай копіі"
+
+#: Application/res/manager.cpp:9
+msgid "New"
+msgstr "Новы"
+
+#: Application/res/manager.cpp:10
+msgid "Edit"
+msgstr "Рэдагаваць"
+
+#: Application/res/manager.cpp:12
+msgid "Show events"
+msgstr "Паказаць падзеі"
+
+#: Application/res/manager.cpp:13
+msgid "Show todo items"
+msgstr "Паказаць задачы"
+
+#: Application/res/manager.cpp:14
+msgid "Search:"
+msgstr "Шукаць:"
+
+#: Application/res/options.cpp:2
+msgid "Week's start day:"
+msgstr "Тыдзень пачынаецца з:"
+
+#: Application/res/options.cpp:3
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Паказваць сённяшнія падзеі ў трэі, калі Rainlendar запускаецца"
+
+#: Application/res/options.cpp:4
+msgid "Add years to birthdays and anniversaries"
+msgstr "Дадаваць гады да дзён нараджэння і гадавінам"
+
+#: Application/res/options.cpp:5
+msgid "Hide windows if there are no items"
+msgstr "Хаваць вокны, калі ў іх няма элементаў"
+
+#: Application/res/options.cpp:6
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Скразны націск (утрымлівайце Shift каб адключыць)"
+
+#: Application/res/options.cpp:7
+msgid "Lock windows in place"
+msgstr "Замацаваць вокны"
+
+#: Application/res/options.cpp:8
+msgid "Enable on startup"
+msgstr "Уключыць пры запуску сістэмы"
+
+#: Application/res/options.cpp:9
+msgid "Language:"
+msgstr "Мова:"
+
+#: Application/res/options.cpp:10
+msgid "Position"
+msgstr "Становішча"
+
+#: Application/res/options.cpp:11
+msgid "On Top"
+msgstr "Па-над усімі вокнамі"
+
+#: Application/res/options.cpp:12
+msgid "Normal"
+msgstr "Нармалёва"
+
+#: Application/res/options.cpp:13
+msgid "On Bottom"
+msgstr "Унізе"
+
+#: Application/res/options.cpp:14
+msgid "On Desktop"
+msgstr "На працоўным стале"
+
+#: Application/res/options.cpp:15
+msgid "Transparency"
+msgstr "Прозрачность"
+
+#: Application/res/options.cpp:16
+msgid "Normal:"
+msgstr "Празрыстасць"
+
+#: Application/res/options.cpp:17
+msgid "Mouse over:"
+msgstr "Пры навядзенні мышкі"
+
+#: Application/res/options.cpp:19
+msgid "Add..."
+msgstr "Дадаць..."
+
+#: Application/res/options.cpp:20
+#: Application/res/options.cpp:27
+msgid "Remove"
+msgstr "Выдаліць"
+
+#: Application/res/options.cpp:21
+msgid "Settings"
+msgstr "Налады"
+
+#: Application/res/options.cpp:23
+msgid "Action:"
+msgstr "Дзеянне:"
+
+#: Application/res/options.cpp:24
+msgid "Hotkey:"
+msgstr "Гарачая клавіша:"
+
+#: Application/res/options.cpp:25
+msgid "Set"
+msgstr "Усталяваць"
+
+#: Application/res/options.cpp:28
+msgid "Available skins"
+msgstr "Даступныя скуркі"
+
+#: Application/res/options.cpp:29
+msgid "-->"
+msgstr "-->"
+
+#: Application/res/options.cpp:30
+msgid "<--"
+msgstr "<--"
+
+#: Application/res/options.cpp:31
+msgid "Active skins"
+msgstr "Актыўныя скуркі"
+
+#: Application/res/options.cpp:32
+msgid "Settings..."
+msgstr "Налады..."
+
+#: Application/res/options.cpp:34
+msgid "Details"
+msgstr "Дэталі"
+
+#: Application/res/print.cpp:1
+msgid "All items"
+msgstr "Усе элементы"
+
+#: Application/res/print.cpp:2
+msgid "Selected items"
+msgstr "Вылучаныя элементы"
+
+#: Application/res/print.cpp:3
+msgid "Day range"
+msgstr "Перыяд"
+
+#: Application/res/print.cpp:4
+msgid "Select days"
+msgstr "Вылучыць дні"
+
+#: Application/res/print.cpp:5
+msgid "From:"
+msgstr "Ад:"
+
+#: Application/res/print.cpp:6
+msgid "To:"
+msgstr "Да:"
+
+#: Application/res/print.cpp:7
+msgid "Add title"
+msgstr "Дадаць адпраўніка"
+
+#: Application/res/print.cpp:8
+msgid "Preview..."
+msgstr "Праглядзець..."
+
+#: Application/res/todo.cpp:7
+msgid "Due time:"
+msgstr "Канец:"
+
+#: Application/res/todo.cpp:8
+msgid "Priority:"
+msgstr "Прыярытэт:"
+
+#: Application/res/todo.cpp:14
+msgid "Status:"
+msgstr "Статут:"
+
+#: Application/res/todo.cpp:20
+msgid "Progress:"
+msgstr "Прагрэс:"
+
+#: Application/res/todo.cpp:21
+#: Application/res/todo.cpp:22
+msgid "0 %"
+msgstr "0 %"
+
+#: Application/res/todo.cpp:23
+msgid "10 %"
+msgstr "10 %"
+
+#: Application/res/todo.cpp:24
+msgid "20 %"
+msgstr "20 %"
+
+#: Application/res/todo.cpp:25
+msgid "30 %"
+msgstr "30 %"
+
+#: Application/res/todo.cpp:26
+msgid "40 %"
+msgstr "40 %"
+
+#: Application/res/todo.cpp:27
+msgid "50 %"
+msgstr "50 %"
+
+#: Application/res/todo.cpp:28
+msgid "60 %"
+msgstr "60 %"
+
+#: Application/res/todo.cpp:29
+msgid "70 %"
+msgstr "70 %"
+
+#: Application/res/todo.cpp:30
+msgid "80 %"
+msgstr "80 %"
+
+#: Application/res/todo.cpp:31
+msgid "90 %"
+msgstr "90 %"
+
+#: Application/res/todo.cpp:32
+msgid "100 %"
+msgstr "100 %"
+
+#: Application/res/todo.cpp:38
+msgid "before the task is due."
+msgstr "да канца"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:421
+msgid "Filename"
+msgstr "Імя файла"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:464
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a new file will be created."
+msgstr ""
+"Вылучыце файл для каляндара\n"
+"\n"
+"Можна вылучыць наяўны ics-файл або набраць новы шлях, у якім файл будзе створаны"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:164
+msgid "URL"
+msgstr "URL"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:168
+msgid "Username"
+msgstr "Імя карыстача"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:172
+msgid "Password"
+msgstr "Пароль"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:176
+msgid "Poll Frequency"
+msgstr "Частота"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:184
+msgid "Proxy server"
+msgstr "Проксі-сервер"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:188
+msgid "Proxy username"
+msgstr "Імя карыстача проксі"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:192
+msgid "Proxy password"
+msgstr "Пароль проксі"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:196
+msgid "Suppress errors"
+msgstr "Ігнараваць памылкі"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:236
+msgid ""
+"Choose an URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Вылучыце URL, імя і пароль для каляндара\n"
+"\n"
+"URL можа выкарыстаць http, https або ftp пратаколы. Пароль і імя карыстача могуць быць пакінутыя пустымі, калі яны не патрэбныя"
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:473
+#, c-format
+msgid ""
+"Network Error!\n"
+"\n"
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+"Памылка сеткі!\n"
+"\n"
+"Ошибка загрузки данных из\n"
+"%s\n"
+"\n"
+"Сервер вярнуў: %i %s."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:600
+#, c-format
+msgid ""
+"Network Error!\n"
+"\n"
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+"Памылка сеткі!\n"
+"\n"
+"Памылка загрузкі дадзеных у\n"
+"%s\n"
+"\n"
+"Сервер вярнуў: %i %s."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:92
+msgid "Unable to initialize the MAPI library."
+msgstr "Не атрымалася ініцыялізаваць бібліятэку MAPI"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:192
+#: Plugins/OutlookPlugin/MapiHandler.cpp:285
+#: Plugins/OutlookPlugin/MapiHandler.cpp:298
+msgid "Application"
+msgstr "Прыкладанне"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:207
+#: Plugins/OutlookPlugin/MapiHandler.cpp:304
+msgid "Profile"
+msgstr "Профіль"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:222
+msgid "MessageStore"
+msgstr "Сховішча паведамленняў"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:237
+msgid "Import Alarms"
+msgstr "Імпартаваць напамінкі"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:337
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Вылучыце сховішча Outlook, якое вы жадаеце бачыць у Rainlendar'е"
+
+#: Application/Resource.h:214
+msgid "Yes"
+msgstr "Да"
+
+#: Application/Resource.h:215
+msgid "No"
+msgstr "Нет"
+
+#: Application/Resource.h:216
+msgid "True"
+msgstr "Ісціна"
+
+#: Application/Resource.h:217
+msgid "False"
+msgstr "Хлусня"
+
+#: Application/Resource.h:219
+msgid "Hide Windows"
+msgstr "Схаваць Вокны"
+
+#: Application/Resource.h:220
+msgid "Show Windows"
+msgstr "Паказаць Вокны"
+
+#: Application/Resource.h:221
+msgid "Toggle Windows"
+msgstr "Памяняць Вокны"
+
+#: Application/Resource.h:222
+msgid "Next Month"
+msgstr "Наступны месяц"
+
+#: Application/Resource.h:223
+msgid "Previous Month"
+msgstr "Папярэдні месяц"
+
+#: Application/Resource.h:226
+msgid "Anniversary"
+msgstr "Угодкі"
+
+#: Application/Resource.h:227
+msgid "Birthday"
+msgstr "Дзень Нараджэнні"
+
+#: Application/Resource.h:228
+msgid "Business"
+msgstr "Бізнэс"
+
+#: Application/Resource.h:229
+msgid "Calls"
+msgstr "Званкі"
+
+#: Application/Resource.h:230
+msgid "Clients"
+msgstr "Кліенты"
+
+#: Application/Resource.h:231
+msgid "Competition"
+msgstr "Спаборніцтва"
+
+#: Application/Resource.h:232
+msgid "Customer"
+msgstr "Заказчык"
+
+#: Application/Resource.h:233
+msgid "Exam"
+msgstr "Іспыты"
+
+#: Application/Resource.h:234
+msgid "Favorites"
+msgstr "Абранае"
+
+#: Application/Resource.h:235
+msgid "Follow up"
+msgstr "Прасачыць"
+
+#: Application/Resource.h:236
+msgid "Gifts"
+msgstr "Падарункі"
+
+#: Application/Resource.h:237
+msgid "Holidays"
+msgstr "Святы"
+
+#: Application/Resource.h:238
+msgid "Ideas"
+msgstr "Ідэі"
+
+#: Application/Resource.h:239
+msgid "Important"
+msgstr "Важна"
+
+#: Application/Resource.h:240
+msgid "Issues"
+msgstr "Фішкі"
+
+#: Application/Resource.h:241
+msgid "Miscellaneous"
+msgstr "Рознае"
+
+#: Application/Resource.h:242
+msgid "Personal"
+msgstr "Асабістае"
+
+#: Application/Resource.h:243
+msgid "Projects"
+msgstr "Праекты"
+
+#: Application/Resource.h:244
+msgid "Public Holiday"
+msgstr "Грамадскія святы"
+
+#: Application/Resource.h:246
+msgid "Suppliers"
+msgstr "Пастаўшчыкі"
+
+#: Application/Resource.h:247
+msgid "Travel"
+msgstr "Падарожжа"
+
+#: Application/Resource.h:248
+msgid "Trip"
+msgstr "Падарожжа"
+
+#: Application/Resource.h:249
+msgid "TV"
+msgstr "ТБ"
+
+#: Application/Resource.h:250
+msgid "Vacation"
+msgstr "Вакацыі"
+
+#: Application/Resource.h:251
+msgid "Work"
+msgstr "Праца"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:27
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:28
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar files (*.ics)|*.ics"
+
+#: Plugins/IniFormatPlugin/IniFormatHandler.h:21
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar files (*.ini)|*.ini"
+

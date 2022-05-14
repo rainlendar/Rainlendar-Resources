@@ -1,0 +1,2823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-08-19 21:22+0100\n"
+"Last-Translator: Mikel Pascual Aldabaldetreku <mikel.paskual@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Euskera\n"
+"X-Poedit-Country: SPAIN\n"
+
+#: Application/Config.cpp:746
+#: Application/Rainlendar.cpp:1113
+#: Application/Rainlendar.cpp:1124
+#: Application/Rainlendar.cpp:1238
+#: Plugins/OutlookPlugin/MapiHandler.cpp:596
+#: Application/Resource.h:273
+msgid "Default"
+msgstr "Lehenetsia"
+
+#: Application/Config.cpp:752
+msgid "Copy"
+msgstr "Kopiatu"
+
+#: Application/Config.cpp:753
+msgid "Region"
+msgstr "Herria"
+
+#: Application/Config.cpp:755
+msgid "Native"
+msgstr "Jatorrizkoa"
+
+#: Application/Config.cpp:764
+msgid "Sunday"
+msgstr "Igandea"
+
+#: Application/Config.cpp:765
+msgid "Monday"
+msgstr "Astelehena"
+
+#: Application/Config.cpp:766
+msgid "Tuesday"
+msgstr "Asteartea"
+
+#: Application/Config.cpp:767
+msgid "Wednesday"
+msgstr "Asteazkena"
+
+#: Application/Config.cpp:768
+msgid "Thursday"
+msgstr "Osteguna"
+
+#: Application/Config.cpp:769
+msgid "Friday"
+msgstr "Ostirala"
+
+#: Application/Config.cpp:770
+msgid "Saturday"
+msgstr "Larunbata"
+
+#: Application/Config.cpp:773
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+#: Application/DialogPrint.cpp:324
+#: Application/WindowTooltip.cpp:207
+msgid "Start"
+msgstr "Hasiera"
+
+#: Application/Config.cpp:774
+#: Application/DialogManager.cpp:975
+#: Application/DialogPrint.cpp:354
+#: Application/WindowTooltip.cpp:217
+msgid "Due"
+msgstr "Mugaeguna"
+
+#: Application/Config.cpp:775
+#: Application/DialogManager.cpp:975
+#: Application/WindowTooltip.cpp:228
+msgid "Priority"
+msgstr "Lehentasuna"
+
+#: Application/Config.cpp:776
+#: Application/DialogManager.cpp:975
+#: Application/WindowTooltip.cpp:240
+#: Application/Resource.h:265
+msgid "Status"
+msgstr "Egoera"
+
+#: Application/Config.cpp:786
+#: Application/DialogOptions.cpp:83
+#: Application/DialogSkinSettings.cpp:67
+#: Application/res/options.cpp:1
+msgid "General"
+msgstr "Orokorra"
+
+#: Application/Config.cpp:788
+#: Application/Config.cpp:872
+msgid "Time format"
+msgstr "Orduaren formatua"
+
+#: Application/Config.cpp:789
+#: Application/Config.cpp:873
+msgid "Date format"
+msgstr "Dataren formatua"
+
+#: Application/Config.cpp:790
+#: Application/Config.cpp:874
+msgid "Weekend days"
+msgstr "Asteburu-egunak"
+
+#: Application/Config.cpp:791
+#: Application/Config.cpp:875
+msgid "Week number delta"
+msgstr "Aste-zenbakiaren delta"
+
+#: Application/Config.cpp:792
+#: Application/Config.cpp:877
+msgid "Default categories"
+msgstr "Defektuzko kategoriak"
+
+#: Application/Config.cpp:793
+#: Application/Config.cpp:887
+msgid "Show categories from the skin"
+msgstr "Azalaren kategoriak bistaratu"
+
+#: Application/Config.cpp:794
+#: Application/Config.cpp:888
+msgid "Snap distance"
+msgstr "Gerturatze-distantzia"
+
+#: Application/Config.cpp:795
+#: Application/Config.cpp:889
+msgid "Snap center"
+msgstr "Erdigunera gerturatu"
+
+#: Application/Config.cpp:796
+#: Application/Config.cpp:890
+msgid "Save window position"
+msgstr "Lehioaren kokapena gorde"
+
+#: Application/Config.cpp:797
+#: Application/Config.cpp:891
+msgid "Show tray icon"
+msgstr "ataza-barrako ikurra bistaratu"
+
+#: Application/Config.cpp:798
+#: Application/Config.cpp:892
+msgid "Keep on screen"
+msgstr "Pantailan mantendu"
+
+#: Application/Config.cpp:799
+#: Application/Config.cpp:893
+msgid "Always show full menus"
+msgstr "Menu osoak erakutsi beti"
+
+#: Application/Config.cpp:800
+#: Application/Config.cpp:894
+msgid "Disable keyboard shortcuts"
+msgstr "Teklatu bide-lasterrak ezgaitu"
+
+#: Application/Config.cpp:802
+#: Application/Config.cpp:896
+msgid "Show in all desktops"
+msgstr "Mahaigain guztietan erakutsi"
+
+#: Application/Config.cpp:804
+#: Application/Config.cpp:898
+msgid "Calendar wheel scroll"
+msgstr "Eguntegian scroll egin gurpilarekin"
+
+#: Application/Config.cpp:805
+#: Application/Config.cpp:899
+msgid "List wheel scroll"
+msgstr "Zerrendan scroll egin gurpilarekin"
+
+#: Application/Config.cpp:806
+#: Application/Config.cpp:900
+msgid "Transparency type"
+msgstr "Gardentasun mota"
+
+#: Application/Config.cpp:807
+#: Application/Config.cpp:901
+msgid "Copy transparency sleep time"
+msgstr "Gardentasun lo-denbora kopiatu"
+
+#: Application/Config.cpp:808
+#: Application/Config.cpp:902
+msgid "Fade delay"
+msgstr "Aldentze-atzerapena"
+
+#: Application/Config.cpp:809
+#: Application/Config.cpp:903
+msgid "Fade duration"
+msgstr "Aldentze-denbora"
+
+#: Application/Config.cpp:810
+#: Application/Config.cpp:904
+msgid "Font scale"
+msgstr "Hizkien eskala"
+
+#: Application/Config.cpp:811
+#: Application/Config.cpp:906
+msgid "Skin language"
+msgstr "Azalaren hizkuntza"
+
+#: Application/Config.cpp:812
+#: Application/Config.cpp:916
+msgid "Create backups automatically"
+msgstr "Automatikoki sortu babes-kopiak"
+
+#: Application/Config.cpp:813
+#: Application/Config.cpp:917
+msgid "Show delete confirmations"
+msgstr "Berrespena eskatu ezabatzeko"
+
+#: Application/Config.cpp:814
+#: Application/Config.cpp:918
+msgid "Combine icons in the calendar"
+msgstr "Ikurrak konbinatu egutegian"
+
+#: Application/Config.cpp:815
+#: Application/Config.cpp:919
+msgid "Disable text formatting"
+msgstr "Testuaren formatua ezgaitu"
+
+#: Application/Config.cpp:817
+msgid "Network"
+msgstr "Sarea"
+
+#: Application/Config.cpp:818
+#: Application/Config.cpp:921
+msgid "Proxy server"
+msgstr "Proxy serbitzaria"
+
+#: Application/Config.cpp:819
+#: Application/Config.cpp:922
+msgid "Proxy user"
+msgstr "Proxy-erabiltzailea"
+
+#: Application/Config.cpp:820
+#: Application/Config.cpp:821
+#: Application/Config.cpp:923
+msgid "Proxy password"
+msgstr "Pasa-hitza"
+
+#: Application/Config.cpp:822
+#: Application/Config.cpp:929
+msgid "Try direct connection if proxy fails"
+msgstr "Konexio zuzenarekin saiatu proxy-ak huts eginez gero"
+
+#: Application/Config.cpp:824
+#: Application/DialogOptions.cpp:529
+#: Application/DialogOptions.cpp:769
+#: Application/DialogOptions.cpp:840
+msgid "Tooltip"
+msgstr "Textuinguruko laguntza"
+
+#: Application/Config.cpp:825
+#: Application/Config.cpp:931
+msgid "Show tooltips"
+msgstr "Aholkuak erakutsi"
+
+#: Application/Config.cpp:826
+#: Application/Config.cpp:932
+msgid "Max tooltip window width"
+msgstr "Aholku-leihoaren zabalera maximoa"
+
+#: Application/Config.cpp:827
+#: Application/Config.cpp:933
+msgid "Show description in tooltip"
+msgstr "Deskribapena bistaratu aholkuan"
+
+#: Application/Config.cpp:828
+#: Application/Config.cpp:934
+msgid "Todo items in tooltip"
+msgstr "Betebeharrak aholkuetan"
+
+#: Application/Config.cpp:829
+#: Application/Config.cpp:935
+msgid "Traytip show duration"
+msgstr "Ataza-barrako aholkuen bistaratze-denbora"
+
+#: Application/Config.cpp:830
+#: Application/Config.cpp:936
+msgid "Tooltip fade duration"
+msgstr "Aholkuen aldentze-denbora"
+
+#: Application/Config.cpp:831
+#: Application/Config.cpp:937
+msgid "Tooltip show delay"
+msgstr "Aholkuaren bistaratze-atzerapena"
+
+#: Application/Config.cpp:832
+#: Application/Config.cpp:938
+msgid "Tooltip format"
+msgstr "Aholkuen formatua"
+
+#: Application/Config.cpp:834
+msgid "TodoList"
+msgstr "Eginbeharreko betebeharren zerrenda"
+
+#: Application/Config.cpp:835
+#: Application/Config.cpp:940
+msgid "Show full task summary"
+msgstr "Eginkuzun-zerrenda osoa erakutsi"
+
+#: Application/Config.cpp:836
+#: Application/Config.cpp:941
+msgid "Show task due time"
+msgstr "Eginkizunaren bukaera-ordua erakutsi"
+
+#: Application/Config.cpp:837
+#: Application/Config.cpp:942
+msgid "Show task location"
+msgstr "Eginkizunaren kokapena erakutsi"
+
+#: Application/Config.cpp:839
+msgid "EventList"
+msgstr "Gertakizunen zerrenda"
+
+#: Application/Config.cpp:840
+#: Application/Config.cpp:944
+msgid "Show full event summary"
+msgstr "Gertakizun guztiak erakutsi"
+
+#: Application/Config.cpp:841
+#: Application/Config.cpp:945
+msgid "Show event start time"
+msgstr "Gertakuzinaren hasiera-ordua erakutsi"
+
+#: Application/Config.cpp:842
+#: Application/Config.cpp:946
+msgid "Show event end time"
+msgstr "Gertakuzinaren bukaera-ordua erakutsi"
+
+#: Application/Config.cpp:843
+#: Application/Config.cpp:947
+msgid "Show event location"
+msgstr "Gertakizunaren kokapena erakutsi"
+
+#: Application/Config.cpp:844
+#: Application/Config.cpp:948
+msgid "Hide dismissed events"
+msgstr "Gertakari baztertuak ezkutatu"
+
+#: Application/Config.cpp:845
+#: Application/Config.cpp:949
+msgid "Number of days the list shows"
+msgstr "Zerrendak erakusten duen egun-kopurua"
+
+#: Application/Config.cpp:846
+#: Application/Config.cpp:950
+msgid "Header format"
+msgstr "Burukoaren formatua"
+
+#: Application/Config.cpp:847
+#: Application/Config.cpp:951
+msgid "Age from start of the week"
+msgstr "Astearen hasieratik hasi"
+
+#: Application/Config.cpp:849
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+#: Application/DialogOptions.cpp:528
+#: Application/DialogOptions.cpp:763
+#: Application/DialogOptions.cpp:840
+#: Application/ItemListAlarm.cpp:242
+#: Application/res/event.cpp:9
+#: Application/res/todo.cpp:34
+msgid "Alarm"
+msgstr "Alarma"
+
+#: Application/Config.cpp:850
+#: Application/Config.cpp:953
+msgid "Show alarm start time"
+msgstr "Alarmaren hasiera-ordua erakutsi"
+
+#: Application/Config.cpp:851
+#: Application/Config.cpp:954
+msgid "Show alarm end time"
+msgstr "Alarmaren bukaera-ordua erakutsi"
+
+#: Application/Config.cpp:852
+#: Application/Config.cpp:955
+msgid "Show alarm location"
+msgstr "Alarmaren kokapena erakutsi"
+
+#: Application/Config.cpp:853
+#: Application/Config.cpp:956
+msgid "Keep alarm always on top"
+msgstr "Alarma gainean mantendu beti"
+
+#: Application/Config.cpp:854
+#: Application/Config.cpp:957
+msgid "Default snooze time"
+msgstr "Defektuzko kuluxka denbora"
+
+#: Application/Config.cpp:855
+#: Application/Config.cpp:958
+msgid "Max alarm window width"
+msgstr "Alarmaren gehienezko lehio-tamaina"
+
+#: Application/Config.cpp:856
+#: Application/Config.cpp:959
+msgid "Hide from alarm after days"
+msgstr "Alarmetatik ezkutatu egun batzuk ondoren"
+
+#: Application/Config.cpp:857
+#: Application/Config.cpp:960
+msgid "Default alarm file"
+msgstr "Defektuzko alarma fitxategia"
+
+#: Application/Config.cpp:858
+#: Application/Config.cpp:962
+msgid "Snooze times"
+msgstr "Lo kopurua"
+
+#: Application/Config.cpp:860
+#: Application/DialogManager.cpp:49
+#: Application/res/manager.cpp:1
+msgid "Manager"
+msgstr "Administratzailea"
+
+#: Application/Config.cpp:861
+#: Application/Config.cpp:965
+msgid "Manager event columns"
+msgstr "Administratzailearen gertakari-zutabeak"
+
+#: Application/Config.cpp:862
+#: Application/Config.cpp:966
+msgid "Manager todo columns"
+msgstr "Administratzailearen eginkizun-zutabeak"
+
+#: Application/ControlWindow.cpp:289
+#: Application/DialogAbout.cpp:139
+msgid "About"
+msgstr "Rainlendar-i buruz"
+
+#: Application/ControlWindow.cpp:290
+#: Application/DialogOptions.cpp:110
+msgid "Help"
+msgstr "Laguntza"
+
+#: Application/ControlWindow.cpp:292
+#: Application/ItemCalendar.cpp:220
+#: Application/ItemListEvent.cpp:395
+msgid "New event"
+msgstr "Gertakizun berria"
+
+#: Application/ControlWindow.cpp:293
+#: Application/ItemListTodo.cpp:1044
+msgid "New task"
+msgstr "Zeregin berria"
+
+#: Application/ControlWindow.cpp:323
+#: Application/DialogOptions.cpp:531
+msgid "Windows"
+msgstr "Lehioak"
+
+#: Application/ControlWindow.cpp:341
+#: Application/DialogComponent.cpp:581
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+#: Application/DialogOptions.cpp:85
+#: Application/DropTarget.cpp:241
+#: Application/res/event.cpp:15
+#: Application/res/options.cpp:18
+#: Application/res/todo.cpp:40
+msgid "Calendars"
+msgstr "Egutegiak"
+
+#: Application/ControlWindow.cpp:344
+msgid "Current Month\tHome"
+msgstr "Oraingo Hilabetea\tHasiera"
+
+#: Application/ControlWindow.cpp:345
+msgid "Next Month\tRight"
+msgstr "Hurrengo Hilabetea\tEskuma"
+
+#: Application/ControlWindow.cpp:346
+msgid "Prev Month\tLeft"
+msgstr "Aurreko Hilabetea\tEzkerra"
+
+#: Application/ControlWindow.cpp:347
+msgid "Next Year\tUp"
+msgstr "Hurrengo Hilabetea\tGora"
+
+#: Application/ControlWindow.cpp:348
+msgid "Previous Year\tDown"
+msgstr "Aurreko Hilabetea\tBehera"
+
+#: Application/ControlWindow.cpp:350
+#, c-format
+msgid "January %s\tCtrl-F1"
+msgstr "Urtarrila %s\tCtrl-F1"
+
+#: Application/ControlWindow.cpp:351
+#, c-format
+msgid "February %s\tCtrl-F2"
+msgstr "Otsaila %s\tCtrl-F2"
+
+#: Application/ControlWindow.cpp:352
+#, c-format
+msgid "March %s\tCtrl-F3"
+msgstr "Martxoa %s\tCtrl-F3"
+
+#: Application/ControlWindow.cpp:353
+#, c-format
+msgid "April %s\tCtrl-F4"
+msgstr "Apirila %s\tCtrl-F4"
+
+#: Application/ControlWindow.cpp:354
+#, c-format
+msgid "May %s\tCtrl-F5"
+msgstr "Maiatza %s\tCtrl-F5"
+
+#: Application/ControlWindow.cpp:355
+#, c-format
+msgid "June %s\tCtrl-F6"
+msgstr "Ekaina %s\tCtrl-F6"
+
+#: Application/ControlWindow.cpp:356
+#, c-format
+msgid "July %s\tCtrl-F7"
+msgstr "Uztaila %s\tCtrl-F7"
+
+#: Application/ControlWindow.cpp:357
+#, c-format
+msgid "August %s\tCtrl-F8"
+msgstr "Abuztua %s\tCtrl-F8"
+
+#: Application/ControlWindow.cpp:358
+#, c-format
+msgid "September %s\tCtrl-F9"
+msgstr "Iraila %s\tCtrl-F9"
+
+#: Application/ControlWindow.cpp:359
+#, c-format
+msgid "October %s\tCtrl-F10"
+msgstr "Urria %s\tCtrl-F10"
+
+#: Application/ControlWindow.cpp:360
+#, c-format
+msgid "November %s\tCtrl-F11"
+msgstr "Azaroa %s\tCtrl-F11"
+
+#: Application/ControlWindow.cpp:361
+#, c-format
+msgid "December %s\tCtrl-F12"
+msgstr "Abendua %s\tCtrl-F12"
+
+#: Application/ControlWindow.cpp:363
+msgid "Choose month"
+msgstr "Hilabetea aukeratu"
+
+#: Application/ControlWindow.cpp:365
+#: Application/Resource.h:242
+msgid "Refresh"
+msgstr "Birkargatu"
+
+#: Application/ControlWindow.cpp:366
+msgid "Options..."
+msgstr "Ezarpenak..."
+
+#: Application/ControlWindow.cpp:367
+msgid "Manager..."
+msgstr "Administratzailea..."
+
+#: Application/ControlWindow.cpp:381
+msgid "Exit"
+msgstr "Irten"
+
+#: Application/ControlWindow.cpp:700
+#: Application/ControlWindow.cpp:743
+#: Application/ControlWindow.cpp:764
+#: Application/ItemCalendar.cpp:204
+msgid "*Empty*"
+msgstr "*Hutsik*"
+
+#: Application/ControlWindow.cpp:703
+msgid "This instance"
+msgstr "Instantzia hau"
+
+#: Application/ControlWindow.cpp:704
+msgid "Whole event"
+msgstr "Gertakizun osoa"
+
+#: Application/ControlWindow.cpp:705
+#: Application/DialogOptions.cpp:119
+#: Application/DialogSkinSettings.cpp:36
+#: Application/res/alarm.cpp:5
+#: Application/res/event.cpp:39
+#: Application/res/todo.cpp:64
+msgid "Cancel"
+msgstr "Ezeztatu"
+
+#: Application/ControlWindow.cpp:707
+#: Application/ControlWindow.cpp:745
+msgid "Do you want to delete this item?"
+msgstr "Osagai hau ezabatu nahi al duzu?"
+
+#: Application/ControlWindow.cpp:708
+#, c-format
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance or the whole recurring event."
+msgstr ""
+"Hau gertakari errekurrente bat da:\n"
+"\n"
+"%s\n"
+"\n"
+"Instantzia hau bakarrik edo gertakari errekurrente osoa ezabatu dezakezu."
+
+#: Application/ControlWindow.cpp:758
+msgid "Do you want to delete these items?"
+msgstr "Osagai hauek ezabatu nahi dituzu?"
+
+#: Application/DialogAbout.cpp:47
+#: Application/DialogOptions.cpp:616
+msgid "Version"
+msgstr "Bertsioa"
+
+#: Application/DialogAbout.cpp:55
+msgid "Build on"
+msgstr "Konpilatze data"
+
+#: Application/DialogAbout.cpp:60
+msgid "Developed by"
+msgstr "Garatzailea"
+
+#: Application/DialogAbout.cpp:68
+msgid "Licensed to"
+msgstr "Lizentzia:"
+
+#: Application/DialogAbout.cpp:75
+msgid "Plugins"
+msgstr "Pluginak"
+
+#: Application/DialogAbout.cpp:94
+msgid "Links"
+msgstr "Estekak"
+
+#: Application/DialogAbout.cpp:96
+#: Application/HotkeyControl.cpp:185
+msgid "Home"
+msgstr "Hasiera"
+
+#: Application/DialogAbout.cpp:99
+msgid "FAQ"
+msgstr "FAQ"
+
+#: Application/DialogAbout.cpp:102
+msgid "Forum"
+msgstr "Forua"
+
+#: Application/DialogAbout.cpp:108
+msgid "Icons by"
+msgstr "Ikonoen egilea:"
+
+#: Application/DialogAbout.cpp:118
+msgid "Copyrights"
+msgstr "Kopiright-ak"
+
+#: Application/DialogAbout.cpp:153
+msgid "Please wait..."
+msgstr "Mesedez itxaron..."
+
+#: Application/DialogAbout.cpp:166
+msgid "Unknown response from the server."
+msgstr "Serbitzariaren erantzun ezezaguna."
+
+#: Application/DialogAbout.cpp:197
+#, c-format
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+" %s bertsioa eskuragarri dago.\n"
+"Joan nahi duzu web orrira orain?"
+
+#: Application/DialogAbout.cpp:206
+msgid "No updates available."
+msgstr "Ez daude bertsio berririk."
+
+#: Application/DialogAbout.cpp:215
+msgid "Connection error!"
+msgstr "Konexio errorea!"
+
+#: Application/DialogAbout.cpp:215
+msgid "Unable to connect to the server."
+msgstr "Ezinezkoa da serbitzariarekin konektatzea."
+
+#: Application/DialogAbout.cpp:220
+#: Application/res/about.cpp:1
+msgid "Check for update"
+msgstr "Bertsio berriak bilatu"
+
+#: Application/DialogAlarm.cpp:22
+msgid "Choose Alarm"
+msgstr "Alarma aukeratu"
+
+#: Application/DialogAlarm.cpp:37
+msgid "Sound files (*.wav)|*.wav"
+msgstr "Soinu fitxategiak (*.wav)|*.wav"
+
+#: Application/DialogComponent.cpp:505
+msgid "Are you sure you want to delete this item?"
+msgstr "Osagai hau ezabatu nahi al duzu?"
+
+#: Application/DialogComponent.cpp:581
+msgid "Select the calendars:"
+msgstr "Egutegiak aukeratu:"
+
+#: Application/DialogComponent.cpp:633
+msgid "Select the categories:"
+msgstr "Kategoriak aukeratu:"
+
+#: Application/DialogComponent.cpp:633
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+#: Application/res/event.cpp:16
+#: Application/res/todo.cpp:41
+msgid "Categories"
+msgstr "Kategoriak"
+
+#: Application/DialogComponent.cpp:781
+msgid "Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "Ez da gertakizunarentzat laguntzailerik topatu. Gertakizuna ezin izan da gorde egin."
+
+#: Application/DialogComponent.cpp:1004
+#, c-format
+msgid "On the %s day of the month"
+msgstr "Hilabetearen %s egunean"
+
+#: Application/DialogComponent.cpp:1012
+msgid "first"
+msgstr "lehena"
+
+#: Application/DialogComponent.cpp:1016
+msgid "second"
+msgstr "bigarrena"
+
+#: Application/DialogComponent.cpp:1020
+msgid "third"
+msgstr "hirugarrena"
+
+#: Application/DialogComponent.cpp:1024
+msgid "fourth"
+msgstr "laugarrena"
+
+#: Application/DialogComponent.cpp:1028
+msgid "fifth"
+msgstr "bostgarren"
+
+#: Application/DialogComponent.cpp:1030
+#, c-format
+msgid "On the %s %s of the month"
+msgstr "Hilabetearen %s %sn"
+
+#: Application/DialogComponent.cpp:1037
+#, c-format
+msgid "On the last %s of the month"
+msgstr "Hiabetearen azken %sn"
+
+#: Application/DialogComponent.cpp:1046
+msgid "On the first weekday of the month"
+msgstr "Hilabetearen lehen lan egunean"
+
+#: Application/DialogComponent.cpp:1055
+msgid "On the last weekday of the month"
+msgstr "Hilabetearen azken lan egunean"
+
+#: Application/DialogComponent.cpp:1062
+msgid "On the last day of the month"
+msgstr "Hilabetearen azken egunean"
+
+#: Application/DialogEvent.cpp:52
+#: Application/DialogManager.cpp:955
+#: Application/res/event.cpp:1
+#: Application/res/event.cpp:2
+msgid "Event"
+msgstr "Gertakizuna"
+
+#: Application/DialogEvent.cpp:313
+msgid ""
+"You have created a birthday or anniversary but didn't define any recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Urtebetetze edo urtegun bat sortu duzu, baina ez duzu errekurrentziarik definitu.\n"
+"Gertakizuna urtero errepikatzea nahi al duzu?"
+
+#: Application/DialogManager.cpp:219
+#: Application/DialogManager.cpp:272
+msgid "Choose a file"
+msgstr "Aukeratu fitxategia"
+
+#: Application/DialogManager.cpp:228
+msgid "Import failed!"
+msgstr "Inportazioak hutsegin du!"
+
+#: Application/DialogManager.cpp:280
+#, c-format
+msgid "Exported %i events successfully."
+msgstr "%i gertakari zuzen esportatu dira."
+
+#: Application/DialogManager.cpp:284
+#, c-format
+msgid "Exported %i todo items successfully."
+msgstr "%i eginkizun zuzen esportatu dira."
+
+#: Application/DialogManager.cpp:290
+msgid "Export failed!"
+msgstr "Exportazioak hutsegin du!"
+
+#: Application/DialogManager.cpp:366
+msgid "Do you want to delete the selected item(s)?"
+msgstr "Hurrengo osagaiak ezabatu nahi dituzu?"
+
+#: Application/DialogManager.cpp:475
+#: Application/DialogManager.cpp:667
+msgid "Archive (*.zip)|*.zip"
+msgstr "Konprimatutako fitxategiak (*.zip)|*.zip"
+
+#: Application/DialogManager.cpp:476
+#: Application/DialogManager.cpp:666
+msgid "Choose the backup path"
+msgstr "Segurtasun kopiaren bidea aukeratu"
+
+#: Application/DialogManager.cpp:484
+msgid "Backup was successful."
+msgstr "Babes-kopia arrakastatsua izan da."
+
+#: Application/DialogManager.cpp:485
+msgid "The backup contains these files:"
+msgstr "Babes-kopiak fitxategi hauek hartzen ditu barne:"
+
+#: Application/DialogManager.cpp:501
+#: Application/DialogManager.cpp:710
+msgid "Write error!"
+msgstr "Idazketa errorea!"
+
+#: Application/DialogManager.cpp:501
+msgid "Unable to create the backup file."
+msgstr "Ezin izan da babes-kopia sortu."
+
+#: Application/DialogManager.cpp:692
+msgid "The file already exists:"
+msgstr "Fitxategia existitzen da jadanik:"
+
+#: Application/DialogManager.cpp:695
+msgid "Do you want to overwrite the file?"
+msgstr "Fitxategia gainidatzi nahi al duzu?"
+
+#: Application/DialogManager.cpp:708
+msgid "Unable to overwrite file:"
+msgstr "Ezin izan da fitxategi hau gainidatzi:"
+
+#: Application/DialogManager.cpp:732
+msgid "The archive contains unknown files:\n"
+msgstr "Artxiboak fitxategi ezezagunak ditu barnean:\n"
+
+#: Application/DialogManager.cpp:737
+msgid "Restore was successful."
+msgstr "Berreskurapena arrakastatsua izan da."
+
+#: Application/DialogManager.cpp:946
+#: Application/DialogPrint.cpp:340
+#: Application/HotkeyControl.cpp:183
+msgid "End"
+msgstr "Bukaera"
+
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+msgid "Summary"
+msgstr "Gaia"
+
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+msgid "Recurring"
+msgstr "Errepikapena"
+
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+#: Application/DialogPrint.cpp:312
+msgid "Location"
+msgstr "Tokia"
+
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+#: Application/DialogOptions.cpp:673
+msgid "Description"
+msgstr "Deskribapena"
+
+#: Application/DialogManager.cpp:962
+msgid "New Event..."
+msgstr "Gertakizun berria..."
+
+#: Application/DialogManager.cpp:984
+#: Application/DialogTodo.cpp:45
+#: Application/DialogTodo.cpp:370
+#: Application/res/todo.cpp:1
+#: Application/res/todo.cpp:2
+msgid "Todo"
+msgstr "Eginbeharreko zereginak"
+
+#: Application/DialogManager.cpp:991
+msgid "New Todo..."
+msgstr "Egin beharreko zeregin berria"
+
+#: Application/DialogManager.cpp:1148
+#: Application/res/event.cpp:13
+#: Application/res/event.cpp:19
+#: Application/res/todo.cpp:35
+#: Application/res/todo.cpp:38
+#: Application/res/todo.cpp:44
+msgid "Days"
+msgstr "Egun"
+
+#: Application/DialogManager.cpp:1151
+#: Application/res/event.cpp:20
+#: Application/res/todo.cpp:45
+msgid "Weeks"
+msgstr "Astero"
+
+#: Application/DialogManager.cpp:1154
+#: Application/res/event.cpp:21
+#: Application/res/todo.cpp:46
+msgid "Months"
+msgstr "Hilabetero"
+
+#: Application/DialogManager.cpp:1157
+#: Application/res/event.cpp:22
+#: Application/res/todo.cpp:47
+msgid "Years"
+msgstr "Urtero"
+
+#: Application/DialogManager.cpp:1169
+msgid "Single"
+msgstr "Behin"
+
+#: Application/DialogManager.cpp:1206
+#: Application/DialogSkinSettings.cpp:164
+#: Application/ItemListTodo.cpp:716
+#: Application/res/todo.cpp:10
+#: Application/res/todo.cpp:11
+#: Application/Resource.h:276
+msgid "None"
+msgstr "Bat ere ez"
+
+#: Application/DialogManager.cpp:1210
+#: Application/ItemListTodo.cpp:720
+#: Application/res/todo.cpp:14
+msgid "High"
+msgstr "Altua"
+
+#: Application/DialogManager.cpp:1214
+#: Application/ItemListTodo.cpp:724
+#: Application/res/todo.cpp:13
+msgid "Medium"
+msgstr "Ertaina"
+
+#: Application/DialogManager.cpp:1218
+#: Application/ItemListTodo.cpp:728
+#: Application/res/todo.cpp:12
+msgid "Low"
+msgstr "Baxua"
+
+#: Application/DialogManager.cpp:1244
+#: Application/ItemListTodo.cpp:507
+#: Application/ItemListTodo.cpp:737
+#: Application/ItemListTodo.cpp:1026
+#: Application/res/todo.cpp:19
+msgid "Completed"
+msgstr "Osatua"
+
+#: Application/DialogManager.cpp:1251
+#: Application/ItemListTodo.cpp:510
+#: Application/ItemListTodo.cpp:740
+#: Application/ItemListTodo.cpp:1027
+#: Application/res/todo.cpp:20
+msgid "Cancelled"
+msgstr "Ezeztatua"
+
+#: Application/DialogManager.cpp:1266
+#: Application/ItemListTodo.cpp:504
+#: Application/ItemListTodo.cpp:743
+#: Application/ItemListTodo.cpp:1024
+#: Application/res/todo.cpp:18
+msgid "In Progress"
+msgstr "Progresuan"
+
+#: Application/DialogManager.cpp:1273
+#: Application/ItemListTodo.cpp:514
+#: Application/ItemListTodo.cpp:746
+#: Application/ItemListTodo.cpp:1011
+msgid "Needs Action"
+msgstr "Akzioa behar da"
+
+#: Application/DialogMessage.cpp:76
+msgid "Error"
+msgstr "Errorea"
+
+#: Application/DialogMessage.cpp:80
+msgid "Warning"
+msgstr "Abisua"
+
+#: Application/DialogMessage.cpp:84
+msgid "Question"
+msgstr "Galdera"
+
+#: Application/DialogMessage.cpp:88
+msgid "Information"
+msgstr "Informazioa"
+
+#: Application/DialogMessage.cpp:168
+#: Application/DialogMessage.cpp:176
+#: Application/DialogMessage.cpp:193
+#: Application/DialogMessage.cpp:221
+#: Application/Resource.h:232
+msgid "&OK"
+msgstr "&Ados"
+
+#: Application/DialogMessage.cpp:184
+#: Application/DialogMessage.cpp:213
+msgid "&Yes"
+msgstr "&Bai"
+
+#: Application/DialogMessage.cpp:185
+#: Application/DialogMessage.cpp:217
+msgid "&No"
+msgstr "&Ez"
+
+#: Application/DialogMessage.cpp:225
+#: Application/Resource.h:231
+msgid "&Cancel"
+msgstr "&Ezeztatu"
+
+#: Application/DialogOptions.cpp:43
+#: Application/DialogOptions.cpp:46
+msgid "Options"
+msgstr "Aukerak"
+
+#: Application/DialogOptions.cpp:87
+msgid "Skins"
+msgstr "Azalak"
+
+#: Application/DialogOptions.cpp:90
+#: Application/res/options.cpp:22
+msgid "Hotkeys"
+msgstr "Tekla azkarrak"
+
+#: Application/DialogOptions.cpp:93
+msgid "Advanced"
+msgstr "Aurreratua"
+
+#: Application/DialogOptions.cpp:115
+#: Application/DialogSkinSettings.cpp:33
+#: Application/res/alarm.cpp:4
+#: Application/res/event.cpp:38
+#: Application/res/todo.cpp:63
+msgid "OK"
+msgstr "Onartu"
+
+#: Application/DialogOptions.cpp:283
+msgid "Get more languages..."
+msgstr "Hizkuntza gehiago hartu..."
+
+#: Application/DialogOptions.cpp:450
+msgid "Get more skins..."
+msgstr "Azal gehiago hartu..."
+
+#: Application/DialogOptions.cpp:530
+#: Application/DialogOptions.cpp:775
+#: Application/DialogOptions.cpp:836
+msgid "TrayIcon"
+msgstr "Sistemaren erretilua"
+
+#: Application/DialogOptions.cpp:626
+msgid "Author"
+msgstr "Egilea"
+
+#: Application/DialogOptions.cpp:641
+msgid "Homepage"
+msgstr "Web orria"
+
+#: Application/DialogOptions.cpp:659
+msgid "This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "Hau, Railendaren azal zahar bat da. Ezaugarri batzuk ez ibiltzea izan daiteke."
+
+#: Application/DialogOptions.cpp:669
+msgid "Window"
+msgstr "Leihoa"
+
+#: Application/DialogOptions.cpp:671
+msgid "Variable"
+msgstr "Aldagaia"
+
+#: Application/DialogOptions.cpp:726
+#: Application/res/options.cpp:33
+msgid "Advanced >>>"
+msgstr "Aurreratua >>>"
+
+#: Application/DialogOptions.cpp:730
+msgid "<<< Simple"
+msgstr "<<< Erraza"
+
+#: Application/DialogOptions.cpp:1186
+msgid "Hotkey"
+msgstr "Tekla azkarra"
+
+#: Application/DialogOptions.cpp:1187
+msgid "Function"
+msgstr "Funtzioa"
+
+#: Application/DialogOptions.cpp:1271
+msgid "IMPORTANT! Read the documentation before changing these settings. It's possible to make Rainlendar inoperable if you just randomly change the values. Consider yourself warned!"
+msgstr "GARRANTZISUA!!! Konfigurazioak aldatu baino lehen, irakurri dokumentazioa. Izan daiteke Railendar ez ibiltzea balio hauek aleatorioki aldatu ezkero. Ohartarazia zaude!!!"
+
+#: Application/DialogOptions.cpp:1278
+msgid "Reset All Settings"
+msgstr "Konfigurazio guztiak berriztatu"
+
+#: Application/DialogOptions.cpp:1291
+msgid ""
+"This will reset all settings to default values.\n"
+"The default settings are applied immediately.\n"
+"Do you want to continue?"
+msgstr ""
+"Hau, konfigurazioak hasierako modura aldatuko ditu..\n"
+"Hasierako konfigurazioak bat-batean aplikatzen dira.\n"
+"Jarraitu nahi duzu?"
+
+#: Application/DialogOptions.cpp:1360
+msgid "Common"
+msgstr "Arrunta"
+
+#: Application/DialogOptions.cpp:1361
+#: Application/DialogOptions.cpp:1521
+msgid "Enabled"
+msgstr "Egokitua"
+
+#: Application/DialogOptions.cpp:1362
+#: Application/DialogOptions.cpp:1525
+msgid "Read only"
+msgstr "Irakurri bakarrik"
+
+#: Application/DialogOptions.cpp:1374
+#: Application/DialogOptions.cpp:1529
+msgid "Visual category"
+msgstr "Ikusizko kategoria"
+
+#: Application/DialogPrint.cpp:24
+msgid "Print"
+msgstr "Imprimatu"
+
+#: Application/DialogPrint.cpp:60
+msgid "Print items"
+msgstr "Inprimatzeko gaiak"
+
+#: Application/DialogSkinSettings.cpp:71
+#: Application/DialogSkinSettings.cpp:229
+msgid "Visible"
+msgstr "Ikusizkoa"
+
+#: Application/DialogSkinSettings.cpp:72
+#: Application/DialogSkinSettings.cpp:230
+msgid "Grow upwards"
+msgstr "Gorantza hazi"
+
+#: Application/DialogSkinSettings.cpp:74
+#: Application/DialogSkinSettings.cpp:232
+msgid "Scale"
+msgstr "Eskala"
+
+#: Application/DialogSkinSettings.cpp:80
+msgid "Filters"
+msgstr "Iragazkiak"
+
+#: Application/DialogSkinSettings.cpp:92
+#: Application/DialogSkinSettings.cpp:248
+msgid "Visible calendars"
+msgstr "Egutegi bistaratuak"
+
+#: Application/DialogSkinSettings.cpp:118
+#: Application/DialogSkinSettings.cpp:255
+msgid "Included categories"
+msgstr "Barne hartutako kategoriak"
+
+#: Application/DialogSkinSettings.cpp:129
+#: Application/DialogSkinSettings.cpp:270
+msgid "Excluded categories"
+msgstr "Kanpoan utzitako kategoriak"
+
+#: Application/DialogSkinSettings.cpp:134
+msgid "Variables"
+msgstr "Aldagaiak"
+
+#: Application/DialogSkinSettings.cpp:158
+msgid "Operations"
+msgstr "Ekintzak"
+
+#: Application/DialogSkinSettings.cpp:207
+#: Application/DialogSkinSettings.cpp:290
+msgid "Left click"
+msgstr "Ezker-klik"
+
+#: Application/DialogSkinSettings.cpp:210
+#: Application/DialogSkinSettings.cpp:300
+msgid "Right click"
+msgstr "Eskuin-klik"
+
+#: Application/DialogSkinSettings.cpp:213
+#: Application/DialogSkinSettings.cpp:310
+msgid "Double left click"
+msgstr "Ezker-klik bikoitza"
+
+#: Application/DialogSkinSettings.cpp:216
+#: Application/DialogSkinSettings.cpp:320
+msgid "Double right click"
+msgstr "Eskuin-klik bikoitza"
+
+#: Application/DropTarget.cpp:42
+msgid "skin"
+msgstr "Azala"
+
+#: Application/DropTarget.cpp:47
+msgid "addon"
+msgstr "addon"
+
+#: Application/DropTarget.cpp:53
+msgid "language"
+msgstr "hizkuntza"
+
+#: Application/DropTarget.cpp:61
+msgid "license"
+msgstr "lizentzia"
+
+#: Application/DropTarget.cpp:87
+#, c-format
+msgid "Unknown file \"%s\"."
+msgstr "Fitxategi ezezaguna \"%s\"."
+
+#: Application/DropTarget.cpp:94
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Ezinezkoa da fitxategia kopiatzea. Iturburua destinoaren berdina da."
+
+#: Application/DropTarget.cpp:112
+#, c-format
+msgid ""
+"The skin %s doesn't exist.\n"
+"Unable to merge the addon."
+msgstr ""
+"%s azala ez da existitzen.\n"
+"Ezin izan da addon-a aplikatu."
+
+#: Application/DropTarget.cpp:126
+#, c-format
+msgid ""
+"The %s \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"%s \"%s\"-a jadanik existitzen da.\n"
+"Aldatu nahi duzu?"
+
+#: Application/DropTarget.cpp:154
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Aurreko fitxategia jadanik existitzen da. Gainidatzi nahi duzu?"
+
+#: Application/DropTarget.cpp:192
+#, c-format
+msgid ""
+"The %s was installed successfully!\n"
+"Please refresh (or restart) Rainlendar to see the changes."
+msgstr ""
+"%s-ren instalakuntza bete-betean bukatu da!\n"
+"Mesedez, Rainlendar gaurkotu (edo berrabiarazi) aldakuntzak ikusteko."
+
+#: Application/DropTarget.cpp:197
+#, c-format
+msgid "The %s installation failed!"
+msgstr "%s instalakuntzak huts egin du!"
+
+#: Application/DropTarget.cpp:241
+msgid "Select the calendars for the imported items:"
+msgstr "Egutegiak aukeratu inportatutako osagaientzat:"
+
+#: Application/DropTarget.cpp:257
+msgid ""
+"Import failed.\n"
+"\n"
+"There are no calendars available that are able to store the item."
+msgstr ""
+"Inportazioak huts-egin du.\n"
+"\n"
+"Ez daude egutegirik osagaiak gorde ditzaketenik."
+
+#: Application/DropTarget.cpp:273
+#, c-format
+msgid "Imported %i items successfully."
+msgstr "%i osagai bete-betean inportatu dira."
+
+#: Application/DropTarget.cpp:284
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Gutxienez egutegi bat aukeratu behar duzu inportatutako osagaientzat"
+
+#: Application/DropTarget.cpp:553
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Ezin izan da behin-behineko karpeta bat sortu addon-a aplikatzeko."
+
+#: Application/HotkeyControl.cpp:101
+msgid "Win"
+msgstr "Windows tekla"
+
+#: Application/HotkeyControl.cpp:107
+msgid "Control"
+msgstr "Control"
+
+#: Application/HotkeyControl.cpp:113
+msgid "Alt"
+msgstr "Alt"
+
+#: Application/HotkeyControl.cpp:119
+msgid "Shift"
+msgstr "Mayús"
+
+#: Application/HotkeyControl.cpp:167
+msgid "Back"
+msgstr "Atzera"
+
+#: Application/HotkeyControl.cpp:169
+msgid "Tab"
+msgstr "Tab"
+
+#: Application/HotkeyControl.cpp:171
+msgid "Return"
+msgstr "Return"
+
+#: Application/HotkeyControl.cpp:173
+msgid "Esc"
+msgstr "Esc"
+
+#: Application/HotkeyControl.cpp:175
+msgid "Space"
+msgstr "Space"
+
+#: Application/HotkeyControl.cpp:177
+#: Application/ItemCalendar.cpp:223
+#: Application/res/event.cpp:36
+#: Application/res/event.cpp:37
+#: Application/res/manager.cpp:11
+#: Application/res/todo.cpp:61
+#: Application/res/todo.cpp:62
+msgid "Delete"
+msgstr "Ezabatu"
+
+#: Application/HotkeyControl.cpp:179
+msgid "Page Up"
+msgstr "Page Up"
+
+#: Application/HotkeyControl.cpp:181
+msgid "Page Down"
+msgstr "Page Dowm"
+
+#: Application/HotkeyControl.cpp:187
+msgid "Left"
+msgstr "Ezkerra"
+
+#: Application/HotkeyControl.cpp:189
+msgid "Up"
+msgstr "Gora"
+
+#: Application/HotkeyControl.cpp:191
+msgid "Right"
+msgstr "Eskuma"
+
+#: Application/HotkeyControl.cpp:193
+msgid "Down"
+msgstr "Behera"
+
+#: Application/HotkeyControl.cpp:195
+msgid "Insert"
+msgstr "Txertatu"
+
+#: Application/HotkeyControl.cpp:229
+msgid "NumLock"
+msgstr "BloqNum"
+
+#: Application/HotkeyControl.cpp:231
+msgid "ScrollLock"
+msgstr "Scroll-lokatzea"
+
+#: Application/ItemCalendar.cpp:211
+#, c-format
+msgid "Edit \"%s\""
+msgstr " \"%s\" editatu"
+
+#: Application/ItemCalendar.cpp:217
+msgid "Delete all"
+msgstr "Guztia ezabatu"
+
+#: Application/ItemCalendar.cpp:225
+msgid "Events"
+msgstr "Gertakizunak"
+
+#: Application/ItemListAlarm.cpp:213
+msgid "hour"
+msgstr "ordu"
+
+#: Application/ItemListAlarm.cpp:213
+msgid "hours"
+msgstr "ordu"
+
+#: Application/ItemListAlarm.cpp:221
+msgid "minute"
+msgstr "minutu"
+
+#: Application/ItemListAlarm.cpp:221
+msgid "minutes"
+msgstr "minutu"
+
+#: Application/ItemListAlarm.cpp:230
+msgid "Snooze"
+msgstr "Lo egin"
+
+#: Application/ItemListAlarm.cpp:231
+msgid "Dismiss"
+msgstr "Ezeztatu"
+
+#: Application/ItemListAlarm.cpp:235
+#: Application/ItemListAlarm.cpp:239
+msgid "Edit..."
+msgstr "Editatu..."
+
+#: Application/ItemListEvent.cpp:188
+msgid "Today"
+msgstr "Gaur"
+
+#: Application/ItemListEvent.cpp:192
+msgid "Tomorrow"
+msgstr "Bihar"
+
+#: Application/ItemListEvent.cpp:208
+#: Application/ItemListEvent.cpp:232
+msgid "%1 next week"
+msgstr "%1 hurrengo astean"
+
+#: Application/ItemListEvent.cpp:213
+#: Application/ItemListEvent.cpp:237
+msgid "%1 in %2 weeks"
+msgstr "%1  %2 astetan"
+
+#: Application/ItemListEvent.cpp:396
+msgid "Edit event"
+msgstr "Gertakizuna editatu"
+
+#: Application/ItemListEvent.cpp:397
+msgid "Delete event"
+msgstr "Gertakizuna atzindu"
+
+#: Application/ItemListEvent.cpp:406
+msgid "Event list"
+msgstr "Gertakizunen zerrenda"
+
+#: Application/ItemListTodo.cpp:114
+#, c-format
+msgid "[Due %x]"
+msgstr "[%x-an epea betetzen da]"
+
+#: Application/ItemListTodo.cpp:473
+msgid "No location"
+msgstr "Tokirik ez"
+
+#: Application/ItemListTodo.cpp:481
+msgid "No category"
+msgstr "Kategoriarik gabe"
+
+#: Application/ItemListTodo.cpp:495
+msgid "Unknown"
+msgstr "Ezezaguna"
+
+#: Application/ItemListTodo.cpp:523
+msgid "High Priority"
+msgstr "Lehentasun altua"
+
+#: Application/ItemListTodo.cpp:526
+msgid "Medium Priority"
+msgstr "Lehentasun ertaina"
+
+#: Application/ItemListTodo.cpp:529
+msgid "Low Priority"
+msgstr "Lehentasun baxua"
+
+#: Application/ItemListTodo.cpp:533
+msgid "No Priority"
+msgstr "Lehentasunik gabe"
+
+#: Application/ItemListTodo.cpp:935
+#: Application/ItemListTodo.cpp:946
+msgid "Alphabetically"
+msgstr "Alfabetikoki"
+
+#: Application/ItemListTodo.cpp:936
+#: Application/ItemListTodo.cpp:947
+msgid "By Category"
+msgstr "Mailaka"
+
+#: Application/ItemListTodo.cpp:937
+#: Application/ItemListTodo.cpp:948
+msgid "By Due Date"
+msgstr "Epea betetzen den datagaitik"
+
+#: Application/ItemListTodo.cpp:938
+#: Application/ItemListTodo.cpp:949
+msgid "By Start Date"
+msgstr "Hasiera datagaitik"
+
+#: Application/ItemListTodo.cpp:939
+#: Application/ItemListTodo.cpp:950
+msgid "By Status"
+msgstr "Egoeragaitik"
+
+#: Application/ItemListTodo.cpp:940
+#: Application/ItemListTodo.cpp:951
+msgid "By Priority"
+msgstr "Lehentasunagaitik"
+
+#: Application/ItemListTodo.cpp:941
+#: Application/ItemListTodo.cpp:952
+msgid "By Location"
+msgstr "Tokiaren arabera"
+
+#: Application/ItemListTodo.cpp:942
+#: Application/ItemListTodo.cpp:953
+msgid "By Calendar"
+msgstr "Egutegiaren arabera"
+
+#: Application/ItemListTodo.cpp:943
+#: Application/ItemListTodo.cpp:954
+msgid "Custom"
+msgstr "Pertsonalizatua"
+
+#: Application/ItemListTodo.cpp:983
+msgid "Primary sort order"
+msgstr "Lehenengo antolatze-kriterioa"
+
+#: Application/ItemListTodo.cpp:984
+msgid "Secondary sort order"
+msgstr "Bigarren antolatze-kriterioa"
+
+#: Application/ItemListTodo.cpp:1045
+msgid "Edit task"
+msgstr "Betebeharra editatu"
+
+#: Application/ItemListTodo.cpp:1046
+msgid "Delete task"
+msgstr "Betebeharra ezabatu"
+
+#: Application/ItemListTodo.cpp:1056
+msgid "Hide completed tasks"
+msgstr "Bukatutako betebeharrak ezkutatu"
+
+#: Application/ItemListTodo.cpp:1061
+msgid "Hide upcoming tasks"
+msgstr "Gertuko eginkizunak ezkutatu"
+
+#: Application/ItemListTodo.cpp:1067
+msgid "Todo list"
+msgstr "Egin gabeko betebeharren zerrenda"
+
+#: Application/ItemListTooltip.cpp:56
+msgid "No events today."
+msgstr "Gaur ez dago gertakizunik."
+
+#: Application/ItemListTooltip.cpp:78
+msgid "Today's events:"
+msgstr "Gaurko gertakizunak:"
+
+#: Application/Rainlendar.cpp:105
+msgid "allow multiple instances"
+msgstr "ekinaldi anitzak onartu"
+
+#: Application/Rainlendar.cpp:106
+msgid "install a skin or a language"
+msgstr "Azal edo hizkuntza bat instalatu"
+
+#: Application/Rainlendar.cpp:107
+msgid "import the given file"
+msgstr "emandako fitxategia inportatu"
+
+#: Application/Rainlendar.cpp:108
+msgid "path where the configuration file will be stored"
+msgstr "konfigurazio fitxatega gordeko den tokia"
+
+#: Application/Rainlendar.cpp:109
+msgid "execute the given function in a script"
+msgstr "emandako funtzioa exekutatu script batean"
+
+#: Application/Rainlendar.cpp:110
+msgid "path where the log file will be stored"
+msgstr "erregistro (log) fitxategia gordeko den tokia"
+
+#: Application/Rainlendar.cpp:111
+msgid "path where the backups will be stored"
+msgstr "babes-kopiak gordeko diren tokia"
+
+#: Application/Rainlendar.cpp:112
+msgid "enable verbose logging"
+msgstr "erregisto (log) zehatza aktibatu"
+
+#: Application/Rainlendar.cpp:113
+msgid "enable debug logging"
+msgstr "depurazio erregirstroa (log) aktibatu"
+
+#: Application/Rainlendar.cpp:304
+#, c-format
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Ezin izan da konfigurazio-fitxategia sortu:\n"
+"\n"
+"%s\n"
+"\n"
+"Egiaztatu itzazu direktorioaren idazte-baimenak."
+
+#: Application/Rainlendar.cpp:313
+#, c-format
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s"
+msgstr ""
+"Ezin da konfigurazio-fitxategian idatzi:\n"
+"\n"
+"%s"
+
+#: Application/Rainlendar.cpp:385
+#, c-format
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr "%s tokiko baliabideak ezin dira kargatu."
+
+#: Application/Rainlendar.cpp:634
+msgid ""
+"Rainlendar was not able to refresh the settings correctly.\n"
+"Do you want to reset all settings and try again?\n"
+"(Select \"No\" to open Rainlendar with old settings)"
+msgstr ""
+"Rainlendar ezin izan ditu konfigurazioak ongi egunerotu.\n"
+"Konfigutazio guztiak berriztatu nahi dituzu eta berriro saiatu?\n"
+"(Aukeratu  \"Ez\" Rainlendar aurreko konfigurazioarekin zabaltzeko)"
+
+#: Application/Rainlendar.cpp:648
+#, c-format
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Toki honetan ez daude azalik:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:663
+msgid ""
+"Rainlendar was not able to load the selected skin.\n"
+"Do you want to use the default skin instead?"
+msgstr ""
+"Rainlendar ezin izan du aukeratutako azala kargatu.\n"
+"Defektuzko azala erabili nahi duzu kasu honetan?"
+
+#: Application/Rainlendar.cpp:676
+msgid "Unable to load the skin. Check the log for more details."
+msgstr "Ezin da azala kargatu.Zeahaztapen gehiagorako erregistroko fitxategia ikusi."
+
+#: Application/Rainlendar.cpp:701
+msgid "True"
+msgstr "Egia"
+
+#: Application/Rainlendar.cpp:701
+msgid "False"
+msgstr "Gezurra"
+
+#: Application/Rainlendar.cpp:952
+msgid ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+msgstr ""
+"Lizentziako fitxategian zenbait arazo dagoela dirudi.\n"
+"Mesedez, baieztatu deskarga URL-a egokia dela eta berriro saiatu.."
+
+#: Application/Rainlendar.cpp:1227
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Railendar-en fitxategi zahar hauek aurkitu dira:\n"
+"\n"
+
+#: Application/Rainlendar.cpp:1234
+msgid "Do you want to import them?"
+msgstr "Inportatu nahi dituzu?"
+
+#: Application/Rainlendar.cpp:1256
+#, c-format
+msgid "Import failed with file: \"%s\""
+msgstr "Inportazioa fitxategi honekin huts egin du: \"%s\""
+
+#: Application/SkinIni.cpp:283
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 0 to 11 for a specific month in the current year."
+msgstr "Egutegiak erakusten duen hilabetea defini ezazu. +1 hurrengo hilabeterako, -1 aurreko hilabeterako edo 0tik 11rako balio bat, aurtengo hilabete jakin bat erakusteko."
+
+#: Application/SkinIni.cpp:476
+msgid "Defines the width of the event list."
+msgstr "Gertakizun zerrendaren zabalera defini ezazu."
+
+#: Application/SkinIni.cpp:477
+msgid "Defines the width of the todo list."
+msgstr "Egin beharreko zerrendaren zabalera defini ezazu."
+
+#: Application/SkinManager.cpp:87
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Ezin izan dira azal aktiboak aurkitu.\n"
+"Onartu ezkero, lehen azal erabilgarria kargatuko da."
+
+#: Application/SkinManager.cpp:92
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"Azalak ez du leiho aktiborik.\n"
+"Defektuzko leihoak erabiliko dira kasu honetan."
+
+#: Application/SkinManager.cpp:97
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Azala ez da existitzen.\n"
+"Onartu ezkero lehen azal erabilgarria kargatuko da."
+
+#: Application/Util.cpp:966
+msgid "January"
+msgstr "Urtarrila"
+
+#: Application/Util.cpp:968
+msgid "February"
+msgstr "Otsaila"
+
+#: Application/Util.cpp:970
+msgid "March"
+msgstr "Martxoa"
+
+#: Application/Util.cpp:972
+msgid "April"
+msgstr "Apirila"
+
+#: Application/Util.cpp:974
+msgid "May"
+msgstr "Maiatza"
+
+#: Application/Util.cpp:976
+msgid "June"
+msgstr "Ekaina"
+
+#: Application/Util.cpp:978
+msgid "July"
+msgstr "Uztaila"
+
+#: Application/Util.cpp:980
+msgid "August"
+msgstr "Abuztua"
+
+#: Application/Util.cpp:982
+msgid "September"
+msgstr "Iraila"
+
+#: Application/Util.cpp:984
+msgid "October"
+msgstr "Urria"
+
+#: Application/Util.cpp:986
+msgid "November"
+msgstr "Azaroa"
+
+#: Application/Util.cpp:988
+msgid "December"
+msgstr "Abendua"
+
+#: Application/Util.cpp:2009
+#, c-format
+msgid "%ith"
+msgstr "%.garren"
+
+# These are the the exceptions to the ordinal numbers. The numeric value in the exceptions is checked with the ordinal number and if the last numbers match the exception format is used instead of the normal format. For example "11th" will match with 11, 111, 211, 311, etc. The "1st" will match with 1, 21, 31, ..., 101, 121, 131, etc. Note that "1st" will not be used with 11, 111, 211, etc. because the "11th" was checked and matched first.
+#: Application/Util.cpp:2010
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11.garren;1.go"
+
+#: Application/WizardCalendar.cpp:22
+#: Application/WizardCalendar.cpp:27
+msgid "Create a new calendar"
+msgstr "Egutegi berria sortu"
+
+#: Application/WizardPageCalendar.cpp:33
+msgid "Please select the type of the calendar."
+msgstr "Mesedez zehaztu egutegi mota bat."
+
+#: Application/WizardPageCalendar.cpp:42
+msgid "Type"
+msgstr "Mota"
+
+#: Application/WizardPageCalendar.cpp:68
+msgid ""
+"The calendar type defines the format of the events\n"
+"and where they are stored."
+msgstr ""
+"Egutegiaren mota, gertakizunen formatua \n"
+"eta non gordeko diren definitzen du."
+
+#: Application/WizardPageCalendar.cpp:97
+msgid "You need to select a calendar type!"
+msgstr "Egutegi mota aukeratu behar duzu!"
+
+#: Application/WizardPageCalendar.cpp:184
+#: Application/res/alarm.cpp:3
+msgid "Browse..."
+msgstr "Aztertu..."
+
+#: Application/WizardPageCalendar.cpp:263
+msgid "Only local files can be defined as the file name."
+msgstr "Fitxategiaren izen bezala, fitxategi lokalak soilik izan daitezke definituak."
+
+#: Application/WizardPageCalendar.cpp:269
+msgid ""
+"It's not possible to use UNC paths as the file name.\n"
+"You need to map the network drive to be able to access the files on a server."
+msgstr ""
+"Ezin dira UNC bideak erabili fitxategi izen moduan.\n"
+"Sare unitate bat mapeatzea beharrezkoa da serbitzari batean fitxategi horietara iristeko."
+
+#: Application/WizardPageCalendar.cpp:377
+msgid "Please choose a name for the the calendar."
+msgstr "Mesedez, aukeratu izen bat egutegiarentzat."
+
+#: Application/WizardPageCalendar.cpp:385
+msgid "Name"
+msgstr "Izena"
+
+#: Application/WizardPageCalendar.cpp:423
+msgid ""
+"The calendar with the same name already exists.\n"
+"Please use some other name."
+msgstr ""
+"Iadanik egutegi bat dago izen berdinarekin.\n"
+"Mesedez, erabili ezazu beste izen bat."
+
+#: Application/WizardPageCalendar.cpp:430
+msgid "You need to give some name for the calendar."
+msgstr "Egutegiari izen bat eman behar diozu."
+
+#: Application/res/about.cpp:2
+#: Application/res/manager.cpp:8
+#: Application/res/manager.cpp:15
+#: Application/res/print.cpp:10
+msgid "Close"
+msgstr "Itxi"
+
+#: Application/res/alarm.cpp:1
+msgid "Alarm sound"
+msgstr "Alarmaren soinua"
+
+#: Application/res/alarm.cpp:2
+msgid "Select the sound file for the alarm"
+msgstr "Alarmarentzat soinu fitxategia aukeratu"
+
+#: Application/res/event.cpp:3
+#: Application/res/todo.cpp:3
+msgid "Summary:"
+msgstr "Gaia:"
+
+#: Application/res/event.cpp:4
+#: Application/res/todo.cpp:4
+msgid "Location:"
+msgstr "Tokia:"
+
+#: Application/res/event.cpp:5
+#: Application/res/todo.cpp:5
+msgid "Private"
+msgstr "Pribatua"
+
+#: Application/res/event.cpp:6
+#: Application/res/todo.cpp:6
+msgid "Start time:"
+msgstr "Hasiera ordua:"
+
+#: Application/res/event.cpp:7
+msgid "All day event"
+msgstr "Egun guztirako gertakizuna"
+
+#: Application/res/event.cpp:8
+msgid "End time:"
+msgstr "Bukaera ordua:"
+
+#: Application/res/event.cpp:10
+#: Application/res/event.cpp:11
+#: Application/res/todo.cpp:36
+msgid "Minutes"
+msgstr "Minutu"
+
+#: Application/res/event.cpp:12
+#: Application/res/todo.cpp:37
+msgid "Hours"
+msgstr "Ordu"
+
+#: Application/res/event.cpp:14
+msgid "before the event starts."
+msgstr "gertakizuna hasi baino lehen."
+
+#: Application/res/event.cpp:17
+#: Application/res/todo.cpp:42
+msgid "Recurrence"
+msgstr "Errepikapenak"
+
+#: Application/res/event.cpp:18
+#: Application/res/todo.cpp:43
+msgid "Repeat every"
+msgstr "Errepikapena"
+
+#: Application/res/event.cpp:23
+#: Application/res/todo.cpp:48
+msgid "Mon"
+msgstr "Astel"
+
+#: Application/res/event.cpp:24
+#: Application/res/todo.cpp:49
+msgid "Tue"
+msgstr "Astear"
+
+#: Application/res/event.cpp:25
+#: Application/res/todo.cpp:50
+msgid "Wed"
+msgstr "Asteaz"
+
+#: Application/res/event.cpp:26
+#: Application/res/todo.cpp:51
+msgid "Thu"
+msgstr "Osteg"
+
+#: Application/res/event.cpp:27
+#: Application/res/todo.cpp:52
+msgid "Fri"
+msgstr "Osti"
+
+#: Application/res/event.cpp:28
+#: Application/res/todo.cpp:53
+msgid "Sat"
+msgstr "Lar"
+
+#: Application/res/event.cpp:29
+#: Application/res/todo.cpp:54
+msgid "Sun"
+msgstr "Igan"
+
+#: Application/res/event.cpp:30
+#: Application/res/todo.cpp:55
+msgid "Repeat"
+msgstr "Errepikatu"
+
+#: Application/res/event.cpp:31
+#: Application/res/todo.cpp:56
+msgid "Forever"
+msgstr "Betirako"
+
+#: Application/res/event.cpp:32
+#: Application/res/todo.cpp:57
+msgid "Number of times"
+msgstr "Zenbat aldi"
+
+#: Application/res/event.cpp:33
+#: Application/res/todo.cpp:58
+msgid "Until"
+msgstr ""
+"bukaera\n"
+"data:"
+
+#: Application/res/event.cpp:34
+#: Application/res/todo.cpp:59
+msgid "Exception dates"
+msgstr "Data hauek izan ezik"
+
+#: Application/res/event.cpp:35
+#: Application/res/options.cpp:26
+#: Application/res/todo.cpp:60
+msgid "Add"
+msgstr "Gehitu"
+
+#: Application/res/manager.cpp:2
+msgid "File"
+msgstr "Fitxategia"
+
+#: Application/res/manager.cpp:3
+msgid "Import"
+msgstr "Inportatu"
+
+#: Application/res/manager.cpp:4
+msgid "Export"
+msgstr "Exportatu"
+
+#: Application/res/manager.cpp:5
+#: Application/res/print.cpp:9
+msgid "Print..."
+msgstr "Imprimatu..."
+
+#: Application/res/manager.cpp:6
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:240
+msgid "Backup"
+msgstr "Segurtasun kopia"
+
+#: Application/res/manager.cpp:7
+msgid "Restore"
+msgstr "Berreskuratu"
+
+#: Application/res/manager.cpp:9
+msgid "New"
+msgstr "Berria"
+
+#: Application/res/manager.cpp:10
+msgid "Edit"
+msgstr "Editatu"
+
+#: Application/res/manager.cpp:12
+msgid "Show events"
+msgstr "Gertakizunak erakutsi"
+
+#: Application/res/manager.cpp:13
+msgid "Show todo items"
+msgstr "Egin beharreko eginkizunen osagaiak erakutsi"
+
+#: Application/res/manager.cpp:14
+msgid "Search:"
+msgstr "Bilatu:"
+
+#: Application/res/options.cpp:2
+msgid "Week's start day:"
+msgstr "Asteko lehen eguna:"
+
+#: Application/res/options.cpp:3
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Gaurko gertakizunak Railendar hasterakoan erakutsi sistemaren erretiluan"
+
+#: Application/res/options.cpp:4
+msgid "Add years to birthdays and anniversaries"
+msgstr "Urtea erantsi urtebetetze eta urteurrenei"
+
+#: Application/res/options.cpp:5
+msgid "Hide windows if there are no items"
+msgstr "Osagairik ez badago, leihoak ezkutatu"
+
+#: Application/res/options.cpp:6
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Klik-ei kasurik ez egin (Shift zapalduta mantendu ezaktibatzeko)"
+
+#: Application/res/options.cpp:7
+msgid "Lock windows in place"
+msgstr "Leihoak toki honetan blokatu"
+
+#: Application/res/options.cpp:8
+msgid "Enable on startup"
+msgstr "Hasterakoan aktibatu"
+
+#: Application/res/options.cpp:9
+msgid "Language:"
+msgstr "Hizkuntza:"
+
+#: Application/res/options.cpp:10
+msgid "Position"
+msgstr "Tokia"
+
+#: Application/res/options.cpp:11
+msgid "On Top"
+msgstr "Beti ikusgai"
+
+#: Application/res/options.cpp:12
+msgid "Normal"
+msgstr "Normala"
+
+#: Application/res/options.cpp:13
+msgid "On Bottom"
+msgstr "Leiho guztien azpian"
+
+#: Application/res/options.cpp:14
+msgid "On Desktop"
+msgstr "Idazmahaian"
+
+#: Application/res/options.cpp:15
+msgid "Transparency"
+msgstr "Gardentasuna"
+
+#: Application/res/options.cpp:16
+msgid "Normal:"
+msgstr "Normala:"
+
+#: Application/res/options.cpp:17
+msgid "Mouse over:"
+msgstr "Mousea pasatzerakoan:"
+
+#: Application/res/options.cpp:19
+msgid "Add..."
+msgstr "Gehitu..."
+
+#: Application/res/options.cpp:20
+#: Application/res/options.cpp:27
+msgid "Remove"
+msgstr "Kendu"
+
+#: Application/res/options.cpp:21
+msgid "Settings"
+msgstr "Aukerak"
+
+#: Application/res/options.cpp:23
+msgid "Action:"
+msgstr "Akzioa:"
+
+#: Application/res/options.cpp:24
+msgid "Hotkey:"
+msgstr "Tekla azkarra:"
+
+#: Application/res/options.cpp:25
+msgid "Set"
+msgstr "Finkatu"
+
+#: Application/res/options.cpp:28
+msgid "Available skins"
+msgstr "Azal erabilgarriak"
+
+#: Application/res/options.cpp:29
+msgid "-->"
+msgstr "=>"
+
+#: Application/res/options.cpp:30
+msgid "<--"
+msgstr "<="
+
+#: Application/res/options.cpp:31
+msgid "Active skins"
+msgstr "Azal aktiboak"
+
+#: Application/res/options.cpp:32
+msgid "Settings..."
+msgstr "Aukerak..."
+
+#: Application/res/options.cpp:34
+msgid "Details"
+msgstr "Xehetasunak"
+
+#: Application/res/print.cpp:1
+msgid "All items"
+msgstr "Osagai guztiak"
+
+#: Application/res/print.cpp:2
+msgid "Selected items"
+msgstr "Aukeratutako osagaiak"
+
+#: Application/res/print.cpp:3
+msgid "Day range"
+msgstr "Egun multzoa"
+
+#: Application/res/print.cpp:4
+msgid "Select days"
+msgstr "Egunak aukeratu"
+
+#: Application/res/print.cpp:5
+msgid "From:"
+msgstr "Noren partez:"
+
+#: Application/res/print.cpp:6
+msgid "To:"
+msgstr "Norentzat:"
+
+#: Application/res/print.cpp:7
+msgid "Add title"
+msgstr "Izenburua ezarri"
+
+#: Application/res/print.cpp:8
+msgid "Preview..."
+msgstr "Aurreikusi:"
+
+#: Application/res/todo.cpp:7
+msgid "Due time:"
+msgstr "Epemuga data:"
+
+#: Application/res/todo.cpp:8
+msgid "Show in calendar"
+msgstr "Egutegian erakutsi"
+
+#: Application/res/todo.cpp:9
+msgid "Priority:"
+msgstr "Lehentasuna:"
+
+#: Application/res/todo.cpp:15
+msgid "Status:"
+msgstr "Egoera:"
+
+#: Application/res/todo.cpp:16
+#: Application/res/todo.cpp:17
+msgid "Not Started"
+msgstr "Hasiarazi gabea"
+
+#: Application/res/todo.cpp:21
+msgid "Progress:"
+msgstr "Progresioa:"
+
+#: Application/res/todo.cpp:22
+#: Application/res/todo.cpp:23
+msgid "0 %"
+msgstr "% 0"
+
+#: Application/res/todo.cpp:24
+msgid "10 %"
+msgstr "% 10"
+
+#: Application/res/todo.cpp:25
+msgid "20 %"
+msgstr "% 20"
+
+#: Application/res/todo.cpp:26
+msgid "30 %"
+msgstr "% 30"
+
+#: Application/res/todo.cpp:27
+msgid "40 %"
+msgstr "% 40"
+
+#: Application/res/todo.cpp:28
+msgid "50 %"
+msgstr "% 50"
+
+#: Application/res/todo.cpp:29
+msgid "60 %"
+msgstr "% 60"
+
+#: Application/res/todo.cpp:30
+msgid "70 %"
+msgstr "% 70"
+
+#: Application/res/todo.cpp:31
+msgid "80 %"
+msgstr "% 80"
+
+#: Application/res/todo.cpp:32
+msgid "90 %"
+msgstr "% 90"
+
+#: Application/res/todo.cpp:33
+msgid "100 %"
+msgstr "% 100"
+
+#: Application/res/todo.cpp:39
+msgid "before the task is due."
+msgstr "gertakizunaren epemuga igaro baino lehen."
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:215
+#: Application/Resource.h:293
+msgid "Calendar"
+msgstr "Egutegia"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:219
+msgid "Email"
+msgstr "E-posta"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:223
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:232
+msgid "Password"
+msgstr "Pasa-hitza"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:227
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:236
+#: Plugins/OutlookPlugin/MapiHandler.cpp:406
+msgid "Poll frequency"
+msgstr "Kontsulta maiztasuna"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:231
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:244
+msgid "Suppress errors"
+msgstr "Okerrak ezabatu"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:235
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:248
+msgid "Keep offline copy"
+msgstr "Kopia bat gorde offline"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:270
+msgid ""
+"Choose the name of the calendar, email and password for your Google account.\n"
+"You can also leave the calendar field empty if you only have a one calendar."
+msgstr ""
+"Zure Google kontuaren egutegiaren izena, e-posta eta pasahitza hautatu.\n"
+"Egutegi bakarra badaukazu, hutsik utz dezakezu egutegiaren eremua."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:408
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google errorea!\n"
+"Ezin izan da Googlen identifikatu.\n"
+"Zerbitzariak ondoko hau erantzun du: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:547
+#: Plugins/GooglePlugin/GoogleThread.cpp:1126
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google errorea!\n"
+"Ezin izan da dira egutegiak deskargatu.\n"
+"Zerbitzariak ondoko hau erantzun du: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:626
+msgid ""
+"Google Error!\n"
+"Unable to parse the calendar url."
+msgstr ""
+"Google errorea!\n"
+"Ezin izan da egutegiaren url-a aztertu."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:650
+msgid ""
+"Google Error!\n"
+"Unable to find the chosen calendar.\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Google Errorea!\n"
+"Ezin izan da hautatutako egutegia aurkitu.\n"
+"\n"
+"Egutegi eskuragarriak:\n"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:750
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to delete the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google errorea!\n"
+"Ezin izan da gertakaria ezabatu.\n"
+"Zerbitzariak ondoko hau erantzun du: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:942
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to upload the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google errorea!\n"
+"Ezin izan da gertakaria bidali.\n"
+"Zerbitzariak ondoko hau erantzun du: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:1107
+msgid ""
+"Google Error!\n"
+"Unable to parse the events."
+msgstr ""
+"Google Errorea!\n"
+"Ezin izan dira gertakizunak aztertu."
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:588
+msgid "Filename"
+msgstr "Fitxategia"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:594
+msgid "Monitor changes"
+msgstr "Aldaketak gainbegiratu"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:641
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a new file will be created."
+msgstr ""
+"Egutegiarentzat fitxategi bat aukeratu.\n"
+"\n"
+"ICS fitxategi bat aukeratu dezakezu edo bide berri bat digitalizatu fitxategi berri bat sortzeko."
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:224
+msgid "URL"
+msgstr "URL"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:228
+msgid "Username"
+msgstr "Erabiltzailearen izena"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:252
+msgid "Safe upload"
+msgstr "Igortze segurua"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:289
+msgid ""
+"Choose an URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Aukeratu URL bat, erabiltzaile bat eta pasa-hitz bat aukeratu.\n"
+"\n"
+"URL-ak, HTTP, HTTPS eta FTP protokoloak erabili ditzake. Erabiltzaile eta pasa-hitza eremuak zuriz gera daitezke beharrezkoa izan ezkero."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:585
+#, c-format
+msgid ""
+"Network Error!\n"
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+"Sare errorea!\n"
+"Errore bat gertatu da URL-etik datuak deskargatzean:\n"
+"%s\n"
+"\n"
+"Zerbitzariak ondoko hau erantzun du: %i %s."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:846
+#, c-format
+msgid ""
+"Network Error!\n"
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+"Sare errorea!\n"
+"Errore bat gertatu da URL-era datuak igortzean:\n"
+"%s\n"
+"\n"
+"Zerbitzariak ondoko hau erantzun du: %i %s."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:122
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library."
+msgstr ""
+"Outlook Errorea!\n"
+"Ezin izan da MAPI liburutegia hasieratu."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:321
+#: Plugins/OutlookPlugin/MapiHandler.cpp:479
+#: Plugins/OutlookPlugin/MapiHandler.cpp:493
+msgid "Application"
+msgstr "Aplicazioa"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:336
+#: Plugins/OutlookPlugin/MapiHandler.cpp:500
+msgid "Profile"
+msgstr "Profila"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:351
+#: Plugins/OutlookPlugin/MapiHandler.cpp:506
+msgid "MessageStore"
+msgstr "Mezu biltegiratze"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:366
+msgid "Folders"
+msgstr "Direktorioak"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:386
+msgid "Import Alarms"
+msgstr "Alarmak inportatu"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:391
+msgid "Use labels instead of categories"
+msgstr "Etiketak erabili kategorien ordez"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:396
+msgid "Show edit links"
+msgstr "Editatzeko estekak erakutsi"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:401
+msgid "Keep MAPI connection alive"
+msgstr "MAPI konexioa bizirik mantendu"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:545
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Outlook-en Railendar zein karpetatan ikusi nahi duzun aukeratu."
+
+#: Plugins/OutlookPlugin/MapiItem.cpp:346
+#, c-format
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][edit]]"
+
+#: Application/Resource.h:229
+msgid "Yes"
+msgstr "Bai"
+
+#: Application/Resource.h:230
+msgid "No"
+msgstr "Ez"
+
+#: Application/Resource.h:234
+msgid "Make a selection:"
+msgstr "Hautatu:"
+
+#: Application/Resource.h:236
+msgid "Hide Windows"
+msgstr "Leihoak ezkutatu"
+
+#: Application/Resource.h:237
+msgid "Show Windows"
+msgstr "Leihoak erakutsi"
+
+#: Application/Resource.h:238
+msgid "Toggle Windows"
+msgstr "Leihoak elkartrukatu"
+
+#: Application/Resource.h:239
+msgid "Next Month"
+msgstr "Hurrengo hilabetea"
+
+#: Application/Resource.h:240
+msgid "Previous Month"
+msgstr "Aurreko hilabetea"
+
+#: Application/Resource.h:241
+msgid "Current Month"
+msgstr "Oraingo Hilabetea"
+
+#: Application/Resource.h:243
+msgid "Create New Task"
+msgstr "Eginkizun berria sortu"
+
+#: Application/Resource.h:244
+msgid "Create New Event"
+msgstr "Gertakizun berria sortu"
+
+#: Application/Resource.h:246
+msgid "Anniversary"
+msgstr "Urteurrena"
+
+#: Application/Resource.h:247
+msgid "Birthday"
+msgstr "Urteguna"
+
+#: Application/Resource.h:248
+msgid "Business"
+msgstr "Negozioak"
+
+#: Application/Resource.h:249
+msgid "Calls"
+msgstr "Deiak"
+
+#: Application/Resource.h:250
+msgid "Clients"
+msgstr "Bezeroak"
+
+#: Application/Resource.h:251
+msgid "Competition"
+msgstr "Lehiaketa"
+
+#: Application/Resource.h:252
+msgid "Customer"
+msgstr "Bezeroa"
+
+#: Application/Resource.h:253
+msgid "Exam"
+msgstr "Azterketa"
+
+#: Application/Resource.h:254
+msgid "Favorites"
+msgstr "Gogokoenak"
+
+#: Application/Resource.h:255
+msgid "Follow Up"
+msgstr "Jarraitu"
+
+#: Application/Resource.h:256
+msgid "Gifts"
+msgstr "Opariak"
+
+#: Application/Resource.h:257
+msgid "Holidays"
+msgstr "Oporrak"
+
+#: Application/Resource.h:258
+msgid "Ideas"
+msgstr "Ideiak"
+
+#: Application/Resource.h:259
+msgid "Important"
+msgstr "Garrantzitsua"
+
+#: Application/Resource.h:260
+msgid "Issues"
+msgstr "Gaiak"
+
+#: Application/Resource.h:261
+msgid "Miscellaneous"
+msgstr "Nahaste-borrasteak"
+
+#: Application/Resource.h:262
+msgid "Personal"
+msgstr "Pertsonala"
+
+#: Application/Resource.h:263
+msgid "Projects"
+msgstr "Projektuak"
+
+#: Application/Resource.h:264
+msgid "Public Holiday"
+msgstr "Jai eguna"
+
+#: Application/Resource.h:266
+msgid "Suppliers"
+msgstr "Hornitzaileak"
+
+#: Application/Resource.h:267
+msgid "Travel"
+msgstr "Bidaia"
+
+#: Application/Resource.h:268
+msgid "Trip"
+msgstr "Ateraldia"
+
+#: Application/Resource.h:269
+msgid "TV"
+msgstr "Telebista"
+
+#: Application/Resource.h:270
+msgid "Vacation"
+msgstr "Oporrak"
+
+#: Application/Resource.h:271
+msgid "Work"
+msgstr "Lana"
+
+#: Application/Resource.h:272
+msgid "Medical"
+msgstr "Osasuna"
+
+#: Application/Resource.h:274
+msgid "Urgent"
+msgstr "Premiazkoa"
+
+#: Application/Resource.h:277
+msgid "Must Attend"
+msgstr "Arduratu behar"
+
+#: Application/Resource.h:278
+msgid "Travel Required"
+msgstr "Bidaiatu Behar"
+
+#: Application/Resource.h:279
+msgid "Needs Preparation"
+msgstr "Preparazioa behar du"
+
+#: Application/Resource.h:280
+msgid "Phone Call"
+msgstr "Telefono Deia"
+
+#: Application/Resource.h:282
+msgid "iCalendar Format"
+msgstr "iCalendar Formatua"
+
+#: Application/Resource.h:283
+msgid "Network Shared Calendar"
+msgstr "Sarean Elkarbanatutako Egutegia"
+
+#: Application/Resource.h:284
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+#: Application/Resource.h:285
+msgid "Rainlendar Ini Format"
+msgstr "Rainlendar Ini Formatua"
+
+#: Application/Resource.h:286
+msgid "Google Calendar"
+msgstr "Google Egutegia"
+
+#: Application/Resource.h:288
+msgid "&Next >"
+msgstr "&Hurrengoa >"
+
+#: Application/Resource.h:289
+msgid "< &Back"
+msgstr "< &Atzera"
+
+#: Application/Resource.h:290
+msgid "&Finish"
+msgstr "&Bukatu"
+
+#: Application/Resource.h:292
+msgid "Vertical Calendar"
+msgstr "Egutegi bertikala"
+
+#: Application/Resource.h:294
+msgid "Year Calendar"
+msgstr "Urte-egutegia"
+
+#: Application/Resource.h:295
+msgid "Sidebar"
+msgstr "Alboko barra"
+
+#: Application/Resource.h:296
+msgid "DigiClock"
+msgstr "OrdulariDigitala"
+
+#: Application/Resource.h:297
+msgid "Dual Calendar"
+msgstr "Egutegi bikoitza"
+
+#: Application/Resource.h:298
+msgid "Event List"
+msgstr "Gertakizun-zerrenda"
+
+#: Application/Resource.h:299
+msgid "Todo List"
+msgstr "Eginkizunen zerrenda"
+
+#: Application/Resource.h:301
+#: Application/Resource.h:308
+msgid "Visible month"
+msgstr "Bistako hilabetea"
+
+#: Application/Resource.h:302
+msgid "Show buttons"
+msgstr "Botoiak erakutsi"
+
+#: Application/Resource.h:303
+msgid "Show adjacent days"
+msgstr "Aldameneko egunak erakutsi"
+
+#: Application/Resource.h:304
+msgid "Eventlist width"
+msgstr "Gertakizun-zerrendaren zabalera"
+
+#: Application/Resource.h:305
+msgid "Eventlist height"
+msgstr "Gertakizun-zerrendaren altuera"
+
+#: Application/Resource.h:306
+msgid "Todolist width"
+msgstr "Eginkizun-zerrendaren zabalera"
+
+#: Application/Resource.h:307
+msgid "Todolist height"
+msgstr "Eginkizun-zerrendaren altuera"
+
+#: Application/Resource.h:309
+msgid "Width"
+msgstr "Zabalera"
+
+#: Application/Resource.h:310
+msgid "Show week numbers"
+msgstr "Aste-zenbakiak erakutsi"
+
+#: Application/Resource.h:311
+msgid "Format"
+msgstr "Formatua"
+
+#: Application/Resource.h:312
+msgid "Timezone"
+msgstr "Ordu-Eremua"
+
+#: Application/Resource.h:313
+msgid "Show 3rd month"
+msgstr "3.garren hilabetea erakutsi"
+
+#: Application/Resource.h:314
+msgid "Show 4th month"
+msgstr "4.garren hilabetea erakutsi"
+
+#: Application/Resource.h:315
+msgid "Show 5th month"
+msgstr "5.garren hilabetea erakutsi"
+
+#: Application/Resource.h:316
+msgid "Show 6th month"
+msgstr "6.garren hilabetea erakutsi"
+
+#: Application/Resource.h:317
+msgid "Show 7th month"
+msgstr "7.garren hilabetea erakutsi"
+
+#: Application/Resource.h:318
+msgid "Show 8th month"
+msgstr "8.garren hilabetea erakutsi"
+
+#: Application/Resource.h:320
+msgid "Snooze All"
+msgstr "Guztiak Lotaratu"
+
+#: Application/Resource.h:321
+msgid "Dismiss All"
+msgstr "Guztiak Ezeztatu"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:45
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar fitxategiak (*.ics)|*.ics|vCalendar fitxategiak(*.vcs)|*.vcs"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:46
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar fitxategiak (*.ics)|*.ics"
+
+#: Plugins/IniFormatPlugin/IniFormatHandler.h:22
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar fitxategiak(*.ini)|*.ini"
+

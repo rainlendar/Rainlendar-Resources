@@ -1,0 +1,4370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-25 18:36+0200\n"
+"PO-Revision-Date: 2010-04-07 16:32+0700\n"
+"Last-Translator: Sovichet Tep <tsovichet@yahoo.com>\n"
+"Language-Team: Khmer Language Translator <tsovichet@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: C:\\Projects\\Rainlendar2\n"
+"X-Poedit-Language: Khmer\n"
+"X-Poedit-Country: CAMBODIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: Application\n"
+"X-Poedit-SearchPath-1: Plugins\n"
+"X-Poedit-SearchPath-2: Testbench\\Debug\\resources\n"
+
+#: Application/Config.cpp:995
+#: Application/Rainlendar.cpp:1517
+#: Application/Rainlendar.cpp:1528
+#: Application/Rainlendar.cpp:1656
+#: Plugins/OutlookPlugin/MapiHandler.cpp:708
+#: Application/Resource.h:330
+msgid "Default"
+msgstr "លំនាំដើម"
+
+#: Application/Config.cpp:1004
+msgid "Copy"
+msgstr "ថតចំលង"
+
+#: Application/Config.cpp:1009
+msgid "Region"
+msgstr "តំបន់"
+
+#: Application/Config.cpp:1014
+msgid "Native"
+msgstr "ដើម"
+
+#: Application/Config.cpp:1019
+msgid "Sunday"
+msgstr "អាទិត្យ"
+
+#: Application/Config.cpp:1020
+msgid "Monday"
+msgstr "ចន្ទ័"
+
+#: Application/Config.cpp:1021
+msgid "Tuesday"
+msgstr "អង្គារ"
+
+#: Application/Config.cpp:1022
+msgid "Wednesday"
+msgstr "ពុធ"
+
+#: Application/Config.cpp:1023
+msgid "Thursday"
+msgstr "ព្រហស្បតិ៍"
+
+#: Application/Config.cpp:1024
+msgid "Friday"
+msgstr "សុក្រ"
+
+#: Application/Config.cpp:1025
+msgid "Saturday"
+msgstr "សៅរ៍"
+
+#: Application/Config.cpp:1028
+#: Application/DialogManager.cpp:1315
+#: Application/DialogManager.cpp:1344
+#: Application/DialogPrint.cpp:356
+#: Application/WindowTooltip.cpp:283
+msgid "Start"
+msgstr "ចាប់​ផ្ដើម"
+
+#: Application/Config.cpp:1029
+#: Application/DialogManager.cpp:1344
+#: Application/DialogPrint.cpp:386
+#: Application/WindowTooltip.cpp:296
+msgid "Due"
+msgstr ""
+
+#: Application/Config.cpp:1030
+#: Application/DialogManager.cpp:1344
+#: Application/WindowTooltip.cpp:310
+msgid "Priority"
+msgstr ""
+
+#: Application/Config.cpp:1031
+#: Application/DialogManager.cpp:1344
+#: Application/WindowTooltip.cpp:325
+#: Application/Resource.h:322
+msgid "Status"
+msgstr ""
+
+#: Application/Config.cpp:1032
+#: Application/WindowTooltip.cpp:378
+msgid "Category"
+msgstr "ផ្នែក"
+
+#: Application/Config.cpp:1043
+msgid "Off"
+msgstr "បិទ"
+
+#: Application/Config.cpp:1044
+#: Application/res/options.cpp:12
+msgid "Normal"
+msgstr "ធម្មតា"
+
+#: Application/Config.cpp:1045
+msgid "Beta"
+msgstr "សាកល្បង"
+
+#: Application/Config.cpp:1048
+#: Application/DialogOptions.cpp:118
+#: Application/DialogSkinSettings.cpp:173
+#: Application/res/options.cpp:1
+msgid "General"
+msgstr "ទូទៅ"
+
+#: Application/Config.cpp:1050
+#: Application/Config.cpp:1196
+msgid "Time format"
+msgstr "ទម្រង់​ម៉ោង"
+
+#: Application/Config.cpp:1051
+#: Application/Config.cpp:1197
+msgid "Date format"
+msgstr "ទម្រង់​កាលបរិច្ឆេទ"
+
+#: Application/Config.cpp:1052
+#: Application/Config.cpp:1198
+msgid "Weekend days"
+msgstr "ថ្ងៃ​ចុងសប្ដាហ៍"
+
+#: Application/Config.cpp:1053
+#: Application/Config.cpp:1199
+msgid "Week number delta"
+msgstr ""
+
+#: Application/Config.cpp:1054
+#: Application/Config.cpp:1201
+msgid "Default categories"
+msgstr "លំនាំដើម​ផ្នែក"
+
+#: Application/Config.cpp:1055
+#: Application/Config.cpp:1211
+msgid "Show categories from the skin"
+msgstr "បង្ហាញ​ផ្នែក​ពី ពុម្ព"
+
+#: Application/Config.cpp:1056
+#: Application/Config.cpp:1212
+msgid "Snap distance"
+msgstr ""
+
+#: Application/Config.cpp:1057
+#: Application/Config.cpp:1213
+msgid "Snap center"
+msgstr ""
+
+#: Application/Config.cpp:1058
+#: Application/Config.cpp:1214
+msgid "Save window position"
+msgstr "រក្សាទុក​ទីតាំង​បង្អួច"
+
+#: Application/Config.cpp:1059
+#: Application/Config.cpp:1215
+msgid "Show tray icon"
+msgstr ""
+
+#: Application/Config.cpp:1060
+msgid "Show tray status icons"
+msgstr ""
+
+#: Application/Config.cpp:1062
+#: Application/Config.cpp:1217
+msgid "Show dock icon (requires restart)"
+msgstr ""
+
+#: Application/Config.cpp:1064
+#: Application/Config.cpp:1219
+msgid "Keep on screen"
+msgstr "រក្សា​នៅលើអេក្រង់"
+
+#: Application/Config.cpp:1065
+#: Application/Config.cpp:1220
+msgid "Always show full menus"
+msgstr "តែងតែបង្ហាញឲ្យឃើញ ម៉ឺនុយទាំង​អស់"
+
+#: Application/Config.cpp:1067
+#: Application/Config.cpp:1222
+msgid "Disable keyboard shortcuts"
+msgstr "មិនឲ្យដំនើរ​ការ ក្ដារចុច​ផ្លូវកាត់(Shortcut)"
+
+#: Application/Config.cpp:1071
+#: Application/Config.cpp:1226
+msgid "Show in all desktops"
+msgstr "បង្ហាញ​ក្នុង​អេក្រង់​ទាំង​អស់"
+
+#: Application/Config.cpp:1073
+#: Application/Config.cpp:1229
+msgid "List wheel scroll"
+msgstr ""
+
+#: Application/Config.cpp:1074
+#: Application/Config.cpp:1230
+msgid "Transparency type"
+msgstr ""
+
+#: Application/Config.cpp:1075
+#: Application/Config.cpp:1231
+msgid "Copy transparency sleep time"
+msgstr ""
+
+#: Application/Config.cpp:1076
+#: Application/Config.cpp:1232
+msgid "Fade delay (ms)"
+msgstr ""
+
+#: Application/Config.cpp:1077
+#: Application/Config.cpp:1233
+msgid "Fade duration (ms)"
+msgstr ""
+
+#: Application/Config.cpp:1078
+#: Application/Config.cpp:1234
+msgid "Font scale"
+msgstr "កម្រិត​ពុម្ពអក្សរ"
+
+#: Application/Config.cpp:1080
+#: Application/Config.cpp:1236
+msgid "Skin language"
+msgstr "ភាសា របស់​ពុម្ព"
+
+#: Application/Config.cpp:1081
+#: Application/Config.cpp:1246
+msgid "Number of stored backups"
+msgstr ""
+
+#: Application/Config.cpp:1082
+#: Application/Config.cpp:1247
+msgid "Show delete confirmations"
+msgstr ""
+
+#: Application/Config.cpp:1083
+#: Application/Config.cpp:1250
+msgid "Disable text formatting"
+msgstr "មិន​ឲ្យដំណើរការ ទម្រង់​អក្សរ"
+
+#: Application/Config.cpp:1084
+#: Application/Config.cpp:1251
+msgid "Use window names"
+msgstr "ប្រើ​ឈ្មោះ​បង្អួច"
+
+#: Application/Config.cpp:1089
+#: Application/Config.cpp:1253
+msgid "Check for updates"
+msgstr "ស្វែងរក​ការដំឡើង​សម័យ"
+
+#: Application/Config.cpp:1090
+#: Application/Config.cpp:1254
+msgid "Reload delay after resume (ms)"
+msgstr ""
+
+#: Application/Config.cpp:1091
+#: Application/Config.cpp:1255
+msgid "Show url icons"
+msgstr "បង្ហាញរូបសំគាល់ អស័យដ្ឋាន​គេហទំព័រ"
+
+#: Application/Config.cpp:1092
+#: Application/Config.cpp:1256
+msgid "Simultaneous transfers"
+msgstr ""
+
+#: Application/Config.cpp:1093
+#: Application/Config.cpp:1257
+msgid "Visual category overwrites normal category"
+msgstr ""
+
+#: Application/Config.cpp:1094
+#: Application/Config.cpp:1258
+#: Application/Config.cpp:1260
+msgid "Store English category names"
+msgstr ""
+
+#: Application/Config.cpp:1097
+msgid "HTTP"
+msgstr "HTTP"
+
+#: Application/Config.cpp:1098
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+#: Application/Config.cpp:1099
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+#: Application/Config.cpp:1102
+msgid "Network"
+msgstr "បណ្ដាញ"
+
+#: Application/Config.cpp:1103
+#: Application/Config.cpp:1262
+msgid "Proxy server"
+msgstr ""
+
+#: Application/Config.cpp:1104
+#: Application/Config.cpp:1263
+msgid "Proxy user"
+msgstr "ឈ្នោះ​ប្រើប្រាស់ Proxy"
+
+#: Application/Config.cpp:1105
+#: Application/Config.cpp:1106
+#: Application/Config.cpp:1264
+msgid "Proxy password"
+msgstr "កូត​សំងាត់ Proxy"
+
+#: Application/Config.cpp:1108
+#: Application/Config.cpp:1270
+msgid "Proxy type"
+msgstr "ប្រភេទ Proxy"
+
+#: Application/Config.cpp:1109
+#: Application/Config.cpp:1271
+msgid "Try direct connection if proxy fails"
+msgstr ""
+
+#: Application/Config.cpp:1112
+msgid "Show all icons"
+msgstr "បង្ហាញ​រូបសំគាល់​ទាំងអស់"
+
+#: Application/Config.cpp:1113
+msgid "Show one icon per type"
+msgstr "បង្ហាញ​រូបសំគាល់​១​ក្នុង​១​ប្រភេទ"
+
+#: Application/Config.cpp:1114
+msgid "Show only one icon"
+msgstr "បង្ហាញ​រូបសំគាល់​តែមួយ​ប៉ុណ្ណោះ"
+
+#: Application/Config.cpp:1117
+#: Plugins/GooglePlugin/GoogleHandler.cpp:196
+#: Application/Resource.h:366
+msgid "Calendar"
+msgstr "ប្រតិទិន"
+
+#: Application/Config.cpp:1119
+#: Application/Config.cpp:1248
+msgid "Combine icons in the calendar"
+msgstr ""
+
+#: Application/Config.cpp:1120
+#: Application/Config.cpp:1228
+msgid "Calendar wheel scroll"
+msgstr ""
+
+#: Application/Config.cpp:1121
+#: Application/Config.cpp:1249
+msgid "Show tasks in calendar"
+msgstr ""
+
+#: Application/Config.cpp:1123
+#: Application/DialogOptions.cpp:650
+#: Application/DialogOptions.cpp:873
+#: Application/DialogOptions.cpp:947
+msgid "Tooltip"
+msgstr ""
+
+#: Application/Config.cpp:1124
+#: Application/Config.cpp:1273
+msgid "Show tooltips"
+msgstr ""
+
+#: Application/Config.cpp:1125
+#: Application/Config.cpp:1274
+msgid "Max tooltip window width"
+msgstr ""
+
+#: Application/Config.cpp:1126
+#: Application/Config.cpp:1275
+msgid "Show description in tooltip"
+msgstr ""
+
+#: Application/Config.cpp:1127
+#: Application/Config.cpp:1276
+msgid "Todo items in tooltip"
+msgstr ""
+
+#: Application/Config.cpp:1128
+#: Application/Config.cpp:1277
+msgid "Traytip show duration (ms)"
+msgstr ""
+
+#: Application/Config.cpp:1129
+#: Application/Config.cpp:1278
+msgid "Tooltip fade duration (ms)"
+msgstr ""
+
+#: Application/Config.cpp:1130
+#: Application/Config.cpp:1279
+msgid "Tooltip show delay (ms)"
+msgstr ""
+
+#: Application/Config.cpp:1131
+#: Application/Config.cpp:1280
+msgid "Tooltip format"
+msgstr ""
+
+#: Application/Config.cpp:1133
+msgid "TodoList"
+msgstr "តារាង កិច្ចការ​ត្រូវធ្វើ"
+
+#: Application/Config.cpp:1134
+#: Application/Config.cpp:1282
+msgid "Show full task summary"
+msgstr ""
+
+#: Application/Config.cpp:1135
+#: Application/Config.cpp:1283
+msgid "Show task due time"
+msgstr ""
+
+#: Application/Config.cpp:1136
+#: Application/Config.cpp:1284
+msgid "Show task location"
+msgstr "បង្ហាញ​ទីតាំង កិច្ចការ"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:1137
+#: Application/Config.cpp:1285
+msgid "Show task calendar"
+msgstr "បង្ហាញ​ប្រតិទិន កិច្ចការ"
+
+#: Application/Config.cpp:1138
+#: Application/Config.cpp:1286
+msgid "Number of days the list shows (0 = show all)"
+msgstr ""
+
+#: Application/Config.cpp:1140
+#: Application/Config.cpp:1156
+#: Application/DialogComponent.cpp:1776
+#: Application/DialogComponent.cpp:1782
+msgid "<None>"
+msgstr "<គ្មាន>"
+
+#: Application/Config.cpp:1143
+#: Application/Config.cpp:1289
+msgid "Default task template"
+msgstr "ពុម្ព​កិច្ចការ​លំនាំដើម"
+
+#: Application/Config.cpp:1145
+msgid "EventList"
+msgstr "តារាង ព្រឹត្តិការណ៍"
+
+#: Application/Config.cpp:1146
+#: Application/Config.cpp:1299
+msgid "Show full event summary"
+msgstr ""
+
+#: Application/Config.cpp:1147
+#: Application/Config.cpp:1300
+msgid "Show event start time"
+msgstr "បង្ហាញពេលវេលា ចាប់​ផ្ដើម​ព្រឹត្តិការណ៍"
+
+#: Application/Config.cpp:1148
+#: Application/Config.cpp:1301
+msgid "Show event end time"
+msgstr "បង្ហាញពេលវេលា បញ្ចប់​ព្រឹត្តិការណ៍"
+
+#: Application/Config.cpp:1149
+#: Application/Config.cpp:1302
+msgid "Show event location"
+msgstr "បង្ហាញទីតាំង​បព្រឹត្តិការណ៍"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:1150
+#: Application/Config.cpp:1303
+msgid "Show event calendar"
+msgstr "បង្ហាញប្រតិទិន​ព្រឹត្តិការណ៍"
+
+#: Application/Config.cpp:1151
+#: Application/Config.cpp:1304
+msgid "Hide dismissed events"
+msgstr ""
+
+#: Application/Config.cpp:1152
+#: Application/Config.cpp:1305
+msgid "Number of days the list shows"
+msgstr ""
+
+#: Application/Config.cpp:1153
+#: Application/Config.cpp:1306
+msgid "Header format"
+msgstr "ទ្រង់​ទ្រង់​កំពូល"
+
+#: Application/Config.cpp:1154
+#: Application/Config.cpp:1307
+msgid "Age from start of the week"
+msgstr ""
+
+#: Application/Config.cpp:1159
+#: Application/Config.cpp:1311
+msgid "Default event template"
+msgstr "ពុម្ព​ព្រឹត្តិការណ៍​លំនាំ​ដើម"
+
+#: Application/Config.cpp:1162
+msgid "No grouping"
+msgstr "គ្មាន​ដាក់​ជា​ក្រុម"
+
+#: Application/Config.cpp:1163
+msgid "Start and end dates"
+msgstr "កាលបរិច្ឆេទ ចាប់ផ្ដើម​និង បញ្ចប់"
+
+#: Application/Config.cpp:1164
+msgid "Start date and duration"
+msgstr "កាលបរិច្ឆេទ​ចាប់ផ្ដើម និង ពេលវេលា"
+
+#: Application/Config.cpp:1167
+#: Application/Config.cpp:1308
+msgid "Group multiday events"
+msgstr ""
+
+#: Application/Config.cpp:1169
+#: Application/DialogManager.cpp:1315
+#: Application/DialogManager.cpp:1344
+#: Application/DialogOptions.cpp:649
+#: Application/DialogOptions.cpp:867
+#: Application/DialogOptions.cpp:947
+#: Application/ItemListAlarm.cpp:443
+#: Application/res/event.cpp:17
+#: Application/res/todo.cpp:41
+msgid "Alarm"
+msgstr "កណ្ដឹង​រោទ៍"
+
+#: Application/Config.cpp:1170
+#: Application/Config.cpp:1321
+msgid "Show alarm start time"
+msgstr "បង្ហាញ​កណ្ដឹងរោទ៍ ពេល​ចាប់​ផ្ដើម"
+
+#: Application/Config.cpp:1171
+#: Application/Config.cpp:1322
+msgid "Show alarm end time"
+msgstr "បង្ហាញ​កណ្ដឹងរោទ៍ ពេល​បញ្ចប់"
+
+#: Application/Config.cpp:1172
+#: Application/Config.cpp:1323
+msgid "Show alarm location"
+msgstr "បង្ហាញ​ទីតាំង​កណ្ដឹង​រោទ៍"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:1173
+#: Application/Config.cpp:1324
+msgid "Show alarm calendar"
+msgstr "បង្ហាញ​ប្រតិទិន កណ្ដឹង​រោទ៍"
+
+#: Application/Config.cpp:1174
+#: Application/Config.cpp:1325
+msgid "Show due to the event"
+msgstr ""
+
+#: Application/Config.cpp:1175
+#: Application/Config.cpp:1326
+msgid "Support Mozilla alarms"
+msgstr "ទទួល​ស្គាល់​កណ្ដឹង​រោទ៍Mozilla"
+
+#: Application/Config.cpp:1176
+#: Application/Config.cpp:1327
+msgid "Keep alarm always on top"
+msgstr ""
+
+#: Application/Config.cpp:1177
+#: Application/Config.cpp:1328
+msgid "Default snooze time"
+msgstr "លំនាំដើម ម៉ោង​រោទ៍​ម្ដង​ទៀត"
+
+#: Application/Config.cpp:1178
+#: Application/Config.cpp:1329
+msgid "Max alarm window width"
+msgstr ""
+
+#: Application/Config.cpp:1179
+#: Application/Config.cpp:1330
+msgid "Hide from alarm after days"
+msgstr ""
+
+#: Application/Config.cpp:1180
+#: Application/Config.cpp:1331
+msgid "Default alarm file"
+msgstr "ឯកសារ​កណ្ដឹង​រោទ៍​លំនាំ​ដើម"
+
+#: Application/Config.cpp:1181
+#: Application/Config.cpp:1332
+msgid "Loop the alarm sound"
+msgstr ""
+
+#: Application/Config.cpp:1182
+#: Application/Config.cpp:1334
+msgid "Snooze times (mins)"
+msgstr "ម៉ោង​រោទ៍​ម្ដង​ទៀត (នាទី)"
+
+#: Application/Config.cpp:1184
+#: Application/DialogManager.cpp:68
+#: Application/res/manager.cpp:1
+msgid "Manager"
+msgstr "ការ​គ្រប់​គ្រង"
+
+#: Application/Config.cpp:1185
+#: Application/Config.cpp:1337
+msgid "Manager event columns"
+msgstr ""
+
+#: Application/Config.cpp:1186
+#: Application/Config.cpp:1338
+msgid "Manager todo columns"
+msgstr ""
+
+#: Application/ControlWindow.cpp:166
+#: Application/ControlWindow.cpp:173
+msgid "Unable to create a new item from the string:\n"
+msgstr ""
+
+#: Application/ControlWindow.cpp:168
+msgid "Create Error!"
+msgstr "ការបង្កើត​មាន​កំហុស!"
+
+#: Application/ControlWindow.cpp:168
+msgid "Unable to select the target calendar for the item."
+msgstr ""
+
+#: Application/ControlWindow.cpp:175
+msgid "Parse Error!"
+msgstr ""
+
+#: Application/ControlWindow.cpp:478
+#: Application/DialogAbout.cpp:212
+msgid "New version found!"
+msgstr "បាន​រក​ឃើញ​កំណែ​ថ្មី!"
+
+#: Application/ControlWindow.cpp:479
+#: Application/DialogAbout.cpp:213
+#, c-format
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"កំណែទី %s មានហើយ.\n"
+"តើអ្នក​ចង់ចូល​ទៅកាន់​គេហទំព័រ​ឥឡូវ​នេះ​រឺ?"
+
+#: Application/ControlWindow.cpp:600
+#: Application/ControlWindow.cpp:704
+#: Application/ItemCalendar.cpp:247
+#: Application/ItemListEvent.cpp:624
+msgid "New event"
+msgstr "ព្រឹតិការណ៍​ថ្មី"
+
+#: Application/ControlWindow.cpp:601
+#: Application/ControlWindow.cpp:706
+#: Application/ItemListTodo.cpp:1127
+msgid "New task"
+msgstr "កិច្ច​ការថ្មី"
+
+#: Application/ControlWindow.cpp:603
+#: Application/ControlWindow.cpp:723
+#: Application/Resource.h:297
+msgid "Refresh"
+msgstr "ធ្វើ​ឲ្យ​ស្រស់"
+
+#: Application/ControlWindow.cpp:604
+#: Application/ControlWindow.cpp:725
+msgid "Options..."
+msgstr "ជម្រើស"
+
+#: Application/ControlWindow.cpp:605
+#: Application/ControlWindow.cpp:727
+msgid "Manager..."
+msgstr "ការ​គ្រប់​គ្រង"
+
+#: Application/ControlWindow.cpp:608
+#: Application/res/event.cpp:2
+#: Application/res/manager.cpp:2
+#: Application/res/todo.cpp:2
+msgid "File"
+msgstr "ឯកសារ"
+
+#: Application/ControlWindow.cpp:614
+msgid "View"
+msgstr "មើល"
+
+#: Application/ControlWindow.cpp:620
+msgid "About..."
+msgstr "អំពី..."
+
+#: Application/ControlWindow.cpp:621
+msgid "Open help\tCtrl+?"
+msgstr "បើក​ជំនួយ\tCtrl+?"
+
+#: Application/ControlWindow.cpp:698
+#: Application/DialogAbout.cpp:155
+msgid "About"
+msgstr "អំពី"
+
+#: Application/ControlWindow.cpp:700
+#: Application/DialogOptions.cpp:145
+msgid "Help"
+msgstr "ជំនួយ"
+
+#: Application/ControlWindow.cpp:711
+#: Application/DialogOptions.cpp:652
+msgid "Windows"
+msgstr "បង្អួច"
+
+#: Application/ControlWindow.cpp:715
+#: Application/DialogComponent.cpp:736
+#: Application/DialogManager.cpp:548
+#: Application/DialogManager.cpp:1315
+#: Application/DialogManager.cpp:1344
+#: Application/DialogOptions.cpp:120
+#: Application/DropTarget.cpp:402
+#: Application/res/event.cpp:23
+#: Application/res/options.cpp:18
+#: Application/res/todo.cpp:47
+msgid "Calendars"
+msgstr "ប្រតិទិន"
+
+#: Application/ControlWindow.cpp:719
+msgid "Choose month"
+msgstr "ជ្រើសរើស​ខែ"
+
+#: Application/ControlWindow.cpp:739
+msgid "Install the license..."
+msgstr "បញ្ជូល អាជ្ញាបណ័"
+
+#: Application/ControlWindow.cpp:746
+msgid "Show debug log"
+msgstr ""
+
+#: Application/ControlWindow.cpp:760
+msgid "Exit"
+msgstr "បិទ"
+
+#: Application/ControlWindow.cpp:780
+#, c-format
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+#: Application/ControlWindow.cpp:793
+msgid "Enable all calendars"
+msgstr "ដំណើរការ គ្រប់​ប្រតិទិន"
+
+#: Application/ControlWindow.cpp:795
+msgid "Disable all calendars"
+msgstr "បិទដំណើរការ គ្រប់​ប្រតិទិន"
+
+#: Application/ControlWindow.cpp:827
+#: Application/Resource.h:296
+msgid "Current Month"
+msgstr "ខែបច្ចុប្បន្ន"
+
+# Shortcut key for the Current Month
+#: Application/ControlWindow.cpp:831
+#: Application/DialogAbout.cpp:108
+#: Application/HotkeyControl.cpp:188
+msgid "Home"
+msgstr "ផ្ទះ"
+
+#: Application/ControlWindow.cpp:834
+#: Application/Resource.h:294
+msgid "Next Month"
+msgstr "ខែក្រោយ"
+
+# Shortcut key for the Next Month
+#: Application/ControlWindow.cpp:838
+#: Application/HotkeyControl.cpp:194
+msgid "Right"
+msgstr "ស្ដាំ"
+
+#: Application/ControlWindow.cpp:841
+#: Application/Resource.h:295
+msgid "Previous Month"
+msgstr "ខែមុន"
+
+# Shortcut key for the Previous Month
+#: Application/ControlWindow.cpp:845
+#: Application/HotkeyControl.cpp:190
+msgid "Left"
+msgstr "ឆ្វេង"
+
+#: Application/ControlWindow.cpp:848
+msgid "Next Year"
+msgstr "ឆ្នាំ​ក្រោយ"
+
+# Shortcut key for the Next Year
+#: Application/ControlWindow.cpp:852
+#: Application/HotkeyControl.cpp:192
+msgid "Up"
+msgstr "លើ"
+
+#: Application/ControlWindow.cpp:855
+msgid "Previous Year"
+msgstr "ឆ្នាំ​មុន"
+
+# Shortcut key for the Previous Year
+#: Application/ControlWindow.cpp:860
+#: Application/HotkeyControl.cpp:196
+msgid "Down"
+msgstr "ក្រោម"
+
+#: Application/ControlWindow.cpp:863
+#: Application/Util.cpp:1548
+msgid "January"
+msgstr "មករា"
+
+#: Application/ControlWindow.cpp:864
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+#: Application/ControlWindow.cpp:866
+#: Application/Util.cpp:1550
+msgid "February"
+msgstr "កុម្ភៈ"
+
+#: Application/ControlWindow.cpp:867
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+#: Application/ControlWindow.cpp:869
+#: Application/Util.cpp:1552
+msgid "March"
+msgstr "មិនា"
+
+#: Application/ControlWindow.cpp:870
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+#: Application/ControlWindow.cpp:872
+#: Application/Util.cpp:1554
+msgid "April"
+msgstr "មេសា"
+
+#: Application/ControlWindow.cpp:873
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+#: Application/ControlWindow.cpp:875
+#: Application/Util.cpp:1556
+#: Application/Util.cpp:1586
+msgid "May"
+msgstr "ឧសភា"
+
+#: Application/ControlWindow.cpp:876
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+#: Application/ControlWindow.cpp:878
+#: Application/Util.cpp:1558
+msgid "June"
+msgstr "មិថុនា"
+
+#: Application/ControlWindow.cpp:879
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+#: Application/ControlWindow.cpp:881
+#: Application/Util.cpp:1560
+msgid "July"
+msgstr "កក្កដា"
+
+#: Application/ControlWindow.cpp:882
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+#: Application/ControlWindow.cpp:884
+#: Application/Util.cpp:1562
+msgid "August"
+msgstr "សីហា"
+
+#: Application/ControlWindow.cpp:885
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+#: Application/ControlWindow.cpp:887
+#: Application/Util.cpp:1564
+msgid "September"
+msgstr "កញ្ញា"
+
+#: Application/ControlWindow.cpp:888
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+#: Application/ControlWindow.cpp:890
+#: Application/Util.cpp:1566
+msgid "October"
+msgstr "តុលា"
+
+#: Application/ControlWindow.cpp:891
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+#: Application/ControlWindow.cpp:893
+#: Application/Util.cpp:1568
+msgid "November"
+msgstr "វិច្ឆិកា"
+
+#: Application/ControlWindow.cpp:894
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+#: Application/ControlWindow.cpp:896
+#: Application/Util.cpp:1570
+msgid "December"
+msgstr "ធ្នូ"
+
+#: Application/ControlWindow.cpp:897
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+#: Application/ControlWindow.cpp:926
+#, c-format
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+#: Application/ControlWindow.cpp:943
+msgid "Show all windows"
+msgstr "បង្ហាញ​គ្រប់ បង្អួច"
+
+#: Application/ControlWindow.cpp:945
+msgid "Hide all windows"
+msgstr "បិទ​គ្រប់​បង្អួច"
+
+#: Application/ControlWindow.cpp:1288
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "ឯកសារ អាជ្ញាបណ័ (*.r2lic)|*.r2lic"
+
+#: Application/ControlWindow.cpp:1289
+msgid "Choose the license file"
+msgstr "ជ្រើសរើស ឯកសារ​អាជ្ញាបណ័"
+
+#: Application/ControlWindow.cpp:1484
+#: Application/ControlWindow.cpp:1527
+#: Application/ControlWindow.cpp:1549
+#: Application/ItemCalendar.cpp:233
+#: Application/WindowTooltip.cpp:235
+msgid "*Empty*"
+msgstr "*ទទេ*"
+
+#: Application/ControlWindow.cpp:1487
+msgid "This instance"
+msgstr ""
+
+#: Application/ControlWindow.cpp:1488
+msgid "Whole event"
+msgstr "ព្រឹតិការណ័​ទាំងមូល"
+
+#: Application/ControlWindow.cpp:1489
+#: Application/DialogDayRange.cpp:63
+#: Application/DialogOptions.cpp:157
+#: Application/DialogSkinSettings.cpp:95
+#: Application/res/alarm.cpp:5
+#: Application/res/event.cpp:47
+#: Application/res/todo.cpp:71
+msgid "Cancel"
+msgstr "បិទ"
+
+#: Application/ControlWindow.cpp:1491
+#: Application/ControlWindow.cpp:1529
+msgid "Do you want to delete this item?"
+msgstr "តើអ្នក​ពិតជាចង់​លុប​វត្ថុនេះ​ចោល​មែន​រឺ?"
+
+#: Application/ControlWindow.cpp:1492
+#, c-format
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance or the whole recurring event."
+msgstr ""
+
+#: Application/ControlWindow.cpp:1543
+msgid "Do you want to delete these items?"
+msgstr "តើអ្នក​ចង់​លុប​វត្ថុ​ទាំង​នេះ​រឺ?"
+
+#: Application/DialogAbout.cpp:73
+#: Application/DialogOptions.cpp:738
+msgid "Version"
+msgstr "កំណែ"
+
+#: Application/DialogAbout.cpp:81
+msgid "Build on"
+msgstr ""
+
+#: Application/DialogAbout.cpp:86
+msgid "Developed by"
+msgstr "បង្កើត​ដោយ"
+
+#: Application/DialogAbout.cpp:94
+msgid "Licensed to"
+msgstr "អាជ្ញាបណ័ របស់"
+
+#: Application/DialogAbout.cpp:101
+msgid "Plugins"
+msgstr "កម្មវិធី​ជំនួយ"
+
+#: Application/DialogAbout.cpp:106
+msgid "Links"
+msgstr "តំណភ្ជាប់"
+
+#: Application/DialogAbout.cpp:111
+msgid "FAQ"
+msgstr "FAQ"
+
+#: Application/DialogAbout.cpp:114
+msgid "Forum"
+msgstr "ការពិភាក្សា"
+
+#: Application/DialogAbout.cpp:120
+msgid "Menu icons by"
+msgstr "រូបសំគាល់ របស់​ម៉ឺនុយ បង្កើត​ដោយ"
+
+#: Application/DialogAbout.cpp:124
+msgid "Settings icons by"
+msgstr "រូបសំគាល់ របស់​ការ​កែប្រែ បង្កើត​ដោយ"
+
+#: Application/DialogAbout.cpp:134
+msgid "Copyrights"
+msgstr "រក្សា​សិទ្ធិ"
+
+#: Application/DialogAbout.cpp:169
+msgid "Please wait..."
+msgstr "សូមរង់​ចាំ..."
+
+#: Application/DialogAbout.cpp:182
+msgid "Unknown response from the server."
+msgstr ""
+
+#: Application/DialogAbout.cpp:222
+msgid "No updates available."
+msgstr "មិន​មាន​ការ​ដំឡើង​សម័យ​ទេ"
+
+#: Application/DialogAbout.cpp:222
+msgid "You have the most recent version of Rainlendar."
+msgstr "អ្នក​មាន​កំណែ Rainlendar ថ្មីៗ​ជា​ច្រើន"
+
+#: Application/DialogAbout.cpp:231
+msgid "Connection error!"
+msgstr "មាន​កំហុស​ឆ្គង​ក្នុង​ការ​ភ្ជាប់​ប្រពន្ធ័!"
+
+#: Application/DialogAbout.cpp:231
+#: Plugins/Common/ThreadHelper.cpp:399
+msgid "Unable to connect to the server."
+msgstr "មិនអាចភ្ជាប់ទៅកាន់ប្រពន្ធ័បានទេ?"
+
+#: Application/DialogAbout.cpp:236
+#: Application/res/about.cpp:1
+msgid "Check for update"
+msgstr "ស្វែងរក​ការដំឡើង​សម័យ"
+
+#: Application/DialogAlarm.cpp:26
+msgid "Choose Alarm"
+msgstr "ជ្រើសរើស​កណ្ដឹង​រោទ៍"
+
+#: Application/DialogAlarm.cpp:41
+msgid "All files (*.*)|*.*"
+msgstr "គ្រប់​ឯកសារ (*.*|*.*"
+
+#: Application/DialogComponent.cpp:518
+msgid "There are no calendar selected for the item. Click the Calendars button and choose the calendar where you want to store the item."
+msgstr ""
+
+#: Application/DialogComponent.cpp:522
+msgid "There are no valid calendars where the item can be saved. You need to go to the options and create a new calendar for the item. Note that some calendars do not support both events and task. You cannot e.g. add tasks to Google Calendar."
+msgstr ""
+
+#: Application/DialogComponent.cpp:525
+msgid "Unable to save the item."
+msgstr "មិនអាច​រក្សាទុក​ឯកសារបាន"
+
+#: Application/DialogComponent.cpp:585
+msgid "Do you want to save the changes?"
+msgstr "តើអ្នក​ចង់​រក្សា​ទុក​ការ​កែប្រែ​នេះ​ទេ?"
+
+#: Application/DialogComponent.cpp:586
+msgid "You have made some changes to the fields."
+msgstr "អ្នក​បាន​ធ្វើ​ឲ្យ​មាន​ការ​ផ្លាស់​ប្ដូរ​ក្នុង​វាល​នេះ"
+
+#: Application/DialogComponent.cpp:589
+msgid "&Save"
+msgstr "&រក្សា​ទុក"
+
+#: Application/DialogComponent.cpp:590
+msgid "&Discard"
+msgstr "&លុប​ចោល"
+
+#: Application/DialogComponent.cpp:591
+#: Application/DialogMessage.cpp:225
+#: Application/DialogMessage.cpp:257
+#: Application/DropTarget.cpp:85
+#: Application/Resource.h:284
+msgid "&Cancel"
+msgstr "&បិទ"
+
+#: Application/DialogComponent.cpp:606
+msgid "Are you sure you want to delete this item?"
+msgstr "តើអ្នក​ពិតជាចង់​លុប​វត្ថុ​នេះចោល​មែន​រឺ?"
+
+#: Application/DialogComponent.cpp:736
+msgid "Select the calendars:"
+msgstr "ជ្រើសរើស ប្រតិទិន:"
+
+#: Application/DialogComponent.cpp:788
+#: Application/DialogManager.cpp:695
+msgid "Select the categories:"
+msgstr "ជ្រើសរើស ផ្នែក:"
+
+#: Application/DialogComponent.cpp:788
+#: Application/DialogManager.cpp:695
+#: Application/DialogManager.cpp:1315
+#: Application/DialogManager.cpp:1344
+#: Application/res/event.cpp:24
+#: Application/res/todo.cpp:48
+msgid "Categories"
+msgstr "ផ្នែក"
+
+#: Application/DialogComponent.cpp:952
+msgid "Unable to find any calendar handlers for the event. The event was not saved."
+msgstr ""
+
+#: Application/DialogComponent.cpp:1178
+#, c-format
+msgid "On the %s day of the month"
+msgstr "នៅ​ថ្ងៃ​ទី %s នៃ​ខែ"
+
+#: Application/DialogComponent.cpp:1186
+msgid "first"
+msgstr "ទី មួយ"
+
+#: Application/DialogComponent.cpp:1190
+msgid "second"
+msgstr "ទី ពីរ"
+
+#: Application/DialogComponent.cpp:1194
+msgid "third"
+msgstr "ទី បី"
+
+#: Application/DialogComponent.cpp:1198
+msgid "fourth"
+msgstr "ទី បួន"
+
+#: Application/DialogComponent.cpp:1202
+msgid "fifth"
+msgstr "ទី ប្រាំ"
+
+#: Application/DialogComponent.cpp:1204
+#, c-format
+msgid "On the %s %s of the month"
+msgstr "នៅ %s %s នៃ​ខែ"
+
+#: Application/DialogComponent.cpp:1211
+#, c-format
+msgid "On the last %s of the month"
+msgstr "នៅ %s មុននៃ​ខែ"
+
+#: Application/DialogComponent.cpp:1220
+msgid "On the first weekday of the month"
+msgstr "នៅ​សប្តាហ៍​ទីមួយ នៃ​ខែ"
+
+#: Application/DialogComponent.cpp:1229
+msgid "On the last weekday of the month"
+msgstr "នៅ​សប្ដាហ៍​ចុងក្រោយ នៃខែ"
+
+#: Application/DialogComponent.cpp:1236
+msgid "On the last day of the month"
+msgstr "នៅ​ថ្ងៃចុង​ក្រោយ​នៃ​ខែ"
+
+#: Application/DialogComponent.cpp:1726
+msgid "Please give a name for the template"
+msgstr "សូម​ឲ្យឈ្មោះ​សំរាប់​ពុម្ព"
+
+#: Application/DialogComponent.cpp:1726
+#: Application/DialogOptions.cpp:1804
+msgid "Input text"
+msgstr "បញ្ជូល​អត្ថបទ"
+
+#: Application/DialogComponent.cpp:1729
+#: Application/DialogComponent.cpp:1733
+msgid "Unable to create the template!"
+msgstr "មិន​អាច​បង្កើត​ពុម្ព​បាន!"
+
+#: Application/DialogComponent.cpp:1729
+msgid "You must give a name for the template."
+msgstr "អ្នក​ត្រូវតែ​ឲ្យ​ឈ្មោះ​សំរាប់​ពុម្ព"
+
+#: Application/DialogComponent.cpp:1733
+#: Application/DialogOptions.cpp:1814
+#: Application/WizardPageCalendar.cpp:558
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "មិន​អនុញ្ញាតិ​ឲ្យ​ប្រើ​ប្រាស់ តួអក្សរ នេះ'/'-នៅ​ក្នុង​ឈ្មោះ​ទេ"
+
+#: Application/DialogComponent.cpp:1742
+#, c-format
+msgid "A template called \"%s\" already exists."
+msgstr "ឈ្មោះ​ពុម្ព \"%s\" មាន​រួច​រាល់​ហើយ"
+
+#: Application/DialogComponent.cpp:1743
+msgid "Do you want to overwrite the template?"
+msgstr "តើ​អ្នក​ចង់​ដាក់​ពី​លើ​ពុម្ព​នេះ​មែន​ទេ?"
+
+#: Application/DialogComponent.cpp:1761
+msgid "Choose the template to delete:"
+msgstr "ជ្រើស​រើស​ពុម្ព​ណាមួយ​ដែល​ចង់​លុប:"
+
+# Part of the template dialog caption.
+#: Application/DialogComponent.cpp:1761
+#: Application/DialogComponent.cpp:1778
+msgid "Select"
+msgstr "ជ្រើស​រើស"
+
+#: Application/DialogComponent.cpp:1777
+msgid "Choose the template which is used for new tasks:"
+msgstr "ជ្រើស​រើស​ពុម្ព​ដែល​ប្រើ​សំរាប់​កិច្ចការ​ថ្មី:"
+
+#: Application/DialogComponent.cpp:1777
+msgid "Choose the template which is used for new events:"
+msgstr "ជ្រើស​រើស​ពុម្ព​ដែល​ប្រើ​សំរាប់​ព្រឹត្តិការណ៍​ថ្មី:"
+
+#: Application/DialogComponent.cpp:1817
+msgid "Save as template..."
+msgstr "រក្សា​ទុក​ជា ពុម្ព..."
+
+#: Application/DialogComponent.cpp:1818
+msgid "Delete template..."
+msgstr "លុប​ពុម្ព..."
+
+#: Application/DialogComponent.cpp:1819
+msgid "Set the default template..."
+msgstr "ដាក់​ជា​ពុម្ព លំនាំ​ដើម"
+
+#: Application/DialogComponent.cpp:1828
+#: Application/res/event.cpp:7
+#: Application/res/todo.cpp:7
+msgid "Template"
+msgstr "ពុម្ព"
+
+#: Application/DialogDayRange.cpp:29
+msgid "Select the day range"
+msgstr "រើស​ជួរ​ថ្ងៃ"
+
+#: Application/DialogDayRange.cpp:36
+msgid "This exporter is unable to save recurring events so they need to be converted to single instances. Please define the day range which will be saved to the file."
+msgstr ""
+
+#: Application/DialogDayRange.cpp:43
+#: Application/res/print.cpp:5
+msgid "From:"
+msgstr "ពី:"
+
+#: Application/DialogDayRange.cpp:50
+#: Application/res/print.cpp:6
+msgid "To:"
+msgstr "ទៅកាន់:"
+
+#: Application/DialogDayRange.cpp:60
+#: Application/Resource.h:286
+msgid "Ok"
+msgstr "អូខេ"
+
+#: Application/DialogEvent.cpp:76
+#: Application/DialogManager.cpp:1324
+#: Application/res/event.cpp:1
+#: Application/res/event.cpp:8
+msgid "Event"
+msgstr "ព្រឹត្តិការណ៍"
+
+#: Application/DialogEvent.cpp:360
+msgid ""
+"You have created a birthday or anniversary but didn't define any recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+
+#: Application/DialogManager.cpp:250
+#: Application/DialogManager.cpp:310
+msgid "Choose a file"
+msgstr "ជ្រើស​រើស​ឯកសារ​មួយ"
+
+#: Application/DialogManager.cpp:259
+msgid "Import failed!"
+msgstr "បរាច័ត​ក្នុង​ការ​ដាក់​បញ្ជូល!"
+
+#: Application/DialogManager.cpp:318
+#, c-format
+msgid "Exported %i events successfully."
+msgstr "បាន​បញ្ចេញ ព្រឹត្តិការណ៍ %i ដោយ​ជោគជ័យ"
+
+#: Application/DialogManager.cpp:322
+#, c-format
+msgid "Exported %i todo items successfully."
+msgstr "បាន​បញ្ចេញការ​ងារ​ដែល​ត្រូវ​ធ្វើ %i ដោយ​ជោគជ័យ"
+
+#: Application/DialogManager.cpp:328
+msgid "Export failed!"
+msgstr "បរាជ័យ​ក្នុង​ការ​ដាក់​បញ្ចេញ!"
+
+#: Application/DialogManager.cpp:411
+msgid "Do you want to delete the selected item(s)?"
+msgstr "តើ​អ្នក​ចង់​លុប​វត្ថុ​ដែល​បាន​ជ្រើស​រើស​នេះ​ចោល​មែន​ទេ?"
+
+#: Application/DialogManager.cpp:541
+msgid "Select the calendars where the items should be copied to:"
+msgstr ""
+
+#: Application/DialogManager.cpp:545
+msgid "Select the calendars where the items should be moved to:"
+msgstr ""
+
+#: Application/DialogManager.cpp:568
+#: Application/DialogManager.cpp:654
+msgid "Operation failed!"
+msgstr ""
+
+#: Application/DialogManager.cpp:568
+msgid "There are no calendars available that are able to store the items."
+msgstr ""
+
+#: Application/DialogManager.cpp:593
+msgid "Are you sure you want to do this?"
+msgstr "តើ​អ្នក​ពិតជាចង់​ធ្វើ​បែបនេះ​មែន​រឺ?"
+
+#: Application/DialogManager.cpp:594
+msgid ""
+"Moving items to an online calendar is not safe. If the destination\n"
+"calendar doesn't accept the items because of network problems or\n"
+"for some other reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are doing."
+msgstr ""
+
+#: Application/DialogManager.cpp:634
+#, c-format
+msgid "Moved %i items to these calendars:\n"
+msgstr ""
+
+#: Application/DialogManager.cpp:638
+#, c-format
+msgid "Copied %i items to these calendars:\n"
+msgstr ""
+
+#: Application/DialogManager.cpp:643
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't be available until after a while."
+msgstr ""
+
+#: Application/DialogManager.cpp:646
+msgid "Operation finished!"
+msgstr ""
+
+#: Application/DialogManager.cpp:654
+msgid "You need to select at least one calendar for the events."
+msgstr "អ្នក​ត្រូវ​ជ្រើស​រើស​យ៉ាង​តិច ប្រតិទីន​ចំនួន​១​សំរាប់​ព្រឹត្តិការណ៍!"
+
+#: Application/DialogManager.cpp:774
+#: Application/DialogManager.cpp:979
+msgid "Archive (*.zip)|*.zip"
+msgstr "កញ្ចប់ (*.zip)|*.zip"
+
+#: Application/DialogManager.cpp:775
+#: Application/DialogManager.cpp:978
+msgid "Choose the backup path"
+msgstr ""
+
+#: Application/DialogManager.cpp:784
+msgid "Backup was successful."
+msgstr ""
+
+#: Application/DialogManager.cpp:785
+msgid "The backup contains these files:"
+msgstr ""
+
+#: Application/DialogManager.cpp:804
+msgid "Warning! The backup file does not contain any iCalendar files. If you have any locally stored events or tasks you need to backup them manually."
+msgstr ""
+
+#: Application/DialogManager.cpp:812
+#: Application/DialogManager.cpp:1023
+msgid "Write error!"
+msgstr ""
+
+#: Application/DialogManager.cpp:812
+msgid "Unable to create the backup file."
+msgstr ""
+
+#: Application/DialogManager.cpp:1005
+msgid "The file already exists:"
+msgstr "ឯកសារ​នេះ​មាន​រួច​ទៅ​ហើយ:"
+
+#: Application/DialogManager.cpp:1008
+msgid "Do you want to overwrite the file?"
+msgstr "តើ​អ្នក​ចង់​ដាក់​ពីលើ​ឯកសារ​នេះ​រឺ?"
+
+#: Application/DialogManager.cpp:1021
+msgid "Unable to overwrite file:"
+msgstr "មិន​អាច​ដាក់​ពីលើ​ឯកសារ:"
+
+#: Application/DialogManager.cpp:1034
+#, c-format
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+
+#: Application/DialogManager.cpp:1035
+msgid "Restore error!"
+msgstr "ការ​ស្ថាបនា​គាំង!"
+
+#: Application/DialogManager.cpp:1054
+msgid "The archive contains unknown files:\n"
+msgstr ""
+
+#: Application/DialogManager.cpp:1061
+msgid "Restore was successful."
+msgstr "ការ​ស្ថាបនា​ឡើង​វិញ បាន​សំរេច."
+
+#: Application/DialogManager.cpp:1065
+msgid "There were problems during the restore."
+msgstr "មាន​បញ្ហា​នៅ​ពេល​កំពុង​ស្ថាបនា​ឡើង​វិញ."
+
+#: Application/DialogManager.cpp:1315
+#: Application/DialogPrint.cpp:372
+#: Application/HotkeyControl.cpp:186
+msgid "End"
+msgstr "បញ្ចប់"
+
+#: Application/DialogManager.cpp:1315
+#: Application/DialogManager.cpp:1344
+msgid "Summary"
+msgstr "សង្ខេប"
+
+#: Application/DialogManager.cpp:1315
+#: Application/DialogManager.cpp:1344
+msgid "Recurring"
+msgstr ""
+
+#: Application/DialogManager.cpp:1315
+#: Application/DialogManager.cpp:1344
+#: Application/DialogPrint.cpp:344
+msgid "Location"
+msgstr "ទីតាំង"
+
+#: Application/DialogManager.cpp:1315
+#: Application/DialogManager.cpp:1344
+msgid "Description"
+msgstr "ការ​អធិប្បាយ"
+
+#: Application/DialogManager.cpp:1315
+#: Application/DialogManager.cpp:1344
+#: Application/DialogPrint.cpp:397
+#: Application/WindowTooltip.cpp:257
+msgid "Url"
+msgstr "Url"
+
+#: Application/DialogManager.cpp:1331
+msgid "New Event..."
+msgstr "ព្រឹតិការណ៍​ថ្មី"
+
+#: Application/DialogManager.cpp:1353
+#: Application/DialogTodo.cpp:69
+#: Application/DialogTodo.cpp:438
+#: Application/res/todo.cpp:1
+#: Application/res/todo.cpp:8
+msgid "Todo"
+msgstr "ត្រូវ​ធ្វើ"
+
+#: Application/DialogManager.cpp:1360
+msgid "New Todo..."
+msgstr "ការ​ត្រូវ​ធ្វើ​ថ្មី"
+
+#: Application/DialogManager.cpp:1519
+msgid "Daily"
+msgstr "រាល់​ថ្ងៃ"
+
+#: Application/DialogManager.cpp:1522
+msgid "Weekly"
+msgstr "រាល់​សប្ដាហ៍"
+
+#: Application/DialogManager.cpp:1525
+msgid "Monthly"
+msgstr "រាល់​ខែ"
+
+#: Application/DialogManager.cpp:1528
+msgid "Yearly"
+msgstr "រាល់​ឆ្នាំ"
+
+#: Application/DialogManager.cpp:1540
+msgid "Single"
+msgstr ""
+
+#: Application/DialogManager.cpp:1582
+#: Application/DialogSkinSettings.cpp:264
+#: Application/ItemListTodo.cpp:829
+#: Application/res/todo.cpp:17
+#: Application/res/todo.cpp:18
+#: Application/Resource.h:349
+msgid "None"
+msgstr "គ្មាន"
+
+#: Application/DialogManager.cpp:1586
+#: Application/ItemListTodo.cpp:833
+#: Application/res/todo.cpp:21
+msgid "High"
+msgstr "ខ្ពស់"
+
+#: Application/DialogManager.cpp:1590
+#: Application/ItemListTodo.cpp:837
+#: Application/res/todo.cpp:20
+msgid "Medium"
+msgstr "ល្មម"
+
+#: Application/DialogManager.cpp:1594
+#: Application/ItemListTodo.cpp:841
+#: Application/res/todo.cpp:19
+msgid "Low"
+msgstr "ទាប"
+
+#: Application/DialogManager.cpp:1620
+#: Application/ItemListTodo.cpp:620
+#: Application/ItemListTodo.cpp:850
+#: Application/ItemListTodo.cpp:1187
+#: Application/res/todo.cpp:26
+msgid "Completed"
+msgstr "បាន​រួច​រាល់"
+
+#: Application/DialogManager.cpp:1627
+#: Application/ItemListTodo.cpp:623
+#: Application/ItemListTodo.cpp:853
+#: Application/ItemListTodo.cpp:1188
+#: Application/res/todo.cpp:27
+msgid "Cancelled"
+msgstr "បាន​បិទ"
+
+#: Application/DialogManager.cpp:1642
+#: Application/ItemListTodo.cpp:617
+#: Application/ItemListTodo.cpp:856
+#: Application/ItemListTodo.cpp:1185
+#: Application/res/todo.cpp:25
+msgid "In Progress"
+msgstr ""
+
+#: Application/DialogManager.cpp:1649
+#: Application/ItemListTodo.cpp:627
+#: Application/ItemListTodo.cpp:859
+#: Application/ItemListTodo.cpp:1172
+msgid "Needs Action"
+msgstr "ត្រូវការ​សកម្មភាព"
+
+#: Application/DialogMessage.cpp:109
+msgid "Error"
+msgstr "គាំង"
+
+#: Application/DialogMessage.cpp:113
+msgid "Warning"
+msgstr "បម្រាម"
+
+#: Application/DialogMessage.cpp:117
+msgid "Question"
+msgstr "សំនួរ"
+
+#: Application/DialogMessage.cpp:121
+msgid "Information"
+msgstr "ពត៌មាន"
+
+#: Application/DialogMessage.cpp:191
+#: Application/DialogMessage.cpp:199
+#: Application/DialogMessage.cpp:216
+#: Application/DialogMessage.cpp:224
+#: Application/DialogMessage.cpp:253
+#: Application/Resource.h:285
+msgid "&OK"
+msgstr "&អូខេ"
+
+#: Application/DialogMessage.cpp:207
+#: Application/DialogMessage.cpp:245
+msgid "&Yes"
+msgstr "&បាទ/ចាស៎"
+
+#: Application/DialogMessage.cpp:208
+#: Application/DialogMessage.cpp:249
+msgid "&No"
+msgstr "&ទេ"
+
+#: Application/DialogOptions.cpp:74
+msgid "Options"
+msgstr "ជម្រើស"
+
+#: Application/DialogOptions.cpp:122
+msgid "Skins"
+msgstr "ពុម្ព"
+
+#: Application/DialogOptions.cpp:125
+#: Application/res/options.cpp:23
+msgid "Hotkeys"
+msgstr "គ្រាប់​ចុច​លឿន"
+
+#: Application/DialogOptions.cpp:128
+msgid "Advanced"
+msgstr "កំរិត​ខ្ពស់"
+
+#: Application/DialogOptions.cpp:148
+msgid "Reset"
+msgstr "ម្ដង​ទៀត"
+
+#: Application/DialogOptions.cpp:153
+#: Application/DialogSkinSettings.cpp:92
+#: Application/res/alarm.cpp:4
+#: Application/res/event.cpp:46
+#: Application/res/todo.cpp:70
+msgid "OK"
+msgstr "អូខេ"
+
+#: Application/DialogOptions.cpp:331
+msgid "Get more languages..."
+msgstr "ទទួល​បាន​ភាសា​ជា​ច្រើន​ទៀត"
+
+#: Application/DialogOptions.cpp:555
+msgid "Get more skins..."
+msgstr "ទទួល​បាន​ពុម្ព​ជា​ច្រើន​ទៀត"
+
+#: Application/DialogOptions.cpp:651
+#: Application/DialogOptions.cpp:879
+#: Application/DialogOptions.cpp:943
+msgid "TrayIcon"
+msgstr ""
+
+#: Application/DialogOptions.cpp:748
+msgid "Author"
+msgstr "អ្នក​និពន្ធ"
+
+#: Application/DialogOptions.cpp:763
+msgid "Homepage"
+msgstr "ទំព័រ​មុខ"
+
+#: Application/DialogOptions.cpp:770
+msgid "Addons"
+msgstr ""
+
+#: Application/DialogOptions.cpp:794
+msgid "This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "នេះ​គឺ​ជា​ពុម្ព Rainlendar ចាស់. ទ្រង់​ទ្រាយ​ខ្លះ​មិន​ត្រូវ​បាន​ទទួល​ស្គាល់."
+
+#: Application/DialogOptions.cpp:830
+#: Application/res/options.cpp:32
+msgid "Advanced >>>"
+msgstr "កំរិត​ខ្ពស់>>>"
+
+#: Application/DialogOptions.cpp:834
+msgid "<<< Simple"
+msgstr "<<<សាមញ្ញ"
+
+#: Application/DialogOptions.cpp:1357
+msgid "Hotkey"
+msgstr "គ្រាប់​ចុច​លឿន"
+
+#: Application/DialogOptions.cpp:1358
+msgid "Function"
+msgstr "មុខ​ងារ"
+
+#: Application/DialogOptions.cpp:1450
+#: Application/res/manager.cpp:17
+msgid "Search:"
+msgstr "ស្វែង​រក:"
+
+#: Application/DialogOptions.cpp:1482
+msgid "Do you want to reset all settings?"
+msgstr "តើ​អ្នក​ចង់​ធ្វើ​ឲ្យ​ការ​កែតម្រូវទៅ​ជា​សភាព​ដើម​មែន​ទេ?"
+
+#: Application/DialogOptions.cpp:1483
+msgid "This will reset all settings to default values. The default settings are applied immediately. Do you want to continue?"
+msgstr ""
+
+#: Application/DialogOptions.cpp:1560
+msgid "Common"
+msgstr ""
+
+#: Application/DialogOptions.cpp:1561
+#: Application/DialogOptions.cpp:1930
+msgid "Enabled"
+msgstr "បាន​ដំណើរការ"
+
+#: Application/DialogOptions.cpp:1562
+#: Application/DialogOptions.cpp:1934
+msgid "Read only"
+msgstr "ត្រឹម​តែ​អាន​តែ​ប៉ុណ្ណោះ"
+
+#: Application/DialogOptions.cpp:1563
+#: Application/DialogOptions.cpp:1938
+msgid "Suppress alarms"
+msgstr ""
+
+#: Application/DialogOptions.cpp:1575
+#: Application/DialogOptions.cpp:1942
+msgid "Visual category"
+msgstr ""
+
+#: Application/DialogOptions.cpp:1704
+msgid "The 'On Desktop' setting is incompatible with Windows Vista or newer Windows operating system."
+msgstr ""
+
+#: Application/DialogOptions.cpp:1705
+msgid "Rainlendar doesn't work properly with this setting due to the changes in the Windows Vista desktop. It is not advised to use this setting."
+msgstr ""
+
+#: Application/DialogOptions.cpp:1717
+msgid "The 'On Desktop' setting is incompatible with multiple monitors."
+msgstr ""
+
+#: Application/DialogOptions.cpp:1718
+msgid "The window position cannot be set correctly if the secondary monitor is on the negative (i.e. left) side of the primary monitor. It is not adviced to use this setting."
+msgstr ""
+
+#: Application/DialogOptions.cpp:1800
+#, c-format
+msgid "Copy of %s"
+msgstr ""
+
+#: Application/DialogOptions.cpp:1804
+msgid "Please enter a name for the calendar."
+msgstr "សូមបញ្ជូល​ឈ្មោះសំរាប់ ប្រតិទិន"
+
+#: Application/DialogOptions.cpp:1809
+#: Application/DialogOptions.cpp:1814
+msgid "Unable to create the calendar!"
+msgstr "មិនអាច​បង្កើត​ប្រតិទិនបាន!"
+
+#: Application/DialogOptions.cpp:1809
+msgid "You must give a name for the calendar."
+msgstr "អ្នក​ត្រូវ​តែ​អោយឈ្មោះ​សំរាប់ ប្រតិទិន"
+
+#: Application/DialogOptions.cpp:1832
+#, c-format
+msgid "A calendar called \"%s\" already exists."
+msgstr ""
+
+#: Application/DialogOptions.cpp:1833
+msgid "Choose another name."
+msgstr "ជ្រើស​រើស​ឈ្មោះ​ផ្សេង​ទៀត"
+
+#: Application/DialogOptions.cpp:2311
+msgid "IMPORTANT! Read the documentation before changing these settings. It's possible to make Rainlendar inoperable if you just randomly change the values. Consider yourself warned!"
+msgstr ""
+
+#: Application/DialogPrint.cpp:32
+msgid "Print"
+msgstr "បោះ​ពុម្ព"
+
+#: Application/DialogPrint.cpp:68
+msgid "Print items"
+msgstr "វត្ថុបោះ​ពុម្ព"
+
+#: Application/DialogSkinSettings.cpp:53
+#: Application/res/options.cpp:22
+msgid "Settings"
+msgstr "ការ​កែតម្រូវ"
+
+#: Application/DialogSkinSettings.cpp:66
+msgid "Variables"
+msgstr ""
+
+#: Application/DialogSkinSettings.cpp:74
+msgid "Window settings"
+msgstr "ការ​កែតម្រូវ បង្អួច"
+
+#: Application/DialogSkinSettings.cpp:79
+msgid "Settings can be shown only for a single window."
+msgstr ""
+
+#: Application/DialogSkinSettings.cpp:83
+msgid "No settings available."
+msgstr "មិនមាន ការកែប្រែទេ!"
+
+#: Application/DialogSkinSettings.cpp:119
+msgid "Global variables"
+msgstr ""
+
+#: Application/DialogSkinSettings.cpp:177
+#: Application/DialogSkinSettings.cpp:358
+msgid "Visible"
+msgstr "មើល​ឃើញ"
+
+#: Application/DialogSkinSettings.cpp:180
+#: Application/DialogSkinSettings.cpp:359
+msgid "Grow upwards"
+msgstr ""
+
+#: Application/DialogSkinSettings.cpp:183
+#: Application/DialogSkinSettings.cpp:361
+msgid "Scale"
+msgstr "កំរិត"
+
+#: Application/DialogSkinSettings.cpp:187
+msgid "Filters"
+msgstr "ទ្រង់​ទ្រាយ"
+
+#: Application/DialogSkinSettings.cpp:192
+#: Application/DialogSkinSettings.cpp:391
+msgid "Visible calendars"
+msgstr "មើលឃើញ ប្រតិទិន"
+
+#: Application/DialogSkinSettings.cpp:204
+#: Application/DialogSkinSettings.cpp:398
+msgid "Included categories"
+msgstr "បាន​បញ្ជូល ផ្នែក"
+
+#: Application/DialogSkinSettings.cpp:205
+#: Application/DialogSkinSettings.cpp:413
+msgid "Excluded categories"
+msgstr "បាន​បញ្ចេញ ផ្នែក"
+
+#: Application/DialogSkinSettings.cpp:210
+msgid "Window variables"
+msgstr ""
+
+#: Application/DialogSkinSettings.cpp:258
+msgid "Operations"
+msgstr ""
+
+#: Application/DialogSkinSettings.cpp:307
+#: Application/DialogSkinSettings.cpp:434
+msgid "Left click"
+msgstr "ចុចខាងឆ្វេង"
+
+#: Application/DialogSkinSettings.cpp:310
+#: Application/DialogSkinSettings.cpp:444
+msgid "Right click"
+msgstr "ចុចខាងស្តាំ"
+
+#: Application/DialogSkinSettings.cpp:313
+#: Application/DialogSkinSettings.cpp:454
+msgid "Double left click"
+msgstr "ចុចខាងឆ្វេង ពីរដង"
+
+#: Application/DialogSkinSettings.cpp:316
+#: Application/DialogSkinSettings.cpp:464
+msgid "Double right click"
+msgstr "ចុចខាងស្ដាំ ពីរដង"
+
+#: Application/DropTarget.cpp:52
+#: Application/DropTarget.cpp:309
+msgid "skin"
+msgstr "ពុម្ព"
+
+#: Application/DropTarget.cpp:58
+msgid "addon"
+msgstr ""
+
+#: Application/DropTarget.cpp:65
+msgid "language"
+msgstr "ភាសា"
+
+#: Application/DropTarget.cpp:73
+msgid "license"
+msgstr "អាជ្ញាបណ័"
+
+#: Application/DropTarget.cpp:79
+msgid "Upgrade to Pro version before installing the license."
+msgstr ""
+
+#: Application/DropTarget.cpp:80
+msgid "You are still using the Lite version which doesn't include the Pro features. You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+
+#: Application/DropTarget.cpp:83
+msgid "&Get Pro"
+msgstr "&ទាញ​យក Rainlendar កំពូល"
+
+#: Application/DropTarget.cpp:84
+msgid "&Ignore"
+msgstr "&បដិសេធ"
+
+#: Application/DropTarget.cpp:103
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+
+#: Application/DropTarget.cpp:104
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr ""
+
+#: Application/DropTarget.cpp:131
+#, c-format
+msgid "Unknown file \"%s\"."
+msgstr "មិន​ស្គាល់​ឯកសារ \"%s\""
+
+#: Application/DropTarget.cpp:132
+msgid "The file cannot be imported into Rainlendar."
+msgstr "ឯកសារ​នេះ​មិនអាចបញ្ជូល​ក្នុង Rainlendar បានទេ!"
+
+#: Application/DropTarget.cpp:139
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr ""
+
+#: Application/DropTarget.cpp:159
+#, c-format
+msgid "Unable to install the file \"%s\"."
+msgstr "មិន​អាច​បញ្ជូល​ឯកសារ \"%s\""
+
+#: Application/DropTarget.cpp:160
+#: Application/Util.cpp:3251
+msgid "The folder does not have write permissions."
+msgstr ""
+
+#: Application/DropTarget.cpp:226
+#, c-format
+msgid "The skin %s doesn't exist."
+msgstr "ពុម្ព %s មិន​ទាន់​មាន"
+
+#: Application/DropTarget.cpp:227
+msgid "Unable to merge the addon."
+msgstr ""
+
+#: Application/DropTarget.cpp:259
+#, c-format
+msgid ""
+"The %s \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+
+#: Application/DropTarget.cpp:287
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr ""
+
+#: Application/DropTarget.cpp:329
+msgid "Unable to install the skin!"
+msgstr "មិនអាច​បញ្ជូល​ពុម្ពបាន!"
+
+#: Application/DropTarget.cpp:330
+msgid "The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml format Rainlendar skin?"
+msgstr ""
+
+#: Application/DropTarget.cpp:352
+#, c-format
+msgid "The %s was installed successfully!"
+msgstr "%s បាន​បញ្ជូល​ដោយ​ជោគ​ជ័យ!"
+
+#: Application/DropTarget.cpp:353
+msgid "Please refresh (or restart) Rainlendar to see the changes."
+msgstr "សូម​ធ្វើ​ឲ្យ​ស្រស់ រឺ ចាប់​ផ្ដើម Rainlendar ម្តងទៀត​ដើម្បី​មើល​ការ​ប្រែ​ប្រួល!"
+
+#: Application/DropTarget.cpp:358
+#, c-format
+msgid "The %s installation failed!"
+msgstr "%s ការ​បញ្ជូល​បរាជ័យ!"
+
+#: Application/DropTarget.cpp:402
+msgid "Select the calendars for the imported items:"
+msgstr "ជ្រើស​រើស​ប្រតិទិនសំរាប់​បញ្ជូល​វត្ថុ:"
+
+#: Application/DropTarget.cpp:418
+msgid ""
+"Import failed.\n"
+"\n"
+"There are no calendars available that are able to store the item."
+msgstr ""
+"ការ​ដាក់​បញ្ជូល​បរាជ័យ!\n"
+"\n"
+"មិន​មាន​ប្រតិទិន​ដំណើរ​ការណាមួយ ​សំរាប់​ផ្ដុក​វត្ថុ​ទេ!"
+
+#: Application/DropTarget.cpp:436
+#, c-format
+msgid "Imported %i items successfully."
+msgstr "បាន​បញ្ជូល វត្ថុ %i ដោយ​ជោគ​ជ័យ"
+
+#: Application/DropTarget.cpp:448
+msgid "You need to select at least one calendar for the imported events"
+msgstr ""
+
+#: Application/DropTarget.cpp:540
+#, c-format
+msgid ""
+"This skin addon is for version %s of the skin.\n"
+"The installed version is %s."
+msgstr ""
+
+#: Application/DropTarget.cpp:556
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+
+#: Application/DropTarget.cpp:770
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr ""
+
+#: Application/HotkeyControl.cpp:104
+msgid "Win"
+msgstr "Win"
+
+#: Application/HotkeyControl.cpp:110
+msgid "Control"
+msgstr "Control"
+
+#: Application/HotkeyControl.cpp:116
+msgid "Alt"
+msgstr "Alt"
+
+#: Application/HotkeyControl.cpp:122
+msgid "Shift"
+msgstr "Shift"
+
+#: Application/HotkeyControl.cpp:170
+msgid "Back"
+msgstr "ថយ"
+
+#: Application/HotkeyControl.cpp:172
+msgid "Tab"
+msgstr "Tab"
+
+#: Application/HotkeyControl.cpp:174
+msgid "Return"
+msgstr "ត្រឡប់"
+
+#: Application/HotkeyControl.cpp:176
+msgid "Esc"
+msgstr "ចាក​ចេញ"
+
+#: Application/HotkeyControl.cpp:178
+msgid "Space"
+msgstr "ដកឃ្លា"
+
+#: Application/HotkeyControl.cpp:180
+#: Application/ItemCalendar.cpp:251
+#: Application/ItemListAlarm.cpp:428
+#: Application/ItemListAlarm.cpp:439
+#: Application/res/event.cpp:44
+#: Application/res/event.cpp:45
+#: Application/res/manager.cpp:11
+#: Application/res/todo.cpp:68
+#: Application/res/todo.cpp:69
+msgid "Delete"
+msgstr "លុប"
+
+#: Application/HotkeyControl.cpp:182
+msgid "Page Up"
+msgstr "Page Up"
+
+#: Application/HotkeyControl.cpp:184
+msgid "Page Down"
+msgstr "Page Down"
+
+#: Application/HotkeyControl.cpp:198
+msgid "Insert"
+msgstr "បញ្ជូល"
+
+#: Application/HotkeyControl.cpp:232
+msgid "NumLock"
+msgstr "NumLock"
+
+#: Application/HotkeyControl.cpp:234
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+#: Application/ItemCalendar.cpp:235
+#, c-format
+msgid "Edit \"%s\""
+msgstr "កែប្រែ \"%s\""
+
+#: Application/ItemCalendar.cpp:243
+msgid "Delete all"
+msgstr "លុប​ទាំង​អស់"
+
+#: Application/ItemCalendar.cpp:254
+msgid "Events"
+msgstr "ព្រឹត្តិការណ៍"
+
+#: Application/ItemListAlarm.cpp:216
+#, c-format
+msgid " (Due in %s)"
+msgstr ""
+
+#: Application/ItemListAlarm.cpp:222
+#, c-format
+msgid " (Overdue %s)"
+msgstr ""
+
+#: Application/ItemListAlarm.cpp:236
+#: Application/ItemListAlarm.cpp:263
+#: Application/ItemListAlarm.cpp:396
+msgid "day"
+msgstr "ថ្ងៃ"
+
+# Plural version of "day". Shown in the alarm window's due date counter.
+#: Application/ItemListAlarm.cpp:236
+#: Application/ItemListAlarm.cpp:263
+#: Application/ItemListAlarm.cpp:396
+msgid "days"
+msgstr "ថ្ងៃ"
+
+#: Application/ItemListAlarm.cpp:240
+#: Application/ItemListAlarm.cpp:404
+msgid "hour"
+msgstr "ម៉ោង"
+
+#: Application/ItemListAlarm.cpp:240
+#: Application/ItemListAlarm.cpp:404
+msgid "hours"
+msgstr "ម៉ោង"
+
+#: Application/ItemListAlarm.cpp:244
+#: Application/ItemListAlarm.cpp:412
+msgid "minute"
+msgstr "នាទី"
+
+#: Application/ItemListAlarm.cpp:244
+#: Application/ItemListAlarm.cpp:412
+msgid "minutes"
+msgstr "នាទី"
+
+#: Application/ItemListAlarm.cpp:382
+msgid "Dismiss"
+msgstr "បិទចោល"
+
+#: Application/ItemListAlarm.cpp:417
+msgid "Snooze "
+msgstr "រោទ៍​ម្ដងទៀត"
+
+#: Application/ItemListAlarm.cpp:425
+#: Application/ItemListAlarm.cpp:436
+msgid "Edit..."
+msgstr "កែប្រែ..."
+
+#: Application/ItemListEvent.cpp:374
+#, c-format
+msgid " (%i days)"
+msgstr ""
+
+#: Application/ItemListEvent.cpp:397
+msgid "Today"
+msgstr "ថ្ងៃនេះ"
+
+#: Application/ItemListEvent.cpp:401
+msgid "Tomorrow"
+msgstr "ស្អែក"
+
+#: Application/ItemListEvent.cpp:405
+msgid "Yesterday"
+msgstr "ម្សិល​មិញ"
+
+# The %1 will be replaced with the day (e.g. Last Monday). This text is shown in the event list.
+#: Application/ItemListEvent.cpp:444
+#: Application/ItemListEvent.cpp:480
+msgid "Last %1"
+msgstr ""
+
+#: Application/ItemListEvent.cpp:451
+#: Application/ItemListEvent.cpp:508
+msgid "%1 next week"
+msgstr ""
+
+#: Application/ItemListEvent.cpp:456
+#: Application/ItemListEvent.cpp:488
+msgid "%1 last week"
+msgstr ""
+
+#: Application/ItemListEvent.cpp:461
+#: Application/ItemListEvent.cpp:494
+msgid "%1 %2 weeks ago"
+msgstr ""
+
+#: Application/ItemListEvent.cpp:468
+#: Application/ItemListEvent.cpp:513
+msgid "%1 in %2 weeks"
+msgstr ""
+
+#: Application/ItemListEvent.cpp:626
+msgid "Edit event"
+msgstr "កែប្រែ​ ព្រឹត្តិការណ៍"
+
+#: Application/ItemListEvent.cpp:628
+msgid "Delete event"
+msgstr "លុប ព្រឹត្តិការណ៍"
+
+#: Application/ItemListEvent.cpp:638
+msgid "Event list"
+msgstr "តារាង​ព្រឹតិការណ៍"
+
+#: Application/ItemListTodo.cpp:139
+#, c-format
+msgid "[Due %x]"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:586
+msgid "No location"
+msgstr "គ្មាន​ទីតាំង"
+
+#: Application/ItemListTodo.cpp:594
+msgid "No category"
+msgstr "គ្មាន​ផ្នែក"
+
+#: Application/ItemListTodo.cpp:608
+msgid "Unknown"
+msgstr "មិន​ស្គាល់"
+
+#: Application/ItemListTodo.cpp:636
+msgid "High Priority"
+msgstr "អាទិភាព​ខ្ពស់"
+
+#: Application/ItemListTodo.cpp:639
+msgid "Medium Priority"
+msgstr "អាទិភាព​ល្មម"
+
+#: Application/ItemListTodo.cpp:642
+msgid "Low Priority"
+msgstr "អាទភាព​តិច"
+
+#: Application/ItemListTodo.cpp:646
+msgid "No Priority"
+msgstr "គ្មាន​អាទិភាព"
+
+#: Application/ItemListTodo.cpp:1049
+#: Application/ItemListTodo.cpp:1060
+msgid "Alphabetically"
+msgstr "តាម​លំដាប់​អក្សរ"
+
+#: Application/ItemListTodo.cpp:1050
+#: Application/ItemListTodo.cpp:1061
+msgid "By Category"
+msgstr "តាម​ផ្នែក"
+
+#: Application/ItemListTodo.cpp:1051
+#: Application/ItemListTodo.cpp:1062
+msgid "By Due Date"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:1052
+#: Application/ItemListTodo.cpp:1063
+msgid "By Start Date"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:1053
+#: Application/ItemListTodo.cpp:1064
+msgid "By Status"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:1054
+#: Application/ItemListTodo.cpp:1065
+msgid "By Priority"
+msgstr "តាមអាទិភាព"
+
+#: Application/ItemListTodo.cpp:1055
+#: Application/ItemListTodo.cpp:1066
+msgid "By Location"
+msgstr "តាមទីតាំង"
+
+#: Application/ItemListTodo.cpp:1056
+#: Application/ItemListTodo.cpp:1067
+msgid "By Calendar"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:1057
+#: Application/ItemListTodo.cpp:1068
+msgid "Custom"
+msgstr "គំរូ"
+
+#: Application/ItemListTodo.cpp:1097
+msgid "Primary sort order"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:1099
+msgid "Secondary sort order"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:1129
+msgid "Edit task"
+msgstr "កែប្រែ​កិច្ច​ការ"
+
+#: Application/ItemListTodo.cpp:1131
+msgid "Delete task"
+msgstr "លុប​កិច្ចការ"
+
+#: Application/ItemListTodo.cpp:1142
+msgid "Hide completed tasks"
+msgstr "បិតបាំង ការងារ​ដែល​រួចរាល់"
+
+#: Application/ItemListTodo.cpp:1147
+msgid "Hide canceled tasks"
+msgstr "បិតបាំង កិច្ច​ដែល​បាន​បិទ"
+
+#: Application/ItemListTodo.cpp:1152
+msgid "Hide upcoming tasks"
+msgstr "បិទបាំង កិច្ចការ​ដែល​នឹង​មកដល់"
+
+#: Application/ItemListTodo.cpp:1158
+msgid "Todo list"
+msgstr "តារាង កិច្ចការ​ត្រូវ​ធ្វើ"
+
+#: Application/ItemListTooltip.cpp:65
+msgid "No events today."
+msgstr "ថ្ងៃនេះ​មិនមាន​ព្រឹតិការណ៍​ទេ"
+
+#: Application/ItemListTooltip.cpp:87
+msgid "Today's events:"
+msgstr "ព្រឹតិការណ៍​ថ្ងៃនេះ:"
+
+#: Application/ItemTime.cpp:113
+#: Application/SkinXML.cpp:1119
+msgid "Local"
+msgstr "តំបន់"
+
+#: Application/PluginManager.cpp:160
+msgid "Invalid plugins found!"
+msgstr "បាន​រកឃើញ​កម្មវិធី​ជំនួយ​មិន​ត្រឹម​ត្រូវ!"
+
+#: Application/PluginManager.cpp:161
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"តាម​ឯកសារ​នៅ​ក្នុង កម្មវិធី​ជំនួយ​របស់ Rainlendar\n"
+"ថតឯកសារ​ណាដែល​មិន​ត្រឹម​ត្រូវ​គួរ​តែ​លុប​ចោល:\n"
+
+#: Application/PluginManager.cpp:170
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+
+#: Application/Rainlendar.cpp:142
+msgid "allow multiple instances"
+msgstr ""
+
+#: Application/Rainlendar.cpp:143
+msgid "install a skin or a language"
+msgstr "បញ្ជូល ពុម្ព រឺ ភាសា"
+
+#: Application/Rainlendar.cpp:144
+msgid "import the given file"
+msgstr ""
+
+#: Application/Rainlendar.cpp:145
+msgid "path where the configuration file will be stored"
+msgstr ""
+
+#: Application/Rainlendar.cpp:146
+msgid "execute the given function in a script"
+msgstr ""
+
+#: Application/Rainlendar.cpp:147
+msgid "path where the log file will be stored"
+msgstr ""
+
+#: Application/Rainlendar.cpp:148
+msgid "path where the backups will be stored"
+msgstr ""
+
+#: Application/Rainlendar.cpp:149
+msgid "add event or task to the calendar"
+msgstr "ដាក់ ព្រឹត្តិការណ៍ រឺ កិច្ចការ ទៅ​ក្នុង​ប្រតិទិន"
+
+#: Application/Rainlendar.cpp:150
+msgid "enable verbose logging"
+msgstr ""
+
+#: Application/Rainlendar.cpp:151
+msgid "enable debug logging"
+msgstr ""
+
+#: Application/Rainlendar.cpp:152
+msgid "don't show the messagebox after importing and installing files"
+msgstr ""
+
+#: Application/Rainlendar.cpp:400
+msgid "Do you want to start another instance?"
+msgstr ""
+
+#: Application/Rainlendar.cpp:401
+msgid "Rainlendar seems to be already running. You can start another instance by selecting 'Yes'."
+msgstr ""
+
+#: Application/Rainlendar.cpp:404
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start Rainlendar please remove this file:\n"
+msgstr ""
+
+#: Application/Rainlendar.cpp:425
+#, c-format
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+
+#: Application/Rainlendar.cpp:457
+#, c-format
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+
+#: Application/Rainlendar.cpp:459
+msgid "You won't be able to store any settings permanently."
+msgstr ""
+
+#: Application/Rainlendar.cpp:525
+#, c-format
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+
+#: Application/Rainlendar.cpp:742
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog again. Click 'No' to make all windows visible again."
+msgstr ""
+
+#: Application/Rainlendar.cpp:910
+#: Application/Rainlendar.cpp:970
+msgid "Startup error!"
+msgstr ""
+
+#: Application/Rainlendar.cpp:911
+msgid "Rainlendar was not able to refresh the settings correctly. Do you want to reset all settings and try again?"
+msgstr ""
+
+#: Application/Rainlendar.cpp:914
+msgid "&Reset"
+msgstr "&ម្ដង​ទៀត"
+
+#: Application/Rainlendar.cpp:915
+msgid "&Keep"
+msgstr "&រក្សា​ទុក"
+
+#: Application/Rainlendar.cpp:956
+#, c-format
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"គ្មាន​ពុម្ពក្នុងភ្នែក:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:971
+msgid "Rainlendar was not able to load the selected skin. Do you want to use the default skin instead?"
+msgstr "Rainlendar មិន​អាច​បើក​ពុម្ព​ដែល​បាន​ជ្រើស​រើស​នោះ​ទេ. តើ​អ្នក​ចង់​ប្រើ​ពុម្ព​លំនាំ​ដើម​ជំនួស​វិញ​រឺ?"
+
+#: Application/Rainlendar.cpp:984
+msgid "Unable to load the skin. Check the log for more details."
+msgstr ""
+
+#: Application/Rainlendar.cpp:1004
+#: Application/Resource.h:282
+msgid "Yes"
+msgstr "បាទ/ចាស៎"
+
+#: Application/Rainlendar.cpp:1004
+#: Application/Resource.h:283
+msgid "No"
+msgstr "ទេ"
+
+#: Application/Rainlendar.cpp:1291
+msgid ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+msgstr ""
+"មើល​ទៅ​ អាជ្ញាបណ័​នេះ​ដូច​ជា​មាន​ការ​ខុស​ឆ្គង.\n"
+"សូម​មើល​ម្ដង​ទៀត​ថា​តើ​អាស័យដ្ឋាន​ទាញយក​របស់​អ្នក​ត្រូវ​រឺ​នៅ? រួច​សូម​ទាញ​យក​ម្ដង​ទៀត!"
+
+#: Application/Rainlendar.cpp:1645
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+
+#: Application/Rainlendar.cpp:1652
+msgid "Do you want to import them?"
+msgstr "តើអ្នក​ចង់​បញ្ជូល​ពួកវារឺ?"
+
+#: Application/Rainlendar.cpp:1674
+#, c-format
+msgid "Import failed with file: \"%s\""
+msgstr ""
+
+#: Application/SkinIni.cpp:281
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 0 to 11 for a specific month in the current year."
+msgstr ""
+
+#: Application/SkinIni.cpp:495
+msgid "Defines the width of the event list."
+msgstr "កំណត់​ប្រវែង​ទទឹង​នៃតារាង​ព្រឹត្តិការណ៍"
+
+#: Application/SkinIni.cpp:496
+msgid "Defines the width of the todo list."
+msgstr "កំណត់​ប្រវែង​ទទឹង​នៃ​តារាង​កិច្ចការ​ត្រូវ​ធ្វើ"
+
+#: Application/SkinManager.cpp:98
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+
+#: Application/SkinManager.cpp:103
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+
+#: Application/SkinManager.cpp:108
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+
+#: Application/TrayIcon.cpp:568
+msgid "Synchronizing"
+msgstr ""
+
+#: Application/TrayIcon.cpp:572
+msgid "Offline"
+msgstr "មិន​នៅលើ​បណ្ដាញ"
+
+#: Application/Util.cpp:1578
+msgid "Jan"
+msgstr "មក"
+
+#: Application/Util.cpp:1580
+msgid "Feb"
+msgstr "កុម្ភៈ"
+
+#: Application/Util.cpp:1582
+msgid "Mar"
+msgstr "មិនា"
+
+#: Application/Util.cpp:1584
+msgid "Apr"
+msgstr "មេសា"
+
+#: Application/Util.cpp:1588
+msgid "Jun"
+msgstr "មិថុ"
+
+#: Application/Util.cpp:1590
+msgid "Jul"
+msgstr "កក្ក"
+
+#: Application/Util.cpp:1592
+msgid "Aug"
+msgstr "សីហា"
+
+#: Application/Util.cpp:1594
+msgid "Sep"
+msgstr "កញ្ញា"
+
+#: Application/Util.cpp:1596
+msgid "Oct"
+msgstr "តុលា"
+
+#: Application/Util.cpp:1598
+msgid "Nov"
+msgstr "វិច្ឆិ"
+
+#: Application/Util.cpp:1600
+msgid "Dec"
+msgstr "ធ្នូ"
+
+#: Application/Util.cpp:2442
+#: Application/Resource.h:304
+msgid "Birthday"
+msgstr "ខួប​កំណើត"
+
+#: Application/Util.cpp:2443
+#: Application/Resource.h:303
+msgid "Anniversary"
+msgstr "ថ្ងៃគំរប់ខួប"
+
+# This defines how the years are shown after the birthdays and anniversaries. The %1 will be replaced with the ordinal number (e.g. \"2nd\"). Alternatively you can also use %2 which will display just the number (e.g. \"2\").
+#: Application/Util.cpp:2482
+msgid " (%1)"
+msgstr ""
+
+# This is the common ordinal format. Set it like the ordinal numbers (5th, 27th, 599th) are usually written in your language. The %i will be raplaced with the number. The exceptions are defined in the next entry.
+#: Application/Util.cpp:2869
+#, c-format
+msgid "%ith"
+msgstr ""
+
+# These are the the exceptions to the ordinal numbers. The numeric value in the exceptions is checked with the ordinal number and if the last numbers match the exception format is used instead of the normal format. For example "11th" will match with 11, 111, 211, 311, etc. The "1st" will match with 1, 21, 31, ..., 101, 121, 131, etc. Note that "1st" will not be used with 11, 111, 211, etc. because the "11th" was checked and matched first.
+#: Application/Util.cpp:2870
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "ទី១១,ទី១២,ទី១៣,ទី១,ទី២,ទី៣"
+
+#: Application/Util.cpp:3096
+msgid "edit"
+msgstr "កែ​ប្រែ"
+
+#: Application/Util.cpp:3240
+msgid "Do you want to create the file?"
+msgstr "តើ​អ្នក​ពិតជា​ចង់​បង្កើត​ឯកសារ​មែន​រឺ?"
+
+#: Application/Util.cpp:3241
+#, c-format
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"ឯកសារ​នេះ​មិនមាន​ទេ:\n"
+"%s"
+
+#: Application/Util.cpp:3250
+#, c-format
+msgid "Unable to create the file \"%s\"."
+msgstr "មិន​អាច​បង្កើត​ឯកសារ \"%s\""
+
+#: Application/Util.cpp:3453
+msgid "This is a read only event."
+msgstr "នេះ​ជា​ព្រឺត្តិការណ៍ ដែល​ត្រឹម​តែ​អាច​អាន​ប៉ុណ្ណោះ"
+
+#: Application/Util.cpp:3453
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr ""
+
+#: Application/Util.cpp:3457
+msgid "This is a read only task."
+msgstr "នេះ​ជាកិច្ចការ​ដែល​បាន​ត្រឹម​តែ​អាន​ប៉ុណ្ណោះ"
+
+#: Application/Util.cpp:3457
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "វា​មិនអាច​កែប្រែ កិច្ចការនេះ​ជាមួយ Rainlendar បាន​ទេ"
+
+#: Application/WizardCalendar.cpp:25
+#: Application/WizardCalendar.cpp:30
+msgid "Create a new calendar"
+msgstr "បង្កើត​ប្រតិទិន​ថ្មី"
+
+#: Application/WizardPageCalendar.cpp:42
+msgid "Please select the type of the calendar."
+msgstr "សូមជ្រើស​ប្រភេទ​ប្រតិទីន"
+
+#: Application/WizardPageCalendar.cpp:46
+msgid "The calendar type defines the format of the events and where they are stored."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:61
+msgid "Type"
+msgstr "ប្រភេទ"
+
+#: Application/WizardPageCalendar.cpp:86
+msgid "No calendar selected!"
+msgstr "មិន​មាន​ប្រតិទិន​បាន​ជ្រើស​រើស!"
+
+#: Application/WizardPageCalendar.cpp:87
+msgid "You need to select a calendar type."
+msgstr "អ្នក​ត្រូវ​តែ​ជ្រើស​រើស​ប្រភេទ​ប្រតិទិន"
+
+#: Application/WizardPageCalendar.cpp:177
+#: Application/res/alarm.cpp:3
+msgid "Browse..."
+msgstr "មើល​ត្រួស..."
+
+#: Application/WizardPageCalendar.cpp:258
+msgid "No urls allowed!"
+msgstr "មិន​អនុញ្ញាតឲ្យ​មាន គេហទំព័រ"
+
+#: Application/WizardPageCalendar.cpp:259
+msgid "Only local files can be defined as the file name."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:266
+msgid "No UNC paths allowed!"
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:267
+msgid "It's not possible to use UNC paths as the file name. You need to map the network drive to be able to access the files on a server."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:274
+msgid "No filename defined!"
+msgstr "មិនមាន​ឈ្មោះ​ឯកសារ​បាន​កំណត់!"
+
+#: Application/WizardPageCalendar.cpp:275
+msgid "You cannot leave the filename field empty. You need to define a file where the events and tasks will be stored."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:282
+msgid "The file name is missing."
+msgstr "ឈ្មោះ​ឯកសារ​មិនមាន!"
+
+#: Application/WizardPageCalendar.cpp:283
+#: Application/WizardPageCalendar.cpp:320
+msgid "If you are creating a new calendar you can enter anything as the name. Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:303
+msgid "The url is empty!"
+msgstr "អាស័យដ្ឋាន​គេហទំព័រ ទទេរ!"
+
+#: Application/WizardPageCalendar.cpp:304
+msgid "You cannot leave the url field empty. You need to define a file where the events and tasks will be stored."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:311
+msgid "The protocol is missing!"
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:312
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:319
+msgid "The file name is missing from the url!"
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:335
+msgid "Incorrect email!"
+msgstr "អ៊ីម៊ែល​មិន​ត្រឹម​ត្រូវ!"
+
+#: Application/WizardPageCalendar.cpp:336
+msgid "You need to enter a full email address."
+msgstr "អ្នក​ត្រូវ​វាយ​បញ្ជូល​អាស័យដ្ឋាន អ៊ីម៊ែល​ឲ្យ​បាន​ពេញ​លេញ"
+
+#: Application/WizardPageCalendar.cpp:445
+msgid "Please choose a name for the the calendar."
+msgstr "សូម​ជ្រើស​រើស​ឈ្មោះ​មួយ សំរាប់​ប្រតិទិន!"
+
+#: Application/WizardPageCalendar.cpp:453
+msgid "Name"
+msgstr "ឈ្មោះ"
+
+#: Application/WizardPageCalendar.cpp:539
+msgid "The calendar already exists!"
+msgstr "ប្រតិទិន​នេះ​មាន​រួច​ហើយ!"
+
+#: Application/WizardPageCalendar.cpp:540
+msgid "Please choose some other name for the calendar."
+msgstr "សូម​ជ្រើស​រើស​ឈ្មោះ​ផ្សេង​ទៀត​សំរាប់​ប្រតិទីន!"
+
+#: Application/WizardPageCalendar.cpp:548
+msgid "The calendar name is empty!"
+msgstr "ឈ្មោះ​ប្រតិទិន គឺ​ទទេ!"
+
+#: Application/WizardPageCalendar.cpp:549
+msgid "You need to give some name for the calendar."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:557
+msgid "Illegal character!"
+msgstr "តួអក្សរ​មិន​អនុញ្ញាត!"
+
+#: Application/res/about.cpp:2
+#: Application/res/manager.cpp:8
+#: Application/res/manager.cpp:18
+#: Application/res/print.cpp:11
+msgid "Close"
+msgstr "បិទ"
+
+#: Application/res/alarm.cpp:1
+msgid "Alarm sound"
+msgstr "សម្លេង​កណ្ដឹង​រោទ៍"
+
+#: Application/res/alarm.cpp:2
+msgid "Select the sound file for the alarm"
+msgstr "ជ្រើស​រើស​ឯកសារសំលេង សំរាប់​កណ្ដឹង​រោទ៍"
+
+#: Application/res/event.cpp:3
+#: Application/res/todo.cpp:3
+msgid "Save\tCtrl+S"
+msgstr "រក្សា​ទុក\tCtrl+S"
+
+#: Application/res/event.cpp:4
+#: Application/res/todo.cpp:4
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "រក្សា​ទុក​ថ្មី\tShift+Ctrl+S"
+
+#: Application/res/event.cpp:5
+#: Application/res/todo.cpp:5
+msgid "Delete\tCtrl+Delete"
+msgstr "លុប\tCtrl+Delete"
+
+#: Application/res/event.cpp:6
+#: Application/res/todo.cpp:6
+msgid "Close\tAlt-F4"
+msgstr "បិទ\tAlt-F4"
+
+#: Application/res/event.cpp:9
+#: Application/res/todo.cpp:9
+msgid "Summary:"
+msgstr "សង្ខេប:"
+
+#: Application/res/event.cpp:10
+#: Application/res/todo.cpp:10
+msgid "Location:"
+msgstr "ទីតាំង:"
+
+#: Application/res/event.cpp:11
+#: Application/res/todo.cpp:11
+msgid "Private"
+msgstr "ភាព​ឯកជន"
+
+#: Application/res/event.cpp:12
+#: Application/res/todo.cpp:12
+msgid "Url:"
+msgstr "គេហទំព័រ:"
+
+#: Application/res/event.cpp:13
+#: Application/res/todo.cpp:13
+msgid "Start time:"
+msgstr "ពេល​ចាប់​ផ្ដើម:"
+
+#: Application/res/event.cpp:14
+msgid "All day event"
+msgstr "ព្រឹតិការណ៍​គ្រប់​ថ្ងៃ"
+
+#: Application/res/event.cpp:15
+msgid "End time:"
+msgstr "ពេល​បញ្ចប់:"
+
+#: Application/res/event.cpp:16
+msgid "Mark time as busy"
+msgstr "ធ្វើ​ពេលវេលា​ជា ការ​រវល់"
+
+#: Application/res/event.cpp:18
+#: Application/res/event.cpp:19
+#: Application/res/todo.cpp:43
+msgid "Minutes"
+msgstr "នាទី"
+
+#: Application/res/event.cpp:20
+#: Application/res/todo.cpp:44
+msgid "Hours"
+msgstr "ម៉ោង"
+
+#: Application/res/event.cpp:21
+#: Application/res/event.cpp:27
+#: Application/res/todo.cpp:42
+#: Application/res/todo.cpp:45
+#: Application/res/todo.cpp:51
+msgid "Days"
+msgstr "ថ្ងៃ"
+
+#: Application/res/event.cpp:22
+msgid "before the event starts."
+msgstr "មុន​ពេល​ដែល ព្រឹត្តិការណ៍​ចាប់​ផ្ដើម"
+
+#: Application/res/event.cpp:25
+#: Application/res/todo.cpp:49
+msgid "Recurrence"
+msgstr "ការ​មានឡើង​វិញ"
+
+#: Application/res/event.cpp:26
+#: Application/res/todo.cpp:50
+msgid "Repeat every"
+msgstr ""
+
+#: Application/res/event.cpp:28
+#: Application/res/todo.cpp:52
+msgid "Weeks"
+msgstr "សប្ដាហ៍"
+
+#: Application/res/event.cpp:29
+#: Application/res/todo.cpp:53
+msgid "Months"
+msgstr "ខែ"
+
+#: Application/res/event.cpp:30
+#: Application/res/todo.cpp:54
+msgid "Years"
+msgstr "ឆ្នាំ"
+
+#: Application/res/event.cpp:31
+#: Application/res/todo.cpp:55
+msgid "Mon"
+msgstr "ចន្ទ័"
+
+#: Application/res/event.cpp:32
+#: Application/res/todo.cpp:56
+msgid "Tue"
+msgstr "អង្គ"
+
+#: Application/res/event.cpp:33
+#: Application/res/todo.cpp:57
+msgid "Wed"
+msgstr "ពុធ"
+
+#: Application/res/event.cpp:34
+#: Application/res/todo.cpp:58
+msgid "Thu"
+msgstr "ព្រហ"
+
+#: Application/res/event.cpp:35
+#: Application/res/todo.cpp:59
+msgid "Fri"
+msgstr "សុក្រ"
+
+#: Application/res/event.cpp:36
+#: Application/res/todo.cpp:60
+msgid "Sat"
+msgstr "សៅរ័"
+
+#: Application/res/event.cpp:37
+#: Application/res/todo.cpp:61
+msgid "Sun"
+msgstr "អាទិ"
+
+#: Application/res/event.cpp:38
+#: Application/res/todo.cpp:62
+msgid "Repeat"
+msgstr "ធ្វើ​ម្ដង​ទៀត"
+
+#: Application/res/event.cpp:39
+#: Application/res/todo.cpp:63
+msgid "Forever"
+msgstr "រៀង​រហូត"
+
+#: Application/res/event.cpp:40
+#: Application/res/todo.cpp:64
+msgid "Number of times"
+msgstr ""
+
+#: Application/res/event.cpp:41
+#: Application/res/todo.cpp:65
+msgid "Until"
+msgstr "រហូត​ដល់"
+
+#: Application/res/event.cpp:42
+#: Application/res/todo.cpp:66
+msgid "Exception dates"
+msgstr "កាលបរិច្ឆេទ​លើក​លែង"
+
+#: Application/res/event.cpp:43
+#: Application/res/options.cpp:27
+#: Application/res/todo.cpp:67
+msgid "Add"
+msgstr "បន្ថែម"
+
+#: Application/res/manager.cpp:3
+msgid "Import"
+msgstr "បញ្ជូល"
+
+#: Application/res/manager.cpp:4
+msgid "Export"
+msgstr "បញ្ជេញ"
+
+#: Application/res/manager.cpp:5
+#: Application/res/print.cpp:9
+msgid "Print..."
+msgstr "បោះពុម្ព..."
+
+#: Application/res/manager.cpp:6
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:223
+msgid "Backup"
+msgstr ""
+
+#: Application/res/manager.cpp:7
+msgid "Restore"
+msgstr "បង្កើត​ឡើង​វិញ"
+
+#: Application/res/manager.cpp:9
+msgid "New"
+msgstr "ថ្មី"
+
+#: Application/res/manager.cpp:10
+msgid "Edit"
+msgstr "កែប្រែ"
+
+#: Application/res/manager.cpp:12
+msgid "Copy to..."
+msgstr "ចម្លងទៅ..."
+
+#: Application/res/manager.cpp:13
+msgid "Move to..."
+msgstr "ផ្លាស់​ប្ដូរ​ទៅ..."
+
+#: Application/res/manager.cpp:14
+msgid "Set categories..."
+msgstr ""
+
+#: Application/res/manager.cpp:15
+msgid "Show events"
+msgstr "បង្ហាញ​ព្រឹតិការណ៍"
+
+#: Application/res/manager.cpp:16
+msgid "Show todo items"
+msgstr "បង្ហាញ​វត្ថុ​ត្រូវ​ធ្វើ"
+
+#: Application/res/options.cpp:2
+msgid "Week's start day:"
+msgstr "ថ្ងៃ​ចាប់​ផ្ដើម ក្នុង​សប្ដាហ៍:"
+
+#: Application/res/options.cpp:3
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "បង្ហាញ​ព្រឹត្តិការណ៍​ថ្ងៃនេះ នៅលើ​ថាស​បង្ហាញ ពេល​ដែល Rainlendar ចាប់​ផ្ដើម"
+
+#: Application/res/options.cpp:4
+msgid "Add years to birthdays and anniversaries"
+msgstr ""
+
+#: Application/res/options.cpp:5
+msgid "Hide windows if there are no items"
+msgstr ""
+
+#: Application/res/options.cpp:6
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr ""
+
+#: Application/res/options.cpp:7
+msgid "Lock windows in place"
+msgstr "ចាក​សោរ​បង្អួច​ឲ្យ​នៅ​ទីតាំង​នេះ"
+
+#: Application/res/options.cpp:8
+msgid "Enable on startup"
+msgstr ""
+
+#: Application/res/options.cpp:9
+msgid "Language:"
+msgstr "ភាសា:"
+
+#: Application/res/options.cpp:10
+msgid "Position"
+msgstr "ទីតាំង"
+
+#: Application/res/options.cpp:11
+msgid "On Top"
+msgstr "នៅលើ"
+
+#: Application/res/options.cpp:13
+msgid "On Bottom"
+msgstr "នៅក្រោម"
+
+#: Application/res/options.cpp:14
+msgid "On Desktop"
+msgstr "នៅ​លើ អេក្រង់"
+
+#: Application/res/options.cpp:15
+msgid "Transparency"
+msgstr "មើល​ថ្លុះ"
+
+#: Application/res/options.cpp:16
+msgid "Normal:"
+msgstr "ធម្មតា:"
+
+#: Application/res/options.cpp:17
+msgid "Mouse over:"
+msgstr "ដាក់ កូនកណ្ដុរ​ពីលើ:"
+
+#: Application/res/options.cpp:19
+msgid "Add..."
+msgstr "បន្ថែម..."
+
+#: Application/res/options.cpp:20
+#: Application/res/options.cpp:28
+msgid "Remove"
+msgstr "លុប"
+
+#: Application/res/options.cpp:21
+msgid "Duplicate..."
+msgstr "ចម្លង..."
+
+#: Application/res/options.cpp:24
+msgid "Action:"
+msgstr "សកម្មភាព:"
+
+#: Application/res/options.cpp:25
+msgid "Hotkey:"
+msgstr "គ្រាប់​ចុច​លឿន"
+
+#: Application/res/options.cpp:26
+msgid "Set"
+msgstr ""
+
+#: Application/res/options.cpp:29
+msgid "Available skins"
+msgstr "ពុម្ព​ដែល​ដំនើរ​ការ"
+
+#: Application/res/options.cpp:30
+msgid "Active skins"
+msgstr "ពុម្ព​សកម្មភាព"
+
+#: Application/res/options.cpp:31
+msgid "Settings..."
+msgstr "ការ​កែតម្រូវ..."
+
+#: Application/res/options.cpp:33
+msgid "Details"
+msgstr "លម្អិត"
+
+#: Application/res/print.cpp:1
+msgid "All items"
+msgstr "វត្ថុ​ទាំង​អស់"
+
+#: Application/res/print.cpp:2
+msgid "Selected items"
+msgstr "វត្ថុ​ដែលបាន​ជ្រើស​រើស"
+
+#: Application/res/print.cpp:3
+msgid "Day range"
+msgstr ""
+
+#: Application/res/print.cpp:4
+msgid "Select days"
+msgstr "ជ្រើស​រើស​ថ្ងៃ"
+
+#: Application/res/print.cpp:7
+msgid "Add title"
+msgstr "ដាក់​ចំនង​ជើង"
+
+#: Application/res/print.cpp:8
+msgid "Preview..."
+msgstr "មើល​ជាមុន..."
+
+#: Application/res/print.cpp:10
+msgid "Page Setup..."
+msgstr "កំណែប្រែ​ទំព័រ..."
+
+#: Application/res/todo.cpp:14
+msgid "Due time:"
+msgstr "ពេលវេលា​មកដល់:"
+
+#: Application/res/todo.cpp:15
+msgid "Show in calendar"
+msgstr "បង្ហាញ​ក្នុង​ប្រតិទិន"
+
+#: Application/res/todo.cpp:16
+msgid "Priority:"
+msgstr ""
+
+#: Application/res/todo.cpp:22
+msgid "Status:"
+msgstr "ស្ថានការណ៍:"
+
+#: Application/res/todo.cpp:23
+#: Application/res/todo.cpp:24
+msgid "Not Started"
+msgstr "មិនបាន​ចាប់​ផ្ដើម"
+
+#: Application/res/todo.cpp:28
+msgid "Progress:"
+msgstr ""
+
+#: Application/res/todo.cpp:29
+#: Application/res/todo.cpp:30
+msgid "0 %"
+msgstr "0 %"
+
+#: Application/res/todo.cpp:31
+msgid "10 %"
+msgstr "10 %"
+
+#: Application/res/todo.cpp:32
+msgid "20 %"
+msgstr "20 %"
+
+#: Application/res/todo.cpp:33
+msgid "30 %"
+msgstr "30 %"
+
+#: Application/res/todo.cpp:34
+msgid "40 %"
+msgstr "40 %"
+
+#: Application/res/todo.cpp:35
+msgid "50 %"
+msgstr "50 %"
+
+#: Application/res/todo.cpp:36
+msgid "60 %"
+msgstr "60 %"
+
+#: Application/res/todo.cpp:37
+msgid "70 %"
+msgstr "70 %"
+
+#: Application/res/todo.cpp:38
+msgid "80 %"
+msgstr "80 %"
+
+#: Application/res/todo.cpp:39
+msgid "90 %"
+msgstr "90 %"
+
+#: Application/res/todo.cpp:40
+msgid "100 %"
+msgstr "100 %"
+
+#: Application/res/todo.cpp:46
+msgid "before the task is due."
+msgstr "មុន​កិច្ចការ​មកដល់"
+
+#: Plugins/Common/ThreadHelper.cpp:386
+msgid "Make sure that your network is working and that your firewall is not blocking the connection."
+msgstr ""
+
+#: Plugins/Common/ThreadHelper.cpp:397
+msgid "Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr ""
+
+#: Plugins/Common/ThreadHelper.cpp:398
+msgid "Unable to resolve the host."
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:200
+msgid "Email"
+msgstr "អ៊ីម៊ែល"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:204
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:215
+msgid "Password"
+msgstr "កូត​សម្ងាត់"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:208
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:219
+#: Plugins/OutlookPlugin/MapiHandler.cpp:495
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:194
+msgid "Poll frequency (mins)"
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:212
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:227
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:198
+msgid "Suppress errors"
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:216
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:231
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:202
+msgid "Keep offline copy"
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:220
+msgid "Use default Google Calendar alarms"
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:271
+msgid ""
+"Choose the name of the calendar, email and password for your Google account.\n"
+"You can also leave the calendar field empty if you only have a one calendar."
+msgstr ""
+"ជ្រើសរើស​ឈ្មោះ​សំរាប់​ប្រតិទិន, អ៊ីម៊ែល និង កូត​សំងាត​សំរាប់​គណនីហ្គូល​ហ្គល.\n"
+"អ្នក​ព្រម​ទាំង​អាច​ទុក​វាល​ប្រតិទិន​ទទេ​ក៏បាន ប្រសិន​ជា​អ្នក​មាន​ប្រតិទិន​តែ​មួយ."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:230
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:428
+#: Plugins/GooglePlugin/GoogleThread.cpp:1180
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:509
+msgid ""
+"Google Error!\n"
+"Unable to parse the calendar url."
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:535
+msgid ""
+"Google Error!\n"
+"It seems that you have entered an url as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:539
+msgid ""
+"Google Error!\n"
+"Unable to find the chosen calendar.\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:653
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to delete the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:841
+msgid ""
+"Google Error!\n"
+"The event cannot be uploaded to the Google Calendar due to a conflict. The updated event will be reloaded from the Google Calendar."
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:894
+#: Plugins/GooglePlugin/GoogleThread.cpp:1143
+msgid ""
+"Google Error!\n"
+"Unable to parse the events."
+msgstr ""
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:931
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to upload the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:698
+msgid "Filename"
+msgstr "ឈ្មោះ​ឯកសារ"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:703
+msgid "Monitor changes"
+msgstr ""
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:756
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a new file will be created."
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:207
+msgid "URL"
+msgstr "URL"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:211
+msgid "Username"
+msgstr "ឈ្មោះ​អ្នក​ប្រើ"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:235
+msgid "Safe upload"
+msgstr "ដំឡើង​ដោយ​សុវត្ថិភាព"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:239
+msgid "Authentication"
+msgstr "ត្រឹម​ត្រូវ​តាម​ច្បាប់"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:242
+msgid "Basic"
+msgstr "ដំបូង"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:243
+msgid "Digest"
+msgstr "រំលាយ"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:244
+msgid "GSS-Negotiate"
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:245
+msgid "NTLM"
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:291
+msgid ""
+"Choose an URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password fields can be left empty if they are not needed."
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:195
+#: Plugins/NetworkPlugin/NetworkThread.cpp:217
+#: Plugins/NetworkPlugin/NetworkThread.cpp:384
+#: Plugins/NetworkPlugin/NetworkThread.cpp:434
+msgid "Network Error!"
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:197
+msgid "Unable to add the item to the online calendar."
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:219
+msgid "Unable to remove the item from the online calendar."
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:386
+#, c-format
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:436
+msgid "The server returned an empty result. Make sure that the calendar url points to a file and not to a folder."
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:467
+#, c-format
+msgid ""
+"Network Error!\n"
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:851
+#, c-format
+msgid ""
+"Network Error!\n"
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:124
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library."
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:368
+#: Plugins/OutlookPlugin/MapiHandler.cpp:576
+#: Plugins/OutlookPlugin/MapiHandler.cpp:590
+msgid "Application"
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:382
+#: Plugins/OutlookPlugin/MapiHandler.cpp:597
+msgid "Profile"
+msgstr "ទម្រង់"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:405
+#: Plugins/OutlookPlugin/MapiHandler.cpp:603
+msgid "MessageStore"
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:428
+msgid "Folders"
+msgstr "ថត"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:435
+msgid "Default Folder"
+msgstr "ថត លំនាំដើម"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:480
+msgid "Use labels instead of categories"
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:485
+msgid "Show edit links"
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:490
+msgid "Keep MAPI connection alive"
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:657
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiItem.cpp:451
+#: Plugins/OutlookPlugin/MapiItem.cpp:465
+#, c-format
+msgid " [[outlook:%s][edit]]"
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:460
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:524
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:540
+msgid "Outlook error!"
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:462
+#, c-format
+msgid "Updating the item failed. Error code 0x%p"
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:526
+#: Plugins/OutlookPlugin/MapiMessageStore.cpp:542
+#, c-format
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:75
+msgid "Unable to find the Rememer The Milk task list!"
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:77
+#, c-format
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:82
+msgid "Please write the name exactly like it is in the above list."
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:316
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:522
+msgid "Unable to parse the ID from the task."
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:566
+msgid "Unable to create the task."
+msgstr "មិន​អាច​បង្កើត​កិច្ចការ​បាន"
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:572
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:619
+msgid "Unable to parse the timeline."
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:801
+msgid "The service is temporarily unavailable."
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:947
+msgid "Please log in to Remember The Milk."
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:949
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. Please log in to the Remember The Milk web site and give Rainlendar access to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK button."
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:955
+msgid "Continue after authorization."
+msgstr "បន្ត​ក្រោយ​ការ​អនុញ្ញាត"
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:957
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:991
+msgid "Unable to parse the output."
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1109
+#, c-format
+msgid "Unknown response for call \"%s\"."
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1125
+#, c-format
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1141
+#, c-format
+msgid "Call to method \"%s\" failed."
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1151
+#: Plugins/RememberTheMilkPlugin/RTMThread.cpp:70
+msgid "Remember The Milk Error!"
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1162
+#, c-format
+msgid "Server returned result: (%i) %i %s."
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:190
+msgid "List"
+msgstr "បញ្ជី"
+
+#: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:259
+msgid "Choose the name of the task list from the Remember The Milk. You can also leave the field empty if you want to get all your lists."
+msgstr ""
+
+#: Plugins/RememberTheMilkPlugin/RTMThread.cpp:72
+msgid "Authentication token is missing. You need to give Rainlendar access to your Remember The Milk account."
+msgstr ""
+
+#: Application/Resource.h:287
+msgid "Update"
+msgstr "ដំឡើង​កំណែ"
+
+#: Application/Resource.h:289
+msgid "Make a selection:"
+msgstr ""
+
+#: Application/Resource.h:291
+msgid "Hide Windows"
+msgstr "បិទបាំង បង្អួច"
+
+#: Application/Resource.h:292
+msgid "Show Windows"
+msgstr "បង្ហាញ​បង្អួច"
+
+#: Application/Resource.h:293
+msgid "Toggle Windows"
+msgstr ""
+
+#: Application/Resource.h:298
+msgid "Create New Task"
+msgstr "បង្កើត​កិច្ចការ​ថ្មី"
+
+#: Application/Resource.h:299
+msgid "Create New Event"
+msgstr "បង្កើត​ព្រឹតិការណ៍​ថ្មី"
+
+#: Application/Resource.h:300
+msgid "Create new event or task"
+msgstr "បង្កើតប្រត្តិការណ៍​ រឺ កិច្ចការ​ថ្មី"
+
+#: Application/Resource.h:301
+msgid "Quit Application"
+msgstr "បិទ​កម្មវិធី"
+
+#: Application/Resource.h:305
+msgid "Business"
+msgstr "ពាណិជ្ជកម្ម"
+
+#: Application/Resource.h:306
+msgid "Calls"
+msgstr "តេ"
+
+#: Application/Resource.h:307
+msgid "Clients"
+msgstr "អតិថិជន"
+
+#: Application/Resource.h:308
+msgid "Competition"
+msgstr "ការ​ប្រកួត"
+
+#: Application/Resource.h:309
+msgid "Customer"
+msgstr "ភ្ញៀវ"
+
+#: Application/Resource.h:310
+msgid "Exam"
+msgstr "ប្រលង"
+
+#: Application/Resource.h:311
+msgid "Favorites"
+msgstr "ចំនូល​ចិត្ត"
+
+#: Application/Resource.h:312
+msgid "Follow Up"
+msgstr "បន្តរក"
+
+#: Application/Resource.h:313
+msgid "Gifts"
+msgstr "កាដូ"
+
+#: Application/Resource.h:314
+msgid "Holidays"
+msgstr "ថ្ងៃ​ឈប់​សំរាក"
+
+#: Application/Resource.h:315
+msgid "Ideas"
+msgstr "គំនិត"
+
+#: Application/Resource.h:316
+msgid "Important"
+msgstr "សំខាន់"
+
+#: Application/Resource.h:317
+msgid "Issues"
+msgstr ""
+
+#: Application/Resource.h:318
+msgid "Miscellaneous"
+msgstr "ផ្សេងៗ"
+
+#: Application/Resource.h:319
+msgid "Personal"
+msgstr "ផ្ទាល់​ខ្លួន"
+
+#: Application/Resource.h:320
+msgid "Projects"
+msgstr "បំណង"
+
+#: Application/Resource.h:321
+msgid "Public Holiday"
+msgstr "ថ្ងៃឈប់​សំរាក ជាសាធារណៈ"
+
+#: Application/Resource.h:323
+msgid "Suppliers"
+msgstr ""
+
+#: Application/Resource.h:324
+msgid "Travel"
+msgstr "ការ​ធ្វើ​ដំនើរ"
+
+#: Application/Resource.h:325
+msgid "Trip"
+msgstr "ដំនើរ​កំសាន្ត"
+
+#: Application/Resource.h:326
+#: Application/Resource.h:487
+msgid "TV"
+msgstr "ទូរទស្សន៍"
+
+#: Application/Resource.h:327
+msgid "Vacation"
+msgstr "វិស្សមកាល"
+
+#: Application/Resource.h:328
+msgid "Work"
+msgstr "ធ្វើ​ការ"
+
+#: Application/Resource.h:329
+msgid "Medical"
+msgstr "ការ​ពិនិត្យ"
+
+#: Application/Resource.h:331
+msgid "Urgent"
+msgstr "ប្រញាប់"
+
+#: Application/Resource.h:332
+msgid "Health"
+msgstr "សុខភាព"
+
+#: Application/Resource.h:333
+msgid "Sport"
+msgstr "កីឡា"
+
+#: Application/Resource.h:334
+msgid "Game"
+msgstr "ហ្គេម"
+
+#: Application/Resource.h:335
+msgid "School"
+msgstr "សាលា"
+
+#: Application/Resource.h:336
+msgid "Party"
+msgstr "ជប់លៀង"
+
+#: Application/Resource.h:338
+msgid "[Black]"
+msgstr "[ខ្មៅ]"
+
+#: Application/Resource.h:339
+msgid "[Blue]"
+msgstr "[ខៀវ]"
+
+#: Application/Resource.h:340
+msgid "[Brown]"
+msgstr "[ត្នោត]"
+
+#: Application/Resource.h:341
+msgid "[Cyan]"
+msgstr "[ខៀវ]"
+
+#: Application/Resource.h:342
+msgid "[Green]"
+msgstr "[បៃតង]"
+
+#: Application/Resource.h:343
+msgid "[Grey]"
+msgstr "[ប្រផេះ]"
+
+#: Application/Resource.h:344
+msgid "[Magenta]"
+msgstr "[ស្វាយ​ខ្ចី]"
+
+#: Application/Resource.h:345
+msgid "[Pink]"
+msgstr "[ផ្កាឈូក]"
+
+#: Application/Resource.h:346
+msgid "[Red]"
+msgstr "[ក្រហម]"
+
+#: Application/Resource.h:347
+msgid "[Yellow]"
+msgstr "[លឿង]"
+
+#: Application/Resource.h:350
+msgid "Must Attend"
+msgstr "ត្រូវ​តែ​យក​ចិត្ត​ទុកដាក់"
+
+#: Application/Resource.h:351
+msgid "Travel Required"
+msgstr ""
+
+#: Application/Resource.h:352
+msgid "Needs Preparation"
+msgstr ""
+
+#: Application/Resource.h:353
+msgid "Phone Call"
+msgstr "តេទូរសព្ទ័"
+
+#: Application/Resource.h:355
+msgid "iCalendar Format"
+msgstr "ទម្រង់ជា iCalendar"
+
+#: Application/Resource.h:356
+msgid "Network Shared Calendar"
+msgstr ""
+
+#: Application/Resource.h:357
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+#: Application/Resource.h:358
+msgid "Rainlendar Ini Format"
+msgstr "Rainlendar ទ្រង់​ទ្រាយ Ini"
+
+#: Application/Resource.h:359
+msgid "Google Calendar"
+msgstr "ប្រតិទិន ហ្គូលហ្គល"
+
+#: Application/Resource.h:361
+msgid "&Next >"
+msgstr "&ទៅមុខ >"
+
+#: Application/Resource.h:362
+msgid "< &Back"
+msgstr "< &ត្រលប់​ក្រោយ"
+
+#: Application/Resource.h:363
+msgid "&Finish"
+msgstr "&បញ្ចប់"
+
+#: Application/Resource.h:365
+msgid "Vertical Calendar"
+msgstr "ប្រតិទិន​បញ្ឈរ"
+
+#: Application/Resource.h:367
+msgid "Year Calendar"
+msgstr "ប្រតិទិន​ឆ្នាំ"
+
+#: Application/Resource.h:368
+msgid "Sidebar"
+msgstr ""
+
+#: Application/Resource.h:369
+msgid "DigiClock"
+msgstr "នាឡិកា លេខ"
+
+#: Application/Resource.h:370
+msgid "Dual Calendar"
+msgstr "ប្រតិទិន ពីរ"
+
+#: Application/Resource.h:371
+msgid "Event List"
+msgstr "តារាង ព្រឹត្តិការណ៍"
+
+#: Application/Resource.h:372
+msgid "Todo List"
+msgstr "តារាង កិច្ចការត្រូវ​ធ្វើ"
+
+#: Application/Resource.h:373
+msgid "Grid Calendar"
+msgstr "ក្រឡា​ប្រតិទិន"
+
+#: Application/Resource.h:374
+msgid "Vertical Line Calendar"
+msgstr "ជួរប្រតិទិន​បញ្ឈរ"
+
+#: Application/Resource.h:375
+msgid "Horizontal Line Calendar"
+msgstr "ជួរ​ប្រតិទិន​ផ្ដេក"
+
+#: Application/Resource.h:377
+#: Application/Resource.h:386
+msgid "Visible month"
+msgstr "មើល​ឃើញ​ខែ"
+
+#: Application/Resource.h:378
+msgid "Show buttons"
+msgstr "បង្ហាញ​ប៊ូតុង"
+
+#: Application/Resource.h:379
+msgid "Show adjacent days"
+msgstr "បង្ហាញ​ថ្ងៃ​ដែល​នៅ​កៀក​គ្នា"
+
+#: Application/Resource.h:380
+msgid "Eventlist width"
+msgstr "ប្រវែង​ទទឹង តារាង​ព្រឹតិការណ៍"
+
+#: Application/Resource.h:381
+msgid "Eventlist height"
+msgstr "ប្រវែង​បណ្ដោយ តារាង​ព្រឹតិកាណ៍"
+
+#: Application/Resource.h:382
+msgid "Todolist width"
+msgstr "ប្រវែង​ទទឹង តារាង​កិច្ចការត្រូវ​ធ្វើ"
+
+#: Application/Resource.h:383
+msgid "Todolist height"
+msgstr "ប្រវែង​បណ្ដោយ តារាង​កិច្ចការត្រូវ​ធ្វើ"
+
+#: Application/Resource.h:384
+msgid "Calendar list width"
+msgstr "ប្រវែង​ទទឹង​តារាង​ប្រតិទិន"
+
+#: Application/Resource.h:385
+msgid "Calendar list height"
+msgstr "ប្រវែង​បណ្ដោយ តារាង​ប្រតិទិន"
+
+#: Application/Resource.h:387
+msgid "Width"
+msgstr "ទទឹង"
+
+#: Application/Resource.h:388
+msgid "Show week numbers"
+msgstr "បង្ហញ​លេខ សប្ដាហ៍"
+
+#: Application/Resource.h:389
+msgid "Format"
+msgstr "ទម្រង់"
+
+#: Application/Resource.h:390
+msgid "Timezone"
+msgstr "ល្វែង​ម៉ោង"
+
+#: Application/Resource.h:391
+msgid "Show 3rd month"
+msgstr "បង្ញាញ ៣ខែ"
+
+#: Application/Resource.h:392
+msgid "Show 4th month"
+msgstr "បង្ញាញ ៤ខែ"
+
+#: Application/Resource.h:393
+msgid "Show 5th month"
+msgstr "បង្ញាញ ៥ខែ"
+
+#: Application/Resource.h:394
+msgid "Show 6th month"
+msgstr "បង្ញាញ ៦ខែ"
+
+#: Application/Resource.h:395
+msgid "Show 7th month"
+msgstr "បង្ញាញ ៧ខែ"
+
+#: Application/Resource.h:396
+msgid "Show 8th month"
+msgstr "បង្ញាញ ៨ខែ"
+
+#: Application/Resource.h:397
+msgid "Color"
+msgstr "ពណ៌"
+
+#: Application/Resource.h:398
+msgid "Analog Clock"
+msgstr "នាឡិកា​ទ្រនិច"
+
+#: Application/Resource.h:399
+msgid "Calendar List"
+msgstr "តារាង ប្រតិទិន"
+
+#: Application/Resource.h:400
+msgid "X count"
+msgstr ""
+
+#: Application/Resource.h:401
+msgid "Y count"
+msgstr ""
+
+#: Application/Resource.h:403
+msgid "Snooze All"
+msgstr "រោទ៍​ម្ដង​ទៀត​ទាំង​អស់"
+
+#: Application/Resource.h:404
+msgid "Dismiss All"
+msgstr "បិទចោល​ទាំង​អស់"
+
+#: Application/Resource.h:406
+msgid "To do"
+msgstr "ត្រូវ​ធ្វើ"
+
+#: Application/Resource.h:409
+msgid "Today color"
+msgstr "ពណ៌​ថ្ងៃនេះ"
+
+#: Application/Resource.h:410
+msgid "Today shape"
+msgstr "រង្វង់​គូស​ជុំ​វិញ​ថ្ងៃ​"
+
+#: Application/Resource.h:411
+msgid "Circle"
+msgstr "រង្វង់​មូល"
+
+#: Application/Resource.h:412
+msgid "Rectangle"
+msgstr "ចតុកោណ"
+
+#: Application/Resource.h:413
+#: Application/Resource.h:446
+msgid "Red"
+msgstr "ក្រហម"
+
+#: Application/Resource.h:414
+msgid "Orange"
+msgstr "ទឹក​ក្រូច"
+
+#: Application/Resource.h:415
+#: Application/Resource.h:447
+msgid "Yellow"
+msgstr "លឿង"
+
+#: Application/Resource.h:416
+#: Application/Resource.h:444
+msgid "Green"
+msgstr "បៃតង"
+
+#: Application/Resource.h:417
+#: Application/Resource.h:443
+msgid "Cyan"
+msgstr "ខៀវ​ផ្ទៃមេឃ"
+
+#: Application/Resource.h:418
+#: Application/Resource.h:442
+msgid "Blue"
+msgstr "ខៀវ"
+
+#: Application/Resource.h:419
+msgid "Magenta"
+msgstr "ស្វាយ​ខ្ចី"
+
+#: Application/Resource.h:420
+msgid "A sequel to the popular Shadow3-skin with some added features like visible days from the next and previous month and a skinned tooltip."
+msgstr ""
+
+#: Application/Resource.h:421
+#: Application/Resource.h:429
+#: Application/Resource.h:449
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 1 to 12 for a specific month in the current year."
+msgstr ""
+
+#: Application/Resource.h:422
+msgid "Set to 0 to hide the next and previous buttons from the calendar."
+msgstr ""
+
+#: Application/Resource.h:423
+msgid "Set to 0 to hide the days from the previous and next month."
+msgstr ""
+
+#: Application/Resource.h:424
+msgid "Defines the width of the event list. The default value is 165 pixels."
+msgstr "កំណត់​ប្រវែង​ទទឺង​តារាង​ព្រឹត្តិការណ៍. ប្រវែងដើម​គឺ 165 pixels."
+
+#: Application/Resource.h:425
+#: Application/Resource.h:451
+msgid "Defines the maximum height of the event list. The default value is 300 pixels."
+msgstr "កំណត់​ប្រវែង​បណ្ដោយ​ពេញ​នៃ​តារាង ព្រឹត្តិការណ៍. ប្រវែង​ដើម​គឺ 300 pixels."
+
+#: Application/Resource.h:426
+msgid "Defines the width of the to do list. The default value is 165 pixels."
+msgstr "កំណត់​ប្រវែង​ទទឹង​តារាង​កិច្ចការ​ត្រូវ​ធ្វើ. ប្រវែង​ដើម​គឺ 165 pixels."
+
+#: Application/Resource.h:427
+#: Application/Resource.h:452
+msgid "Defines the maximum height of the to do list. The default value is 300 pixels."
+msgstr "កំណត់​ប្រវែង​បណ្ដោយ​ពេញ​នៃ​តារាង​ កិច្ចការ​ត្រូវ​ធ្វើ. ប្រវែង​ដើម​គឺ​គឺ 300 pixels."
+
+#: Application/Resource.h:428
+msgid "Defines the width of the calendar list. The default value is 165 pixels."
+msgstr "កំណត់​ប្រវែង​ទទឹង​តារាង​ប្រតិទិន. ប្រវែង​ដើម​គឺ 165 pixels."
+
+#: Application/Resource.h:430
+msgid "Defines the width of the window. The default value is 165 pixels."
+msgstr "កំណត់​ប្រវែង​ទទឹង​នៃ​បង្អួច. ប្រវែង​ដើម​គឺ 165 pixels."
+
+#: Application/Resource.h:431
+msgid "Set to 0 to hide the week numbers from the calendar."
+msgstr ""
+
+#: Application/Resource.h:432
+msgid "This defines the format of the clock. To get rid of the seconds use %H:%M or %#I:%M %p"
+msgstr ""
+
+#: Application/Resource.h:433
+msgid "Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . You can also use values like CET, EST, PST, A_CST, ..."
+msgstr "កំណត់​ល្វែង​ម៉ោង. ដាក់​ទៅ​ជា​លេខ: ... -3, -2, -1, 0, +1, +2, +3, ... . អ្នក​ព្រម​ទាំង​អាច​ប្រើស​ប្រាស់​ទ្រង់​ទ្រាយ​ដូច​ជា CET, EST, PST, A_CST, ... ជាដើម"
+
+#: Application/Resource.h:434
+msgid "Defines the color of the today marker."
+msgstr ""
+
+#: Application/Resource.h:435
+msgid "Defines the shape of the today marker."
+msgstr ""
+
+#: Application/Resource.h:436
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "កំណត់​ចំនួន​ប្រតិទិន​ត្រូវ​បង្ហាញ ជា​ជួរ​ផ្ដេក​នៅ​លើ​អេក្រង់"
+
+#: Application/Resource.h:437
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "កំណត់​ចំនួន​ប្រតិទីន​ត្រូវ​បង្ហាញ ជាជួរ​ឈរនៅ​លើ​អេក្រង់"
+
+#: Application/Resource.h:438
+msgid "Set to 0 to hide the weekdays from the calendar."
+msgstr ""
+
+#: Application/Resource.h:441
+msgid "The skin contains multiple different color variations. You can change them either from the skin's settings or by clicking the down arrow on the calendar."
+msgstr ""
+
+#: Application/Resource.h:445
+msgid "Brown"
+msgstr "ត្នោត"
+
+#: Application/Resource.h:448
+msgid "Defines the color of the windows."
+msgstr "កំណត់​ព៌ណ​សំរាប់​បង្អួច"
+
+#: Application/Resource.h:450
+msgid "Defines the format for the dates on the event list headers."
+msgstr ""
+
+#: Application/Resource.h:455
+msgid "Conditions: "
+msgstr ""
+
+#: Application/Resource.h:456
+msgid "Temperature: "
+msgstr "សីតុណ្ហភាព:"
+
+#: Application/Resource.h:457
+msgid "Humidity: "
+msgstr "សំណើម:"
+
+#: Application/Resource.h:458
+msgid "Winds: "
+msgstr "ខ្យល់:"
+
+#: Application/Resource.h:459
+msgid "Time: "
+msgstr "ពេលវេលា:"
+
+#: Application/Resource.h:460
+msgid "Refreshing..."
+msgstr "កំពុង​លាង​សំអាត..."
+
+#: Application/Resource.h:461
+msgid "Downloading: "
+msgstr "កំពុង​ទាញ​យក:"
+
+#: Application/Resource.h:462
+#: Application/Resource.h:467
+msgid "Download failed!"
+msgstr "ការទាញយក​បរាជ័យ!"
+
+#: Application/Resource.h:463
+msgid "Loading..."
+msgstr "សូមរង់​ចាំ..."
+
+#: Application/Resource.h:464
+msgid "Unknown result!"
+msgstr "មិនដឹង​លទ្ធផល!"
+
+#: Application/Resource.h:465
+msgid "Upcoming programs:"
+msgstr ""
+
+#: Application/Resource.h:466
+msgid "Parsing failed!"
+msgstr ""
+
+# The positions and the widths should be about the same as in the English string. There isn't much extra space in the widget.
+#: Application/Resource.h:468
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr "ថ្ងៃ     ម៉ោង   នាទី   វិនាទី"
+
+#: Application/Resource.h:469
+msgid "Loading feed..."
+msgstr ""
+
+# The word which separates the title and author in the photos widget. Leave empty or use '-' if this cannot be translated.
+#: Application/Resource.h:470
+msgid "by "
+msgstr "ដោយ"
+
+#: Application/Resource.h:471
+msgid "lo"
+msgstr "lo"
+
+#: Application/Resource.h:472
+msgid "hi"
+msgstr "សួស្ដី"
+
+#: Application/Resource.h:473
+msgid "Chance of precipitation"
+msgstr ""
+
+#: Application/Resource.h:474
+msgid "New moon"
+msgstr ""
+
+#: Application/Resource.h:475
+msgid "Waxing crescent"
+msgstr ""
+
+#: Application/Resource.h:476
+msgid "First quarter"
+msgstr ""
+
+#: Application/Resource.h:477
+msgid "Waxing gibbous"
+msgstr ""
+
+#: Application/Resource.h:478
+msgid "Full moon"
+msgstr "ពេញ​បូរមី"
+
+#: Application/Resource.h:479
+msgid "Waning gibbous"
+msgstr ""
+
+#: Application/Resource.h:480
+msgid "Last quarter"
+msgstr ""
+
+#: Application/Resource.h:481
+msgid "Waning crescent"
+msgstr ""
+
+#: Application/Resource.h:483
+msgid "Photos"
+msgstr "រូបថត"
+
+#: Application/Resource.h:484
+msgid "Weather"
+msgstr "អាកាសធាតុ"
+
+#: Application/Resource.h:485
+msgid "Countdown"
+msgstr "រាប់​ថយ​ក្រោយ"
+
+#: Application/Resource.h:486
+msgid "RSS"
+msgstr ""
+
+#: Application/Resource.h:488
+msgid "Create New"
+msgstr "បង្កើត​ថ្មី"
+
+#: Application/Resource.h:489
+msgid "Moonphase"
+msgstr ""
+
+#: Application/Resource.h:490
+msgid "QuickAdd"
+msgstr "ការ​បន្ថែម ដែល​លឿន"
+
+#: Application/Resource.h:492
+msgid "RSS width"
+msgstr ""
+
+#: Application/Resource.h:493
+#: Application/Resource.h:513
+msgid "Defines the width of the list. The default value is 165 pixels."
+msgstr ""
+
+#: Application/Resource.h:494
+msgid "RSS height"
+msgstr ""
+
+#: Application/Resource.h:495
+#: Application/Resource.h:515
+msgid "Defines the maximum height of the list. The default value is 300 pixels."
+msgstr ""
+
+#: Application/Resource.h:496
+msgid "RSS location"
+msgstr ""
+
+#: Application/Resource.h:497
+msgid "Location of the RSS feed."
+msgstr ""
+
+#: Application/Resource.h:498
+msgid "Weather location"
+msgstr "ទីតាំង​អាកាសធាតុ"
+
+#: Application/Resource.h:499
+msgid "Location of the weather feed."
+msgstr ""
+
+#: Application/Resource.h:500
+msgid "Photos random"
+msgstr ""
+
+#: Application/Resource.h:501
+msgid "Set to 0 to show the images in sequel. 1 shows them in random order."
+msgstr ""
+
+#: Application/Resource.h:502
+msgid "Photos update"
+msgstr "ដំឡើង​កំណែ រូបភាព"
+
+#: Application/Resource.h:503
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr ""
+
+#: Application/Resource.h:504
+msgid "Photos_folder"
+msgstr "ថត_រូបភាព"
+
+#: Application/Resource.h:505
+msgid "Defines the local folder which is scanned for photos. If this is left empty the photos are downloaded from Flickr."
+msgstr ""
+
+#: Application/Resource.h:506
+msgid "Countdown event"
+msgstr "រាប់​ព្រឺត្តិការណ៍​ថយ​ក្រោយ"
+
+#: Application/Resource.h:507
+msgid "The description of the event."
+msgstr "សេចក្ដី​អធិប្បាយ​នៃ​ព្រឹត្តិការណ៍"
+
+#: Application/Resource.h:508
+msgid "Countdown time"
+msgstr "រាប់​ពេលវេលា​ថយ​ក្រោយ"
+
+#: Application/Resource.h:509
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr ""
+
+#: Application/Resource.h:510
+msgid "Countdown date"
+msgstr "រាប់​កាលបរិច្ឆេទ​ថយ​ក្រោយ"
+
+#: Application/Resource.h:511
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr ""
+
+#: Application/Resource.h:512
+msgid "TV width"
+msgstr "ប្រវែង​ទទឹង ទូរទស្សន៍"
+
+#: Application/Resource.h:514
+msgid "TV height"
+msgstr "ប្រវែង​បណ្ដោយ​ទូរទស្សន៍"
+
+#: Application/Resource.h:517
+msgid "ctrl"
+msgstr "ctrl"
+
+#: Application/Resource.h:518
+msgid "alt"
+msgstr "alt"
+
+#: Application/Resource.h:519
+msgid "shift"
+msgstr "shift"
+
+#: Application/Resource.h:521
+msgid "Mark as completed"
+msgstr ""
+
+#: Application/Resource.h:522
+msgid "Mark as needs action"
+msgstr "ដាក់​ឲ្យ​ត្រូវការ​សកម្មភាព"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:42
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "ឯកសារ iCalendar  (*.ics)|*.ics|ឯកសារ vCalendar  (*.vcs)|*.vcs"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:43
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "ឯកសារ iCalendar  (*.ics)|*.ics"
+
+#: Plugins/IniFormatPlugin/IniFormatHandler.h:18
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "ឯកសារ Rainlendar (*.ini)|*.ini"
+

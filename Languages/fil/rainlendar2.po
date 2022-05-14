@@ -1,0 +1,2772 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-10-14 11:49+0800\n"
+"Last-Translator: Romnick C. Coros <rccoros@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: D:\\Projects\\Rainlendar2\n"
+"X-Poedit-Language: Filipino\n"
+"X-Poedit-Country: PHILIPPINES\n"
+"X-Poedit-SearchPath-0: Application\n"
+"X-Poedit-SearchPath-1: Plugins\n"
+"X-Poedit-SearchPath-2: Testbench\\Debug\\resources\n"
+
+#: Application/Config.cpp:746
+#: Application/Rainlendar.cpp:1113
+#: Application/Rainlendar.cpp:1124
+#: Application/Rainlendar.cpp:1238
+#: Plugins/OutlookPlugin/MapiHandler.cpp:596
+#: Application/Resource.h:273
+msgid "Default"
+msgstr "Default"
+
+#: Application/Config.cpp:752
+msgid "Copy"
+msgstr "Kopyahin"
+
+#: Application/Config.cpp:753
+msgid "Region"
+msgstr "Rehiyon"
+
+#: Application/Config.cpp:755
+msgid "Native"
+msgstr "Taal"
+
+#: Application/Config.cpp:764
+msgid "Sunday"
+msgstr "Linggo"
+
+#: Application/Config.cpp:765
+msgid "Monday"
+msgstr "Lunes"
+
+#: Application/Config.cpp:766
+msgid "Tuesday"
+msgstr "Martes"
+
+#: Application/Config.cpp:767
+msgid "Wednesday"
+msgstr "Miyerkules"
+
+#: Application/Config.cpp:768
+msgid "Thursday"
+msgstr "Huwebes"
+
+#: Application/Config.cpp:769
+msgid "Friday"
+msgstr "Biyernes"
+
+#: Application/Config.cpp:770
+msgid "Saturday"
+msgstr "Sabado"
+
+#: Application/Config.cpp:773
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+#: Application/DialogPrint.cpp:324
+#: Application/WindowTooltip.cpp:207
+msgid "Start"
+msgstr "Umpisa"
+
+#: Application/Config.cpp:774
+#: Application/DialogManager.cpp:975
+#: Application/DialogPrint.cpp:354
+#: Application/WindowTooltip.cpp:217
+msgid "Due"
+msgstr "Takda"
+
+#: Application/Config.cpp:775
+#: Application/DialogManager.cpp:975
+#: Application/WindowTooltip.cpp:228
+msgid "Priority"
+msgstr "Priyoridad"
+
+#: Application/Config.cpp:776
+#: Application/DialogManager.cpp:975
+#: Application/WindowTooltip.cpp:240
+#: Application/Resource.h:265
+msgid "Status"
+msgstr "Status"
+
+#: Application/Config.cpp:786
+#: Application/DialogOptions.cpp:83
+#: Application/DialogSkinSettings.cpp:67
+#: Application/res/options.cpp:1
+msgid "General"
+msgstr "Pangkalahatan"
+
+#: Application/Config.cpp:788
+#: Application/Config.cpp:872
+msgid "Time format"
+msgstr "Anyo ng oras"
+
+#: Application/Config.cpp:789
+#: Application/Config.cpp:873
+msgid "Date format"
+msgstr "Anyo ng petsa"
+
+#: Application/Config.cpp:790
+#: Application/Config.cpp:874
+msgid "Weekend days"
+msgstr "Mga araw ng katapusan ng linggo"
+
+#: Application/Config.cpp:791
+#: Application/Config.cpp:875
+msgid "Week number delta"
+msgstr "Week number delta"
+
+#: Application/Config.cpp:792
+#: Application/Config.cpp:877
+msgid "Default categories"
+msgstr "Mga default na kaurian"
+
+#: Application/Config.cpp:793
+#: Application/Config.cpp:887
+msgid "Show categories from the skin"
+msgstr "Ipakita ang mga kaurian galing sa mga balat"
+
+#: Application/Config.cpp:794
+#: Application/Config.cpp:888
+msgid "Snap distance"
+msgstr "Ikabit sa layo"
+
+#: Application/Config.cpp:795
+#: Application/Config.cpp:889
+msgid "Snap center"
+msgstr "Ikabit sa gitna"
+
+#: Application/Config.cpp:796
+#: Application/Config.cpp:890
+msgid "Save window position"
+msgstr "Itala ang lokasyon ng window"
+
+#: Application/Config.cpp:797
+#: Application/Config.cpp:891
+msgid "Show tray icon"
+msgstr "Ipakita ang tray icon"
+
+#: Application/Config.cpp:798
+#: Application/Config.cpp:892
+msgid "Keep on screen"
+msgstr "Panatiliin sa screen"
+
+#: Application/Config.cpp:799
+#: Application/Config.cpp:893
+msgid "Always show full menus"
+msgstr "Palaging ipakita ang buong menu"
+
+#: Application/Config.cpp:800
+#: Application/Config.cpp:894
+msgid "Disable keyboard shortcuts"
+msgstr "Huwag paganahin ang mga keyboard shortcuts"
+
+#: Application/Config.cpp:802
+#: Application/Config.cpp:896
+msgid "Show in all desktops"
+msgstr "Ipakita sa lahat ng desktop"
+
+#: Application/Config.cpp:804
+#: Application/Config.cpp:898
+msgid "Calendar wheel scroll"
+msgstr "Calendar wheel scroll"
+
+#: Application/Config.cpp:805
+#: Application/Config.cpp:899
+msgid "List wheel scroll"
+msgstr "Wheel scrool ng listahan"
+
+#: Application/Config.cpp:806
+#: Application/Config.cpp:900
+msgid "Transparency type"
+msgstr "Uri ng transparency"
+
+#: Application/Config.cpp:807
+#: Application/Config.cpp:901
+msgid "Copy transparency sleep time"
+msgstr "Kopyahin ang transparency sleep time"
+
+#: Application/Config.cpp:808
+#: Application/Config.cpp:902
+msgid "Fade delay"
+msgstr "Tagal ng pag-fade"
+
+#: Application/Config.cpp:809
+#: Application/Config.cpp:903
+msgid "Fade duration"
+msgstr "Tagal ng pagkupas"
+
+#: Application/Config.cpp:810
+#: Application/Config.cpp:904
+msgid "Font scale"
+msgstr "Font scale"
+
+#: Application/Config.cpp:811
+#: Application/Config.cpp:906
+msgid "Skin language"
+msgstr "Wika ng balat"
+
+#: Application/Config.cpp:812
+#: Application/Config.cpp:916
+msgid "Create backups automatically"
+msgstr "Gumawa ng backup palagi"
+
+#: Application/Config.cpp:813
+#: Application/Config.cpp:917
+msgid "Show delete confirmations"
+msgstr "Ipakita ang mga kumpirmasyon na kailangan kapag mayroong buburahin"
+
+#: Application/Config.cpp:814
+#: Application/Config.cpp:918
+msgid "Combine icons in the calendar"
+msgstr "Pagsamahin ang mga icons sa kalendaryo"
+
+#: Application/Config.cpp:815
+#: Application/Config.cpp:919
+msgid "Disable text formatting"
+msgstr "Tanggaling "
+
+#: Application/Config.cpp:817
+msgid "Network"
+msgstr "Network"
+
+#: Application/Config.cpp:818
+#: Application/Config.cpp:921
+msgid "Proxy server"
+msgstr "Proxy server"
+
+#: Application/Config.cpp:819
+#: Application/Config.cpp:922
+msgid "Proxy user"
+msgstr "Gumagamit ng proxy"
+
+#: Application/Config.cpp:820
+#: Application/Config.cpp:821
+#: Application/Config.cpp:923
+msgid "Proxy password"
+msgstr "Hudyat para sa proxy"
+
+#: Application/Config.cpp:822
+#: Application/Config.cpp:929
+msgid "Try direct connection if proxy fails"
+msgstr "Subukan na kumunekta ng derecho kapag hindi makagawa ng kuneksyon gamiw ang proxy"
+
+#: Application/Config.cpp:824
+#: Application/DialogOptions.cpp:529
+#: Application/DialogOptions.cpp:769
+#: Application/DialogOptions.cpp:840
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#: Application/Config.cpp:825
+#: Application/Config.cpp:931
+msgid "Show tooltips"
+msgstr "Ipakita ang mga tooltip"
+
+#: Application/Config.cpp:826
+#: Application/Config.cpp:932
+msgid "Max tooltip window width"
+msgstr "Pinakamalaking lapad ng window para sa mga tooltip"
+
+#: Application/Config.cpp:827
+#: Application/Config.cpp:933
+msgid "Show description in tooltip"
+msgstr "Ipakita ang paglalarawan sa tooltip"
+
+#: Application/Config.cpp:828
+#: Application/Config.cpp:934
+msgid "Todo items in tooltip"
+msgstr "Ipakita ang mga bagay na kailangan gawin sa tooltip"
+
+#: Application/Config.cpp:829
+#: Application/Config.cpp:935
+msgid "Traytip show duration"
+msgstr "Tagal ng pagpapapakita sa Traytip"
+
+#: Application/Config.cpp:830
+#: Application/Config.cpp:936
+msgid "Tooltip fade duration"
+msgstr "Tagal ng pagkupas ng tooltip"
+
+#: Application/Config.cpp:831
+#: Application/Config.cpp:937
+msgid "Tooltip show delay"
+msgstr "Tagal ng bago ipakita ang tootip"
+
+#: Application/Config.cpp:832
+#: Application/Config.cpp:938
+msgid "Tooltip format"
+msgstr "Tooltip format"
+
+#: Application/Config.cpp:834
+msgid "TodoList"
+msgstr "TodoList"
+
+#: Application/Config.cpp:835
+#: Application/Config.cpp:940
+msgid "Show full task summary"
+msgstr "Ipakita ang buong buod patungkol sa gawain"
+
+#: Application/Config.cpp:836
+#: Application/Config.cpp:941
+msgid "Show task due time"
+msgstr "Ipakita ang oras kung saan dapat tapos na ang gawain"
+
+#: Application/Config.cpp:837
+#: Application/Config.cpp:942
+msgid "Show task location"
+msgstr "Ipakita ang lugar kung saan dapat gawin ang gawain"
+
+#: Application/Config.cpp:839
+msgid "EventList"
+msgstr "EventList"
+
+#: Application/Config.cpp:840
+#: Application/Config.cpp:944
+msgid "Show full event summary"
+msgstr "Ipakita ang buong buod ng mga mangyayari"
+
+#: Application/Config.cpp:841
+#: Application/Config.cpp:945
+msgid "Show event start time"
+msgstr "Ipakita ang oras kung kailangan mag-uumpisa ang pangyayari"
+
+#: Application/Config.cpp:842
+#: Application/Config.cpp:946
+msgid "Show event end time"
+msgstr "Ipakita ang oras kung kailangan magtatapos ang pangyayari"
+
+#: Application/Config.cpp:843
+#: Application/Config.cpp:947
+msgid "Show event location"
+msgstr "Ipakita ang oras kung saan magaganap ang pangyayari"
+
+#: Application/Config.cpp:844
+#: Application/Config.cpp:948
+msgid "Hide dismissed events"
+msgstr "Itago ang mga pangyayari na kinansela"
+
+#: Application/Config.cpp:845
+#: Application/Config.cpp:949
+msgid "Number of days the list shows"
+msgstr "Bilang ng ataw na"
+
+#: Application/Config.cpp:846
+#: Application/Config.cpp:950
+msgid "Header format"
+msgstr "Format ng Header"
+
+#: Application/Config.cpp:847
+#: Application/Config.cpp:951
+msgid "Age from start of the week"
+msgstr "Tanda mula sa simula ng linggo"
+
+#: Application/Config.cpp:849
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+#: Application/DialogOptions.cpp:528
+#: Application/DialogOptions.cpp:763
+#: Application/DialogOptions.cpp:840
+#: Application/ItemListAlarm.cpp:242
+#: Application/res/event.cpp:9
+#: Application/res/todo.cpp:34
+msgid "Alarm"
+msgstr "Alarm"
+
+#: Application/Config.cpp:850
+#: Application/Config.cpp:953
+msgid "Show alarm start time"
+msgstr "Ipakita ang simulang oras para sa alarm"
+
+#: Application/Config.cpp:851
+#: Application/Config.cpp:954
+msgid "Show alarm end time"
+msgstr "Ipakita kung anong oras magtatapos ang alarm"
+
+#: Application/Config.cpp:852
+#: Application/Config.cpp:955
+msgid "Show alarm location"
+msgstr "Ipakita ang lokasyon ng alarm"
+
+#: Application/Config.cpp:853
+#: Application/Config.cpp:956
+msgid "Keep alarm always on top"
+msgstr "Panatilihing nasa taas ang alarm"
+
+#: Application/Config.cpp:854
+#: Application/Config.cpp:957
+msgid "Default snooze time"
+msgstr "Default na oras para sa pag-snooze"
+
+#: Application/Config.cpp:855
+#: Application/Config.cpp:958
+msgid "Max alarm window width"
+msgstr "Pinakamalaking lapad para sa window ng alarm"
+
+#: Application/Config.cpp:856
+#: Application/Config.cpp:959
+msgid "Hide from alarm after days"
+msgstr "Itago ang alarm makalipas ang ilang araw"
+
+#: Application/Config.cpp:857
+#: Application/Config.cpp:960
+msgid "Default alarm file"
+msgstr "Default na file para sa alarm"
+
+#: Application/Config.cpp:858
+#: Application/Config.cpp:962
+msgid "Snooze times"
+msgstr "Mga oras ng pag-snooze"
+
+#: Application/Config.cpp:860
+#: Application/DialogManager.cpp:49
+#: Application/res/manager.cpp:1
+msgid "Manager"
+msgstr "Pangangasiwa"
+
+#: Application/Config.cpp:861
+#: Application/Config.cpp:965
+msgid "Manager event columns"
+msgstr "Pangangasiwa sa hanay ng mga pangyayari"
+
+#: Application/Config.cpp:862
+#: Application/Config.cpp:966
+msgid "Manager todo columns"
+msgstr "Pangangasiwa sa hanay ng mga gagawin"
+
+#: Application/ControlWindow.cpp:289
+#: Application/DialogAbout.cpp:139
+msgid "About"
+msgstr "Impormasyon"
+
+#: Application/ControlWindow.cpp:290
+#: Application/DialogOptions.cpp:110
+msgid "Help"
+msgstr "Tulong"
+
+#: Application/ControlWindow.cpp:292
+#: Application/ItemCalendar.cpp:220
+#: Application/ItemListEvent.cpp:395
+msgid "New event"
+msgstr "Bagong pangyayari"
+
+#: Application/ControlWindow.cpp:293
+#: Application/ItemListTodo.cpp:1044
+msgid "New task"
+msgstr "Bagong gawain"
+
+#: Application/ControlWindow.cpp:323
+#: Application/DialogOptions.cpp:531
+msgid "Windows"
+msgstr "Mga Window"
+
+#: Application/ControlWindow.cpp:341
+#: Application/DialogComponent.cpp:581
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+#: Application/DialogOptions.cpp:85
+#: Application/DropTarget.cpp:241
+#: Application/res/event.cpp:15
+#: Application/res/options.cpp:18
+#: Application/res/todo.cpp:40
+msgid "Calendars"
+msgstr "Mga Kalendaryo"
+
+#: Application/ControlWindow.cpp:344
+msgid "Current Month\tHome"
+msgstr "Kasalukuyang Buwan \tHome"
+
+#: Application/ControlWindow.cpp:345
+msgid "Next Month\tRight"
+msgstr "Susunod na buwan \tKanan"
+
+#: Application/ControlWindow.cpp:346
+msgid "Prev Month\tLeft"
+msgstr "Nakaraang Buwan \tKaliwa"
+
+#: Application/ControlWindow.cpp:347
+msgid "Next Year\tUp"
+msgstr "Susunod na taon \tTaas"
+
+#: Application/ControlWindow.cpp:348
+msgid "Previous Year\tDown"
+msgstr "Nakaraang taon\tBaba"
+
+#: Application/ControlWindow.cpp:350
+#, c-format
+msgid "January %s\tCtrl-F1"
+msgstr "Enero %s\tCtrl-F1"
+
+#: Application/ControlWindow.cpp:351
+#, c-format
+msgid "February %s\tCtrl-F2"
+msgstr "Pebrero %s\tCtrl-F2"
+
+#: Application/ControlWindow.cpp:352
+#, c-format
+msgid "March %s\tCtrl-F3"
+msgstr "Marso %s\tCtrl-F3"
+
+#: Application/ControlWindow.cpp:353
+#, c-format
+msgid "April %s\tCtrl-F4"
+msgstr "Abril %s\tCtrl-F4"
+
+#: Application/ControlWindow.cpp:354
+#, c-format
+msgid "May %s\tCtrl-F5"
+msgstr "Mayo %s\tCtrl-F5"
+
+#: Application/ControlWindow.cpp:355
+#, c-format
+msgid "June %s\tCtrl-F6"
+msgstr "Hunyo %s\tCtrl-F6"
+
+#: Application/ControlWindow.cpp:356
+#, c-format
+msgid "July %s\tCtrl-F7"
+msgstr "Hulyo %s\tCtrl-F7"
+
+#: Application/ControlWindow.cpp:357
+#, c-format
+msgid "August %s\tCtrl-F8"
+msgstr "Agosto %s\tCtrl-F8"
+
+#: Application/ControlWindow.cpp:358
+#, c-format
+msgid "September %s\tCtrl-F9"
+msgstr "Setyembre %s\tCtrl-F9"
+
+#: Application/ControlWindow.cpp:359
+#, c-format
+msgid "October %s\tCtrl-F10"
+msgstr "Oktubre %s\tCtrl-F10"
+
+#: Application/ControlWindow.cpp:360
+#, c-format
+msgid "November %s\tCtrl-F11"
+msgstr "Nobyembre %s\tCtrl-F11"
+
+#: Application/ControlWindow.cpp:361
+#, c-format
+msgid "December %s\tCtrl-F12"
+msgstr "Disyembre %s\tCtrl-F12"
+
+#: Application/ControlWindow.cpp:363
+msgid "Choose month"
+msgstr "Pumili ng buwan"
+
+#: Application/ControlWindow.cpp:365
+#: Application/Resource.h:242
+msgid "Refresh"
+msgstr "Sariwain"
+
+#: Application/ControlWindow.cpp:366
+msgid "Options..."
+msgstr "Pamimilian..."
+
+#: Application/ControlWindow.cpp:367
+msgid "Manager..."
+msgstr "Pangangasiwa"
+
+#: Application/ControlWindow.cpp:381
+msgid "Exit"
+msgstr "Umalis"
+
+#: Application/ControlWindow.cpp:700
+#: Application/ControlWindow.cpp:743
+#: Application/ControlWindow.cpp:764
+#: Application/ItemCalendar.cpp:204
+msgid "*Empty*"
+msgstr "*Walang laman*"
+
+#: Application/ControlWindow.cpp:703
+msgid "This instance"
+msgstr "Itong pagkakataon na ito"
+
+#: Application/ControlWindow.cpp:704
+msgid "Whole event"
+msgstr "Buong pangyayari"
+
+#: Application/ControlWindow.cpp:705
+#: Application/DialogOptions.cpp:119
+#: Application/DialogSkinSettings.cpp:36
+#: Application/res/alarm.cpp:5
+#: Application/res/event.cpp:39
+#: Application/res/todo.cpp:64
+msgid "Cancel"
+msgstr "Kanselahin"
+
+#: Application/ControlWindow.cpp:707
+#: Application/ControlWindow.cpp:745
+msgid "Do you want to delete this item?"
+msgstr "Gusto mo bang burahin ang item na ito?"
+
+#: Application/ControlWindow.cpp:708
+#, c-format
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance or the whole recurring event."
+msgstr ""
+"Ito ay isang item na umuulit:\n"
+"\n"
+"%s\n"
+"\n"
+"Maaring mong burahin ang item na ito lamang o ang item na umuulit."
+
+#: Application/ControlWindow.cpp:758
+msgid "Do you want to delete these items?"
+msgstr "Gusto mo bang burahin ang mga items na ito?"
+
+#: Application/DialogAbout.cpp:47
+#: Application/DialogOptions.cpp:616
+msgid "Version"
+msgstr "Bersyon"
+
+#: Application/DialogAbout.cpp:55
+msgid "Build on"
+msgstr "Ginawa noong"
+
+#: Application/DialogAbout.cpp:60
+msgid "Developed by"
+msgstr "Ginawa ni"
+
+#: Application/DialogAbout.cpp:68
+msgid "Licensed to"
+msgstr "Naka-lisensya kay"
+
+#: Application/DialogAbout.cpp:75
+msgid "Plugins"
+msgstr "Plugins"
+
+#: Application/DialogAbout.cpp:94
+msgid "Links"
+msgstr "Mga kawing"
+
+#: Application/DialogAbout.cpp:96
+#: Application/HotkeyControl.cpp:185
+msgid "Home"
+msgstr "Simula"
+
+#: Application/DialogAbout.cpp:99
+msgid "FAQ"
+msgstr "FAQ"
+
+#: Application/DialogAbout.cpp:102
+msgid "Forum"
+msgstr "Talakayan"
+
+#: Application/DialogAbout.cpp:108
+msgid "Icons by"
+msgstr "Mga icon ni"
+
+#: Application/DialogAbout.cpp:118
+msgid "Copyrights"
+msgstr "Mga copyright"
+
+#: Application/DialogAbout.cpp:153
+msgid "Please wait..."
+msgstr "Maghintay po lamang..."
+
+#: Application/DialogAbout.cpp:166
+msgid "Unknown response from the server."
+msgstr "Hindi maintindihan ang response galing sa server."
+
+#: Application/DialogAbout.cpp:197
+#, c-format
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"Ang bersyon naVersion %s ay wala.\n"
+"Gusto mo bang pumunta sa website?"
+
+#: Application/DialogAbout.cpp:206
+msgid "No updates available."
+msgstr "Walang update"
+
+#: Application/DialogAbout.cpp:215
+msgid "Connection error!"
+msgstr "May mali sa kuneksyon"
+
+#: Application/DialogAbout.cpp:215
+msgid "Unable to connect to the server."
+msgstr "Hindi makapag-ugnayan sa server."
+
+#: Application/DialogAbout.cpp:220
+#: Application/res/about.cpp:1
+msgid "Check for update"
+msgstr "Tingan kung mayroong update"
+
+#: Application/DialogAlarm.cpp:22
+msgid "Choose Alarm"
+msgstr "Pumili ng Alarm"
+
+#: Application/DialogAlarm.cpp:37
+msgid "Sound files (*.wav)|*.wav"
+msgstr "Sound files (*.wav)|*.wav"
+
+#: Application/DialogComponent.cpp:505
+msgid "Are you sure you want to delete this item?"
+msgstr "Sigurado ka bang gusto mong burahin ang item na ito?"
+
+#: Application/DialogComponent.cpp:581
+msgid "Select the calendars:"
+msgstr "Pumili ng mga kalendaryo:"
+
+#: Application/DialogComponent.cpp:633
+msgid "Select the categories:"
+msgstr "Pumili ng mga kaurian\""
+
+#: Application/DialogComponent.cpp:633
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+#: Application/res/event.cpp:16
+#: Application/res/todo.cpp:41
+msgid "Categories"
+msgstr "Mga Kaurian"
+
+#: Application/DialogComponent.cpp:781
+msgid "Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "Hindi makakita ng mga calendar handlers para sa pangyayaring ito. Hindi na-save ang pangyayaring ito."
+
+#: Application/DialogComponent.cpp:1004
+#, c-format
+msgid "On the %s day of the month"
+msgstr "Sa ika-%s araw ng buwan."
+
+#: Application/DialogComponent.cpp:1012
+msgid "first"
+msgstr "una"
+
+#: Application/DialogComponent.cpp:1016
+msgid "second"
+msgstr "ikalawa"
+
+#: Application/DialogComponent.cpp:1020
+msgid "third"
+msgstr "ikatlo"
+
+#: Application/DialogComponent.cpp:1024
+msgid "fourth"
+msgstr "ika-apat"
+
+#: Application/DialogComponent.cpp:1028
+msgid "fifth"
+msgstr "ika-lima"
+
+#: Application/DialogComponent.cpp:1030
+#, c-format
+msgid "On the %s %s of the month"
+msgstr "Sa ika-%s %s ng buwan."
+
+#: Application/DialogComponent.cpp:1037
+#, c-format
+msgid "On the last %s of the month"
+msgstr "Sa ikahuling %s ng buwan."
+
+#: Application/DialogComponent.cpp:1046
+msgid "On the first weekday of the month"
+msgstr "Sa unang weekday ng buwan"
+
+#: Application/DialogComponent.cpp:1055
+msgid "On the last weekday of the month"
+msgstr "Sa huling weekday ng buwan"
+
+#: Application/DialogComponent.cpp:1062
+msgid "On the last day of the month"
+msgstr "Sa huling araw ng buwan"
+
+#: Application/DialogEvent.cpp:52
+#: Application/DialogManager.cpp:955
+#: Application/res/event.cpp:1
+#: Application/res/event.cpp:2
+msgid "Event"
+msgstr "Pangyayari"
+
+#: Application/DialogEvent.cpp:313
+msgid ""
+"You have created a birthday or anniversary but didn't define any recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Ikaw ay gumawa ng kaarawan o anibersaryo ngunit hindi mo inayos ang recurrence nito. \n"
+"Gusto mo bang umulit ang pangyayari na ito taon-taon?"
+
+#: Application/DialogManager.cpp:219
+#: Application/DialogManager.cpp:272
+msgid "Choose a file"
+msgstr "Pumili ng file."
+
+#: Application/DialogManager.cpp:228
+msgid "Import failed!"
+msgstr "Hindi gumana ang pag-import!"
+
+#: Application/DialogManager.cpp:280
+#, c-format
+msgid "Exported %i events successfully."
+msgstr "Matagumpay na na-export ang %i na pangyayari"
+
+#: Application/DialogManager.cpp:284
+#, c-format
+msgid "Exported %i todo items successfully."
+msgstr "Matagumpay na na-export ang %i na mga gawain"
+
+#: Application/DialogManager.cpp:290
+msgid "Export failed!"
+msgstr "Hindi gumana ang pag-export!"
+
+#: Application/DialogManager.cpp:366
+msgid "Do you want to delete the selected item(s)?"
+msgstr "Gusto mo bang burahin mga napiling items?"
+
+#: Application/DialogManager.cpp:475
+#: Application/DialogManager.cpp:667
+msgid "Archive (*.zip)|*.zip"
+msgstr "Arkibo (*.zip)|*.zip"
+
+#: Application/DialogManager.cpp:476
+#: Application/DialogManager.cpp:666
+msgid "Choose the backup path"
+msgstr "Pumili ng path kung saan mapupunta ang backup"
+
+#: Application/DialogManager.cpp:484
+msgid "Backup was successful."
+msgstr "Matagumpay ang ginwang backup."
+
+#: Application/DialogManager.cpp:485
+msgid "The backup contains these files:"
+msgstr "Ang backup ay naglalaman ng mga sumusunod na files:"
+
+#: Application/DialogManager.cpp:501
+#: Application/DialogManager.cpp:710
+msgid "Write error!"
+msgstr "Hindi naisulat!"
+
+#: Application/DialogManager.cpp:501
+msgid "Unable to create the backup file."
+msgstr "Hindi makagawa ng backup file."
+
+#: Application/DialogManager.cpp:692
+msgid "The file already exists:"
+msgstr "Mayroon ng ganitong file"
+
+#: Application/DialogManager.cpp:695
+msgid "Do you want to overwrite the file?"
+msgstr "Gusto mo bang patungan ang file na ito?"
+
+#: Application/DialogManager.cpp:708
+msgid "Unable to overwrite file:"
+msgstr "Hindi ko mapatungan ang file na ito:"
+
+#: Application/DialogManager.cpp:732
+msgid "The archive contains unknown files:\n"
+msgstr "Ang arkibong ito ay naglalaman ng unknown files: \n"
+
+#: Application/DialogManager.cpp:737
+msgid "Restore was successful."
+msgstr "Naging matagumpay ang pagbabalik"
+
+#: Application/DialogManager.cpp:946
+#: Application/DialogPrint.cpp:340
+#: Application/HotkeyControl.cpp:183
+msgid "End"
+msgstr "Katapusan"
+
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+msgid "Summary"
+msgstr "Buod"
+
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+msgid "Recurring"
+msgstr "Umuulit"
+
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+#: Application/DialogPrint.cpp:312
+msgid "Location"
+msgstr "Lokasyon"
+
+#: Application/DialogManager.cpp:946
+#: Application/DialogManager.cpp:975
+#: Application/DialogOptions.cpp:673
+msgid "Description"
+msgstr "Paglalarawan"
+
+#: Application/DialogManager.cpp:962
+msgid "New Event..."
+msgstr "Bagong Pangyayari..."
+
+#: Application/DialogManager.cpp:984
+#: Application/DialogTodo.cpp:45
+#: Application/DialogTodo.cpp:370
+#: Application/res/todo.cpp:1
+#: Application/res/todo.cpp:2
+msgid "Todo"
+msgstr "Mga Gagawin"
+
+#: Application/DialogManager.cpp:991
+msgid "New Todo..."
+msgstr "Baong Gagawin..."
+
+#: Application/DialogManager.cpp:1148
+#: Application/res/event.cpp:13
+#: Application/res/event.cpp:19
+#: Application/res/todo.cpp:35
+#: Application/res/todo.cpp:38
+#: Application/res/todo.cpp:44
+msgid "Days"
+msgstr "Mga Araw"
+
+#: Application/DialogManager.cpp:1151
+#: Application/res/event.cpp:20
+#: Application/res/todo.cpp:45
+msgid "Weeks"
+msgstr "Mga Linggo"
+
+#: Application/DialogManager.cpp:1154
+#: Application/res/event.cpp:21
+#: Application/res/todo.cpp:46
+msgid "Months"
+msgstr "Mga Buwan"
+
+#: Application/DialogManager.cpp:1157
+#: Application/res/event.cpp:22
+#: Application/res/todo.cpp:47
+msgid "Years"
+msgstr "Mga Taon"
+
+#: Application/DialogManager.cpp:1169
+msgid "Single"
+msgstr "Nag-iisa"
+
+#: Application/DialogManager.cpp:1206
+#: Application/DialogSkinSettings.cpp:164
+#: Application/ItemListTodo.cpp:716
+#: Application/res/todo.cpp:10
+#: Application/res/todo.cpp:11
+#: Application/Resource.h:276
+msgid "None"
+msgstr "Wala"
+
+#: Application/DialogManager.cpp:1210
+#: Application/ItemListTodo.cpp:720
+#: Application/res/todo.cpp:14
+msgid "High"
+msgstr "Mataas"
+
+#: Application/DialogManager.cpp:1214
+#: Application/ItemListTodo.cpp:724
+#: Application/res/todo.cpp:13
+msgid "Medium"
+msgstr "Katamtaman"
+
+#: Application/DialogManager.cpp:1218
+#: Application/ItemListTodo.cpp:728
+#: Application/res/todo.cpp:12
+msgid "Low"
+msgstr "Mababa"
+
+#: Application/DialogManager.cpp:1244
+#: Application/ItemListTodo.cpp:507
+#: Application/ItemListTodo.cpp:737
+#: Application/ItemListTodo.cpp:1026
+#: Application/res/todo.cpp:19
+msgid "Completed"
+msgstr "Natapos na"
+
+#: Application/DialogManager.cpp:1251
+#: Application/ItemListTodo.cpp:510
+#: Application/ItemListTodo.cpp:740
+#: Application/ItemListTodo.cpp:1027
+#: Application/res/todo.cpp:20
+msgid "Cancelled"
+msgstr "Kinansela"
+
+#: Application/DialogManager.cpp:1266
+#: Application/ItemListTodo.cpp:504
+#: Application/ItemListTodo.cpp:743
+#: Application/ItemListTodo.cpp:1024
+#: Application/res/todo.cpp:18
+msgid "In Progress"
+msgstr "Kasalukuyang nagaganap"
+
+#: Application/DialogManager.cpp:1273
+#: Application/ItemListTodo.cpp:514
+#: Application/ItemListTodo.cpp:746
+#: Application/ItemListTodo.cpp:1011
+msgid "Needs Action"
+msgstr "Kailangan ng aksyon"
+
+#: Application/DialogMessage.cpp:76
+msgid "Error"
+msgstr "May mali"
+
+#: Application/DialogMessage.cpp:80
+msgid "Warning"
+msgstr "Warning"
+
+#: Application/DialogMessage.cpp:84
+msgid "Question"
+msgstr "Tanong"
+
+#: Application/DialogMessage.cpp:88
+msgid "Information"
+msgstr "Impormasyon"
+
+#: Application/DialogMessage.cpp:168
+#: Application/DialogMessage.cpp:176
+#: Application/DialogMessage.cpp:193
+#: Application/DialogMessage.cpp:221
+#: Application/Resource.h:232
+msgid "&OK"
+msgstr "&OK"
+
+#: Application/DialogMessage.cpp:184
+#: Application/DialogMessage.cpp:213
+msgid "&Yes"
+msgstr "&Oo"
+
+#: Application/DialogMessage.cpp:185
+#: Application/DialogMessage.cpp:217
+msgid "&No"
+msgstr "&Hindi"
+
+#: Application/DialogMessage.cpp:225
+#: Application/Resource.h:231
+msgid "&Cancel"
+msgstr "&Kanselahin"
+
+#: Application/DialogOptions.cpp:43
+#: Application/DialogOptions.cpp:46
+msgid "Options"
+msgstr "Mga Opsyon"
+
+#: Application/DialogOptions.cpp:87
+msgid "Skins"
+msgstr "Mga Balat"
+
+#: Application/DialogOptions.cpp:90
+#: Application/res/options.cpp:22
+msgid "Hotkeys"
+msgstr "Hotkeys"
+
+#: Application/DialogOptions.cpp:93
+msgid "Advanced"
+msgstr "Advanced"
+
+#: Application/DialogOptions.cpp:115
+#: Application/DialogSkinSettings.cpp:33
+#: Application/res/alarm.cpp:4
+#: Application/res/event.cpp:38
+#: Application/res/todo.cpp:63
+msgid "OK"
+msgstr "OK"
+
+#: Application/DialogOptions.cpp:283
+msgid "Get more languages..."
+msgstr "Kumuha ng iba pang lengguwahe..."
+
+#: Application/DialogOptions.cpp:450
+msgid "Get more skins..."
+msgstr "Kumuha ng marami pang balat..."
+
+#: Application/DialogOptions.cpp:530
+#: Application/DialogOptions.cpp:775
+#: Application/DialogOptions.cpp:836
+msgid "TrayIcon"
+msgstr "TrayIcon"
+
+#: Application/DialogOptions.cpp:626
+msgid "Author"
+msgstr "May-akda"
+
+#: Application/DialogOptions.cpp:641
+msgid "Homepage"
+msgstr "Homepage"
+
+#: Application/DialogOptions.cpp:659
+msgid "This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "Ito ay isang lumang Rainlendar skin. May mga bagay-bagay na maaring hindi gumana."
+
+#: Application/DialogOptions.cpp:669
+msgid "Window"
+msgstr "Window"
+
+#: Application/DialogOptions.cpp:671
+msgid "Variable"
+msgstr "Variable"
+
+#: Application/DialogOptions.cpp:726
+#: Application/res/options.cpp:33
+msgid "Advanced >>>"
+msgstr "Advanced >>>"
+
+#: Application/DialogOptions.cpp:730
+msgid "<<< Simple"
+msgstr "<<< Simple"
+
+#: Application/DialogOptions.cpp:1186
+msgid "Hotkey"
+msgstr "Hotkey"
+
+#: Application/DialogOptions.cpp:1187
+msgid "Function"
+msgstr "Function"
+
+#: Application/DialogOptions.cpp:1271
+msgid "IMPORTANT! Read the documentation before changing these settings. It's possible to make Rainlendar inoperable if you just randomly change the values. Consider yourself warned!"
+msgstr "IMPORTANTE! Basahin ang dokumentasyon bago baguhin ang mga setting. Maaring masira at hindi magamit ang Rainleder kapag binago lang ng bara-bara ang mga values. Ayan binagyan na kayo ng babala!"
+
+#: Application/DialogOptions.cpp:1278
+msgid "Reset All Settings"
+msgstr "I-reset lahat ng setting"
+
+#: Application/DialogOptions.cpp:1291
+msgid ""
+"This will reset all settings to default values.\n"
+"The default settings are applied immediately.\n"
+"Do you want to continue?"
+msgstr ""
+"Irereset nito ang lahat ng setting sa kanilang default na kalagayan\n"
+"I-apply agad ang mga default na settings.\n"
+"Gusto mo bang magpatuloy?"
+
+#: Application/DialogOptions.cpp:1360
+msgid "Common"
+msgstr "Common"
+
+#: Application/DialogOptions.cpp:1361
+#: Application/DialogOptions.cpp:1521
+msgid "Enabled"
+msgstr "Gumagana"
+
+#: Application/DialogOptions.cpp:1362
+#: Application/DialogOptions.cpp:1525
+msgid "Read only"
+msgstr "Read only"
+
+#: Application/DialogOptions.cpp:1374
+#: Application/DialogOptions.cpp:1529
+msgid "Visual category"
+msgstr "Visual category"
+
+#: Application/DialogPrint.cpp:24
+msgid "Print"
+msgstr "Print"
+
+#: Application/DialogPrint.cpp:60
+msgid "Print items"
+msgstr "Print items"
+
+#: Application/DialogSkinSettings.cpp:71
+#: Application/DialogSkinSettings.cpp:229
+msgid "Visible"
+msgstr "Nakikita"
+
+#: Application/DialogSkinSettings.cpp:72
+#: Application/DialogSkinSettings.cpp:230
+msgid "Grow upwards"
+msgstr "Palakihin paitaas"
+
+#: Application/DialogSkinSettings.cpp:74
+#: Application/DialogSkinSettings.cpp:232
+msgid "Scale"
+msgstr "Scale"
+
+#: Application/DialogSkinSettings.cpp:80
+msgid "Filters"
+msgstr "Filters"
+
+#: Application/DialogSkinSettings.cpp:92
+#: Application/DialogSkinSettings.cpp:248
+msgid "Visible calendars"
+msgstr "Mga kalendaryong nakikita"
+
+#: Application/DialogSkinSettings.cpp:118
+#: Application/DialogSkinSettings.cpp:255
+msgid "Included categories"
+msgstr "Mga kauriang kasama"
+
+#: Application/DialogSkinSettings.cpp:129
+#: Application/DialogSkinSettings.cpp:270
+msgid "Excluded categories"
+msgstr "Mga kauriang hindi kasama"
+
+#: Application/DialogSkinSettings.cpp:134
+msgid "Variables"
+msgstr "Variables"
+
+#: Application/DialogSkinSettings.cpp:158
+msgid "Operations"
+msgstr "Mga operasyon"
+
+#: Application/DialogSkinSettings.cpp:207
+#: Application/DialogSkinSettings.cpp:290
+msgid "Left click"
+msgstr "Left click"
+
+#: Application/DialogSkinSettings.cpp:210
+#: Application/DialogSkinSettings.cpp:300
+msgid "Right click"
+msgstr "Right click"
+
+#: Application/DialogSkinSettings.cpp:213
+#: Application/DialogSkinSettings.cpp:310
+msgid "Double left click"
+msgstr "Double left click"
+
+#: Application/DialogSkinSettings.cpp:216
+#: Application/DialogSkinSettings.cpp:320
+msgid "Double right click"
+msgstr "Double right click"
+
+#: Application/DropTarget.cpp:42
+msgid "skin"
+msgstr "balat"
+
+#: Application/DropTarget.cpp:47
+msgid "addon"
+msgstr "pandagdag"
+
+#: Application/DropTarget.cpp:53
+msgid "language"
+msgstr "lenggwahe"
+
+#: Application/DropTarget.cpp:61
+msgid "license"
+msgstr "lisensya"
+
+#: Application/DropTarget.cpp:87
+#, c-format
+msgid "Unknown file \"%s\"."
+msgstr "Unknown file \"%s\"."
+
+#: Application/DropTarget.cpp:94
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Hindi makopya ang file. And pinanggalingan ay kapareho ng destinasyon."
+
+#: Application/DropTarget.cpp:112
+#, c-format
+msgid ""
+"The skin %s doesn't exist.\n"
+"Unable to merge the addon."
+msgstr ""
+"Ang balat na %s ay wala.\n"
+"Hindi maikabit ang pandagdag."
+
+#: Application/DropTarget.cpp:126
+#, c-format
+msgid ""
+"The %s \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"Ang %s \"%s\" ay nag-exist na.\n"
+"Gusto mo ba itong palitan?"
+
+#: Application/DropTarget.cpp:154
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Mayron nang file na ganito. Gusto mo ba itong patungan?"
+
+#: Application/DropTarget.cpp:192
+#, c-format
+msgid ""
+"The %s was installed successfully!\n"
+"Please refresh (or restart) Rainlendar to see the changes."
+msgstr ""
+"Ang %s ay matagumpay na na-install!\n"
+"I-restart o i-refresh and Rainlendar para makita ang mga pagbabago."
+
+#: Application/DropTarget.cpp:197
+#, c-format
+msgid "The %s installation failed!"
+msgstr "Ang %s na installation ay hindi gumana!"
+
+#: Application/DropTarget.cpp:241
+msgid "Select the calendars for the imported items:"
+msgstr "Pumili ng kalendaryo para sa mga items na inimport."
+
+#: Application/DropTarget.cpp:257
+msgid ""
+"Import failed.\n"
+"\n"
+"There are no calendars available that are able to store the item."
+msgstr ""
+"Hindi gumana ang import.\n"
+"\n"
+"Walang kalendaryo na kayang isama ang ite."
+
+#: Application/DropTarget.cpp:273
+#, c-format
+msgid "Imported %i items successfully."
+msgstr " %i items ang na-import ng matagumpay."
+
+#: Application/DropTarget.cpp:284
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Kailangan mong pumili ng pinakamababa na ang isang kalendaryo para sa imported na mga gawain."
+
+#: Application/DropTarget.cpp:553
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Hindi makagawa ng pansamantalang folder kung saan pwede i-merge ang pandagdag."
+
+#: Application/HotkeyControl.cpp:101
+msgid "Win"
+msgstr "Win"
+
+#: Application/HotkeyControl.cpp:107
+msgid "Control"
+msgstr "Control"
+
+#: Application/HotkeyControl.cpp:113
+msgid "Alt"
+msgstr "Alt"
+
+#: Application/HotkeyControl.cpp:119
+msgid "Shift"
+msgstr "Shift"
+
+#: Application/HotkeyControl.cpp:167
+msgid "Back"
+msgstr "Back"
+
+#: Application/HotkeyControl.cpp:169
+msgid "Tab"
+msgstr "Tab"
+
+#: Application/HotkeyControl.cpp:171
+msgid "Return"
+msgstr "Return"
+
+#: Application/HotkeyControl.cpp:173
+msgid "Esc"
+msgstr "Esc"
+
+#: Application/HotkeyControl.cpp:175
+msgid "Space"
+msgstr "Space"
+
+#: Application/HotkeyControl.cpp:177
+#: Application/ItemCalendar.cpp:223
+#: Application/res/event.cpp:36
+#: Application/res/event.cpp:37
+#: Application/res/manager.cpp:11
+#: Application/res/todo.cpp:61
+#: Application/res/todo.cpp:62
+msgid "Delete"
+msgstr "Delete"
+
+#: Application/HotkeyControl.cpp:179
+msgid "Page Up"
+msgstr "Page Up"
+
+#: Application/HotkeyControl.cpp:181
+msgid "Page Down"
+msgstr "Page Down"
+
+#: Application/HotkeyControl.cpp:187
+msgid "Left"
+msgstr "Left"
+
+#: Application/HotkeyControl.cpp:189
+msgid "Up"
+msgstr "Up"
+
+#: Application/HotkeyControl.cpp:191
+msgid "Right"
+msgstr "Right"
+
+#: Application/HotkeyControl.cpp:193
+msgid "Down"
+msgstr "Down"
+
+#: Application/HotkeyControl.cpp:195
+msgid "Insert"
+msgstr "Insert"
+
+#: Application/HotkeyControl.cpp:229
+msgid "NumLock"
+msgstr "NumLock"
+
+#: Application/HotkeyControl.cpp:231
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+#: Application/ItemCalendar.cpp:211
+#, c-format
+msgid "Edit \"%s\""
+msgstr "Edit \"%s\""
+
+#: Application/ItemCalendar.cpp:217
+msgid "Delete all"
+msgstr "Burahin lahat"
+
+#: Application/ItemCalendar.cpp:225
+msgid "Events"
+msgstr "Pangyayari"
+
+#: Application/ItemListAlarm.cpp:213
+msgid "hour"
+msgstr "oras"
+
+#: Application/ItemListAlarm.cpp:213
+msgid "hours"
+msgstr "mga oras"
+
+#: Application/ItemListAlarm.cpp:221
+msgid "minute"
+msgstr "minuto"
+
+#: Application/ItemListAlarm.cpp:221
+msgid "minutes"
+msgstr "mga minuto"
+
+#: Application/ItemListAlarm.cpp:230
+msgid "Snooze"
+msgstr "Suspindihin"
+
+#: Application/ItemListAlarm.cpp:231
+msgid "Dismiss"
+msgstr "Tanggalin"
+
+#: Application/ItemListAlarm.cpp:235
+#: Application/ItemListAlarm.cpp:239
+msgid "Edit..."
+msgstr "Edit..."
+
+#: Application/ItemListEvent.cpp:188
+msgid "Today"
+msgstr "Ngayon"
+
+#: Application/ItemListEvent.cpp:192
+msgid "Tomorrow"
+msgstr "Bukas"
+
+#: Application/ItemListEvent.cpp:208
+#: Application/ItemListEvent.cpp:232
+msgid "%1 next week"
+msgstr "%1 sa susunod na linggo"
+
+#: Application/ItemListEvent.cpp:213
+#: Application/ItemListEvent.cpp:237
+msgid "%1 in %2 weeks"
+msgstr "%1 sa loob ng %2 linggo"
+
+#: Application/ItemListEvent.cpp:396
+msgid "Edit event"
+msgstr "I-edit ang pangyayari"
+
+#: Application/ItemListEvent.cpp:397
+msgid "Delete event"
+msgstr "Burahin ang pangyayari"
+
+#: Application/ItemListEvent.cpp:406
+msgid "Event list"
+msgstr "Listahan ng mga pangyayari"
+
+#: Application/ItemListTodo.cpp:114
+#, c-format
+msgid "[Due %x]"
+msgstr "[Due %x]"
+
+#: Application/ItemListTodo.cpp:473
+msgid "No location"
+msgstr "Walang lokasyon"
+
+#: Application/ItemListTodo.cpp:481
+msgid "No category"
+msgstr "Walang kaurian"
+
+#: Application/ItemListTodo.cpp:495
+msgid "Unknown"
+msgstr "Hindi alam"
+
+#: Application/ItemListTodo.cpp:523
+msgid "High Priority"
+msgstr "Mataas na Priyoridad"
+
+#: Application/ItemListTodo.cpp:526
+msgid "Medium Priority"
+msgstr "Katamtamang Priyoridad"
+
+#: Application/ItemListTodo.cpp:529
+msgid "Low Priority"
+msgstr "Mababang Priyoridad"
+
+#: Application/ItemListTodo.cpp:533
+msgid "No Priority"
+msgstr "Hindi Prayoridad"
+
+#: Application/ItemListTodo.cpp:935
+#: Application/ItemListTodo.cpp:946
+msgid "Alphabetically"
+msgstr "Ayon sa abakada"
+
+#: Application/ItemListTodo.cpp:936
+#: Application/ItemListTodo.cpp:947
+msgid "By Category"
+msgstr "Sa pamamagitan ng kaurian"
+
+#: Application/ItemListTodo.cpp:937
+#: Application/ItemListTodo.cpp:948
+msgid "By Due Date"
+msgstr "Sa pamamagitan ng katapusang petsa"
+
+#: Application/ItemListTodo.cpp:938
+#: Application/ItemListTodo.cpp:949
+msgid "By Start Date"
+msgstr "Sa pamamagitan ng simulang petsa"
+
+#: Application/ItemListTodo.cpp:939
+#: Application/ItemListTodo.cpp:950
+msgid "By Status"
+msgstr "Sa pamamagitan ng kalagayan"
+
+#: Application/ItemListTodo.cpp:940
+#: Application/ItemListTodo.cpp:951
+msgid "By Priority"
+msgstr "Sa pamamagitan ng prayoridad"
+
+#: Application/ItemListTodo.cpp:941
+#: Application/ItemListTodo.cpp:952
+msgid "By Location"
+msgstr "Sa pamamagitan ng lugar"
+
+#: Application/ItemListTodo.cpp:942
+#: Application/ItemListTodo.cpp:953
+msgid "By Calendar"
+msgstr "Sa pamamagitan ng kalendaryo"
+
+#: Application/ItemListTodo.cpp:943
+#: Application/ItemListTodo.cpp:954
+msgid "Custom"
+msgstr "Sariling ayos"
+
+#: Application/ItemListTodo.cpp:983
+msgid "Primary sort order"
+msgstr "Pangunahing pagsusunod-sunod"
+
+#: Application/ItemListTodo.cpp:984
+msgid "Secondary sort order"
+msgstr "Pangalawang pagsusunod-sunod"
+
+#: Application/ItemListTodo.cpp:1045
+msgid "Edit task"
+msgstr "I-edit ang gawain"
+
+#: Application/ItemListTodo.cpp:1046
+msgid "Delete task"
+msgstr "Burahin ang gawain"
+
+#: Application/ItemListTodo.cpp:1056
+msgid "Hide completed tasks"
+msgstr "Itago ang mga gawaing natapos na"
+
+#: Application/ItemListTodo.cpp:1061
+msgid "Hide upcoming tasks"
+msgstr "Itago ang mga gawaing hindi pa dapat ginagawa"
+
+#: Application/ItemListTodo.cpp:1067
+msgid "Todo list"
+msgstr "Listahan ng mga gagawin"
+
+#: Application/ItemListTooltip.cpp:56
+msgid "No events today."
+msgstr "Walang mangyayari ngayong araw na ito."
+
+#: Application/ItemListTooltip.cpp:78
+msgid "Today's events:"
+msgstr "Mga pangyayari ngayong araw na ito:"
+
+#: Application/Rainlendar.cpp:105
+msgid "allow multiple instances"
+msgstr "hayaang magkaron ng maraming instances"
+
+#: Application/Rainlendar.cpp:106
+msgid "install a skin or a language"
+msgstr "mag-install ng balat or lenggwahe"
+
+#: Application/Rainlendar.cpp:107
+msgid "import the given file"
+msgstr "import ang file na ito"
+
+#: Application/Rainlendar.cpp:108
+msgid "path where the configuration file will be stored"
+msgstr "path kung saang itatago ang mga configuration"
+
+#: Application/Rainlendar.cpp:109
+msgid "execute the given function in a script"
+msgstr "paandarin ang function na nasa script"
+
+#: Application/Rainlendar.cpp:110
+msgid "path where the log file will be stored"
+msgstr "path kung saan i-save ang log file"
+
+#: Application/Rainlendar.cpp:111
+msgid "path where the backups will be stored"
+msgstr "path kung saan i-save ang backup"
+
+#: Application/Rainlendar.cpp:112
+msgid "enable verbose logging"
+msgstr "enable verbose logging"
+
+#: Application/Rainlendar.cpp:113
+msgid "enable debug logging"
+msgstr "enable debug logging"
+
+#: Application/Rainlendar.cpp:304
+#, c-format
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Hindi makagawa ng  configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Siguruhing mayrong kang write permission sa folder kung saan mo sinesave ang file."
+
+#: Application/Rainlendar.cpp:313
+#, c-format
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s"
+msgstr ""
+"Hindi pwedeng baguhin ang configuration file:\n"
+"\n"
+"%s"
+
+#: Application/Rainlendar.cpp:385
+#, c-format
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Hindi ma-load ang resources galing sa path na ito:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:634
+msgid ""
+"Rainlendar was not able to refresh the settings correctly.\n"
+"Do you want to reset all settings and try again?\n"
+"(Select \"No\" to open Rainlendar with old settings)"
+msgstr ""
+"Hindi na-refresh ng Rainlendar ang settings ng maayos.\n"
+"Gusto mo bang i-reset ang settings at magsimula ulit?\n"
+"(Piliin ang \"Hindi\" kung gusto mong buksan ang Rainlendar gamit ang lumang settings.)"
+
+#: Application/Rainlendar.cpp:648
+#, c-format
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Walang mga balat sa  path na ito:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:663
+msgid ""
+"Rainlendar was not able to load the selected skin.\n"
+"Do you want to use the default skin instead?"
+msgstr ""
+"Hindi ma-load ng Rainlendar ang napili mong skin .\n"
+"Gusto mo bang gamitin ang default skin?"
+
+#: Application/Rainlendar.cpp:676
+msgid "Unable to load the skin. Check the log for more details."
+msgstr "Hindi ma-load ang balat. Tingnan ang log para da mga detalye"
+
+#: Application/Rainlendar.cpp:701
+msgid "True"
+msgstr "Totoo"
+
+#: Application/Rainlendar.cpp:701
+msgid "False"
+msgstr "Hindi totoo"
+
+#: Application/Rainlendar.cpp:952
+msgid ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+msgstr ""
+"May mali sa iyong license file.\n"
+"Siguruhin na tama ang download url."
+
+#: Application/Rainlendar.cpp:1227
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Nakita ang mga sumusunod na lumang Rainlendar files:\n"
+"\n"
+
+#: Application/Rainlendar.cpp:1234
+msgid "Do you want to import them?"
+msgstr "Gusto mo bang i-import ang mga ito?"
+
+#: Application/Rainlendar.cpp:1256
+#, c-format
+msgid "Import failed with file: \"%s\""
+msgstr "Hindi gumana ang pag-import sa file na ito: \"%s\""
+
+#: Application/SkinIni.cpp:283
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 0 to 11 for a specific month in the current year."
+msgstr "Ito ang kailangan baguhin para malaman ang default na buwan na pinapakita ng kalendaryo. Gawin itong +1 para susunod na buwan, -1 para sa nakaaang buwang o kaya 0 to 11 para sa ano mang buwan sa kasalukuyang taon."
+
+#: Application/SkinIni.cpp:476
+msgid "Defines the width of the event list."
+msgstr "Lapad ng event list."
+
+#: Application/SkinIni.cpp:477
+msgid "Defines the width of the todo list."
+msgstr "Lapad ng todo list."
+
+#: Application/SkinManager.cpp:87
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Hindi makakita ng aktibong balat.\n"
+"Pindutin ang OK para piliin ang unang balat na pwedeng gamitin."
+
+#: Application/SkinManager.cpp:92
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"Walang aktibong window ang balat na ito.\n"
+"Ang mga default na window ang ginamit."
+
+#: Application/SkinManager.cpp:97
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Walang balat na ganito.\n"
+"Pindutin ang OK para gamitin ang unang balat na maaring gamitin."
+
+#: Application/Util.cpp:966
+msgid "January"
+msgstr "Enero"
+
+#: Application/Util.cpp:968
+msgid "February"
+msgstr "Pebrero"
+
+#: Application/Util.cpp:970
+msgid "March"
+msgstr "Marso"
+
+#: Application/Util.cpp:972
+msgid "April"
+msgstr "Abril"
+
+#: Application/Util.cpp:974
+msgid "May"
+msgstr "Mayo"
+
+#: Application/Util.cpp:976
+msgid "June"
+msgstr "Hunyo"
+
+#: Application/Util.cpp:978
+msgid "July"
+msgstr "Hulyo"
+
+#: Application/Util.cpp:980
+msgid "August"
+msgstr "Agosto"
+
+#: Application/Util.cpp:982
+msgid "September"
+msgstr "Setyembre"
+
+#: Application/Util.cpp:984
+msgid "October"
+msgstr "Oktubre"
+
+#: Application/Util.cpp:986
+msgid "November"
+msgstr "Nobyembre"
+
+#: Application/Util.cpp:988
+msgid "December"
+msgstr "Disyembre"
+
+# This is the common ordinal format. Set it like the ordinal numbers (5th, 27th, 599th) are usually written in your language. The %i will be raplaced with the number. The exceptions are defined in the next entry.
+#: Application/Util.cpp:2009
+#, c-format
+msgid "%ith"
+msgstr "%ith"
+
+# These are the the exceptions to the ordinal numbers. The numeric value in the exceptions is checked with the ordinal number and if the last numbers match the exception format is used instead of the normal format. For example "11th" will match with 11, 111, 211, 311, etc. The "1st" will match with 1, 21, 31, ..., 101, 121, 131, etc. Note that "1st" will not be used with 11, 111, 211, etc. because the "11th" was checked and matched first.
+#: Application/Util.cpp:2010
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "Ika-11;Ika-12;Ika-13;Una;Ikalawa;Ikatlo"
+
+#: Application/WizardCalendar.cpp:22
+#: Application/WizardCalendar.cpp:27
+msgid "Create a new calendar"
+msgstr "Gumawa ng bagong kalendaryo"
+
+#: Application/WizardPageCalendar.cpp:33
+msgid "Please select the type of the calendar."
+msgstr "Pumili ng uri ng kalendaryo."
+
+#: Application/WizardPageCalendar.cpp:42
+msgid "Type"
+msgstr "Uri"
+
+#: Application/WizardPageCalendar.cpp:68
+msgid ""
+"The calendar type defines the format of the events\n"
+"and where they are stored."
+msgstr ""
+"Ang uri ng kalendaryo ang nag-define ng format ng mga pangyayari\n"
+"at kung saan sila i-store."
+
+#: Application/WizardPageCalendar.cpp:97
+msgid "You need to select a calendar type!"
+msgstr "Kailangan mong pumili ng uri ng kalendaryo!"
+
+#: Application/WizardPageCalendar.cpp:184
+#: Application/res/alarm.cpp:3
+msgid "Browse..."
+msgstr "Browse..."
+
+#: Application/WizardPageCalendar.cpp:263
+msgid "Only local files can be defined as the file name."
+msgstr "Mga local file lang pwedeng i-define bilang file name."
+
+#: Application/WizardPageCalendar.cpp:269
+msgid ""
+"It's not possible to use UNC paths as the file name.\n"
+"You need to map the network drive to be able to access the files on a server."
+msgstr ""
+"Hinda maaring gumamit ng UNC paths bilang file name.\n"
+"Kailangang i-map ang network drive para ma-access ang files na nasa server."
+
+#: Application/WizardPageCalendar.cpp:377
+msgid "Please choose a name for the the calendar."
+msgstr "Pumili ng pangalan para sa kalendaryo"
+
+#: Application/WizardPageCalendar.cpp:385
+msgid "Name"
+msgstr "Pangalan"
+
+#: Application/WizardPageCalendar.cpp:423
+msgid ""
+"The calendar with the same name already exists.\n"
+"Please use some other name."
+msgstr ""
+"Mayroon ng kalendaryo na ganito ang pangalan.\n"
+"Gumamit ka ng ibang pangalan."
+
+#: Application/WizardPageCalendar.cpp:430
+msgid "You need to give some name for the calendar."
+msgstr "Kailangan mong magbigay ng pangalan sa kalendaryo."
+
+#: Application/res/about.cpp:2
+#: Application/res/manager.cpp:8
+#: Application/res/manager.cpp:15
+#: Application/res/print.cpp:10
+msgid "Close"
+msgstr "Isarado"
+
+#: Application/res/alarm.cpp:1
+msgid "Alarm sound"
+msgstr "Tunog ng alarm"
+
+#: Application/res/alarm.cpp:2
+msgid "Select the sound file for the alarm"
+msgstr "Pumili ng sound file para sa alarm"
+
+#: Application/res/event.cpp:3
+#: Application/res/todo.cpp:3
+msgid "Summary:"
+msgstr "Buod:"
+
+#: Application/res/event.cpp:4
+#: Application/res/todo.cpp:4
+msgid "Location:"
+msgstr "Lokasyon:"
+
+#: Application/res/event.cpp:5
+#: Application/res/todo.cpp:5
+msgid "Private"
+msgstr "Pribado"
+
+#: Application/res/event.cpp:6
+#: Application/res/todo.cpp:6
+msgid "Start time:"
+msgstr "Oras inumpisahan:"
+
+#: Application/res/event.cpp:7
+msgid "All day event"
+msgstr "Buong araw na pangyayari"
+
+#: Application/res/event.cpp:8
+msgid "End time:"
+msgstr "Oras na matatapos:"
+
+#: Application/res/event.cpp:10
+#: Application/res/event.cpp:11
+#: Application/res/todo.cpp:36
+msgid "Minutes"
+msgstr "Minuto"
+
+#: Application/res/event.cpp:12
+#: Application/res/todo.cpp:37
+msgid "Hours"
+msgstr "Mga Oras"
+
+#: Application/res/event.cpp:14
+msgid "before the event starts."
+msgstr "bago magsimula ang pangyayari."
+
+#: Application/res/event.cpp:17
+#: Application/res/todo.cpp:42
+msgid "Recurrence"
+msgstr "Pag-ulit"
+
+#: Application/res/event.cpp:18
+#: Application/res/todo.cpp:43
+msgid "Repeat every"
+msgstr "Ulitin tuwing"
+
+#: Application/res/event.cpp:23
+#: Application/res/todo.cpp:48
+msgid "Mon"
+msgstr "Lun"
+
+#: Application/res/event.cpp:24
+#: Application/res/todo.cpp:49
+msgid "Tue"
+msgstr "Mar"
+
+#: Application/res/event.cpp:25
+#: Application/res/todo.cpp:50
+msgid "Wed"
+msgstr "Miy"
+
+#: Application/res/event.cpp:26
+#: Application/res/todo.cpp:51
+msgid "Thu"
+msgstr "Huw"
+
+#: Application/res/event.cpp:27
+#: Application/res/todo.cpp:52
+msgid "Fri"
+msgstr "Biy"
+
+#: Application/res/event.cpp:28
+#: Application/res/todo.cpp:53
+msgid "Sat"
+msgstr "Sab"
+
+#: Application/res/event.cpp:29
+#: Application/res/todo.cpp:54
+msgid "Sun"
+msgstr "Lin"
+
+#: Application/res/event.cpp:30
+#: Application/res/todo.cpp:55
+msgid "Repeat"
+msgstr "Ulit"
+
+#: Application/res/event.cpp:31
+#: Application/res/todo.cpp:56
+msgid "Forever"
+msgstr "Walang katapusan"
+
+#: Application/res/event.cpp:32
+#: Application/res/todo.cpp:57
+msgid "Number of times"
+msgstr "Ilang ulit"
+
+#: Application/res/event.cpp:33
+#: Application/res/todo.cpp:58
+msgid "Until"
+msgstr "Hanggang"
+
+#: Application/res/event.cpp:34
+#: Application/res/todo.cpp:59
+msgid "Exception dates"
+msgstr "Mga petsa na hindi kasali"
+
+#: Application/res/event.cpp:35
+#: Application/res/options.cpp:26
+#: Application/res/todo.cpp:60
+msgid "Add"
+msgstr "Magdagdag"
+
+#: Application/res/manager.cpp:2
+msgid "File"
+msgstr "File"
+
+#: Application/res/manager.cpp:3
+msgid "Import"
+msgstr "I-import"
+
+#: Application/res/manager.cpp:4
+msgid "Export"
+msgstr "I-export"
+
+#: Application/res/manager.cpp:5
+#: Application/res/print.cpp:9
+msgid "Print..."
+msgstr "Print..."
+
+#: Application/res/manager.cpp:6
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:240
+msgid "Backup"
+msgstr "Backup"
+
+#: Application/res/manager.cpp:7
+msgid "Restore"
+msgstr "Ipanumbalik"
+
+#: Application/res/manager.cpp:9
+msgid "New"
+msgstr "Bago"
+
+#: Application/res/manager.cpp:10
+msgid "Edit"
+msgstr "Baguhin"
+
+#: Application/res/manager.cpp:12
+msgid "Show events"
+msgstr "Ipakita ang mga pangyayari"
+
+#: Application/res/manager.cpp:13
+msgid "Show todo items"
+msgstr "Ipakita ang mga gawain"
+
+#: Application/res/manager.cpp:14
+msgid "Search:"
+msgstr "Hanapin:"
+
+#: Application/res/options.cpp:2
+msgid "Week's start day:"
+msgstr "Simulang araw ng linggo:"
+
+#: Application/res/options.cpp:3
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Ipakita ang mga pangyayari ngayong araw na ito kapag binuksan ang Rainlendar."
+
+#: Application/res/options.cpp:4
+msgid "Add years to birthdays and anniversaries"
+msgstr "Magdagdag ng mga taon sa mga kaarawan at anibersaryo."
+
+#: Application/res/options.cpp:5
+msgid "Hide windows if there are no items"
+msgstr "Itago ang mga window kapag walang items"
+
+#: Application/res/options.cpp:6
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Click through (pindutin at huwag bitawan ang Shift-key down kung gusto mong hindi gumana)"
+
+#: Application/res/options.cpp:7
+msgid "Lock windows in place"
+msgstr "Panatilihing nasa posisyon ang mga window"
+
+#: Application/res/options.cpp:8
+msgid "Enable on startup"
+msgstr "Hayaang gumana sa startup pa lang"
+
+#: Application/res/options.cpp:9
+msgid "Language:"
+msgstr "Wika"
+
+#: Application/res/options.cpp:10
+msgid "Position"
+msgstr "Posisyon"
+
+#: Application/res/options.cpp:11
+msgid "On Top"
+msgstr "Sa Taas"
+
+#: Application/res/options.cpp:12
+msgid "Normal"
+msgstr "Normal"
+
+#: Application/res/options.cpp:13
+msgid "On Bottom"
+msgstr "Sa Ilalim"
+
+#: Application/res/options.cpp:14
+msgid "On Desktop"
+msgstr "Sa Desktop"
+
+#: Application/res/options.cpp:15
+msgid "Transparency"
+msgstr "Transparency"
+
+#: Application/res/options.cpp:16
+msgid "Normal:"
+msgstr "Normal:"
+
+#: Application/res/options.cpp:17
+msgid "Mouse over:"
+msgstr "Mouse over:"
+
+#: Application/res/options.cpp:19
+msgid "Add..."
+msgstr "Dagdagan..."
+
+#: Application/res/options.cpp:20
+#: Application/res/options.cpp:27
+msgid "Remove"
+msgstr "Tanggalin"
+
+#: Application/res/options.cpp:21
+msgid "Settings"
+msgstr "Mga Setting"
+
+#: Application/res/options.cpp:23
+msgid "Action:"
+msgstr "Aksyon:"
+
+#: Application/res/options.cpp:24
+msgid "Hotkey:"
+msgstr "Hotkey:"
+
+#: Application/res/options.cpp:25
+msgid "Set"
+msgstr "I-set:"
+
+#: Application/res/options.cpp:28
+msgid "Available skins"
+msgstr "Mga balat na pwedeng gamitin"
+
+#: Application/res/options.cpp:29
+msgid "-->"
+msgstr "-->"
+
+#: Application/res/options.cpp:30
+msgid "<--"
+msgstr "<--"
+
+#: Application/res/options.cpp:31
+msgid "Active skins"
+msgstr "Mga aktibong balat"
+
+#: Application/res/options.cpp:32
+msgid "Settings..."
+msgstr "Mga Settings..."
+
+#: Application/res/options.cpp:34
+msgid "Details"
+msgstr "Mga Detalye"
+
+#: Application/res/print.cpp:1
+msgid "All items"
+msgstr "Lahat ng items"
+
+#: Application/res/print.cpp:2
+msgid "Selected items"
+msgstr "Mga napiling item"
+
+#: Application/res/print.cpp:3
+msgid "Day range"
+msgstr "Sakop na mga araw"
+
+#: Application/res/print.cpp:4
+msgid "Select days"
+msgstr "Pumili ng mga araw"
+
+#: Application/res/print.cpp:5
+msgid "From:"
+msgstr "Galing kay:"
+
+#: Application/res/print.cpp:6
+msgid "To:"
+msgstr "Para kay:"
+
+#: Application/res/print.cpp:7
+msgid "Add title"
+msgstr "Magdadag ng pamagat"
+
+#: Application/res/print.cpp:8
+msgid "Preview..."
+msgstr "Paunang tingin..."
+
+#: Application/res/todo.cpp:7
+msgid "Due time:"
+msgstr "Takdang oras para matapos:"
+
+#: Application/res/todo.cpp:8
+msgid "Show in calendar"
+msgstr "Ipakita sa kalendaryo"
+
+#: Application/res/todo.cpp:9
+msgid "Priority:"
+msgstr "Prayoridad:"
+
+#: Application/res/todo.cpp:15
+msgid "Status:"
+msgstr "Kalagayan:"
+
+#: Application/res/todo.cpp:16
+#: Application/res/todo.cpp:17
+msgid "Not Started"
+msgstr "Hindi pa nauumpisahan"
+
+#: Application/res/todo.cpp:21
+msgid "Progress:"
+msgstr "Pag-unlad:"
+
+#: Application/res/todo.cpp:22
+#: Application/res/todo.cpp:23
+msgid "0 %"
+msgstr "0 %"
+
+#: Application/res/todo.cpp:24
+msgid "10 %"
+msgstr "10 %"
+
+#: Application/res/todo.cpp:25
+msgid "20 %"
+msgstr "20 %"
+
+#: Application/res/todo.cpp:26
+msgid "30 %"
+msgstr "30 %"
+
+#: Application/res/todo.cpp:27
+msgid "40 %"
+msgstr "40 %"
+
+#: Application/res/todo.cpp:28
+msgid "50 %"
+msgstr "50 %"
+
+#: Application/res/todo.cpp:29
+msgid "60 %"
+msgstr "60 %"
+
+#: Application/res/todo.cpp:30
+msgid "70 %"
+msgstr "70 %"
+
+#: Application/res/todo.cpp:31
+msgid "80 %"
+msgstr "80 %"
+
+#: Application/res/todo.cpp:32
+msgid "90 %"
+msgstr "90 %"
+
+#: Application/res/todo.cpp:33
+msgid "100 %"
+msgstr "100 %"
+
+#: Application/res/todo.cpp:39
+msgid "before the task is due."
+msgstr "bago dumating ang nakatakdang katapusan ng gawain."
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:215
+#: Application/Resource.h:293
+msgid "Calendar"
+msgstr "Kalendaryo"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:219
+msgid "Email"
+msgstr "Email"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:223
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:232
+msgid "Password"
+msgstr "Hudyat"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:227
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:236
+#: Plugins/OutlookPlugin/MapiHandler.cpp:406
+msgid "Poll frequency"
+msgstr "Poll frequency"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:231
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:244
+msgid "Suppress errors"
+msgstr "Huwag nang ipakita ang mga pagkakamali"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:235
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:248
+msgid "Keep offline copy"
+msgstr "Gumawa ng kopyang pwedeng gamitin offline"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:270
+msgid ""
+"Choose the name of the calendar, email and password for your Google account.\n"
+"You can also leave the calendar field empty if you only have a one calendar."
+msgstr ""
+"Pumili ng pangalan para sa kalendaryo, email at password para sa iyong Google account.\n"
+"Maaring ring hayaang walang laman ang calendar field kung mayron ka lamang isang kalendaryo."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:408
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google Error!\n"
+"Hindi makapagpatunay sa Google.\n"
+"Ito ang sinasabi ng server: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:547
+#: Plugins/GooglePlugin/GoogleThread.cpp:1126
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google Error!\n"
+"Hindi makuha ang kalendaryo.\n"
+"Ito ang sinasabi ng server: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:626
+msgid ""
+"Google Error!\n"
+"Unable to parse the calendar url."
+msgstr ""
+"Google Error!\n"
+"Hindi ma-parse ang url ng kalendaryo"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:650
+msgid ""
+"Google Error!\n"
+"Unable to find the chosen calendar.\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Google Error!\n"
+"Hindi makita ang napiling kalendaryo.\n"
+"\n"
+"Mga pwede na karakter:\n"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:750
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to delete the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google Error!\n"
+"Hindi mabura ang pangyayari.\n"
+"Ito ang sinasabi ng server: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:942
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to upload the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google Error!\n"
+"Hindi mailipat ang pangyayari.\n"
+"Ito ang sinasabi ng server: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:1107
+msgid ""
+"Google Error!\n"
+"Unable to parse the events."
+msgstr ""
+"Google Error!\n"
+"Hindi ma-parse ang ma pangyayari,"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:588
+msgid "Filename"
+msgstr "Pangalan ng file"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:594
+msgid "Monitor changes"
+msgstr "Subaybayan ang mga pagbabago"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:641
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a new file will be created."
+msgstr ""
+"Pumili ng file para sa kalendaryo.\n"
+"\n"
+"Maaring pumili ng kasalukuyang ics-file. Maari din gumawa ng bagong path name kung saan ang bagong file ay lilikhain.."
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:224
+msgid "URL"
+msgstr "URL"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:228
+msgid "Username"
+msgstr "Username"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:252
+msgid "Safe upload"
+msgstr "Safe upload"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:289
+msgid ""
+"Choose an URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Pumili ng URL, username at password para sa kalendaryo.\n"
+"\n"
+"Maaring gumamit ang URL ng http, https o ftp na protokol . Pwedeng iwanan na blanko nag username at password kung hindi naman gagamitin o kailangan."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:585
+#, c-format
+msgid ""
+"Network Error!\n"
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+"Network Error!\n"
+"Hindi makuha ang mga datos galing sa url:\n"
+"%s\n"
+"\n"
+"Ito ang sinasabi ng server: %i %s."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:846
+#, c-format
+msgid ""
+"Network Error!\n"
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+"Network Error!\n"
+"Hindi mailipat ang data sa url:\n"
+"%s\n"
+"\n"
+"Ito ang sinsabi ng server: %i %s."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:122
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library."
+msgstr ""
+"Outlook Error!\n"
+"Hindi mapagana ang the MAPI library."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:321
+#: Plugins/OutlookPlugin/MapiHandler.cpp:479
+#: Plugins/OutlookPlugin/MapiHandler.cpp:493
+msgid "Application"
+msgstr "Application"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:336
+#: Plugins/OutlookPlugin/MapiHandler.cpp:500
+msgid "Profile"
+msgstr "Profile"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:351
+#: Plugins/OutlookPlugin/MapiHandler.cpp:506
+msgid "MessageStore"
+msgstr "MessageStore"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:366
+msgid "Folders"
+msgstr "Mga Folder"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:386
+msgid "Import Alarms"
+msgstr "Import Alarms"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:391
+msgid "Use labels instead of categories"
+msgstr "Gumamit ng mga tatak imbes na mga kaurian"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:396
+msgid "Show edit links"
+msgstr "Ipakita ang kawing sa pagbabago"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:401
+msgid "Keep MAPI connection alive"
+msgstr "Panatilihing buhay ang kuneksyon sa MAPI"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:545
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Pumili ng mensahe na galing sa Outlook na gusto mong makita sa Rainlendar."
+
+#: Plugins/OutlookPlugin/MapiItem.cpp:346
+#, c-format
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][baguhin]]"
+
+#: Application/Resource.h:229
+msgid "Yes"
+msgstr "Oo"
+
+#: Application/Resource.h:230
+msgid "No"
+msgstr "Hindi"
+
+#: Application/Resource.h:234
+msgid "Make a selection:"
+msgstr "Pumili:"
+
+#: Application/Resource.h:236
+msgid "Hide Windows"
+msgstr "Itago ang mga Window"
+
+#: Application/Resource.h:237
+msgid "Show Windows"
+msgstr "Ipakita ang mga Window"
+
+#: Application/Resource.h:238
+msgid "Toggle Windows"
+msgstr "Toggle Windows"
+
+#: Application/Resource.h:239
+msgid "Next Month"
+msgstr "Susunod na Buwan"
+
+#: Application/Resource.h:240
+msgid "Previous Month"
+msgstr "Nakaraang Buwan"
+
+#: Application/Resource.h:241
+msgid "Current Month"
+msgstr "Kasalukuyang Buwan"
+
+#: Application/Resource.h:243
+msgid "Create New Task"
+msgstr "Gumawa ng Bagong Gagawin"
+
+#: Application/Resource.h:244
+msgid "Create New Event"
+msgstr "Gumawa ng Bagong Pangyayari"
+
+#: Application/Resource.h:246
+msgid "Anniversary"
+msgstr "Anibersaryo"
+
+#: Application/Resource.h:247
+msgid "Birthday"
+msgstr "Kaarawan"
+
+#: Application/Resource.h:248
+msgid "Business"
+msgstr "Negosyo"
+
+#: Application/Resource.h:249
+msgid "Calls"
+msgstr "Mga Tawag"
+
+#: Application/Resource.h:250
+msgid "Clients"
+msgstr "Mga Kliyente"
+
+#: Application/Resource.h:251
+msgid "Competition"
+msgstr "Paligsahan"
+
+#: Application/Resource.h:252
+msgid "Customer"
+msgstr "Mamimili"
+
+#: Application/Resource.h:253
+msgid "Exam"
+msgstr "Pagsusulit"
+
+#: Application/Resource.h:254
+msgid "Favorites"
+msgstr "Mga Paborito"
+
+#: Application/Resource.h:255
+msgid "Follow Up"
+msgstr "Follow Up"
+
+#: Application/Resource.h:256
+msgid "Gifts"
+msgstr "Mga Handog"
+
+#: Application/Resource.h:257
+msgid "Holidays"
+msgstr "Mga Pista"
+
+#: Application/Resource.h:258
+msgid "Ideas"
+msgstr "Mga Ideya"
+
+#: Application/Resource.h:259
+msgid "Important"
+msgstr "Mahalaga"
+
+#: Application/Resource.h:260
+msgid "Issues"
+msgstr "Mga usapin"
+
+#: Application/Resource.h:261
+msgid "Miscellaneous"
+msgstr "Samut-sari"
+
+#: Application/Resource.h:262
+msgid "Personal"
+msgstr "Personal"
+
+#: Application/Resource.h:263
+msgid "Projects"
+msgstr "Mga Proyekto"
+
+#: Application/Resource.h:264
+msgid "Public Holiday"
+msgstr "Pampublikong pista"
+
+#: Application/Resource.h:266
+msgid "Suppliers"
+msgstr "Mga tagapagtustos"
+
+#: Application/Resource.h:267
+msgid "Travel"
+msgstr "Paglalakbay"
+
+#: Application/Resource.h:268
+msgid "Trip"
+msgstr "Trip"
+
+#: Application/Resource.h:269
+msgid "TV"
+msgstr "TV"
+
+#: Application/Resource.h:270
+msgid "Vacation"
+msgstr "Bakasyon"
+
+#: Application/Resource.h:271
+msgid "Work"
+msgstr "Trabaho"
+
+#: Application/Resource.h:272
+msgid "Medical"
+msgstr "Medikal"
+
+#: Application/Resource.h:274
+msgid "Urgent"
+msgstr "Kailangan apurahin"
+
+#: Application/Resource.h:277
+msgid "Must Attend"
+msgstr "Kailangang puntahan"
+
+#: Application/Resource.h:278
+msgid "Travel Required"
+msgstr "Kailangan ng paglalakbay"
+
+#: Application/Resource.h:279
+msgid "Needs Preparation"
+msgstr "Kailangang paghandaan"
+
+#: Application/Resource.h:280
+msgid "Phone Call"
+msgstr "Tawag sa telepono"
+
+#: Application/Resource.h:282
+msgid "iCalendar Format"
+msgstr "iCalendar Format"
+
+#: Application/Resource.h:283
+msgid "Network Shared Calendar"
+msgstr "Kalendaryong Nakabahagi sa Network"
+
+#: Application/Resource.h:284
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+#: Application/Resource.h:285
+msgid "Rainlendar Ini Format"
+msgstr "Rainlendar Ini Format"
+
+#: Application/Resource.h:286
+msgid "Google Calendar"
+msgstr "Gogle Calendar"
+
+#: Application/Resource.h:288
+msgid "&Next >"
+msgstr "&Kasunod >"
+
+#: Application/Resource.h:289
+msgid "< &Back"
+msgstr "< &Nakaraan"
+
+#: Application/Resource.h:290
+msgid "&Finish"
+msgstr "&Katapusan"
+
+#: Application/Resource.h:292
+msgid "Vertical Calendar"
+msgstr "Patayong Kalendaryo"
+
+#: Application/Resource.h:294
+msgid "Year Calendar"
+msgstr "Kalendaryong Taon"
+
+#: Application/Resource.h:295
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: Application/Resource.h:296
+msgid "DigiClock"
+msgstr "DigiClock"
+
+#: Application/Resource.h:297
+msgid "Dual Calendar"
+msgstr "Dalawang Kalendaryo"
+
+#: Application/Resource.h:298
+msgid "Event List"
+msgstr "Listahan ng mga mangyayari"
+
+#: Application/Resource.h:299
+msgid "Todo List"
+msgstr "Listahan ng mga gagawin"
+
+#: Application/Resource.h:301
+#: Application/Resource.h:308
+msgid "Visible month"
+msgstr "Nakikitang buwan"
+
+#: Application/Resource.h:302
+msgid "Show buttons"
+msgstr "Ipakita ang mga butones"
+
+#: Application/Resource.h:303
+msgid "Show adjacent days"
+msgstr "Ipakita ang magkakatabing araw"
+
+#: Application/Resource.h:304
+msgid "Eventlist width"
+msgstr "Lapad ng eventlist"
+
+#: Application/Resource.h:305
+msgid "Eventlist height"
+msgstr "Taas ng evenlist"
+
+#: Application/Resource.h:306
+msgid "Todolist width"
+msgstr "Lapad ng todolist"
+
+#: Application/Resource.h:307
+msgid "Todolist height"
+msgstr "Taas ng todolist"
+
+#: Application/Resource.h:309
+msgid "Width"
+msgstr "Lapad"
+

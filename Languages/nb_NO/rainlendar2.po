@@ -1,0 +1,5151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: 2021-08-24 21:55+0200\n"
+"Last-Translator: Øistein Rian <oistein@badtown.no>\n"
+"Language-Team: \n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: D:/Projects/Rainlendar2\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: Application\n"
+"X-Poedit-SearchPath-1: Plugins\n"
+"X-Poedit-SearchPath-2: Testbench/Debug/resources\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Rainlendar kan ikke starte HTTP server for å motta OAuth respons. Sjekk at "
+"du ikke har sikkerhetsprogrammer som hindrer programmet å starte servere og "
+"at det ikke er noen andre tjenester som kjører på samme port."
+
+msgid "Server Port: "
+msgstr "Server port:"
+
+msgid "Failed to start HTTP server"
+msgstr "Kunne ikke starte HTTP server"
+
+msgid "Choose the backup path"
+msgstr "Velg sikkerhetskopisti"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "Arkiv (*.zip)|*.zip"
+
+msgid "Authentication failed!"
+msgstr "Pålitelighetskontroll feilet!"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "Vær sikker på at du gjør ferdig pålitelighetskontrollen"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr "og gir Rainlendar tillatelse til å bruke kalenderen din."
+
+msgid "Authentication succeeded!"
+msgstr "Pålitelighetskontroll gjennomført!"
+
+msgid "You may close the browser window now."
+msgstr "Du kan lukke nettleservinduet nå."
+
+msgid "Choose the backup file:"
+msgstr "Velg sikkerhetskopifil:"
+
+msgid "Select"
+msgstr "Velg"
+
+msgid "No backups found!"
+msgstr "Ingen sikkerhetskopier funnet!"
+
+msgid "There are no backups available in the backup folder."
+msgstr "Det er ingen tilgjengelige sikkerhetskopier i mappen."
+
+msgid "The settings do not exist!"
+msgstr "Innstillingene finnes ikke!"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "Valgt sikkerhetskopi inneholder ingen innstillinger."
+
+msgid "The file already exists:"
+msgstr "Filen eksisterer allerede:"
+
+msgid "Do you want to overwrite the file?"
+msgstr "Vil du overskrive filen?"
+
+msgid "Unable to overwrite file:"
+msgstr "Klarer ikke å overskrive filen:"
+
+msgid "Write error!"
+msgstr "Skrivefeil!"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"Kan ikke gjenopprette filen:\n"
+"%s\n"
+"\n"
+"Du må pakke ut filen manuelt fra sikkerhetskopien."
+
+msgid "Restore error!"
+msgstr "Gjenopprettingsfeil!"
+
+msgid "[None]"
+msgstr "[Ingen]"
+
+msgid "<Hidden>"
+msgstr "<Skjult>"
+
+msgid "all"
+msgstr "alle"
+
+msgid "active"
+msgstr "aktiv"
+
+msgid "dismissed"
+msgstr "Avslått"
+
+msgid "snoozed"
+msgstr "Slumret"
+
+msgid "Show only needs action"
+msgstr "Vis kun det som trenger handling"
+
+msgid "Show only in progress"
+msgstr "Vis kun under behandling"
+
+msgid "Show only completed"
+msgstr "Vis kiun ferdigbehandlete"
+
+msgid "Show only cancelled"
+msgstr "Vis bare avbrutte"
+
+msgid "Hide needs action"
+msgstr "Skjul krever handling"
+
+msgid "Hide in progress"
+msgstr "Skjuling pågår"
+
+msgid "Hide completed"
+msgstr "Skjuling fullført"
+
+msgid "Hide cancelled"
+msgstr "Skjuling avbrutt"
+
+msgid "Reset completed time"
+msgstr "Nullstill fullført tid"
+
+msgid "Show only no priority"
+msgstr "Vis kun uten prioritet"
+
+msgid "Show only high priority"
+msgstr "Vis kun høy prioritet"
+
+msgid "Show only normal priority"
+msgstr "Vis kun normal prioritet"
+
+msgid "Show only low priority"
+msgstr "Vis kun lav prioritet"
+
+msgid "Hide no priority"
+msgstr "Skjul ingen prioritet"
+
+msgid "Hide high priority"
+msgstr "Skjul høy prioritet"
+
+msgid "Hide normal priority"
+msgstr "Skjul normal prioritet"
+
+msgid "Hide low priority"
+msgstr "Skjul lav prioritet"
+
+msgid "Show only alarms"
+msgstr "Vis kun alarmer"
+
+msgid "Show only active"
+msgstr "Vis kun aktive"
+
+msgid "Show only snoozed"
+msgstr "Vis kun slumrede"
+
+msgid "Show only dismissed"
+msgstr "Vis bare avviste"
+
+msgid "Hide alarms"
+msgstr "Skjul alarmer"
+
+msgid "Hide active"
+msgstr "Skjul aktive"
+
+msgid "Hide snoozed"
+msgstr "Skjul utsatte"
+
+msgid "Hide dismissed"
+msgstr "Skjul avviste"
+
+msgid "Reset dismiss time"
+msgstr "Tilbakestill avvisningstid"
+
+msgid "Reset snooze time"
+msgstr "Nullstill slumretid"
+
+msgid "Dismiss next alarm"
+msgstr "Avvis neste alarm"
+
+msgid "Duration:"
+msgstr "Varighet:"
+
+msgid "Next alarm:"
+msgstr "Neste alarm:"
+
+msgid "Dismissed:"
+msgstr "Avslått:"
+
+msgid "Snoozed until:"
+msgstr "Slumre til:"
+
+msgid "In Progress"
+msgstr "Under arbeid"
+
+msgid "Completed"
+msgstr "Ferdig"
+
+msgid "Needs Action"
+msgstr "Trenger handling"
+
+msgid "Cancelled"
+msgstr "Avbrutt"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "High"
+msgstr "Høy"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Low"
+msgstr "Lav"
+
+msgid "All"
+msgstr "Alt"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Dismissed"
+msgstr "Avslått"
+
+msgid "Snoozed"
+msgstr "Slumret"
+
+msgid "Daily"
+msgstr "Daglig"
+
+msgid "Weekly"
+msgstr "Ukentlig"
+
+msgid "Monthly"
+msgstr "Månedlig"
+
+msgid "Yearly"
+msgstr "Årlig"
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Public"
+msgstr "Offentlig"
+
+msgid "Confidential"
+msgstr "Konfidensiell"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "No priority"
+msgstr "Ingen prioritet"
+
+msgid "Normal priority"
+msgstr "Normal prioritet"
+
+msgid "High priority"
+msgstr "Høy prioritet"
+
+msgid "Low priority"
+msgstr "Lav prioritet"
+
+msgid "Created: "
+msgstr "Opprettet:"
+
+msgid "Unknown"
+msgstr "Ukjent"
+
+msgid "Modified: "
+msgstr "Modifisert:"
+
+msgid "Copy"
+msgstr "Kopier"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Native"
+msgstr "Opprinnelig"
+
+msgid "Sunday"
+msgstr "Søndag"
+
+msgid "Monday"
+msgstr "Mandag"
+
+msgid "Tuesday"
+msgstr "Tirsdag"
+
+msgid "Wednesday"
+msgstr "Onsdag"
+
+msgid "Thursday"
+msgstr "Torsdag"
+
+msgid "Friday"
+msgstr "Fredag"
+
+msgid "Saturday"
+msgstr "Lørdag"
+
+msgid "Every second Saturday"
+msgstr "Annenhver lørdag"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Due"
+msgstr "Forfall"
+
+msgid "Priority"
+msgstr "Prioritet"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Recurrence"
+msgstr "Gjentagelse"
+
+msgid "Off"
+msgstr "Av"
+
+msgid "Beta"
+msgstr "Beta"
+
+msgid "General"
+msgstr "Generelt"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "%H:%M (f.eks. \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "%#H:%M (f.eks.. \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "%I:%M %p (f.eks. \"01:42 pm\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "%#I:%M %p (f.eks. \"3:42 pm\")"
+
+msgid "Time format"
+msgstr "Tidsformat"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "%d.%#m.%Y (f.eks. \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "%d.%m.%Y (f.eks. \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "%Y-%m-%d (f.eks. \"2012-04-21\""
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "%#m/%d/%Y (f.eks. \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "%m/%d/%Y (f.eks. \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "Datoformat"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "Bruk 'I dag' og 'i morgen'"
+
+msgid "Weekend days"
+msgstr "Helgedager"
+
+msgid "Week number delta"
+msgstr "Ukenummer delta"
+
+msgid "Default categories"
+msgstr "Standard kategorier"
+
+msgid "Show categories from the skin"
+msgstr "Vis kategorier i stil"
+
+msgid "Show tray icon"
+msgstr "Vis skuffeikon"
+
+msgid "Show tray status icons"
+msgstr "Vis ikoner på verktøylinje"
+
+msgid "Day number"
+msgstr "Dagnummer"
+
+msgid "Week number"
+msgstr "Ukenummer"
+
+msgid "Number in tray"
+msgstr "Nummer i verktøylinje"
+
+msgid "Always"
+msgstr "Alltid"
+
+msgid "Never"
+msgstr "Aldri"
+
+msgid "Show full menus"
+msgstr "Vis fulle menyer"
+
+msgid "Disable keyboard shortcuts"
+msgstr "Koble ut hurtigtaster"
+
+msgid "List wheel scroll"
+msgstr "Rulle hastighet"
+
+msgid "Skin language"
+msgstr "Stil språk"
+
+msgid "Number of stored backups"
+msgstr "Antall lagrede sikkerhetskopier"
+
+msgid "Show delete confirmations"
+msgstr "Bekreft sletting"
+
+msgid "Disable text formatting"
+msgstr "Deaktiver tekstformattering"
+
+msgid "Show empty list text"
+msgstr "Vis tom liste-tekst"
+
+msgid "Check for updates"
+msgstr "Søk etter oppdateringer"
+
+msgid "Show url icons"
+msgstr "Vis Url-ikoner"
+
+msgid "Simultaneous transfers"
+msgstr "Samtidige overførsler"
+
+msgid "Only uncategorized"
+msgstr "Bare ukategoriserte"
+
+msgid "Icon from events"
+msgstr "Ikon fra hendelser"
+
+msgid "Visual category overwrite"
+msgstr "Synlig kategori overskrives"
+
+msgid "Store English category names"
+msgstr "Lagre Engelske kategorinavn"
+
+msgid "Custom category icon path"
+msgstr "Sti til ikoner på egendefinert kategori"
+
+msgid "Use antialiased fonts"
+msgstr "Bruk antialiserte skrifttyper"
+
+msgid "Count"
+msgstr "Nedtelling"
+
+msgid "Ordinal"
+msgstr "Ordenstall"
+
+msgid "Type of year to add for categories"
+msgstr "Årstype for tillegg i kategorier"
+
+msgid "Use custom password encrypting"
+msgstr "Bruk egendefinert passordkryptering"
+
+msgid "Editor"
+msgstr "Redigerer"
+
+msgid "Allow multiple calendars"
+msgstr "Tillat flere forekomster"
+
+msgid "Allow multiple categories"
+msgstr "Tillat flere forekomster"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "Hold redigerer åpen til etter vellykket skriving"
+
+msgid "Time span in the editor"
+msgstr "Tid i redigerer"
+
+msgid "Number of previous locations"
+msgstr "Antall tidligere steder"
+
+msgid "Default event duration"
+msgstr "Standard hendelseslengde"
+
+msgid "Windows"
+msgstr "Vinduer"
+
+msgid "Use window names"
+msgstr "Bruk vindusnavn"
+
+msgid "Hide on Aero peek"
+msgstr "Skjul ved Aero peek"
+
+msgid "Transparency type"
+msgstr "Type gjennomsiktighet"
+
+msgid "Copy transparency sleep time"
+msgstr "Kopi gjennomsigtighet tid"
+
+msgid "Fade delay (ms)"
+msgstr "Fade forsinkelse (ms)"
+
+msgid "Fade duration (ms)"
+msgstr "Fade varighet (ms)"
+
+msgid "Allow window fading"
+msgstr "Tillat vindusutvisking"
+
+msgid "Keep on screen"
+msgstr "Alltid på skjerm"
+
+msgid "Bring all windows on top when clicked"
+msgstr "Bring alle vinduer øverst ved klikk"
+
+msgid "Show in all desktops"
+msgstr "Vis på alle skrivebord"
+
+msgid "Snap distance"
+msgstr "Snap distanse"
+
+msgid "Snap center"
+msgstr "Snap senter"
+
+msgid "Don't save"
+msgstr "Ikke lagre"
+
+msgid "Per resolution"
+msgstr "Per oppløsning"
+
+msgid "Single value"
+msgstr "Enkel verdi"
+
+msgid "Save window position"
+msgstr "Lagre vindusposisjon"
+
+msgid "Font face"
+msgstr "Skrifttype"
+
+msgid "Scaling quality"
+msgstr "Skaleringskvalitet"
+
+msgid "Network"
+msgstr "Nettverk"
+
+msgid "Reload delay after resume (s)"
+msgstr "Last forsinkelse etter fortsettelse (s)"
+
+msgid "Network access delay after startup (s)"
+msgstr "Nettverkstilgang forsinkelse etter oppstart (s)"
+
+msgid "Proxy server"
+msgstr "Proxy server"
+
+msgid "Proxy user"
+msgstr "Proxy bruker"
+
+msgid "Proxy password"
+msgstr "Proxy passord"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgid "Proxy type"
+msgstr "Proxy type"
+
+msgid "Try direct connection if proxy fails"
+msgstr "Prøv direkte tilkobling hvis proxy feiler"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Show all icons"
+msgstr "Vis alle ikoner"
+
+msgid "Show one icon per type"
+msgstr "Vis et ikon for hver type"
+
+msgid "Show only one icon"
+msgstr "Vis kun ett ikon"
+
+msgid "Show no icons"
+msgstr "Vis ingen ikoner"
+
+msgid "Combine icons in the calendar"
+msgstr "Kombiner ikoner i kalender"
+
+msgid "Calendar wheel scroll"
+msgstr "Rull kalender med musehjul"
+
+msgid "Show tasks in calendar"
+msgstr "Vis oppgaver i kalender"
+
+msgid "Always show menu"
+msgstr "Alltid vis meny"
+
+msgid "Always create new event"
+msgstr "Opprett ny hendelse alltid"
+
+msgid "Do nothing"
+msgstr "Ikke gjør noe"
+
+msgid "Double click action"
+msgstr "Handling ved Dobbelklikk"
+
+msgid "Tooltip"
+msgstr "Verktøytips"
+
+msgid "Show tooltips"
+msgstr "Vis verktøytips"
+
+msgid "Only on days with events"
+msgstr "Bare på dager med hendelser"
+
+msgid "Show tooltip in tray"
+msgstr "Vis verktøytips"
+
+msgid "Max tooltip window width"
+msgstr "Max verktøytips bredde"
+
+msgid "Show description in tooltip"
+msgstr "Vis beskrivelse i verktøytips"
+
+msgid "Task fields in tooltip"
+msgstr "Oppgave-elementer i verktøytips"
+
+msgid "Event fields in tooltip"
+msgstr "Hendelses-elementer i verktøytips"
+
+msgid "Traytip show duration (s)"
+msgstr "Varighet for visning av skuffetips (s)"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "Verktøytips fade tid (ms)"
+
+msgid "Tooltip show delay (ms)"
+msgstr "Verktøytips visningstid (ms)"
+
+msgid "Tooltip format"
+msgstr "Verktøytips format"
+
+msgid "Task List"
+msgstr "Oppgaveliste"
+
+msgid "Show full task summary"
+msgstr "Vis alt om oppgave"
+
+msgid "Show task due time"
+msgstr "Vis avslutningstidspunkt"
+
+msgid "Show task location"
+msgstr "Vis oppgavens sted"
+
+msgid "Show task calendar"
+msgstr "Vis oppgave i kalender"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "Antall dager i liste (0 = vis alle)"
+
+msgid "Show task time when arranged by start or due date"
+msgstr "Vis oppgavetid når vist etter start eller forfallstid"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr "%A %d.%#m.%Y (f.eks. \"Mandag 21.4.2012\")"
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr "%A %d.%m.%Y (f.eks. \"Mandag 21.04.2012\")"
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr "%A %Y-%m-%d (f.eks. \"Mandag 2012-04-21\")"
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr "%A %#m/%d/%Y (f.eks. \"Mandag 4/21/2012\")"
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr "%A %m/%d/%Y (f.eks. \"Mandag 04/21/2012\")"
+
+msgid "Task list header format"
+msgstr "Hode format oppgaveliste"
+
+msgid "<None>"
+msgstr "<Ingen>"
+
+msgid "Default task template"
+msgstr "Standard oppgavemal"
+
+msgid "Event List"
+msgstr "Hendelsesliste"
+
+msgid "Show full event summary"
+msgstr "Vis alt om hendelse"
+
+msgid "Show event start time"
+msgstr "Vis hendelse starttid"
+
+msgid "Show event end time"
+msgstr "Vis hendelse slutt-tid"
+
+msgid "Show event location"
+msgstr "Vis hendelse sted"
+
+msgid "Show event calendar"
+msgstr "Vis hendelse i kalender"
+
+msgid "Hide dismissed events"
+msgstr "Skjul avslåtte hendelser"
+
+msgid "Hide past events"
+msgstr "Skjul tidligere hendelser"
+
+msgid "Number of future days the list shows"
+msgstr "Antall dager fram i tid i liste"
+
+msgid "Number of past days the list shows"
+msgstr "Antall tidligere dager i liste"
+
+msgid "Age from start of the week"
+msgstr "Alder fra ukestart"
+
+msgid "Event list header format"
+msgstr "Hendelsesliste hodeformat"
+
+msgid "Default event template"
+msgstr "Standard hendelsesmal"
+
+msgid "No grouping"
+msgstr "Ingen gruppering"
+
+msgid "Start and end dates"
+msgstr "Start og slutt-datoer"
+
+msgid "Start date and duration"
+msgstr "Startdato og varighet"
+
+msgid "Group multiday events"
+msgstr "Grupper hendelser over flere dager"
+
+msgid "Schedule"
+msgstr "Planlegg"
+
+msgid "Show schedule descriptions"
+msgstr "Vis planlagt beskrivelse"
+
+msgid "Show schedule start time"
+msgstr "Vis planlagt starttid"
+
+msgid "Show schedule end time"
+msgstr "Vis planlagt slutt-tid"
+
+msgid "Show schedule location"
+msgstr "Vis planlagt sted"
+
+msgid "Show schedule calendar"
+msgstr "Vis planlagt hendelse i kalender"
+
+msgid "Create, move and resize events with mouse"
+msgstr "Lag, flytt og endre størrelse på hendelser med mus"
+
+msgid "First shown hour"
+msgstr "Første viste time"
+
+msgid "Last shown hour"
+msgstr "Siste viste time"
+
+msgid "Alarm"
+msgstr "Alarm"
+
+msgid "Show alarm start time"
+msgstr "Vis alarm starttid"
+
+msgid "Show alarm end time"
+msgstr "Vis alarm slutt-tid"
+
+msgid "Show alarm location"
+msgstr "Vis alarm sted"
+
+msgid "Show alarm calendar"
+msgstr "Vis alarmkalender"
+
+msgid "Show due to the event"
+msgstr "Vis hendelsens forfall"
+
+msgid "Support Mozilla alarms"
+msgstr "Supporter Mozilla alarmer"
+
+msgid "Keep alarm always on top"
+msgstr "Alarm alltid øverst"
+
+msgid "Default snooze time (secs)"
+msgstr "Standard slumretid (sek)"
+
+msgid "Max alarm window width"
+msgstr "Max alarm vindusbredde"
+
+msgid "Hide from alarm after days"
+msgstr "Skjul fra alarm etter antall dager"
+
+msgid "Default alarm time (mins)"
+msgstr "Standard alarmtid (min)"
+
+msgid "Default alarm file"
+msgstr "Standard alarmfil"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "Ikke vis alarm på et fullskjermsvindu"
+
+msgid "Loop the alarm sound (secs)"
+msgstr "Gjenta alarmlyd (sek)"
+
+msgid "Snooze times (mins)"
+msgstr "Slumre-tider (min)"
+
+msgid "Create Error!"
+msgstr "Opprettingsfeil!"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "Kan ikke velge mål-kalender for elementet."
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "Det er ikke mulig å lage en ny hendelse fra strengen:\n"
+
+msgid "Parse Error!"
+msgstr "Analyseringsfeil!"
+
+msgid "New version found!"
+msgstr "Ny versjon funnet!"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"Versjon %s er tilgjengelig.\n"
+"Vil du gå til web-siden nå?"
+
+msgid "No updates available."
+msgstr "Ingen oppdateringer tilgjengelig."
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "Du har den nyeste versjonen av Rainlendar"
+
+msgid "New event"
+msgstr "Ny hendelse"
+
+msgid "New task"
+msgstr "Ny oppgave"
+
+msgid "Refresh"
+msgstr "Gjenoppfrisk"
+
+msgid "Options..."
+msgstr "Innstillinger..."
+
+msgid "Manager..."
+msgstr "Planlegger..."
+
+msgid "Exit"
+msgstr "Avslutt"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "View"
+msgstr "Vis"
+
+msgid "About..."
+msgstr "Om"
+
+msgid "Open help\tCtrl+?"
+msgstr "Åpne hjelp\tCtrl+?"
+
+msgid "Help"
+msgstr "Hjelp"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Calendars"
+msgstr "Kalender"
+
+msgid "Choose day"
+msgstr "Velg dag"
+
+msgid "Choose month"
+msgstr "Velg måned"
+
+msgid "Install license..."
+msgstr "Installer lisensnøkkel"
+
+msgid "Show debug log"
+msgstr "Vis debug logg"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+msgid "Enable all calendars"
+msgstr "Koble inn alle kalendere"
+
+msgid "Disable all calendars"
+msgstr "Koble ut alle kalendre"
+
+msgid "Current Day"
+msgstr "I dag"
+
+msgid "Next Day"
+msgstr "Neste dag"
+
+msgid "Previous Day"
+msgstr "Forrige dag"
+
+msgid "Next Week"
+msgstr "Neste uke"
+
+msgid "Previous Week"
+msgstr "Forrige uke"
+
+msgid "Next Month"
+msgstr "Neste måned"
+
+msgid "Previous Month"
+msgstr "Forrige måned"
+
+msgid "Current Month"
+msgstr "Denne måned"
+
+msgid "Next Year"
+msgstr "Neste År"
+
+msgid "Previous Year"
+msgstr "Forrige År"
+
+msgid "Home"
+msgstr "Hjem"
+
+msgid "Right"
+msgstr "Høyre"
+
+msgid "Left"
+msgstr "Venstre"
+
+msgid "Up"
+msgstr "Opp"
+
+msgid "Down"
+msgstr "Ned"
+
+msgid "January"
+msgstr "Januar"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+msgid "February"
+msgstr "Februar"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+msgid "April"
+msgstr "April"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+msgid "August"
+msgstr "August"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+msgid "September"
+msgstr "September"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+msgid "November"
+msgstr "November"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+msgid "December"
+msgstr "Desember"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+msgid "Visible"
+msgstr "Synlig"
+
+msgid "More settings..."
+msgstr "Flere innstillinger..."
+
+msgid "Today"
+msgstr "I dag"
+
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+msgid "Show all windows"
+msgstr "Vis alle vinduer"
+
+msgid "Hide all windows"
+msgstr "Skjul alle vinduer"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "Lisensfiler (*.r2lic)|*.r2lic"
+
+msgid "Choose the license file"
+msgstr "Velg lisensfilen"
+
+msgid "*Empty*"
+msgstr "*Tom*"
+
+msgid "This instance"
+msgstr "Denne instans"
+
+msgid "Whole event"
+msgstr "Hele hendelse"
+
+msgid "All following"
+msgstr "Alle følgende"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Do you want to delete this item?"
+msgstr "Ønsker du å slette dette elementet?"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"Dette er et gjentagende element:\n"
+"\n"
+"%s\n"
+"\n"
+"Du kan enten slette kun denne forekomsten (%s), alle etterfølgende hendelser "
+"eller alle gjentagelser av hendelsen."
+
+msgid "The item is read only and cannot be deleted."
+msgstr "Valgt element er skrivebeskyttet og kan ikke slettes."
+
+msgid "Unable to delete the item."
+msgstr "Klarer ikke å slette elementet."
+
+msgid "Do you want to delete these items?"
+msgstr "Vil du slette disse elementene?"
+
+msgid "The item is read only and cannot be moved."
+msgstr "Elementet er skrivebeskyttet og kan ikke flyttes."
+
+msgid "Unable to move the item."
+msgstr "Kan ikke flytte elementet."
+
+msgid "Choose a directory"
+msgstr "Velg en mappe"
+
+msgid "Version"
+msgstr "Versjon"
+
+msgid "Built on"
+msgstr "Bygget på"
+
+msgid "Developed by"
+msgstr "Utviklet av"
+
+msgid "Translated (%s) by"
+msgstr "Oversatt (%s) av"
+
+msgid "Licensed to"
+msgstr "Lisensiert til"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Links"
+msgstr "Lenker"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Forum"
+msgstr "Forum"
+
+msgid "Menu icons by"
+msgstr "Meny-Ikoner av"
+
+msgid "Application icon by"
+msgstr "Programikon av"
+
+msgid "Copyrights"
+msgstr "Kopirettigheter"
+
+msgid "Please wait..."
+msgstr "Vennligst vent..."
+
+msgid "Check for update"
+msgstr "Se etter oppdateringer"
+
+msgid "Choose Alarm"
+msgstr "Velg alarm"
+
+msgid "All files (*.*)|*.*"
+msgstr "Alle filer (*.*)|*.*"
+
+msgid "Change Fields"
+msgstr "Endre felter"
+
+msgid "%i events selected"
+msgstr "%i hendelser valgt"
+
+msgid "%i tasks selected"
+msgstr "%i oppgaver valgt"
+
+msgid "End time:"
+msgstr "Slutt tid:"
+
+msgid "Due time:"
+msgstr "Forfallstid:"
+
+msgid "Add new alarm"
+msgstr "Legg til ny alarm"
+
+msgid "Are you sure you want to do this?"
+msgstr "Er du sikker på at du vil gjøre dette?"
+
+msgid "The selected fields will be changed to %i items."
+msgstr "De valgte felter vil endres til %i elementer"
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr ""
+"Det er ikke mulig å angre denne operasjonen, så klikk \"Ja\" kun hvis du er "
+"helt sikker på hva du gjør."
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr ""
+"Merk at endring av type mellom hendelser og oppgaver vil fjerne noen data."
+
+msgid "Categories"
+msgstr "Kategorier"
+
+msgid "Add..."
+msgstr "Legg til..."
+
+msgid "Clear"
+msgstr "Tøm"
+
+msgid "Remove"
+msgstr "Fjern"
+
+msgid "Values"
+msgstr "Verdier"
+
+msgid "Please give a name for the category"
+msgstr "Vennligst velg et navn for kategorien"
+
+msgid "Enter text"
+msgstr "Angi tekst"
+
+msgid "Unable to create the category!"
+msgstr "Klarer ikke å opprette kategorien!"
+
+msgid "You must give a name for the category."
+msgstr "Du må angi et navn for kategorien."
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "Det er ikke tillatt å bruke '/'-karakteren i navnet."
+
+msgid "A category called \"%s\" already exists."
+msgstr "En kategori med navn \"%s\" eksisterer allerede."
+
+msgid "Link start and end dates"
+msgstr "Link start og stopp-datoer"
+
+msgid "Save\tCtrl+S"
+msgstr "Lagre\tCtrl+S"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "Lagre som ny\tShift+Ctrl+S"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "Lagre til fil...\tAlt+Ctrl+S"
+
+msgid "Print...\tCtrl+P"
+msgstr "Utskrift...\tCtrl+P"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "Slett\tCtrl+Delete"
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "Lukk && Aksepter\tCtrl+Enter"
+
+msgid "Close\tCtrl+W"
+msgstr "Lukk\tCtrl+W"
+
+msgid "Close\tAlt-F4"
+msgstr "Lukk\tAlt+F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "Den valgte kalenderen tillater ikke gjentagelser."
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr ""
+"Alarmen vil ikke vises ettersom kalenderen er innstilt for ikke å vise "
+"alarmer."
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr "Alarmen vil ikke vises ettersom stilen ikke har et alarmvindu."
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr "Oppganve er skrivebeskyttet og endringer kan ikke lagres."
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr "Valgt element er skrivebeskyttet og endringer kan ikke lagres."
+
+msgid "The task is from a read-only calendar."
+msgstr "Oppgaven er fra en skriveveskyttet kalender."
+
+msgid "The event is from a read-only calendar."
+msgstr "Hendelsen er fra en skrivebeskyttet kalender."
+
+msgid "There are no calendars available which can store tasks."
+msgstr "Det er ingen kalendere tilgjengelig som kan lagre oppgaver."
+
+msgid "There are no calendars available which can store events."
+msgstr "Det er ingen kalendere tilgjengelig som kan lagre hendelser."
+
+msgid "No target calendar has been selected."
+msgstr "Ingen mål-kalender er valgt."
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr "Den originale beskrivelsen er i HTML og kan ikke redigeres."
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"Det er ingen valgt kalender for elementet. Velg den kalenderen du vil "
+"plassere elementet i."
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"Det er ingen gyldige kalendre hvor elementet kan lagres. Du må gå til "
+"innstillinger og opprette en ny kalender for elementet. Merk at noen "
+"kalendre ikke støtter både hendelser og oppgaver."
+
+msgid "Unable to save the item."
+msgstr "Klarer ikke å lagre elementet."
+
+msgid "Updating"
+msgstr "Oppdaterer"
+
+msgid "Do you want to save the changes?"
+msgstr "Vil du lagre endringene?"
+
+msgid "You have made some changes to the fields."
+msgstr "Du har gjort endringer til felter."
+
+msgid "&Save"
+msgstr "&Lagre"
+
+msgid "&Discard"
+msgstr "&Forkast"
+
+msgid "&Cancel"
+msgstr "&Avbryt"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Er du sikker på at du vil slette dette elementet?"
+
+msgid "Event"
+msgstr "Hendelse"
+
+msgid "Choose a file"
+msgstr "Velg en fil"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar filer (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "Velg kalendere:"
+
+msgid "Select the categories:"
+msgstr "Velg kategorier:"
+
+msgid "before the event starts."
+msgstr "før hendelse starter."
+
+msgid "before the task is due."
+msgstr "før oppgaven er forfalt"
+
+msgid "Set alarm sound"
+msgstr "Sett varslingslyd"
+
+msgid "Current alarm: "
+msgstr "Aktiv alarm:"
+
+msgid "Remove alarm"
+msgstr "Fjern alarm"
+
+msgid "Minutes"
+msgstr "Minutter"
+
+msgid "Hours"
+msgstr "Timer"
+
+msgid "Days"
+msgstr "Dager"
+
+msgid "Alert"
+msgstr "Varsel"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr ""
+"Finner ikke noen kalenderoppføring for hendelse. Hendelsen var ikke lagret."
+
+msgid "On the %s day of the month"
+msgstr "På %s dag i måneden"
+
+msgid "first"
+msgstr "første"
+
+msgid "second"
+msgstr "andre"
+
+msgid "third"
+msgstr "tredje"
+
+msgid "fourth"
+msgstr "fjerde"
+
+msgid "fifth"
+msgstr "femte"
+
+msgid "On the %s %s of the month"
+msgstr "På %s %s i måneden"
+
+msgid "On the last %s of the month"
+msgstr "På siste %s i måneden"
+
+msgid "On the first weekday of the month"
+msgstr "På første ukedag i måneden"
+
+msgid "On the last weekday of the month"
+msgstr "På siste ukedag i måneden"
+
+msgid "On the last day of the month"
+msgstr "På siste dag i måneden"
+
+msgid "Please give a name for the template"
+msgstr "Vennligst velg et navn for malen"
+
+msgid "Unable to create the template!"
+msgstr "Klarer ikke å opprette malen!"
+
+msgid "You must give a name for the template."
+msgstr "Du må angi et navn for malen."
+
+msgid "A template called \"%s\" already exists."
+msgstr "En mal med navn \"%s\" eksisterer allerede."
+
+msgid "Do you want to overwrite the template?"
+msgstr "Vil du overskrive malen?"
+
+msgid "Choose the template to delete:"
+msgstr "Velg malen som skal slettes:"
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "Velg mal for nye oppgaver:"
+
+msgid "Choose the template which is used for new events:"
+msgstr "Vel mal for nye endelser:"
+
+msgid "Save as template..."
+msgstr "Lagre som mal..."
+
+msgid "Delete template..."
+msgstr "Slett mal..."
+
+msgid "Set the default template..."
+msgstr "Sett standard mal..."
+
+msgid "Template"
+msgstr "Mal"
+
+msgid "Select the day range"
+msgstr "Velg antall dager"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"Eksportrutinen kan ikke lagre hendelser med gjentagelse, så de må "
+"konverteres til egne instanser. Vennligst definer utstrekningen som skal "
+"lagres til filen."
+
+msgid "From:"
+msgstr "Fra:"
+
+msgid "To:"
+msgstr "Til:"
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "Sluttiden kan ikke være tidligere enn starttiden."
+
+msgid "Birthday"
+msgstr "Fødselsdag"
+
+msgid "Anniversary"
+msgstr "Årsdag"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Du har opprettet en bursdag eller bryllupsdag, men har ikke angitt "
+"gjentagelse.\n"
+"Vil du at den skal gjentas hvert år?"
+
+msgid "Error"
+msgstr "Feil"
+
+msgid "Warning"
+msgstr "Advarsel"
+
+msgid "Question"
+msgstr "Spørsmål"
+
+msgid "Information"
+msgstr "Informasjon"
+
+msgid "Do not show this again"
+msgstr "Ikke vis dette igjen"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "&Yes"
+msgstr "&Ja"
+
+msgid "&No"
+msgstr "&Nei"
+
+msgid "Manager"
+msgstr "Planlegger"
+
+msgid "Events"
+msgstr "Hendelser"
+
+msgid "Tasks"
+msgstr "Oppgaver"
+
+msgid "Show original"
+msgstr "Vis original"
+
+msgid "Show current"
+msgstr "Vis nåværende"
+
+msgid "Show upcoming"
+msgstr "Vis kommende"
+
+msgid "New"
+msgstr "Ny"
+
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "Delete"
+msgstr "Slett"
+
+msgid "Copy to"
+msgstr "Kopier til"
+
+msgid "Move to"
+msgstr "Flytt til"
+
+msgid "Change fields"
+msgstr "Endre felter"
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Export"
+msgstr "Eksporter"
+
+msgid "Print..."
+msgstr "Skriv ut..."
+
+msgid "Backup"
+msgstr "Sikkerhetskopi"
+
+msgid "Restore"
+msgstr "Gjenopprette"
+
+msgid "Close"
+msgstr "Lukk"
+
+msgid "Select all"
+msgstr "Velg alle"
+
+msgid "Select none"
+msgstr "Velg ingen"
+
+msgid "Toggle selection"
+msgstr "Veksle utvalg"
+
+msgid "Select duplicates"
+msgstr "Velg duplikater"
+
+msgid "Sort by due time"
+msgstr "Sortert på starttidspunkt"
+
+msgid "Sort by end time"
+msgstr "Sortert på slutt-tid"
+
+msgid "Sort by summary"
+msgstr "Sortert etter sammendrag"
+
+msgid "Sort by location"
+msgstr "Sortert etter sted"
+
+msgid "Sort by calendar"
+msgstr "Sortert etter kalender"
+
+msgid "Sort by category"
+msgstr "Sortert på  kategori"
+
+msgid "Sort by url"
+msgstr "Sorter på URL"
+
+msgid "Sort by repeat"
+msgstr "Sorter etter repetisjon"
+
+msgid "Sort by priority"
+msgstr "Sortert etter prioritet"
+
+msgid "Sort by status"
+msgstr "Sortert på status"
+
+msgid "Sort by create time"
+msgstr "Sorter etter opprettelsestid"
+
+msgid "Sort by modify time"
+msgstr "Sorter etter endringstid"
+
+msgid "Sort by start time"
+msgstr "Sortert på start-tid"
+
+msgid "Start time"
+msgstr "Start-tid"
+
+msgid "End time"
+msgstr "Slutt-tid"
+
+msgid "Summary"
+msgstr "Sammendrag"
+
+msgid "Location"
+msgstr "Sted"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Create time"
+msgstr "Opprett tid"
+
+msgid "Modify time"
+msgstr "Endre tid"
+
+msgid "Reverse sorting"
+msgstr "Reverser sortering"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "Totalt: %i (Valgte: %i)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr ""
+"Åpning av mange elementer for redigering kan ta lang tid. Er du sikker på at "
+"du vil gjøre dette?"
+
+msgid "Do you want to delete the selected item?"
+msgstr "Vil du slette valgt element?"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "Vil du slette valgte %i element(er)?"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr "Valgt element er skrivebeskyttet og kan ikke slettes."
+
+msgid "There were %i read only items which were not deleted."
+msgstr "Det var %i skrivebeskyttede elementer som ikke ble slettet."
+
+msgid "Unable to delete some items."
+msgstr "Klarer ikke å slette noen elementer."
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "Velg kalendere for kopierte elementer:"
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "Velg kalendere for flyttede elementer:"
+
+msgid "Operation failed!"
+msgstr "Operasjonen feilet!"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr "Det er ingen tilgjengelige kalendere som kan lagre objektene."
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"Flytting av elementer til en online-kalender er ikke trygt. Hvis mottaks-"
+"kalenderen ikke aksepterer elementene på grunn av nettverksproblemer eller "
+"en annen grunn, vil du miste de flyttede hendelsene.\n"
+"\n"
+"Så velg \"Ja\" kun hvis du er helt sikker på hva du gjør. "
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "Flyttet %i objekter til følgende kalendere:\n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "Kopierte %i objekter til følgende kalendere:\n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"Viktig! Kopiering av elementer til en online-kalender tar litt tid, så de "
+"vil ikke være tilgjengelige før etter en stund."
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr "Noen elementer var skrivebeskyttet og ble kopiert istedenfor flyttet."
+
+msgid "Operation finished!"
+msgstr "Operasjonen ferdig!"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "Du må velge minst en kalender for hendelsene."
+
+msgid "Backup was successful."
+msgstr "Sikkerhetskopi var velykket"
+
+msgid "The backup contains these files:"
+msgstr "Sikkerhetskopien inneholder følgende filer:"
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"Advarsel! Sikkerhetskopien inneholder ingen iCalender-filer. Hvis du har "
+"lagret noen hendelser eller oppgaver lokalt må du tasikkerhetskopi av dem "
+"manuelt."
+
+msgid "Unable to create the backup file."
+msgstr "Klarer ikke å opprette fil for sikkerhetskopi"
+
+msgid "The archive contains unknown files:\n"
+msgstr "Arkivet inneholder ukjente filer:\n"
+
+msgid "Restore was successful."
+msgstr "Gjenoppretting var vellykket"
+
+msgid "There were problems during the restore."
+msgstr "Det oppsto problemer ved gjenopprettelsen."
+
+msgid "Exported %i events successfully."
+msgstr "Eksporterte %i hendelser uten feil."
+
+msgid "Exported %i todo items successfully."
+msgstr "Eksporterte %i oppgaver uten feil."
+
+msgid "Export failed!"
+msgstr "Eksport feilet!"
+
+msgid "Import failed!"
+msgstr "Import feilet!"
+
+msgid "Options"
+msgstr "Alternativer"
+
+msgid "Skins"
+msgstr "Stiler"
+
+msgid "Hotkeys"
+msgstr "Hurtigtaster"
+
+msgid "Advanced"
+msgstr "Avansert"
+
+msgid "Reset all settings"
+msgstr "Tilbakestill alle innstillinger"
+
+msgid "Reset offline copy"
+msgstr "Reset offline kopi"
+
+msgid "Authenticate"
+msgstr "Godkjennelse"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Get more languages..."
+msgstr "Hent flere språk"
+
+msgid "On Top"
+msgstr "På topp"
+
+msgid "On Bottom"
+msgstr "I bunnen"
+
+msgid "On Desktop"
+msgstr "På skrivebord"
+
+msgid "Get more skins..."
+msgstr "Hent flere stiler..."
+
+msgid "TrayIcon"
+msgstr "Skuffeikon"
+
+msgid "Author"
+msgstr "Forfatter"
+
+msgid "Homepage"
+msgstr "Hjemmeside"
+
+msgid "Addons"
+msgstr "Tillegg"
+
+msgid "Version history"
+msgstr "Versjonshistorie"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "Dette er en gammelt stil. Enkelte tilpassinger støttes ikke."
+
+msgid "Advanced >>>"
+msgstr "Avansert >>>"
+
+msgid "<<< Simple"
+msgstr "<<< Enkel"
+
+msgid "Open containing folder"
+msgstr "Åpne tilhørende mappe"
+
+msgid "Custom categories are not supported."
+msgstr "Egendefinerte kategorier er ikke supportert."
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr ""
+"Stilen \"%s\" supporterer ikke egendefinert kategorivisning, så det er ikke "
+"mulig å redigere dem."
+
+msgid "Activate only default windows?"
+msgstr "Aktiver kun standard vinduer?"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr "Vil du aktivere kun standardvindu eller alle vinduer?"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr "Merk at aktivering av alle vinduer kan påvirke ytelsen."
+
+msgid "&Default"
+msgstr "&Standard"
+
+msgid "&All"
+msgstr "&Alle"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"Aktiver redigeringsfeltet og trykk hurtigtastkombinasjonen. Merk at "
+"hurtigtastene er globale og vil påvirke andre programmer, så ikke gjør dem "
+"for enkle."
+
+msgid "Hotkey"
+msgstr "Hurtigtast"
+
+msgid "Function"
+msgstr "Funksjon"
+
+msgid "Search:"
+msgstr "Søk:"
+
+msgid "Do you want to reset all settings?"
+msgstr "Vil du tilbakestille alle innstillinger?"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"Dette vil tilbakestille alle innstillinger til standardverdier. "
+"Standardverdier vil tre i kraft umiddelbart. Vil du fortsette?"
+
+msgid "Common"
+msgstr "Vanlig"
+
+msgid "Enabled"
+msgstr "Påslått"
+
+msgid "Read only"
+msgstr "Skrivebeskyttet"
+
+msgid "Ignore alarms"
+msgstr "Ignorer alarmer"
+
+msgid "Default alarm (minutes)"
+msgstr "Standard alarm (minutter)"
+
+msgid "Visual category"
+msgstr "Synlig kategori"
+
+msgid "Time offset (mins)"
+msgstr "Tidsforskyvning (min)"
+
+msgid "Time zone"
+msgstr "Tidssone"
+
+msgid "Copy of %s"
+msgstr "Kopi av %s"
+
+msgid "Please enter a name for the calendar."
+msgstr "Vennligst velg et navn for kalenderen."
+
+msgid "Illegal character!"
+msgstr "Ugyldig karakter!"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "Det er ikke tillatt med '/' eller ';' karakterene i navnet."
+
+msgid "A calendar called \"%s\" already exists."
+msgstr "En kalender med navn \"%s\" eksisterer allerede."
+
+msgid "Choose another name."
+msgstr "Velg et annet navn."
+
+msgid "Authentication failure"
+msgstr "Ekthetskontroll feilet"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr ""
+"OAuth-prosessen feilet. Rainlendar kan ikke aksessere kalenderdataene dine."
+
+msgid "Do you want to delete the skin?"
+msgstr "Vil du slette denne stilen?"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"Hvis du velger ja, vil denne stilen \"%s\"\n"
+"bli permanent slettet."
+
+msgid "Delete failed!"
+msgstr "Sletting feilet!"
+
+msgid "Unable to delete the skin."
+msgstr "Klarer ikke å slette stilen."
+
+msgid "Print"
+msgstr "Skriv ut"
+
+msgid "Print items"
+msgstr "Skriv ut objekt"
+
+msgid "End"
+msgstr "Slutt"
+
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgid "Variables"
+msgstr "Variabler"
+
+msgid "Window settings"
+msgstr "Vindus-innstillinger"
+
+msgid "Settings can be shown only for a single window."
+msgstr "Innstillinger kan kun vises for et enkelt vindu."
+
+msgid "No settings available."
+msgstr "Ingen innstillinger tilgjengelig."
+
+msgid "Global variables"
+msgstr "Globale variabler"
+
+msgid "Grow upwards"
+msgstr "Voks oppover"
+
+msgid "Window position"
+msgstr "Vindusposisjon"
+
+msgid "Disabled"
+msgstr "Utkoblet"
+
+msgid "Click through"
+msgstr "Klikk gjennom"
+
+msgid "Scale"
+msgstr "Skala"
+
+msgid "Filters"
+msgstr "Filter"
+
+msgid "Included calendars"
+msgstr "Inkluderte kalendere"
+
+msgid "Excluded calendars"
+msgstr "Utelatte kalendere"
+
+msgid "Included categories"
+msgstr "Inkluderte kategorier"
+
+msgid "Excluded categories"
+msgstr "Utelatte kategorier"
+
+msgid "Task list"
+msgstr "Oppgaveliste"
+
+msgid "Alphabetically"
+msgstr "Alfabetisk"
+
+msgid "By Category"
+msgstr "Etter kategori"
+
+msgid "By Due Date"
+msgstr "Etter forfallsdato"
+
+msgid "By Start Date"
+msgstr "Etter startdato"
+
+msgid "By Status"
+msgstr "Etter status"
+
+msgid "By Priority"
+msgstr "Etter prioritet"
+
+msgid "By Location"
+msgstr "Etter sted"
+
+msgid "By Calendar"
+msgstr "Etter kalender"
+
+msgid "Custom"
+msgstr "Egendefinert"
+
+msgid "Primary sort order"
+msgstr "Hoved sorteringsrekkefølge"
+
+msgid "Secondary sort order"
+msgstr "Sekundær sorteringsrekkefølge"
+
+msgid "Reverse primary sorting"
+msgstr "Reverser hovedsortering"
+
+msgid "Reverse secondary sorting"
+msgstr "Reverser sekundær sortering"
+
+msgid "Empty at top"
+msgstr "Tomme øverst"
+
+msgid "Hide completed tasks"
+msgstr "Skjul utførte oppgaver"
+
+msgid "Hide canceled tasks"
+msgstr "Skjul avbrutte oppgaver"
+
+msgid "Hide upcoming tasks"
+msgstr "Gjem oppgaver fram i tid"
+
+msgid "Event list"
+msgstr "Hendelsesliste"
+
+msgid "Show empty days"
+msgstr "Vis tomme dager"
+
+msgid "Window variables"
+msgstr "Vindusvariabler"
+
+msgid "Appearance"
+msgstr "Utseende"
+
+msgid "Operations"
+msgstr "Operasjoner"
+
+msgid "Left click"
+msgstr "Venstreklikk"
+
+msgid "Right click"
+msgstr "Høyreklikk"
+
+msgid "Double left click"
+msgstr "Dobbelklikk venstre"
+
+msgid "Double right click"
+msgstr "Dobbelklikk høyre"
+
+msgid "Local"
+msgstr "Lokalt"
+
+msgid "Task"
+msgstr "Oppgave"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr "Forfallsdato må settes før gjentakelser kan defineres."
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "Forfallstidspunkt kan ikke være før starttiden."
+
+msgid "Unable to add new alarm!"
+msgstr "Klarer ikke å legge til ny alarm!"
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr "Forfallsdato må spesifiseres før oppgaven kan ha en alarm."
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "Oppgrader til Pro-versjonen før du installerer lisensen."
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"Du benytter fortsatt Lite-versjonen som ikke inneholder Pro-mulighetene. Du "
+"må gå til Rainlendar's nedlastingsside og hente Pro-versjonen."
+
+msgid "&Get Pro"
+msgstr "&Hent Pro"
+
+msgid "&Ignore"
+msgstr "&Ignorer"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"Hvis du lastet ned en .r2skin eller .r2lang-fil og web-\n"
+"leseren din endret filetternavnet til .zip, kan du rename\n"
+"filen tilbake til slik den var og importere den igjen."
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Zip-arkiver kan ikke importeres til Rainlendar."
+
+msgid "Unknown file \"%s\"."
+msgstr "Ukjent fil \"%s\"."
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "Filen kan ikke importeres i Rainlendar."
+
+msgid "Installation failed!"
+msgstr "Installasjon feilet!"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Fil kan ikke kopieres. Kilden er den samme som målet."
+
+msgid "Unable to install the file \"%s\"."
+msgstr "Klarer ikke å installere filen\"%s\"."
+
+msgid "The folder does not have write permissions."
+msgstr "Mappen har ikke skriverettigheter."
+
+msgid "The skin %s doesn't exist."
+msgstr "Stilen %s eksisterer ikke."
+
+msgid "Unable to merge the addon."
+msgstr "Tillegg kan ikke flettes inn."
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"Filen \"%s\" eksiterer allerede.\n"
+"Vil du erstatte den?"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Filen ovenfor eksisterer allerede. Vil du erstatte den?"
+
+msgid "Unable to install the skin!"
+msgstr "Klarer ikke å installere stilen!"
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"Stilen inneholder ikke filen \"skin.xml\". Er du sikker på at dette er en "
+"stil for Rainlendar i xml-format?"
+
+msgid "The installation was successful!"
+msgstr "Vellykket installasjon!"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "Filen\"%s\" ble vellykket installert.."
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr "Vennligst oppfrisk Rainlendar for å se endringene."
+
+msgid "&Refresh"
+msgstr "&Gjenoppfrisk"
+
+msgid "The installation failed!"
+msgstr "Installasjon feilet!"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr "Installasjon av filen \"%s\" feilet!"
+
+msgid "Select the calendar for the imported items:"
+msgstr "Velg kalendere for importerte elementer:"
+
+msgid "There are no calendars available that are able to store the item."
+msgstr "Det er ingen tilgjengelige kalendere som kan lagre elementene."
+
+msgid "Imported %i items successfully."
+msgstr "Importerte %i objekter uten feil."
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Du må velge minst en kalender for importerte hendelser"
+
+msgid "Version mismatch!"
+msgstr "Versjoner matcher ikke!"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr ""
+"Denne stil-tillegget er for versjon %s av stilen. Installert versjon er %s."
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "Vil du fortsette? (Stilen kan være ødelagt)"
+
+msgid "&Continue"
+msgstr "&Fortsett"
+
+msgid "Ca&ncel"
+msgstr "Av&bryt"
+
+msgid "Failed to install \"%s\"."
+msgstr "Klarer ikke å installere\"%s\"."
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"Tillegget til stilen har allerede blitt lagt til.\n"
+"Du kan bare legge til tillegget en gang til stilen."
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Det er ikke mulig å lage en midlertidig mappe for å flette tillegg."
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Control"
+msgstr "Kontroll"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Back"
+msgstr "Tilbake"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Return"
+msgstr "Return/Enter"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Space"
+msgstr "Mellomrom"
+
+msgid "Page Up"
+msgstr "Side opp"
+
+msgid "Page Down"
+msgstr "Side ned"
+
+msgid "Insert"
+msgstr "Innsett"
+
+msgid "NumLock"
+msgstr "NumLock"
+
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+msgid "Edit \"%s\""
+msgstr "Rediger \"%s\""
+
+msgid "Delete all"
+msgstr "Slett alle"
+
+msgid "Dismiss alarm"
+msgstr "Avvis alarm"
+
+msgid "Tomorrow"
+msgstr "I morgen"
+
+msgid "Yesterday"
+msgstr "I går"
+
+msgid "Last %1"
+msgstr "Sist %1"
+
+msgid "%1 next week"
+msgstr "%1 neste uke"
+
+msgid "%1 last week"
+msgstr "%1 sist uke"
+
+msgid "%1 %2 weeks ago"
+msgstr "%1 %2 uker siden"
+
+msgid "%1 in %2 weeks"
+msgstr "%1 om %2 uker"
+
+msgid " (Due in %s)"
+msgstr "(Forfall om %s)"
+
+msgid " (Overdue %s)"
+msgstr "(Forfalt %s)"
+
+msgid "day"
+msgstr "dag"
+
+msgid "days"
+msgstr "dager"
+
+msgid "hour"
+msgstr "time"
+
+msgid "hours"
+msgstr "timer"
+
+msgid "minute"
+msgstr "minutt"
+
+msgid "minutes"
+msgstr "minutter"
+
+msgid " (Due now)"
+msgstr "(Forfalt nå)"
+
+msgid "before target"
+msgstr "før mål"
+
+msgid "Snooze"
+msgstr "Slumre"
+
+msgid "Dismiss"
+msgstr "Slå av"
+
+msgid "Edit..."
+msgstr "Rediger..."
+
+msgid "Move to next day"
+msgstr "Flytt til neste dag"
+
+msgid " (%i days)"
+msgstr "(%i dager)"
+
+msgid "Edit event"
+msgstr "Rediger hendelse"
+
+msgid "Delete event"
+msgstr "Slett hendelse"
+
+msgid "[Due %x]"
+msgstr "[Forfall %x]"
+
+msgid "No location"
+msgstr "Sted ikke angitt"
+
+msgid "No category"
+msgstr "Ingen kategori"
+
+msgid "No due date"
+msgstr "Ingen forfallsdato"
+
+msgid "No start date"
+msgstr "Ingen startdato"
+
+msgid "High Priority"
+msgstr "Høy prioritet"
+
+msgid "Medium Priority"
+msgstr "Middels prioritet"
+
+msgid "Low Priority"
+msgstr "Lav prioritet"
+
+msgid "No Priority"
+msgstr "Ingen prioritet"
+
+msgid "Medium"
+msgstr "Middels"
+
+msgid "Expand"
+msgstr "Ekspander"
+
+msgid "Collapse"
+msgstr "Trekk sammen"
+
+msgid "New subtask"
+msgstr "Ny underoppgave"
+
+msgid "Edit task"
+msgstr "Rediger oppgave"
+
+msgid "Delete task"
+msgstr "Slett oppgave"
+
+msgid "Todo list"
+msgstr "Oppgaveliste"
+
+msgid "Completed to now"
+msgstr "Ferdig til nå"
+
+msgid "No events today."
+msgstr "Ingen hendelse i dag."
+
+msgid "Today's events:"
+msgstr "Dagens hendelser:"
+
+msgid "Invalid plugins found!"
+msgstr "Ugyldige plugins funnet!"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"Følgende filer i Rainlendar's plugins\n"
+"mappe er ugyldige og bør fjernes:\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"Kontroller at alle plugins tilhører samme Rainlendar-versjon."
+
+msgid "allow multiple instances"
+msgstr "tillat flere forekomster"
+
+msgid "install a skin or a language"
+msgstr "installer stil eller språk"
+
+msgid "import the given file"
+msgstr "importer angitt fil"
+
+msgid "path where the configuration file will be stored"
+msgstr "sti hvor konfigurasjonsfilen vil bli lagret"
+
+msgid "execute the given function in a script"
+msgstr "utfør angitt funksjon i et skript"
+
+msgid "path where the log file will be stored"
+msgstr "sti hvor loggfilen vil bli lagret"
+
+msgid "path where the backups will be stored"
+msgstr "sti hvor sikkerhetskopier vil bli lagret"
+
+msgid "add event or task to the calendar"
+msgstr "legg til hendelse eller oppgave til kalenderen"
+
+msgid "enable verbose logging"
+msgstr "slå på utvidet logging"
+
+msgid "enable debug logging"
+msgstr "slå på programfeillogging"
+
+msgid "disable all logging"
+msgstr "slå av all logging"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr "ikke vil varslingsmelding etter import og installasjon av filer"
+
+msgid "Do you want to start another instance?"
+msgstr "Vil du starte en ny forekomst?"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"Rainlendar kjører antakelig allerede. Du kan starte en ny forekomst ved å "
+"velge 'Ja'."
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"Hvis dette ikke er tilfelle og dette spørsmålet kommer opp hver gang du "
+"starter Rainlendar, vennligst fjern denne filen:\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Umulig å hente ressurser fra sti:\n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "Merk at dine hendelser og oppgaver vil forbli ubehandlet."
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"Innstillingsfilen mangler eller er tom.\n"
+"Vil du gjenopprette den fra siste sikkerhetskopi?"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Kan ikke opprette konfigurasjonsfil:\n"
+"\n"
+"%s\n"
+"\n"
+"Kontroller at mappen har skriverettigheter."
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"Kan ikke skrive til konfigurasjonsfil:\n"
+"\n"
+"%s\n"
+"\n"
+"Kontroller at mappen har korrekte rettigheter."
+
+msgid "You won't be able to store any settings permanently."
+msgstr "Du kan ikke lagre noen instillinger permanent."
+
+msgid "This is a BETA version."
+msgstr "Dette er en BETA-versjon."
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"Du bruker en BETA-versjon av Rainlendar. Det betyr at programmet ikke er "
+"testet og ikke er tilpasset daglig bruk. \n"
+"\n"
+"Vennligst rapporter alle feil til Rainlendars BETA-forum på www.rainlendar."
+"net. \n"
+"\n"
+"(Denne meldingen vises bare en gang)"
+
+msgid "Google Calendar support has been changed"
+msgstr "Google Calendar support er endret"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"Google Calendar support bruker nå en annen kalendertype. For å vise Google "
+"hendelser igjen må du opprette en ny kalender og velge 'Google Calendar "
+"(v3)' som kalendertype."
+
+msgid "Everything is hidden."
+msgstr "Alt er skjult"
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"Det ser ut som om alle vinduer og ikonet på verktøylinja er skjulte. Var det "
+"dette du ville?\n"
+"\n"
+"Klikk 'Ja' hvis du vil beholde alt skjult og aldri se denne dialogen igjen. "
+"Klikk 'Nei' for å gjøre alle vinduene synlige igjen."
+
+msgid "Startup error!"
+msgstr "Oppstartsfeil!"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"Rainlendar kunne ikke oppfriske instillinger riktig. Vil du tilbakestille "
+"alle instillinger og prøve igjen, eller bruke noen av sikkerhetskopierte "
+"versjoner?"
+
+msgid "&Reset"
+msgstr "&Tilbakestill"
+
+msgid "&Use backup"
+msgstr "Br&uk sikkerhetskopi"
+
+msgid "&Keep"
+msgstr "&Behold"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Det finnes ingen stiler i stien:\n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"Rainlendar kunne ikke laste valgte stil. Vil du benytte standard stil "
+"istedet?"
+
+msgid "Unable to load the skin!"
+msgstr "Klarer ikke å laste stilen!"
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr ""
+"Den valgte stilen kunne ikke lastes. Du finner flere detaljer i Rainlendars "
+"logg."
+
+msgid "&Ok"
+msgstr "&Ok"
+
+msgid "&Show log"
+msgstr "&Vis logg"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nei"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr ""
+"Lisensfilen er tom"
+"Sørg for å bruke den fullstendige URL-adressen når du laster ned lisensfilen"
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"Lisensfilen er ikke gyldig"
+"Du har overskredet antall ganger lisensen kan lastes ned"
+"Ta kontakt med Rainlendars støtte for mer informasjon"
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"Lisensfilen har ikke gyldig format"
+"Kontroller at du bruker riktig lisensfil"
+"Du kan også prøve å laste ned filen på nytt hvis feilen vedvarer"
+
+msgid "Skin error!"
+msgstr "Skinn-feil!"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"Vindu for 'Stor Kalender' i Shadow4 er erstattet med et valg 'Stor' for "
+"standard 'Kalender'-vindu. Klikk OK for å resette skinnet."
+
+msgid "Use large default skin?"
+msgstr "Bruk stor på standard skinn?"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"Standardverdiene kan være for små for din skjermoppløsning. Vil du bruke "
+"større skrifttyper og vinduer?"
+
+msgid "&Large"
+msgstr "&Stor"
+
+msgid "&Small"
+msgstr "&Liten"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Fant disse gamle Rainlendar filene:\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "Vil du importere dem?"
+
+msgid "Import failed with file: \"%s\""
+msgstr "Import feilet med filen: \"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "Kjøp Rainlendar 2 Pro?"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"Jeg håper du har likt å bruke Rainlendar den siste måneden. Vil du "
+"oppgradere til Pro-versjonen med utvidet funksjonalitet? Hvis du bruker "
+"linken for '\"Kjøp Nå\" nedenfor kan du kjøpe en lisens til rabattert pris. "
+"Du kan også trykke \"Nei takk\"-knappen og aldri se denne meldingen igjen.\n"
+"\n"
+"Takk for din støtte."
+
+msgid "&Buy Now"
+msgstr "&Kjøp Nå"
+
+msgid "&Remind later"
+msgstr "&Minn meg på senere"
+
+msgid "&No Thanks"
+msgstr "&Nei takk"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Update"
+msgstr "Oppdater"
+
+msgid "Make a selection:"
+msgstr "Gjør et utvalg:"
+
+msgid "Hide Windows"
+msgstr "Skjul vinduer"
+
+msgid "Show Windows"
+msgstr "Vis vinduer"
+
+msgid "Toggle Windows"
+msgstr "Skift mellom vinduer"
+
+msgid "Toggle Today Window"
+msgstr "Skift Idag-vindu"
+
+msgid "Create New Task"
+msgstr "Opprett ny oppgave"
+
+msgid "Create New Event"
+msgstr "Opprett ny hendelse"
+
+msgid "Create new event or task"
+msgstr "Opprett ny hendelse eller oppgave"
+
+msgid "Quit Application"
+msgstr "Avslutt Program"
+
+msgid "Business"
+msgstr "Forretning"
+
+msgid "Calls"
+msgstr "Telefonsamtale"
+
+msgid "Clients"
+msgstr "Brukere"
+
+msgid "Competition"
+msgstr "Konkurranse"
+
+msgid "Customer"
+msgstr "Kunde"
+
+msgid "Exam"
+msgstr "Eksamen"
+
+msgid "Favorites"
+msgstr "Favoritter"
+
+msgid "Follow Up"
+msgstr "Følg opp"
+
+msgid "Gifts"
+msgstr "Gaver"
+
+msgid "Holidays"
+msgstr "Helligdager"
+
+msgid "Ideas"
+msgstr "Ide"
+
+msgid "Important"
+msgstr "Viktig"
+
+msgid "Issues"
+msgstr "Resultater"
+
+msgid "Miscellaneous"
+msgstr "Diverse"
+
+msgid "Personal"
+msgstr "Personlig"
+
+msgid "Projects"
+msgstr "Prosjekter"
+
+msgid "Public Holiday"
+msgstr "Offentlig høytidsdag"
+
+msgid "Suppliers"
+msgstr "Leverandører"
+
+msgid "Travel"
+msgstr "Reise"
+
+msgid "Trip"
+msgstr "Tur"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Vacation"
+msgstr "Ferie"
+
+msgid "Work"
+msgstr "Jobb"
+
+msgid "Medical"
+msgstr "Medisinsk"
+
+msgid "Urgent"
+msgstr "Haster"
+
+msgid "Health"
+msgstr "Helse"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Game"
+msgstr "Spill"
+
+msgid "School"
+msgstr "Skole"
+
+msgid "Party"
+msgstr "Party"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "Car"
+msgstr "Bil"
+
+msgid "Payments"
+msgstr "Betalinger"
+
+msgid "Money"
+msgstr "Penger"
+
+msgid "Pets"
+msgstr "Kjæledyr"
+
+msgid "Theatre"
+msgstr "Teater"
+
+msgid "Music"
+msgstr "Musikk"
+
+msgid "[Black]"
+msgstr "[Sort]"
+
+msgid "[Blue]"
+msgstr "[Blå]"
+
+msgid "[Brown]"
+msgstr "[Brun]"
+
+msgid "[Cyan]"
+msgstr "[Cyan]"
+
+msgid "[Green]"
+msgstr "[Grønn]"
+
+msgid "[Grey]"
+msgstr "[Grå]"
+
+msgid "[Magenta]"
+msgstr "[Magenta]"
+
+msgid "[Pink]"
+msgstr "[Rosa]"
+
+msgid "[Red]"
+msgstr "[Rød]"
+
+msgid "[Yellow]"
+msgstr "[Gul]"
+
+msgid "[Orange]"
+msgstr "[Oransje]"
+
+msgid "Must Attend"
+msgstr "Må delta"
+
+msgid "Travel Required"
+msgstr "Reise nødvendig"
+
+msgid "Needs Preparation"
+msgstr "Trenger forberedelse"
+
+msgid "Phone Call"
+msgstr "Telefonsamtale"
+
+msgid "iCalendar Format"
+msgstr "iCalendar Format"
+
+msgid "Network Shared Calendar"
+msgstr "Delt Nettverkskalender"
+
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+msgid "Rainlendar Ini Format"
+msgstr "Rainlendar Ini Format"
+
+msgid "Google Calendar"
+msgstr "Google Kalendar"
+
+msgid "CalDAV Calendar"
+msgstr "CalDAV Kalendar"
+
+msgid "Google Calendar (v3)"
+msgstr "Google Kalender (v3)"
+
+msgid "Google Tasks"
+msgstr "Google Tasks"
+
+msgid "Comma Separated Values"
+msgstr "Kommaseparerte verdier"
+
+msgid "&Next >"
+msgstr "&Neste >"
+
+msgid "< &Back"
+msgstr "< &Tilbake"
+
+msgid "&Finish"
+msgstr "&Ferdig"
+
+msgid "Vertical Calendar"
+msgstr "Vertikal Kalendar"
+
+msgid "Year Calendar"
+msgstr "Årskalendar"
+
+msgid "Sidebar"
+msgstr "Ytterspalte"
+
+msgid "DigiClock"
+msgstr "DigiClock"
+
+msgid "Dual Calendar"
+msgstr "Dobbel Kalendar"
+
+msgid "Todo List"
+msgstr "Oppgaveliste"
+
+msgid "Grid Calendar"
+msgstr "Kalendarmaske"
+
+msgid "Vertical Line Calendar"
+msgstr "Vertikal Linjekalendar"
+
+msgid "Horizontal Line Calendar"
+msgstr "Horisontal Linjekalender"
+
+msgid "Visible month"
+msgstr "Synlig måned"
+
+msgid "Show buttons"
+msgstr "Vis knapper"
+
+msgid "Show adjacent days"
+msgstr "Vis tilstøtende dager"
+
+msgid "Eventlist max height"
+msgstr "Hendelsesliste maks. høyde"
+
+msgid "Todolist max height"
+msgstr "Oppdragsliste maks. høyde"
+
+msgid "Show week numbers"
+msgstr "Vis ukenummer"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Timezone"
+msgstr "Tidssone"
+
+msgid "Label"
+msgstr "Etikett"
+
+msgid "Show 3rd month"
+msgstr "Vis 3. måned"
+
+msgid "Show 4th month"
+msgstr "Vis 4. måned"
+
+msgid "Show 5th month"
+msgstr "Vis 5. måned"
+
+msgid "Show 6th month"
+msgstr "Vis 6. måned"
+
+msgid "Show 7th month"
+msgstr "Vis 7. måned"
+
+msgid "Show 8th month"
+msgstr "Vis 8. måned"
+
+msgid "Color"
+msgstr "Farge"
+
+msgid "Analog Clock"
+msgstr "Analog klokke"
+
+msgid "Calendar List"
+msgstr "Kalenderliste"
+
+msgid "X count"
+msgstr "X teller"
+
+msgid "Y count"
+msgstr "Y teller"
+
+msgid "Snooze All"
+msgstr "Slumre alle"
+
+msgid "Dismiss All"
+msgstr "Slå av alle"
+
+msgid "To do"
+msgstr "Oppgave"
+
+msgid "Today color"
+msgstr "Idag-farge"
+
+msgid "Today shape"
+msgstr "Idag-utseende"
+
+msgid "Circle"
+msgstr "Sirkel"
+
+msgid "Rectangle"
+msgstr "Rektangel"
+
+msgid "Slim circle"
+msgstr "Tynn sirkel"
+
+msgid "Slim rectangle"
+msgstr "Tynn Rektangel"
+
+msgid "Red"
+msgstr "Rød"
+
+msgid "Orange"
+msgstr "Oransje"
+
+msgid "Yellow"
+msgstr "Gul"
+
+msgid "Green"
+msgstr "Grønn"
+
+msgid "Cyan"
+msgstr "Cyan"
+
+msgid "Blue"
+msgstr "Blå"
+
+msgid "Magenta"
+msgstr "Magenta"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"En etterfølger til den populære Shadow3-stilen med noen tillegg som synlige "
+"dager fra neste og forrige måned og egendefinert verktøytips."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"Bestemmer måneden som kalender viser. Sett til +1 for neste måned, -1 for "
+"forrige måned eller verdi 1 til 12 for en bestemt måned i aktuelt år"
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr "Fra-velg for å skjule knappene for neste og forrige i kalenderen."
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr "Fra-velg for å skjule dagene fra forrige og neste måned."
+
+msgid "Defines the maximum height of the alarm."
+msgstr "Definerer maksimum høyde på alarmen."
+
+msgid "Defines the maximum height of the event list."
+msgstr "Definerer maksimum høyde på hendelsesliste."
+
+msgid "Defines the maximum height of the to do list."
+msgstr "Definerer maksimum høyde på oppgavelisten."
+
+msgid "Defines the width of the calendar list."
+msgstr "Definerer bredden på kalendervinduet."
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "Fra-velg for å skjule ukenummer i kalenderen."
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr ""
+"Dette definerer klokkens format. For å bli kvitt sekundene, bruk %H:%M eller"
+"%#I:%M %p "
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"Definerer tidssonen. Sett til et nummer: ... -3, -2, -1, 0, +1, +2, "
+"+3, ...... . Du kan også bruke verdier som CET, EST, PST, A:CST, ..."
+
+msgid "Adds a label for the clock."
+msgstr "Legger til en etikett for klokken."
+
+msgid "Defines the color of the today marker."
+msgstr "Definerer fargen på idag-markøren."
+
+msgid "Defines the shape of the today marker."
+msgstr "Definer utseende på idag-markøren."
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "Definerer hvor mange kalendere som vises horisontalt i vinduet."
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "Definerer hvor mange kalendere som vises vertikalt i vinduet."
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "Fra-velg for å skjule dagnavn  fra uke i kalenderen."
+
+msgid "Week View"
+msgstr "Ukevisning"
+
+msgid "Today position"
+msgstr "Posisjon for i dag"
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"Definerer posisjonene hvor i dag plasseres. Hvis 0 (standard) vil hele uken "
+"vises og dagens posisjon flytter seg. Hvis 1 - 7 vil dagens posisjon være "
+"fast, og de andre dagene flytter seg tilsvarende."
+
+msgid "Autoscroll"
+msgstr "Autorulling"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "Av-velg for å koble fra autorulling"
+
+msgid "Week view date format"
+msgstr "Ukevisning datoformat"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr "Definer datoformatet på hodet i hendelseslisten. Standard er %#d.%#m."
+
+msgid "Week view time format"
+msgstr "Ukevisning tidsformat"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"Dette definerer klokkens format.Standard er %H:%M eller%#I: %p for AM/PM-"
+"visning "
+
+msgid "Time item height"
+msgstr "Tidselementets høyde"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr ""
+"Definerer høyden på et tidselement i oversikten. Standardverdi er 30 pixler."
+
+msgid "Time item duration"
+msgstr "Tidselements varighet"
+
+msgid "60 Minutes"
+msgstr "60 Minutter"
+
+msgid "30 Minutes"
+msgstr "30 Minutter"
+
+msgid "15 Minutes"
+msgstr "15 Minutter"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr ""
+"Definer varigheten for et tidselement i oversikten. Standardverdi er 60 "
+"minutter."
+
+msgid "All day max height"
+msgstr "Hele dagen maks.høyde"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"Maksimum høyde for dagens hendelsesområde. Et rullefelt vises når hendelsene "
+"overskrider definert område."
+
+msgid "Event min height"
+msgstr "Hendelse min.-høyde"
+
+msgid "The minimum height of the event."
+msgstr "Hendelse maks.-høyde"
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "Fra-velg for å skjule ukenummer i visningen."
+
+msgid "Show weekdays"
+msgstr "Vis ukedager"
+
+msgid "Day View"
+msgstr "Dagvisning"
+
+msgid "Day view time format"
+msgstr "Dagvisning tidsformat"
+
+msgid "Day view date format"
+msgstr "Dagvisning datoformat"
+
+msgid "Month View"
+msgstr "Månedsvisning"
+
+msgid "Show background"
+msgstr "Vis bakgrunn"
+
+msgid "Uncheck to make the background transparent."
+msgstr "Fra-velg for å lage gjennomsiktig bakgrunn."
+
+msgid "Large Calendar"
+msgstr "Stor kalender"
+
+msgid "Today window max height"
+msgstr "Idag-vindu maks.høyde"
+
+msgid "Defines the maximum height of the today window."
+msgstr "Definerer maks.høyden på Idag-vinduet."
+
+msgid "Today show tasks"
+msgstr "Vis dagens oppgaver"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr "Definerer om oppgaver skal vises i Idag-vinduet."
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"Stilen inneholder mange forskjellige fargevariasjoner. Du kan endre dem "
+"enten i stilens innstillinger eller ved å klikke 'pil ned' på kalenderen."
+
+msgid "Brown"
+msgstr "Brun"
+
+msgid "Dark"
+msgstr "Mørk"
+
+msgid "Colorless"
+msgstr "Fargeløs"
+
+msgid "Defines the color of the windows."
+msgstr "Definerer fargen på vinduet."
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr "Definer datoformatet på hodet i hendelseslisten."
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr ""
+"Definerer maksimum høyde på hendelseslisten. Standardverdi er 300 pixler."
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr ""
+"Definerer maksimum høyde på oppgavelisten. Standardverdi er 300 pixler."
+
+msgid "Removes the color from the windows."
+msgstr "Fjerner fargen på vinduer."
+
+msgid "Creates darker version of the windows."
+msgstr "Lag mørkere versjoner av vinduene."
+
+msgid "All day"
+msgstr "Hele dagen"
+
+msgid "Day bar show day"
+msgstr "Dag-linje vis dag"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr "Definerer om dagnummeret og navn er vist i daglinjen."
+
+msgid "Day bar am-pm"
+msgstr "Daglinje am-pm"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "Velg for å vise tid i 12-timers format."
+
+msgid "Bar event"
+msgstr "Linjehendelse"
+
+msgid "The event color for the bars."
+msgstr "Hendelsesfarge for linjene"
+
+msgid "Conditions: "
+msgstr "Forhold:"
+
+msgid "Temperature: "
+msgstr "Temperatur:"
+
+msgid "Humidity: "
+msgstr "Luftfuktighet:"
+
+msgid "Winds: "
+msgstr "Vind:"
+
+msgid "Time: "
+msgstr "Tid:"
+
+msgid "Refreshing..."
+msgstr "Oppdaterer..."
+
+msgid "Downloading: "
+msgstr "Laster ned:"
+
+msgid "Download failed!"
+msgstr "Nedlasting feilet!"
+
+msgid "Loading..."
+msgstr "Laster..."
+
+msgid "Unknown result!"
+msgstr "Ukjent resultat!"
+
+msgid "Upcoming programs:"
+msgstr "Kommende programmer:"
+
+msgid "Parsing failed!"
+msgstr "Analysering feilet!"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr "DAGER    TIMER  MIN    SEK "
+
+msgid "Loading feed..."
+msgstr "Laster feed..."
+
+msgid "Lo: "
+msgstr "Lo:"
+
+msgid "Hi: "
+msgstr "Hi:"
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "Max:"
+msgstr "Maks:"
+
+msgid "Chance of precipitation: "
+msgstr "Sjanse for nedbør:"
+
+msgid "New moon"
+msgstr "Nymåne"
+
+msgid "Waxing crescent"
+msgstr "Økende månefase"
+
+msgid "First quarter"
+msgstr "Første kvartfase"
+
+msgid "Waxing gibbous"
+msgstr "Synkende månefase"
+
+msgid "Full moon"
+msgstr "Fullmåne"
+
+msgid "Waning gibbous"
+msgstr "Avtakende måne"
+
+msgid "Last quarter"
+msgstr "Siste kvartfase"
+
+msgid "Waning crescent"
+msgstr "Synkende månefase"
+
+msgid "Southern hemisphere"
+msgstr "Sørlige halvkule"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr "Sett til 1 for å skifte til betraktning fra sørlige halvkule."
+
+msgid "World Time"
+msgstr "Verdenstid"
+
+msgid "World time format"
+msgstr "Tidsformat for verdenstid"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"Dette definerer klokkens format. Standard er %H:%M eller%#I:%M %p for AM/PM-"
+"visning"
+
+msgid "World time location 1"
+msgstr "Verdenstid sted 1"
+
+msgid "Defines the title for the time."
+msgstr "Definerer tittel for tiden."
+
+msgid "World time timezone 1"
+msgstr "Verdenstid tidssone 1"
+
+msgid "World time location 2"
+msgstr "Verdenstid sted 2"
+
+msgid "World time timezone 2"
+msgstr "Verdenstid tidssone 2"
+
+msgid "World time location 3"
+msgstr "Verdenstid sted 3"
+
+msgid "World time timezone 3"
+msgstr "Verdenstid tidssone 3"
+
+msgid "World time location 4"
+msgstr "Verdenstid sted 4"
+
+msgid "World time timezone 4"
+msgstr "Verdenstid tidssone 4"
+
+msgid "Photos"
+msgstr "Foto"
+
+msgid "Weather"
+msgstr "Vær"
+
+msgid "Countdown"
+msgstr "Nedtelling"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Create New"
+msgstr "Opprett ny"
+
+msgid "Moon Phase"
+msgstr "Månefase"
+
+msgid "QuickAdd"
+msgstr "Hurtigtillegg"
+
+msgid "Translate"
+msgstr "Oversett"
+
+msgid "Text File"
+msgstr "Tekstfil"
+
+msgid "RSS height"
+msgstr "RSS høyde"
+
+msgid "Defines the maximum height of the list."
+msgstr "Definerer maksimum høyde på listen."
+
+msgid "RSS location"
+msgstr "RSS plassering"
+
+msgid "Location of the RSS feed."
+msgstr "Plassering av RSS feed."
+
+msgid "Weather location"
+msgstr "Værsteder"
+
+msgid "Location of the weather feed."
+msgstr "Plassering av vær-feed."
+
+msgid "Weather city"
+msgstr "Vær by"
+
+msgid "The city for the weather."
+msgstr "Værets by."
+
+msgid "Weather language"
+msgstr "Værspråk"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr "Værspråk. Bruk språkforkortelser som en, no, ru, ..."
+
+msgid "Photos random"
+msgstr "Tilfeldig fotorekkefølge"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr ""
+"Fra-velg for å vise bilder i rekkefølge. Ellers i tilfeldig rekkefølge."
+
+msgid "Photos update"
+msgstr "Oppdater foto"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "Definerer hvor ofte bilde oppdateres. Verdien er i minutter."
+
+msgid "Photos folder"
+msgstr "Foto-mappe"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"Angir hvilken lokal mappe som det blir søkt etter bilder i. Hvis tomt felt "
+"blir bildene nedlastet fra Flickr."
+
+msgid "Countdown event"
+msgstr "Nedtellingshendelse"
+
+msgid "The description of the event."
+msgstr "Beskrivelse av hendelsen."
+
+msgid "Countdown time"
+msgstr "Nedtellingstid"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "Tid for hendelsen. Bruk format TT:MM:SS."
+
+msgid "Countdown date"
+msgstr "Nedtellingsdato"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "Hendelsens dato. Bruk format ÅÅÅÅ-MM-DD."
+
+msgid "TV height"
+msgstr "TV høyde"
+
+msgid "Copy to clipboard"
+msgstr "Kopier til klippebord"
+
+msgid "File path"
+msgstr "Fil sti"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "Definerer navn og sti til fil som vises i vinduet."
+
+msgid "No file given"
+msgstr "Ingen fil angitt"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr "Gå til vindusinnstillinger og sett sti-variabelen til en tekstfil."
+
+msgid "File window full rows"
+msgstr "Filvindu fulle rader"
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr "Merk for å vise fulle rader. Ellers delte linjer."
+
+msgid "File window width"
+msgstr "Filvindu bredde"
+
+msgid "The width of the calendar window."
+msgstr "Kalendervinduets bredde."
+
+msgid "The height of the calendar window."
+msgstr "Kalendervinduets høyde."
+
+msgid "Defines the width of the event list."
+msgstr "Definer bredden på hendelseslisten."
+
+msgid "Defines the width of the to do list."
+msgstr "Definer bredden på oppgavelisten."
+
+msgid "Defines the width of the quickadd window."
+msgstr "Definerer bredden på hurtigtilleggsvindu."
+
+msgid "Defines the width of the day view window."
+msgstr "Definerer bredden på dagvinduet."
+
+msgid "Defines the height of the day view window."
+msgstr "Definerer høyden på dagvinduet."
+
+msgid "Defines the width of the week view window."
+msgstr "Definerer bredden på ukesvinduet."
+
+msgid "Defines the height of the week view window."
+msgstr "Definerer høyden på ukesvinduet."
+
+msgid "Defines the width of the calendar window."
+msgstr "Definerer bredden på kalendervinduet."
+
+msgid "Defines the height of the calendar window."
+msgstr "Definerer høyden på kalendervinduet."
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "alt"
+msgstr "alt"
+
+msgid "shift"
+msgstr "shift"
+
+msgid "Mark as completed"
+msgstr "Merk som ferdig"
+
+msgid "Mark as needs action"
+msgstr "Merk som trenger behandling"
+
+msgid "Recurring"
+msgstr "Regelmessighet"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Text color"
+msgstr "Tekstfarge"
+
+msgid "Tooltip color"
+msgstr "Verktøytips farge"
+
+msgid "Black"
+msgstr "Sort"
+
+msgid "White"
+msgstr "Hvit"
+
+msgid "Light grey"
+msgstr "Lys grå"
+
+msgid "Light pink"
+msgstr "Lys rosa"
+
+msgid "Grey"
+msgstr "Grå"
+
+msgid "Pink"
+msgstr "Rosa"
+
+msgid "Schedule background"
+msgstr "Planleggingsbakbrunn"
+
+msgid "The background color for the day, week and month views."
+msgstr "Bakgrunnsfarge for dag, uke og månedsvisninger."
+
+msgid "Schedule text color"
+msgstr "Tekstfarge i planleggingsvindu."
+
+msgid "The text color for the day, week and month views."
+msgstr "Tekstfarge for dag, uke og månedsvisninger."
+
+msgid "Calendar day color"
+msgstr "Kalenders dagfarge"
+
+msgid "Large calendar day color"
+msgstr "Stor kalenders dagfarge"
+
+msgid "The color for the days in the calendar."
+msgstr "Farge for dager i kalenderen."
+
+msgid "Calendar day text color"
+msgstr "Kalenders dagfarge"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "Farge på dagnummer i kalenderen."
+
+msgid "Small icon"
+msgstr "Lite ikon"
+
+msgid "The icon which is shown in the calendar."
+msgstr "Ikon som vises i kalenderen."
+
+msgid "Large icon"
+msgstr "Stort ikon"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "Ikon som vises i hendelser og oppgavelister."
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "Tekstfarge i lister og verktøytips."
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr ""
+"Prioriteten bestemmer hvilke kategorier som vises når det er flere "
+"forekomster samme dag."
+
+msgid "Schedule text shadow color"
+msgstr "Tekstskygge i planleggingsvindu."
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "Tekstskygge-farge for dag, uke og månedsvisninger."
+
+msgid "Calendar day text shadow color"
+msgstr "Kalenders dag skyggefarge"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "Farge på dagnummer skygge i kalenderen."
+
+msgid "Text shadow color"
+msgstr "Tekstskygge farge"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "Tekstskygge farge i lister og verktøytips."
+
+msgid "Show date"
+msgstr "Vis dato"
+
+msgid "Check to show also the current date."
+msgstr "Merk for å vise dagens dato også."
+
+msgid "This defines the format of the time."
+msgstr "Definerer tidsformat."
+
+msgid "This defines the format of the date."
+msgstr "Definerer datoformat."
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "Search engine"
+msgstr "Søkemotor"
+
+msgid "Choose the search engine"
+msgstr "Velg søkemotor"
+
+msgid "Enter search text"
+msgstr "Angi søketekst"
+
+msgid "Show title"
+msgstr "Vis tittel"
+
+msgid "Check to show a title text."
+msgstr "Merk for å vise en titteltekst."
+
+msgid "Title text"
+msgstr "Titteltekst"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "Dette definerer en titteltekst som vises over tiden."
+
+msgid "Weather woeid"
+msgstr "Vær WOEID"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "Yahoo WOEID for vær-plassering."
+
+msgid "Weather celsius"
+msgstr "Vær Celsius"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "Hvis avmerket vises temperaturen i Celsius."
+
+msgid "Bold blue"
+msgstr "Fet blå"
+
+msgid "Turquoise"
+msgstr "Turkis"
+
+msgid "Bold green"
+msgstr "Fet grønn"
+
+msgid "Bold red"
+msgstr "Fet rød"
+
+msgid "Purple"
+msgstr "Lilla"
+
+msgid "Gray"
+msgstr "Grå"
+
+msgid "No events today"
+msgstr "Ingen hendelser i dag."
+
+msgid "No tasks today"
+msgstr "Ingen oppgaver i dag."
+
+msgid "Background opacity"
+msgstr "Bakgrunn gjennomsiktighet"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr ""
+"Definerer gjennomsiktigheten på vindusbakgrunnen. Bruk verdier mellom 0 og "
+"100."
+
+msgid "Snooze menu"
+msgstr "Utsett-meny"
+
+msgid "Pressure: "
+msgstr "Trykk:"
+
+msgid "UV index: "
+msgstr "UV indeks:"
+
+msgid "Feels like: "
+msgstr "Føles som:"
+
+msgid "Sunrise: "
+msgstr "Soloppgang:"
+
+msgid "Sunset: "
+msgstr "Solnedgang:"
+
+msgid "Tonight"
+msgstr "I kveld"
+
+msgid "Menu"
+msgstr "Meny"
+
+msgid "Large"
+msgstr "Stor"
+
+msgid "Use large images and more space between the items."
+msgstr "Bruk store bilder og mer plass mellom elementene."
+
+msgid "Alarm max height"
+msgstr "Alarm maks. høyde"
+
+msgid "Horizontal Day Bar"
+msgstr "Horisontal daglinje"
+
+msgid "Vertical Day Bar"
+msgstr "Vertikal daglinje"
+
+msgid "Day bar show text"
+msgstr "Daglinje vis tekst"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "Fravelg for å skjule tekst for denne hendelsen."
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "Farge på tekster i kalender og lister."
+
+msgid "The color of the text in the tooltip."
+msgstr "Farge på tekster i verktøytips."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"Bestem måneden som kalender viser. Sett til +1 for neste måned, -1 for "
+"forrige måned eller verdi 0 til 11 for en bestemt måned i aktuelt år"
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Umulig å finne gjeldende stil.\n"
+"\"Klikk OK for å laste første tilgjengelige stil."
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"Stilen har ikke noen aktive vinduer.\n"
+"Standard vindu brukes istedet."
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Stilen eksisterer ikke.\n"
+"Klikk OK for å laste første tilgjengelige stil."
+
+msgid "No items"
+msgstr "Ingen elementer"
+
+msgid "No events"
+msgstr "Ingen hendelser"
+
+msgid "No tasks"
+msgstr "Ingen oppgaver"
+
+msgid "Synchronizing"
+msgstr "Synkroniserer"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "today"
+msgstr "i dag"
+
+msgid "tomorrow"
+msgstr "i morgen"
+
+msgid "yesterday"
+msgstr "i går"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Okt"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Des"
+
+msgid "%ith"
+msgstr "%i."
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11.;12.;13.;1.;2.;3."
+
+msgid "edit"
+msgstr "rediger"
+
+msgid "Do you want to create the file?"
+msgstr "Vil du opprette filen?"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"Filen eksisterer ikke:\n"
+"%s"
+
+msgid "Unable to create the file \"%s\"."
+msgstr "Klarer ikke å opprette filen\"%s\"."
+
+msgid "This is a read only event."
+msgstr "Denne hendelsen er skriveveskyttet."
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "Det er ikke mulig å redigere denne hendelsen med Rainlendar."
+
+msgid "This is a read only task."
+msgstr "Dette er en skrivebeskyttet oppgave."
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "Det er ikke mulig å redigere denne oppgaven med Rainlendar."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Organizer"
+msgstr "Arrangør"
+
+msgid "Accepted"
+msgstr "Godkjent"
+
+msgid "Declined"
+msgstr "Avvist"
+
+msgid "Tentative"
+msgstr "Tentativ"
+
+msgid "Needs action"
+msgstr "Krev handling"
+
+msgid "Create a new calendar"
+msgstr "Opprett ny kalender"
+
+msgid "Please select the type of the calendar."
+msgstr "Vennligst velg en kalendertype."
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr "Kalendertypen definerer formatet på hendelseneog hvor de er lagret."
+
+msgid "local"
+msgstr "lokal"
+
+msgid "deprecated"
+msgstr "frarådet"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Go Pro"
+msgstr "Hent Pro"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro tillater deg å bruke Outlook, Google Calendar og andre "
+"tredjeparts-kalendere, hendelser og oppgaver direkte fra desktoppkalenderen."
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro tillater deg å bruke  Google Calendar og andre tredjeparts-"
+"kalendere og oppgavelister direkte fra desktopen."
+
+msgid "Buy license"
+msgstr "Kjøp lisens"
+
+msgid "See differences"
+msgstr "Se forskjeller"
+
+msgid "No calendar selected!"
+msgstr "Ingen kalender valgt!"
+
+msgid "You need to select a calendar type."
+msgstr "Du må velge en kalendertype."
+
+msgid "Finish the authentication in your browser"
+msgstr "Gjør ferdig ekthetskontrollen i nettleseren din"
+
+msgid "Authenticating..."
+msgstr "Kontrollerer ekthet..."
+
+msgid "Downloading..."
+msgstr "Laster ned..."
+
+msgid "No urls allowed!"
+msgstr "Ingen Url'er tillatt!"
+
+msgid "Only local files can be defined as the file name."
+msgstr "Bare lokale filer kan defineres som filnavn."
+
+msgid "No UNC paths allowed!"
+msgstr "Ingen UNC-stier tillatt!"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"Det er ikke mulig å benytte UNC sti som filnavn. Du må koble opp en "
+"nettverkssti for å få tilgang til filene på en server."
+
+msgid "No filename defined!"
+msgstr "Filnavn ikke angitt!"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"Du kan ikke la filnavnet være blankt. Du må angi en fil hvor hendelser og "
+"oppgaver kan lagres."
+
+msgid "The file name is missing."
+msgstr "Filnavn mangler."
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"Hvis du oppretter en ny kalender kan du oppgi hva som helst som navn. "
+"Ellers, velg en eksisterende iCalender (*.ics)-fil."
+
+msgid "The url is empty!"
+msgstr "Url'en er tom!"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"Du kan ikke la Url-feltet være tomt. Du må angi en fil hvor hendelser og "
+"oppgaver kan lagres."
+
+msgid "The protocol is missing!"
+msgstr "Manglende protokoll!"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "Vennligst også angi protokoll for Url'en (dvs. \"http://\")."
+
+msgid "The file name is missing from the url!"
+msgstr "Filnavnet mangler for Url'en!"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Hvis du oppretter en ny kalender kan du oppgi hva som helst som filnavn. "
+"Ellers bør du sjekke at serveren virkelig ikke definerer noen fil for "
+"Url'en. \n"
+"\n"
+"Vil du fortsette?"
+
+msgid "Incorrect email!"
+msgstr "Ugyldig Epost!"
+
+msgid "You need to enter a full email address."
+msgstr "Du må angi en komplett email-adresse."
+
+msgid "Please select the calendar."
+msgstr "Vennligst velg en kalender."
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr "Du har ikke valgt noen kalender. Er du sikker på at du vil fortsette?"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "The calendar already exists!"
+msgstr "Kalenderen eksisterer allerede!"
+
+msgid "Please choose some other name for the calendar."
+msgstr "Vennligst velg et annet navn for kalenderen."
+
+msgid "The calendar name is empty!"
+msgstr "Kalendernavnet er tomt!"
+
+msgid "You must give a name for the calendar."
+msgstr "Du må angi et navn for kalenderen."
+
+msgid "Alarm sound"
+msgstr "Varslingslyd"
+
+msgid "Select alarm sound"
+msgstr "Velg varslingslyd"
+
+msgid "Default sound"
+msgstr "Standard lyd"
+
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+msgid "No sound"
+msgstr "Ingen lyd"
+
+msgid "Custom sound / executable"
+msgstr "Egendefinert lyd / eksekverbar"
+
+msgid "Browse..."
+msgstr "Bla gjennom..."
+
+msgid "Bulk Change"
+msgstr "Flere endringer"
+
+msgid "Type:"
+msgstr "Type:"
+
+msgid "Summary:"
+msgstr "Sammendrag:"
+
+msgid "Location:"
+msgstr "Sted:"
+
+msgid "Url:"
+msgstr "Url:"
+
+msgid "Class:"
+msgstr "Klasse:"
+
+msgid "Time type:"
+msgstr "Tidstype:"
+
+msgid "With time"
+msgstr "Medt tid"
+
+msgid "Start time:"
+msgstr "Start tid:"
+
+msgid "Absolute"
+msgstr "Absolutt"
+
+msgid "Relative"
+msgstr "Relativ"
+
+msgid "Months"
+msgstr "Måneder"
+
+msgid "Years"
+msgstr "År"
+
+msgid "Visibility:"
+msgstr "Synlighet:"
+
+msgid "Show in calendar"
+msgstr "Vis i kalender"
+
+msgid "Priority:"
+msgstr "Prioritet:"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "Not Started"
+msgstr "Ikke startet"
+
+msgid "Progress:"
+msgstr "Fremdrift:"
+
+msgid "0 %"
+msgstr "0 %"
+
+msgid "10 %"
+msgstr "10 %"
+
+msgid "20 %"
+msgstr "20 %"
+
+msgid "30 %"
+msgstr "30 %"
+
+msgid "40 %"
+msgstr "40 %"
+
+msgid "50 %"
+msgstr "50 %"
+
+msgid "60 %"
+msgstr "60 %"
+
+msgid "70 %"
+msgstr "70 %"
+
+msgid "80 %"
+msgstr "80 %"
+
+msgid "90 %"
+msgstr "90 %"
+
+msgid "100 %"
+msgstr "100 %"
+
+msgid "Free/Busy:"
+msgstr "Ledig/Opptatt:"
+
+msgid "Free"
+msgstr "Ledig"
+
+msgid "Busy"
+msgstr "Opptatt"
+
+msgid "Description:"
+msgstr "Beskrivelse:"
+
+msgid "Alarm:"
+msgstr "Alarm:"
+
+msgid "Category:"
+msgstr "Kategori:"
+
+msgid "Recurrence:"
+msgstr "Gjentagelse:"
+
+msgid "Repeat every"
+msgstr "Gjenta hver"
+
+msgid "Weeks"
+msgstr "Uker"
+
+msgid "Repeat ending"
+msgstr "Gjentagelse slutter"
+
+msgid "Forever"
+msgstr "Uendelig"
+
+msgid "Number of times"
+msgstr "Antall ganger"
+
+msgid "Until"
+msgstr "Inntil"
+
+msgid "Debug Window"
+msgstr "Debug-vindu"
+
+msgid "Sensitivity:"
+msgstr "Sensitivitet:"
+
+msgid "All day event"
+msgstr "Hele dagen"
+
+msgid "Mark time as busy"
+msgstr "Merk tid som opptatt"
+
+msgid "Time zone:"
+msgstr "Tidssone:"
+
+msgid "Calendar:"
+msgstr "Kalender:"
+
+msgid "Mon"
+msgstr "Man"
+
+msgid "Tue"
+msgstr "Tir"
+
+msgid "Wed"
+msgstr "Ons"
+
+msgid "Thu"
+msgstr "Tor"
+
+msgid "Fri"
+msgstr "Fre"
+
+msgid "Sat"
+msgstr "Lør"
+
+msgid "Sun"
+msgstr "Søn"
+
+msgid "Repeat"
+msgstr "Gjenta"
+
+msgid "End after"
+msgstr "Slutt etter:"
+
+msgid "occurrences"
+msgstr "gjentagelser"
+
+msgid "Exception dates"
+msgstr "Unntatt dato"
+
+msgid "Add"
+msgstr "Legg til"
+
+msgid "Show descriptions"
+msgstr "Vis beskrivelser"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Vis dagens hendelse i systemstatus når Rainlendar er startet"
+
+msgid "Hide list windows if there are no items"
+msgstr "Skjul listevinduer hvis de er tomme"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Klikk igjennom (hold Shift for å deaktivere)"
+
+msgid "Lock windows in place"
+msgstr "Lås vindu i plassering"
+
+msgid "Enable on startup"
+msgstr "Gjøre tilgjengelig ved oppstart"
+
+msgid "Hide from taskbar"
+msgstr "Skjul fra oppgavelinjen"
+
+msgid "Use Retina Resolution"
+msgstr "Bruk Retine oppløsning"
+
+msgid "Add years for categories"
+msgstr "Legg til år i kategorier"
+
+msgid "Categories..."
+msgstr "Kategorier..."
+
+msgid "Week's start day:"
+msgstr "Ukens startdag:"
+
+msgid "Position:"
+msgstr "Posisjon:"
+
+msgid "Language:"
+msgstr "Språk:"
+
+msgid "Opacity"
+msgstr "Gjennomsiktighet"
+
+msgid "Normal:"
+msgstr "Normal:"
+
+msgid "Mouse over:"
+msgstr "Mus over:"
+
+msgid "Apply to all windows at the same time"
+msgstr "Bruk på alle samtidige vinduer"
+
+msgid "Font Size"
+msgstr "Skriftstørrelse"
+
+msgid "Size:"
+msgstr "Størrelse:"
+
+msgid "Duplicate..."
+msgstr "Dupliser..."
+
+msgid "Action:"
+msgstr "Handling:"
+
+msgid "Hotkey:"
+msgstr "Hurtigtast:"
+
+msgid "Set"
+msgstr "Sett"
+
+msgid "Available skins"
+msgstr "Tilgjengelige stiler"
+
+msgid "Active skins"
+msgstr "Aktiv stil"
+
+msgid "Settings..."
+msgstr "Innstillinger..."
+
+msgid "All items"
+msgstr "Alle objekter"
+
+msgid "Selected items"
+msgstr "Valgte objekter"
+
+msgid "Day range"
+msgstr "Døgnintervall"
+
+msgid "Select days"
+msgstr "Velg dager"
+
+msgid "Add title"
+msgstr "Legg til tittel"
+
+msgid "Preview..."
+msgstr "Forhåndsvisning..."
+
+msgid "Page Setup..."
+msgstr "Sideoppsett..."
+
+msgid "Todo"
+msgstr "Oppgave"
+
+msgid "Date only"
+msgstr "Kun dato"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "Kommaseparerte verdier (*.csv)|*.csv"
+
+msgid "Username"
+msgstr "Brukernavn"
+
+msgid "Password"
+msgstr "Passord"
+
+msgid "Calendar name"
+msgstr "Kalendernavn"
+
+msgid "Poll frequency (mins)"
+msgstr "Forespørsel hyppighet (min)"
+
+msgid "Suppress errors"
+msgstr "Overse feil"
+
+msgid "Keep offline copy"
+msgstr "Behold 'offline' kopi"
+
+msgid "Authentication"
+msgstr "Godkjennelse"
+
+msgid "Basic"
+msgstr "Grunnleggende"
+
+msgid "Digest"
+msgstr "Forkortet gjengivelse"
+
+msgid "GSS-Negotiate"
+msgstr "GSS-Forhandle"
+
+msgid "NTLM"
+msgstr "NTLM"
+
+msgid "Support"
+msgstr "Støtte"
+
+msgid "Automatic"
+msgstr "Automatisk"
+
+msgid "Both"
+msgstr "Begge"
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Velg URL, brukernavn og passord for kalenderen og klikk valgt "
+"kalenderknapp.\n"
+"\n"
+"Brukernavn og passord-felt kan være tomme hvis de ikke er nødvendige."
+
+msgid "Select Calendar"
+msgstr "Velg kalender"
+
+msgid "CalDAV Error (%s)!"
+msgstr "CalDAV-feil (%s)!"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Feil ved opplasting av data til URL:\n"
+"%s\n"
+"\n"
+"Server returnerte resultat: (%i) %i %s."
+
+msgid "Google Error (%s)!"
+msgstr "Google-feil (%s)!"
+
+msgid "Unable to delete the event."
+msgstr "Klarer ikke å slette hendelse."
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "Server returnerte følgende: (%i) %i %s."
+
+msgid "Unable to read the calendars from the server."
+msgstr "Klarer ikke å lese kalendere fra server."
+
+msgid "Unable to authenticate to the server."
+msgstr "Ikke mulig å få godkjenning fra server."
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Kan kke finne den valgte kalender (%s).\n"
+"\n"
+"Tilgjengelige kalendere er:\n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "Klarer ikke å lese kalender fra server."
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr ""
+"Godkjenning feilet. Kontroller at du har angitt korrekt brukernavn og "
+"passord."
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr "Sjekk også at du bruker et eget passord for Rainlendar."
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr ""
+"Kan ikke koble til server. Kontroller at nettverkstilkobling din virker."
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "URL'en \"%s\" inneholder ingen kalendere."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr ""
+"Feil ved nedlasting av data fra URL:\n"
+"%s"
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr ""
+"Kontroller nettverksforbindelse og at brannmuren din ikke blokkerer "
+"tilkoblingen."
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr "Finner ikke Proxy. Kontroller at dine Proxy-innstillinger er korrekte."
+
+msgid "Unable to resolve the host."
+msgstr "Klarer ikke å koble til verten."
+
+msgid "Unable to connect to the server."
+msgstr "Ikke mulig å koble til server."
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "Sikker tilkobling (SSL) til server feilet."
+
+msgid "FALSE"
+msgstr "USANN"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Ignore private events"
+msgstr "Ignorer private hendelser"
+
+msgid "Import limit"
+msgstr "Importgrense"
+
+msgid "Everything"
+msgstr "Alt"
+
+msgid "Future only"
+msgstr "Kun fram i tid"
+
+msgid "Past month"
+msgstr "Tidligere måned"
+
+msgid "Past 6 months"
+msgstr "Siste 6 måneder"
+
+msgid "Past year"
+msgstr "Siste år"
+
+msgid "Past 2 years"
+msgstr "Siste 2 år"
+
+msgid "Delete notifications"
+msgstr "Slett varsler"
+
+msgid "External Only"
+msgstr "Kun eksternt"
+
+msgid "Future Only"
+msgstr "Kun for fremtidig bruk"
+
+msgid "Color mapping"
+msgstr "Fargesamennsetning"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"Angi E-post og passord for Googlekonto, klikk \"Velg kalender\"-knapp og "
+"velg kalender og oppgaveliste du vil benytte."
+
+msgid "Select calendar"
+msgstr "Velg kalender"
+
+msgid "Unable to read the calendars."
+msgstr "Klarer ikke å lese kalender."
+
+msgid "Authentication failed."
+msgstr "Godkjennelse feilet."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Klarer ikke å koble til Google. \n"
+"Vennligst kontroller at E-post\n"
+"og passord er korrekt."
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr "Hendelsen kan ikke lastes opp fordi mottakerkalender er ikke definert."
+
+msgid "Google Calendar Error (%s)!"
+msgstr "Google Kalender-feil (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"Kan ikke koble til Google. 2-trinns godkjennelse er slått på på din konto, "
+"så du må opprette et spesielt passord for Rainlendar. Du kan gjøre dette "
+"under kontoinnstillinger på Googlekontoen din \"2-trinns godkjennelse\"."
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"Kan ikke autentisere mot Google. Rainlendars tilgang til Google Calendar kan "
+"ha blitt tilbakekalt. Gå til Innstillinger->Kalendere og kjør autentisering "
+"for kalendere igjen."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Får ikke godkjenning fra Google.\n"
+"Server returnete følgende: (%i) %i %s."
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Kan ikke laste ned kalendre.\n"
+"Server returnerte følgende: (%i) %i %s."
+
+msgid "Unable to parse the calendar url."
+msgstr "Kan ikke analysere kalenderens URL."
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Det ser ut som du har angitt en URL som kalendernavn.\n"
+"Du må velge et av navnene nedenunder isteden:\n"
+
+msgid "Unable to delete the event: "
+msgstr "Klarer ikke å slette hendelse:"
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"Hendelsen kan ikke lastes opp til Google Kalender p.g.a. en konflikt. Den "
+"oppdaterte hendelsen vil lastes på nytt fra Google Kalender."
+
+msgid "Unable to parse the events."
+msgstr "Klarer ikke å analysere hendelsene."
+
+msgid "Unable to upload the event: "
+msgstr "Klarer ikke å laste opp hendelse:"
+
+msgid "Task list name"
+msgstr "Oppgavelistens navn"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"Angi E-post og passord for Googlekonto, klikk \"Velg oppgaveliste\"-knapp og "
+"velg oppgavelisten du vil benytte."
+
+msgid "Select task list"
+msgstr "Velg oppgaveliste"
+
+msgid "Unable to read the task lists."
+msgstr "Klarer ikke å lese oppgaveliste."
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr "Oppgaven kan ikke lastes opp fordi mållisten ikke er definert."
+
+msgid "Google Tasks Error (%s)!"
+msgstr "Google Tasks-feil (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"Kan ikke koble til Google. Rainlendar's tilgang til Google Task-liste kan "
+"være opphevet. Vennligst gjenoppfrisk kalenderen og godkjenn Rainlendar "
+"igjen på din Google-konto."
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Kan ikke laste ned oppgavelister.\n"
+"Server returnerte følgende: (%i) %i %s."
+
+msgid "Unable to parse the task list url."
+msgstr "Kan ikke analysere oppgavelistens Url."
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Det ser ut som du har angitt en URL som oppgavenavn.\n"
+"Du må velge et av navnene nedenunder isteden:\n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"Kan kke finne den valgte oppgaveliste (%s).\n"
+"\n"
+"Tilgjengelige lister er:\n"
+
+msgid "Unable to delete the task: "
+msgstr "Klarer ikke å slette oppgave:"
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"Oppgaven kan ikke lastes opp til Googles oppgaver p.g.a. konflikt. Oppdatert "
+"oppgave vil lastes fra Googles Oppgaver."
+
+msgid "Unable to upload the task: "
+msgstr "Klarer ikke å laste opp oppgave:"
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar filer (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "Sikker opplasting"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"Velg URL, brukernavn og passord for kalenderen.\n"
+"\n"
+"http, https eller ftp protokoller kan brukes som URL. Brukernavn og passord-"
+"felt kan være tomme hvis ønskelig."
+
+msgid "Network Error (%s)!"
+msgstr "Nettverksfeil (%s)!"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "Klarer ikke å legge til elementet til online-kalenderen."
+
+msgid "Unable to remove the item from the online calendar."
+msgstr "Klarer ikke å fjerne elementet fra online-kalenderen."
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"Klarer ikke å analysere filen: %s\n"
+"Filen kan være ødelagt."
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"Serveren returnerte ikke svar. Kontroller at kalenderens Url peker til en "
+"fil, og ikke til en mappe."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Feil ved nedlasting av data fra URL:\n"
+"%s\n"
+"\n"
+"Server returnerte resultat: (%i) %i %s."
+
+msgid "Downloaded event count"
+msgstr "Nedlastet hendelses-teller"
+
+msgid "Office 365"
+msgstr "Office 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"Angi din epostadresse for kontoen på Office 365 og klikk knappen \"Velg "
+"kalender\" og velg kalenderen du vil bruke."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Kan ikke få godkjenning fra kontoen på Office 365.\n"
+"Kontroller at epostadresse\n"
+"og passord er korrekt."
+
+msgid "Office365 Error (%s)!"
+msgstr "Office365 feil (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Får ikke godkjennelse fra Office 365. Rainlendars tilgang til Office 365 kan "
+"være tilbakekalt. Vennligst gjenoppfrisk kalenderen go autentiser Rainlendar "
+"igjen mot din konto på Office 365."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Får ikke godkjenning fra konto på Office 365.\n"
+"Server returnerte svar: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Hendelsen kan ikke lastes opp grunnet en konflikt. Oppdatert hendelse vil "
+"lastes på nytt fra serveren."
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"Outlook-feil!\n"
+"Kan ikke initsiere MAPI-bibliotek.\n"
+"\n"
+"Hvis du har oppgradert Rainlendar eller Outlook, må du lage kalenderen i "
+"Rainlendars valg.\n"
+"\n"
+"Kontroller også at du bruker samme versjoner (32bit - 64bit) på begge "
+"programmer."
+
+msgid "Application"
+msgstr "Program"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "MessageStore"
+msgstr "MeldingsLager"
+
+msgid "Folders"
+msgstr "Mapper"
+
+msgid "Default Folder"
+msgstr "Standard mappe"
+
+msgid "Use labels instead of categories"
+msgstr "Bruk merker istedenfor kategorier"
+
+msgid "Show edit links"
+msgstr "Vis rediger lenker"
+
+msgid "Keep MAPI connection alive"
+msgstr "Hold MAPI kopling i live"
+
+msgid "Month"
+msgstr "Måned"
+
+msgid "6 months"
+msgstr "6 måneder"
+
+msgid "Year"
+msgstr "År"
+
+msgid "2 years"
+msgstr "2 år"
+
+msgid "Read birthdays from contacts"
+msgstr "Les fødselsdager fra kontakter"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Velg Outlook-melding som du vil se i Rainlendar."
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][edit]]"
+
+msgid "Outlook error!"
+msgstr "Outlook-feil!"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr ""
+"Feil ved lesing av Outlook-element fra \"%s\". Kontroller logg for flere "
+"detaljer."
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "Oppdatering av elementet feilet. Feilkode 0x%p"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr ""
+"Klarte ikke å skrive Outlook-elementet. Det er ingen mappe for lagring."
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "Klarer ikke å slette elementet. Feilkode 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "Kan ikke finne oppgaveliste fra Remember the Milk!"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "Listen \"%s\" ble ikke funnet. Tilgjengelige lister er:"
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "Vennligst skriv navnet nøyaktig slik som i listen over."
+
+msgid "Unable to parse the ID from the task."
+msgstr "Klarer ikke å analysere ID på oppgaven."
+
+msgid "Unable to create the task."
+msgstr "Klarer ikke å opprette oppgaven."
+
+msgid "Unable to parse the timeline."
+msgstr "Klarer ikke å analysere tidslinje."
+
+msgid "The service is temporarily unavailable."
+msgstr "Tjenesten er for øyeblikket ikke tilgjengelig."
+
+msgid "Please log in to Remember The Milk."
+msgstr "Vennligst logg in på Remember The Milk."
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"Du må godkjenne Rainlendar for å få tilgang til konto på Remember The Milk. "
+"Vennligst logg in på Remember The Milks nettside og gi Rainlender tilgang "
+"til din konto.\n"
+"\n"
+"Din standard nettleser vil åpne automatisk når du klikker OK-knappen."
+
+msgid "Continue after authorization."
+msgstr "Fortsett etter autorisasjon."
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr "Klikk OK for å fortsette etter at du har autorisert Rainlendar."
+
+msgid "Unable to parse the output."
+msgstr "Klarer ikke å analysere output."
+
+msgid "Unknown response for call \"%s\"."
+msgstr "Ukjent svar fra kall \"%s\"."
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"Kall \"%s\" feilet:\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "Kall til metode \"%s\" feilet."
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "Remember The Milk-feil (%s)!"
+
+msgid "List"
+msgstr "Liste"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"Velg oppgavenavn for oppgaveliste fra Remember The Milk. Du kan la feltet "
+"være blankt dersom du vil bruke alle lister."
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"Godkjenning mangler. Du må gi Rainlendar tilgang til din konto på Remember "
+"The Milk."
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"Kan kke finne mappe \"%s\".\n"
+"\n"
+"Tilgjengelige mapper er:"
+
+msgid "Toodledo Error (%s)!"
+msgstr "Toodledo-feil (%s)!"
+
+msgid "Folder"
+msgstr "Mappe"
+
+msgid "Poll for changes"
+msgstr "Overvåk endringer"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr "Vennligst angi mailadresse og passord for Toodledo."
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "Klarer ikke å åpne filen\"%s\" for skriving."
+
+msgid "Filename"
+msgstr "Filnavn"
+
+msgid "Monitor changes"
+msgstr "Overvåk endringer"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"Velg en fil for kalender.\n"
+"\n"
+"Du kan velge en eksisterende ics-fil eller skrive inn ny sti vil i alle "
+"tilfelle en ny fil bli laget."
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar filer (*.ics)|*.ics|vCalendar filer (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr ""
+"Denne stien til kalenderfilen \"%s\" eksisterer ikke. Gå til Innstillinger-"
+">Kalendere og sjekk at plasseringen av filen er korrekt angitt."
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "Klarer ikke å opprette temporær kopifil\"%s\"."
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "Klarer ikke å erstatte filen\"%s\"."
+

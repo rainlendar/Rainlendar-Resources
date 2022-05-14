@@ -1,0 +1,5195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2.17 Polish translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: 2021-09-21 17:03+0200\n"
+"Last-Translator: Lukasz SEWERYN\n"
+"Language-Team: Lukasz SEWERYN (kontynuacja) <lukasz.seweryn@poczta.onet.pl>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Rainlendar nie może uruchomić serwera HTTP w celu odebrania odpowiedzi "
+"OAuth. Sprawdź, czy nie masz oprogramowania zabezpieczającego, które "
+"uniemożliwiałoby uruchamianie serwerów przez aplikacje i że nie ma innych "
+"usług działających na tym samym porcie."
+
+msgid "Server Port: "
+msgstr "Serwer port: "
+
+msgid "Failed to start HTTP server"
+msgstr "Nie udało się uruchomić serwera HTTP"
+
+msgid "Choose the backup path"
+msgstr "Podaj ścieżkę dostępu do plików kopii zapasowej"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "Archiwum (*.zip)|*.zip"
+
+msgid "Authentication failed!"
+msgstr "Uwierzytelnianie nie powiodło się!"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "Upewnij się, że dokończyłeś proces autoryzacji"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr "i nadaj uprawnienia dostępu do kalendarza dla Rainlendar."
+
+msgid "Authentication succeeded!"
+msgstr "Uwierzytelnianie powiodło się!"
+
+msgid "You may close the browser window now."
+msgstr "Możesz teraz zamknąć okno przeglądarki."
+
+msgid "Choose the backup file:"
+msgstr "Wybierz plik kopii zapasowej:"
+
+msgid "Select"
+msgstr "Wybierz"
+
+msgid "No backups found!"
+msgstr "Nie znaleziono kopii zapasowych!"
+
+msgid "There are no backups available in the backup folder."
+msgstr "Nie ma dostępnych kopii zapasowych w folderze."
+
+msgid "The settings do not exist!"
+msgstr "Ustawienie nie istnieje!"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "Wybrany plik kopii zapasowej nie zawiera pliku ustawień."
+
+msgid "The file already exists:"
+msgstr "Plik już istnieje:"
+
+msgid "Do you want to overwrite the file?"
+msgstr "Czy chcesz nadpisać plik?"
+
+msgid "Unable to overwrite file:"
+msgstr "Nie można nadpisać pliku:"
+
+msgid "Write error!"
+msgstr "Błąd zapisu!"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"Nie można przywrócić pliku:\n"
+"%s\n"
+"\n"
+"Musisz wyodrębnić plik ręcznie z archiwum kopii zapasowej."
+
+msgid "Restore error!"
+msgstr "Błąd przywracania!"
+
+msgid "[None]"
+msgstr "[Brak]"
+
+msgid "<Hidden>"
+msgstr "<Ukryte>"
+
+msgid "all"
+msgstr "wszystko"
+
+msgid "active"
+msgstr "aktywne"
+
+msgid "dismissed"
+msgstr "odrzucone"
+
+msgid "snoozed"
+msgstr "odłożone"
+
+msgid "Show only needs action"
+msgstr "Pokaż tylko wymagające działań"
+
+msgid "Show only in progress"
+msgstr "Pokaż tylko w trakcie trwania"
+
+msgid "Show only completed"
+msgstr "Pokaż tylko zakończone"
+
+msgid "Show only cancelled"
+msgstr "Pokaż tylko anulowane"
+
+msgid "Hide needs action"
+msgstr "Ukryj wymagające działania"
+
+msgid "Hide in progress"
+msgstr "Ukryj trwające"
+
+msgid "Hide completed"
+msgstr "Ukryj zakończone"
+
+msgid "Hide cancelled"
+msgstr "Ukryj anulowane"
+
+msgid "Reset completed time"
+msgstr "Resetuj zakończony czas"
+
+msgid "Show only no priority"
+msgstr "Pokaż tylko bez priorytetu"
+
+msgid "Show only high priority"
+msgstr "Pokaż tylko wysoki priorytet"
+
+msgid "Show only normal priority"
+msgstr "Pokaż tylko normalny priorytet"
+
+msgid "Show only low priority"
+msgstr "Pokaż tylko niski priorytet"
+
+msgid "Hide no priority"
+msgstr "Ukryj bez priorytetu"
+
+msgid "Hide high priority"
+msgstr "Ukryj o wysokim priorytecie"
+
+msgid "Hide normal priority"
+msgstr "Ukryj o normalnym priorytecie"
+
+msgid "Hide low priority"
+msgstr "Ukryj o niskim priorytecie"
+
+msgid "Show only alarms"
+msgstr "Pokaż tylko alarmy"
+
+msgid "Show only active"
+msgstr "Pokaż tylko aktywne"
+
+msgid "Show only snoozed"
+msgstr "Pokaż tylko drzemkę"
+
+msgid "Show only dismissed"
+msgstr "Pokaż tylko odrzucone"
+
+msgid "Hide alarms"
+msgstr "Ukryj alarmy"
+
+msgid "Hide active"
+msgstr "Ukryj aktywne"
+
+msgid "Hide snoozed"
+msgstr "Ukryj odłożone"
+
+msgid "Hide dismissed"
+msgstr "Ukryj odrzucone"
+
+msgid "Reset dismiss time"
+msgstr "Resetuj odrzucony czas"
+
+msgid "Reset snooze time"
+msgstr "Resetuj czasu drzemki"
+
+msgid "Dismiss next alarm"
+msgstr "Odrzuć następny alarm"
+
+msgid "Duration:"
+msgstr "Czas trwania:"
+
+msgid "Next alarm:"
+msgstr "Następny alarm:"
+
+msgid "Dismissed:"
+msgstr "Odrzucone:"
+
+msgid "Snoozed until:"
+msgstr "Drzemka do:"
+
+msgid "In Progress"
+msgstr "W trakcie"
+
+msgid "Completed"
+msgstr "Zakończone"
+
+msgid "Needs Action"
+msgstr "Wymaga działania"
+
+msgid "Cancelled"
+msgstr "Anulowane"
+
+msgid "None"
+msgstr "Brak"
+
+msgid "High"
+msgstr "Wysoki"
+
+msgid "Normal"
+msgstr "Normalne"
+
+msgid "Low"
+msgstr "Niski"
+
+msgid "All"
+msgstr "Wszystko"
+
+msgid "Active"
+msgstr "Aktywny"
+
+msgid "Dismissed"
+msgstr "Odrzuone"
+
+msgid "Snoozed"
+msgstr "Drzemka"
+
+msgid "Daily"
+msgstr "Dziennie"
+
+msgid "Weekly"
+msgstr "Tygodniowo"
+
+msgid "Monthly"
+msgstr "Miesięcznie"
+
+msgid "Yearly"
+msgstr "Rocznie"
+
+msgid "Private"
+msgstr "Prywatne"
+
+msgid "Public"
+msgstr "Święta państwowe"
+
+msgid "Confidential"
+msgstr "Poufny"
+
+msgid "Default"
+msgstr "Domyślny"
+
+msgid "No priority"
+msgstr "Brak priorytetu"
+
+msgid "Normal priority"
+msgstr "Normalny priorytet"
+
+msgid "High priority"
+msgstr "Wysoki priorytet"
+
+msgid "Low priority"
+msgstr "Niski priorytet"
+
+msgid "Created: "
+msgstr "Utworzono: "
+
+msgid "Unknown"
+msgstr "Nieznany"
+
+msgid "Modified: "
+msgstr "Zmodyfikowano: "
+
+msgid "Copy"
+msgstr "Kopiuj"
+
+msgid "Region"
+msgstr "Rejon"
+
+msgid "Native"
+msgstr "Natywny"
+
+msgid "Sunday"
+msgstr "Niedziela"
+
+msgid "Monday"
+msgstr "Poniedziałek"
+
+msgid "Tuesday"
+msgstr "Wtorek"
+
+msgid "Wednesday"
+msgstr "Środa"
+
+msgid "Thursday"
+msgstr "Czwartek"
+
+msgid "Friday"
+msgstr "Piątek"
+
+msgid "Saturday"
+msgstr "Sobota"
+
+msgid "Every second Saturday"
+msgstr "Co drugą sobotę"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Due"
+msgstr "Do"
+
+msgid "Priority"
+msgstr "Priorytetu"
+
+msgid "Status"
+msgstr "Statusu"
+
+msgid "Category"
+msgstr "Kategoria"
+
+msgid "Recurrence"
+msgstr "Powtarzanie"
+
+msgid "Off"
+msgstr "Wyłączone"
+
+msgid "Beta"
+msgstr "Beta"
+
+msgid "General"
+msgstr "Ogólne"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "%H:%M (e.g. \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "%#H:%M (e.g. \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "%I:%M %p (e.g. \"01:42 pm\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "%#I:%M %p (e.g. \"3:42 pm\")"
+
+msgid "Time format"
+msgstr "Format czasu"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "%d.%#m.%Y (e.g. \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "%d.%m.%Y (e.g. \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "%Y-%m-%d (e.g. \"2012-04-21\")"
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "%#m/%d/%Y (e.g. \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "%m/%d/%Y (e.g. \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "Format daty"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "Użyj \"Dzisiaj\" i \"Jutro\""
+
+msgid "Weekend days"
+msgstr "Dni weekendu"
+
+msgid "Week number delta"
+msgstr "Numer tygodnia"
+
+msgid "Default categories"
+msgstr "Domyślne kategorie"
+
+msgid "Show categories from the skin"
+msgstr "Pokaż kategorie ze skórki"
+
+msgid "Show tray icon"
+msgstr "Pokaż ikonę w tray'u"
+
+msgid "Show tray status icons"
+msgstr "Pokaż ikonę statusu w tray'u"
+
+msgid "Day number"
+msgstr "Numer dnia"
+
+msgid "Week number"
+msgstr "Numer tygodnia"
+
+msgid "Number in tray"
+msgstr "Numer dnia w zasobniku"
+
+msgid "Always"
+msgstr "Zawsze"
+
+msgid "Never"
+msgstr "Nigdy"
+
+msgid "Show full menus"
+msgstr "Zawsze pokazuj pełne menu"
+
+msgid "Disable keyboard shortcuts"
+msgstr "Wyłącz skróty klawiatury"
+
+msgid "List wheel scroll"
+msgstr "Lista przewijana"
+
+msgid "Skin language"
+msgstr "Język skórki"
+
+msgid "Number of stored backups"
+msgstr "Ilość przechowywanych kopii zapasowych"
+
+msgid "Show delete confirmations"
+msgstr "Pokaż potwierdzenia usuwania"
+
+msgid "Disable text formatting"
+msgstr "Wyłącz formatowanie tekstu"
+
+msgid "Show empty list text"
+msgstr "Pokaż pustą listę tekstu"
+
+msgid "Check for updates"
+msgstr "Sprawdź aktualizacje"
+
+msgid "Show url icons"
+msgstr "Pokaż ikony adresu URL"
+
+msgid "Simultaneous transfers"
+msgstr "Jednoczesne transfery"
+
+msgid "Only uncategorized"
+msgstr "Tylko niezaklasyfikowane"
+
+msgid "Icon from events"
+msgstr "Ikona wydarzeń"
+
+msgid "Visual category overwrite"
+msgstr "Wizualne napisywanie kategorii"
+
+msgid "Store English category names"
+msgstr "Zapisuj Angielskie nazwy kategorii"
+
+msgid "Custom category icon path"
+msgstr "Ścieżka ikony własnej kategorii"
+
+msgid "Use antialiased fonts"
+msgstr "Używaj wygładzania czcionek"
+
+msgid "Count"
+msgstr "Odliczanie"
+
+msgid "Ordinal"
+msgstr "Liczba porządkowa"
+
+msgid "Type of year to add for categories"
+msgstr "Dodaj typ lat do kategorii"
+
+msgid "Use custom password encrypting"
+msgstr "Użyj niestandardowego hasła szyfrowania"
+
+msgid "Editor"
+msgstr "Edytor"
+
+msgid "Allow multiple calendars"
+msgstr "Zezwól na kilka kalendarzy"
+
+msgid "Allow multiple categories"
+msgstr "Zezwól na kilka kategorii"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "Zostaw edytor otwarty do czasu zakończenia pisania"
+
+msgid "Time span in the editor"
+msgstr "Wysokość pozycji czasu"
+
+msgid "Number of previous locations"
+msgstr "Liczba poprzednich miejsc"
+
+msgid "Default event duration"
+msgstr "Domyślna długość zdarzenia"
+
+msgid "Windows"
+msgstr "Okna"
+
+msgid "Use window names"
+msgstr "Użyj nazw okien"
+
+msgid "Hide on Aero peek"
+msgstr "Ukryj przy Aero Peek"
+
+msgid "Transparency type"
+msgstr "Typ przezroczystości"
+
+msgid "Copy transparency sleep time"
+msgstr "Kopiuj czas wygaszania przezroczystości"
+
+msgid "Fade delay (ms)"
+msgstr "Opóźnienie zanikania (ms)"
+
+msgid "Fade duration (ms)"
+msgstr "Czas zaniku (ms)"
+
+msgid "Allow window fading"
+msgstr "Zezwól na zanikanie okna"
+
+msgid "Keep on screen"
+msgstr "Pozostaw na ekranie"
+
+msgid "Bring all windows on top when clicked"
+msgstr "Wywołaj wszystkie okna na górze po kliknięciu"
+
+msgid "Show in all desktops"
+msgstr "Pokaż na wszystkich pulpitach"
+
+msgid "Snap distance"
+msgstr "Odległość przyciągania"
+
+msgid "Snap center"
+msgstr "Przyciągaj do środka"
+
+msgid "Don't save"
+msgstr "Nie zapisuj"
+
+msgid "Per resolution"
+msgstr "Wg rozdzielczości"
+
+msgid "Single value"
+msgstr "Pojedyncza wartość"
+
+msgid "Save window position"
+msgstr "Zapisz pozycję okna"
+
+msgid "Font face"
+msgstr "Rodzaj czcionki"
+
+msgid "Scaling quality"
+msgstr "Jakość skalowania"
+
+msgid "Network"
+msgstr "Sieć"
+
+msgid "Reload delay after resume (s)"
+msgstr "Odśwież opóźnienie po wznowieniu (s)"
+
+msgid "Network access delay after startup (s)"
+msgstr "Opóźnienie dostępu do sieci po uruchomieniu (s)"
+
+msgid "Proxy server"
+msgstr "Serwer proxy"
+
+msgid "Proxy user"
+msgstr "Użytkownik proxy"
+
+msgid "Proxy password"
+msgstr "Hasło proxy"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgid "Proxy type"
+msgstr "Rodzaj proxy"
+
+msgid "Try direct connection if proxy fails"
+msgstr "Połącz bezpośrednio jeżeli serwer proxy zawiedzie"
+
+msgid "Calendar"
+msgstr "Kalendarz"
+
+msgid "Show all icons"
+msgstr "Pokaż wszystkie ikony"
+
+msgid "Show one icon per type"
+msgstr "Pokaż jedną ikonę na typ"
+
+msgid "Show only one icon"
+msgstr "Pokaż tylko jedną ikonę"
+
+msgid "Show no icons"
+msgstr "Nie pokazuj ikon"
+
+msgid "Combine icons in the calendar"
+msgstr "Łącz ikony w kalendarzu"
+
+msgid "Calendar wheel scroll"
+msgstr "Kalendarz przewijany"
+
+msgid "Show tasks in calendar"
+msgstr "Pokaż zadania w kalendarzu"
+
+msgid "Always show menu"
+msgstr "Zawsze pokazuj menu"
+
+msgid "Always create new event"
+msgstr "Zawsze twórz nowe wydarzenie"
+
+msgid "Do nothing"
+msgstr "Nie rób nic"
+
+msgid "Double click action"
+msgstr "Podwójne kliknięcie lewym klawiszem myszy"
+
+msgid "Tooltip"
+msgstr "Podpowiedź"
+
+msgid "Show tooltips"
+msgstr "Pokaż podpowiedzi"
+
+msgid "Only on days with events"
+msgstr "Tylko na dniach z wydarzeniami"
+
+msgid "Show tooltip in tray"
+msgstr "Pokaż podpowiedzi w tray'u"
+
+msgid "Max tooltip window width"
+msgstr "Maksymalna szerokość okna podpowiedzi"
+
+msgid "Show description in tooltip"
+msgstr "Pokaż opis w podpowiedzi"
+
+msgid "Task fields in tooltip"
+msgstr "Pola zadań w podpowiedziach"
+
+msgid "Event fields in tooltip"
+msgstr "Pola wydarzeń w podpowiedziach"
+
+msgid "Traytip show duration (s)"
+msgstr "Długość wyświetlania podpowiedzi (s)"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "Czas zaniku balonika w trayu (ms)"
+
+msgid "Tooltip show delay (ms)"
+msgstr "Opóżnienie pojawienia się balonika (ms)"
+
+msgid "Tooltip format"
+msgstr "Format podpowiedzi"
+
+msgid "Task List"
+msgstr "Lista zadań"
+
+msgid "Show full task summary"
+msgstr "Pokaż pełne opis zadania"
+
+msgid "Show task due time"
+msgstr "Pokaż czas do zadania"
+
+msgid "Show task location"
+msgstr "Pokaż lokalizację zadania"
+
+msgid "Show task calendar"
+msgstr "Pokaż zadania"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "Liczba dni pokazywanych na liście (0 = pokaż wszystkie)"
+
+msgid "Show task time when arranged by start or due date"
+msgstr "Pokaż czas zadania, jeśli są układane według rozpoczęcia lub daty"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr "%A %d.%#m.%Y (np.: \"Poniedziałek 21.4.2012\")"
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr "%A %d.%m.%Y (np.: \"Poniedziałek 21.04.2012\")"
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr "%A %Y-%m-%d (np.: \"Poniedziałek 2012-04-21\")"
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr "%A %#m/%d/%Y (np.: \"Poniedziałek 4/21/2012\")"
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr "%A %m/%d/%Y (np.: \"Poniedziałek 04/21/2012\")"
+
+msgid "Task list header format"
+msgstr "Format nagłówka listy zadań"
+
+msgid "<None>"
+msgstr "<Brak>"
+
+msgid "Default task template"
+msgstr "Domyślny szablon zadań"
+
+msgid "Event List"
+msgstr "Lista wydarzeń"
+
+msgid "Show full event summary"
+msgstr "Pokaż pełny opis wydarzeń"
+
+msgid "Show event start time"
+msgstr "Pokaż czas rozpoczęcia wydarzenia"
+
+msgid "Show event end time"
+msgstr "Pokaż czas zakończenia wydarzenia"
+
+msgid "Show event location"
+msgstr "Pokaż lokalizację wydarzenia"
+
+msgid "Show event calendar"
+msgstr "Pokaż wydarzenia"
+
+msgid "Hide dismissed events"
+msgstr "Ukryj zaniechane wydarzenia"
+
+msgid "Hide past events"
+msgstr "Ukryj przeszłe wydarzenia"
+
+msgid "Number of future days the list shows"
+msgstr "Liczba przyszłych dni pokazywanych na liście"
+
+msgid "Number of past days the list shows"
+msgstr "Liczba przeszłych dni pokazywanych na liście"
+
+msgid "Age from start of the week"
+msgstr "Wiek od początku tygodnia"
+
+msgid "Event list header format"
+msgstr "Wysokość listy wydarzeń"
+
+msgid "Default event template"
+msgstr "Domyślny szablon wydarzeń"
+
+msgid "No grouping"
+msgstr "Nie grupuj"
+
+msgid "Start and end dates"
+msgstr "Początkowa i końcowa data"
+
+msgid "Start date and duration"
+msgstr "Data rozpoczęcia i czas trwania"
+
+msgid "Group multiday events"
+msgstr "Grupuj zadania wielodniowe"
+
+msgid "Schedule"
+msgstr "Wydarzenie"
+
+msgid "Show schedule descriptions"
+msgstr "Pokaż opis wydarzenia"
+
+msgid "Show schedule start time"
+msgstr "Pokaż czas rozpoczęcia wydarzenia"
+
+msgid "Show schedule end time"
+msgstr "Pokaż czas zakończenia wydarzenia"
+
+msgid "Show schedule location"
+msgstr "Pokaż lokalizację wydarzenia"
+
+msgid "Show schedule calendar"
+msgstr "Pokaż nazwę kalendarza wydarzeń"
+
+msgid "Create, move and resize events with mouse"
+msgstr "Twórz, przesuwaj i zmieniaj wielkosć wydarzeń za pomocą myszki"
+
+msgid "First shown hour"
+msgstr "Pierwsza pokazana godzina"
+
+msgid "Last shown hour"
+msgstr "Ostatnia pokazana godzina"
+
+msgid "Alarm"
+msgstr "Alarm"
+
+msgid "Show alarm start time"
+msgstr "Pokaż czas rozpoczęcia alarmu"
+
+msgid "Show alarm end time"
+msgstr "Pokaż czas zakończenia alarmu"
+
+msgid "Show alarm location"
+msgstr "Pokaż lokalizację alarmu"
+
+msgid "Show alarm calendar"
+msgstr "Pokaż alarmy"
+
+msgid "Show due to the event"
+msgstr "Pokaż czas do wydarzenia"
+
+msgid "Support Mozilla alarms"
+msgstr "Wsparcie alarmów Mozilli"
+
+msgid "Keep alarm always on top"
+msgstr "Okno alarmu zawsze na wierzchu"
+
+msgid "Default snooze time (secs)"
+msgstr "Domyślny czas drzemki (w sekundach)"
+
+msgid "Max alarm window width"
+msgstr "Maksymalny rozmiar okna alarmu"
+
+msgid "Hide from alarm after days"
+msgstr "Ukryj alarm po upływie dni"
+
+msgid "Default alarm time (mins)"
+msgstr "Domyślny czas alarmu (minuty)"
+
+msgid "Default alarm file"
+msgstr "Domyślny dźwięk alarmu"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "Nie pokazuj alarmów nad zmaksymalizowanym oknie"
+
+msgid "Loop the alarm sound (secs)"
+msgstr "Zapętlaj dźwięk alarmu(sekundy)"
+
+msgid "Snooze times (mins)"
+msgstr "Czas ponownego przypomnienia (min)"
+
+msgid "Create Error!"
+msgstr "Błąd tworzenia!"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "Nie można wybrać docelowego kalendarza dla pozycji."
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "Utworzenie nowej pozycji ze strumienia nie powiodło się:\n"
+
+msgid "Parse Error!"
+msgstr "Błąd analizy!"
+
+msgid "New version found!"
+msgstr "Znaleziono nową wersję!"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"Wersja %s jest dostępna.\n"
+"Czy chcesz przejść teraz do strony internetowej?"
+
+msgid "No updates available."
+msgstr "Nie znaleziono nowych uaktualnień."
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "Masz najnowszą wersję Rainlendar'a."
+
+msgid "New event"
+msgstr "Nowe wydarzenie"
+
+msgid "New task"
+msgstr "Nowe zadanie"
+
+msgid "Refresh"
+msgstr "Odśwież"
+
+msgid "Options..."
+msgstr "Opcje..."
+
+msgid "Manager..."
+msgstr "Menadżer..."
+
+msgid "Exit"
+msgstr "Zamknij"
+
+msgid "File"
+msgstr "Plik"
+
+msgid "View"
+msgstr "Widok"
+
+msgid "About..."
+msgstr "O programie..."
+
+msgid "Open help\tCtrl+?"
+msgstr "Otwórz pomoc\tCtrl+?"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "About"
+msgstr "O programie"
+
+msgid "Calendars"
+msgstr "Kalendarze"
+
+msgid "Choose day"
+msgstr "Wybierz dzień"
+
+msgid "Choose month"
+msgstr "Wybierz miesiąc"
+
+msgid "Install license..."
+msgstr "Zainstaluj klucz licencyjny"
+
+msgid "Show debug log"
+msgstr "Pokaż dziennik debugowania"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+msgid "Enable all calendars"
+msgstr "Włącz wszystkie kalendarze"
+
+msgid "Disable all calendars"
+msgstr "Wyłącz wszystkie kalendarze"
+
+msgid "Current Day"
+msgstr "Bieżący dzień"
+
+msgid "Next Day"
+msgstr "Następny dzień"
+
+msgid "Previous Day"
+msgstr "Poprzedni dzień"
+
+msgid "Next Week"
+msgstr "Następny tydzień"
+
+msgid "Previous Week"
+msgstr "Poprzedni tydzień"
+
+msgid "Next Month"
+msgstr "Następny miesiąc"
+
+msgid "Previous Month"
+msgstr "Poprzedni miesiąc"
+
+msgid "Current Month"
+msgstr "Bieżący miesiąc"
+
+msgid "Next Year"
+msgstr "Następny rok"
+
+msgid "Previous Year"
+msgstr "Poprzedni rok"
+
+msgid "Home"
+msgstr "Strona domowa"
+
+msgid "Right"
+msgstr "Prawa"
+
+msgid "Left"
+msgstr "Prawa"
+
+msgid "Up"
+msgstr "Do góry"
+
+msgid "Down"
+msgstr "W dół"
+
+msgid "January"
+msgstr "Styczeń"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+msgid "February"
+msgstr "Luty"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+msgid "March"
+msgstr "Marzec"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+msgid "April"
+msgstr "Kwiecień"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+msgid "May"
+msgstr "Maj"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+msgid "June"
+msgstr "Czerwiec"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+msgid "July"
+msgstr "Lipiec"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+msgid "August"
+msgstr "Sierpień"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+msgid "September"
+msgstr "Wrzesień"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+msgid "October"
+msgstr "Październik"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+msgid "November"
+msgstr "Listopad"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+msgid "December"
+msgstr "Grudzień"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+msgid "Visible"
+msgstr "Widoczny"
+
+msgid "More settings..."
+msgstr "Więcej ustawień..."
+
+msgid "Today"
+msgstr "Dzisiaj"
+
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+msgid "Show all windows"
+msgstr "Pokaż wszystkie okna"
+
+msgid "Hide all windows"
+msgstr "Ukryj wszystkie okna"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "Pliki licencji (*.r2lic)|*.r2lic"
+
+msgid "Choose the license file"
+msgstr "Wybierz plik licencji"
+
+msgid "*Empty*"
+msgstr "*Pusty*"
+
+msgid "This instance"
+msgstr "Ten przykład"
+
+msgid "Whole event"
+msgstr "Całe wydarzenie"
+
+msgid "All following"
+msgstr "Wszystkie następne"
+
+msgid "Cancel"
+msgstr "Anuluj"
+
+msgid "Do you want to delete this item?"
+msgstr "Czy chcesz usunąć tę pozycję?"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"To wydarzenie ma charakter powtarzalny:\n"
+"\n"
+"%s\n"
+"\n"
+"Możesz usunąć jedynie to wystąpienie (%s), wszystkie wystąpienia czy całe "
+"powtarzające się wydarzenie."
+
+msgid "The item is read only and cannot be deleted."
+msgstr "Ten element jest tylko do odczytu i nie może zostać usunięty."
+
+msgid "Unable to delete the item."
+msgstr "Nie można usunąć tego elementu."
+
+msgid "Do you want to delete these items?"
+msgstr "Czy chcesz usunąć te pozycje?"
+
+msgid "The item is read only and cannot be moved."
+msgstr "Ta pozycja jest tylko do odczytu i nie może zostać usunięta."
+
+msgid "Unable to move the item."
+msgstr "Nie można przenieść danej pozycji."
+
+msgid "Choose a directory"
+msgstr "Wybierz katalog"
+
+msgid "Version"
+msgstr "Wersja"
+
+msgid "Built on"
+msgstr "Kompilacja"
+
+msgid "Developed by"
+msgstr "Zaprojektowany przez"
+
+msgid "Translated (%s) by"
+msgstr "Przetłumaczone przez (%s)"
+
+msgid "Licensed to"
+msgstr "Zarejestrowano dla"
+
+msgid "Plugins"
+msgstr "Wtyczki"
+
+msgid "Links"
+msgstr "Odnośniki"
+
+msgid "FAQ"
+msgstr "Najczęściej zadawane pytania"
+
+msgid "Forum"
+msgstr "Forum"
+
+msgid "Menu icons by"
+msgstr "Ikony menu:"
+
+msgid "Application icon by"
+msgstr "Przez ikonę aplikacji"
+
+msgid "Copyrights"
+msgstr "Prawa autorskie"
+
+msgid "Please wait..."
+msgstr "Proszę czekać..."
+
+msgid "Check for update"
+msgstr "Sprawdź aktualizację"
+
+msgid "Choose Alarm"
+msgstr "Wybierz Alarm"
+
+msgid "All files (*.*)|*.*"
+msgstr "Wszystkie pliki (*.*)|*.*"
+
+msgid "Change Fields"
+msgstr "Zmień pola"
+
+msgid "%i events selected"
+msgstr "Wybierz wydarzenia %i"
+
+msgid "%i tasks selected"
+msgstr "Wybierz zadania %i"
+
+msgid "End time:"
+msgstr "Czas zakończenia:"
+
+msgid "Due time:"
+msgstr "Właściwy czas:"
+
+msgid "Add new alarm"
+msgstr "Dodaj nowy alarm"
+
+msgid "Are you sure you want to do this?"
+msgstr "Jesteś pewny, że chcesz to zrobić?"
+
+msgid "The selected fields will be changed to %i items."
+msgstr "Wybrane pola zostaną zmienione dla %i elementów."
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr ""
+"Nie można cofnąć operacji, więc kliknij \"Tak \" tylko wtedy, gdy jesteś "
+"całkowicie pewien, że wiesz co robisz."
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr ""
+"Należy pamiętać, że zmiana typu zdarzenia i zadania spowoduje utratę danych."
+
+msgid "Categories"
+msgstr "Kategorie"
+
+msgid "Add..."
+msgstr "Dodaj..."
+
+msgid "Clear"
+msgstr "Wyczyść"
+
+msgid "Remove"
+msgstr "Usuń"
+
+msgid "Values"
+msgstr "Wartości"
+
+msgid "Please give a name for the category"
+msgstr "Proszę podać nazwę kategorii"
+
+msgid "Enter text"
+msgstr "Tekst wejściowy"
+
+msgid "Unable to create the category!"
+msgstr "Nie można utworzyć kategorii!"
+
+msgid "You must give a name for the category."
+msgstr "Musisz nadać nazwę dla kategorii."
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "Nie wolno używać symbolu '/' w nazwie."
+
+msgid "A category called \"%s\" already exists."
+msgstr "Katgoria o nazwie \"%s\" już istnieje."
+
+msgid "Link start and end dates"
+msgstr "Połącz początkową i końcową datę"
+
+msgid "Save\tCtrl+S"
+msgstr "Zapisz\tCtrl+S"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "Zapisz jako nowy\tShift+Ctrl+S"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "Zapisz do pliku...\tAlt+Ctrl+S"
+
+msgid "Print...\tCtrl+P"
+msgstr "Drukuj...\tCtrl+P"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "Usuń\tCtrl+Delete"
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "Zamknij i akceptuj\tCtrl-Enter"
+
+msgid "Close\tCtrl+W"
+msgstr "Zamknij\tCtrl+S"
+
+msgid "Close\tAlt-F4"
+msgstr "Zamknij\tAlt-F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "Wybrany kalendarz nie obsługuje powtarzania."
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr ""
+"Alarm nie pojawi się ponieważ kalendarz ma włączone ignorowanie alarmów."
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr "Alarm nie pojawi się, ponieważ skórka nie ma okna alarmu."
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr ""
+"Zadanie jest tylko do odczytu i jego modyfikacje nie mogą zostać zapisane."
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr ""
+"Wydarzenie jest tylko do odczytu i jego modyfikacje nie mogą zostać zapisane."
+
+msgid "The task is from a read-only calendar."
+msgstr "Zadanie z kalendarza jest tylko do odczytu."
+
+msgid "The event is from a read-only calendar."
+msgstr "Wydarzenie z kalendarza jest tylko do odczytu."
+
+msgid "There are no calendars available which can store tasks."
+msgstr "Nie ma dostępnych kalendarzy, które mogłyby przechowywać zadania."
+
+msgid "There are no calendars available which can store events."
+msgstr "Nie ma dostępnych kalendarzy, które mogłyby przechowywać wydarzenia."
+
+msgid "No target calendar has been selected."
+msgstr "Nie wybrano docelowego kalendarza."
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr "Oryginalny opis jest w HTML i nie może być edytowany."
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"Nie wybrano kalendarza dla danej pozycji. Wybierz kalendarz, w którym chcesz "
+"przechowywać pozycję."
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"Brak dostępnych kalendarzy gdzie element może być zapisany. Przejdć do opcji "
+"i utwórz nowy kalendarz dla tego elementu. Pamiętaj, że niektóre kalendarze "
+"nie obsługują i zdarzeń i zadań do wykonania. Nie można np. zadań dodać do "
+"Kalendarza Google."
+
+msgid "Unable to save the item."
+msgstr "Nie można zapisać pozycji."
+
+msgid "Updating"
+msgstr "Aktualizowanie"
+
+msgid "Do you want to save the changes?"
+msgstr "Czy chcesz zapisać zmiany?"
+
+msgid "You have made some changes to the fields."
+msgstr "Dokonałeś pewnych zmian w polach."
+
+msgid "&Save"
+msgstr "&Zapisz"
+
+msgid "&Discard"
+msgstr "&Porzuć"
+
+msgid "&Cancel"
+msgstr "&Anuluj"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Czy chcesz usunąć tę pozycję?"
+
+msgid "Event"
+msgstr "Wydarzenie"
+
+msgid "Choose a file"
+msgstr "Wybierz plik"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "Pliki iCalendar (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "Wybierz kalendarze:"
+
+msgid "Select the categories:"
+msgstr "Wybierz kategorie:"
+
+msgid "before the event starts."
+msgstr "przed rozpoczęciem wydarzenia."
+
+msgid "before the task is due."
+msgstr "przed terminem ukończenia."
+
+msgid "Set alarm sound"
+msgstr "Ustaw dźwięk alarmu"
+
+msgid "Current alarm: "
+msgstr "Bieżący alarm: "
+
+msgid "Remove alarm"
+msgstr "Usuń alarm"
+
+msgid "Minutes"
+msgstr "Minuty"
+
+msgid "Hours"
+msgstr "Godziny"
+
+msgid "Days"
+msgstr "Dni"
+
+msgid "Alert"
+msgstr "Alarm"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr ""
+"Nie można znaleźć żadnych powiązań kalendarza dla tego wydarzenia. "
+"Wydarzenie nie zostało zapisane."
+
+msgid "On the %s day of the month"
+msgstr "%s dnia miesiąca"
+
+msgid "first"
+msgstr "pierwszy(ą)"
+
+msgid "second"
+msgstr "drugi(ą)"
+
+msgid "third"
+msgstr "trzeci(ą)"
+
+msgid "fourth"
+msgstr "czwarty(ą)"
+
+msgid "fifth"
+msgstr "piąty(ą)"
+
+msgid "On the %s %s of the month"
+msgstr "W %s %s miesiąca"
+
+msgid "On the last %s of the month"
+msgstr "W ostatni(ą) %s miesiąca"
+
+msgid "On the first weekday of the month"
+msgstr "Pierwszego dnia miesiąca"
+
+msgid "On the last weekday of the month"
+msgstr "Ostatniego dnia tygodnia w miesiącu"
+
+msgid "On the last day of the month"
+msgstr "Ostatniego dnia miesiąca"
+
+msgid "Please give a name for the template"
+msgstr "Proszę podać nazwę szablonu"
+
+msgid "Unable to create the template!"
+msgstr "Nie można utworzyć szablonu!"
+
+msgid "You must give a name for the template."
+msgstr "Musisz nadać nazwę dla szablonu."
+
+msgid "A template called \"%s\" already exists."
+msgstr "Szablon o nazwie \"%s\" już istnieje."
+
+msgid "Do you want to overwrite the template?"
+msgstr "Czy chcesz nadpisać szablon?"
+
+msgid "Choose the template to delete:"
+msgstr "Wybierz szablon do usunięcia:"
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "Wybierz szablon dla nowych zadań:"
+
+msgid "Choose the template which is used for new events:"
+msgstr "Wybierz szablon dla nowych wydarzeń:"
+
+msgid "Save as template..."
+msgstr "Zapisz jako szablon..."
+
+msgid "Delete template..."
+msgstr "Usuń szablon..."
+
+msgid "Set the default template..."
+msgstr "Ustaw szablon domyslny..."
+
+msgid "Template"
+msgstr "Szablon"
+
+msgid "Select the day range"
+msgstr "Wybierz zakres dni"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"Ten eksporter nie jest w stanie zapisać wydarzeń cyklicznych więc muszą one "
+"być zamienione na pojedyncze przypadki. Proszę określić zakres dni, które "
+"zostaną zapisane w pliku."
+
+msgid "From:"
+msgstr "Od:"
+
+msgid "To:"
+msgstr "Do:"
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "Czas końcowy nie może być wcześniejszy niż czas początkowy."
+
+msgid "Birthday"
+msgstr "Urodziny"
+
+msgid "Anniversary"
+msgstr "Rocznica"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Utworzono urodziny lub rocznicę, ale nie zdefiniowano żadnego ponownego "
+"wystąpienia.\n"
+"Czy chcesz, aby to wydarzenie powtarzało się co roku?"
+
+msgid "Error"
+msgstr "Błąd"
+
+msgid "Warning"
+msgstr "Ostrzeżenie"
+
+msgid "Question"
+msgstr "Pytanie"
+
+msgid "Information"
+msgstr "Informacja"
+
+msgid "Do not show this again"
+msgstr "Nie pokazuj tego więcej"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "&Yes"
+msgstr "&Tak"
+
+msgid "&No"
+msgstr "&Nie"
+
+msgid "Manager"
+msgstr "Menedżer"
+
+msgid "Events"
+msgstr "Wydarzenia"
+
+msgid "Tasks"
+msgstr "Zadania"
+
+msgid "Show original"
+msgstr "Pokaż oryginał"
+
+msgid "Show current"
+msgstr "Pokaż bieżące"
+
+msgid "Show upcoming"
+msgstr "Pokaż przyszłe"
+
+msgid "New"
+msgstr "Nowe"
+
+msgid "Edit"
+msgstr "Edytuj"
+
+msgid "Delete"
+msgstr "Usuń"
+
+msgid "Copy to"
+msgstr "Kopiuj do"
+
+msgid "Move to"
+msgstr "Przenieś do"
+
+msgid "Change fields"
+msgstr "Zmień pola"
+
+msgid "Import"
+msgstr "Importuj"
+
+msgid "Export"
+msgstr "Eksportuj"
+
+msgid "Print..."
+msgstr "Drukuj..."
+
+msgid "Backup"
+msgstr "Kopia zapasowa"
+
+msgid "Restore"
+msgstr "Przywróć"
+
+msgid "Close"
+msgstr "Zamknij"
+
+msgid "Select all"
+msgstr "Zaznacz wszystko"
+
+msgid "Select none"
+msgstr "Odznacz wszystko"
+
+msgid "Toggle selection"
+msgstr "Zamień zaznaczenie"
+
+msgid "Select duplicates"
+msgstr "Zaznacz duplikaty"
+
+msgid "Sort by due time"
+msgstr "Sortuj według terminu"
+
+msgid "Sort by end time"
+msgstr "Sortuj według czasu zakończenia"
+
+msgid "Sort by summary"
+msgstr "Sortuj według podsumowania"
+
+msgid "Sort by location"
+msgstr "Sortuj według lokalizacji"
+
+msgid "Sort by calendar"
+msgstr "Sortuj wg kalendarza"
+
+msgid "Sort by category"
+msgstr "Sortuj według kategorii"
+
+msgid "Sort by url"
+msgstr "Sortuj wg URL"
+
+msgid "Sort by repeat"
+msgstr "Sortuj wg powtórzeń"
+
+msgid "Sort by priority"
+msgstr "Sortuj według ważności"
+
+msgid "Sort by status"
+msgstr "Sortuj według statusu"
+
+msgid "Sort by create time"
+msgstr "Sortuj według czasu utworzenia"
+
+msgid "Sort by modify time"
+msgstr "Sortuj według czasu modyfikacji"
+
+msgid "Sort by start time"
+msgstr "Sortuj według czasu rozpoczęcia"
+
+msgid "Start time"
+msgstr "Czas rozpoczęcia"
+
+msgid "End time"
+msgstr "Czas zakończenia"
+
+msgid "Summary"
+msgstr "Opis"
+
+msgid "Location"
+msgstr "Lokalizacja"
+
+msgid "Url"
+msgstr "Adres Url"
+
+msgid "Create time"
+msgstr "Czas utworzenia"
+
+msgid "Modify time"
+msgstr "Czas modyfikacji"
+
+msgid "Reverse sorting"
+msgstr "Odwróć sortowanie"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "Ogółem: %i (Wybrane: %i)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr ""
+"Otwarcie wielu elementów do edycji może zająć dużo czasu. Czy jesteś pewien, "
+"że chcesz to zrobić?"
+
+msgid "Do you want to delete the selected item?"
+msgstr "Czy chcesz usunąć wybraną pozycję?"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "Czy chcesz usunąć wybrane pozycje ( %i ) ?"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr ""
+"Wybrany element jest przeznaczony tylko o odczytu i nie może byś usunięty."
+
+msgid "There were %i read only items which were not deleted."
+msgstr ""
+"Wśród wybranych elementów jest %i przeznaczonych tylko do odczytu i nie moga "
+"być usunięte."
+
+msgid "Unable to delete some items."
+msgstr "Nie można usunąć kilku elementów."
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "Wybierz kalendarz do którego chcesz skopiować pozycje:"
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "Wybierz kalendarz do którego chcesz przenieść pozycje:"
+
+msgid "Operation failed!"
+msgstr "Operacja zakończyła się niepowodzeniem!"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr ""
+"Nie ma dostępnych żadnych  kalendarzy, które mogłyby przechowywać ten "
+"element."
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"Przenoszenie pozycji do kalendarza online jest niebezpieczne. Jeśli "
+"kalendarz docelowy\n"
+"nie zapisuje pozycji z powodów problemów z siecią lub z innych powodów \n"
+"starcisz wszystkie przeniesione pozycje.\n"
+"\n"
+"Kliknij \"Tak\" jeśli wiesz co robisz."
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "Przenieś %i pozycje do tych kalendarzy:\n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "Kopiuj %i pozycje do tych kalendarzy:\n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"Ważne! Kopiowanie pozycji do kalendarza online zajmuje trochę czasu, więc "
+"nie będą one dostępne przez jakiś czas."
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr ""
+"Niektóre pozycje zostały ustawione jako tylko do odczytu i zostały "
+"skopiowane zamiast przeniesione."
+
+msgid "Operation finished!"
+msgstr "Operacja zakończona!"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "Musisz wybrać conajmniej jeden kalendarz dla wydarzeń."
+
+msgid "Backup was successful."
+msgstr "Wykonanie kopii zapasowej zakończyło się pomyślnie."
+
+msgid "The backup contains these files:"
+msgstr "Kopia zapasowa zawiera pliki:"
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"Ostrzeżenie! Kopia zapasowa nie zawiera żadnych plików iCalendar. Jeśli "
+"posiadasz jakieś lokalnie przechowywane wydarzenia lub zadania, musisz "
+"wykonać ich kopię zapasową ręcznie."
+
+msgid "Unable to create the backup file."
+msgstr "Nie można utworzyć pliku kopii zapasowej."
+
+msgid "The archive contains unknown files:\n"
+msgstr "Archiwum zawiera nieznane pliki:\n"
+
+msgid "Restore was successful."
+msgstr "Przywracanie zakończyło się sukcesem."
+
+msgid "There were problems during the restore."
+msgstr "Były problemy podczas przywracania."
+
+msgid "Exported %i events successfully."
+msgstr "Pomyślnie wyeksportowano %i wydarzeń."
+
+msgid "Exported %i todo items successfully."
+msgstr "Pomyślnie wyeksportowano %i zadań."
+
+msgid "Export failed!"
+msgstr "Eksportowanie zakończyło się niepowodzeniem!"
+
+msgid "Import failed!"
+msgstr "Importowanie zakończyło się niepowodzeniem!"
+
+msgid "Options"
+msgstr "Opcje"
+
+msgid "Skins"
+msgstr "Skórki"
+
+msgid "Hotkeys"
+msgstr "Skróty klawiaturowe"
+
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+msgid "Reset all settings"
+msgstr "Przywróć ustawienia domyślne"
+
+msgid "Reset offline copy"
+msgstr "Resetuj kopię lokalną"
+
+msgid "Authenticate"
+msgstr "Uwierzytelnianie"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Get more languages..."
+msgstr "Pobierz więcej języków..."
+
+msgid "On Top"
+msgstr "Na wierzchu"
+
+msgid "On Bottom"
+msgstr "Na spodzie"
+
+msgid "On Desktop"
+msgstr "Na pulpicie"
+
+msgid "Get more skins..."
+msgstr "Pobierz więcej skórek..."
+
+msgid "TrayIcon"
+msgstr "Ikona w tray'u"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Homepage"
+msgstr "Strona domowa"
+
+msgid "Addons"
+msgstr "Dodatki"
+
+msgid "Version history"
+msgstr "Historia wersji"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr ""
+"To skórka przystosowana do poprzedniej wersji Rainlendar. Niektóre z funkcji "
+"mogą nie być wspierane."
+
+msgid "Advanced >>>"
+msgstr "Zaawansowane >>>"
+
+msgid "<<< Simple"
+msgstr "<<<Podstawowe"
+
+msgid "Open containing folder"
+msgstr "Otwórz folder zawierajacy"
+
+msgid "Custom categories are not supported."
+msgstr "Własne kategorie nie są obsługiwane."
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr ""
+"Skórka \"%s\" nie obsługuje wyglądu własnych kategorii, więc nie można ich "
+"edytować."
+
+msgid "Activate only default windows?"
+msgstr "Aktywować tylko domyślne okno?"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr "Czy chcesz aktywować tylko domyślne okno czy wszystkie okna?"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr "Aktywacja wszystkich okien może zmniejszyć wydajność."
+
+msgid "&Default"
+msgstr "&Domyślny"
+
+msgid "&All"
+msgstr "&Wszystko"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"Aktywuj pole edycji i naciśnij kombinację klawiszy skrótu. Uwaga, klawisze "
+"skrótu są globalne i będą miały wpływ na inne aplikacje, dlatego należy "
+"wybrać specyficzną kombinację klawiszy."
+
+msgid "Hotkey"
+msgstr "Skrót"
+
+msgid "Function"
+msgstr "Funkcja"
+
+msgid "Search:"
+msgstr "Szukaj:"
+
+msgid "Do you want to reset all settings?"
+msgstr "Czy chcesz przywrócić wszystkie ustawienia?"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"Ustawienia zostaną przywrócone do wartości domyślnych. Ustawienia domyślne "
+"zostaną zastosowane natychmiast. Czy chcesz kontynuować?"
+
+msgid "Common"
+msgstr "Wspólne"
+
+msgid "Enabled"
+msgstr "Włączony"
+
+msgid "Read only"
+msgstr "Tylko do odczytu"
+
+msgid "Ignore alarms"
+msgstr "Ignoruj alarmy"
+
+msgid "Default alarm (minutes)"
+msgstr "Domyślny alarm (minuty)"
+
+msgid "Visual category"
+msgstr "Kategoria"
+
+msgid "Time offset (mins)"
+msgstr "Przesunięcie czasowe (minuty)"
+
+msgid "Time zone"
+msgstr "Strefa czasowa"
+
+msgid "Copy of %s"
+msgstr "Kopia z %s"
+
+msgid "Please enter a name for the calendar."
+msgstr "Proszę wpisać nazwę dla kalendarza."
+
+msgid "Illegal character!"
+msgstr "Niedozwolony znak!"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "Użycie znaków '/' lub ';' w nazwie jest niedozwolnoe."
+
+msgid "A calendar called \"%s\" already exists."
+msgstr "Kalendarz o nazwie \"%s\" już istnieje."
+
+msgid "Choose another name."
+msgstr "Wybierz inną nazwę."
+
+msgid "Authentication failure"
+msgstr "Uwierzytelnianie nie powiodło się"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr ""
+"Proces autoryzacji (OAuth) nie powiódł się. Rainlendar nie może uzyskać "
+"dostępu do danych kalendarza."
+
+msgid "Do you want to delete the skin?"
+msgstr "Czy chcesz usunąć tę skórkę?"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"Jeżeli wybierzesz Tak, skórka \"%s\"\n"
+"zostanie bezpowrotnie usunięta."
+
+msgid "Delete failed!"
+msgstr "Usunięcie się nie powiodło!"
+
+msgid "Unable to delete the skin."
+msgstr "Nie można usunąć skórki."
+
+msgid "Print"
+msgstr "Drukuj"
+
+msgid "Print items"
+msgstr "Wydrukuj pozycje"
+
+msgid "End"
+msgstr "Koniec"
+
+msgid "Settings"
+msgstr "Ustawienia"
+
+msgid "Variables"
+msgstr "Zmienne"
+
+msgid "Window settings"
+msgstr "Ustawienia okna"
+
+msgid "Settings can be shown only for a single window."
+msgstr "Ustawienia mogą byc pokazane tylko dla pojedynczego okna."
+
+msgid "No settings available."
+msgstr "Brak dostępnych ustawień."
+
+msgid "Global variables"
+msgstr "Globalne zmienne"
+
+msgid "Grow upwards"
+msgstr "Sortój rosnąco"
+
+msgid "Window position"
+msgstr "Pozycja okna"
+
+msgid "Disabled"
+msgstr "Wyłączony"
+
+msgid "Click through"
+msgstr "Klikanie przez okno"
+
+msgid "Scale"
+msgstr "Skala"
+
+msgid "Filters"
+msgstr "Filtry"
+
+msgid "Included calendars"
+msgstr "Załączone kalendarze"
+
+msgid "Excluded calendars"
+msgstr "Wykluczone kalendarze"
+
+msgid "Included categories"
+msgstr "Widoczne kategorie"
+
+msgid "Excluded categories"
+msgstr "Wykluczone kategorie"
+
+msgid "Task list"
+msgstr "Lista zadań"
+
+msgid "Alphabetically"
+msgstr "Alfabetycznie"
+
+msgid "By Category"
+msgstr "Według kategorii"
+
+msgid "By Due Date"
+msgstr "Według daty"
+
+msgid "By Start Date"
+msgstr "Według czasu rozpoczęcia"
+
+msgid "By Status"
+msgstr "Według statusu"
+
+msgid "By Priority"
+msgstr "Według priorytetu"
+
+msgid "By Location"
+msgstr "Według lokalizacji"
+
+msgid "By Calendar"
+msgstr "Według kalendarza"
+
+msgid "Custom"
+msgstr "Użytkownika"
+
+msgid "Primary sort order"
+msgstr "Podstawowa kolejność sortowania"
+
+msgid "Secondary sort order"
+msgstr "Dodatkowy porządek sortowania"
+
+msgid "Reverse primary sorting"
+msgstr "Odwróć sortowanie główne"
+
+msgid "Reverse secondary sorting"
+msgstr "Odwróć sortowanie drugorzędne"
+
+msgid "Empty at top"
+msgstr "Puste od góry"
+
+msgid "Hide completed tasks"
+msgstr "Ukryj zakończone zadania"
+
+msgid "Hide canceled tasks"
+msgstr "Ukryj anulowane zadania"
+
+msgid "Hide upcoming tasks"
+msgstr "Ukryj nadchodzące zadania"
+
+msgid "Event list"
+msgstr "Lista wydarzeń"
+
+msgid "Show empty days"
+msgstr "Pokaż puste dni"
+
+msgid "Window variables"
+msgstr "Zmienne okna"
+
+msgid "Appearance"
+msgstr "Wygląd"
+
+msgid "Operations"
+msgstr "Operacje"
+
+msgid "Left click"
+msgstr "Kliknięcie lewym klawiszem myszy"
+
+msgid "Right click"
+msgstr "Kliknięcie prawym klawiszem myszy"
+
+msgid "Double left click"
+msgstr "Podwójne kliknięcie lewym klawiszem myszy"
+
+msgid "Double right click"
+msgstr "Podwójne kliknięcie prawym klawiszem myszy"
+
+msgid "Local"
+msgstr "Lokalnie"
+
+msgid "Task"
+msgstr "Lista zadań"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr "Termin powinien być ustawiony przed zdefiniowaniem powtarzania."
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "Termin wykonania nie może być wcześniejszy niż czas rozpoczęcia."
+
+msgid "Unable to add new alarm!"
+msgstr "Nie można dodać nowego alarmu!"
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr "Termin powinien być określony dla zadania przed alarmami."
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "Uaktualnij do wersji Pro przed instalacją licencji."
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"Wciąż używasz wersji Lite, która nie obejmuje funkcji Pro. Musisz przejść do "
+"Rainlendar'a na stronie i pobrać wersję Pro."
+
+msgid "&Get Pro"
+msgstr "&Pobierz Pro"
+
+msgid "&Ignore"
+msgstr "&Pomiń"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"Jeśli ściągnąłeś(aś) plik .r2skin lub .r2lang i twoja przeglądarka\n"
+"zmieniła rozszerzenie na .zip, możesz zmienić nazwę\n"
+"pliku spowrotem na taką jaka była i zaimportować ponownie."
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Archiwa zip nie mogą być zaimportowane do Rainlendar'a."
+
+msgid "Unknown file \"%s\"."
+msgstr "Nierozpoznany plik \"%s\"."
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "Plik nie może zostać zaimportowany."
+
+msgid "Installation failed!"
+msgstr "Instalacja nie powiodła się!"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Nie można skopiować pliku. Plik źródłowy jest taki sam jak docelowy."
+
+msgid "Unable to install the file \"%s\"."
+msgstr "Nie można zainstalować pliku \"%s\"."
+
+msgid "The folder does not have write permissions."
+msgstr "Folder nie ma uprawnień do zapisu."
+
+msgid "The skin %s doesn't exist."
+msgstr "Skórka %s nie istnieje."
+
+msgid "Unable to merge the addon."
+msgstr "Nie można połączyć dodatku."
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"Plik \"%s\" już istnieje.\n"
+"Czy chcesz go zamienić?"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Powyższy plik istnieje. Czy chcesz go nadpisać ?"
+
+msgid "Unable to install the skin!"
+msgstr "Nie można zainstalować skórki!"
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"Skórka nie zawiera pliku \"skin.xml\". Jesteś pewny/a, że jest to format xml "
+"skórki Rainlendar'a?"
+
+msgid "The installation was successful!"
+msgstr "Instalacja powiodła się!"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "Instalacja %s powiodła się..."
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr "Odśwież lub zrestartuj Rainlendar'a aby zobaczyć zmiany."
+
+msgid "&Refresh"
+msgstr "&Odśwież"
+
+msgid "The installation failed!"
+msgstr "Instalacja nie powiodła się!"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr "Instalacja %s nie powiodła się!"
+
+msgid "Select the calendar for the imported items:"
+msgstr "Wybierz kalendarz dla zaimportowanych pozycji:"
+
+msgid "There are no calendars available that are able to store the item."
+msgstr ""
+"Nie ma dostępnych żadnych  kalendarzy, które mogłyby przechowywać ten "
+"element."
+
+msgid "Imported %i items successfully."
+msgstr "Zaimportowano pomyślnie %i pozycji."
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Musisz wybrać co najmniej jeden kalendarz dla zaimportowanych wydarzeń"
+
+msgid "Version mismatch!"
+msgstr "Niezgodność wersji!"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr ""
+"Ten dodatek do skóry przeznaczony jest dla wersji %s.\n"
+"Zainstalowana wersja to %s."
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "Czy chcesz kontynuować? (Skóra może zostać uszkodzona)"
+
+msgid "&Continue"
+msgstr "&Kontynuuj"
+
+msgid "Ca&ncel"
+msgstr "&Anuluj"
+
+msgid "Failed to install \"%s\"."
+msgstr "Nie można zainstalować pliku \"%s\"."
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"Dodatek do skórki został już użyty.\n"
+"Możesz użyć tego samego dodatku tylko raz."
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr ""
+"Utworzenie tymczasowego folderu do połączenia dodatku nie powiodło się."
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Back"
+msgstr "Wstecz"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Return"
+msgstr "Pwrót"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Space"
+msgstr "Spacja"
+
+msgid "Page Up"
+msgstr "Strona w górę"
+
+msgid "Page Down"
+msgstr "Strona w dół"
+
+msgid "Insert"
+msgstr "Wstaw"
+
+msgid "NumLock"
+msgstr "NumLock"
+
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+msgid "Edit \"%s\""
+msgstr "Edytuj \"%s\""
+
+msgid "Delete all"
+msgstr "Usuń wszystko"
+
+msgid "Dismiss alarm"
+msgstr "Odrzuć alarm"
+
+msgid "Tomorrow"
+msgstr "Jutro"
+
+msgid "Yesterday"
+msgstr "Wczoraj"
+
+msgid "Last %1"
+msgstr "Ostatni %1"
+
+msgid "%1 next week"
+msgstr "%1 następny tydzień"
+
+msgid "%1 last week"
+msgstr "%1 poprzedni tydzień"
+
+msgid "%1 %2 weeks ago"
+msgstr "%1 %2 tygodni temu"
+
+msgid "%1 in %2 weeks"
+msgstr "%1 za %2 tygodnie"
+
+msgid " (Due in %s)"
+msgstr " (Mija w %s)"
+
+msgid " (Overdue %s)"
+msgstr " (Zaległy %s)"
+
+msgid "day"
+msgstr "dzień"
+
+msgid "days"
+msgstr "dni"
+
+msgid "hour"
+msgstr "godzina"
+
+msgid "hours"
+msgstr "godziny"
+
+msgid "minute"
+msgstr "minuta"
+
+msgid "minutes"
+msgstr "minuty"
+
+msgid " (Due now)"
+msgstr " (Do teraz)"
+
+msgid "before target"
+msgstr "przed docelowym"
+
+msgid "Snooze"
+msgstr "Drzemka"
+
+msgid "Dismiss"
+msgstr "Odrzuć"
+
+msgid "Edit..."
+msgstr "Edytuj..."
+
+msgid "Move to next day"
+msgstr "Przenieś na następny dzień"
+
+msgid " (%i days)"
+msgstr " (%i dni)"
+
+msgid "Edit event"
+msgstr "Edytuj wydarzenie"
+
+msgid "Delete event"
+msgstr "Usuń wydarzenie"
+
+msgid "[Due %x]"
+msgstr "[Do %x]"
+
+msgid "No location"
+msgstr "Bez lokalizacji"
+
+msgid "No category"
+msgstr "Bez kategorii"
+
+msgid "No due date"
+msgstr "Nie według daty"
+
+msgid "No start date"
+msgstr "Bez czasu rozpoczęcia"
+
+msgid "High Priority"
+msgstr "Wysoki Priorytet"
+
+msgid "Medium Priority"
+msgstr "Średni Priorytet"
+
+msgid "Low Priority"
+msgstr "Niski Priorytet"
+
+msgid "No Priority"
+msgstr "Brak Priorytetu"
+
+msgid "Medium"
+msgstr "Średni"
+
+msgid "Expand"
+msgstr "Rozbudowa"
+
+msgid "Collapse"
+msgstr "Błąd"
+
+msgid "New subtask"
+msgstr "Nowe zadanie"
+
+msgid "Edit task"
+msgstr "Edytuj zadanie"
+
+msgid "Delete task"
+msgstr "Usuń zadanie"
+
+msgid "Todo list"
+msgstr "Lista zadań"
+
+msgid "Completed to now"
+msgstr "Zakończone do teraz"
+
+msgid "No events today."
+msgstr "Dziś brak wydarzeń."
+
+msgid "Today's events:"
+msgstr "Dzisiejsze wydarzenia:"
+
+msgid "Invalid plugins found!"
+msgstr "Znaleziono błędną wtyczkę!"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"Następujące pliki w folderze wtyczek Rainlendar'a\n"
+"są błędne i powinny zostać usunięte:\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"Upewnij się, że wszystkie wtyczki pochodzą z tej samej wersji Rainlendar'a."
+
+msgid "allow multiple instances"
+msgstr "zezwól na wielokrotne przykłady"
+
+msgid "install a skin or a language"
+msgstr "zainstaluj skórkę lub tłumaczenie"
+
+msgid "import the given file"
+msgstr "importuj wybrany plik"
+
+msgid "path where the configuration file will be stored"
+msgstr "ścieżka przechowywania pliku konfiguracji"
+
+msgid "execute the given function in a script"
+msgstr "wykonaj wybraną funkcję w skrypcie"
+
+msgid "path where the log file will be stored"
+msgstr "ścieżka przechowywania pliku logu"
+
+msgid "path where the backups will be stored"
+msgstr "ścieżka przechowywania kopii zapasowych"
+
+msgid "add event or task to the calendar"
+msgstr "dodaj zadanie lub wydarzenie do kalendarza"
+
+msgid "enable verbose logging"
+msgstr "włącz aktywne logowanie"
+
+msgid "enable debug logging"
+msgstr "włącz logowanie debugowania"
+
+msgid "disable all logging"
+msgstr "wyłącz wszelkie logowanie"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr "nie pokazuj okna wiadomości po zaimportowaniu i instalacji plików"
+
+msgid "Do you want to start another instance?"
+msgstr "Czy chcesz uruchomić inny przykład?"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"Wygląda na to, że Rainlendar jest już uruchomiony. Możesz rozpocząć kolejny "
+"przykład poprzez wybranie opcji 'Tak'."
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"Jeśli to nie jest przyczyną i wyskakuje pytanie przy każdym uruchomieniu "
+"Rainlendar'a, usuń ten plik:\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Nie było możliwe załadowanie zasobów ze ścieżki:\n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "Zauważ, że wydarzenia i zadania pozostaną bez zmian."
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"Brak pliku ustawień lub jest on pusty.\n"
+"Czy chcesz go przywrócić z ostatniej kopii?"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Nie można utworzyć pliku konfiguracji:\n"
+"\n"
+"%s\n"
+"\n"
+"Upewnij się, że masz prawo zapisu."
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"Nie można utworzyć pliku konfiguracji:\n"
+"\n"
+"%s\n"
+"\n"
+"Upewnij się, że masz prawo zapisu."
+
+msgid "You won't be able to store any settings permanently."
+msgstr "Nie będziesz mógł(mogła) przechowywać wszelkich ustawień na stałe."
+
+msgid "This is a BETA version."
+msgstr "To jest wersja BETA."
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"Używasz obecnia wersję BETA Rainlandar. Oznacza to, że oprogramowanie nie "
+"jest do końca sprawdzone i nie jest przeznaczone do codziennego używania. \n"
+"\n"
+"Jeśli wykryjesz błędy, napisz o tym na forum www.rainlendar.net. \n"
+"\n"
+"(Ta wiadomość pojawi się tylko raz)"
+
+msgid "Google Calendar support has been changed"
+msgstr "Zmieniono wsparcie dla Kalendarza Google"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"Wsparcie Kalendarza Google używa innego typu kalendarza. Aby pokazać "
+"zdarzenia Google ponownie, musisz utworzyć nowy kalendarz i wybrać typ "
+"'Kalendarz Google (v3)'."
+
+msgid "Everything is hidden."
+msgstr "Wszystko jest ukryte."
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"Wygląda na to, że wszystkie okna i ikona w tray'u zostały ukryte. Czy to "
+"było twoim zamiarem?\n"
+"\n"
+"Wybierz 'Tak' jeśli chcesz zachować wszystko ukryte i nie widzieć nigdy "
+"więcej tego komunikatu. Wybierz 'Nie' aby przywrócić widoczność wszystkich "
+"okien."
+
+msgid "Startup error!"
+msgstr "Błąd uruchomienia!"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"Rainlendar nie był w stanie poprawnie odświeżyć ustawień. Czy chcesz "
+"przywrócić ustawienia do wartości domyślnych i spróbować ponownie czy "
+"skorzystać z kopii zapasowej?"
+
+msgid "&Reset"
+msgstr "&Przywróć"
+
+msgid "&Use backup"
+msgstr "&Użyj kopii bezpieczeństwa"
+
+msgid "&Keep"
+msgstr "&Zachowaj"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Nie ma skórki w ścieżce:\n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"Rainlendar nie był w stanie załadować wybranej skórki. Czy w zamian chcesz "
+"użyć skórki domyślnej?"
+
+msgid "Unable to load the skin!"
+msgstr "Nie można zainstalować skórki!"
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr ""
+"Wybrana skórka nie może być załadowana. Więcej szczegółów znajdziesz w logu "
+"Rainlendar."
+
+msgid "&Ok"
+msgstr "OK"
+
+msgid "&Show log"
+msgstr "Pokaż dziennik zdarzeń"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr ""
+"Plik licencji pusty"
+"Pamiętaj, aby użyć pełnego adresu URL podczas pobierania pliku licencji"
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"Licencja jest nieważna."
+"Przekroczono liczbę pobrań licencji"
+"Skontaktuj się z pomocą techniczną Rainlendar, aby uzyskać więcej informacji"
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"Plik licencji nie ma prawidłowego formatu"
+"Upewnij się, że używasz poprawnego pliku licencji"
+"Możesz także spróbować pobrać plik ponownie, jeśli błąd będzie się powtarzał"
+
+msgid "Skin error!"
+msgstr "Błąd skórki!"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"Okno \"Dużego Kalendarza\" w skórce Shadow4 zostało zastąpione opcją \"Duży"
+"\" dla domyślnego okna \"Kalendarza\". Kliknij OK aby zresetować skórkę."
+
+msgid "Use large default skin?"
+msgstr "Użyć dużą domyślną skórę?"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"Domyślne wartości mogą być zbyt małe do Twoich ustawień rozdzielczości. Czy "
+"chcesz użyć większej czcionki i okien?"
+
+msgid "&Large"
+msgstr "&Duży"
+
+msgid "&Small"
+msgstr "&Mały"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Znaleziono następujące pliki z poprzedniej wersji Rainlandar'a:\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "Czy chcesz je zaimportować?"
+
+msgid "Import failed with file: \"%s\""
+msgstr "Import nie powiódł się dla pliku: \"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "Zakupić Rainlendar2 Pro?"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"Mam nadzieję, że podobała Ci się praca z Rainlendarem. Czy chcesz dokonać "
+"aktualizacji do wersji Pro z dodatkowymi funkcjami? Jeśli użyjesz linku "
+"\"Kup teraz \" poniżej, możesz kupić licencję w obniżonej cenie. Możesz "
+"także nacisnąć przycisk \"Nie, dziękuję \" i nigdy nie zobaczysz tego "
+"komunikatu ponownie.\n"
+"\n"
+"Dziękuję za wsparcie."
+
+msgid "&Buy Now"
+msgstr "&Kup Teraz"
+
+msgid "&Remind later"
+msgstr "&Przypomnij później"
+
+msgid "&No Thanks"
+msgstr "&Nie, Dzięki"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Update"
+msgstr "Aktualizuj"
+
+msgid "Make a selection:"
+msgstr "Dokonaj wyboru:"
+
+msgid "Hide Windows"
+msgstr "Ukryj okna"
+
+msgid "Show Windows"
+msgstr "Pokaż okna"
+
+msgid "Toggle Windows"
+msgstr "Przęłącz okna"
+
+msgid "Toggle Today Window"
+msgstr "Przełącz okno dnia dzisiejszego"
+
+msgid "Create New Task"
+msgstr "Utwórz nowe zadanie"
+
+msgid "Create New Event"
+msgstr "Utwórz nowe Wydarzenie"
+
+msgid "Create new event or task"
+msgstr "Utwórz nowe Wydarzenie lub Zadanie"
+
+msgid "Quit Application"
+msgstr "Zamknij Aplikacje"
+
+msgid "Business"
+msgstr "Interesy"
+
+msgid "Calls"
+msgstr "Telefony"
+
+msgid "Clients"
+msgstr "Klienci"
+
+msgid "Competition"
+msgstr "Współzawodnictwo"
+
+msgid "Customer"
+msgstr "Klient"
+
+msgid "Exam"
+msgstr "Egzamin"
+
+msgid "Favorites"
+msgstr "Ulubione"
+
+msgid "Follow Up"
+msgstr "Badanie"
+
+msgid "Gifts"
+msgstr "Prezenty"
+
+msgid "Holidays"
+msgstr "Święta"
+
+msgid "Ideas"
+msgstr "Pomysły"
+
+msgid "Important"
+msgstr "Ważne"
+
+msgid "Issues"
+msgstr "Problemy"
+
+msgid "Miscellaneous"
+msgstr "Różne"
+
+msgid "Personal"
+msgstr "Osobiste"
+
+msgid "Projects"
+msgstr "Projekty"
+
+msgid "Public Holiday"
+msgstr "Święta państwowe"
+
+msgid "Suppliers"
+msgstr "Dostawcy"
+
+msgid "Travel"
+msgstr "Podróż"
+
+msgid "Trip"
+msgstr "Wycieczka"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Vacation"
+msgstr "Wakacje"
+
+msgid "Work"
+msgstr "Praca"
+
+msgid "Medical"
+msgstr "Lekarz"
+
+msgid "Urgent"
+msgstr "Pilne"
+
+msgid "Health"
+msgstr "Zdrowie"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Game"
+msgstr "Gra"
+
+msgid "School"
+msgstr "Szkoła"
+
+msgid "Party"
+msgstr "Impreza"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "Car"
+msgstr "Samochód"
+
+msgid "Payments"
+msgstr "Płatności"
+
+msgid "Money"
+msgstr "Pieniądze"
+
+msgid "Pets"
+msgstr "Zwierzęta"
+
+msgid "Theatre"
+msgstr "Teatr"
+
+msgid "Music"
+msgstr "Muzyka"
+
+msgid "[Black]"
+msgstr "[Czarny]"
+
+msgid "[Blue]"
+msgstr "[Niebieski]"
+
+msgid "[Brown]"
+msgstr "[Brązowy]"
+
+msgid "[Cyan]"
+msgstr "[Niebieskozielony]"
+
+msgid "[Green]"
+msgstr "[Zielony]"
+
+msgid "[Grey]"
+msgstr "[Szary]"
+
+msgid "[Magenta]"
+msgstr "[Purpurowy]"
+
+msgid "[Pink]"
+msgstr "[Różowy]"
+
+msgid "[Red]"
+msgstr "[Czerwony]"
+
+msgid "[Yellow]"
+msgstr "[Żółty]"
+
+msgid "[Orange]"
+msgstr "[Pomarańczowy]"
+
+msgid "Must Attend"
+msgstr "Wymagany"
+
+msgid "Travel Required"
+msgstr "Podróż wymagana"
+
+msgid "Needs Preparation"
+msgstr "Wymaga przygotowania"
+
+msgid "Phone Call"
+msgstr "Rozmowa telefoniczna"
+
+msgid "iCalendar Format"
+msgstr "Format iCalendar"
+
+msgid "Network Shared Calendar"
+msgstr "Kalendarz udostępniony przez sieć"
+
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+msgid "Rainlendar Ini Format"
+msgstr "Format Ini Rainlendar'a"
+
+msgid "Google Calendar"
+msgstr "Kalendarz Google"
+
+msgid "CalDAV Calendar"
+msgstr "Kalendarz CalDAV"
+
+msgid "Google Calendar (v3)"
+msgstr "Kalendarz Google (v3)"
+
+msgid "Google Tasks"
+msgstr "Zadania Google"
+
+msgid "Comma Separated Values"
+msgstr "Wartości oddzielone przecinkami (*.csv)|*.csv"
+
+msgid "&Next >"
+msgstr "&Dalej >"
+
+msgid "< &Back"
+msgstr "< &Wstecz"
+
+msgid "&Finish"
+msgstr "&Zakończ"
+
+msgid "Vertical Calendar"
+msgstr "Pionowy kalendarz"
+
+msgid "Year Calendar"
+msgstr "Kalendarz roczny"
+
+msgid "Sidebar"
+msgstr "Pasek boczny"
+
+msgid "DigiClock"
+msgstr "Zegar cyfrowy"
+
+msgid "Dual Calendar"
+msgstr "Podwójny kalendarz"
+
+msgid "Todo List"
+msgstr "Lista zadań"
+
+msgid "Grid Calendar"
+msgstr "Siatka kalendarza"
+
+msgid "Vertical Line Calendar"
+msgstr "Pionowy kalendarz"
+
+msgid "Horizontal Line Calendar"
+msgstr "Poziomy kalendarz"
+
+msgid "Visible month"
+msgstr "Widoczny miesiąc"
+
+msgid "Show buttons"
+msgstr "Pokaż przyciski"
+
+msgid "Show adjacent days"
+msgstr "Pokaż przyległe dni"
+
+msgid "Eventlist max height"
+msgstr "Max wysokość listy zdarzeń"
+
+msgid "Todolist max height"
+msgstr "Max wysokość listy do zrobienia"
+
+msgid "Show week numbers"
+msgstr "Pokaż numery tygodni"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Timezone"
+msgstr "Strefa czasowa"
+
+msgid "Label"
+msgstr "Etykieta"
+
+msgid "Show 3rd month"
+msgstr "Pokaż trzeci miesiąc"
+
+msgid "Show 4th month"
+msgstr "Pokaż czwarty miesiąc"
+
+msgid "Show 5th month"
+msgstr "Pokaż piąty miesiąc"
+
+msgid "Show 6th month"
+msgstr "Pokaż szósty miesiąc"
+
+msgid "Show 7th month"
+msgstr "Show 7th month"
+
+msgid "Show 8th month"
+msgstr "Pokaż ósmy miesiąc"
+
+msgid "Color"
+msgstr "Kolor"
+
+msgid "Analog Clock"
+msgstr "Zegar analogowy"
+
+msgid "Calendar List"
+msgstr "Lista kalendarzy"
+
+msgid "X count"
+msgstr "X"
+
+msgid "Y count"
+msgstr "Y"
+
+msgid "Snooze All"
+msgstr "Odłóź wszystkie"
+
+msgid "Dismiss All"
+msgstr "Odrzuć wszystko"
+
+msgid "To do"
+msgstr "Zadania"
+
+msgid "Today color"
+msgstr "Kolor dnia dzisiejszego"
+
+msgid "Today shape"
+msgstr "Kształt dnia dzisiejszego"
+
+msgid "Circle"
+msgstr "Koło"
+
+msgid "Rectangle"
+msgstr "Prostokąt"
+
+msgid "Slim circle"
+msgstr "Wąski krąg"
+
+msgid "Slim rectangle"
+msgstr "Wąski prostokąt"
+
+msgid "Red"
+msgstr "Czerwony"
+
+msgid "Orange"
+msgstr "Pomarańczowy"
+
+msgid "Yellow"
+msgstr "Żółty"
+
+msgid "Green"
+msgstr "Zielony"
+
+msgid "Cyan"
+msgstr "Niebieskozielony"
+
+msgid "Blue"
+msgstr "Niebieski"
+
+msgid "Magenta"
+msgstr "Purpurowy"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"Kontynuacja popularnej skórki Shadow3 z dodatkowymi opcjami jak wodoczność "
+"dni z następnego i poprzedniego miesiąca i oskórkowane podpowiedzi."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"Definiuje miesiąc wyświetlany przez kalendarz. Ustaw +1 dla następnego "
+"miesiąca, -1 dla poprzedniego miesiąca lub wartość od 1 do 12 aby określić "
+"żądany miesiąc."
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr "Odznacz aby ukryć przyciski poprzedniego i następnego miesiąca."
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr "Odznacz aby ukryć dni z poprzedniegi i następnego miesiąca."
+
+msgid "Defines the maximum height of the alarm."
+msgstr "Definiuje maksymalną wysokość okna alarmu."
+
+msgid "Defines the maximum height of the event list."
+msgstr "Definiuje max wysokość listy zdarzeń."
+
+msgid "Defines the maximum height of the to do list."
+msgstr "Definiuje max wysokość listy do zrobienia."
+
+msgid "Defines the width of the calendar list."
+msgstr "Ustal szerokość listy kalendarzy."
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "Odznacz aby ukryć numery tygodni na kalendarzu."
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr ""
+"Definiuje format zegara. Aby pozbyć się sekundnika użyj %H:%M or %#I:%M %p"
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"Definuje strefę czasową. Ustaw liczbę: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"Możesz także użyć wartości takich jak CET, EST, PST, A_CST, ..."
+
+msgid "Adds a label for the clock."
+msgstr "Dodaje etykietę do zegara."
+
+msgid "Defines the color of the today marker."
+msgstr "Definiuje kolor znacznika dnia dzisiejszego."
+
+msgid "Defines the shape of the today marker."
+msgstr "Definuje kształt znacznika dnia dzisiejszego."
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "Określa ile kalendarzy jest wyświetlane poziomo w oknie."
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "Określa ile kalendarzy jest wyświetlane pionowo w oknie."
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "Odznacz by ukryć nazwy dni tygodnia na kalendarzu."
+
+msgid "Week View"
+msgstr "Widok tygodniowy"
+
+msgid "Today position"
+msgstr "Pozycja dnia dzisiejszego"
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"Określa, gdzie znajduje się dzień dzisiejszy. Przy domyślnym ustawieniu 0, "
+"widok tygodniowy wyświetla kalendarz z całym tygodniem, zaś pozycja dnia "
+"dzisiejszego się zmienia. Przy ustawieniu od 1 do 7, dzień dzisiejszy jest "
+"trzymany na określonej pozycji, zaś pozostałe dni są odpowiednio ustawiane."
+
+msgid "Autoscroll"
+msgstr "Autoprzewijanie"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "Odznacz aby wyłączyć automatyczne przewijanie."
+
+msgid "Week view date format"
+msgstr "Format daty widoku tygodniowego"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr ""
+"Definiuje format daty w nagłówkach listy wydarzeń. Domyślnie jest to %#d.%#m."
+
+msgid "Week view time format"
+msgstr "Format czasu widoku tygodniowego"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"Definiuje format zegara. Domyślnie to %H:%M. Dla trybu 12-godzinowego użyj "
+"%#I %p"
+
+msgid "Time item height"
+msgstr "Wysokość pozycji czasu"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr ""
+"Definiuje wysokość pozycji jednorazowej w widoku. Wartość domyślna to 30 "
+"pixeli."
+
+msgid "Time item duration"
+msgstr "Czas trwania elementu"
+
+msgid "60 Minutes"
+msgstr "60 Minut"
+
+msgid "30 Minutes"
+msgstr "30 Minut"
+
+msgid "15 Minutes"
+msgstr "15 Minut"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr ""
+"Definiuje czas pozycji jednorazowej w widoku. Wartość domyślna to 60 minut."
+
+msgid "All day max height"
+msgstr "Maksymalna wysokość"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"Maksymalna wysokość obszaru całodniowych wydarzeń. Pasek przewijania pojawia "
+"się, gdy wydarzenia nie mieszczą się w obszarze."
+
+msgid "Event min height"
+msgstr "Minimalna wysokość listy wydarzeń"
+
+msgid "The minimum height of the event."
+msgstr "Minimalna wysokość okna wydarzeń."
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "Odznacz aby ukryć numery tygodni w widoku."
+
+msgid "Show weekdays"
+msgstr "Pokaż dni tygodnia"
+
+msgid "Day View"
+msgstr "Widok dzienny"
+
+msgid "Day view time format"
+msgstr "Format daty widoku dziennego"
+
+msgid "Day view date format"
+msgstr "Format daty w widoku dziennym"
+
+msgid "Month View"
+msgstr "Widok miesięczny"
+
+msgid "Show background"
+msgstr "Pokaż tło"
+
+msgid "Uncheck to make the background transparent."
+msgstr "Odznacz aby tło było przezroczyste."
+
+msgid "Large Calendar"
+msgstr "Duży kalendarz"
+
+msgid "Today window max height"
+msgstr "Maksymalna wysokość okna widoku dziennego"
+
+msgid "Defines the maximum height of the today window."
+msgstr "Określa maksymalną wysokość okna widoku dziennego."
+
+msgid "Today show tasks"
+msgstr "Pokaż dzisiejsze zadania"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr "Określa, czy zadania powinny być wyświetlane w oknie."
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"Skórka zawiera wiele odmian kolorów. Możesz je zmienić w ustawieniach skórki "
+"lub poprzez kliknięcie strzałki w dół na kalendarzu."
+
+msgid "Brown"
+msgstr "Brązowy"
+
+msgid "Dark"
+msgstr "Czarny"
+
+msgid "Colorless"
+msgstr "Brak koloru"
+
+msgid "Defines the color of the windows."
+msgstr "Definiuje kolor okien."
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr "Definiuje format daty w nagłówkach listy wydarzeń."
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr ""
+"Definiuje maksymalną wyskość listy wydarzeń. Wartość domyślna to 300 pixeli."
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr ""
+"Definiuje maksymalną wysokość listy zadań. Wartość domyślna to 300 pixeli."
+
+msgid "Removes the color from the windows."
+msgstr "Usuwa kolor z okien."
+
+msgid "Creates darker version of the windows."
+msgstr "Tworzy ciemniejszą wersję okien."
+
+msgid "All day"
+msgstr "Wydarzenie całodzienne"
+
+msgid "Day bar show day"
+msgstr "Pokaż dzień na pasku dnia"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr "Określa, czy numer dnia i nazwa są wyświetlane w pasku dnia."
+
+msgid "Day bar am-pm"
+msgstr "Pasek dnia AM-PM"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "Zaznacz aby pokazać czas w trybie 12-godzinnym."
+
+msgid "Bar event"
+msgstr "Pasek wydarzenia"
+
+msgid "The event color for the bars."
+msgstr "Kolor wydarzenia dla pasków."
+
+msgid "Conditions: "
+msgstr "Warunki: "
+
+msgid "Temperature: "
+msgstr "Temperatura: "
+
+msgid "Humidity: "
+msgstr "Wilgotność: "
+
+msgid "Winds: "
+msgstr "Wiatry: "
+
+msgid "Time: "
+msgstr "Czas: "
+
+msgid "Refreshing..."
+msgstr "Odświeżanie..."
+
+msgid "Downloading: "
+msgstr "Pobieranie: "
+
+msgid "Download failed!"
+msgstr "Ściąganie nie powiodło się!"
+
+msgid "Loading..."
+msgstr "Ładowanie..."
+
+msgid "Unknown result!"
+msgstr "Nieznany wynik!"
+
+msgid "Upcoming programs:"
+msgstr "Zbliżające programy:"
+
+msgid "Parsing failed!"
+msgstr "Analizowanie nie powiodło się!"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr " DNI     GODZIN  MINUT   SEKUND"
+
+msgid "Loading feed..."
+msgstr "Ładowanie zasobu..."
+
+msgid "Lo: "
+msgstr "Najniższa: "
+
+msgid "Hi: "
+msgstr "Najwyższa: "
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "Max:"
+msgstr "Maks:"
+
+msgid "Chance of precipitation: "
+msgstr "Możliwość opadów: "
+
+msgid "New moon"
+msgstr "Nowy księzyc"
+
+msgid "Waxing crescent"
+msgstr "Poszerzony"
+
+msgid "First quarter"
+msgstr "Pierwsza Faza"
+
+msgid "Waxing gibbous"
+msgstr "Poszerzony"
+
+msgid "Full moon"
+msgstr "Pełnia"
+
+msgid "Waning gibbous"
+msgstr "Rogalik"
+
+msgid "Last quarter"
+msgstr "Ostatnia Faza"
+
+msgid "Waning crescent"
+msgstr "Narastający półksiężyc"
+
+msgid "Southern hemisphere"
+msgstr "Południowa półkula"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr "Ustaw 1, aby zmienić fazy w sposób widoczny z południowej półkuli."
+
+msgid "World Time"
+msgstr "Czas Światowy"
+
+msgid "World time format"
+msgstr "Format czasu światowego"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"Definiuje format czasu. Domyślnie to %H:%M. Dla trybu 12-godzinnego użyj %#I "
+"%p"
+
+msgid "World time location 1"
+msgstr "Lokalizacja czasu światowego 1"
+
+msgid "Defines the title for the time."
+msgstr "Definiuje tytuł dla czasu."
+
+msgid "World time timezone 1"
+msgstr "Czas światowy strefa 1"
+
+msgid "World time location 2"
+msgstr "Lokalizacja czasu światowego 2"
+
+msgid "World time timezone 2"
+msgstr "Czas światowy strefa 2"
+
+msgid "World time location 3"
+msgstr "Lokalizacja czasu światowego 3"
+
+msgid "World time timezone 3"
+msgstr "Czas światowy strefa 3"
+
+msgid "World time location 4"
+msgstr "Lokalizacja czasu światowego 4"
+
+msgid "World time timezone 4"
+msgstr "Czas światowy strefa 4"
+
+msgid "Photos"
+msgstr "Zdjęcia"
+
+msgid "Weather"
+msgstr "Pogoda"
+
+msgid "Countdown"
+msgstr "Odliczanie"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Create New"
+msgstr "Utwórz nowy"
+
+msgid "Moon Phase"
+msgstr "Fazy księżyca"
+
+msgid "QuickAdd"
+msgstr "Dodaj"
+
+msgid "Translate"
+msgstr "Tłumaczenie"
+
+msgid "Text File"
+msgstr "Plik tekstowy"
+
+msgid "RSS height"
+msgstr "Wysokość RSS"
+
+msgid "Defines the maximum height of the list."
+msgstr "Definiuje max wysokość listy."
+
+msgid "RSS location"
+msgstr "Lokalizacja RSS"
+
+msgid "Location of the RSS feed."
+msgstr "Lokalizacja zasobu RSS."
+
+msgid "Weather location"
+msgstr "Lokalizacja pogody"
+
+msgid "Location of the weather feed."
+msgstr "Lokalizacja feed'a pogody."
+
+msgid "Weather city"
+msgstr "Pogoda"
+
+msgid "The city for the weather."
+msgstr "Prognoza dla miasta."
+
+msgid "Weather language"
+msgstr "Język pogody"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr "Język pogody. Użyj skrótu języka jak en, fi, ru, zh-cn, ..."
+
+msgid "Photos random"
+msgstr "Zdjęcia losowe"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr ""
+"Odznacz aby pokazać zdjęcia po kolei. Zaznacz aby pokazać je w losowej "
+"kolejności."
+
+msgid "Photos update"
+msgstr "Aktualizacja zdjęć"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr ""
+"Definiuje jak często obraz jest aktualizowany. Wartość podana jest w "
+"minutach."
+
+msgid "Photos folder"
+msgstr "Folder zdjęć"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"Określa lokalny folder, który będzie skanowany w poszukiwaniu zdjęć. Jeśli "
+"zostanie to puste, zdjęcia zostały ściągnięte z serwisu Flickr."
+
+msgid "Countdown event"
+msgstr "Odliczanie wydarzenia"
+
+msgid "The description of the event."
+msgstr "Opis wydarzenia."
+
+msgid "Countdown time"
+msgstr "Czas odliczania"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "Czas wydarzenia. Użyj formatu HH:MM:SS."
+
+msgid "Countdown date"
+msgstr "Data odliczania"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "Data wydarzenia. Użyj formatu YYYY-MM-DD."
+
+msgid "TV height"
+msgstr "Wysokość TV"
+
+msgid "Copy to clipboard"
+msgstr "Kopiuj do schowka"
+
+msgid "File path"
+msgstr "Ścieżka pliku"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "Definiuje nazwę i ścieżkę pliku wyświetlonego w oknie."
+
+msgid "No file given"
+msgstr "Nie podano pliku"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr "Idź do ustawień okna i wskaż ścieżkę do pliku tekstowego."
+
+msgid "File window full rows"
+msgstr "Całe rzędyw oknie  pliku"
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr "Zaznacz aby wyświetlić pełne wiersze. Odznaczaby linie były ucięte."
+
+msgid "File window width"
+msgstr "Szerokość okna pliku"
+
+msgid "The width of the calendar window."
+msgstr "Szerokość okna kalendarza."
+
+msgid "The height of the calendar window."
+msgstr "Wysokość okna kalendarza."
+
+msgid "Defines the width of the event list."
+msgstr "Definiuje szerokość listy wydarzeń."
+
+msgid "Defines the width of the to do list."
+msgstr "Definiuje szerokość listy do zrobienia."
+
+msgid "Defines the width of the quickadd window."
+msgstr "Definiuje szerokość okna szybkiego dodawania."
+
+msgid "Defines the width of the day view window."
+msgstr "Ustal szerokość okna widoku tygodniowego."
+
+msgid "Defines the height of the day view window."
+msgstr "Ustal wysokość okna widoku dziennego."
+
+msgid "Defines the width of the week view window."
+msgstr "Ustal szerokość okna widoku tygodniowego."
+
+msgid "Defines the height of the week view window."
+msgstr "Ustal wysokość okna widoku tygodniowego."
+
+msgid "Defines the width of the calendar window."
+msgstr "Ustal szerokość okna kalendarza."
+
+msgid "Defines the height of the calendar window."
+msgstr "Definiuje wysokość okna kalendarza."
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "alt"
+msgstr "alt"
+
+msgid "shift"
+msgstr "shift"
+
+msgid "Mark as completed"
+msgstr "Zaznacz jako zakończone"
+
+msgid "Mark as needs action"
+msgstr "Zaznacz jako wymaga działania"
+
+msgid "Recurring"
+msgstr "Powtarzanie"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Text color"
+msgstr "Kolor tekstu"
+
+msgid "Tooltip color"
+msgstr "Kolor podpowiedzi"
+
+msgid "Black"
+msgstr "Czarny"
+
+msgid "White"
+msgstr "Biały"
+
+msgid "Light grey"
+msgstr "Jasno szary"
+
+msgid "Light pink"
+msgstr "Jasno różowy"
+
+msgid "Grey"
+msgstr "Szary"
+
+msgid "Pink"
+msgstr "Różowy"
+
+msgid "Schedule background"
+msgstr "Tło harmonogramu"
+
+msgid "The background color for the day, week and month views."
+msgstr "Kolor tła dla widoku dnia, tygodnia i miesiąca."
+
+msgid "Schedule text color"
+msgstr "Kolor tekstu harmonogramu"
+
+msgid "The text color for the day, week and month views."
+msgstr "Kolortekstu dla widoku dnia, tygodnia i miesiąca."
+
+msgid "Calendar day color"
+msgstr "Kolor dnia kalendarza"
+
+msgid "Large calendar day color"
+msgstr "Kolor dni dużego kalendarza"
+
+msgid "The color for the days in the calendar."
+msgstr "Kolor dla dni w kalendarzu."
+
+msgid "Calendar day text color"
+msgstr "Kolor tekstu dnia w kalendarzau"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "Kolor numerów dni w kalendarzu."
+
+msgid "Small icon"
+msgstr "Mała ikona"
+
+msgid "The icon which is shown in the calendar."
+msgstr "Ikona która jest wyświetana w kalendarzu."
+
+msgid "Large icon"
+msgstr "Duża ikona"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "Ikona pokazywana przy wydarzeniach i liście zadań."
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "Kolor tekstu w listach i wskazówkach."
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr ""
+"Priorytet ustanawia która kategoria jest pokazana, kiedy jest więcej "
+"wydarzeń w jeden dzień."
+
+msgid "Schedule text shadow color"
+msgstr "Kolor cienia tekstu harmonogramu"
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "Kolor cienia tekstu dla widoku dni, tygodni i miesięcy."
+
+msgid "Calendar day text shadow color"
+msgstr "Kolor cienia tekstu dni w kalendarzu"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "Kolor cienia numerów dni w kalendarzu."
+
+msgid "Text shadow color"
+msgstr "Kolor cienia tekstu"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "Kolor cienia tekstu w listach i wskazówkach."
+
+msgid "Show date"
+msgstr "Pokaż datę"
+
+msgid "Check to show also the current date."
+msgstr "Zaznacz, aby zobaczyć także aktualną datę."
+
+msgid "This defines the format of the time."
+msgstr "Okresla format czasu."
+
+msgid "This defines the format of the date."
+msgstr "Określa format daty."
+
+msgid "Search"
+msgstr "Szukaj"
+
+msgid "Search engine"
+msgstr "Wyszukiwarka"
+
+msgid "Choose the search engine"
+msgstr "Wybierz z wyszukiwarki"
+
+msgid "Enter search text"
+msgstr "Wpisz szukany tekst"
+
+msgid "Show title"
+msgstr "Pokaż tytuł"
+
+msgid "Check to show a title text."
+msgstr "Sprawdź pokazywany tekst tytułu."
+
+msgid "Title text"
+msgstr "Tytuł"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "Określa tekst tytułu, który jest wyświetlany powyżej czasu."
+
+msgid "Weather woeid"
+msgstr "Pogoda"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "Pogoda z Yahoo WOEID."
+
+msgid "Weather celsius"
+msgstr "Stopnie Celsjusza"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "Powoduje, że temperatura jest wyświetlana w stopniach Celsjusza."
+
+msgid "Bold blue"
+msgstr "Pogrubiony niebieski"
+
+msgid "Turquoise"
+msgstr "Turkusowy"
+
+msgid "Bold green"
+msgstr "Pogrubiony zielony"
+
+msgid "Bold red"
+msgstr "Pogrubiony czerwony"
+
+msgid "Purple"
+msgstr "Purpurowy"
+
+msgid "Gray"
+msgstr "Szary"
+
+msgid "No events today"
+msgstr "Brak wydarzeń na dziś"
+
+msgid "No tasks today"
+msgstr "Brak zadań na dziś"
+
+msgid "Background opacity"
+msgstr "Nieprzezroczystość tła"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr "Definiuje przezroczystość tła okna. Użyj wartości między 0 i 100."
+
+msgid "Snooze menu"
+msgstr "Menu drzemki"
+
+msgid "Pressure: "
+msgstr "Ciśnienie: "
+
+msgid "UV index: "
+msgstr "Indeks UV: "
+
+msgid "Feels like: "
+msgstr "Odczucie: "
+
+msgid "Sunrise: "
+msgstr "Wschód słońca: "
+
+msgid "Sunset: "
+msgstr "Zachó słońca: "
+
+msgid "Tonight"
+msgstr "Dziś wieczór"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Large"
+msgstr "Duży"
+
+msgid "Use large images and more space between the items."
+msgstr "Użyj dużych obrazów oraz więcej przestrzeni pomiędzy pozycjami."
+
+msgid "Alarm max height"
+msgstr "Maksymalna wysokość"
+
+msgid "Horizontal Day Bar"
+msgstr "Poziomy pasek dnia"
+
+msgid "Vertical Day Bar"
+msgstr "Pionowy pasek dnia"
+
+msgid "Day bar show text"
+msgstr "Pokaż tekst na pasku dnia"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "Odznacz, aby ukryć teksty z wydarzeń."
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "Kolor tekstu w kalendarzu i w listach."
+
+msgid "The color of the text in the tooltip."
+msgstr "Kolor tekstu we wskazówkach."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"Definiuje miesiąc wyświetlany przez kalendarz. Ustaw +1 dla następnego "
+"miesiąca, -1 dla poprzedniego miesiąca lub wartość od 0 do 11 aby określić "
+"żądany miesiąc."
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Nie można odnaleźć aktywnych skórek.\n"
+"Kliknij OK aby załadować pierwszą aktywną skórkę."
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"Ta skórka nie posiada żadnych aktywnych okien.\n"
+"Użyto domyślnych okien."
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Plik skórki nie istnieje.\n"
+"Kilknij OK aby załadować pierwszą dostępną skórkę."
+
+msgid "No items"
+msgstr "Brak elementów"
+
+msgid "No events"
+msgstr "Brak wydarzeń"
+
+msgid "No tasks"
+msgstr "Brak zadań"
+
+msgid "Synchronizing"
+msgstr "Synchronizacja"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "today"
+msgstr "dzisiaj"
+
+msgid "tomorrow"
+msgstr "jutro"
+
+msgid "yesterday"
+msgstr "wczoraj"
+
+msgid "Jan"
+msgstr "Sty"
+
+msgid "Feb"
+msgstr "Lut"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Kwi"
+
+msgid "Jun"
+msgstr "Cze"
+
+msgid "Jul"
+msgstr "Lip"
+
+msgid "Aug"
+msgstr "Sie"
+
+msgid "Sep"
+msgstr "Wrz"
+
+msgid "Oct"
+msgstr "Paź"
+
+msgid "Nov"
+msgstr "Lis"
+
+msgid "Dec"
+msgstr "Gru"
+
+msgid "%ith"
+msgstr "%i-go"
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11-sty;12-sty;13-sty;1-szy;2-gi;3-ci"
+
+msgid "edit"
+msgstr "edytuj"
+
+msgid "Do you want to create the file?"
+msgstr "Czy chcesz utworzyć plik?"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"Plik nie istnieje:\n"
+"%s"
+
+msgid "Unable to create the file \"%s\"."
+msgstr "Nie było możliwe utworzenie pliku \"%s\"."
+
+msgid "This is a read only event."
+msgstr "To jest wydarzenie tylko do odczytu."
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "Nie była możliwa edycja tego wydarzenia w Rainlendar."
+
+msgid "This is a read only task."
+msgstr "To jest zadanie tylko do odczytu."
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "Nie można edytować tego zadania w Rainlendar."
+
+msgid "URL"
+msgstr "Adres URL"
+
+msgid "Organizer"
+msgstr "Organizator"
+
+msgid "Accepted"
+msgstr "Zaakceptowano"
+
+msgid "Declined"
+msgstr "Odrzucono"
+
+msgid "Tentative"
+msgstr "Niepewny"
+
+msgid "Needs action"
+msgstr "Wymaga działania"
+
+msgid "Create a new calendar"
+msgstr "Utwórz nowy kalendarz"
+
+msgid "Please select the type of the calendar."
+msgstr "Proszę wybrać typ kalendarza."
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr ""
+"Typ kalendarza określa format wydarzeń i miejsce gdzie są przechowywane."
+
+msgid "local"
+msgstr "lokalny"
+
+msgid "deprecated"
+msgstr "przestarzałe"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Go Pro"
+msgstr "Przejdź do Pro"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro pozwala na dostęp do programu Outlook, Kalendarza Google, "
+"innych kalendarzy i listy zadań bezpośrednio z pulpitu."
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro umożliwia dostęp do Kalendarza Google, innych kalendarzy i "
+"list zadań bezpośrednio z pulpitu."
+
+msgid "Buy license"
+msgstr "Kup licencje"
+
+msgid "See differences"
+msgstr "Pokaż różnice"
+
+msgid "No calendar selected!"
+msgstr "Nie wybrano kalendarza!"
+
+msgid "You need to select a calendar type."
+msgstr "Musisz wybrać typ kalendarza."
+
+msgid "Finish the authentication in your browser"
+msgstr "Dokończ autoryzację w Twojej przeglądarce"
+
+msgid "Authenticating..."
+msgstr "Uwierzytelnianie..."
+
+msgid "Downloading..."
+msgstr "Pobieranie..."
+
+msgid "No urls allowed!"
+msgstr "Niedozwolone Adresy URL!"
+
+msgid "Only local files can be defined as the file name."
+msgstr "Jedynie pliki lokalne mogą być zdefiniowane jako nazwa pliku."
+
+msgid "No UNC paths allowed!"
+msgstr "Brak dozwolonych ścieżek UNC!"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"Nie jest możliwe użycie ścieżek UNC jako nazwy pliku.\n"
+"Musisz zmapować dysk sieciowy, aby mieć dostęp do plików na serwerze."
+
+msgid "No filename defined!"
+msgstr "Brak zdefiniowanej nazwy pliku!"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"Nie możesz zostawić pustej nazwy pliku. Musisz zdefiniować plik gdzie "
+"wydarzenia i zadania będą zapisywane."
+
+msgid "The file name is missing."
+msgstr "Brak nazwy pliku."
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"Jeśli tworzysz nowy kalendarz musisz wpisać coś jako nazwę. Inaczej wybierz "
+"istniejący plik ICalendar (*.ics)."
+
+msgid "The url is empty!"
+msgstr "Adres Url jest pusty!"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"Nie możesz zostawić pola Adres URL pustego. Musisz zdefiniować plik gdzie "
+"wydarzenia i zadania będą zapisywane."
+
+msgid "The protocol is missing!"
+msgstr "Brak protokołu!"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "Proszę podać protokuł dla Adresu URL (np. \"http://\")."
+
+msgid "The file name is missing from the url!"
+msgstr "Brak nazwy pliku z adresu URL!"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Jeśli tworzysz nowy kalendarz musisz wpisać jakąkolwiek nazwę. W przeciwnym "
+"razie powinieneś sprawdzić, czy serwer naprawdę nie definiuje żadnego pliku "
+"dla adresu URL.\n"
+"\n"
+"Czy chcesz kontynuować?"
+
+msgid "Incorrect email!"
+msgstr "Nieprawidłowy email!"
+
+msgid "You need to enter a full email address."
+msgstr "Musisz wprowadzić pełny adres email."
+
+msgid "Please select the calendar."
+msgstr "Proszę wybrać kalendarz."
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr "Nie wybrano żadnego kalendarza. Czy na pewno chcesz kontynuować?"
+
+msgid "Name"
+msgstr "Nazwa"
+
+msgid "The calendar already exists!"
+msgstr "Kalendarz już istnieje!"
+
+msgid "Please choose some other name for the calendar."
+msgstr "Proszę podać inną nazwę dla kalendarza."
+
+msgid "The calendar name is empty!"
+msgstr "Nazwa kalendarza jest pusta!"
+
+msgid "You must give a name for the calendar."
+msgstr "Musisz nadać nazwę dla kalendarza."
+
+msgid "Alarm sound"
+msgstr "Dźwięk alarmu"
+
+msgid "Select alarm sound"
+msgstr "Wybierz dźwięk alarmu"
+
+msgid "Default sound"
+msgstr "Domyślny dźwięk"
+
+msgid "Preview"
+msgstr "Podgląd"
+
+msgid "No sound"
+msgstr "Brak dźwięku"
+
+msgid "Custom sound / executable"
+msgstr "Niestandardowy dźwięk / wykonywalny"
+
+msgid "Browse..."
+msgstr "Przeglądaj..."
+
+msgid "Bulk Change"
+msgstr "Masowa zmiana"
+
+msgid "Type:"
+msgstr "Typ:"
+
+msgid "Summary:"
+msgstr "Opis:"
+
+msgid "Location:"
+msgstr "Lokalizacja:"
+
+msgid "Url:"
+msgstr "Adres URL:"
+
+msgid "Class:"
+msgstr "Klasa:"
+
+msgid "Time type:"
+msgstr "Typ czasu:"
+
+msgid "With time"
+msgstr "Z czasem"
+
+msgid "Start time:"
+msgstr "Czas rozpoczęcia:"
+
+msgid "Absolute"
+msgstr "Całkowity"
+
+msgid "Relative"
+msgstr "Względny"
+
+msgid "Months"
+msgstr "Miesiące"
+
+msgid "Years"
+msgstr "Lata"
+
+msgid "Visibility:"
+msgstr "Widoczność:"
+
+msgid "Show in calendar"
+msgstr "Pokaż w kalendarzu"
+
+msgid "Priority:"
+msgstr "Priorytet:"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "Not Started"
+msgstr "Nie rozpoczęte"
+
+msgid "Progress:"
+msgstr "Postęp:"
+
+msgid "0 %"
+msgstr "0 %"
+
+msgid "10 %"
+msgstr "10 %"
+
+msgid "20 %"
+msgstr "20 %"
+
+msgid "30 %"
+msgstr "30 %"
+
+msgid "40 %"
+msgstr "40 %"
+
+msgid "50 %"
+msgstr "50 %"
+
+msgid "60 %"
+msgstr "60 %"
+
+msgid "70 %"
+msgstr "70 %"
+
+msgid "80 %"
+msgstr "80 %"
+
+msgid "90 %"
+msgstr "90 %"
+
+msgid "100 %"
+msgstr "100 %"
+
+msgid "Free/Busy:"
+msgstr "Wolny/Zajety:"
+
+msgid "Free"
+msgstr "Wolny"
+
+msgid "Busy"
+msgstr "Zajęty"
+
+msgid "Description:"
+msgstr "Opis:"
+
+msgid "Alarm:"
+msgstr "Alarm:"
+
+msgid "Category:"
+msgstr "Kategoria:"
+
+msgid "Recurrence:"
+msgstr "Cykl:"
+
+msgid "Repeat every"
+msgstr "Powtórz co"
+
+msgid "Weeks"
+msgstr "Tygodnie"
+
+msgid "Repeat ending"
+msgstr "Powtórz zakończenie"
+
+msgid "Forever"
+msgstr "Zawsze"
+
+msgid "Number of times"
+msgstr "Ilość powtórzeń"
+
+msgid "Until"
+msgstr "Do"
+
+msgid "Debug Window"
+msgstr "Okno debuggera"
+
+msgid "Sensitivity:"
+msgstr "Widoczność:"
+
+msgid "All day event"
+msgstr "Wydarzenie całodzienne"
+
+msgid "Mark time as busy"
+msgstr "Oznacz czas jako zajęty"
+
+msgid "Time zone:"
+msgstr "Strefa czasowa:"
+
+msgid "Calendar:"
+msgstr "Kalendarz:"
+
+msgid "Mon"
+msgstr "Pn"
+
+msgid "Tue"
+msgstr "Wt"
+
+msgid "Wed"
+msgstr "Śr"
+
+msgid "Thu"
+msgstr "Cz"
+
+msgid "Fri"
+msgstr "Pt"
+
+msgid "Sat"
+msgstr "Sb"
+
+msgid "Sun"
+msgstr "Nd"
+
+msgid "Repeat"
+msgstr "Powtórz"
+
+msgid "End after"
+msgstr "Czas zakończenia"
+
+msgid "occurrences"
+msgstr "wydarzenia"
+
+msgid "Exception dates"
+msgstr "Daty pomijane"
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "Show descriptions"
+msgstr "Pokaż opisy"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Pokaż dzisiejsze wydarzenia w tray'u, kiedy Rainlendar startuje"
+
+msgid "Hide list windows if there are no items"
+msgstr "Ukryj okna listy, gdy nie zawierają żadnych pozycji"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Klikanie przez okno (przytrzymaj klawisz Shift aby wyłączyć)"
+
+msgid "Lock windows in place"
+msgstr "Zablokuj okna w miejscu"
+
+msgid "Enable on startup"
+msgstr "Uruchom wraz z systemem"
+
+msgid "Hide from taskbar"
+msgstr "Ukryj na pasku zadań"
+
+msgid "Use Retina Resolution"
+msgstr "Użyj rozdzielczości Retina"
+
+msgid "Add years for categories"
+msgstr "Dodaj lata do kategorii"
+
+msgid "Categories..."
+msgstr "Kategorie..."
+
+msgid "Week's start day:"
+msgstr "Dzień rozpoczęcia tygodnia:"
+
+msgid "Position:"
+msgstr "Położenie:"
+
+msgid "Language:"
+msgstr "Język:"
+
+msgid "Opacity"
+msgstr "Przezroczystość"
+
+msgid "Normal:"
+msgstr "Normalny:"
+
+msgid "Mouse over:"
+msgstr "Po najechaniu kursorem:"
+
+msgid "Apply to all windows at the same time"
+msgstr "Zastosuj do wszystkich okien w tym samym czasie"
+
+msgid "Font Size"
+msgstr "Wielkość czcionki"
+
+msgid "Size:"
+msgstr "Rozmiar:"
+
+msgid "Duplicate..."
+msgstr "Duplikuj..."
+
+msgid "Action:"
+msgstr "Akcja:"
+
+msgid "Hotkey:"
+msgstr "Skrót klawiszowy:"
+
+msgid "Set"
+msgstr "Ustaw"
+
+msgid "Available skins"
+msgstr "Dostępne skórki"
+
+msgid "Active skins"
+msgstr "Aktywne skórki"
+
+msgid "Settings..."
+msgstr "Ustawienia..."
+
+msgid "All items"
+msgstr "Wszystkie pozycje"
+
+msgid "Selected items"
+msgstr "Wybrane pozycje"
+
+msgid "Day range"
+msgstr "Zakres dni"
+
+msgid "Select days"
+msgstr "Wybierz dni"
+
+msgid "Add title"
+msgstr "Dodaj tytuł"
+
+msgid "Preview..."
+msgstr "Podgląd..."
+
+msgid "Page Setup..."
+msgstr "Ustawienia strony..."
+
+msgid "Todo"
+msgstr "Do zrobienia"
+
+msgid "Date only"
+msgstr "Tylko data"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "Wartości oddzielone przecinkami (*.csv)|*.csv"
+
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+msgid "Password"
+msgstr "Hasło"
+
+msgid "Calendar name"
+msgstr "Nazwa kalendarza"
+
+msgid "Poll frequency (mins)"
+msgstr "Częstotliwość zapytań (min)"
+
+msgid "Suppress errors"
+msgstr "Nie pokazuj błędów"
+
+msgid "Keep offline copy"
+msgstr "Zachowaj kopię lokalną"
+
+msgid "Authentication"
+msgstr "Uwierzytelnianie"
+
+msgid "Basic"
+msgstr "Podstawowe"
+
+msgid "Digest"
+msgstr "Przegląd"
+
+msgid "GSS-Negotiate"
+msgstr "GSS-Negocjuj"
+
+msgid "NTLM"
+msgstr "NTLM"
+
+msgid "Support"
+msgstr "Wsparcie"
+
+msgid "Automatic"
+msgstr "Automatyczne"
+
+msgid "Both"
+msgstr "Obie"
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Wybierz adres, nazwę użytkownika i hasło dostępu do kalendarza, a następnie "
+"kliknij przycisk wyboru kalendarza.\n"
+"\n"
+"Pola zawierające nazwę użytkownika i hasło mogą pozostać puste jeśli nie są "
+"wymagane."
+
+msgid "Select Calendar"
+msgstr "Wybierz kalendarz"
+
+msgid "CalDAV Error (%s)!"
+msgstr "Błąd CalDAV (%s)!"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Błąd sieciowy!\n"
+"Błąd podczas ładowania danych do:\n"
+"%s\n"
+"\n"
+"Serwer zwrócił komunikat: (%i) %i %s."
+
+msgid "Google Error (%s)!"
+msgstr "Błąd Google (%s)!"
+
+msgid "Unable to delete the event."
+msgstr "Nie można usunąć wydarzenia."
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "Serwer zwrócił komunikat: (%i) %i %s."
+
+msgid "Unable to read the calendars from the server."
+msgstr "Nie można odczytać kalendarzy z serwera."
+
+msgid "Unable to authenticate to the server."
+msgstr "Nie można uwierzytelnić się na serwerze."
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Błąd Google!\n"
+"Nie można odnaleźć wybranego kalendarza(%s).\n"
+"\n"
+"Dostępne kalendarze:\n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "Nie można odczytać kalendarza z serwera."
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr ""
+"Uwierzytelnianie nie powiodło się. Sprawdź, czy wpisałeś poprawny login i "
+"hasło."
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr "Zweryfikuj, czy używasz specyficznego hasła dla aplikacji Rainlendar."
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr ""
+"Nie można połączyć się z serwerem. Upewnij się, że połączenie sieciowe "
+"działa."
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "Adres URL \"%s\" nie zawiera żadnych kalendarzy."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr ""
+"Błąd podczas pobierania danych z adresu url:\n"
+"%s"
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr ""
+"Proszę sprawdzić czy twoje połączenie z internetem działa prawidłowo i czy "
+"firewall nie blokuje połaczenia."
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr ""
+"Nie można sprawdzić proxy. Sprawdź czy twoje ustawienia proxy są poprawne."
+
+msgid "Unable to resolve the host."
+msgstr "Nie można nawiązać połaczenia z hostem."
+
+msgid "Unable to connect to the server."
+msgstr "Połączenie z serwerem niemożliwe."
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "Bezpieczne połączenie (SSL) do serwera nie powiodło się."
+
+msgid "FALSE"
+msgstr "FALSE"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Ignore private events"
+msgstr "Ignoruj prywatne zdarzenia"
+
+msgid "Import limit"
+msgstr "Limit importu"
+
+msgid "Everything"
+msgstr "Wszystko"
+
+msgid "Future only"
+msgstr "Tylko przyszłość"
+
+msgid "Past month"
+msgstr "Ostatni miesiąc"
+
+msgid "Past 6 months"
+msgstr "Ostatnie 6 miesięcy"
+
+msgid "Past year"
+msgstr "Ostatni rok"
+
+msgid "Past 2 years"
+msgstr "Ostatnie 2 lata"
+
+msgid "Delete notifications"
+msgstr "Pokaż potwierdzenia usuwania"
+
+msgid "External Only"
+msgstr "Tylko zewnętrzne"
+
+msgid "Future Only"
+msgstr "Tylko przyszłe"
+
+msgid "Color mapping"
+msgstr "Odwzorowanie kolorów"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"Wprowadź email i hasło do Twojego konta Google, kliknij na \"Wybierz "
+"kalendarz\" i wybierz kalendarz, do któego chcesz uzyskać dostęp."
+
+msgid "Select calendar"
+msgstr "Wybierz kalendarz"
+
+msgid "Unable to read the calendars."
+msgstr "Nie można odczytać kalendarza."
+
+msgid "Authentication failed."
+msgstr "Uwierzytelnianie nie powiodło się."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Błąd podczas logowanie do Google. \n"
+" Sprawdź czy twój email \n"
+" i hasło są poprawne."
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr ""
+"Wydarzenie nie może zostać zapisane, ponieważ kalendarz docelowy nie został "
+"zdefiniowany."
+
+msgid "Google Calendar Error (%s)!"
+msgstr "Błąd Kalendarza Google (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"Nie można uwierzytelnić połączenia z Google. Dla konta jest włączona "
+"weryfikacja dwuetapowa, więc należy utworzyć hasło dla Rainlendar'a. Można "
+"to zrobić w ustawieniach konta Google w ramach \"2-step verification\"."
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"Nie można uwierzytelnić dostępu do Google. Dostęp aplikacji Rainlendar do "
+"Kalendarza Google mógł zostać odwołany. Przejdź do Opcji -> Kalendarze i "
+"ponownie uruchom uwierzytelnianie dla kalendarza Google."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Błąd Google!\n"
+"Błąd podczas logowania do Google.\n"
+"Serwer zwrócił komunikat: (%i) %i %s."
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Błąd Google!\n"
+"Błąd podczas pobierania kalendarzy.\n"
+"Serwer zwrócił komunikat: (%i) %i %s."
+
+msgid "Unable to parse the calendar url."
+msgstr ""
+"Błąd Google!\n"
+"Błąd analizy adresu kalendarza."
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Wygląda na to, że wprowadzono adres jako nazwę kalendarza.\n"
+"Musisz użyć w zamian jedną z nazw poniżej:\n"
+
+msgid "Unable to delete the event: "
+msgstr "Nie można usunąć wydarzenia: "
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"Błąd Google!\n"
+"Wydarzenie nie może być wysłane do Kalendarza Google ze względu na konflikt. "
+"Uaktalnione wydarzenia zostaną załadowane z kalendarza Google."
+
+msgid "Unable to parse the events."
+msgstr "Nie można zanalizować wydarzeń."
+
+msgid "Unable to upload the event: "
+msgstr "Nie można przesłać wydarzenia: "
+
+msgid "Task list name"
+msgstr "Nazwa listy zadań"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"Wprowadź email i hasło do Twojego konta Google, kliknij na \"Wybierz listę "
+"zadań\" i wybierz listę zadań, do której chcesz uzyskać dostęp."
+
+msgid "Select task list"
+msgstr "Wybierz listę zadań"
+
+msgid "Unable to read the task lists."
+msgstr "Nie można odczytać listy zadań."
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr ""
+"Lista zadań nie może zostać zapisana, ponieważ docelowa lista zadań nie "
+"została zdefiniowana."
+
+msgid "Google Tasks Error (%s)!"
+msgstr "Błąd zadań Google (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"Nie można uwierzytelnić Google. Dostęp Rainlendar'a do listy zadań Google "
+"mógł zostać odwołany. Odśwież kalendarz i uwierzytelnij ponownie "
+"Rainlendar'a do konta w Google."
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Błąd Google!\n"
+"Błąd podczas pobierania list zadań.\n"
+"Serwer zwrócił komunikat: (%i) %i %s."
+
+msgid "Unable to parse the task list url."
+msgstr "Nie można zanalizować list zadań."
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Błąd Google!\n"
+"Wygląda na to, że wprowadzono adres jako nazwę kalendarza.\n"
+"Musisz użyć w zamian jedną z nazw poniżej:\n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"Błąd Google!\n"
+"Nie można odnaleźć wybranych list zadań. (%s)\n"
+"\n"
+"Dostępne listy:\n"
+
+msgid "Unable to delete the task: "
+msgstr "Nie można usunąć zadania: "
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"Błąd Google!\n"
+"Wydarzenie nie może być wysłane do Kalendarza Google ze względu na konflikt. "
+"Uaktalnione wydarzenia zostaną załadowane z kalendarza Google."
+
+msgid "Unable to upload the task: "
+msgstr "Nie można przesłać zadania: "
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Pliki Rainlendar'a (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "Bezpieczne ładowanie"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"Podaj adres, nazwę użytkownika i hasło dla kalendarza.\n"
+"\n"
+"Dopuszczalne protokoły to: http, https oraz ftp. Pola zawierające nazwę "
+"użytkownika i hasło mogą pozostać puste jeśli nie są wymagane."
+
+msgid "Network Error (%s)!"
+msgstr "Błąd Sieci (%s)!"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "Dodanie pozycji do kalendarza online było niemożliwe."
+
+msgid "Unable to remove the item from the online calendar."
+msgstr "Usunięcie pozycji z kalendarza online było niemozliwe."
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"Nie można zanalizować pliku: %s\n"
+"Plik może byc uszkodzony."
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"Serwer zwrócił pusty wynik. Sprawdź czy Adres URL Kanendarza wskazuje na "
+"plik nie na folder."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Błąd sieciowy!\n"
+"Błąd podczas pobierania danych z:\n"
+"%s\n"
+"\n"
+"Serwer zwrócił komunikat: (%i) %i %s."
+
+msgid "Downloaded event count"
+msgstr "Pobrana liczba zdarzeń"
+
+msgid "Office 365"
+msgstr "Office 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"Wprowadź adres email Twojego konta Office 365, kliknij na \"Wybierz kalendarz"
+"\" i wybierz kalendarz, do któego chcesz uzyskać dostęp."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Brak uwierzytelnienia do konta Office 365.\n"
+"Proszę zweryfikować poprawność\n"
+"adresu e-mail oraz hasła."
+
+msgid "Office365 Error (%s)!"
+msgstr "Błąd Office365 (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Brak uwierzytelnienia do konta Office 365. Dostęp do Office 365 może zostać "
+"wstrzymany. Proszę odśwież kalendarz i uwierzytelnij Rainlendar ponownie w "
+"koncie Office 365."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Brak uwierzytelnienia do konta Office 365.\n"
+"Odpowiedź serwera: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Zdarzenie nie może zostać załadowane z powodu konfliktu. Uaktualnione "
+"zdarzenie zostanie ponownie załadowane z serwera."
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"Błąd Outlooka!\n"
+"Nie można zainicjować biblioteki MAPI.\n"
+"\n"
+"Jeżeli aktualizowano Rainlendar bądź Outlooka, utwórz ponownie Outlookowski "
+"kalendarz w opcjach Rainlendara.\n"
+"\n"
+"Upewnij się ponadto. czy obie aplikacje działają w tych samych wersjach (32-"
+"bit lub 64-bit)."
+
+msgid "Application"
+msgstr "Aplikacja"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "MessageStore"
+msgstr "Baza Wiadomości"
+
+msgid "Folders"
+msgstr "Foldery"
+
+msgid "Default Folder"
+msgstr "Domyślny folder"
+
+msgid "Use labels instead of categories"
+msgstr "Użyj etykiet zamiast kategorii"
+
+msgid "Show edit links"
+msgstr "Pokaż edycję skrótów"
+
+msgid "Keep MAPI connection alive"
+msgstr "Utrzymuj połączenie MAPI"
+
+msgid "Month"
+msgstr "Miesiące"
+
+msgid "6 months"
+msgstr "6 miesięcy"
+
+msgid "Year"
+msgstr "Lata"
+
+msgid "2 years"
+msgstr "2 lata"
+
+msgid "Read birthdays from contacts"
+msgstr "Pobierz daty urodzin z kontaktów"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Wybierz magazyn danych Outlook który chciałbyś zobaczyć w Rainlendar."
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][edit]]"
+
+msgid "Outlook error!"
+msgstr "Błąd Outlook-a!"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr ""
+"Nie można odczytać elementów \"%s\" z Outlooka. Przejżyj log, aby uzyskać "
+"więcej szczegółów."
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "Aktualizacja pozycji nie powiodła się. Kod błędu 0x%p"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr ""
+"Nie udało się zapisać elementu Outlooka. Brak dostępnych folderów, gdzie "
+"może być przechowywany."
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "Nie można usunąć pozycji. Kod błędu 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "Nie można znaleźć listy zadań Remember The Milk!"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "Lista \"%s\" Nie moze być znaleziona. Dostępne listy:"
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "Proszę wpisać nazwę dokładnie tak jak to jest w liście wyżej."
+
+msgid "Unable to parse the ID from the task."
+msgstr "Nie można zanalizować ID zadania."
+
+msgid "Unable to create the task."
+msgstr "Nie można utworzyć zadania."
+
+msgid "Unable to parse the timeline."
+msgstr "Nie można zanalizować czasu."
+
+msgid "The service is temporarily unavailable."
+msgstr "Usługa jest chwilowo niedostępna."
+
+msgid "Please log in to Remember The Milk."
+msgstr "Proszę zalogować się do Remember The Milk."
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"Musisz autoryzować dostęp Rainlendar'a do konta Remember The Milk. Zaloguj "
+"się do Remember The Milk i zezwól Rainlendar'owi dostęp do twojego konta.\n"
+"\n"
+"Twoja domyśla przeglądarka otworzy się automatycznie gdy klikniesz przycisk "
+"OK."
+
+msgid "Continue after authorization."
+msgstr "Kontynuuj po autoryzacji."
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr "Kliknij OK aby kontynuować wtedy gdy autoryzowałeś Rainlendar."
+
+msgid "Unable to parse the output."
+msgstr "Nie można zanalizować wyjścia."
+
+msgid "Unknown response for call \"%s\"."
+msgstr "Nieznana odpowiedź dla funkcji \"%s\"."
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"Funkcja \"%s\" wykonała błąd:\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "Funkcja \"%s\" wykonała błąd."
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "Błąd Remember The Milk! (%s)"
+
+msgid "List"
+msgstr "Lista"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"Wybierz nazwę zadania z  Remember The Milk. Możesz zostawić pole puste, "
+"jeśli chcesz wszystkie listy."
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"Autoryzacja przebiegła z niepowodzeniem. Sprawdź czy napewno zezwoliłeś na "
+"dostęp do konta Remember The Milk."
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"Nie można odnaleźć folderu \"%s\".\n"
+"\n"
+"Dostępne foldery:"
+
+msgid "Toodledo Error (%s)!"
+msgstr "Błąd (%s)!"
+
+msgid "Folder"
+msgstr "Folder"
+
+msgid "Poll for changes"
+msgstr "Zapytaj o zmiany"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr "Wpisz swój adres e-mail i hasło do Toodledo."
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "Nie było możliwe otworzenie pliku \"%s\" do zapisu."
+
+msgid "Filename"
+msgstr "Nazwa pliku"
+
+msgid "Monitor changes"
+msgstr "Monitoruj zmiany"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"Wybierz plik dla kalendarza.\n"
+"\n"
+"Możesz wybrać istniejący plik *.ics lub podać nową ścieżkę docelową, "
+"zostanie utworzony nowy plik kalendarza o podanej nazwie."
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "Pliki iCalendar (*.ics)|*.ics|Pliki vCalendar (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr ""
+"Ścieżla do pliku kalendarza \"%s\" nie istnieje. Przejdź do Opcje-"
+">Kalendarze i zweryfikuj poprawność lokalizacji pliku."
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "Nie było możliwe utworzenie kopii tymczaswoej pliku \"%s\"."
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "Nie było możliwe zastąpienie pliku \"%s\"."
+

@@ -1,0 +1,5150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: 2022-03-21 15:40+0200\n"
+"Last-Translator: Yuki Shira <shirayuking@gmail.com>\n"
+"Language-Team: Yuki Shira\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: C:/Projects/Rainlendar2\n"
+"X-Poedit-SearchPath-0: Application\n"
+"X-Poedit-SearchPath-1: Plugins\n"
+"X-Poedit-SearchPath-2: Testbench/Debug/resources\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Rainlendarは、OAuth応答を受信するためにHTTPサーバーを起動できませんアプリケー"
+"ションのサーバーの起動を妨げるセキュリティソフトウェアがなく、同じポートで他"
+"のサービスが実行されていないことを確認します。"
+
+msgid "Server Port: "
+msgstr "サーバーポート"
+
+msgid "Failed to start HTTP server"
+msgstr "HTTPサーバーの起動に失敗しました"
+
+msgid "Choose the backup path"
+msgstr "バックアップ パスを選択"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "アーカイブ (*.zip)|*.zip"
+
+msgid "Authentication failed!"
+msgstr "認証に失敗しました！"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "認証プロセスが完了していることを確認してください"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr "カレンダーにアクセスする権限を与えます。"
+
+msgid "Authentication succeeded!"
+msgstr "CHAP 認証に成功しました。"
+
+msgid "You may close the browser window now."
+msgstr "今すぐブラウザウィンドウを閉じることができます。"
+
+msgid "Choose the backup file:"
+msgstr "バックアップ ファイルを選択:"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "No backups found!"
+msgstr "バックアップがありません!"
+
+msgid "There are no backups available in the backup folder."
+msgstr "バックアップ フォルダーに利用できるバックアップはありません。"
+
+msgid "The settings do not exist!"
+msgstr "設定が存在しません!"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "選択したバックアップ ファイルは設定ファイルを含んでいません。"
+
+msgid "The file already exists:"
+msgstr "ファイルは既に存在します:"
+
+msgid "Do you want to overwrite the file?"
+msgstr "ファイルを上書きしますか?"
+
+msgid "Unable to overwrite file:"
+msgstr "ファイルを上書きできません:"
+
+msgid "Write error!"
+msgstr "書き込みエラーです!"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"ファイルにリストアできません:\n"
+"%s\n"
+"\n"
+"バックアップ アーカイブからファイルを手動で抽出する必要があります。"
+
+msgid "Restore error!"
+msgstr "リストア エラーです!"
+
+msgid "[None]"
+msgstr "[なし]"
+
+msgid "<Hidden>"
+msgstr "<非表示>"
+
+msgid "all"
+msgstr "すべて"
+
+msgid "active"
+msgstr "有効"
+
+msgid "dismissed"
+msgstr "OFF 済み"
+
+msgid "snoozed"
+msgstr "スヌーズ済み"
+
+msgid "Show only needs action"
+msgstr "要アクションのみ表示"
+
+msgid "Show only in progress"
+msgstr "進行中のみ表示"
+
+msgid "Show only completed"
+msgstr "完了済みのみ表示"
+
+msgid "Show only cancelled"
+msgstr "キャンセル済みのみ表示"
+
+msgid "Hide needs action"
+msgstr "アクションが必要@item event, to-do or journal accepted"
+
+msgid "Hide in progress"
+msgstr "進行中"
+
+msgid "Hide completed"
+msgstr "非表示完了"
+
+msgid "Hide cancelled"
+msgstr "キャンセルを非表示"
+
+msgid "Reset completed time"
+msgstr "完了日時をリセット"
+
+msgid "Show only no priority"
+msgstr "優先度 なしのみ表示"
+
+msgid "Show only high priority"
+msgstr "優先度 高のみ表示"
+
+msgid "Show only normal priority"
+msgstr "優先度 通常のみ表示"
+
+msgid "Show only low priority"
+msgstr "優先度 低のみ表示"
+
+msgid "Hide no priority"
+msgstr "優先順位なし"
+
+msgid "Hide high priority"
+msgstr "高優先順位"
+
+msgid "Hide normal priority"
+msgstr "優先度: 通常"
+
+msgid "Hide low priority"
+msgstr "低優先順位"
+
+msgid "Show only alarms"
+msgstr "アラームのみ表示"
+
+msgid "Show only active"
+msgstr "アクティブのみを表示"
+
+msgid "Show only snoozed"
+msgstr "スヌーズ済みのみ表示"
+
+msgid "Show only dismissed"
+msgstr "OFF 済みのみ表示"
+
+msgid "Hide alarms"
+msgstr "アラームを非表示"
+
+msgid "Hide active"
+msgstr "アクティブを非表示"
+
+msgid "Hide snoozed"
+msgstr "おやすみモードを非表示"
+
+msgid "Hide dismissed"
+msgstr "却下された場合は非表示"
+
+msgid "Reset dismiss time"
+msgstr "OFF 日時をリセット"
+
+msgid "Reset snooze time"
+msgstr "スヌーズ日時をリセット"
+
+msgid "Dismiss next alarm"
+msgstr "次のアラームを消去"
+
+msgid "Duration:"
+msgstr "所要時間："
+
+msgid "Next alarm:"
+msgstr "次のアラーム:"
+
+msgid "Dismissed:"
+msgstr "却下"
+
+msgid "Snoozed until:"
+msgstr "おやすみモード:"
+
+msgid "In Progress"
+msgstr "進行中"
+
+msgid "Completed"
+msgstr "完了"
+
+msgid "Needs Action"
+msgstr "アクションが必要"
+
+msgid "Cancelled"
+msgstr "キャンセル済み"
+
+msgid "None"
+msgstr "なし"
+
+msgid "High"
+msgstr "高"
+
+msgid "Normal"
+msgstr "通常"
+
+msgid "Low"
+msgstr "低"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "Active"
+msgstr "アクティブ（有効）"
+
+msgid "Dismissed"
+msgstr "OFF 済み"
+
+msgid "Snoozed"
+msgstr "スヌーズ済み"
+
+msgid "Daily"
+msgstr "毎日"
+
+msgid "Weekly"
+msgstr "毎週"
+
+msgid "Monthly"
+msgstr "毎月"
+
+msgid "Yearly"
+msgstr "毎年"
+
+msgid "Private"
+msgstr "非公開"
+
+msgid "Public"
+msgstr "公開"
+
+msgid "Confidential"
+msgstr "社外秘"
+
+msgid "Default"
+msgstr "既定"
+
+msgid "No priority"
+msgstr "優先度 なし"
+
+msgid "Normal priority"
+msgstr "優先度 通常"
+
+msgid "High priority"
+msgstr "優先度 高"
+
+msgid "Low priority"
+msgstr "優先度 低"
+
+msgid "Created: "
+msgstr "作成済:"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "Modified: "
+msgstr "変更済み:"
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "Region"
+msgstr "領域"
+
+msgid "Native"
+msgstr "ネイティブ"
+
+msgid "Sunday"
+msgstr "日曜日"
+
+msgid "Monday"
+msgstr "月曜日"
+
+msgid "Tuesday"
+msgstr "火曜日"
+
+msgid "Wednesday"
+msgstr "水曜日"
+
+msgid "Thursday"
+msgstr "木曜日"
+
+msgid "Friday"
+msgstr "金曜日"
+
+msgid "Saturday"
+msgstr "土曜日"
+
+msgid "Every second Saturday"
+msgstr "隔週の土曜日"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Due"
+msgstr "期限"
+
+msgid "Priority"
+msgstr "優先度"
+
+msgid "Status"
+msgstr "状態"
+
+msgid "Category"
+msgstr "カテゴリ"
+
+msgid "Recurrence"
+msgstr "繰り返し"
+
+msgid "Off"
+msgstr "OFF"
+
+msgid "Beta"
+msgstr "ベータ"
+
+msgid "General"
+msgstr "全般"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "%H:%M (例: \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "%#H:%M (例: \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "%I:%M %p (例: \"01:42 pm\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "%#I:%M %p (例: \"3:42 pm\")"
+
+msgid "Time format"
+msgstr "時刻の書式"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "%d.%#m.%Y (例: \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "%d.%m.%Y (例: \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "%Y-%m-%d (例: \"2012-04-21\")"
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "%#m/%d/%Y (例: \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "%m/%d/%Y (例: \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "日付の書式"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "「今日」と「明日」を使用"
+
+msgid "Weekend days"
+msgstr "週末とする曜日"
+
+msgid "Week number delta"
+msgstr "週番号の調整"
+
+msgid "Default categories"
+msgstr "既定のカテゴリ"
+
+msgid "Show categories from the skin"
+msgstr "スキンのカテゴリを表示"
+
+msgid "Show tray icon"
+msgstr "トレイ アイコンを表示"
+
+msgid "Show tray status icons"
+msgstr "トレイの状態アイコンを表示"
+
+msgid "Day number"
+msgstr "日"
+
+msgid "Week number"
+msgstr "週番号"
+
+msgid "Number in tray"
+msgstr "トレイに表示する数値"
+
+msgid "Always"
+msgstr "常に"
+
+msgid "Never"
+msgstr "しない"
+
+msgid "Show full menus"
+msgstr "フルメニューを表示"
+
+msgid "Disable keyboard shortcuts"
+msgstr "キーボード ショートカットの無効化"
+
+msgid "List wheel scroll"
+msgstr "リストのホイール スクロール"
+
+msgid "Skin language"
+msgstr "スキンの言語"
+
+msgid "Number of stored backups"
+msgstr "保存するバックアップ数"
+
+msgid "Show delete confirmations"
+msgstr "削除の確認を表示"
+
+msgid "Disable text formatting"
+msgstr "Wiki 記法の無効化"
+
+msgid "Show empty list text"
+msgstr "空の一覧のテキストを表示"
+
+msgid "Check for updates"
+msgstr "更新を確認"
+
+msgid "Show url icons"
+msgstr "URL アイコンを表示"
+
+msgid "Simultaneous transfers"
+msgstr "同時の転送"
+
+msgid "Only uncategorized"
+msgstr "カテゴリなしのみ"
+
+msgid "Icon from events"
+msgstr "イベントのアイコン"
+
+msgid "Visual category overwrite"
+msgstr "視覚的なカテゴリを上書き"
+
+msgid "Store English category names"
+msgstr "英語のカテゴリ名を保存"
+
+msgid "Custom category icon path"
+msgstr "カテゴリ アイコンのパスのカスタマイズ"
+
+msgid "Use antialiased fonts"
+msgstr "フォントのアンチエイリアスを使用"
+
+msgid "Count"
+msgstr "年数"
+
+msgid "Ordinal"
+msgstr "360 日を 1 年とした年数"
+
+msgid "Type of year to add for categories"
+msgstr "カテゴリに追加する年の種類"
+
+msgid "Use custom password encrypting"
+msgstr "カスタムのパスワード暗号化を使用"
+
+msgid "Editor"
+msgstr "編集者"
+
+msgid "Allow multiple calendars"
+msgstr "複数のカレンダーを許可"
+
+msgid "Allow multiple categories"
+msgstr "複数のカテゴリを許可"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "書き込み完了までエディタを開いたままにする"
+
+msgid "Time span in the editor"
+msgstr "エディタでの時間間隔 (分)"
+
+msgid "Number of previous locations"
+msgstr "以前の場所の記憶個数"
+
+msgid "Default event duration"
+msgstr "デフォルトのイベント期間"
+
+msgid "Windows"
+msgstr "ウィンドウ"
+
+msgid "Use window names"
+msgstr "ウィンドウ名を使用"
+
+msgid "Hide on Aero peek"
+msgstr "Aero Peek に表示しない"
+
+msgid "Transparency type"
+msgstr "透過の種類"
+
+msgid "Copy transparency sleep time"
+msgstr "透過コピーの待ち時間"
+
+msgid "Fade delay (ms)"
+msgstr "フェードの遅延 (ミリ秒)"
+
+msgid "Fade duration (ms)"
+msgstr "フェード時間 (ミリ秒)"
+
+msgid "Allow window fading"
+msgstr "ウィンドウのフェードを許可"
+
+msgid "Keep on screen"
+msgstr "画面内に配置"
+
+msgid "Bring all windows on top when clicked"
+msgstr "クリックした際にすべてのウィンドウを最前面表示"
+
+msgid "Show in all desktops"
+msgstr "すべてのデスクトップに表示"
+
+msgid "Snap distance"
+msgstr "スナップの距離"
+
+msgid "Snap center"
+msgstr "画面中央にスナップ"
+
+msgid "Don't save"
+msgstr "保存しない"
+
+msgid "Per resolution"
+msgstr "解像度ごと"
+
+msgid "Single value"
+msgstr "単一の値"
+
+msgid "Save window position"
+msgstr "ウィンドウ位置を保存"
+
+msgid "Font face"
+msgstr "フォント名"
+
+msgid "Scaling quality"
+msgstr "スケーリング品質"
+
+msgid "Network"
+msgstr "ネットワーク"
+
+msgid "Reload delay after resume (s)"
+msgstr "再開後のリロード遅延"
+
+msgid "Network access delay after startup (s)"
+msgstr "起動後のネットワークアクセス遅延"
+
+msgid "Proxy server"
+msgstr "プロキシ サーバー"
+
+msgid "Proxy user"
+msgstr "プロキシ ユーザー名"
+
+msgid "Proxy password"
+msgstr "プロキシ パスワード"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgid "Proxy type"
+msgstr "プロキシの種類"
+
+msgid "Try direct connection if proxy fails"
+msgstr "プロキシ失敗時に直接接続を試行"
+
+msgid "Calendar"
+msgstr "カレンダー"
+
+msgid "Show all icons"
+msgstr "すべてのアイコンを表示"
+
+msgid "Show one icon per type"
+msgstr "種類ごとにアイコンを 1 つ表示"
+
+msgid "Show only one icon"
+msgstr "アイコンを 1 つのみ表示"
+
+msgid "Show no icons"
+msgstr "アイコンを表示しない"
+
+msgid "Combine icons in the calendar"
+msgstr "カレンダー内の同一アイコンの一本化"
+
+msgid "Calendar wheel scroll"
+msgstr "カレンダーのホイール スクロール"
+
+msgid "Show tasks in calendar"
+msgstr "カレンダー内にタスクを表示"
+
+msgid "Always show menu"
+msgstr "常にメニューを表示"
+
+msgid "Always create new event"
+msgstr "常に新規イベントを作成"
+
+msgid "Do nothing"
+msgstr "何もしない"
+
+msgid "Double click action"
+msgstr "ダブルクリック時の動作"
+
+msgid "Tooltip"
+msgstr "ツールチップ"
+
+msgid "Show tooltips"
+msgstr "ツールチップを表示"
+
+msgid "Only on days with events"
+msgstr "イベントがある日のみ"
+
+msgid "Show tooltip in tray"
+msgstr "トレイにツールチップを表示"
+
+msgid "Max tooltip window width"
+msgstr "ツールチップの最大幅"
+
+msgid "Show description in tooltip"
+msgstr "ツールチップに説明を表示"
+
+msgid "Task fields in tooltip"
+msgstr "ツールチップに表示するタスクのフィールド"
+
+msgid "Event fields in tooltip"
+msgstr "ツールチップに表示するイベントのフィールド"
+
+msgid "Traytip show duration (s)"
+msgstr "トレイチップの表示時間"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "ツールチップのフェード時間 (ミリ秒)"
+
+msgid "Tooltip show delay (ms)"
+msgstr "ツールチップの表示遅延 (ミリ秒)"
+
+msgid "Tooltip format"
+msgstr "ツールチップの書式"
+
+msgid "Task List"
+msgstr "タスク リスト"
+
+msgid "Show full task summary"
+msgstr "タスクの概要全体を表示"
+
+msgid "Show task due time"
+msgstr "タスクの期限日時を表示"
+
+msgid "Show task location"
+msgstr "タスクの場所を表示"
+
+msgid "Show task calendar"
+msgstr "タスクのカレンダーを表示"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "リストに表示する日数 (0: すべて表示)"
+
+msgid "Show task time when arranged by start or due date"
+msgstr "開始/期限日時を変更したらタスクの時刻を表示"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr ""
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr ""
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr ""
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr ""
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr ""
+
+msgid "Task list header format"
+msgstr "タスク リストのヘッダ形式"
+
+msgid "<None>"
+msgstr "<なし>"
+
+msgid "Default task template"
+msgstr "既定のタスク テンプレート"
+
+msgid "Event List"
+msgstr "イベント リスト"
+
+msgid "Show full event summary"
+msgstr "イベントの概要全体を表示"
+
+msgid "Show event start time"
+msgstr "イベントの開始時刻を表示"
+
+msgid "Show event end time"
+msgstr "イベントの終了時刻を表示"
+
+msgid "Show event location"
+msgstr "イベントの場所を表示"
+
+msgid "Show event calendar"
+msgstr "イベントのカレンダーを表示"
+
+msgid "Hide dismissed events"
+msgstr "OFF にしたイベントを隠す"
+
+msgid "Hide past events"
+msgstr "過去のイベントを隠す"
+
+msgid "Number of future days the list shows"
+msgstr "リストに表示する未来の日数"
+
+msgid "Number of past days the list shows"
+msgstr "リストに表示する過去の日数"
+
+msgid "Age from start of the week"
+msgstr "週の初めから数える"
+
+msgid "Event list header format"
+msgstr "イベント リストのヘッダ形式"
+
+msgid "Default event template"
+msgstr "既定のイベント テンプレート"
+
+msgid "No grouping"
+msgstr "グループなし"
+
+msgid "Start and end dates"
+msgstr "開始/終了日"
+
+msgid "Start date and duration"
+msgstr "開始日と継続時間"
+
+msgid "Group multiday events"
+msgstr "複数日イベントのグループ化"
+
+msgid "Schedule"
+msgstr "スケジュール"
+
+msgid "Show schedule descriptions"
+msgstr "スケジュールの説明を表示"
+
+msgid "Show schedule start time"
+msgstr "スケジュールの開始時刻を表示"
+
+msgid "Show schedule end time"
+msgstr "スケジュールの終了時刻を表示"
+
+msgid "Show schedule location"
+msgstr "スケジュールの場所を表示"
+
+msgid "Show schedule calendar"
+msgstr "スケジュールのカレンダーを表示"
+
+msgid "Create, move and resize events with mouse"
+msgstr "マウスでイベントを作成、移動、リサイズ"
+
+msgid "First shown hour"
+msgstr "日表示での開始時刻 (時)"
+
+msgid "Last shown hour"
+msgstr "日表示での終了時刻 (時)"
+
+msgid "Alarm"
+msgstr "アラーム"
+
+msgid "Show alarm start time"
+msgstr "アラームの開始時刻を表示"
+
+msgid "Show alarm end time"
+msgstr "アラームの終了時刻を表示"
+
+msgid "Show alarm location"
+msgstr "アラームの場所を表示"
+
+msgid "Show alarm calendar"
+msgstr "アラームのカレンダーを表示"
+
+msgid "Show due to the event"
+msgstr "イベントの期限を表示"
+
+msgid "Support Mozilla alarms"
+msgstr "Mozilla アラームに対応"
+
+msgid "Keep alarm always on top"
+msgstr "アラームを常に手前に表示"
+
+msgid "Default snooze time (secs)"
+msgstr "既定のスヌーズ時間 (秒)"
+
+msgid "Max alarm window width"
+msgstr "アラーム ウィンドウの最大幅"
+
+msgid "Hide from alarm after days"
+msgstr "アラームから非表示にする経過日数"
+
+msgid "Default alarm time (mins)"
+msgstr "デフォルトのアラーム時間（分）"
+
+msgid "Default alarm file"
+msgstr "既定のアラーム ファイル"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "全画面表示ウィンドウにアラームを表示しない"
+
+msgid "Loop the alarm sound (secs)"
+msgstr "アラーム サウンドのループ (秒)"
+
+msgid "Snooze times (mins)"
+msgstr "スヌーズ時間 (分)"
+
+msgid "Create Error!"
+msgstr "作成エラーです!"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "項目の格納先として 1 つ以上のカレンダーの選択が必要です。"
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "文字列から新しい項目を作成できません:\n"
+
+msgid "Parse Error!"
+msgstr "構文解析エラーです!"
+
+msgid "New version found!"
+msgstr "新しいバージョンが見つかりました!"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"バージョン %s を利用できます。\n"
+"ウェブサイトを今すぐ開きますか?"
+
+msgid "No updates available."
+msgstr "利用できる更新はありません。"
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "ご使用中の Rainlendar は最新版です。"
+
+msgid "New event"
+msgstr "新規イベント"
+
+msgid "New task"
+msgstr "新規タスク"
+
+msgid "Refresh"
+msgstr "更新"
+
+msgid "Options..."
+msgstr "オプション..."
+
+msgid "Manager..."
+msgstr "マネージャー..."
+
+msgid "Exit"
+msgstr "終了"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "View"
+msgstr "表示"
+
+msgid "About..."
+msgstr "バージョン情報..."
+
+msgid "Open help\tCtrl+?"
+msgstr "ヘルプを開く\tCtrl+?"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "About"
+msgstr "バージョン情報"
+
+msgid "Calendars"
+msgstr "カレンダー"
+
+msgid "Choose day"
+msgstr "日を選択"
+
+msgid "Choose month"
+msgstr "月を選択"
+
+msgid "Install license..."
+msgstr "ライセンスのインストール"
+
+msgid "Show debug log"
+msgstr "デバッグ ログを表示"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl+%i"
+
+msgid "Enable all calendars"
+msgstr "すべてのカレンダーを有効化"
+
+msgid "Disable all calendars"
+msgstr "すべてのカレンダーを無効化"
+
+msgid "Current Day"
+msgstr "今日"
+
+msgid "Next Day"
+msgstr "翌日"
+
+msgid "Previous Day"
+msgstr "前日"
+
+msgid "Next Week"
+msgstr "翌週"
+
+msgid "Previous Week"
+msgstr "前週"
+
+msgid "Next Month"
+msgstr "翌月"
+
+msgid "Previous Month"
+msgstr "前月"
+
+msgid "Current Month"
+msgstr "今月"
+
+msgid "Next Year"
+msgstr "翌年"
+
+msgid "Previous Year"
+msgstr "前年"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Right"
+msgstr "→"
+
+msgid "Left"
+msgstr "←"
+
+msgid "Up"
+msgstr "↑"
+
+msgid "Down"
+msgstr "↓"
+
+msgid "January"
+msgstr "1月"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl+F1"
+
+msgid "February"
+msgstr "2月"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl+F2"
+
+msgid "March"
+msgstr "3月"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl+F3"
+
+msgid "April"
+msgstr "4月"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl+F4"
+
+msgid "May"
+msgstr "5月"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl+F5"
+
+msgid "June"
+msgstr "6月"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl+F6"
+
+msgid "July"
+msgstr "7月"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl+F7"
+
+msgid "August"
+msgstr "8月"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl+F8"
+
+msgid "September"
+msgstr "9月"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl+F9"
+
+msgid "October"
+msgstr "10月"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl+F10"
+
+msgid "November"
+msgstr "11月"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl+F11"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl+F12"
+
+msgid "Visible"
+msgstr "表示"
+
+msgid "More settings..."
+msgstr "その他の設定"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "Alt-%i"
+msgstr "Alt+%i"
+
+msgid "Show all windows"
+msgstr "すべてのウィンドウを表示"
+
+msgid "Hide all windows"
+msgstr "すべてのウィンドウを非表示"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "ライセンス ファイル (*.r2lic)|*.r2lic"
+
+msgid "Choose the license file"
+msgstr "ライセンスファイルを選択"
+
+msgid "*Empty*"
+msgstr "*空*"
+
+msgid "This instance"
+msgstr "このインスタンス"
+
+msgid "Whole event"
+msgstr "イベント全体"
+
+msgid "All following"
+msgstr "以降のすべて"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Do you want to delete this item?"
+msgstr "この項目を削除しますか?"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"これは定期的なアイテムです:\\ n\\ n %s\\ n\\ nこのインスタンス(%s)だけ、次の"
+"すべてのイベント、または定期的なイベント全体を削除することができます"
+
+msgid "The item is read only and cannot be deleted."
+msgstr "読み取り専用の項目であるため、削除できません"
+
+msgid "Unable to delete the item."
+msgstr "項目を削除できません。"
+
+msgid "Do you want to delete these items?"
+msgstr "これらの項目を削除しますか?"
+
+msgid "The item is read only and cannot be moved."
+msgstr "アイテムは読み取り専用であり、移動することはできません。"
+
+msgid "Unable to move the item."
+msgstr "アイテムを移動できません。"
+
+msgid "Choose a directory"
+msgstr "ディレクトリを選択"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "Built on"
+msgstr "ビルドオン"
+
+msgid "Developed by"
+msgstr "開発者"
+
+msgid "Translated (%s) by"
+msgstr "翻訳者 (%s)"
+
+msgid "Licensed to"
+msgstr "ライセンス先"
+
+msgid "Plugins"
+msgstr "プラグイン"
+
+msgid "Links"
+msgstr "リンク"
+
+msgid "FAQ"
+msgstr "よくある質問"
+
+msgid "Forum"
+msgstr "フォーラム"
+
+msgid "Menu icons by"
+msgstr "メニューアイコンの作者"
+
+msgid "Application icon by"
+msgstr "アプリケーションアイコンの作者"
+
+msgid "Copyrights"
+msgstr "著作権"
+
+msgid "Please wait..."
+msgstr "お待ちください"
+
+msgid "Check for update"
+msgstr "更新を確認"
+
+msgid "Choose Alarm"
+msgstr "アラームを選択"
+
+msgid "All files (*.*)|*.*"
+msgstr "すべてのファイル (*.*)|*.*"
+
+msgid "Change Fields"
+msgstr "フィールドを変更"
+
+msgid "%i events selected"
+msgstr "%i 項目のイベントが選択されています"
+
+msgid "%i tasks selected"
+msgstr "%i 項目のタスクが選択されています"
+
+msgid "End time:"
+msgstr "終了日時:"
+
+msgid "Due time:"
+msgstr "期限日時:"
+
+msgid "Add new alarm"
+msgstr "新規アラームを追加"
+
+msgid "Are you sure you want to do this?"
+msgstr "これを本当に実行しますか?"
+
+msgid "The selected fields will be changed to %i items."
+msgstr ""
+"選択したフィールドの変更を、%i項目(のイベントまたはタスク)に適用します。"
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr ""
+"この操作は取り消せないため、何をしようとしているか完全に理解した場合のみ \"は"
+"い\" をクリックしてください。"
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr ""
+"イベントからタスク(またはその逆)への変更をすると、\n"
+"失われるデータがあることにご注意ください。"
+
+msgid "Categories"
+msgstr "カテゴリ"
+
+msgid "Add..."
+msgstr "追加..."
+
+msgid "Clear"
+msgstr "消去"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Values"
+msgstr "値"
+
+msgid "Please give a name for the category"
+msgstr "カテゴリ名を入力してください"
+
+msgid "Enter text"
+msgstr "テキストを入力"
+
+msgid "Unable to create the category!"
+msgstr "カテゴリを作成できません!"
+
+msgid "You must give a name for the category."
+msgstr "カテゴリ名の入力が必要です。"
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "名前に文字 '/' は使用できません。"
+
+msgid "A category called \"%s\" already exists."
+msgstr "カテゴリは既に存在します: \"%s\""
+
+msgid "Link start and end dates"
+msgstr "リンク開始日と終了日"
+
+msgid "Save\tCtrl+S"
+msgstr "保存\tCtrl+S"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "新規項目として保存\tShift+Ctrl+S"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "ファイルに保存...\\ tCtrl + S"
+
+msgid "Print...\tCtrl+P"
+msgstr "印刷...\\ tCtrl P"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "削除\tCtrl+Delete"
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "Close Accept\\ tCtrl Enterキーを押します。"
+
+msgid "Close\tCtrl+W"
+msgstr "閉じる\\ tCtrl W"
+
+msgid "Close\tAlt-F4"
+msgstr "閉じる\tAlt+F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "選択したカレンダーは繰り返しに対応していません。"
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr ""
+"カレンダーでアラームを無視する設定が有効であるため、アラームは表示されませ"
+"ん。"
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr "スキンにアラーム ウィンドウがないため、アラームは表示されません。"
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr "読み取り専用のタスクであるため、変更内容を保存できません。"
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr "読み取り専用のイベントであるため、変更内容を保存できません。"
+
+msgid "The task is from a read-only calendar."
+msgstr "読み取り専用のカレンダーのタスクです。"
+
+msgid "The event is from a read-only calendar."
+msgstr "読み取り専用のカレンダーのイベントです。"
+
+msgid "There are no calendars available which can store tasks."
+msgstr "タスクを保存できるカレンダーはありません。"
+
+msgid "There are no calendars available which can store events."
+msgstr "イベントを保存できるカレンダーはありません。"
+
+msgid "No target calendar has been selected."
+msgstr "対象のカレンダーを選択していません。"
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr "元の説明はHTML形式であり、編集することはできません。"
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"カレンダーが選択されていません。項目を保存するカレンダーを選択してください。"
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"項目を保存できる正しいカレンダーがありません。項目を格納する新規カレンダーを"
+"オプションで作成してください。イベントとタスクの両方には対応していないカレン"
+"ダーがあることに注意してください。"
+
+msgid "Unable to save the item."
+msgstr "項目を保存できません。"
+
+msgid "Updating"
+msgstr "更新中"
+
+msgid "Do you want to save the changes?"
+msgstr "変更を保存しますか?"
+
+msgid "You have made some changes to the fields."
+msgstr "変更されたフィールドがあります。"
+
+msgid "&Save"
+msgstr "保存(&S)"
+
+msgid "&Discard"
+msgstr "破棄(&D)"
+
+msgid "&Cancel"
+msgstr "キャンセル(&C)"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "この項目を本当に削除しますか?"
+
+msgid "Event"
+msgstr "イベント"
+
+msgid "Choose a file"
+msgstr "ファイルを選択"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar ファイル (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "カレンダーを選択:"
+
+msgid "Select the categories:"
+msgstr "カテゴリを選択:"
+
+msgid "before the event starts."
+msgstr "- イベントの開始前"
+
+msgid "before the task is due."
+msgstr "- 期限前"
+
+msgid "Set alarm sound"
+msgstr "アラーム サウンドを設定"
+
+msgid "Current alarm: "
+msgstr "現在のアラーム:"
+
+msgid "Remove alarm"
+msgstr "アラームを削除"
+
+msgid "Minutes"
+msgstr "分"
+
+msgid "Hours"
+msgstr "時間"
+
+msgid "Days"
+msgstr "日"
+
+msgid "Alert"
+msgstr "アラート"
+
+msgid "Email"
+msgstr "メール"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr ""
+"イベントのカレンダー ハンドラが見つかりません。 イベントは保存されませんでし"
+"た。"
+
+msgid "On the %s day of the month"
+msgstr "その月の %s 日に"
+
+msgid "first"
+msgstr "第 1"
+
+msgid "second"
+msgstr "第 2"
+
+msgid "third"
+msgstr "第 3"
+
+msgid "fourth"
+msgstr "第 4"
+
+msgid "fifth"
+msgstr "第 5"
+
+msgid "On the %s %s of the month"
+msgstr "その月の%s %sに"
+
+msgid "On the last %s of the month"
+msgstr "その月の最終%sに"
+
+msgid "On the first weekday of the month"
+msgstr "その月の最初の平日に"
+
+msgid "On the last weekday of the month"
+msgstr "その月の最後の平日に"
+
+msgid "On the last day of the month"
+msgstr "その月の最終日に"
+
+msgid "Please give a name for the template"
+msgstr "テンプレート名を入力してください"
+
+msgid "Unable to create the template!"
+msgstr "テンプレートを作成できません!"
+
+msgid "You must give a name for the template."
+msgstr "テンプレート名を付ける必要があります。"
+
+msgid "A template called \"%s\" already exists."
+msgstr "テンプレートは既に存在します: \"%s\""
+
+msgid "Do you want to overwrite the template?"
+msgstr "テンプレートを上書きしますか?"
+
+msgid "Choose the template to delete:"
+msgstr "削除するテンプレートを選択:"
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "新規タスクに使用するテンプレートを選択:"
+
+msgid "Choose the template which is used for new events:"
+msgstr "新規イベントに使用するテンプレートを選択:"
+
+msgid "Save as template..."
+msgstr "テンプレートに名前を付けて保存..."
+
+msgid "Delete template..."
+msgstr "テンプレートを削除..."
+
+msgid "Set the default template..."
+msgstr "既定のテンプレートを設定..."
+
+msgid "Template"
+msgstr "テンプレート"
+
+msgid "Select the day range"
+msgstr "日付の範囲を選択"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"エクスポートでは繰り返しイベントを保存できません。そのため単体のインスタンス"
+"への変換が必要です。ファイルに保存する日付範囲を指定してください。"
+
+msgid "From:"
+msgstr "差出人:"
+
+msgid "To:"
+msgstr "宛先:"
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "終了時刻は開始時刻より前にすることはできません。"
+
+msgid "Birthday"
+msgstr "誕生日"
+
+msgid "Anniversary"
+msgstr "記念日"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"誕生日または記念日を作成しましたが繰り返しを指定しませんでした。\n"
+"イベントを毎年繰り返すようにしますか?"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Question"
+msgstr "質問"
+
+msgid "Information"
+msgstr "情報"
+
+msgid "Do not show this again"
+msgstr "今後これを表示しない"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "&Yes"
+msgstr "はい(&Y)"
+
+msgid "&No"
+msgstr "いいえ(&N)"
+
+msgid "Manager"
+msgstr "マネージャー"
+
+msgid "Events"
+msgstr "イベント"
+
+msgid "Tasks"
+msgstr "タスク"
+
+msgid "Show original"
+msgstr "元の表示"
+
+msgid "Show current"
+msgstr "現在を 表示"
+
+msgid "Show upcoming"
+msgstr "予定を 表示"
+
+msgid "New"
+msgstr "新規"
+
+msgid "Edit"
+msgstr "終了"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Copy to"
+msgstr "コピー"
+
+msgid "Move to"
+msgstr "移動"
+
+msgid "Change fields"
+msgstr "フィールド を変更"
+
+msgid "Import"
+msgstr "インポート"
+
+msgid "Export"
+msgstr "エクスポート"
+
+msgid "Print..."
+msgstr "印刷..."
+
+msgid "Backup"
+msgstr "バックアップ"
+
+msgid "Restore"
+msgstr "リストア"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Select all"
+msgstr "すべてを選択"
+
+msgid "Select none"
+msgstr "選択解除"
+
+msgid "Toggle selection"
+msgstr "選択範囲の切り替え"
+
+msgid "Select duplicates"
+msgstr "重複を選択"
+
+msgid "Sort by due time"
+msgstr "期限日時順"
+
+msgid "Sort by end time"
+msgstr "終了日時 順"
+
+msgid "Sort by summary"
+msgstr "概要順"
+
+msgid "Sort by location"
+msgstr "場所順"
+
+msgid "Sort by calendar"
+msgstr "カレンダー 順"
+
+msgid "Sort by category"
+msgstr "カテゴリ順"
+
+msgid "Sort by url"
+msgstr "URL 順"
+
+msgid "Sort by repeat"
+msgstr "繰り返し順"
+
+msgid "Sort by priority"
+msgstr "優先度順"
+
+msgid "Sort by status"
+msgstr "状態順"
+
+msgid "Sort by create time"
+msgstr "作成時間で並べ替え"
+
+msgid "Sort by modify time"
+msgstr "時間で並べ替え"
+
+msgid "Sort by start time"
+msgstr "開始日時 順"
+
+msgid "Start time"
+msgstr "開始日時"
+
+msgid "End time"
+msgstr "終了日時"
+
+msgid "Summary"
+msgstr "概要"
+
+msgid "Location"
+msgstr "場所"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Create time"
+msgstr "作成時間"
+
+msgid "Modify time"
+msgstr "時間を変更する"
+
+msgid "Reverse sorting"
+msgstr "逆順にソート"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "合計 %i 件 (%i 件を選択)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr "大量の項目の編集には時間がかかる場合があります。 本当に実行しますか?"
+
+msgid "Do you want to delete the selected item?"
+msgstr "選択した項目を削除しますか?"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "選択した %i 項目を削除しますか?"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr "選択した項目は読み取り専用のため削除できません。"
+
+msgid "There were %i read only items which were not deleted."
+msgstr "選択した %i 項目は読み取り専用のため削除できません。"
+
+msgid "Unable to delete some items."
+msgstr "削除できない項目がありました。"
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "項目のコピー先のカレンダーを選択:"
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "項目の移動先のカレンダーを選択:"
+
+msgid "Operation failed!"
+msgstr "操作に失敗しました!"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr "項目を格納できるカレンダーが存在しません。"
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"オンラインカレンダーへのアイテムの移動は安全ではありません宛先カレンダーが"
+"ネットワークの問題やその他の理由でアイテムを受け入れない場合、移動したすべて"
+"のイベントが失われます\\ n\\ nしたがって、何をしているのか完全に把握している"
+"場合にのみ、\"はい\"をクリックしてください"
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "以下のカレンダーに %i 項目を移動しました:\n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "以下のカレンダーに %i 項目をコピーしました:\n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"重要! 項目のオンライン カレンダーへのコピーにはしばらく時間が掛かるため、終了"
+"するまで利用できません。"
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr ""
+"一部のアイテムは読み取り専用に設定され、代わりにコピーされて移動された。"
+
+msgid "Operation finished!"
+msgstr "操作が完了しました!"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "イベントの格納先として 1 つ以上のカレンダーの選択が必要がです。"
+
+msgid "Backup was successful."
+msgstr "バックアップしました。"
+
+msgid "The backup contains these files:"
+msgstr "バックアップには以下のファイルが含まれています:"
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"警告! バックアップ ファイル内に iCalendar ファイルがありません。ローカルに保"
+"存したイベント/タスクがある場合はそれらを手動でバックアップする必要がありま"
+"す。"
+
+msgid "Unable to create the backup file."
+msgstr "バックアップ ファイルを作成できません。"
+
+msgid "The archive contains unknown files:\n"
+msgstr "アーカイブに不明なファイルが含まれています:\n"
+
+msgid "Restore was successful."
+msgstr "リストアしました。"
+
+msgid "There were problems during the restore."
+msgstr "リストア中に問題がありました。"
+
+msgid "Exported %i events successfully."
+msgstr "%i 項目のイベントをエクスポートしました。"
+
+msgid "Exported %i todo items successfully."
+msgstr "%i 項目の Todo をエクスポートしました。"
+
+msgid "Export failed!"
+msgstr "エクスポートに失敗しました!"
+
+msgid "Import failed!"
+msgstr "インポートに失敗しました!"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Skins"
+msgstr "スキン"
+
+msgid "Hotkeys"
+msgstr "ホットキー"
+
+msgid "Advanced"
+msgstr "拡張"
+
+msgid "Reset all settings"
+msgstr "すべての設定をリセット"
+
+msgid "Reset offline copy"
+msgstr "オフラインコピーをリセット"
+
+msgid "Authenticate"
+msgstr "認証"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Get more languages..."
+msgstr "他の言語を取得..."
+
+msgid "On Top"
+msgstr "最前面"
+
+msgid "On Bottom"
+msgstr "最背面"
+
+msgid "On Desktop"
+msgstr "デスクトップ上"
+
+msgid "Get more skins..."
+msgstr "他のスキンを取得..."
+
+msgid "TrayIcon"
+msgstr "トレイアイコン"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Homepage"
+msgstr "ホームページ"
+
+msgid "Addons"
+msgstr "アドオン"
+
+msgid "Version history"
+msgstr "バージョン履歴"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "これは古い Rainlendar スキンです。一部の機能に未対応の場合があります。"
+
+msgid "Advanced >>>"
+msgstr "拡張 >>>"
+
+msgid "<<< Simple"
+msgstr "<<< 簡易"
+
+msgid "Open containing folder"
+msgstr "含むフォルダーを開く"
+
+msgid "Custom categories are not supported."
+msgstr "カテゴリのカスタマイズには未対応です。"
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr "カテゴリの外観の編集に未対応のスキンです: \"%s\""
+
+msgid "Activate only default windows?"
+msgstr "デフォルトのウィンドウのみを有効にしますか？"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr ""
+"デフォルトのウィンドウまたはすべてのウィンドウのみをアクティブ化しますか？"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr ""
+"すべてのウィンドウを有効にすると、パフォーマンスが低下することに注意してくだ"
+"さい。"
+
+msgid "&Default"
+msgstr "デフォルト"
+
+msgid "&All"
+msgstr "全て"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"編集欄をアクティブにしてからホットキーの組み合わせを入力してください。他のア"
+"プリケーションでも有効になるため、ホットキーを単純過ぎるものにしないでくださ"
+"い。"
+
+msgid "Hotkey"
+msgstr "ホットキー"
+
+msgid "Function"
+msgstr "機能"
+
+msgid "Search:"
+msgstr "検索:"
+
+msgid "Do you want to reset all settings?"
+msgstr "すべての設定をリセットしますか?"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"すべての設定が既定値にリセットされます。既定の設定はすぐに適用されます。続行"
+"しますか?"
+
+msgid "Common"
+msgstr "共通"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "Read only"
+msgstr "読み取り専用"
+
+msgid "Ignore alarms"
+msgstr "アラームを無視"
+
+msgid "Default alarm (minutes)"
+msgstr "既定のアラーム (分)"
+
+msgid "Visual category"
+msgstr "視覚的なカテゴリ"
+
+msgid "Time offset (mins)"
+msgstr "時刻オフセット (分)"
+
+msgid "Time zone"
+msgstr "タイム ゾーン"
+
+msgid "Copy of %s"
+msgstr "%s のコピー"
+
+msgid "Please enter a name for the calendar."
+msgstr "カレンダー名を入力してください。"
+
+msgid "Illegal character!"
+msgstr "正しくない文字です!"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "名前に'/'または';'文字を使用することはできません。"
+
+msgid "A calendar called \"%s\" already exists."
+msgstr "カレンダーは既に存在します: \"%s\""
+
+msgid "Choose another name."
+msgstr "別の名前を選択してください。"
+
+msgid "Authentication failure"
+msgstr "認証失敗"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr ""
+"OAuthプロセスが失敗しました。Rainlendarはカレンダーデータにアクセスできませ"
+"ん。"
+
+msgid "Do you want to delete the skin?"
+msgstr "スキンを削除しますか?"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr "はいを選択すると以下のスキンを完全に削除します: \"%s\""
+
+msgid "Delete failed!"
+msgstr "削除に失敗しました!"
+
+msgid "Unable to delete the skin."
+msgstr "スキンを削除できません。"
+
+msgid "Print"
+msgstr "印刷"
+
+msgid "Print items"
+msgstr "項目を印刷"
+
+msgid "End"
+msgstr "終了"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Variables"
+msgstr "変数"
+
+msgid "Window settings"
+msgstr "ウィンドウ設定"
+
+msgid "Settings can be shown only for a single window."
+msgstr "設定はシングル ウィンドウのみに表示されます。"
+
+msgid "No settings available."
+msgstr "利用できる設定がありません。"
+
+msgid "Global variables"
+msgstr "グローバル変数"
+
+msgid "Grow upwards"
+msgstr "左下を基準点にする"
+
+msgid "Window position"
+msgstr "ウィンドウの位置"
+
+msgid "Disabled"
+msgstr "無効化"
+
+msgid "Click through"
+msgstr "click-through rate：クリック スルー率"
+
+msgid "Scale"
+msgstr "倍率%"
+
+msgid "Filters"
+msgstr "フィルタ"
+
+msgid "Included calendars"
+msgstr "表示するカレンダー"
+
+msgid "Excluded calendars"
+msgstr "除外するカレンダー"
+
+msgid "Included categories"
+msgstr "表示するカテゴリ"
+
+msgid "Excluded categories"
+msgstr "除外するカテゴリ"
+
+msgid "Task list"
+msgstr "タスク リスト"
+
+msgid "Alphabetically"
+msgstr "アルファベット順"
+
+msgid "By Category"
+msgstr "カテゴリ順"
+
+msgid "By Due Date"
+msgstr "期限日時順"
+
+msgid "By Start Date"
+msgstr "開始日時順"
+
+msgid "By Status"
+msgstr "状態順"
+
+msgid "By Priority"
+msgstr "優先度順"
+
+msgid "By Location"
+msgstr "場所順"
+
+msgid "By Calendar"
+msgstr "カレンダー順"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "Primary sort order"
+msgstr "主ソートの順序"
+
+msgid "Secondary sort order"
+msgstr "副ソートの順序"
+
+msgid "Reverse primary sorting"
+msgstr "主ソートを逆順にする"
+
+msgid "Reverse secondary sorting"
+msgstr "副ソートを逆順にする"
+
+msgid "Empty at top"
+msgstr "上部を空にする"
+
+msgid "Hide completed tasks"
+msgstr "完了したタスクを隠す"
+
+msgid "Hide canceled tasks"
+msgstr "キャンセルしたタスクを隠す"
+
+msgid "Hide upcoming tasks"
+msgstr "開始前のタスクを隠す"
+
+msgid "Event list"
+msgstr "イベント リスト"
+
+msgid "Show empty days"
+msgstr "空を表示"
+
+msgid "Window variables"
+msgstr "ウィンドウ変数"
+
+msgid "Appearance"
+msgstr "外観"
+
+msgid "Operations"
+msgstr "操作"
+
+msgid "Left click"
+msgstr "左クリック"
+
+msgid "Right click"
+msgstr "右クリック"
+
+msgid "Double left click"
+msgstr "左ダブルクリック"
+
+msgid "Double right click"
+msgstr "右ダブルクリック"
+
+msgid "Local"
+msgstr "場所"
+
+msgid "Task"
+msgstr "タスク"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr "繰り返しを設定する前に、期限日時を設定する必要があります。"
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "期限は開始時刻より前にすることはできません。"
+
+msgid "Unable to add new alarm!"
+msgstr "アラームを追加できません!"
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr "タスクでは、アラームを設定する前に、期限日時を指定する必要があります。"
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "ライセンスのインストール前に Pro 版にアップグレードしてください。"
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"まだ Pro 版の機能がない Lite 版を使用中です。Rainlendar のダウンロード ページ"
+"で Pro 版を入手してください。"
+
+msgid "&Get Pro"
+msgstr "Pro 版を取得(&G)"
+
+msgid "&Ignore"
+msgstr "無視(&I)"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+".r2skin または .r2lang ファイルをダウンロードして\n"
+"ウェブブラウザーが拡張子を zip に変更してしまった場合には、\n"
+"元の名前に戻してから再度インポートしてください。"
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "ZIP アーカイブは Rainlendar にインポートできません。"
+
+msgid "Unknown file \"%s\"."
+msgstr "不明なファイルです: \"%s\""
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "このファイルは Rainlendar にインポートできません。"
+
+msgid "Installation failed!"
+msgstr "インストールに失敗しました!"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "ファイルをコピーできません。送り側と受け側が同じです。"
+
+msgid "Unable to install the file \"%s\"."
+msgstr "ファイルをインストールできませんでした: \"%s\""
+
+msgid "The folder does not have write permissions."
+msgstr "このフォルダーに書き込む権限がありません。"
+
+msgid "The skin %s doesn't exist."
+msgstr "スキン %s は存在しません。"
+
+msgid "Unable to merge the addon."
+msgstr "アドオンを統合できません。"
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"ファイルが既に存在します: \"%s\"\n"
+"置き換えますか?"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "上記のファイルは既に存在します。上書きしますか?"
+
+msgid "Unable to install the skin!"
+msgstr "スキンをインストールできません!"
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"このスキンはファイル「skin.xml」を含んでいません。\n"
+"本当に XML 形式の Rainlendar スキンですか?"
+
+msgid "The installation was successful!"
+msgstr "インストールしました!"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "ファイルをインストールしました: \"%s\""
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr "変更内容を反映させるには Rainlendar を更新してください。"
+
+msgid "&Refresh"
+msgstr "更新(&R)"
+
+msgid "The installation failed!"
+msgstr "インストールに失敗しました!"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr "ファイルのインストールに失敗しました!: \"%s\""
+
+msgid "Select the calendar for the imported items:"
+msgstr "インポートした項目を格納するカレンダーを選択:"
+
+msgid "There are no calendars available that are able to store the item."
+msgstr "項目を保存できるカレンダーがありません。"
+
+msgid "Imported %i items successfully."
+msgstr "%i 項目をインポートしました。"
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr ""
+"インポートしたイベントの格納先として 1 つ以上のカレンダーの選択が必要です。"
+
+msgid "Version mismatch!"
+msgstr "バージョンが一致しません!"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr ""
+"このスキン アドオンはスキンのバージョン %s 用です。インストールされているバー"
+"ジョンは %s です。"
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "続行しますか? (スキンが破損する場合があります)"
+
+msgid "&Continue"
+msgstr "続行(&C)"
+
+msgid "Ca&ncel"
+msgstr "キャンセル(&N)"
+
+msgid "Failed to install \"%s\"."
+msgstr "インストールに失敗しました: \"%s\""
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"スキン アドオンは既に適用されました。\n"
+"同じアドオンは一度のみ適用できます。"
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "アドオンを統合するための一時フォルダーが作成できません。"
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Control"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Back"
+msgstr "BackSpace"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Return"
+msgstr "Enter"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Space"
+msgstr "Space"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "NumLock"
+msgstr "NumLock"
+
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+msgid "Edit \"%s\""
+msgstr "\"%s\" を編集"
+
+msgid "Delete all"
+msgstr "すべて削除"
+
+msgid "Dismiss alarm"
+msgstr "アラームを閉じる"
+
+msgid "Tomorrow"
+msgstr "明日"
+
+msgid "Yesterday"
+msgstr "昨日"
+
+msgid "Last %1"
+msgstr "前回の%1"
+
+msgid "%1 next week"
+msgstr "来週の%1"
+
+msgid "%1 last week"
+msgstr "先週の%1"
+
+msgid "%1 %2 weeks ago"
+msgstr "%2 週間前の%1"
+
+msgid "%1 in %2 weeks"
+msgstr "%2 週間後の%1"
+
+msgid " (Due in %s)"
+msgstr " (期限まで %s)"
+
+msgid " (Overdue %s)"
+msgstr " (期限から %s超過)"
+
+msgid "day"
+msgstr "日"
+
+msgid "days"
+msgstr "日"
+
+msgid "hour"
+msgstr "時間"
+
+msgid "hours"
+msgstr "時間"
+
+msgid "minute"
+msgstr "分"
+
+msgid "minutes"
+msgstr "分"
+
+msgid " (Due now)"
+msgstr " (期限が来ました)"
+
+msgid "before target"
+msgstr "対象の前"
+
+msgid "Snooze"
+msgstr "スヌーズ"
+
+msgid "Dismiss"
+msgstr "OFF にする"
+
+msgid "Edit..."
+msgstr "編集..."
+
+msgid "Move to next day"
+msgstr "次に移動"
+
+msgid " (%i days)"
+msgstr " (%i 日)"
+
+msgid "Edit event"
+msgstr "イベントを編集"
+
+msgid "Delete event"
+msgstr "イベントを削除"
+
+msgid "[Due %x]"
+msgstr "[期限 %x]"
+
+msgid "No location"
+msgstr "未指定"
+
+msgid "No category"
+msgstr "カテゴリ未指定"
+
+msgid "No due date"
+msgstr "期限日時なし"
+
+msgid "No start date"
+msgstr "開始日時なし"
+
+msgid "High Priority"
+msgstr "優先度 高"
+
+msgid "Medium Priority"
+msgstr "優先度 中"
+
+msgid "Low Priority"
+msgstr "優先度 低"
+
+msgid "No Priority"
+msgstr "優先度なし"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "Expand"
+msgstr "展開"
+
+msgid "Collapse"
+msgstr "折りたたむ"
+
+msgid "New subtask"
+msgstr "新規サブタスク"
+
+msgid "Edit task"
+msgstr "タスクを編集"
+
+msgid "Delete task"
+msgstr "タスクを削除"
+
+msgid "Todo list"
+msgstr "Todo リスト"
+
+msgid "Completed to now"
+msgstr "今までに完了しました"
+
+msgid "No events today."
+msgstr "今日のイベントはありません。"
+
+msgid "Today's events:"
+msgstr "今日のイベント"
+
+msgid "Invalid plugins found!"
+msgstr "無効なプラグインが見つかりました!"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"Rainlendar のプラグイン フォルダー内の\n"
+"以下のファイルは無効であるため削除すべきです:\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"すべてのプラグインが Rainlendar の同じバージョンのものか確認してください。"
+
+msgid "allow multiple instances"
+msgstr "複数インスタンスを許可"
+
+msgid "install a skin or a language"
+msgstr "スキンまたは言語をインストール"
+
+msgid "import the given file"
+msgstr "入力されたファイルをインポート"
+
+msgid "path where the configuration file will be stored"
+msgstr "設定ファイルの保存パス"
+
+msgid "execute the given function in a script"
+msgstr "スクリプト内で与えられた関数を実行"
+
+msgid "path where the log file will be stored"
+msgstr "ログ ファイルの保存パス"
+
+msgid "path where the backups will be stored"
+msgstr "バックアップの格納パス"
+
+msgid "add event or task to the calendar"
+msgstr "カレンダーへのイベント/タスクの追加"
+
+msgid "enable verbose logging"
+msgstr "冗長なログを有効化"
+
+msgid "enable debug logging"
+msgstr "デバッグ ログを有効化"
+
+msgid "disable all logging"
+msgstr "すべてのログを無効にする"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr "ファイルのインポート/インストールの後にメッセージボックスを表示しない"
+
+msgid "Do you want to start another instance?"
+msgstr "別のインスタンスを開始しますか?"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"Rainlendar は既に実行中のようです。 'はい' を選択すると別のインスタンスを開始"
+"できます。"
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"Rainlendar を開始するたびにこの質問が表示される場合はこのファイルを削除してく"
+"ださい:\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"パスからリソースを読み込めません:\n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "イベントやタスクはそのまま残ることに注意してください。"
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"設定ファイルが見つからないか空です\\ n最新のバックアップファイルから復元しま"
+"すか？"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"設定ファイルを作成できません:\n"
+"\n"
+"%s\n"
+"\n"
+"フォルダーに書き込む権限があることを確認してください。"
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"設定ファイルが書き込み不可です:\n"
+"\n"
+"%s\n"
+"\n"
+"フォルダーに正しい権限があることを確認してください。"
+
+msgid "You won't be able to store any settings permanently."
+msgstr "設定を保存できません。"
+
+msgid "This is a BETA version."
+msgstr "これはベータ版です。"
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"ご使用中の Rainlendar はベータ版です。このソフトウェアが日常の使用に適してい"
+"るかテストしていません。\n"
+"\n"
+"すべてのエラーを www.rainlendar.net の Rainlendar's BETA forum に報告してくだ"
+"さい。\n"
+"\n"
+"(このメッセージは一度だけ表示されます)"
+
+msgid "Google Calendar support has been changed"
+msgstr "Googleカレンダーのサポートが変更されました"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"Googleカレンダーのサポートでは、別のカレンダータイプが使用されるようになりま"
+"したGoogle予定を再度表示するには、新しいカレンダーを作成し、カレンダーの種類"
+"として[Googleカレンダー(v 3)]を選択する必要があります。"
+
+msgid "Everything is hidden."
+msgstr "すべて非表示です。"
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"ウィンドウとトレイアイコンがすべて非表示になります。続行しますか?\n"
+"\n"
+"すべてを非表示にしてこのダイアログを再度表示しないようにするには 'はい' をク"
+"リックしてください。\n"
+"すべてのウィンドウを再度表示するには 'いいえ' をクリックしてください。"
+
+msgid "Startup error!"
+msgstr "開始エラー!"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"Rainlendar は設定を更新できませんでした。設定をすべてリセットして再度試します"
+"か? バックアップされた設定の 1 つを使用しますか?"
+
+msgid "&Reset"
+msgstr "リセット(&R)"
+
+msgid "&Use backup"
+msgstr "バックアップを使用(&U)"
+
+msgid "&Keep"
+msgstr "保持(&K)"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"パスにスキンがありません:\n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"選択したスキンを、Rainlendar は読み込めませんでした。 代わりに既定のスキンを"
+"使用しますか?"
+
+msgid "Unable to load the skin!"
+msgstr "スキンを読み込めません!"
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr ""
+"選択されたスキンを読み込めませんでした。詳細は Rainlender のログをご覧くださ"
+"い。"
+
+msgid "&Ok"
+msgstr "&OK"
+
+msgid "&Show log"
+msgstr "ログを表示(&S)"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr ""
+"ライセンスファイルが空です."
+"ライセンスファイルをダウンロードするときは、必ず完全なURLを使用してください"
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"ライセンス ファイルが無効です"
+"ライセンスをダウンロードできる回数を超えました"
+"詳細については、Rainlendarのサポートにお問い合わせください"
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"ライセンス ファイルの形式が有効ではありません"
+"正しいライセンス ファイルを使用していることを確認する"
+"エラーが続く場合は、ファイルをもう一度ダウンロードすることもできます"
+
+msgid "Skin error!"
+msgstr "スキンエラー！"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"Shadow 4の「Large Calendar」スキンウィンドウは、デフォルトの「Calendar」ウィ"
+"ンドウの「Large」オプションに置き換えられました[OK]をクリックしてスキンをリ"
+"セットします"
+
+msgid "Use large default skin?"
+msgstr "デフォルトの大きなスキンを使用しますか？"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"デフォルト値が画面解像度に対して小さすぎる可能性があります大きいフォントと"
+"ウィンドウを使用しますか？"
+
+msgid "&Large"
+msgstr "大"
+
+msgid "&Small"
+msgstr "小"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"古い Rainlendar ファイルが見つかりました:\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "これらをインポートしますか?"
+
+msgid "Import failed with file: \"%s\""
+msgstr "ファイルからのインポートに失敗しました: \"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "Rainlendar2 Pro を購入しますか?"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"Rainlendarを1か月間お楽しみいただけましたか? Pro版に移行して新しい機能を入手"
+"しませんか? 下の「今すぐ購入」ボタンで割引価格でお求めいただけます。 「要りま"
+"せん」ボタンを押すと今後はこのメッセージを表示しません。\n"
+"\n"
+"ご支援いただいてありがとうございます。"
+
+msgid "&Buy Now"
+msgstr "今すぐ購入(&B)"
+
+msgid "&Remind later"
+msgstr "あとで通知(&R)"
+
+msgid "&No Thanks"
+msgstr "要りません(&N)"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Make a selection:"
+msgstr "選択してください:"
+
+msgid "Hide Windows"
+msgstr "ウィンドウを隠す"
+
+msgid "Show Windows"
+msgstr "ウィンドウを表示"
+
+msgid "Toggle Windows"
+msgstr "ウィンドウを切り替え"
+
+msgid "Toggle Today Window"
+msgstr "今日ウィンドウを切り替え"
+
+msgid "Create New Task"
+msgstr "新規タスクを作成"
+
+msgid "Create New Event"
+msgstr "新規イベントを作成"
+
+msgid "Create new event or task"
+msgstr "新規イベント/タスクを作成"
+
+msgid "Quit Application"
+msgstr "アプリケーションを終了"
+
+msgid "Business"
+msgstr "ビジネス"
+
+msgid "Calls"
+msgstr "訪問"
+
+msgid "Clients"
+msgstr "クライアント"
+
+msgid "Competition"
+msgstr "試合"
+
+msgid "Customer"
+msgstr "顧客"
+
+msgid "Exam"
+msgstr "試験"
+
+msgid "Favorites"
+msgstr "お気に入り"
+
+msgid "Follow Up"
+msgstr "追跡"
+
+msgid "Gifts"
+msgstr "贈り物"
+
+msgid "Holidays"
+msgstr "休日"
+
+msgid "Ideas"
+msgstr "アイデア"
+
+msgid "Important"
+msgstr "重要"
+
+msgid "Issues"
+msgstr "問題"
+
+msgid "Miscellaneous"
+msgstr "雑用"
+
+msgid "Personal"
+msgstr "個人"
+
+msgid "Projects"
+msgstr "プロジェクト"
+
+msgid "Public Holiday"
+msgstr "祝祭日"
+
+msgid "Suppliers"
+msgstr "納入"
+
+msgid "Travel"
+msgstr "長期旅行"
+
+msgid "Trip"
+msgstr "旅行"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Vacation"
+msgstr "休暇"
+
+msgid "Work"
+msgstr "仕事"
+
+msgid "Medical"
+msgstr "医療"
+
+msgid "Urgent"
+msgstr "緊急"
+
+msgid "Health"
+msgstr "健康"
+
+msgid "Sport"
+msgstr "スポーツ"
+
+msgid "Game"
+msgstr "ゲーム"
+
+msgid "School"
+msgstr "学校"
+
+msgid "Party"
+msgstr "パーティ"
+
+msgid "Movie"
+msgstr "映画"
+
+msgid "Car"
+msgstr "車"
+
+msgid "Payments"
+msgstr "支払い"
+
+msgid "Money"
+msgstr "お金"
+
+msgid "Pets"
+msgstr "ペット"
+
+msgid "Theatre"
+msgstr "劇場"
+
+msgid "Music"
+msgstr "音楽"
+
+msgid "[Black]"
+msgstr "[黒]"
+
+msgid "[Blue]"
+msgstr "[青]"
+
+msgid "[Brown]"
+msgstr "[茶色]"
+
+msgid "[Cyan]"
+msgstr "[シアン]"
+
+msgid "[Green]"
+msgstr "[緑]"
+
+msgid "[Grey]"
+msgstr "[灰色]"
+
+msgid "[Magenta]"
+msgstr "[マゼンタ]"
+
+msgid "[Pink]"
+msgstr "[ピンク]"
+
+msgid "[Red]"
+msgstr "[赤]"
+
+msgid "[Yellow]"
+msgstr "[黄色]"
+
+msgid "[Orange]"
+msgstr "[オレンジ]"
+
+msgid "Must Attend"
+msgstr "出席が必要"
+
+msgid "Travel Required"
+msgstr "旅行が必要"
+
+msgid "Needs Preparation"
+msgstr "準備が必要"
+
+msgid "Phone Call"
+msgstr "電話"
+
+msgid "iCalendar Format"
+msgstr "iCalendar 形式"
+
+msgid "Network Shared Calendar"
+msgstr "ネットワーク共有カレンダー"
+
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+msgid "Rainlendar Ini Format"
+msgstr "Rainlendar INI 形式"
+
+msgid "Google Calendar"
+msgstr "Google カレンダー"
+
+msgid "CalDAV Calendar"
+msgstr "CalDAV カレンダー"
+
+msgid "Google Calendar (v3)"
+msgstr "Google カレンダー (v3)"
+
+msgid "Google Tasks"
+msgstr "Google タスク"
+
+msgid "Comma Separated Values"
+msgstr "CSV (カンマ区切り) 形式"
+
+msgid "&Next >"
+msgstr "次へ(&N) >"
+
+msgid "< &Back"
+msgstr "< 戻る(&B)"
+
+msgid "&Finish"
+msgstr "完了(&F)"
+
+msgid "Vertical Calendar"
+msgstr "縦型カレンダー"
+
+msgid "Year Calendar"
+msgstr "通年カレンダー"
+
+msgid "Sidebar"
+msgstr "サイドバー"
+
+msgid "DigiClock"
+msgstr "デジタル時計"
+
+msgid "Dual Calendar"
+msgstr "二連カレンダー"
+
+msgid "Todo List"
+msgstr "Todo リスト"
+
+msgid "Grid Calendar"
+msgstr "グリッド カレンダー"
+
+msgid "Vertical Line Calendar"
+msgstr "縦型線カレンダー"
+
+msgid "Horizontal Line Calendar"
+msgstr "横型線カレンダー"
+
+msgid "Visible month"
+msgstr "表示月"
+
+msgid "Show buttons"
+msgstr "ボタンを表示"
+
+msgid "Show adjacent days"
+msgstr "前月/翌月の隣接日を表示"
+
+msgid "Eventlist max height"
+msgstr "イベントリストの最大高さ"
+
+msgid "Todolist max height"
+msgstr "トドリストの最大高さ"
+
+msgid "Show week numbers"
+msgstr "週番号を表示"
+
+msgid "Format"
+msgstr "書式"
+
+msgid "Timezone"
+msgstr "タイムゾーン"
+
+msgid "Label"
+msgstr "ラベル"
+
+msgid "Show 3rd month"
+msgstr "3 か月めを表示"
+
+msgid "Show 4th month"
+msgstr "4 か月めを表示"
+
+msgid "Show 5th month"
+msgstr "5 か月めを表示"
+
+msgid "Show 6th month"
+msgstr "6 か月めを表示"
+
+msgid "Show 7th month"
+msgstr "7 か月めを表示"
+
+msgid "Show 8th month"
+msgstr "8 か月めを表示"
+
+msgid "Color"
+msgstr "色"
+
+msgid "Analog Clock"
+msgstr "アナログ時計"
+
+msgid "Calendar List"
+msgstr "カレンダー リスト"
+
+msgid "X count"
+msgstr "水平方向の個数"
+
+msgid "Y count"
+msgstr "垂直方向の個数"
+
+msgid "Snooze All"
+msgstr "すべてスヌーズ"
+
+msgid "Dismiss All"
+msgstr "すべて OFF にする"
+
+msgid "To do"
+msgstr "Todo"
+
+msgid "Today color"
+msgstr "今日の色"
+
+msgid "Today shape"
+msgstr "今日の形状"
+
+msgid "Circle"
+msgstr "円形"
+
+msgid "Rectangle"
+msgstr "長方形"
+
+msgid "Slim circle"
+msgstr "細い円形"
+
+msgid "Slim rectangle"
+msgstr "細い長方形"
+
+msgid "Red"
+msgstr "赤"
+
+msgid "Orange"
+msgstr "オレンジ"
+
+msgid "Yellow"
+msgstr "黄色"
+
+msgid "Green"
+msgstr "緑"
+
+msgid "Cyan"
+msgstr "シアン"
+
+msgid "Blue"
+msgstr "青"
+
+msgid "Magenta"
+msgstr "マゼンタ"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"人気の Shadow3 スキンに 「前月/翌月の隣接日の表示」や 「スキン対応のツール"
+"チップ」などの 機能が追加された後継版です。"
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"カレンダーに表示する月を指定します。+1 で翌月、-1 で前月、1 から 12 で現在の"
+"年の指定された月に設定されます。"
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr "カレンダーの前へ/次へボタンを隠すにはチェックを OFF にします。"
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr "前月/翌月の隣接日を隠すにはチェックを OFF にします。"
+
+msgid "Defines the maximum height of the alarm."
+msgstr "アラームの最大高さを定義します。"
+
+msgid "Defines the maximum height of the event list."
+msgstr "イベントリストの最大高さを定義します。"
+
+msgid "Defines the maximum height of the to do list."
+msgstr "やるべきことのリストの最大高さを定義します。"
+
+msgid "Defines the width of the calendar list."
+msgstr "カレンダー リストの幅を指定します。"
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "カレンダーの週番号を隠すにはチェックを OFF にします。"
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr "時計での書式を指定します。秒を取り除くには %H:%M または %#I:%M %p"
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"タイムゾーンを指定します。数値で: ... -3, -2, -1, 0, +1, +2, +3, ...。CET, "
+"EST, PST, A_CST, ... のような値も使用できます。"
+
+msgid "Adds a label for the clock."
+msgstr "時計のラベルを追加します。"
+
+msgid "Defines the color of the today marker."
+msgstr "今日のマーカーの色を指定します。"
+
+msgid "Defines the shape of the today marker."
+msgstr "今日のマーカーの形状を指定します。"
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "ウィンドウ内に横方向に表示するカレンダー数を指定します。"
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "ウィンドウ内に縦方向に表示するカレンダー数を指定します。"
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "カレンダーの曜日を隠すにはチェックを OFF にします。"
+
+msgid "Week View"
+msgstr "週表示"
+
+msgid "Today position"
+msgstr "今日の位置"
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"今日を配置する位置を指定します。0 (既定値): 週表示で週全体を表示します (今日"
+"の位置が変化します)。 1 から 7: 今日を常にその位置に固定します (それに従って"
+"曜日が変化します)。"
+
+msgid "Autoscroll"
+msgstr "自動スクロール"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "自動スクロールを無効にするにはチェックを OFF にします。"
+
+msgid "Week view date format"
+msgstr "週表示での日付の書式"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr "スケジュールの日付の書式を指定します。既定値は %#d.%#m です。"
+
+msgid "Week view time format"
+msgstr "週表示での時刻の書式"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"スケジュールの時刻の書式を指定します。既定値は %H:%M です。AM/PM 形式の場合"
+"は %#I %p です。"
+
+msgid "Time item height"
+msgstr "時刻項目の高さ"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr "1 つの時刻項目の高さを指定します。既定値は 30 ピクセルです。"
+
+msgid "Time item duration"
+msgstr "時刻項目の継続時間"
+
+msgid "60 Minutes"
+msgstr "60 分"
+
+msgid "30 Minutes"
+msgstr "30 分"
+
+msgid "15 Minutes"
+msgstr "15 分"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr "1 つの時刻項目の継続時間を指定します。既定値は 60 分です。"
+
+msgid "All day max height"
+msgstr "全日の最大の高さ"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"全日のイベント エリアの最大の高さです。イベントがこのエリア内に収まらない場合"
+"はスクロール バーが表示されます。"
+
+msgid "Event min height"
+msgstr "イベントの最小の高さ"
+
+msgid "The minimum height of the event."
+msgstr "イベントの最小の高さです。"
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "週番号を隠すにはチェックを OFF にします。"
+
+msgid "Show weekdays"
+msgstr "曜日を表示"
+
+msgid "Day View"
+msgstr "日表示"
+
+msgid "Day view time format"
+msgstr "日表示での時刻の書式"
+
+msgid "Day view date format"
+msgstr "日表示での日付の書式"
+
+msgid "Month View"
+msgstr "月表示"
+
+msgid "Show background"
+msgstr "背景を表示"
+
+msgid "Uncheck to make the background transparent."
+msgstr "背景を透過させるにはチェックを OFF にします。"
+
+msgid "Large Calendar"
+msgstr "大きいカレンダー"
+
+msgid "Today window max height"
+msgstr "今日ウィンドウの最大の高さ"
+
+msgid "Defines the maximum height of the today window."
+msgstr "今日ウィンドウの最大の高さを指定します。"
+
+msgid "Today show tasks"
+msgstr "今日のタスクを表示"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr "今日ウィンドウにタスクを表示するかどうか指定します。"
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"このスキンには複数の配色があります。 スキンの設定またはカレンダーの下の 矢印"
+"をクリックすると変更できます。"
+
+msgid "Brown"
+msgstr "茶色"
+
+msgid "Dark"
+msgstr "暗"
+
+msgid "Colorless"
+msgstr "色なし"
+
+msgid "Defines the color of the windows."
+msgstr "ウィンドウの色を指定します。"
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr "イベント リストのヘッダの日付の書式を指定します。"
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr "イベント リストの最大の高さを指定します。既定値は 300 ピクセルです。"
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr "Todo リストの最大の高さを指定します。既定値は 300 ピクセルです。"
+
+msgid "Removes the color from the windows."
+msgstr "ウィンドウから色を消します。"
+
+msgid "Creates darker version of the windows."
+msgstr "暗い版のウィンドウを作成します。"
+
+msgid "All day"
+msgstr "全日"
+
+msgid "Day bar show day"
+msgstr "DAY BAR SHOW DAY"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr "日番号と名前が日バーに表示されるかどうかを定義します。"
+
+msgid "Day bar am-pm"
+msgstr "DAY BAR AM - PM"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "12時間時計で時刻を表示するには、チェックしてください。"
+
+msgid "Bar event"
+msgstr "バーイベント"
+
+msgid "The event color for the bars."
+msgstr "バーのイベントカラー。"
+
+msgid "Conditions: "
+msgstr "状態: "
+
+msgid "Temperature: "
+msgstr "温度: "
+
+msgid "Humidity: "
+msgstr "湿度: "
+
+msgid "Winds: "
+msgstr "風: "
+
+msgid "Time: "
+msgstr "日時: "
+
+msgid "Refreshing..."
+msgstr "更新中..."
+
+msgid "Downloading: "
+msgstr "ダウンロード中: "
+
+msgid "Download failed!"
+msgstr "ダウンロード失敗!"
+
+msgid "Loading..."
+msgstr "読み込み中..."
+
+msgid "Unknown result!"
+msgstr "不明な結果です!"
+
+msgid "Upcoming programs:"
+msgstr "開始前のプログラム:"
+
+msgid "Parsing failed!"
+msgstr "構文解析に失敗しました!"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr "日　　　　時間　　　 分　　　 秒"
+
+msgid "Loading feed..."
+msgstr "フィードを読み込み中..."
+
+msgid "Lo: "
+msgstr "最低: "
+
+msgid "Hi: "
+msgstr "最高: "
+
+msgid "Min:"
+msgstr "最小:"
+
+msgid "Max:"
+msgstr "最大:"
+
+msgid "Chance of precipitation: "
+msgstr "降水確率: "
+
+msgid "New moon"
+msgstr "新月"
+
+msgid "Waxing crescent"
+msgstr "三日月"
+
+msgid "First quarter"
+msgstr "上弦"
+
+msgid "Waxing gibbous"
+msgstr "十三夜"
+
+msgid "Full moon"
+msgstr "満月"
+
+msgid "Waning gibbous"
+msgstr "十八夜"
+
+msgid "Last quarter"
+msgstr "下弦"
+
+msgid "Waning crescent"
+msgstr "二十六夜"
+
+msgid "Southern hemisphere"
+msgstr "南半球"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr "月相を南半球での見え方に変更するには 1 に設定します。"
+
+msgid "World Time"
+msgstr "世界時間"
+
+msgid "World time format"
+msgstr "世界時間の書式"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"時刻の書式を指定します。既定値は %H:%M です。AM/PM 形式の場合は %#I:%M %p で"
+"す。"
+
+msgid "World time location 1"
+msgstr "世界時間の場所 1"
+
+msgid "Defines the title for the time."
+msgstr "時刻のタイトルを指定します。"
+
+msgid "World time timezone 1"
+msgstr "世界時間のタイムゾーン 1"
+
+msgid "World time location 2"
+msgstr "世界時間の場所 2"
+
+msgid "World time timezone 2"
+msgstr "世界時間のタイムゾーン 2"
+
+msgid "World time location 3"
+msgstr "世界時間の場所 3"
+
+msgid "World time timezone 3"
+msgstr "世界時間のタイムゾーン 3"
+
+msgid "World time location 4"
+msgstr "世界時間の場所 4"
+
+msgid "World time timezone 4"
+msgstr "世界時間のタイムゾーン 4"
+
+msgid "Photos"
+msgstr "写真"
+
+msgid "Weather"
+msgstr "天気"
+
+msgid "Countdown"
+msgstr "カウントダウン"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Create New"
+msgstr "新規作成"
+
+msgid "Moon Phase"
+msgstr "月齢"
+
+msgid "QuickAdd"
+msgstr "クイック追加"
+
+msgid "Translate"
+msgstr "翻訳"
+
+msgid "Text File"
+msgstr "テキスト ファイル"
+
+msgid "RSS height"
+msgstr "RSS の高さ"
+
+msgid "Defines the maximum height of the list."
+msgstr "リストの最大高さを定義します。"
+
+msgid "RSS location"
+msgstr "RSS フィードの場所"
+
+msgid "Location of the RSS feed."
+msgstr "RSS フィードの場所です。"
+
+msgid "Weather location"
+msgstr "天気フィードの場所"
+
+msgid "Location of the weather feed."
+msgstr "天気フィードの場所です。"
+
+msgid "Weather city"
+msgstr "天気の都市"
+
+msgid "The city for the weather."
+msgstr "天気を表示する都市です。"
+
+msgid "Weather language"
+msgstr "天気の言語"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr "天気の言語です。以下のような略語を使用します: en, fi, ru, zh-cn, ..."
+
+msgid "Photos random"
+msgstr "写真をランダムに表示"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr ""
+"画像を順番に表示するにはチェックを OFF にしてください。チェックするとランダム"
+"な順序で表示します。"
+
+msgid "Photos update"
+msgstr "写真の更新間隔 (分)"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "画像の更新間隔を指定します。値の単位は分です。"
+
+msgid "Photos folder"
+msgstr "写真のフォルダー"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"写真をスキャンするローカル フォルダーを指定します。 空欄の場合は Flickr から"
+"写真をダウンロードします。"
+
+msgid "Countdown event"
+msgstr "カウントダウンするイベント"
+
+msgid "The description of the event."
+msgstr "イベントの説明です。"
+
+msgid "Countdown time"
+msgstr "カウントダウンの時刻"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "イベントの時刻です。HH:MM:SS 形式を使用します。"
+
+msgid "Countdown date"
+msgstr "カウントダウンの日付"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "イベントの日付です。YYYY-MM-DD 形式を使用します。"
+
+msgid "TV height"
+msgstr "TV の高さ"
+
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+msgid "File path"
+msgstr "ファイル パス"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "ウィンドウに表示するファイル名とパスを指定します。"
+
+msgid "No file given"
+msgstr "ファイルが入力されていません"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr ""
+"ウィンドウの設定を開いてテキスト ファイルのパス変数を設定してください。"
+
+msgid "File window full rows"
+msgstr "ファイル ウィンドウ: 行全体"
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr ""
+"行全体を表示するにはチェックします。行を切る場合はチェックを OFF にします。"
+
+msgid "File window width"
+msgstr "ファイル ウィンドウの幅"
+
+msgid "The width of the calendar window."
+msgstr "カレンダー ウィンドウの幅です。"
+
+msgid "The height of the calendar window."
+msgstr "カレンダー ウィンドウの高さです。"
+
+msgid "Defines the width of the event list."
+msgstr "イベント リストの幅を指定します。"
+
+msgid "Defines the width of the to do list."
+msgstr "Todo リストの幅を指定します。"
+
+msgid "Defines the width of the quickadd window."
+msgstr "クイック追加ウィンドウの幅を指定します。"
+
+msgid "Defines the width of the day view window."
+msgstr "日表示ウィンドウの幅を指定します。"
+
+msgid "Defines the height of the day view window."
+msgstr "日表示ウィンドウの高さを指定します。"
+
+msgid "Defines the width of the week view window."
+msgstr "週表示ウィンドウの幅を指定します。"
+
+msgid "Defines the height of the week view window."
+msgstr "週表示ウィンドウの高さを指定します。"
+
+msgid "Defines the width of the calendar window."
+msgstr "カレンダー ウィンドウの幅を指定します。"
+
+msgid "Defines the height of the calendar window."
+msgstr "カレンダー ウィンドウの高さを指定します。"
+
+msgid "ctrl"
+msgstr "Ctrl"
+
+msgid "alt"
+msgstr "Alt"
+
+msgid "shift"
+msgstr "Shift"
+
+msgid "Mark as completed"
+msgstr "完了としてマーク"
+
+msgid "Mark as needs action"
+msgstr "アクションが必要としてマーク"
+
+msgid "Recurring"
+msgstr "繰り返し"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Text color"
+msgstr "文字色"
+
+msgid "Tooltip color"
+msgstr "ツールチップの色"
+
+msgid "Black"
+msgstr "黒"
+
+msgid "White"
+msgstr "白"
+
+msgid "Light grey"
+msgstr "薄い灰色"
+
+msgid "Light pink"
+msgstr "薄ピンク"
+
+msgid "Grey"
+msgstr "灰色"
+
+msgid "Pink"
+msgstr "ピンク"
+
+msgid "Schedule background"
+msgstr "スケジュールの背景"
+
+msgid "The background color for the day, week and month views."
+msgstr "日表示、週表示、月表示の背景色です。"
+
+msgid "Schedule text color"
+msgstr "スケジュールの文字色"
+
+msgid "The text color for the day, week and month views."
+msgstr "日表示、週表示、月表示の文字色です。"
+
+msgid "Calendar day color"
+msgstr "カレンダーの日の色"
+
+msgid "Large calendar day color"
+msgstr "大きいカレンダーの日の色"
+
+msgid "The color for the days in the calendar."
+msgstr "カレンダーの日の色です。"
+
+msgid "Calendar day text color"
+msgstr "カレンダーの日の文字色"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "カレンダーの日番号の色です。"
+
+msgid "Small icon"
+msgstr "小さいアイコン"
+
+msgid "The icon which is shown in the calendar."
+msgstr "カレンダーに表示されるアイコンです。"
+
+msgid "Large icon"
+msgstr "大きいアイコン"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "イベントや Todo リストに表示されるアイコンです。"
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "リストやツールチップの文字色です。"
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr ""
+"優先度によって、カテゴリが同じ日に複数ある場合にどれを表示するかが決まりま"
+"す。"
+
+msgid "Schedule text shadow color"
+msgstr "スケジュールの文字の影の色"
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "日表示、週表示、月表示の文字の影の色です。"
+
+msgid "Calendar day text shadow color"
+msgstr "カレンダーの日の文字の影の色"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "カレンダーの日番号の影の色です。"
+
+msgid "Text shadow color"
+msgstr "文字の影の色"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "リストやツールチップの文字の影の色です。"
+
+msgid "Show date"
+msgstr "日付を表示"
+
+msgid "Check to show also the current date."
+msgstr "現在の日付も表示するにはチェックしてください。"
+
+msgid "This defines the format of the time."
+msgstr "時刻の書式を指定します。"
+
+msgid "This defines the format of the date."
+msgstr "日付の書式を指定します。"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Search engine"
+msgstr "検索エンジン"
+
+msgid "Choose the search engine"
+msgstr "検索エンジンを選択"
+
+msgid "Enter search text"
+msgstr "検索するテキストを入力"
+
+msgid "Show title"
+msgstr "タイトルを表示"
+
+msgid "Check to show a title text."
+msgstr "タイトル テキストを表示するにはチェックしてください。"
+
+msgid "Title text"
+msgstr "タイトル テキスト"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "日時の上に表示されるタイトル テキストを指定します。"
+
+msgid "Weather woeid"
+msgstr "天気の WOEID"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "天気の地点を示す Yahoo WOEID です。"
+
+msgid "Weather celsius"
+msgstr "天気の℃"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "温度を℃で表示するにはチェックしてください。"
+
+msgid "Bold blue"
+msgstr "派手な青"
+
+msgid "Turquoise"
+msgstr "ターコイズ"
+
+msgid "Bold green"
+msgstr "派手な緑"
+
+msgid "Bold red"
+msgstr "派手な赤"
+
+msgid "Purple"
+msgstr "紫"
+
+msgid "Gray"
+msgstr "灰色"
+
+msgid "No events today"
+msgstr "今日のイベントはありません"
+
+msgid "No tasks today"
+msgstr "今日のタスクはありません"
+
+msgid "Background opacity"
+msgstr "背景の不透明度"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr "ウィンドウの背景の不透明度を指定します (0～100)。"
+
+msgid "Snooze menu"
+msgstr "おやすみメニュー"
+
+msgid "Pressure: "
+msgstr "気圧："
+
+msgid "UV index: "
+msgstr "UV指数"
+
+msgid "Feels like: "
+msgstr "のように感じます"
+
+msgid "Sunrise: "
+msgstr "日出："
+
+msgid "Sunset: "
+msgstr "日没："
+
+msgid "Tonight"
+msgstr "今夜"
+
+msgid "Menu"
+msgstr "メニュー"
+
+msgid "Large"
+msgstr "大"
+
+msgid "Use large images and more space between the items."
+msgstr "大きな画像を使用し、アイテム間のスペースを増やします。"
+
+msgid "Alarm max height"
+msgstr "アラームの最大高さ"
+
+msgid "Horizontal Day Bar"
+msgstr "水平デイバー"
+
+msgid "Vertical Day Bar"
+msgstr "バーティカルデイバー"
+
+msgid "Day bar show text"
+msgstr "デイバー表示テキスト"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "イベントからテキストを非表示にするには、チェックを外します。"
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "カレンダーやリストの文字色です。"
+
+msgid "The color of the text in the tooltip."
+msgstr "ツールチップの文字色です。"
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"カレンダーに表示する月を指定します。+1 で翌月、-1 で前月、0 から 11 で現在の"
+"年の指定された月に設定されます。"
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"利用中のスキンが見つかりません。\n"
+"OK をクリックして利用できるスキンを読み込んでください。"
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"スキン内にアクティブなウィンドウがありません。\n"
+"既定のウィンドウを代わりに使用します。"
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"スキンが存在しません。\n"
+"OK をクリックして利用できるスキンを読み込んでください。"
+
+msgid "No items"
+msgstr "項目はありません"
+
+msgid "No events"
+msgstr "イベントはありません"
+
+msgid "No tasks"
+msgstr "タスクはありません"
+
+msgid "Synchronizing"
+msgstr "同期中"
+
+msgid "Offline"
+msgstr "オフライン"
+
+msgid "today"
+msgstr "今日"
+
+msgid "tomorrow"
+msgstr "チェックアウト - 明日"
+
+msgid "yesterday"
+msgstr "昨日"
+
+msgid "Jan"
+msgstr "1月"
+
+msgid "Feb"
+msgstr "2月"
+
+msgid "Mar"
+msgstr "3月"
+
+msgid "Apr"
+msgstr "4月"
+
+msgid "Jun"
+msgstr "6月"
+
+msgid "Jul"
+msgstr "7月"
+
+msgid "Aug"
+msgstr "8月"
+
+msgid "Sep"
+msgstr "9月"
+
+msgid "Oct"
+msgstr "10月"
+
+msgid "Nov"
+msgstr "11月"
+
+msgid "Dec"
+msgstr "12月"
+
+msgid "%ith"
+msgstr "%i"
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11;12;13;1;2;3"
+
+msgid "edit"
+msgstr "編集"
+
+msgid "Do you want to create the file?"
+msgstr "ファイルを作成しますか?"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"ファイルが存在しません:\n"
+"%s"
+
+msgid "Unable to create the file \"%s\"."
+msgstr "ファイルを作成できませんでした: \"%s\""
+
+msgid "This is a read only event."
+msgstr "これは読み取り専用のイベントです。"
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "このイベントは Rainlendar では編集できません。"
+
+msgid "This is a read only task."
+msgstr "これは読み取り専用のタスクです。"
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "このタスクは Rainlendar では編集できません。"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Organizer"
+msgstr "事務局"
+
+msgid "Accepted"
+msgstr "承諾"
+
+msgid "Declined"
+msgstr "却下された"
+
+msgid "Tentative"
+msgstr "暫定的@item event is definite"
+
+msgid "Needs action"
+msgstr "アクションが必要@item event, to-do or journal accepted"
+
+msgid "Create a new calendar"
+msgstr "新規カレンダーを作成"
+
+msgid "Please select the type of the calendar."
+msgstr "カレンダーの種類を選択してください。"
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr ""
+"種類によりイベントの形式と保存場所が\n"
+"決まります。"
+
+msgid "local"
+msgstr "ローカル"
+
+msgid "deprecated"
+msgstr "廃止予定"
+
+msgid "Type"
+msgstr "種類"
+
+msgid "Go Pro"
+msgstr "Pro 版に移行"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro では、Outlook、Google Calendar や他のサードパーティのカレン"
+"ダーやタスクリストに、デスクトップから直接アクセスできます。"
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro では、Google Calendar や他のサードパーティのカレンダーやタスク"
+"リストに、デスクトップから直接アクセスできます。"
+
+msgid "Buy license"
+msgstr "ライセンスを購入"
+
+msgid "See differences"
+msgstr "違いを見る"
+
+msgid "No calendar selected!"
+msgstr "カレンダーが選択されていません!"
+
+msgid "You need to select a calendar type."
+msgstr "カレンダーの種類の選択が必要です。"
+
+msgid "Finish the authentication in your browser"
+msgstr "ブラウザで認証を完了する"
+
+msgid "Authenticating..."
+msgstr "認証中..."
+
+msgid "Downloading..."
+msgstr "ダウンロード中..."
+
+msgid "No urls allowed!"
+msgstr "URL は許可されていません!"
+
+msgid "Only local files can be defined as the file name."
+msgstr "ファイル名として指定できるのはローカル ファイルのみです。"
+
+msgid "No UNC paths allowed!"
+msgstr "UNC パスは許可されていません!"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"ファイル名には UNC パスは使用できません。サーバー上のファイルにアクセスするに"
+"は 'ネットワーク ドライブの割り当て' を行う必要があります。"
+
+msgid "No filename defined!"
+msgstr "ファイル名が指定されていません!"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"ファイル名を空欄にすることはできません。イベントやタスクを保存するファイルの"
+"指定が必要です。"
+
+msgid "The file name is missing."
+msgstr "ファイル名がありません。"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"新規カレンダーを作成する場合は任意の名前を入力できます。 そうではない場合は既"
+"存の iCalendar ファイル (*.ics) を選択してください。"
+
+msgid "The url is empty!"
+msgstr "URL が空です!"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"URL を空欄にすることはできません。イベントやタスクを保存するファイルの指定が"
+"必要です。"
+
+msgid "The protocol is missing!"
+msgstr "プロトコルがありません!"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "URL のプロトコル (例: \"http://\") も入力してください。"
+
+msgid "The file name is missing from the url!"
+msgstr "URL にファイル名がありません!"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"新規カレンダーを作成する場合は任意の名前を入力できます。\n"
+"そうではない場合はサーバーがこの URL にファイルを\n"
+"本当に何も作成していないことを確認すべきです。\n"
+"\n"
+"続行しますか?"
+
+msgid "Incorrect email!"
+msgstr "正しくないメール アドレスです!"
+
+msgid "You need to enter a full email address."
+msgstr "完全なメール アドレスを入力する必要があります。"
+
+msgid "Please select the calendar."
+msgstr "カレンダーを選択してください。"
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr "カレンダーを何も選択していません。本当に続行しますか?"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "The calendar already exists!"
+msgstr "カレンダーは既に存在します!"
+
+msgid "Please choose some other name for the calendar."
+msgstr "他のカレンダー名を選択してください。"
+
+msgid "The calendar name is empty!"
+msgstr "カレンダー名が空です!"
+
+msgid "You must give a name for the calendar."
+msgstr "カレンダー名の入力が必要です。"
+
+msgid "Alarm sound"
+msgstr "アラーム音"
+
+msgid "Select alarm sound"
+msgstr "アラーム音の選択"
+
+msgid "Default sound"
+msgstr "既定のサウンド"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "No sound"
+msgstr "サウンドなし"
+
+msgid "Custom sound / executable"
+msgstr "カスタム サウンド / 実行ファイル"
+
+msgid "Browse..."
+msgstr "参照..."
+
+msgid "Bulk Change"
+msgstr "一括変更"
+
+msgid "Type:"
+msgstr "種類:"
+
+msgid "Summary:"
+msgstr "概要:"
+
+msgid "Location:"
+msgstr "場所:"
+
+msgid "Url:"
+msgstr "URL:"
+
+msgid "Class:"
+msgstr "クラス:"
+
+msgid "Time type:"
+msgstr "時刻の種類:"
+
+msgid "With time"
+msgstr "時刻あり"
+
+msgid "Start time:"
+msgstr "開始日時:"
+
+msgid "Absolute"
+msgstr "絶対的"
+
+msgid "Relative"
+msgstr "相対的"
+
+msgid "Months"
+msgstr "か月"
+
+msgid "Years"
+msgstr "年"
+
+msgid "Visibility:"
+msgstr "表示:"
+
+msgid "Show in calendar"
+msgstr "カレンダーに表示"
+
+msgid "Priority:"
+msgstr "優先度:"
+
+msgid "Status:"
+msgstr "状態:"
+
+msgid "Not Started"
+msgstr "未開始"
+
+msgid "Progress:"
+msgstr "進捗:"
+
+msgid "0 %"
+msgstr "0%"
+
+msgid "10 %"
+msgstr "10%"
+
+msgid "20 %"
+msgstr "20%"
+
+msgid "30 %"
+msgstr "30%"
+
+msgid "40 %"
+msgstr "40%"
+
+msgid "50 %"
+msgstr "50%"
+
+msgid "60 %"
+msgstr "60%"
+
+msgid "70 %"
+msgstr "70%"
+
+msgid "80 %"
+msgstr "80%"
+
+msgid "90 %"
+msgstr "90%"
+
+msgid "100 %"
+msgstr "100%"
+
+msgid "Free/Busy:"
+msgstr "空き/多忙:"
+
+msgid "Free"
+msgstr "空き"
+
+msgid "Busy"
+msgstr "多忙"
+
+msgid "Description:"
+msgstr "説明:"
+
+msgid "Alarm:"
+msgstr "アラーム:"
+
+msgid "Category:"
+msgstr "カテゴリ:"
+
+msgid "Recurrence:"
+msgstr "繰り返し:"
+
+msgid "Repeat every"
+msgstr "繰り返し間隔"
+
+msgid "Weeks"
+msgstr "週"
+
+msgid "Repeat ending"
+msgstr "繰り返し終了"
+
+msgid "Forever"
+msgstr "無期限"
+
+msgid "Number of times"
+msgstr "回数"
+
+msgid "Until"
+msgstr "指定日まで"
+
+msgid "Debug Window"
+msgstr "デバッグ ウィンドウ"
+
+msgid "Sensitivity:"
+msgstr "しきい値:"
+
+msgid "All day event"
+msgstr "終日イベント"
+
+msgid "Mark time as busy"
+msgstr "時間を多忙としてマーク"
+
+msgid "Time zone:"
+msgstr "タイム ゾーン:"
+
+msgid "Calendar:"
+msgstr "カレンダー:"
+
+msgid "Mon"
+msgstr "月"
+
+msgid "Tue"
+msgstr "火"
+
+msgid "Wed"
+msgstr "水"
+
+msgid "Thu"
+msgstr "木"
+
+msgid "Fri"
+msgstr "金"
+
+msgid "Sat"
+msgstr "土"
+
+msgid "Sun"
+msgstr "日"
+
+msgid "Repeat"
+msgstr "繰り返し"
+
+msgid "End after"
+msgstr "回数指定"
+
+msgid "occurrences"
+msgstr "回"
+
+msgid "Exception dates"
+msgstr "除外する日"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Show descriptions"
+msgstr "説明を表示"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Rainlendar の起動時にトレイに今日のイベントを表示"
+
+msgid "Hide list windows if there are no items"
+msgstr "項目がない場合はリスト ウィンドウを隠す"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "クリックを無視 (無効にするには Shift キーを押し続ける)"
+
+msgid "Lock windows in place"
+msgstr "ウィンドウの位置を固定"
+
+msgid "Enable on startup"
+msgstr "スタートアップ時に有効化"
+
+msgid "Hide from taskbar"
+msgstr "タスクバーから非表示"
+
+msgid "Use Retina Resolution"
+msgstr "Retina解像度を使用"
+
+msgid "Add years for categories"
+msgstr "カテゴリの年を追加"
+
+msgid "Categories..."
+msgstr "カテゴリ..."
+
+msgid "Week's start day:"
+msgstr "週の開始曜日:"
+
+msgid "Position:"
+msgstr "役職："
+
+msgid "Language:"
+msgstr "言語:"
+
+msgid "Opacity"
+msgstr "不透明度"
+
+msgid "Normal:"
+msgstr "通常:"
+
+msgid "Mouse over:"
+msgstr "マウス オーバー:"
+
+msgid "Apply to all windows at the same time"
+msgstr "すべてのウィンドウに同時に適用"
+
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+msgid "Size:"
+msgstr "サイズ："
+
+msgid "Duplicate..."
+msgstr "複製..."
+
+msgid "Action:"
+msgstr "アクション:"
+
+msgid "Hotkey:"
+msgstr "ホットキー:"
+
+msgid "Set"
+msgstr "設定"
+
+msgid "Available skins"
+msgstr "利用できるスキン"
+
+msgid "Active skins"
+msgstr "使用中のスキン"
+
+msgid "Settings..."
+msgstr "設定..."
+
+msgid "All items"
+msgstr "すべての項目"
+
+msgid "Selected items"
+msgstr "選択された項目"
+
+msgid "Day range"
+msgstr "日付の範囲"
+
+msgid "Select days"
+msgstr "日付を選択"
+
+msgid "Add title"
+msgstr "タイトルを追加"
+
+msgid "Preview..."
+msgstr "プレビュー..."
+
+msgid "Page Setup..."
+msgstr "ページ設定..."
+
+msgid "Todo"
+msgstr "Todo"
+
+msgid "Date only"
+msgstr "日付のみ"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "CSV (カンマ区切り) (*.csv)|*.csv"
+
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Calendar name"
+msgstr "カレンダー名"
+
+msgid "Poll frequency (mins)"
+msgstr "ポーリング頻度 (分)"
+
+msgid "Suppress errors"
+msgstr "エラーを抑制"
+
+msgid "Keep offline copy"
+msgstr "オフライン コピーを維持"
+
+msgid "Authentication"
+msgstr "認証方式"
+
+msgid "Basic"
+msgstr "Basic"
+
+msgid "Digest"
+msgstr "Digest"
+
+msgid "GSS-Negotiate"
+msgstr "GSS-Negotiate"
+
+msgid "NTLM"
+msgstr "NTLM"
+
+msgid "Support"
+msgstr "サポート"
+
+msgid "Automatic"
+msgstr "自動"
+
+msgid "Both"
+msgstr "両方"
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"URL、ユーザー名、パスワードを入力して \"カレンダーを選択\" ボタンをクリックし"
+"て\n"
+"ください。\n"
+"ユーザー名やパスワードが不要であれば省略可。"
+
+msgid "Select Calendar"
+msgstr "カレンダーを選択"
+
+msgid "CalDAV Error (%s)!"
+msgstr "CalDAV エラー (%s)!"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"URL へのデータのアップロード中のエラーです\n"
+"%s\n"
+"\n"
+"サーバーが返した結果: (%i) %i %s"
+
+msgid "Google Error (%s)!"
+msgstr "Google エラー (%s)!"
+
+msgid "Unable to delete the event."
+msgstr "イベントを削除できません。"
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "サーバーが返した結果: (%i) %i %s"
+
+msgid "Unable to read the calendars from the server."
+msgstr "サーバーからカレンダーを読み取れません。"
+
+msgid "Unable to authenticate to the server."
+msgstr "サーバーで認証できません。"
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"選択されたカレンダー (%s) が見つかりません。\n"
+"\n"
+"利用できるカレンダー:\n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "サーバーからカレンダーを読み取るのに失敗しました。"
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr ""
+"認証に失敗しました。入力したユーザー名やパスワードが正しいことを確認してくだ"
+"さい。"
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr ""
+"また、Rainlendarにアプリケーション固有のパスワードを使用していることも確認し"
+"てください。"
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr ""
+"サーバーに接続できません。ネットワーク接続が有効になっていることを確認してく"
+"ださい。"
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "以下の URL はカレンダーを含んでいません: \"%s\""
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr ""
+"URL からダウンロードする際のエラー:\n"
+"%s"
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr ""
+"ネットワークが動作していること、ファイアウォールが接続をブロックしていないこ"
+"とを確認してください。"
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr "プロキシを解決できません。プロキシ設定が正しいか確認してください。"
+
+msgid "Unable to resolve the host."
+msgstr "ホストを解決できません。"
+
+msgid "Unable to connect to the server."
+msgstr "サーバーに接続できませんでした。"
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "サーバーへのセキュア接続 (SSL) に失敗しました。"
+
+msgid "FALSE"
+msgstr "FALSE"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Ignore private events"
+msgstr "プライベートイベントを無視する"
+
+msgid "Import limit"
+msgstr "インポート制限"
+
+msgid "Everything"
+msgstr "すべて"
+
+msgid "Future only"
+msgstr "未来のみ"
+
+msgid "Past month"
+msgstr "過去 1 か月"
+
+msgid "Past 6 months"
+msgstr "過去 6 か月"
+
+msgid "Past year"
+msgstr "過去 1 年"
+
+msgid "Past 2 years"
+msgstr "過去 2 年"
+
+msgid "Delete notifications"
+msgstr "通知を削除"
+
+msgid "External Only"
+msgstr "外部リンクのみ"
+
+msgid "Future Only"
+msgstr "先のみ"
+
+msgid "Color mapping"
+msgstr "カラーマッピング"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"Google アカウントのメール アドレスを入力してください。 \"カレンダーを選択\" "
+"をクリックして アクセスしたいカレンダーを選択してください。"
+
+msgid "Select calendar"
+msgstr "カレンダーを選択"
+
+msgid "Unable to read the calendars."
+msgstr "カレンダーを読み込めません。"
+
+msgid "Authentication failed."
+msgstr "認証に失敗しました。"
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Google で認証できませんでした。\n"
+"メール アドレスとパスワードを\n"
+"確認してください。"
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr ""
+"対象カレンダーが指定されていないため、イベントをアップロードできません。"
+
+msgid "Google Calendar Error (%s)!"
+msgstr "Google カレンダーのエラー (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"Google で認証できません。アカウントの 2 段階認証が有効であるため、Rainlendar "
+"用のアプリケーション固有パスワードを作成する必要があります。この操作は "
+"Google のアカウント設定の \"2 段階認証プロセス\" でできます。"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"Googleに認証できませんRainlendarのGoogleカレンダーへのアクセスが取り消された"
+"可能性があります[オプション] -&gt; [カレンダー]に移動して、カレンダーの認証を"
+"もう一度実行してください"
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google で認証できません。\n"
+"サーバーが返した結果: (%i) %i %s"
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"カレンダーをダウンロードできません。\n"
+"サーバーが返した結果: (%i) %i %s"
+
+msgid "Unable to parse the calendar url."
+msgstr "カレンダーの URL を構文解析できません。"
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"カレンダー名として URL を入力したようです。\n"
+"以下の名前の 1 つを使用する必要があります:\n"
+
+msgid "Unable to delete the event: "
+msgstr "イベントを削除できません:"
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"競合のため Google カレンダーにイベントをアップロードできません。アップロード"
+"したイベントは Google カレンダーから再読み込みされます。"
+
+msgid "Unable to parse the events."
+msgstr "イベントを構文解析できません。"
+
+msgid "Unable to upload the event: "
+msgstr "イベントをアップロードできません:"
+
+msgid "Task list name"
+msgstr "タスク リスト名"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"Google アカウントのメール アドレスを入力してください。 \"タスク リストを選択"
+"\" をクリックして アクセスしたいタスク リストを選択してください。"
+
+msgid "Select task list"
+msgstr "タスク リストを選択"
+
+msgid "Unable to read the task lists."
+msgstr "タスク リストを読み込めません。"
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr ""
+"対象タスク リストが指定されていないため、タスクをアップロードできません。"
+
+msgid "Google Tasks Error (%s)!"
+msgstr "Google タスクのエラー (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"Googleに認証できませんRainlendarのGoogleタスクリストへのアクセスが取り消され"
+"た可能性がありますカレンダーを更新し、RainlendarをGoogleアカウントに再度認証"
+"してください"
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"タスク リストをダウンロードできません。\n"
+"\n"
+"サーバーが返した結果: (%i) %i %s"
+
+msgid "Unable to parse the task list url."
+msgstr "タスク リストの URL を構文解析できません。"
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"タスク リスト名として URL を入力したようです。\n"
+"以下の名前の 1 つを使用する必要があります:\n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"選択されたタスク リスト (%s) が見つかりません。\n"
+"\n"
+"利用できるリスト:\n"
+
+msgid "Unable to delete the task: "
+msgstr "タスクを削除できません:"
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"競合のため Google タスクにタスクをアップロードできません。アップロードしたタ"
+"スクは Google タスクから再読み込みされます。"
+
+msgid "Unable to upload the task: "
+msgstr "タスクをアップロードできません:"
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar ファイル (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "安全アップロード"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"カレンダーの URL、ユーザー名、パスワード を入力してください。\n"
+"\n"
+"URL には HTTP、HTTPS、FTP プロトコルを\n"
+"使用できます。ユーザー名とパスワードは省略可。"
+
+msgid "Network Error (%s)!"
+msgstr "ネットワーク エラー (%s)!"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "オンライン カレンダーに項目の追加ができません。"
+
+msgid "Unable to remove the item from the online calendar."
+msgstr "オンライン カレンダーから項目を削除できません。"
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"ファイルを構文解析できません: %s\n"
+"このファイルは破損している可能性があります。"
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"サーバーが空の結果を返しました。カレンダーの URL がフォルダーではなくファイル"
+"であることを確認してください。"
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"URL からのデータのダウンロード中のエラーです:\n"
+"%s\n"
+"\n"
+"サーバーが返した結果: (%i) %i %s"
+
+msgid "Downloaded event count"
+msgstr "ダウンロードされたイベント数"
+
+msgid "Office 365"
+msgstr "Office 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"Office 365アカウントのメールアドレスを入力し、\"カレンダーを選択\"ボタンをク"
+"リックして、アクセスするカレンダーを選択します。"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Office 365アカウントに認証できません\\ nメールアドレスとパスワードが正しいこ"
+"とを確認してください。\\ n"
+
+msgid "Office365 Error (%s)!"
+msgstr "Office 365エラー(%s)"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Office 365アカウントに認証できませんRainlendarのOffice 365カレンダーへのアク"
+"セスが取り消された可能性がありますカレンダーを更新し、RainlendarをOffice 365"
+"アカウントで再度認証してください"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Office 365アカウントに認証できません\\ nサーバが結果を返しました: (% i) % i "
+"%s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"競合のためイベントをアップロードできません更新されたイベントはサーバーから再"
+"読み込みされます"
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"Outlook エラー!\n"
+"MAPI ライブラリを初期化できません。\n"
+"\n"
+"Rainlendar または Outlook をアップグレードした場合はRainlendar のオプション"
+"で Outloook カレンダーの再作成が必要です。\n"
+"\n"
+"両方のアプリケーションの同じバージョン (32 ビット/64 ビット) を使用しているこ"
+"とも確認してください。"
+
+msgid "Application"
+msgstr "アプリケーション"
+
+msgid "Profile"
+msgstr "プロファイル"
+
+msgid "MessageStore"
+msgstr "メッセージ ストア"
+
+msgid "Folders"
+msgstr "フォルダー"
+
+msgid "Default Folder"
+msgstr "既定のフォルダー"
+
+msgid "Use labels instead of categories"
+msgstr "カテゴリの代わりにラベルを使用"
+
+msgid "Show edit links"
+msgstr "編集リンクを表示"
+
+msgid "Keep MAPI connection alive"
+msgstr "MAPI 接続を維持"
+
+msgid "Month"
+msgstr "月"
+
+msgid "6 months"
+msgstr "6 か月"
+
+msgid "Year"
+msgstr "年"
+
+msgid "2 years"
+msgstr "2 年"
+
+msgid "Read birthdays from contacts"
+msgstr "連絡先から誕生日を読み込む"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Rainlendar に表示する Outlook メッセージ ストアを選択してください。"
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][edit]]"
+
+msgid "Outlook error!"
+msgstr "Outlook エラー!"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr ""
+"\"%s\" からの Outlook 項目の読み取りに失敗しました。詳細はログをご覧くださ"
+"い。"
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "項目の更新に失敗しました。エラー コード 0x%p"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr ""
+"Outlook 項目の書き込みに失敗しました。保存に利用できるフォルダーがありませ"
+"ん。"
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "項目を削除できませんでした。エラー コード 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "Remember The Milk のタスク リストが見つかりません!"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "リスト \"%s\" が見つかりませんでした。利用できるリストは:"
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "上の一覧にある名前を正しく入力してください。"
+
+msgid "Unable to parse the ID from the task."
+msgstr "タスクから ID を構文解析できません。"
+
+msgid "Unable to create the task."
+msgstr "タスクを作成できません。"
+
+msgid "Unable to parse the timeline."
+msgstr "タイムラインを構文解析できません。"
+
+msgid "The service is temporarily unavailable."
+msgstr "サービスは一時的に利用できません。"
+
+msgid "Please log in to Remember The Milk."
+msgstr "Remember The Milk にログインしてください。"
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"あなたの Remember The Milk アカウントへの\n"
+"アクセスをRainlendarに許可する必要があります。\n"
+"Remember The Milk のウェブサイトに\n"
+"ログインして、あなたのアカウントへのアクセスを\n"
+"Rainlendarに許可してください。"
+
+msgid "Continue after authorization."
+msgstr "認証したあと、続行します。"
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr ""
+"Rainlendar の認証をしたあと、続行するには OK ボタンをクリックしてください。"
+
+msgid "Unable to parse the output."
+msgstr "出力を構文解析できません。"
+
+msgid "Unknown response for call \"%s\"."
+msgstr "\"%s\" の呼び出しで不明な応答がありました。"
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"\"%s\" の呼び出しに失敗しました:\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "メソッド \"%s\" の呼び出しに失敗しました。"
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "Remember The Milk エラー (%s)!"
+
+msgid "List"
+msgstr "リスト"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"Remember The Milk のタスク リスト名を入力してください。 すべてのリストを取得"
+"する場合は空欄。"
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"認証トークンがありません。あなたの Remember The Milk アカウントへのアクセスを"
+"許可する必要があります。"
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"フォルダーが見つかりません: \"%s\"\n"
+"\n"
+"利用できるフォルダー:"
+
+msgid "Toodledo Error (%s)!"
+msgstr "Toodledo エラー (%s)!"
+
+msgid "Folder"
+msgstr "フォルダー"
+
+msgid "Poll for changes"
+msgstr "変更を監視"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr ""
+"Toodledo にログインするメール アドレスと\n"
+"パスワードを入力してください。"
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "書き込み用にファイルを開くことができません: \"%s\""
+
+msgid "Filename"
+msgstr "ファイル名"
+
+msgid "Monitor changes"
+msgstr "変更を監視"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"カレンダーの保存先ファイルを指定してください。\n"
+"既存の ICS ファイルを選択してください。 新規作成する場合は新しいパス名を入力:"
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar ファイル (*.ics)|*.ics|vCalendar ファイル (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr ""
+"カレンダーファイル\" %s \"へのパスは終了しません[オプション] -&gt; [カレン"
+"ダー]に移動し、ファイルの場所が正しく設定されていることを確認します。"
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "ファイルの一時的なコピーを作成できません: \"%s\""
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "ファイルを置き換えることができません: \"%s\""
+

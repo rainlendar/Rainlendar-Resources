@@ -1,0 +1,1975 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-10-03 21:30+0200\n"
+"Last-Translator: Artūrs Henzelis <artursh@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Latvian\n"
+"X-Poedit-Country: LATVIA\n"
+
+#: Application/Config.cpp:568
+#: Application/Rainlendar.cpp:984
+#: Application/Rainlendar.cpp:995
+#: Application/Rainlendar.cpp:1108
+#: Plugins/OutlookPlugin/MapiHandler.cpp:388
+msgid "Default"
+msgstr "Noklusēti"
+
+#: Application/Config.cpp:574
+msgid "Copy"
+msgstr "Kopēt"
+
+#: Application/Config.cpp:575
+msgid "Region"
+msgstr "Reģions"
+
+#: Application/Config.cpp:577
+msgid "Native"
+msgstr "Nacionalitāte"
+
+#: Application/Config.cpp:586
+#: Application/Util.cpp:767
+msgid "Sunday"
+msgstr "Svētdiena"
+
+#: Application/Config.cpp:587
+#: Application/Util.cpp:770
+msgid "Monday"
+msgstr "Pirmdiena"
+
+#: Application/Config.cpp:588
+#: Application/Util.cpp:773
+msgid "Tuesday"
+msgstr "Otrdiena"
+
+#: Application/Config.cpp:589
+#: Application/Util.cpp:776
+msgid "Wednesday"
+msgstr "Trešdiena"
+
+#: Application/Config.cpp:590
+#: Application/Util.cpp:779
+msgid "Thursday"
+msgstr "Ceturtdiena"
+
+#: Application/Config.cpp:591
+#: Application/Util.cpp:782
+msgid "Friday"
+msgstr "Piektdiena"
+
+#: Application/Config.cpp:592
+#: Application/Util.cpp:785
+msgid "Saturday"
+msgstr "Sestdiena"
+
+#: Application/Config.cpp:595
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogPrint.cpp:313
+#: Application/WindowTooltip.cpp:195
+msgid "Start"
+msgstr "Sākt"
+
+#: Application/Config.cpp:596
+#: Application/DialogManager.cpp:815
+#: Application/DialogPrint.cpp:343
+#: Application/WindowTooltip.cpp:205
+msgid "Due"
+msgstr "Līdz"
+
+#: Application/Config.cpp:597
+#: Application/DialogManager.cpp:815
+#: Application/WindowTooltip.cpp:216
+msgid "Priority"
+msgstr "Prioritāte"
+
+#: Application/Config.cpp:598
+#: Application/DialogManager.cpp:815
+#: Application/ItemListTodo.cpp:775
+#: Application/WindowTooltip.cpp:228
+#: Application/Resource.h:245
+msgid "Status"
+msgstr "Statuss"
+
+#: Application/Config.cpp:602
+#: Application/DialogOptions.cpp:77
+#: Application/DialogSkinSettings.cpp:55
+#: Application/res/options.cpp:1
+msgid "General"
+msgstr "Vispārēji"
+
+#: Application/Config.cpp:629
+#: Application/DialogOptions.cpp:513
+msgid "Tooltip"
+msgstr "Padoms"
+
+#: Application/Config.cpp:635
+msgid "TodoList"
+msgstr "Izdarāmo darbu saraksts"
+
+#: Application/Config.cpp:640
+msgid "EventList"
+msgstr "Notikumu saraksts"
+
+#: Application/Config.cpp:657
+#: Application/res/manager.cpp:1
+msgid "Manager"
+msgstr "Menedžeris"
+
+#: Application/ControlWindow.cpp:197
+msgid "About"
+msgstr "Par"
+
+#: Application/ControlWindow.cpp:198
+#: Application/DialogOptions.cpp:104
+msgid "Help"
+msgstr "Palīdzība"
+
+#: Application/ControlWindow.cpp:200
+#: Application/ItemCalendar.cpp:204
+#: Application/ItemListEvent.cpp:346
+msgid "New event"
+msgstr "Jauns notikums"
+
+#: Application/ControlWindow.cpp:201
+#: Application/ItemListTodo.cpp:792
+msgid "New task"
+msgstr "Jauns uzdevums"
+
+#: Application/ControlWindow.cpp:223
+#: Application/DialogOptions.cpp:515
+#: Application/DialogOptions.cpp:1061
+msgid "Windows"
+msgstr "Logi"
+
+#: Application/ControlWindow.cpp:241
+#: Application/DialogComponent.cpp:505
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogOptions.cpp:79
+#: Application/DropTarget.cpp:240
+#: Application/res/event.cpp:15
+#: Application/res/options.cpp:18
+#: Application/res/todo.cpp:39
+msgid "Calendars"
+msgstr "Kalendāri"
+
+#: Application/ControlWindow.cpp:244
+msgid "Current Month\tHome"
+msgstr "Tekošais Mēnesis\tHome"
+
+#: Application/ControlWindow.cpp:245
+msgid "Next Month\tRight"
+msgstr "Nākamais Mēnesis\tRight"
+
+#: Application/ControlWindow.cpp:246
+msgid "Prev Month\tLeft"
+msgstr "Iepriekšējais Mēnesis\tLeft"
+
+#: Application/ControlWindow.cpp:247
+msgid "Next Year\tUp"
+msgstr "Nākamais Gads\tUp"
+
+#: Application/ControlWindow.cpp:248
+msgid "Previous Year\tDown"
+msgstr "Iepriekšējais Gads\tDown"
+
+#: Application/ControlWindow.cpp:250
+#, c-format
+msgid "January %s\tCtrl-F1"
+msgstr "Janvāris %s\tCtrl-F1"
+
+#: Application/ControlWindow.cpp:251
+#, c-format
+msgid "February %s\tCtrl-F2"
+msgstr "Februāris %s\tCtrl-F2"
+
+#: Application/ControlWindow.cpp:252
+#, c-format
+msgid "March %s\tCtrl-F3"
+msgstr "Marts %s\tCtrl-F3"
+
+#: Application/ControlWindow.cpp:253
+#, c-format
+msgid "April %s\tCtrl-F4"
+msgstr "Aprīlis %s\tCtrl-F4"
+
+#: Application/ControlWindow.cpp:254
+#, c-format
+msgid "May %s\tCtrl-F5"
+msgstr "Maijs %s\tCtrl-F5"
+
+#: Application/ControlWindow.cpp:255
+#, c-format
+msgid "June %s\tCtrl-F6"
+msgstr "Jūnijs %s\tCtrl-F6"
+
+#: Application/ControlWindow.cpp:256
+#, c-format
+msgid "July %s\tCtrl-F7"
+msgstr "Jūlijs %s\tCtrl-F7"
+
+#: Application/ControlWindow.cpp:257
+#, c-format
+msgid "August %s\tCtrl-F8"
+msgstr "Augusts %s\tCtrl-F8"
+
+#: Application/ControlWindow.cpp:258
+#, c-format
+msgid "September %s\tCtrl-F9"
+msgstr "Septembris %s\tCtrl-F9"
+
+#: Application/ControlWindow.cpp:259
+#, c-format
+msgid "October %s\tCtrl-F10"
+msgstr "Oktobris %s\tCtrl-F10"
+
+#: Application/ControlWindow.cpp:260
+#, c-format
+msgid "November %s\tCtrl-F11"
+msgstr "Novembris %s\tCtrl-F11"
+
+#: Application/ControlWindow.cpp:261
+#, c-format
+msgid "December %s\tCtrl-F12"
+msgstr "Decembris %s\tCtrl-F12"
+
+#: Application/ControlWindow.cpp:263
+msgid "Choose month"
+msgstr "Izvēlies mēnesi"
+
+#: Application/ControlWindow.cpp:265
+#: Application/Resource.h:224
+msgid "Refresh"
+msgstr "Atsvaidzināt"
+
+#: Application/ControlWindow.cpp:266
+msgid "Options..."
+msgstr "Opcijas..."
+
+#: Application/ControlWindow.cpp:267
+msgid "Manager..."
+msgstr "Menedžeris..."
+
+#: Application/ControlWindow.cpp:281
+msgid "Exit"
+msgstr "Beigt"
+
+#: Application/ControlWindow.cpp:568
+#, c-format
+msgid ""
+"This is a recurring item:\n"
+"%s\n"
+"\n"
+"Do you want to delete just this instance?\n"
+"(Select No to delete whole pattern)"
+msgstr ""
+"Šis ir vienums, kas atkārtojas:\n"
+"%s\n"
+"\n"
+"Vai Tu gribi tikai šo vienumu?\n"
+"(Izvēlies Nē lai izdzēstu visus vienumus)"
+
+#: Application/ControlWindow.cpp:589
+#, c-format
+msgid ""
+"Do you want to delete this item?\n"
+"%s"
+msgstr ""
+"Vai vēlaties dzēst šo puktu?\n"
+"%s"
+
+#: Application/ControlWindow.cpp:600
+msgid "Do you want to delete these items?"
+msgstr "Vai vēlaties dzēst šos punktus?"
+
+#: Application/DialogAbout.cpp:47
+#: Application/DialogOptions.cpp:587
+msgid "Version"
+msgstr "Versija"
+
+#: Application/DialogAbout.cpp:55
+msgid "Build on"
+msgstr "Veidots uz"
+
+#: Application/DialogAbout.cpp:60
+msgid "Developed by"
+msgstr "Izstrādājis"
+
+#: Application/DialogAbout.cpp:68
+msgid "Licensed to"
+msgstr "Licencēts"
+
+#: Application/DialogAbout.cpp:75
+msgid "Plugins"
+msgstr "Spraudņi"
+
+#: Application/DialogAbout.cpp:94
+msgid "Links"
+msgstr "Saites"
+
+#: Application/DialogAbout.cpp:96
+#: Application/HotkeyControl.cpp:185
+msgid "Home"
+msgstr "Mājas lapa"
+
+#: Application/DialogAbout.cpp:99
+msgid "FAQ"
+msgstr "BUJ"
+
+#: Application/DialogAbout.cpp:102
+msgid "Forum"
+msgstr "Forums"
+
+#: Application/DialogAbout.cpp:108
+msgid "Icons by"
+msgstr "Ikonu autors"
+
+#: Application/DialogAbout.cpp:118
+msgid "Copyrights"
+msgstr "Autortiesības"
+
+#: Application/DialogAbout.cpp:139
+msgid "About Rainlendar..."
+msgstr "Par Rainlendar..."
+
+#: Application/DialogAbout.cpp:151
+msgid "Please wait..."
+msgstr "Lūdzu pagaidiet..."
+
+#: Application/DialogAbout.cpp:164
+msgid "Unknown response from the server."
+msgstr "Nezināma atbilde no servera."
+
+#: Application/DialogAbout.cpp:193
+#, c-format
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"Versija %s ir pieejama.\n"
+"Vai gribi iet uz mājaslapu tūlīt?"
+
+#: Application/DialogAbout.cpp:201
+msgid "No updates available."
+msgstr "Nav pieejami atjauninājumi."
+
+#: Application/DialogAbout.cpp:210
+msgid "Unable to connect to the server."
+msgstr "Nevar pieslēgties serverim."
+
+#: Application/DialogAbout.cpp:215
+#: Application/res/about.cpp:1
+msgid "Check for update"
+msgstr "Pārbauda atjauninājumus"
+
+#: Application/DialogAlarm.cpp:32
+msgid "Sound files (*.wav)|*.wav"
+msgstr "Skaņas faili (*.wav)|*.wav"
+
+#: Application/DialogComponent.cpp:505
+msgid "Select the calendars:"
+msgstr "Izvēlēties kalendārus:"
+
+#: Application/DialogComponent.cpp:557
+msgid "Select the categories:"
+msgstr "Izvēlēties kategorijas:"
+
+#: Application/DialogComponent.cpp:557
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/res/event.cpp:16
+#: Application/res/todo.cpp:40
+msgid "Categories"
+msgstr "Kategorijas"
+
+#: Application/DialogComponent.cpp:704
+msgid "Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "Nav iespējams atrast kalendāra apstrādātājus šim notikumam. Notikums netika saglabāts."
+
+#: Application/DialogComponent.cpp:920
+#, c-format
+msgid "On the %s day of the month"
+msgstr "%s mēneša dienā"
+
+#: Application/DialogComponent.cpp:928
+msgid "first"
+msgstr "pirmajā"
+
+#: Application/DialogComponent.cpp:932
+msgid "second"
+msgstr "otrajā"
+
+#: Application/DialogComponent.cpp:936
+msgid "third"
+msgstr "trešajā"
+
+#: Application/DialogComponent.cpp:940
+msgid "fourth"
+msgstr "ceturtajā"
+
+#: Application/DialogComponent.cpp:944
+msgid "fifth"
+msgstr "piektajā"
+
+#: Application/DialogComponent.cpp:946
+#, c-format
+msgid "On the %s %s of the month"
+msgstr "%s mēneša %s"
+
+#: Application/DialogComponent.cpp:953
+#, c-format
+msgid "On the last %s of the month"
+msgstr "pēdējā mēneša %s"
+
+#: Application/DialogComponent.cpp:962
+msgid "On the first weekday of the month"
+msgstr "Pirmajā mēneša nedēļas dienā"
+
+#: Application/DialogComponent.cpp:971
+msgid "On the last weekday of the month"
+msgstr "Pēdejā mēneša nedēļas dienā"
+
+#: Application/DialogComponent.cpp:978
+msgid "On the last day of the month"
+msgstr "Pēdejā mēneša dienā"
+
+#: Application/DialogManager.cpp:196
+#: Application/DialogManager.cpp:250
+msgid "Choose a file"
+msgstr "Izvēlies failu"
+
+#: Application/DialogManager.cpp:209
+msgid "Import failed!"
+msgstr "Imports nav izdevies!"
+
+#: Application/DialogManager.cpp:268
+msgid "Export failed!"
+msgstr "Eksports nav izdevies!"
+
+#: Application/DialogManager.cpp:335
+msgid "Do you want to delete the selected item(s)?"
+msgstr "Vai Tu gribi izdzēst iezīmēto(s)?"
+
+#: Application/DialogManager.cpp:444
+#: Application/DialogManager.cpp:525
+msgid "Archive (*.zip)|*.zip"
+msgstr "Archive (*.zip)|*.zip"
+
+#: Application/DialogManager.cpp:445
+#: Application/DialogManager.cpp:524
+msgid "Choose the backup path"
+msgstr "Izvēlies rezerves kopijas ceļu"
+
+#: Application/DialogManager.cpp:581
+msgid "Restore was succesful."
+msgstr "Atjaunošana bija veismīga."
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogPrint.cpp:329
+#: Application/HotkeyControl.cpp:183
+msgid "End"
+msgstr "Beigas"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogOptions.cpp:512
+#: Application/ItemListAlarm.cpp:221
+#: Application/res/event.cpp:9
+#: Application/res/todo.cpp:33
+msgid "Alarm"
+msgstr "Atgādinājums"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+msgid "Summary"
+msgstr "Kopsavilkums"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+msgid "Recurring"
+msgstr "Atkārtošanās"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogPrint.cpp:301
+msgid "Location"
+msgstr "Vieta"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogOptions.cpp:644
+msgid "Description"
+msgstr "Apraksts"
+
+#: Application/DialogManager.cpp:795
+#: Application/res/event.cpp:1
+#: Application/res/event.cpp:2
+msgid "Event"
+msgstr "Notikums"
+
+#: Application/DialogManager.cpp:802
+msgid "New Event..."
+msgstr "Jauns notikums..."
+
+#: Application/DialogManager.cpp:824
+#: Application/res/todo.cpp:1
+#: Application/res/todo.cpp:2
+msgid "Todo"
+msgstr "Izdarāmie darbi"
+
+#: Application/DialogManager.cpp:831
+msgid "New Todo..."
+msgstr "Jauns izdarāmais darbs..."
+
+#: Application/DialogManager.cpp:1000
+msgid "Single"
+msgstr "Vienreiz"
+
+#: Application/DialogManager.cpp:1033
+#: Application/DialogSkinSettings.cpp:80
+#: Application/ItemListTodo.cpp:593
+#: Application/res/todo.cpp:9
+#: Application/res/todo.cpp:10
+msgid "None"
+msgstr "Nekas"
+
+#: Application/DialogManager.cpp:1037
+#: Application/ItemListTodo.cpp:605
+#: Application/res/todo.cpp:13
+msgid "High"
+msgstr "Augsts"
+
+#: Application/DialogManager.cpp:1041
+#: Application/ItemListTodo.cpp:601
+#: Application/res/todo.cpp:12
+msgid "Medium"
+msgstr "Vidējs"
+
+#: Application/DialogManager.cpp:1066
+#: Application/ItemListTodo.cpp:331
+#: Application/ItemListTodo.cpp:617
+#: Application/ItemListTodo.cpp:774
+#: Application/res/todo.cpp:19
+msgid "Cancelled"
+msgstr "Atcelts"
+
+#: Application/DialogManager.cpp:1086
+#: Application/res/todo.cpp:15
+#: Application/res/todo.cpp:16
+msgid "Not Started"
+msgstr "Nav sākts"
+
+#: Application/DialogOptions.cpp:42
+msgid "Options"
+msgstr "Opcijas"
+
+#: Application/DialogOptions.cpp:81
+msgid "Skins"
+msgstr "Apdares"
+
+#: Application/DialogOptions.cpp:84
+#: Application/res/options.cpp:22
+msgid "Hotkeys"
+msgstr "Karstie taustiņi"
+
+#: Application/DialogOptions.cpp:87
+msgid "Advanced"
+msgstr "Advancēti"
+
+#: Application/DialogOptions.cpp:109
+#: Application/DialogSkinSettings.cpp:28
+#: Application/res/alarm.cpp:4
+#: Application/res/event.cpp:37
+#: Application/res/todo.cpp:61
+msgid "OK"
+msgstr "Labi"
+
+#: Application/DialogOptions.cpp:113
+#: Application/DialogSkinSettings.cpp:31
+#: Application/res/alarm.cpp:5
+#: Application/res/event.cpp:38
+#: Application/res/todo.cpp:62
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: Application/DialogOptions.cpp:276
+msgid "Get more languages..."
+msgstr "Iegūt vairāk valodas..."
+
+#: Application/DialogOptions.cpp:434
+msgid "Get more skins..."
+msgstr "Iegūt vairāk apdares..."
+
+#: Application/DialogOptions.cpp:514
+#: Application/DialogOptions.cpp:792
+#: Application/DialogOptions.cpp:1061
+msgid "TrayIcon"
+msgstr "Palodzes ikona"
+
+#: Application/DialogOptions.cpp:597
+msgid "Author"
+msgstr "Autors"
+
+#: Application/DialogOptions.cpp:612
+msgid "Homepage"
+msgstr "Mājas lapa"
+
+#: Application/DialogOptions.cpp:630
+msgid "This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "Šī ir veca Rainlendar ādiņa. Dažas iespējas var netikt atbalstītas."
+
+#: Application/DialogOptions.cpp:640
+msgid "Window"
+msgstr "Logs"
+
+#: Application/DialogOptions.cpp:642
+msgid "Variable"
+msgstr "Dažādi"
+
+#: Application/DialogOptions.cpp:697
+#: Application/res/options.cpp:33
+msgid "Advanced >>>"
+msgstr "Advancēts >>>"
+
+#: Application/DialogOptions.cpp:701
+msgid "<<< Simple"
+msgstr "<<< Vienkāršs"
+
+#: Application/DialogOptions.cpp:1103
+msgid "Hotkey"
+msgstr "Karstais taustiņš"
+
+#: Application/DialogOptions.cpp:1104
+msgid "Function"
+msgstr "Funkcija"
+
+#: Application/DialogOptions.cpp:1188
+msgid "IMPORTANT! Read the documentation before changing these settings. It's possible to make Rainlendar inoperable if you just randomly change the values. Consider yourself warned!"
+msgstr "SVARĪGI! Izlasiet dokumentāciju, pirms mainīt šos iestatījumus! Pastāv iespēja padarīt Rainlendar funkcionēt nespējīgu, nejauši mainot lielumus. Uzskatiet, ka esat brīdināts!"
+
+#: Application/DialogOptions.cpp:1195
+msgid "Reset All Settings"
+msgstr "Atgriezt visus iestatījumus"
+
+#: Application/DialogOptions.cpp:1208
+msgid ""
+"This will reset all settings to default values.\n"
+"The default settings are applied immediately.\n"
+"Do you want to continue?"
+msgstr ""
+"Darbība atgriezīs visus iestatījumus uz noklusētām vērtībām.\n"
+"Noklusētās vērtības stāsies spēkā nekavējoties.\n"
+"Vai turpināt?"
+
+#: Application/DialogOptions.cpp:1278
+msgid "Common"
+msgstr "Tipisks"
+
+#: Application/DialogOptions.cpp:1279
+#: Application/DialogOptions.cpp:1418
+msgid "Enabled"
+msgstr "Aktīvs"
+
+#: Application/DialogOptions.cpp:1292
+#: Application/DialogOptions.cpp:1422
+msgid "Visual category"
+msgstr "Visuāla kategorija"
+
+#: Application/DialogPrint.cpp:55
+msgid "Print items"
+msgstr "Drukāt vienumus"
+
+#: Application/DialogSkinSettings.cpp:56
+#: Application/DialogSkinSettings.cpp:110
+msgid "Visible"
+msgstr "Redzams"
+
+#: Application/DialogSkinSettings.cpp:57
+#: Application/DialogSkinSettings.cpp:111
+msgid "Scale"
+msgstr "Mērogs"
+
+#: Application/DialogSkinSettings.cpp:61
+msgid "Variables"
+msgstr "Dažādi"
+
+#: Application/DialogSkinSettings.cpp:76
+msgid "Operations"
+msgstr "Operācijas"
+
+#: Application/DialogSkinSettings.cpp:102
+#: Application/DialogSkinSettings.cpp:126
+msgid "Double click"
+msgstr "Dubultklikšķis"
+
+#: Application/DropTarget.cpp:42
+msgid "skin"
+msgstr "Apdare"
+
+#: Application/DropTarget.cpp:47
+msgid "addon"
+msgstr "Papildus modulis"
+
+#: Application/DropTarget.cpp:53
+msgid "language"
+msgstr "valoda"
+
+#: Application/DropTarget.cpp:61
+msgid "license"
+msgstr "licence"
+
+#: Application/DropTarget.cpp:87
+#, c-format
+msgid "Unknown file \"%s\"."
+msgstr "Nezināms fails \"%s\"."
+
+#: Application/DropTarget.cpp:93
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Nevar kopēt failu. Avots sakrīt ar mērķi."
+
+#: Application/DropTarget.cpp:111
+#, c-format
+msgid ""
+"The skin %s doesn't exist.\n"
+"Unable to merge the addon."
+msgstr ""
+"Apdare %s neeksistē.\n"
+"Nevar apvienot papildus moduli."
+
+#: Application/DropTarget.cpp:125
+#, c-format
+msgid ""
+"The %s \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"%s \"%s\" jau eksistē.\n"
+"Aizvietot?"
+
+#: Application/DropTarget.cpp:153
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Fails jau pastāv.Vai vēlaties to pārrakstīt?"
+
+#: Application/DropTarget.cpp:191
+#, c-format
+msgid ""
+"The %s was installed succesfully!\n"
+"Please refresh (or restart) Rainlendar to see the changes."
+msgstr ""
+"%s veiksmīgi instalēts!\n"
+"Please refresh (or restart) Rainlendar to see the changes."
+
+#: Application/DropTarget.cpp:196
+#, c-format
+msgid "The %s installation failed!"
+msgstr "%s instalācija nav izdevusies!"
+
+#: Application/DropTarget.cpp:240
+msgid "Select the calendars for the imported items:"
+msgstr "Izvēlieties kalendārus pievienotajiem punktiem:"
+
+#: Application/DropTarget.cpp:256
+msgid ""
+"Import failed.\n"
+"\n"
+"There are no calendars available that are able to store the item."
+msgstr ""
+"Pievienošana neizdevās.\n"
+"\n"
+"Nav pieejami kalendāri, kas varētu saglabāt doto punktu."
+
+#: Application/DropTarget.cpp:268
+#, c-format
+msgid "Imported %i items succesfully."
+msgstr "Sekmīgi pievienoti %i punkti."
+
+#: Application/DropTarget.cpp:279
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Jums jāizvēlas vismaz viens kalendārs priekš pievienotajiem notikumiem"
+
+#: Application/DropTarget.cpp:548
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Nav iespējams izveidot pagaidu mapi, kurā pievienot paplašinājumu."
+
+#: Application/HotkeyControl.cpp:101
+msgid "Win"
+msgstr "Windows "
+
+#: Application/HotkeyControl.cpp:107
+msgid "Control"
+msgstr "Control"
+
+#: Application/HotkeyControl.cpp:113
+msgid "Alt"
+msgstr "ALT"
+
+#: Application/HotkeyControl.cpp:119
+msgid "Shift"
+msgstr "Shift"
+
+#: Application/HotkeyControl.cpp:167
+msgid "Back"
+msgstr "Back"
+
+#: Application/HotkeyControl.cpp:169
+msgid "Tab"
+msgstr "Tab"
+
+#: Application/HotkeyControl.cpp:171
+msgid "Return"
+msgstr "Return"
+
+#: Application/HotkeyControl.cpp:173
+msgid "Esc"
+msgstr "Esc"
+
+#: Application/HotkeyControl.cpp:175
+msgid "Space"
+msgstr "Space"
+
+#: Application/HotkeyControl.cpp:177
+#: Application/res/event.cpp:36
+#: Application/res/manager.cpp:11
+#: Application/res/todo.cpp:60
+msgid "Delete"
+msgstr "Dzēst"
+
+#: Application/HotkeyControl.cpp:179
+msgid "Page Up"
+msgstr "Page Up"
+
+#: Application/HotkeyControl.cpp:181
+msgid "Page Down"
+msgstr "Page Down"
+
+#: Application/HotkeyControl.cpp:187
+msgid "Left"
+msgstr "Pa kreisi"
+
+#: Application/HotkeyControl.cpp:189
+msgid "Up"
+msgstr "Up"
+
+#: Application/HotkeyControl.cpp:191
+msgid "Right"
+msgstr "Right"
+
+#: Application/HotkeyControl.cpp:193
+msgid "Down"
+msgstr "Down"
+
+#: Application/HotkeyControl.cpp:195
+msgid "Insert"
+msgstr "Insert"
+
+#: Application/ItemCalendar.cpp:196
+#, c-format
+msgid "Edit \"%s\""
+msgstr "Rediģēt \"%s\""
+
+#: Application/ItemCalendar.cpp:201
+msgid "Delete all events"
+msgstr "Izdzēst visus notikumus"
+
+#: Application/ItemCalendar.cpp:207
+#: Application/ItemListEvent.cpp:348
+msgid "Delete event"
+msgstr "Dzēst notikumu"
+
+#: Application/ItemCalendar.cpp:209
+msgid "Events"
+msgstr "Notikumi"
+
+#: Application/ItemListAlarm.cpp:202
+msgid "1 minute"
+msgstr "1 minūte"
+
+#: Application/ItemListAlarm.cpp:203
+msgid "5 minutes"
+msgstr "5 minūtes"
+
+#: Application/ItemListAlarm.cpp:204
+msgid "10 minutes"
+msgstr "10 minūtes"
+
+#: Application/ItemListAlarm.cpp:205
+msgid "30 minutes"
+msgstr "30 minūtes"
+
+#: Application/ItemListAlarm.cpp:206
+msgid "1 hour"
+msgstr "1 stunda"
+
+#: Application/ItemListAlarm.cpp:207
+msgid "2 hours"
+msgstr "2 stundas"
+
+#: Application/ItemListAlarm.cpp:209
+msgid "Snooze"
+msgstr "Snauda"
+
+#: Application/ItemListAlarm.cpp:210
+msgid "Dismiss"
+msgstr "Atsaukt"
+
+#: Application/ItemListAlarm.cpp:214
+#: Application/ItemListAlarm.cpp:218
+msgid "Edit..."
+msgstr "Rediģēt..."
+
+#: Application/ItemListEvent.cpp:180
+msgid "Today"
+msgstr "Šodien"
+
+#: Application/ItemListEvent.cpp:184
+msgid "Tomorrow"
+msgstr "Rīt"
+
+#: Application/ItemListEvent.cpp:192
+#, c-format
+msgid "%s next week"
+msgstr "%s nākamnedēļ"
+
+#: Application/ItemListEvent.cpp:196
+#, c-format
+msgid "%s in %i weeks"
+msgstr "%s  %i nedēļās"
+
+#: Application/ItemListEvent.cpp:347
+msgid "Edit event"
+msgstr "Rediģēt notikumu"
+
+#: Application/ItemListEvent.cpp:357
+msgid "Event list"
+msgstr "Notikumu saraksts"
+
+#: Application/ItemListTodo.cpp:93
+#, c-format
+msgid "[Due %x]"
+msgstr "[Līdz %x]"
+
+#: Application/ItemListTodo.cpp:166
+msgid "No category"
+msgstr "Nav kategorijas"
+
+#: Application/ItemListTodo.cpp:255
+msgid "Unknown"
+msgstr "Nezināms"
+
+#: Application/ItemListTodo.cpp:316
+#: Application/ItemListTodo.cpp:623
+#: Application/ItemListTodo.cpp:758
+msgid "Needs Action"
+msgstr "Nepieciešama darbība"
+
+#: Application/ItemListTodo.cpp:321
+#: Application/ItemListTodo.cpp:620
+#: Application/ItemListTodo.cpp:771
+#: Application/res/todo.cpp:17
+msgid "In Progress"
+msgstr "Procesā"
+
+#: Application/ItemListTodo.cpp:326
+#: Application/ItemListTodo.cpp:614
+#: Application/ItemListTodo.cpp:773
+#: Application/res/todo.cpp:18
+msgid "Completed"
+msgstr "Izdarīts"
+
+#: Application/ItemListTodo.cpp:362
+msgid "High Priority"
+msgstr "Augsta prioritāte"
+
+#: Application/ItemListTodo.cpp:367
+msgid "Medium Priority"
+msgstr "Vidēja prioritāte"
+
+#: Application/ItemListTodo.cpp:372
+msgid "Low Priority"
+msgstr "Zema prioritāte"
+
+#: Application/ItemListTodo.cpp:377
+msgid "No Priority"
+msgstr "Nav prioritātes"
+
+#: Application/ItemListTodo.cpp:597
+#: Application/res/todo.cpp:11
+msgid "Low"
+msgstr "Zema"
+
+#: Application/ItemListTodo.cpp:725
+msgid "Alphabetically"
+msgstr "Alfabētiski"
+
+#: Application/ItemListTodo.cpp:726
+msgid "By Category"
+msgstr "Pēc kategorijas"
+
+#: Application/ItemListTodo.cpp:727
+msgid "By Due Date"
+msgstr "Pēc mērķa datuma"
+
+#: Application/ItemListTodo.cpp:728
+msgid "By Start Date"
+msgstr "Pēc sākuma datuma"
+
+#: Application/ItemListTodo.cpp:729
+msgid "By Status"
+msgstr "Pēc statusa"
+
+#: Application/ItemListTodo.cpp:730
+msgid "By Priority"
+msgstr "Pēc prioritātes"
+
+#: Application/ItemListTodo.cpp:732
+msgid "Arrange"
+msgstr "Sakārtot"
+
+#: Application/ItemListTodo.cpp:793
+msgid "Edit task"
+msgstr "Rediģēt uzdevumu"
+
+#: Application/ItemListTodo.cpp:794
+msgid "Delete task"
+msgstr "Dzēst uzdevumu"
+
+#: Application/ItemListTodo.cpp:804
+msgid "Hide completed tasks"
+msgstr "Paslēpt pabeigtos uzdevumus"
+
+#: Application/ItemListTodo.cpp:810
+msgid "Todo list"
+msgstr "Izdarāmo darbu saraksts"
+
+#: Application/ItemListTooltip.cpp:54
+msgid "No events today."
+msgstr "Šodien nav notikumu."
+
+#: Application/ItemListTooltip.cpp:75
+msgid "Today's events:"
+msgstr "Šodienas notikumi:"
+
+#: Application/Rainlendar.cpp:104
+msgid "allow multiple instances"
+msgstr "allow multiple instances"
+
+#: Application/Rainlendar.cpp:105
+msgid "install a skin or a language"
+msgstr "instalēt apdari vai valodu"
+
+#: Application/Rainlendar.cpp:106
+msgid "path where the configuration file will be stored"
+msgstr "ceļš kur tiks glabāts konfigurācijas fails"
+
+#: Application/Rainlendar.cpp:108
+msgid "path where the log file will be stored"
+msgstr "ceļš kur glabāsies žurnāla (log) fails"
+
+#: Application/Rainlendar.cpp:109
+msgid "enable verbose logging"
+msgstr "iespējot vārdisku žurnalēšanu"
+
+#: Application/Rainlendar.cpp:110
+msgid "enable debug logging"
+msgstr "iespējot atkļūdošanas žurnalēšanu"
+
+#: Application/Rainlendar.cpp:296
+#, c-format
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Neizdevās ielādēt resursus no:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:512
+msgid ""
+"Rainlendar was not able to refresh the settings correctly.\n"
+"Do you want to reset all settings and try again?\n"
+"(Select \"No\" to open Rainlendar with old settings)"
+msgstr ""
+"Rainlendar nespēja atjaunot iestatījumus pareizi.\n"
+"Vai vēlaties nomest visus iestatījumus un mēģināt vēlreiz?\n"
+"(Izvēlēties \"No\"lai atvērtu Rainlendar ar vecajiem iestatījumiem)"
+
+#: Application/Rainlendar.cpp:526
+#, c-format
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"There are no skins in path:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:540
+msgid ""
+"Rainlendar was not able to load the selected skin.\n"
+"Do you want to use the default skin instead?"
+msgstr ""
+"Rainlendar was not able to load the selected skin.\n"
+"Do you want to use the default skin instead?"
+
+#: Application/Rainlendar.cpp:553
+msgid "Unable to load the skin. Check the log for more details."
+msgstr "Unable to load the skin. Check the log for more details."
+
+#: Application/Rainlendar.cpp:823
+msgid ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+msgstr ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+
+#: Application/Rainlendar.cpp:1097
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Found these old Rainlendar files:\n"
+"\n"
+
+#: Application/Rainlendar.cpp:1104
+msgid "Do you want to import them?"
+msgstr "Do you want to import them?"
+
+#: Application/Rainlendar.cpp:1126
+#, c-format
+msgid "Import failed with file: \"%s\""
+msgstr "Import failed with file: \"%s\""
+
+#: Application/SkinIni.cpp:303
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 0 to 11 for a specific month in the current year."
+msgstr "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 0 to 11 for a specific month in the current year."
+
+#: Application/SkinIni.cpp:448
+msgid "Defines the width of the event list."
+msgstr "Defines the width of the event list."
+
+#: Application/SkinIni.cpp:449
+msgid "Defines the width of the todo list."
+msgstr "Defines the width of the todo list."
+
+#: Application/SkinManager.cpp:87
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+
+#: Application/SkinManager.cpp:92
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+
+#: Application/SkinManager.cpp:97
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+
+#: Application/Util.cpp:725
+msgid "January"
+msgstr "Janvāris"
+
+#: Application/Util.cpp:727
+msgid "February"
+msgstr "Februāris"
+
+#: Application/Util.cpp:729
+msgid "March"
+msgstr "Marts"
+
+#: Application/Util.cpp:731
+msgid "April"
+msgstr "Aprīlis"
+
+#: Application/Util.cpp:733
+msgid "May"
+msgstr "Maijs"
+
+#: Application/Util.cpp:735
+msgid "June"
+msgstr "Jūnijs"
+
+#: Application/Util.cpp:737
+msgid "July"
+msgstr "Jūlijs"
+
+#: Application/Util.cpp:739
+msgid "August"
+msgstr "Augusts"
+
+#: Application/Util.cpp:741
+msgid "September"
+msgstr "Septembris"
+
+#: Application/Util.cpp:743
+msgid "October"
+msgstr "Oktobris"
+
+#: Application/Util.cpp:745
+msgid "November"
+msgstr "Novembris"
+
+#: Application/Util.cpp:747
+msgid "December"
+msgstr "Decembris"
+
+#: Application/Util.cpp:788
+#: Application/res/event.cpp:29
+#: Application/res/todo.cpp:53
+msgid "Sun"
+msgstr "Sv"
+
+#: Application/Util.cpp:791
+#: Application/res/event.cpp:23
+#: Application/res/todo.cpp:47
+msgid "Mon"
+msgstr "P"
+
+#: Application/Util.cpp:794
+#: Application/res/event.cpp:24
+#: Application/res/todo.cpp:48
+msgid "Tue"
+msgstr "O"
+
+#: Application/Util.cpp:797
+#: Application/res/event.cpp:25
+#: Application/res/todo.cpp:49
+msgid "Wed"
+msgstr "T"
+
+#: Application/Util.cpp:800
+#: Application/res/event.cpp:26
+#: Application/res/todo.cpp:50
+msgid "Thu"
+msgstr "C"
+
+#: Application/Util.cpp:803
+#: Application/res/event.cpp:27
+#: Application/res/todo.cpp:51
+msgid "Fri"
+msgstr "Pk"
+
+#: Application/Util.cpp:806
+#: Application/res/event.cpp:28
+#: Application/res/todo.cpp:52
+msgid "Sat"
+msgstr "Se"
+
+#: Application/WizardCalendar.cpp:22
+#: Application/WizardCalendar.cpp:27
+msgid "Create a new calendar"
+msgstr "Veidot jaunu kalendāru"
+
+#: Application/WizardPageCalendar.cpp:33
+msgid "Please select the type of the calendar."
+msgstr "Please select the type of the calendar."
+
+#: Application/WizardPageCalendar.cpp:42
+msgid "Type"
+msgstr "Type"
+
+#: Application/WizardPageCalendar.cpp:68
+msgid ""
+"The calendar type defines the format of the events\n"
+"and where they are stored."
+msgstr ""
+"The calendar type defines the format of the events\n"
+"and where they are stored."
+
+#: Application/WizardPageCalendar.cpp:85
+msgid "You need to select a calendar type!"
+msgstr "You need to select a calendar type!"
+
+#: Application/WizardPageCalendar.cpp:172
+#: Application/res/alarm.cpp:3
+msgid "Browse..."
+msgstr "Browse..."
+
+#: Application/WizardPageCalendar.cpp:248
+msgid "Only local files can be defined as the file name."
+msgstr "Only local files can be defined as the file name."
+
+#: Application/WizardPageCalendar.cpp:254
+msgid ""
+"It's not possible to use UNC paths as the file name.\n"
+"You need to map the network drive to be able to access the files on a server."
+msgstr ""
+"It's not possible to use UNC paths as the file name.\n"
+"You need to map the network drive to be able to access the files on a server."
+
+#: Application/WizardPageCalendar.cpp:362
+msgid "Please choose a name for the the calendar."
+msgstr "Lūdzu izvēlieties kalendāra nosaukumu."
+
+#: Application/WizardPageCalendar.cpp:370
+msgid "Name"
+msgstr "Vārds"
+
+#: Application/WizardPageCalendar.cpp:408
+msgid ""
+"The calendar with the same name already exists.\n"
+"Please use some other name."
+msgstr ""
+"Kalendārs ar šādu nosaukumu jau eksistē.\n"
+"Lūdzu, izvēlieties citu nosaukumu."
+
+#: Application/WizardPageCalendar.cpp:415
+msgid "You need to give some name for the calendar."
+msgstr "Jums jādod kalendāram nosaukums."
+
+#: Application/res/about.cpp:2
+#: Application/res/manager.cpp:8
+#: Application/res/manager.cpp:15
+#: Application/res/print.cpp:10
+msgid "Close"
+msgstr "Aizvērt"
+
+#: Application/res/alarm.cpp:1
+msgid "Alarm sound"
+msgstr "Atgādinājuma skaņa"
+
+#: Application/res/alarm.cpp:2
+msgid "Select the sound file for the alarm"
+msgstr "Izvēlieties atgādinājuma skaņu"
+
+#: Application/res/event.cpp:3
+#: Application/res/todo.cpp:3
+msgid "Summary:"
+msgstr "Summārais:"
+
+#: Application/res/event.cpp:4
+#: Application/res/todo.cpp:4
+msgid "Location:"
+msgstr "Atrašanās vieta:"
+
+#: Application/res/event.cpp:5
+#: Application/res/todo.cpp:5
+msgid "Private"
+msgstr "Privāts"
+
+#: Application/res/event.cpp:6
+#: Application/res/todo.cpp:6
+msgid "Start time:"
+msgstr "Sākuma laiks:"
+
+#: Application/res/event.cpp:7
+msgid "All day event"
+msgstr "Visas dienas notikums"
+
+#: Application/res/event.cpp:8
+msgid "End time:"
+msgstr "Beigu laiks:"
+
+#: Application/res/event.cpp:10
+#: Application/res/event.cpp:11
+#: Application/res/todo.cpp:35
+msgid "Minutes"
+msgstr "Minūtes"
+
+#: Application/res/event.cpp:12
+#: Application/res/todo.cpp:36
+msgid "Hours"
+msgstr "Stundas"
+
+#: Application/res/event.cpp:13
+#: Application/res/event.cpp:19
+#: Application/res/todo.cpp:34
+#: Application/res/todo.cpp:37
+#: Application/res/todo.cpp:43
+msgid "Days"
+msgstr "Dienas"
+
+#: Application/res/event.cpp:14
+msgid "before the event starts."
+msgstr "pirms notikums sākas."
+
+#: Application/res/event.cpp:17
+#: Application/res/todo.cpp:41
+msgid "Recurrence"
+msgstr "Atkārtošanās"
+
+#: Application/res/event.cpp:18
+#: Application/res/todo.cpp:42
+msgid "Repeat every"
+msgstr "Atkārtot katru"
+
+#: Application/res/event.cpp:20
+#: Application/res/todo.cpp:44
+msgid "Weeks"
+msgstr "Nedēļas"
+
+#: Application/res/event.cpp:21
+#: Application/res/todo.cpp:45
+msgid "Months"
+msgstr "Mēneši"
+
+#: Application/res/event.cpp:22
+#: Application/res/todo.cpp:46
+msgid "Years"
+msgstr "Gadi"
+
+#: Application/res/event.cpp:30
+#: Application/res/todo.cpp:54
+msgid "Repeat"
+msgstr "Atkārtot"
+
+#: Application/res/event.cpp:31
+#: Application/res/todo.cpp:55
+msgid "Forever"
+msgstr "Vienmēr"
+
+#: Application/res/event.cpp:32
+#: Application/res/todo.cpp:56
+msgid "Number of times"
+msgstr "Reizes"
+
+#: Application/res/event.cpp:33
+#: Application/res/todo.cpp:57
+msgid "Until"
+msgstr "Līdz"
+
+#: Application/res/event.cpp:34
+#: Application/res/todo.cpp:58
+msgid "Exception dates"
+msgstr "Izņemot datumus"
+
+#: Application/res/event.cpp:35
+#: Application/res/options.cpp:26
+#: Application/res/todo.cpp:59
+msgid "Add"
+msgstr "Pievienot"
+
+#: Application/res/manager.cpp:2
+msgid "File"
+msgstr "Fails"
+
+#: Application/res/manager.cpp:3
+msgid "Import"
+msgstr "Imports"
+
+#: Application/res/manager.cpp:4
+msgid "Export"
+msgstr "Eksportēt"
+
+#: Application/res/manager.cpp:5
+#: Application/res/print.cpp:9
+msgid "Print..."
+msgstr "Drukāt..."
+
+#: Application/res/manager.cpp:6
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:180
+msgid "Backup"
+msgstr "Rezerves kopija"
+
+#: Application/res/manager.cpp:7
+msgid "Restore"
+msgstr "Atjaunot"
+
+#: Application/res/manager.cpp:9
+msgid "New"
+msgstr "Jauns"
+
+#: Application/res/manager.cpp:10
+msgid "Edit"
+msgstr "Rediģēt"
+
+#: Application/res/manager.cpp:12
+msgid "Show events"
+msgstr "Rādīt notikumus"
+
+#: Application/res/manager.cpp:13
+msgid "Show todo items"
+msgstr "Rādīt izdarāmo darbu vienumus"
+
+#: Application/res/manager.cpp:14
+msgid "Search:"
+msgstr "Meklēt"
+
+#: Application/res/options.cpp:2
+msgid "Week's start day:"
+msgstr "Nedēļas pirmā diena:"
+
+#: Application/res/options.cpp:3
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Rādīt šodienas notikumus uz palodzes kad Rainlendar startējas"
+
+#: Application/res/options.cpp:4
+msgid "Add years to birthdays and anniversaries"
+msgstr "Pievienot gadus dzimšanas dienām un jubilejām"
+
+#: Application/res/options.cpp:5
+msgid "Hide windows if there are no items"
+msgstr "Paslēpt logu, ja nav neviena vienuma"
+
+#: Application/res/options.cpp:6
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Click through (hold Shift-key down to deactivate)"
+
+#: Application/res/options.cpp:7
+msgid "Lock windows in place"
+msgstr "Slēgt logu vietā"
+
+#: Application/res/options.cpp:8
+msgid "Enable on startup"
+msgstr "Palaist pie startēšanās"
+
+#: Application/res/options.cpp:9
+msgid "Language:"
+msgstr "Valoda:"
+
+#: Application/res/options.cpp:10
+msgid "Position"
+msgstr "Novietojums"
+
+#: Application/res/options.cpp:11
+msgid "On Top"
+msgstr "Augšā"
+
+#: Application/res/options.cpp:12
+msgid "Normal"
+msgstr "Normāls"
+
+#: Application/res/options.cpp:13
+msgid "On Bottom"
+msgstr "Apakšā"
+
+#: Application/res/options.cpp:14
+msgid "On Desktop"
+msgstr "Uz darbavirsmas"
+
+#: Application/res/options.cpp:15
+msgid "Transparency"
+msgstr "Caurspīdīgums"
+
+#: Application/res/options.cpp:16
+msgid "Normal:"
+msgstr "Normālais:"
+
+#: Application/res/options.cpp:17
+msgid "Mouse over:"
+msgstr "Kad pele virsū:"
+
+#: Application/res/options.cpp:19
+msgid "Add..."
+msgstr "Pievienot..."
+
+#: Application/res/options.cpp:20
+#: Application/res/options.cpp:27
+msgid "Remove"
+msgstr "Izvākt"
+
+#: Application/res/options.cpp:21
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: Application/res/options.cpp:23
+msgid "Action:"
+msgstr "Darbība:"
+
+#: Application/res/options.cpp:24
+msgid "Hotkey:"
+msgstr "Karstie taustiņi:"
+
+#: Application/res/options.cpp:25
+msgid "Set"
+msgstr "Ieslēgt"
+
+#: Application/res/options.cpp:28
+msgid "Available skins"
+msgstr "Pieejamās apdares"
+
+#: Application/res/options.cpp:29
+msgid "-->"
+msgstr "-->"
+
+#: Application/res/options.cpp:30
+msgid "<--"
+msgstr "<--"
+
+#: Application/res/options.cpp:31
+msgid "Active skins"
+msgstr "Aktīvās apdares"
+
+#: Application/res/options.cpp:32
+msgid "Settings..."
+msgstr "Iestatījumi..."
+
+#: Application/res/options.cpp:34
+msgid "Details"
+msgstr "Detaļas"
+
+#: Application/res/print.cpp:1
+msgid "All items"
+msgstr "Visi vienumi"
+
+#: Application/res/print.cpp:2
+msgid "Selected items"
+msgstr "Izvēlētie vienumi"
+
+#: Application/res/print.cpp:3
+msgid "Day range"
+msgstr "Dienu virkne"
+
+#: Application/res/print.cpp:4
+msgid "Select days"
+msgstr "Izvēlies dienas"
+
+#: Application/res/print.cpp:5
+msgid "From:"
+msgstr "No kā:"
+
+#: Application/res/print.cpp:6
+msgid "To:"
+msgstr "Kam:"
+
+#: Application/res/print.cpp:7
+msgid "Add title"
+msgstr "Pievienot virsrakstu"
+
+#: Application/res/print.cpp:8
+msgid "Preview..."
+msgstr "Priekšapskate..."
+
+#: Application/res/todo.cpp:7
+msgid "Due time:"
+msgstr "Beigu laiks:"
+
+#: Application/res/todo.cpp:8
+msgid "Priority:"
+msgstr "Prioritāte:"
+
+#: Application/res/todo.cpp:14
+msgid "Status:"
+msgstr "Statuss:"
+
+#: Application/res/todo.cpp:20
+msgid "Progress:"
+msgstr "Progress:"
+
+#: Application/res/todo.cpp:21
+#: Application/res/todo.cpp:22
+msgid "0 %"
+msgstr "0 %"
+
+#: Application/res/todo.cpp:23
+msgid "10 %"
+msgstr "10 %"
+
+#: Application/res/todo.cpp:24
+msgid "20 %"
+msgstr "20 %"
+
+#: Application/res/todo.cpp:25
+msgid "30 %"
+msgstr "30 %"
+
+#: Application/res/todo.cpp:26
+msgid "40 %"
+msgstr "40 %"
+
+#: Application/res/todo.cpp:27
+msgid "50 %"
+msgstr "50 %"
+
+#: Application/res/todo.cpp:28
+msgid "60 %"
+msgstr "60 %"
+
+#: Application/res/todo.cpp:29
+msgid "70 %"
+msgstr "70 %"
+
+#: Application/res/todo.cpp:30
+msgid "80 %"
+msgstr "80 %"
+
+#: Application/res/todo.cpp:31
+msgid "90 %"
+msgstr "90 %"
+
+#: Application/res/todo.cpp:32
+msgid "100 %"
+msgstr "100 %"
+
+#: Application/res/todo.cpp:38
+msgid "before the task is due."
+msgstr "pirms uzdevuma termiņš iztecējis"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:421
+msgid "Filename"
+msgstr "Faila vārds"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:464
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a new file will be created."
+msgstr ""
+"Choose a file for the calendar.\n"
+"\n"
+"Jūs varat izvēlēties eksistējošu ics-failu, vai ievadīt jaunu nosaukumu, šai gadījumā tiks izveidots jauns fails."
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:164
+msgid "URL"
+msgstr "URL"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:168
+msgid "Username"
+msgstr "Lietotājvārds"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:172
+msgid "Password"
+msgstr "Parole"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:176
+msgid "Poll Frequency"
+msgstr "Aptaujas biežums"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:184
+msgid "Proxy server"
+msgstr "Proxy serveris"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:188
+msgid "Proxy username"
+msgstr "Proxy lietotājvārds"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:192
+msgid "Proxy password"
+msgstr "Proxy parole"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:196
+msgid "Suppress errors"
+msgstr "Nerādīt kļūdas"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:236
+msgid ""
+"Choose an URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Izvēlieties vietni, lietotajvārdu un paroli kalendāramr.\n"
+"\n"
+"Vietne var izmantot http, https vai ftp protokolus. Lietotājvārds un parole var būt atstāti tukši, ja tie nav nepieciešami."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:473
+#, c-format
+msgid ""
+"Network Error!\n"
+"\n"
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+"Tīkla kļūda!\n"
+"\n"
+"Kļūda lejuplādējott datus no:\n"
+"%s\n"
+"\n"
+"Servera atgrieztais rezultāts: %i %s."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:600
+#, c-format
+msgid ""
+"Network Error!\n"
+"\n"
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+"Tīkla kļūda!\n"
+"\n"
+"Kļūda augšuplādējot datus uz:\n"
+"%s\n"
+"\n"
+"Servera atgrieztais rezultāts: %i %s."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:92
+msgid "Unable to initialize the MAPI library."
+msgstr "neizdevās inicializēt MAPI bibliotēku."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:192
+#: Plugins/OutlookPlugin/MapiHandler.cpp:285
+#: Plugins/OutlookPlugin/MapiHandler.cpp:298
+msgid "Application"
+msgstr "Aplikācija"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:207
+#: Plugins/OutlookPlugin/MapiHandler.cpp:304
+msgid "Profile"
+msgstr "Profils"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:222
+msgid "MessageStore"
+msgstr "Ziņu glabāšanas vieta"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:237
+msgid "Import Alarms"
+msgstr "Importēt atgādinājumus"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:337
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Izvēlies Outlook ziņu vietu, kuru varētu redzēt Rainlendar."
+
+#: Application/Resource.h:214
+msgid "Yes"
+msgstr "Jā"
+
+#: Application/Resource.h:215
+msgid "No"
+msgstr "Nē"
+
+#: Application/Resource.h:216
+msgid "True"
+msgstr "Patiess"
+
+#: Application/Resource.h:217
+msgid "False"
+msgstr "Nepatiess"
+
+#: Application/Resource.h:219
+msgid "Hide Windows"
+msgstr "Slēpt logu"
+
+#: Application/Resource.h:220
+msgid "Show Windows"
+msgstr "Rādīt logu"
+
+#: Application/Resource.h:221
+msgid "Toggle Windows"
+msgstr "Toggle Windows"
+
+#: Application/Resource.h:222
+msgid "Next Month"
+msgstr "Nākamais mēnesis"
+
+#: Application/Resource.h:223
+msgid "Previous Month"
+msgstr "Iepriekšējais mēnesis"
+
+#: Application/Resource.h:226
+msgid "Anniversary"
+msgstr "Jubilejas"
+
+#: Application/Resource.h:227
+msgid "Birthday"
+msgstr "Dzimšanas diena"
+
+#: Application/Resource.h:228
+msgid "Business"
+msgstr "Bizness"
+
+#: Application/Resource.h:229
+msgid "Calls"
+msgstr "Zvani"
+
+#: Application/Resource.h:230
+msgid "Clients"
+msgstr "Klienti"
+
+#: Application/Resource.h:231
+msgid "Competition"
+msgstr "Sacensība"
+
+#: Application/Resource.h:232
+msgid "Customer"
+msgstr "Pasūtītājs"
+
+#: Application/Resource.h:233
+msgid "Exam"
+msgstr "Eksāmens"
+
+#: Application/Resource.h:234
+msgid "Favorites"
+msgstr "Iecienītie"
+
+#: Application/Resource.h:235
+msgid "Follow up"
+msgstr "Turpināt"
+
+#: Application/Resource.h:236
+msgid "Gifts"
+msgstr "Dāvanas"
+
+#: Application/Resource.h:237
+msgid "Holidays"
+msgstr "Brīvdienas"
+
+#: Application/Resource.h:238
+msgid "Ideas"
+msgstr "Idejas"
+
+#: Application/Resource.h:239
+msgid "Important"
+msgstr "Svarīgi"
+
+#: Application/Resource.h:240
+msgid "Issues"
+msgstr "Problēmas"
+
+#: Application/Resource.h:241
+msgid "Miscellaneous"
+msgstr "Dažādi"
+
+#: Application/Resource.h:242
+msgid "Personal"
+msgstr "Personāls"
+
+#: Application/Resource.h:243
+msgid "Projects"
+msgstr "Projekti"
+
+#: Application/Resource.h:244
+msgid "Public Holiday"
+msgstr "Publiskās brīvdienas"
+
+#: Application/Resource.h:246
+msgid "Suppliers"
+msgstr "Piegādātājs"
+
+#: Application/Resource.h:247
+msgid "Travel"
+msgstr "Ceļojums"
+
+#: Application/Resource.h:248
+msgid "Trip"
+msgstr "Ceļojums"
+
+#: Application/Resource.h:249
+msgid "TV"
+msgstr "TV"
+
+#: Application/Resource.h:250
+msgid "Vacation"
+msgstr "Atvaļinājums"
+
+#: Application/Resource.h:251
+msgid "Work"
+msgstr "Darbs"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:27
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar faili (*.ics)|*.ics|vCalendar faili (*.vcs)|*.vcs"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:28
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar faili (*.ics)|*.ics"
+
+#: Plugins/IniFormatPlugin/IniFormatHandler.h:21
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar faili (*.ini)|*.ini"
+

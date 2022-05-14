@@ -1,0 +1,5120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: 2022-03-18 12:23+0200\n"
+"Last-Translator: Maxareuos <max5@bezeqint.net>\n"
+"Language-Team: Maxareuos <max5@bezeqint.net>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Rainlendar אינו יכול להפעיל את שרת ה - HTTP כדי לקבל את תגובת OAuthודא שאין "
+"לך שום תוכנת אבטחה שמונעת מהאפליקציה להתחיל שרתים ושאין שירותים אחרים "
+"שפועלים באותה יציאה"
+
+msgid "Server Port: "
+msgstr "יציאת השרת:"
+
+msgid "Failed to start HTTP server"
+msgstr "הפעלת שרת HTTP נכשלה"
+
+msgid "Choose the backup path"
+msgstr "בחר את הנתיב לגיבוי"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "ארכיון (*.zip)|*.zip"
+
+msgid "Authentication failed!"
+msgstr "האימות נכשל"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "חשוב לסיים את תהליך האימות"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr "ולתת ל - Rainlendar הרשאה לגשת ללוח השנה שלך."
+
+msgid "Authentication succeeded!"
+msgstr "האימות הצליח!"
+
+msgid "You may close the browser window now."
+msgstr "אתה רשאי לסגור את חלון הדפדפן כעת."
+
+msgid "Choose the backup file:"
+msgstr "בחר את קובץ הגיבוי:"
+
+msgid "Select"
+msgstr "בחר"
+
+msgid "No backups found!"
+msgstr "שום גיבויים נמצאו!"
+
+msgid "There are no backups available in the backup folder."
+msgstr "אין גיבויים זמינים בתיקיית הגיבוי."
+
+msgid "The settings do not exist!"
+msgstr "ההגדרות לא קיימות!"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "קובץ הגיבוי הנבחר לא מכיל את קובץ ההגדרות."
+
+msgid "The file already exists:"
+msgstr "הקובץ כבר קיים:"
+
+msgid "Do you want to overwrite the file?"
+msgstr "האם לדרוס קובץ זה?"
+
+msgid "Unable to overwrite file:"
+msgstr "אין אפשרות לדרוס את הקובץ:"
+
+msgid "Write error!"
+msgstr "שגיאה בכתיבה!"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"לא מסוגל לשחזר את הקובץ:\n"
+"%s\n"
+"\n"
+"אתה צריך לחלץ את הקובץ ידנית מארכיון הגיבוי."
+
+msgid "Restore error!"
+msgstr "שגיאת שיחזור!"
+
+msgid "[None]"
+msgstr "[אין]"
+
+msgid "<Hidden>"
+msgstr "<מוסתר>"
+
+msgid "all"
+msgstr "כל"
+
+msgid "active"
+msgstr "פעיל"
+
+msgid "dismissed"
+msgstr "משוחרר"
+
+msgid "snoozed"
+msgstr "מושהה זמנית"
+
+msgid "Show only needs action"
+msgstr "הצג רק פעולות צורך"
+
+msgid "Show only in progress"
+msgstr "הצג רק בתהליך"
+
+msgid "Show only completed"
+msgstr "הושלמו בלבד"
+
+msgid "Show only cancelled"
+msgstr "הצג רק בוטל"
+
+msgid "Hide needs action"
+msgstr "יש לפעול"
+
+msgid "Hide in progress"
+msgstr "הסתר בתהליך"
+
+msgid "Hide completed"
+msgstr "הסתר תגובות שהושלמו"
+
+msgid "Hide cancelled"
+msgstr "הסתרת ביטולים"
+
+msgid "Reset completed time"
+msgstr "איפוס הזמן שהושלם"
+
+msgid "Show only no priority"
+msgstr "הצג רק ללא עדיפות"
+
+msgid "Show only high priority"
+msgstr "הצג עדיפות גבוהה בלבד"
+
+msgid "Show only normal priority"
+msgstr "הצג עדיפות רגילה בלבד"
+
+msgid "Show only low priority"
+msgstr "הצג עדיפות נמוכה בלבד"
+
+msgid "Hide no priority"
+msgstr "הסתרה ללא עדיפות"
+
+msgid "Hide high priority"
+msgstr "עדיפות גבוהה"
+
+msgid "Hide normal priority"
+msgstr "עדיפות רגילה"
+
+msgid "Hide low priority"
+msgstr "עדיפות נמוכה"
+
+msgid "Show only alarms"
+msgstr "הצג רק תזכורות"
+
+msgid "Show only active"
+msgstr "הצג פעילים בלבד"
+
+msgid "Show only snoozed"
+msgstr "הצג רק מושהה זמנית"
+
+msgid "Show only dismissed"
+msgstr "הצג רק מבוטל"
+
+msgid "Hide alarms"
+msgstr "הסתר התראות"
+
+msgid "Hide active"
+msgstr "הסתר פעיל"
+
+msgid "Hide snoozed"
+msgstr "הסתר מושהה זמנית"
+
+msgid "Hide dismissed"
+msgstr "הסתר מבוטל"
+
+msgid "Reset dismiss time"
+msgstr "איפוס זמן הביטול"
+
+msgid "Reset snooze time"
+msgstr "איפוס זמן השהיה זמנית"
+
+msgid "Dismiss next alarm"
+msgstr "בטל את התזכורת הבאה"
+
+msgid "Duration:"
+msgstr "משך הפגישה:"
+
+msgid "Next alarm:"
+msgstr "התזכורת הבאה:"
+
+msgid "Dismissed:"
+msgstr "משוחרר"
+
+msgid "Snoozed until:"
+msgstr "מושהה זמנית עד:"
+
+msgid "In Progress"
+msgstr "בביצוע"
+
+msgid "Completed"
+msgstr "הושלם"
+
+msgid "Needs Action"
+msgstr "בהמתנה"
+
+msgid "Cancelled"
+msgstr "מבוטל"
+
+msgid "None"
+msgstr "אין"
+
+msgid "High"
+msgstr "גבוהה"
+
+msgid "Normal"
+msgstr "במצב רגיל"
+
+msgid "Low"
+msgstr "נמוכה"
+
+msgid "All"
+msgstr "הכל"
+
+msgid "Active"
+msgstr "פעילים"
+
+msgid "Dismissed"
+msgstr "משוחרר"
+
+msgid "Snoozed"
+msgstr "מושהה זמנית"
+
+msgid "Daily"
+msgstr "יומי"
+
+msgid "Weekly"
+msgstr "שבועי"
+
+msgid "Monthly"
+msgstr "חודשי"
+
+msgid "Yearly"
+msgstr "שנתי"
+
+msgid "Private"
+msgstr "פרטי"
+
+msgid "Public"
+msgstr "פומבי"
+
+msgid "Confidential"
+msgstr "סודי"
+
+msgid "Default"
+msgstr "ברירת מחדל"
+
+msgid "No priority"
+msgstr "אין עדיפות"
+
+msgid "Normal priority"
+msgstr "עדיפות רגילה"
+
+msgid "High priority"
+msgstr "עדיפות גבוהה"
+
+msgid "Low priority"
+msgstr "עדיפות נמוכה"
+
+msgid "Created: "
+msgstr "נוצר ב:"
+
+msgid "Unknown"
+msgstr "לא ידוע"
+
+msgid "Modified: "
+msgstr "שינוי:"
+
+msgid "Copy"
+msgstr "העתק"
+
+msgid "Region"
+msgstr "איזור"
+
+msgid "Native"
+msgstr "טבעי"
+
+msgid "Sunday"
+msgstr "יום ראשון"
+
+msgid "Monday"
+msgstr "יום שני"
+
+msgid "Tuesday"
+msgstr "יום שלישי"
+
+msgid "Wednesday"
+msgstr "יום רביעי"
+
+msgid "Thursday"
+msgstr "יום חמישי"
+
+msgid "Friday"
+msgstr "יום שישי"
+
+msgid "Saturday"
+msgstr "יום שבת"
+
+msgid "Every second Saturday"
+msgstr "כל שבת שניה"
+
+msgid "Start"
+msgstr "התחלה"
+
+msgid "Due"
+msgstr "מועד"
+
+msgid "Priority"
+msgstr "עדיפות"
+
+msgid "Status"
+msgstr "סטטוס"
+
+msgid "Category"
+msgstr "לפי הקטגוריות"
+
+msgid "Recurrence"
+msgstr "חזרה אוטומטית"
+
+msgid "Off"
+msgstr "כבוי"
+
+msgid "Beta"
+msgstr "בטא"
+
+msgid "General"
+msgstr "כללי"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "%H:%M (z.B. \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "%#H:%M (z.B. \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "%I:%M %p (z.B. \"01:42 pm\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "%#I:%M %p (z.B. \"3:42 pm\")"
+
+msgid "Time format"
+msgstr "תבנית הזמן"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "%d.%#m.%Y (z.B. \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "%d.%m.%Y (z.B. \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "%Y-%m-%d (z.B. \"2012-04-21\")"
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "%#m/%d/%Y (z.B. \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "%m/%d/%Y (z.B. \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "תבנית התאריך"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "השתמש ב'היום 'ו'מחר'"
+
+msgid "Weekend days"
+msgstr "ימי סוף השבוע"
+
+msgid "Week number delta"
+msgstr "סטייה במספר השבוע"
+
+msgid "Default categories"
+msgstr "קטגוריות ברירת המחדל "
+
+msgid "Show categories from the skin"
+msgstr "הצג קטגוריות מהסקין"
+
+msgid "Show tray icon"
+msgstr "הצג סמל במגש המערכת"
+
+msgid "Show tray status icons"
+msgstr "הצג סמל במגש המערכת"
+
+msgid "Day number"
+msgstr "מספר יום"
+
+msgid "Week number"
+msgstr "מספר שבועי"
+
+msgid "Number in tray"
+msgstr "מספר במגש"
+
+msgid "Always"
+msgstr "תמיד"
+
+msgid "Never"
+msgstr "אף פעם"
+
+msgid "Show full menus"
+msgstr "הצג תפריטים מלאים"
+
+msgid "Disable keyboard shortcuts"
+msgstr "בטל קיצורי דרך"
+
+msgid "List wheel scroll"
+msgstr "אפשר גלילה ברשימה"
+
+msgid "Skin language"
+msgstr "שפת ערכת הנושא"
+
+msgid "Number of stored backups"
+msgstr "מספר הגיבויים המאוחסנים"
+
+msgid "Show delete confirmations"
+msgstr "הצג אישור לפני מחיקה"
+
+msgid "Disable text formatting"
+msgstr "בטל עיצוב טקסט"
+
+msgid "Show empty list text"
+msgstr "הצג טקסט רשימה ריקה"
+
+msgid "Check for updates"
+msgstr "בדוק עידכונים"
+
+msgid "Show url icons"
+msgstr "הצג סמלים של כתובות אתר"
+
+msgid "Simultaneous transfers"
+msgstr "העברות בו זמניות"
+
+msgid "Only uncategorized"
+msgstr "ללא קטגוריה בלבד"
+
+msgid "Icon from events"
+msgstr "סמלים מאירועים"
+
+msgid "Visual category overwrite"
+msgstr "שכתוב קטגוריה חזותית"
+
+msgid "Store English category names"
+msgstr "שמור שמות קטגוריה אנגליים"
+
+msgid "Custom category icon path"
+msgstr "כתובת לסמל קטגוריה מותאם אישית"
+
+msgid "Use antialiased fonts"
+msgstr "השתמש בהחלקת שינון בפונטים"
+
+msgid "Count"
+msgstr "ספירה"
+
+msgid "Ordinal"
+msgstr "סידורי"
+
+msgid "Type of year to add for categories"
+msgstr "סוג השנה שיתווסף לקטגוריות"
+
+msgid "Use custom password encrypting"
+msgstr "השתמש בקידוד סיסמא מותאם אישית"
+
+msgid "Editor"
+msgstr "עורך"
+
+msgid "Allow multiple calendars"
+msgstr "אפשר מספר מופעים של התוכנה"
+
+msgid "Allow multiple categories"
+msgstr "אפשר מספר קטגוריות"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "השאר את העורך פתוח עד שהכתיבה מצליחה"
+
+msgid "Time span in the editor"
+msgstr "טווח הזמן בעורך"
+
+msgid "Number of previous locations"
+msgstr "מספר המיקום הקודמים"
+
+msgid "Default event duration"
+msgstr "משך אירוע ברירת המחדל"
+
+msgid "Windows"
+msgstr "חלונות"
+
+msgid "Use window names"
+msgstr "השתמש בשמות חלון"
+
+msgid "Hide on Aero peek"
+msgstr "החבא כש Aero peek פועל"
+
+msgid "Transparency type"
+msgstr "סוג השקיפות"
+
+msgid "Copy transparency sleep time"
+msgstr "העתק את זמן שינת השקיפות"
+
+msgid "Fade delay (ms)"
+msgstr "השהייה לעמעום"
+
+msgid "Fade duration (ms)"
+msgstr "זמן עימעום"
+
+msgid "Allow window fading"
+msgstr "אפשר התנדפות חלון"
+
+msgid "Keep on screen"
+msgstr "שמור על המסך"
+
+msgid "Bring all windows on top when clicked"
+msgstr "העלה את כל החלונות למעלה כאשר לוחצים"
+
+msgid "Show in all desktops"
+msgstr "הצג בכל שולחנות העבודה"
+
+msgid "Snap distance"
+msgstr "מרחק יישור"
+
+msgid "Snap center"
+msgstr "יישור למרכז"
+
+msgid "Don't save"
+msgstr "אל תחסוך"
+
+msgid "Per resolution"
+msgstr "לכל רזולוציה"
+
+msgid "Single value"
+msgstr "ערך בודד"
+
+msgid "Save window position"
+msgstr "שמור מיקום החלון"
+
+msgid "Font face"
+msgstr "פני גופן"
+
+msgid "Scaling quality"
+msgstr "איכות קנה מידה"
+
+msgid "Network"
+msgstr "רשת"
+
+msgid "Reload delay after resume (s)"
+msgstr "טעינה מחדש של השהיה לאחר קורות חיים"
+
+msgid "Network access delay after startup (s)"
+msgstr "עיכוב בגישה לרשת לאחר ההפעלה"
+
+msgid "Proxy server"
+msgstr "שרת פרוקסי"
+
+msgid "Proxy user"
+msgstr "שם משתמש של הפרוקסי"
+
+msgid "Proxy password"
+msgstr "סיסמת פרוקסי"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgid "Proxy type"
+msgstr "שרת פרוקסי"
+
+msgid "Try direct connection if proxy fails"
+msgstr "נסה חיבור ישיר אם הפרוקסי נכשל"
+
+msgid "Calendar"
+msgstr "יומן"
+
+msgid "Show all icons"
+msgstr "הצג את כל הסמלים"
+
+msgid "Show one icon per type"
+msgstr "הראה סמל אחד לכל סוג"
+
+msgid "Show only one icon"
+msgstr "הצג רק סמל אחד"
+
+msgid "Show no icons"
+msgstr "אל תראה סמלים"
+
+msgid "Combine icons in the calendar"
+msgstr "שלב סמלים ביומן"
+
+msgid "Calendar wheel scroll"
+msgstr "אפשר גלילה ביומן"
+
+msgid "Show tasks in calendar"
+msgstr "הצג ביומן"
+
+msgid "Always show menu"
+msgstr "תמיד הצג תפריט"
+
+msgid "Always create new event"
+msgstr "תמיד צור אירוע חדש"
+
+msgid "Do nothing"
+msgstr "אל תעשה כלום"
+
+msgid "Double click action"
+msgstr "פעולת לחיצה כפולה"
+
+msgid "Tooltip"
+msgstr "הערה"
+
+msgid "Show tooltips"
+msgstr "הצג הערות"
+
+msgid "Only on days with events"
+msgstr "בימים עם אירועים בלבד"
+
+msgid "Show tooltip in tray"
+msgstr "הצג הערה במגש המערכת של ווינדוס"
+
+msgid "Max tooltip window width"
+msgstr "רוחב מקסימלי של הערה"
+
+msgid "Show description in tooltip"
+msgstr "הצג תיאור בהערה"
+
+msgid "Task fields in tooltip"
+msgstr "הצג פריטים של רשימת המשימות בהערה"
+
+msgid "Event fields in tooltip"
+msgstr "הצג פריטים של רשימת האירועים בהערה"
+
+msgid "Traytip show duration (s)"
+msgstr "משך ההצגה של Traytip"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "משך זמן העמעום - מילישניות"
+
+msgid "Tooltip show delay (ms)"
+msgstr "עיכוב הצגת ההערה - במילישניות"
+
+msgid "Tooltip format"
+msgstr "תצורת ההערה"
+
+msgid "Task List"
+msgstr "רשימת משימות"
+
+msgid "Show full task summary"
+msgstr "הצג תיאור מלא של המשימה"
+
+msgid "Show task due time"
+msgstr "הצג את מועד המשימה"
+
+msgid "Show task location"
+msgstr "הצג מיקום המשימה"
+
+msgid "Show task calendar"
+msgstr "הצג ביומן"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "מספר הימים שברשימה"
+
+msgid "Show task time when arranged by start or due date"
+msgstr "הראה זמן משימה כאשר מסודר לפי מועד התחלה או סיום"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr ""
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr ""
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr ""
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr ""
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr ""
+
+msgid "Task list header format"
+msgstr "מבנה כותרת עליונה"
+
+msgid "<None>"
+msgstr "<אין>"
+
+msgid "Default task template"
+msgstr "תבנית ברירת המחדל של המשימות"
+
+msgid "Event List"
+msgstr "רשימת האירועים"
+
+msgid "Show full event summary"
+msgstr "הצג תיאור אירוע מלא"
+
+msgid "Show event start time"
+msgstr "הצג זמן תחילת הארוע"
+
+msgid "Show event end time"
+msgstr "הצג זמן  סיום הארוע"
+
+msgid "Show event location"
+msgstr "הצג מיקום הארוע"
+
+msgid "Show event calendar"
+msgstr "הצג ביומן"
+
+msgid "Hide dismissed events"
+msgstr "הסתר ארועים שאושרו "
+
+msgid "Hide past events"
+msgstr "הסתר ארועים שאושרו "
+
+msgid "Number of future days the list shows"
+msgstr "מספר הימים שברשימה"
+
+msgid "Number of past days the list shows"
+msgstr "מספר הימים שברשימה"
+
+msgid "Age from start of the week"
+msgstr "זמן מתחילת השבוע"
+
+msgid "Event list header format"
+msgstr "גובה יומן האירועים"
+
+msgid "Default event template"
+msgstr "ברירת מחדל זמן נודניק"
+
+msgid "No grouping"
+msgstr "בלי קבוצות"
+
+msgid "Start and end dates"
+msgstr "תאריכי התחלה וסוף"
+
+msgid "Start date and duration"
+msgstr "תאריך ההתחלה ומשך הזמן"
+
+msgid "Group multiday events"
+msgstr "קבץ אירועים רבי ימים"
+
+msgid "Schedule"
+msgstr "תזמון"
+
+msgid "Show schedule descriptions"
+msgstr "הצג תיאור של האירוע"
+
+msgid "Show schedule start time"
+msgstr "הצג זמן תחילת הארוע"
+
+msgid "Show schedule end time"
+msgstr "הצג זמן סיום הארוע"
+
+msgid "Show schedule location"
+msgstr "הצג מיקום הארוע"
+
+msgid "Show schedule calendar"
+msgstr "הצג ביומן"
+
+msgid "Create, move and resize events with mouse"
+msgstr "צור, הזז ושנה גודל עם העכבר"
+
+msgid "First shown hour"
+msgstr "השעה שמוצגת ראשונה"
+
+msgid "Last shown hour"
+msgstr "השעה שמוצגת אחרונה"
+
+msgid "Alarm"
+msgstr "התראה"
+
+msgid "Show alarm start time"
+msgstr "מועד התחלה להתראה"
+
+msgid "Show alarm end time"
+msgstr "הצג זמן סיום ההתראה"
+
+msgid "Show alarm location"
+msgstr "הצג מיקום ההתראה"
+
+msgid "Show alarm calendar"
+msgstr "הצג ביומן"
+
+msgid "Show due to the event"
+msgstr "הצג מועד לאירוע"
+
+msgid "Support Mozilla alarms"
+msgstr "תמוך בהתראות של מוזילה"
+
+msgid "Keep alarm always on top"
+msgstr "הצג תמיד התראה מעל הכל"
+
+msgid "Default snooze time (secs)"
+msgstr "ברירת מחדל זמן נודניק"
+
+msgid "Max alarm window width"
+msgstr "רוחב מקסימלי של חלון ההתראה"
+
+msgid "Hide from alarm after days"
+msgstr "הסתר התראה לאחר מס' ימים"
+
+msgid "Default alarm time (mins)"
+msgstr "זמן ברירת המחדל של התזכורת (דקות)"
+
+msgid "Default alarm file"
+msgstr "קובץ ברירת מחדל להתראה"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "אל תציג התראה מעל חלון במסך מלא"
+
+msgid "Loop the alarm sound (secs)"
+msgstr "חזור על צליל ההתראה - בשניות"
+
+msgid "Snooze times (mins)"
+msgstr "זמני נודניק"
+
+msgid "Create Error!"
+msgstr "שגיאה בכתיבה!"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "עליך לבחור לפחות יומן אחד אליהם יתבצע יבוא האירועים"
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "לא מסוגל ליצור פריט חדש מהטקסט:\n"
+
+msgid "Parse Error!"
+msgstr "שגיאה בכתיבה!"
+
+msgid "New version found!"
+msgstr "גרסה חדשה נמצאה!"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"גרסה %s זמינה.\n"
+"האם ברצונך לגשת לאתר כעת?"
+
+msgid "No updates available."
+msgstr "אין עידכונים חדשים."
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "יש לך את הגרסה העדכנית ביותר של ריינלנדר."
+
+msgid "New event"
+msgstr "אירוע חדש"
+
+msgid "New task"
+msgstr "משימה חדשה"
+
+msgid "Refresh"
+msgstr "רענן"
+
+msgid "Options..."
+msgstr "אפשרויות..."
+
+msgid "Manager..."
+msgstr "מנהל האירועים..."
+
+msgid "Exit"
+msgstr "יציאה"
+
+msgid "File"
+msgstr "קובץ"
+
+msgid "View"
+msgstr "תצוגה"
+
+msgid "About..."
+msgstr "אודות"
+
+msgid "Open help\tCtrl+?"
+msgstr "פתח עזרה\tCtrl+?"
+
+msgid "Help"
+msgstr "עזרה"
+
+msgid "About"
+msgstr "אודות"
+
+msgid "Calendars"
+msgstr "יומנים"
+
+msgid "Choose day"
+msgstr "בחר יום"
+
+msgid "Choose month"
+msgstr "בחר חודש"
+
+msgid "Install license..."
+msgstr "התקנת רשיון..."
+
+msgid "Show debug log"
+msgstr "הצג יומן ניפוי באגים"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+msgid "Enable all calendars"
+msgstr "הפעל את כל היומנים"
+
+msgid "Disable all calendars"
+msgstr "השבת את כל היומנים"
+
+msgid "Current Day"
+msgstr "יום נוכחי\tHome"
+
+msgid "Next Day"
+msgstr "יום הבא\tUp"
+
+msgid "Previous Day"
+msgstr "יום קודם\tDown"
+
+msgid "Next Week"
+msgstr "שבוע הבא\tUp"
+
+msgid "Previous Week"
+msgstr "שבוע קודם\tDown"
+
+msgid "Next Month"
+msgstr "חודש הבא"
+
+msgid "Previous Month"
+msgstr "חודש קודם"
+
+msgid "Current Month"
+msgstr "חודש נוכחי\tHome"
+
+msgid "Next Year"
+msgstr "שנה הבאה\tUp"
+
+msgid "Previous Year"
+msgstr "שנה קודמת\tDown"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Right"
+msgstr "Right"
+
+msgid "Left"
+msgstr "Left"
+
+msgid "Up"
+msgstr "Up"
+
+msgid "Down"
+msgstr "Down"
+
+msgid "January"
+msgstr "ינואר"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+msgid "February"
+msgstr "פברואר"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+msgid "March"
+msgstr "מרץ"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+msgid "April"
+msgstr "אפריל"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+msgid "May"
+msgstr "מאי"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+msgid "June"
+msgstr "יוני"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+msgid "July"
+msgstr "יולי"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+msgid "August"
+msgstr "אוגוסט"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+msgid "September"
+msgstr "ספטמבר"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+msgid "October"
+msgstr "אוקטובר"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+msgid "November"
+msgstr "נובמבר"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+msgid "December"
+msgstr "דצמבר"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+msgid "Visible"
+msgstr "גלוי"
+
+msgid "More settings..."
+msgstr "הגדרות נוספות"
+
+msgid "Today"
+msgstr "היום"
+
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+msgid "Show all windows"
+msgstr "הצג את כל החלונות"
+
+msgid "Hide all windows"
+msgstr "הסתר חלונות"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "קבצי iCalendar (*.ics)|*.ics"
+
+msgid "Choose the license file"
+msgstr "בחר קובץ רישיון"
+
+msgid "*Empty*"
+msgstr "*ריק*"
+
+msgid "This instance"
+msgstr "חזרה זו בלבד"
+
+msgid "Whole event"
+msgstr "כל האירוע"
+
+msgid "All following"
+msgstr "כל שאר החזרות בעתיד"
+
+msgid "Cancel"
+msgstr "ביטול"
+
+msgid "Do you want to delete this item?"
+msgstr "האם ברצונך למחוק פריט זה?"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"זהו פריט חוזר:\n"
+"\n"
+" %s\n"
+"\n"
+"ניתן למחוק רק את המקרה הזה (%s), את כל האירועים הבאים או את כל האירוע החוזר"
+
+msgid "The item is read only and cannot be deleted."
+msgstr "הפריט נקרא בלבד ולא ניתן למחוק אותו."
+
+msgid "Unable to delete the item."
+msgstr "לא ניתן למחוק את הפריט."
+
+msgid "Do you want to delete these items?"
+msgstr "האם למחוק פריטים אלו?"
+
+msgid "The item is read only and cannot be moved."
+msgstr "הפריט נקרא בלבד ולא ניתן להזיז אותו."
+
+msgid "Unable to move the item."
+msgstr "לא ניתן להזיז את הפריט."
+
+msgid "Choose a directory"
+msgstr "בחר תיקייה"
+
+msgid "Version"
+msgstr "גרסה"
+
+msgid "Built on"
+msgstr "בנוי על"
+
+msgid "Developed by"
+msgstr "פותח על ידי"
+
+msgid "Translated (%s) by"
+msgstr "(%s) מתורגם על ידי"
+
+msgid "Licensed to"
+msgstr "מורשה שימוש ל"
+
+msgid "Plugins"
+msgstr "תוספים"
+
+msgid "Links"
+msgstr "קישורים"
+
+msgid "FAQ"
+msgstr "שאלות ותשובות"
+
+msgid "Forum"
+msgstr "פורום"
+
+msgid "Menu icons by"
+msgstr "סמלי טפריט לפי"
+
+msgid "Application icon by"
+msgstr "סמל אפליקציה לפי"
+
+msgid "Copyrights"
+msgstr "זכויות יוצרים"
+
+msgid "Please wait..."
+msgstr "אנא המתן..."
+
+msgid "Check for update"
+msgstr "בדוק עידכונים באינטרנט"
+
+msgid "Choose Alarm"
+msgstr "בחר התראה"
+
+msgid "All files (*.*)|*.*"
+msgstr "כל הקבצים (*.*)|*.*"
+
+msgid "Change Fields"
+msgstr "שנה שדות"
+
+msgid "%i events selected"
+msgstr "%i אירועים נבחרו"
+
+msgid "%i tasks selected"
+msgstr "%i משימות נבחרו"
+
+msgid "End time:"
+msgstr "מועד סיום:"
+
+msgid "Due time:"
+msgstr "מועד סיום:"
+
+msgid "Add new alarm"
+msgstr "הוסף התראה חדשה"
+
+msgid "Are you sure you want to do this?"
+msgstr "האם אתה בטוח?"
+
+msgid "The selected fields will be changed to %i items."
+msgstr "השדות הנבחרים ישתנו ל%i פריטים."
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr ""
+"זה לא אפשרי לבטל את הפעולה אז לחץ על \"כן\" רק אם אתה בטוח לחלוטין שאתה יודע "
+"מה שאתה עושה."
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr ""
+"שים לב ששינוי של הסוג בין אירועים ומשימות יגרום לאיבוד מסויים של נתונים."
+
+msgid "Categories"
+msgstr "קטגוריות"
+
+msgid "Add..."
+msgstr "הוסף..."
+
+msgid "Clear"
+msgstr "נקה"
+
+msgid "Remove"
+msgstr "הסר"
+
+msgid "Values"
+msgstr "ערכים"
+
+msgid "Please give a name for the category"
+msgstr "אנא בחר שם לקטגוריה."
+
+msgid "Enter text"
+msgstr "הכנס טקסט"
+
+msgid "Unable to create the category!"
+msgstr "לא מצליח ליצור קטגוריה!"
+
+msgid "You must give a name for the category."
+msgstr "חובה לציין שם לקטגוריה."
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "אסור להשתמש בתו ה '/' בשם."
+
+msgid "A category called \"%s\" already exists."
+msgstr "קטגוריה בשם \"%s\" כבר קיימת."
+
+msgid "Link start and end dates"
+msgstr "קישור תאריכי התחלה וסיום"
+
+msgid "Save\tCtrl+S"
+msgstr "שמור\tCtrl+S"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "שמור כחדש\tShift+Ctrl+S"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "שמור לקובץ...\tAlt Ctrl S"
+
+msgid "Print...\tCtrl+P"
+msgstr "הדפס...\tCtrl P"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "מחק אירוע"
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "סגור"
+
+msgid "Close\tCtrl+W"
+msgstr "סגור\tCtrl W"
+
+msgid "Close\tAlt-F4"
+msgstr "סגור\tAlt-F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "היומנים הנבחרים לא תומכים בחזרות אוטומטיות."
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr "ההתראה לא תוצג בגלל שנבחרה הגדרה ביומן להתעלמות מהתראות."
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr "ההתראה לא תוצג כי לסקין אין חלון התראות."
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr "המשימה היא לקריאה בלבד ולא ניתן לשמור את השינויים."
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr "האירוע הוא לקריאה בלבד ולא ניתן לשמור את השינויים."
+
+msgid "The task is from a read-only calendar."
+msgstr "המשימה היא מלוח שנה לקריאה בלבד."
+
+msgid "The event is from a read-only calendar."
+msgstr "האירוע הוא מלוח שנה לקריאה בלבד."
+
+msgid "There are no calendars available which can store tasks."
+msgstr "אין לוחות שנה זמינים שיכולים לאחסן משימות."
+
+msgid "There are no calendars available which can store events."
+msgstr "אין לוחות שנה זמינים שיכולים לאחסן אירועים."
+
+msgid "No target calendar has been selected."
+msgstr "לא נבחר יומן יעד."
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr "התיאור המקורי נמצא ב - HTML ולא ניתן לערוך אותו."
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"אין שום יומן שנה בחור בשביל הפריט. בבקשה בחר יומן בו אתה רוצה לאחסן את הפריט."
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"אין שום יומנים תקינים בהם הפריט יכול להשמר. אתה צריך לגשת לאפשרויות וליצור "
+"יומן חדש בשביל הפריט. שים לב שיומנים מסויימים לא תומכים באירועים ומשימות. "
+"למשל; אתה לא יכול להוסיף משימות ליומן של גוגל."
+
+msgid "Unable to save the item."
+msgstr "לא מצליח לשמור את הפריט."
+
+msgid "Updating"
+msgstr "מעדכן"
+
+msgid "Do you want to save the changes?"
+msgstr "האם ברצונך לשמור את השינויים?"
+
+msgid "You have made some changes to the fields."
+msgstr "עשית שינויים מסויימים."
+
+msgid "&Save"
+msgstr "&שמור"
+
+msgid "&Discard"
+msgstr "&שכח"
+
+msgid "&Cancel"
+msgstr "&בטל"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "האם ברצונך למחוק פריט זה?"
+
+msgid "Event"
+msgstr "אירוע"
+
+msgid "Choose a file"
+msgstr "בחר קובץ"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "קבצי iCalendar (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "בחר את היומנים:"
+
+msgid "Select the categories:"
+msgstr "בחר את הקטגוריות:"
+
+msgid "before the event starts."
+msgstr "לפני שהאירוע מתחיל."
+
+msgid "before the task is due."
+msgstr "לפני מועד המשימה."
+
+msgid "Set alarm sound"
+msgstr "הגדר צליל התראה"
+
+msgid "Current alarm: "
+msgstr "התראה נוכחית:"
+
+msgid "Remove alarm"
+msgstr "הסר התראה"
+
+msgid "Minutes"
+msgstr "דקות"
+
+msgid "Hours"
+msgstr "שעות"
+
+msgid "Days"
+msgstr "ימים"
+
+msgid "Alert"
+msgstr "התראה"
+
+msgid "Email"
+msgstr "כתובת דואר אלקטרוני"
+
+msgid "SMS"
+msgstr "SMS "
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "לא ניתן למצוא את היומן בכדי לטפל באירוע זה. האירוע לא נשמר."
+
+msgid "On the %s day of the month"
+msgstr "ביום ה-%s של החודש"
+
+msgid "first"
+msgstr "ראשון"
+
+msgid "second"
+msgstr "שני"
+
+msgid "third"
+msgstr "שלישי"
+
+msgid "fourth"
+msgstr "רביעי"
+
+msgid "fifth"
+msgstr "חמישי"
+
+msgid "On the %s %s of the month"
+msgstr "ב-%s %s של החודש"
+
+msgid "On the last %s of the month"
+msgstr "באחרון %s של החודש"
+
+msgid "On the first weekday of the month"
+msgstr "ביום החול הראשון של החודש"
+
+msgid "On the last weekday of the month"
+msgstr "ביום החול האחרון של החודש"
+
+msgid "On the last day of the month"
+msgstr "ביום האחרון של החודש"
+
+msgid "Please give a name for the template"
+msgstr "אנא בחר שם לתבנית."
+
+msgid "Unable to create the template!"
+msgstr "לא מצליח ליצור את התבנית!"
+
+msgid "You must give a name for the template."
+msgstr "חובה לציין שם לתבנית"
+
+msgid "A template called \"%s\" already exists."
+msgstr "תבנית בשם \"%s\" כבר קיימת."
+
+msgid "Do you want to overwrite the template?"
+msgstr "האם לדרוס תבנית זו?"
+
+msgid "Choose the template to delete:"
+msgstr "בחר את התבנית למחיקה:"
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "בחר את התבנית לשימוש במשימות חדשות:"
+
+msgid "Choose the template which is used for new events:"
+msgstr "בחר את התבנית לשימוש באירועים חדשים:"
+
+msgid "Save as template..."
+msgstr "שמור כתבנית לשימוש חוזר..."
+
+msgid "Delete template..."
+msgstr "מחק תבנית"
+
+msgid "Set the default template..."
+msgstr "קבע כתבנית ברירת המחדל..."
+
+msgid "Template"
+msgstr "תבנית"
+
+msgid "Select the day range"
+msgstr "בחר טווח ימים:"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"המייצא אינו מסוגל לשמור אירועים מחזוריים אז הם צריכים להיות מומרים לאירועים "
+"רגילים. בבקשה הגדר את את טווח הימים שישמר אל הקובץ."
+
+msgid "From:"
+msgstr "שולח:"
+
+msgid "To:"
+msgstr "נמען:"
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "שעת הסיום לא יכולה להיות מוקדמת יותר משעת ההתחלה."
+
+msgid "Birthday"
+msgstr "יום-הולדת"
+
+msgid "Anniversary"
+msgstr "יום השנה"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"יצרת אירוע של יום הולדת או חגיגות יום השנה אך לא הגדרת הישנות. \n"
+"האם תרצה שהאירוע יחזור כל שנה?"
+
+msgid "Error"
+msgstr "שגיאה"
+
+msgid "Warning"
+msgstr "אזהרה"
+
+msgid "Question"
+msgstr "שאלה"
+
+msgid "Information"
+msgstr "מידע"
+
+msgid "Do not show this again"
+msgstr "אל תעשה את זה שוב"
+
+msgid "&OK"
+msgstr "&אישור"
+
+msgid "&Yes"
+msgstr "&כן"
+
+msgid "&No"
+msgstr "&לא"
+
+msgid "Manager"
+msgstr "מנהל האירועים והמשימות"
+
+msgid "Events"
+msgstr "אירועים"
+
+msgid "Tasks"
+msgstr "משימות"
+
+msgid "Show original"
+msgstr "הצג את המקורי"
+
+msgid "Show current"
+msgstr "הצג את הנוכחי"
+
+msgid "Show upcoming"
+msgstr "הצג את הבאים בתור"
+
+msgid "New"
+msgstr "חדש"
+
+msgid "Edit"
+msgstr "ערוך"
+
+msgid "Delete"
+msgstr "מחק"
+
+msgid "Copy to"
+msgstr "העתק אל"
+
+msgid "Move to"
+msgstr "העבר אל"
+
+msgid "Change fields"
+msgstr "שנה שדות"
+
+msgid "Import"
+msgstr "יבא"
+
+msgid "Export"
+msgstr "יצא"
+
+msgid "Print..."
+msgstr "הדפס..."
+
+msgid "Backup"
+msgstr "גיבוי"
+
+msgid "Restore"
+msgstr "שחזר"
+
+msgid "Close"
+msgstr "סגור"
+
+msgid "Select all"
+msgstr "בחר הכל"
+
+msgid "Select none"
+msgstr "בחר ללא"
+
+msgid "Toggle selection"
+msgstr "החלף בחירה"
+
+msgid "Select duplicates"
+msgstr "בחר כפילויות"
+
+msgid "Sort by due time"
+msgstr "סדר לפי תאריך המועד"
+
+msgid "Sort by end time"
+msgstr "סדר לפי תאריך היעד"
+
+msgid "Sort by summary"
+msgstr "סדר לפי תקציר"
+
+msgid "Sort by location"
+msgstr "סדר לפי מיקום"
+
+msgid "Sort by calendar"
+msgstr "סדר לפי יומן"
+
+msgid "Sort by category"
+msgstr "סדר לפי קטגוריה"
+
+msgid "Sort by url"
+msgstr "סדר לפי כתובת רשת"
+
+msgid "Sort by repeat"
+msgstr "סדר לפי חזרה"
+
+msgid "Sort by priority"
+msgstr "סדר לפי העדיפות"
+
+msgid "Sort by status"
+msgstr "סדר לפי סטטוס"
+
+msgid "Sort by create time"
+msgstr "מיין לפי זמן יצירה"
+
+msgid "Sort by modify time"
+msgstr "מיין לפי זמן שינוי"
+
+msgid "Sort by start time"
+msgstr "סדר לפי תחילת הארוע"
+
+msgid "Start time"
+msgstr "מועד התחלה"
+
+msgid "End time"
+msgstr "מועד סיום"
+
+msgid "Summary"
+msgstr "כותרת"
+
+msgid "Location"
+msgstr "מיקום"
+
+msgid "Url"
+msgstr "כתובת האתר"
+
+msgid "Create time"
+msgstr "צור זמן"
+
+msgid "Modify time"
+msgstr "שנה זמן"
+
+msgid "Reverse sorting"
+msgstr "הפוך סדר"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "סה\"כ :%i (נבחר :%i)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr ""
+"פתיחה של פריטים רבים לעריכה יכולה לקחת המון זמן. אתה בטוח שאתה רוצה לעשות "
+"זאת?"
+
+msgid "Do you want to delete the selected item?"
+msgstr "האם ברצונך למחוק את הפריטים הנבחרים?"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "האם ברצונך למחוק את %i הפריטים הנבחרים?"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr "הפריט הנבחר הוא לקריאה בלבד ולא יכול להמחק."
+
+msgid "There were %i read only items which were not deleted."
+msgstr "היו %i פריטים לקריאה בלבד שלא נחמקו."
+
+msgid "Unable to delete some items."
+msgstr "לא מצליח למחוק פריטים מסויימים."
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "בחר את היומן לפריטים המועתקים"
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "בחר את היומן לפריטים המועברים"
+
+msgid "Operation failed!"
+msgstr "!פעולה נכשלה"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr ""
+"יבוא נכשל.\n"
+"\n"
+"אין יומנים זמינים בהם ניתן לאחסן את הפריטים.."
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"העברת פריטים ליומן מקוון אינה בטוחהאם יומן היעד לא יקבל את הפריטים בגלל "
+"בעיות ברשת או מסיבה אחרת, תאבד את כל האירועים שהועברו\n"
+"\n"
+"אם כן, לחץ על \"כן\" רק אם אתה בטוח לחלוטין שאתה י\"דע\"מה אתה עושה"
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "הוזזו %i פריטים אל היומנים האלו:\n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "הועתקו %i פריטים אל היומנים הללו:\n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"חשוב! העתקה של פריטים ללוח שנה מקוון לוקח קצת זמן אז הם לא יהיו זמינים עד "
+"לאחר זמן מה. "
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr "חלק מהפריטים הוגדרו לקריאה בלבד והועתקו במקום זאת."
+
+msgid "Operation finished!"
+msgstr "פעולה הסתיימה!"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "עליך לבחור לפחות יומן אחד אליהם יתבצע יבוא האירועים"
+
+msgid "Backup was successful."
+msgstr "השחזור/הגיבוי הצליח."
+
+msgid "The backup contains these files:"
+msgstr "הגיבוי מכיל את הקבצים הבאים:"
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"אזהרה! קובץ הגיבוי לא מכיל שום קובץ iCalendar אז אם יש לך אירוע ששמור מקומית "
+"או משימה - אתה צריך לגבות אותם מיידית."
+
+msgid "Unable to create the backup file."
+msgstr "לא מצליח ליצור קובץ גיבוי"
+
+msgid "The archive contains unknown files:\n"
+msgstr "הארכיון מכיל קבצים לא מוכרים:\n"
+
+msgid "Restore was successful."
+msgstr "השחזור הצליח."
+
+msgid "There were problems during the restore."
+msgstr "היו בעיות במשך השיחזור."
+
+msgid "Exported %i events successfully."
+msgstr " %i ארועים יוצאו בהצלחה"
+
+msgid "Exported %i todo items successfully."
+msgstr " %i משימות יוצאו בהצלחה"
+
+msgid "Export failed!"
+msgstr "!הייצוא נכשל"
+
+msgid "Import failed!"
+msgstr "!היבוא נכשל"
+
+msgid "Options"
+msgstr "אפשרויות"
+
+msgid "Skins"
+msgstr "סקינים"
+
+msgid "Hotkeys"
+msgstr "מקשי קיצור"
+
+msgid "Advanced"
+msgstr "מתקדם"
+
+msgid "Reset all settings"
+msgstr "אתחל את כל ההגדרות"
+
+msgid "Reset offline copy"
+msgstr "איפוס עותק לא מקוון"
+
+msgid "Authenticate"
+msgstr "אימות"
+
+msgid "OK"
+msgstr "אישור"
+
+msgid "Get more languages..."
+msgstr "מצא שפות נוספות..."
+
+msgid "On Top"
+msgstr "מעל יתר החלונות"
+
+msgid "On Bottom"
+msgstr "מתחת ליתר החלונות"
+
+msgid "On Desktop"
+msgstr "על שולחן העבודה"
+
+msgid "Get more skins..."
+msgstr "מצא סקינים נוספים..."
+
+msgid "TrayIcon"
+msgstr "סמל מגש המערכת"
+
+msgid "Author"
+msgstr "מחבר"
+
+msgid "Homepage"
+msgstr "אתר-הבית"
+
+msgid "Addons"
+msgstr "תוספים"
+
+msgid "Version history"
+msgstr "היסטורית גרסה"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "זהו סקין בפורמט ישן. חלק מהתכונות החדשות לא נתמכות"
+
+msgid "Advanced >>>"
+msgstr "<<< מתקדם"
+
+msgid "<<< Simple"
+msgstr "פשוט>>>"
+
+msgid "Open containing folder"
+msgstr "פתח את התקיה המכילה"
+
+msgid "Custom categories are not supported."
+msgstr "קטגוריות מותאמות אישית לא נתמכות."
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr ""
+"הסקין \"%s\" לא תומך בתצוגות קטגוריה מותאמות אישית אז זה לא אפשרי לערוך אותן."
+
+msgid "Activate only default windows?"
+msgstr "להפעיל רק חלונות ברירת מחדל?"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr "האם ברצונך להפעיל רק את חלונות ברירת המחדל או את כל החלונות?"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr "שים לב שהפעלת כל החלונות יכולה להפחית את הביצועים."
+
+msgid "&Default"
+msgstr "ברירת מחדל"
+
+msgid "&All"
+msgstr "הכל"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"הפעל את שדה העריכה ולחץ על צירוף מקשי הקיצור. שים לב לזה שהמקשי הקיצור הם "
+"גלובליים וישפיעו גם על תוכניות אחרות אז אל תעשה אותם פשוטים מידי."
+
+msgid "Hotkey"
+msgstr "מקש קיצור"
+
+msgid "Function"
+msgstr "פונקציה"
+
+msgid "Search:"
+msgstr "חפש:"
+
+msgid "Do you want to reset all settings?"
+msgstr "האם אתה רוצה לאפס את כל ההגדרות?"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"פעולה זו תאתחל את כל ההגדרות לברירת המחדל.\n"
+"הגדרות ברירת המחדל ייושמו מיידת.\n"
+"האם ברצונך להמשיך?"
+
+msgid "Common"
+msgstr "משותף"
+
+msgid "Enabled"
+msgstr "מאופשר"
+
+msgid "Read only"
+msgstr "לקריאה בלבד"
+
+msgid "Ignore alarms"
+msgstr "התעלם מהתראות"
+
+msgid "Default alarm (minutes)"
+msgstr "התראת ברירת המחדל (בדקות)"
+
+msgid "Visual category"
+msgstr "קטגוריה חזותית"
+
+msgid "Time offset (mins)"
+msgstr "זמן קיזוז - בדקות"
+
+msgid "Time zone"
+msgstr "אזור זמן"
+
+msgid "Copy of %s"
+msgstr "העתק של %s"
+
+msgid "Please enter a name for the calendar."
+msgstr "אנא בחר שם ליומן."
+
+msgid "Illegal character!"
+msgstr "תו לא חוקי!"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "אסור להשתמש בתווים '/' או ';' בשם."
+
+msgid "A calendar called \"%s\" already exists."
+msgstr "יומן בשם \"%s\" כבר קיים."
+
+msgid "Choose another name."
+msgstr "בחר שם אחר"
+
+msgid "Authentication failure"
+msgstr "תקלה באימות"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr "תהליך OAuth נכשל. לוח השנה לא יכול לגשת לנתוני לוח השנה שלך."
+
+msgid "Do you want to delete the skin?"
+msgstr "האם למחוק את הסקין?"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"אם בחרת כן הסקין \"%s\"\n"
+"ימחק לצמיתות."
+
+msgid "Delete failed!"
+msgstr "מחיקה נכשלה!"
+
+msgid "Unable to delete the skin."
+msgstr "לא מצליח למחוק את הסקין"
+
+msgid "Print"
+msgstr "הדפס"
+
+msgid "Print items"
+msgstr "הדפס פריטים"
+
+msgid "End"
+msgstr "סיום"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Variables"
+msgstr "משתנה"
+
+msgid "Window settings"
+msgstr "הגדרות חלון"
+
+msgid "Settings can be shown only for a single window."
+msgstr "הגדרות יכולות להראות רק לחלון אחד."
+
+msgid "No settings available."
+msgstr "אין אפשרויות זמינות."
+
+msgid "Global variables"
+msgstr "משתנים כלליים"
+
+msgid "Grow upwards"
+msgstr "הגדל בכיוון מעלה"
+
+msgid "Window position"
+msgstr "מיקום חלון"
+
+msgid "Disabled"
+msgstr "מושבת"
+
+msgid "Click through"
+msgstr "לחץ דרך"
+
+msgid "Scale"
+msgstr "סקאלה"
+
+msgid "Filters"
+msgstr "פילטרים"
+
+msgid "Included calendars"
+msgstr "קטגוריות נכללות"
+
+msgid "Excluded calendars"
+msgstr "קטגוריות שלא נכללות"
+
+msgid "Included categories"
+msgstr "קטגוריות נכללות"
+
+msgid "Excluded categories"
+msgstr "קטגוריות שלא נכללות"
+
+msgid "Task list"
+msgstr "רשימת משימות"
+
+msgid "Alphabetically"
+msgstr "אלפבתי"
+
+msgid "By Category"
+msgstr "לפי הקטגוריות"
+
+msgid "By Due Date"
+msgstr "לפי תאריך המועד"
+
+msgid "By Start Date"
+msgstr "לפי מועד ההתחלה"
+
+msgid "By Status"
+msgstr "לפי הסטטוס"
+
+msgid "By Priority"
+msgstr "לפי העדיפות"
+
+msgid "By Location"
+msgstr "לפי מיקום"
+
+msgid "By Calendar"
+msgstr "לפי יומן"
+
+msgid "Custom"
+msgstr "מותאם"
+
+msgid "Primary sort order"
+msgstr "סדר המשימות הראשיות"
+
+msgid "Secondary sort order"
+msgstr "סדר משימות המשנה"
+
+msgid "Reverse primary sorting"
+msgstr "הפוך סידור ראשי"
+
+msgid "Reverse secondary sorting"
+msgstr "הפוך סידור משני"
+
+msgid "Empty at top"
+msgstr "ריק בחלק העליון"
+
+msgid "Hide completed tasks"
+msgstr "הסתר משימות שהושלמו"
+
+msgid "Hide canceled tasks"
+msgstr "הסתר משימות שבוטלו"
+
+msgid "Hide upcoming tasks"
+msgstr "הסתר את המשימות העתידיות"
+
+msgid "Event list"
+msgstr "רשימת האירועים"
+
+msgid "Show empty days"
+msgstr "הצג ריקים"
+
+msgid "Window variables"
+msgstr "משתני חלון"
+
+msgid "Appearance"
+msgstr "מראה"
+
+msgid "Operations"
+msgstr "פעולות"
+
+msgid "Left click"
+msgstr "קליק שמאלי"
+
+msgid "Right click"
+msgstr "קליק ימני"
+
+msgid "Double left click"
+msgstr "הקלקה שמאלית כפולה"
+
+msgid "Double right click"
+msgstr "הקלקה  ימנית כפולה"
+
+msgid "Local"
+msgstr "מקומי"
+
+msgid "Task"
+msgstr "משימה"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr "תאריך היעד אמור להקבע לפני שחזרה אוטומטית יכולה להיות מוגדרת."
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "שעת היעד לא יכולה להיות מוקדמת יותר משעת ההתחלה."
+
+msgid "Unable to add new alarm!"
+msgstr "לא מצליח להוסיף התראה חדשה!"
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr "תאריך היעד צריך להיות מוגדר למשימה לפני שיתאפשרו התראות."
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "שדרג לגרסת הפרו לפני התקנת הרישיון."
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"אתה עדיין משתמש בגרסה הקלה שלא כוללת את תכונות גרסת הפרו. אתה צריך לגשת אל "
+"דף ההורדה של ריינלנדר ולהשיג את גרסת הפרו."
+
+msgid "&Get Pro"
+msgstr "&השג את גרסת הפרו"
+
+msgid "&Ignore"
+msgstr "&התעלם"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"אם הורדת קובץ .r2skin או .r2lang \n"
+"הדפדפן שלך שינה את הסיומת ל.zip אתה יכול לשנות\n"
+"את הקובץ בחזרה למה שהוא היה וליבא אותו בשנית."
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "קבצי זיפ לא יכולים להיות מיובאים לריינלנדר."
+
+msgid "Unknown file \"%s\"."
+msgstr "קובץ לא מוכר \"%s\"."
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "הקובץ לא יכול להיות מיובא לריינלנדר."
+
+msgid "Installation failed!"
+msgstr "התקנה נכשלה!"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "לא מצליח להעתיק את הקובץ.המקור זהה ליעד."
+
+msgid "Unable to install the file \"%s\"."
+msgstr "לא מצליח להתקין את הקובץ \"%s\"."
+
+msgid "The folder does not have write permissions."
+msgstr "אין לתיקיה הרשאות כתיבה."
+
+msgid "The skin %s doesn't exist."
+msgstr ""
+"הסקין %s אינו קיים.\n"
+"לא ניתן לקלוט את התוסף."
+
+msgid "Unable to merge the addon."
+msgstr ""
+"ערכת הנושא %s אינה קיימת.\n"
+"לא ניתן לקלוט את התוסף."
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"הקובץ \"%s\" כבר קיים.\n"
+"האם אתה רוצה להחליפו?"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "הקובץ למעלה כבר קיים. האם ברצונך לדרוס אותו?"
+
+msgid "Unable to install the skin!"
+msgstr "לא מצליח להתקין את הסקין!"
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"הסקין לא מכיל את קובץ ה\"skin.xml\". האם אתה בטוח שזהו קובץ ריינלנדר XML של "
+"סקין?"
+
+msgid "The installation was successful!"
+msgstr "ההתקנה הושלמה בהצלחה!"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "הקובץ \"%s\" הותקן בהצלחה.."
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr "רענן את לוח השנה כדי לראות את השינויים."
+
+msgid "&Refresh"
+msgstr "ריענון"
+
+msgid "The installation failed!"
+msgstr "ההתקנה נכשלה!"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr "ההתקנה של הקובץ \"%s\" נכשלה!"
+
+msgid "Select the calendar for the imported items:"
+msgstr "בחר את היומן לפריטים המיובאים"
+
+msgid "There are no calendars available that are able to store the item."
+msgstr ""
+"יבוא נכשל.\n"
+"\n"
+"אין יומנים זמינים בהם ניתן לאחסן את הפריט.."
+
+msgid "Imported %i items successfully."
+msgstr " %i פריטים יובאו בהצלחה"
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr "עליך לבחור לפחות יומן אחד אליהם יתבצע יבוא האירועים"
+
+msgid "Version mismatch!"
+msgstr "אי - התאמה בגרסה!"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr "הרחבת המעטפת הזו מיועדת לגירסה %s של המעטפת. הגרסה המותקנת היא %s."
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "אתה רוצה להמשיך? (העור עלול לקבל שבור)"
+
+msgid "&Continue"
+msgstr "המשך"
+
+msgid "Ca&ncel"
+msgstr "ביטול"
+
+msgid "Failed to install \"%s\"."
+msgstr "נכשל בהתקנה \"%s\"."
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"תוספת הסקין כבר הוחלה על הסקין.\n"
+"אתה יכול לחבר את אותה התוספת פעם אחת בלבד לסקין."
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "לא מצליח ליצור ספרייה זמנית שבה ימוזגו התוספות."
+
+msgid "Win"
+msgstr "מקש החלונות"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Alt"
+msgstr "Alt מקש"
+
+msgid "Shift"
+msgstr "Shift מקש"
+
+msgid "Back"
+msgstr "אחורה"
+
+msgid "Tab"
+msgstr "Tab מקש"
+
+msgid "Return"
+msgstr "מקש המחיקה"
+
+msgid "Esc"
+msgstr "Esc מקש"
+
+msgid "Space"
+msgstr "מקש הרווח"
+
+msgid "Page Up"
+msgstr "Page Up מקש"
+
+msgid "Page Down"
+msgstr "Page Down מקש"
+
+msgid "Insert"
+msgstr "Insert מקש"
+
+msgid "NumLock"
+msgstr "NumLock מקש"
+
+msgid "ScrollLock"
+msgstr "ScrollLock מקש"
+
+msgid "Edit \"%s\""
+msgstr "ערוך \"%s\""
+
+msgid "Delete all"
+msgstr "מחק הכל"
+
+msgid "Dismiss alarm"
+msgstr "בטל התראה"
+
+msgid "Tomorrow"
+msgstr "מחר"
+
+msgid "Yesterday"
+msgstr "אתמול"
+
+msgid "Last %1"
+msgstr "%1 האחרון"
+
+msgid "%1 next week"
+msgstr "%1 בשבוע הבא"
+
+msgid "%1 last week"
+msgstr "%1 בשבוע הקודם"
+
+msgid "%1 %2 weeks ago"
+msgstr "%1 לפני %2 שבועות"
+
+msgid "%1 in %2 weeks"
+msgstr "%1 בעוד %2 שבועות"
+
+msgid " (Due in %s)"
+msgstr "(בעוד (%s"
+
+msgid " (Overdue %s)"
+msgstr ")המועד עבר לפני (%s"
+
+msgid "day"
+msgstr "יום"
+
+msgid "days"
+msgstr "ימים"
+
+msgid "hour"
+msgstr "שעה"
+
+msgid "hours"
+msgstr "שעות"
+
+msgid "minute"
+msgstr "דקה"
+
+msgid "minutes"
+msgstr "דקות"
+
+msgid " (Due now)"
+msgstr " (המועד הוא עכשיו)"
+
+msgid "before target"
+msgstr "לפני המטרה"
+
+msgid "Snooze"
+msgstr "נודניק"
+
+msgid "Dismiss"
+msgstr "סלק"
+
+msgid "Edit..."
+msgstr "ערוך..."
+
+msgid "Move to next day"
+msgstr "מעבר ליום הבא"
+
+msgid " (%i days)"
+msgstr " (%i ימים)"
+
+msgid "Edit event"
+msgstr "ערוך אירוע"
+
+msgid "Delete event"
+msgstr "מחק אירוע"
+
+msgid "[Due %x]"
+msgstr "[מועד %x]"
+
+msgid "No location"
+msgstr "אין מיקום"
+
+msgid "No category"
+msgstr "ללא קטגוריה"
+
+msgid "No due date"
+msgstr "אין תאריך מועד"
+
+msgid "No start date"
+msgstr "אין מועד התחלה"
+
+msgid "High Priority"
+msgstr "עדיפות גבוה"
+
+msgid "Medium Priority"
+msgstr "עדיפות בינונית"
+
+msgid "Low Priority"
+msgstr "עדיפות נמוכה"
+
+msgid "No Priority"
+msgstr "ללא עדיפות"
+
+msgid "Medium"
+msgstr "בינונית"
+
+msgid "Expand"
+msgstr "הרחיבי"
+
+msgid "Collapse"
+msgstr "כווצי"
+
+msgid "New subtask"
+msgstr "משימה משנית חדשה"
+
+msgid "Edit task"
+msgstr "ערוך משימה"
+
+msgid "Delete task"
+msgstr "מחק משימה"
+
+msgid "Todo list"
+msgstr "רשימת משימות"
+
+msgid "Completed to now"
+msgstr "הושלם עד עכשיו"
+
+msgid "No events today."
+msgstr "אין אירועים להיום"
+
+msgid "Today's events:"
+msgstr "אירועי היום"
+
+msgid "Invalid plugins found!"
+msgstr "תוספות לא תקינות נמצאו!"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"הקבצים הבאים בתקיית התוספים של ריינלנדר\n"
+"לא תקינים וצריך להסיר אותם:\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"וודא שכל התוספים הם מאותה הגרסה של ריינלנדר."
+
+msgid "allow multiple instances"
+msgstr "אפשר מספר מופעים של התוכנה"
+
+msgid "install a skin or a language"
+msgstr "התקן סקין או שפה"
+
+msgid "import the given file"
+msgstr "יבא את הקובץ הנתון"
+
+msgid "path where the configuration file will be stored"
+msgstr "הנתיב שבו ישמר קובץ ההגדרות של התוכנה"
+
+msgid "execute the given function in a script"
+msgstr "בצע את הפונקציה הבאה כתסריט"
+
+msgid "path where the log file will be stored"
+msgstr "הנתיב שבו ישמר קובץ תיעוד התוכנה"
+
+msgid "path where the backups will be stored"
+msgstr "הנתיב שבו ישמר קובץ גיבוי התוכנה"
+
+msgid "add event or task to the calendar"
+msgstr "הוסף אירוע או משימה ללוח השנה"
+
+msgid "enable verbose logging"
+msgstr "אפשר תיעוד מרובה"
+
+msgid "enable debug logging"
+msgstr "אפשר תיעוד שגיאות"
+
+msgid "disable all logging"
+msgstr "השבת את כל הרישום"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr "אל תראה את תיבת ההודעה אחרי יבוא והתקנת קבצים"
+
+msgid "Do you want to start another instance?"
+msgstr "האם ברצונך להפעיל פעמיים?"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"נראה שריינלנדר כבר פועל. אתה יכול להפעיל אותו פעמיים במקביל על ידי בחירה ב "
+"'כן'"
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"אם זה לא המצב ושאלה זו מופיעה כל פעם כשאתה מפעיל את ריינלנדר, בבקשה הסר את "
+"הקובץ הזה:\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"לא מצליח להעלות מקורות מהיעדים:\n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "שים לב שהאירועים והמשימות ישארו ללא שינוי."
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"קובץ ההגדרות חסר או ריק\n"
+"האם ברצונך לשחזר אותו מקובץ הגיבוי העדכני ביותר?"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"לא מסוגל ליצור קובץ הגדרות:\n"
+"\n"
+"%s\n"
+"\n"
+"וודא שלתיקייה יש הרשאות כתיבה."
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"קובץ ההגדרות לא ניתן לכתיבה:\n"
+"\n"
+"%s\n"
+"\n"
+"וודא שיש לו הרשאות נכונות."
+
+msgid "You won't be able to store any settings permanently."
+msgstr "לא תוכל לשמור שום הגדרות לצמיתות."
+
+msgid "This is a BETA version."
+msgstr "זוהי גרסאת בטא."
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"אתה משתמש בגרסת בטא של ריינלנדר. נראה כי התוכנה לא נבדקה ולא מתאימה לשימוש "
+"יומי.\n"
+"\n"
+"בבקשה דווח על כל התקלות לפורום הבטא של ריינלנדר בכתובת www.rainlendar.net\n"
+"\n"
+"(ההודעה הזאת מופיעה פעם אחת בלבד)"
+
+msgid "Google Calendar support has been changed"
+msgstr "התמיכה ביומן Google שונתה"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"התמיכה של יומן Google משתמשת כעת בסוג יומן אחרכדי להציג שוב את אירועי "
+"Google, עליך ליצור יומן חדש ולבחור 'יומן Google (v3 )' כסוג היומן"
+
+msgid "Everything is hidden."
+msgstr "הכל נסתר."
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"זה נראה שכל החלונות וסמלי מגש המערכת הוסתרו. האם זה בכוונה?\n"
+"\n"
+"לחץ על 'כן' אם אתה רוצה לשמור על הכל מוסתר ולא לראות את ההודעה הזאת יותר. "
+"לחץ על 'לא' בשביל לחשוף את כל החלונות."
+
+msgid "Startup error!"
+msgstr "שגיאה בהפעלה!"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"ריינלנשר לא הצליח לבצע רענון הגדרות בצורה תקינה.\n"
+"האם לאתחל את כל ההגדרות ולנסות שוב?\n"
+"או להשתמש באחת מהגרסאות המגובות?"
+
+msgid "&Reset"
+msgstr "&הפעלה מחדש"
+
+msgid "&Use backup"
+msgstr "&השתמש בגיבוי"
+
+msgid "&Keep"
+msgstr "&השאר"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"לא נמצאו סקינים בנתיב:\n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"התוכנה לא הצליחה להעלות את הסקין הנבחר.\n"
+"האם להעלות את סקין ברירת המחדל"
+
+msgid "Unable to load the skin!"
+msgstr "לא מצליח לטעון את הסקין!"
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr ""
+"הסקין הנבחר לא יכול להטען. תוכל למצוא פרטים נוספים ביומן המצב של ריינלנדר."
+
+msgid "&Ok"
+msgstr "&אישור"
+
+msgid "&Show log"
+msgstr "&הראה יומן מעקב"
+
+msgid "Yes"
+msgstr "כן"
+
+msgid "No"
+msgstr "לא"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr ""
+"קובץ הרשיון ריק"
+"הקפד להשתמש בכתובת ה- URL המלאה בעת הורדת קובץ הרשיון"
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"קובץ הרשיון אינו חוקי"
+"חרגת ממספר הפעמים שניתן להוריד את הרשיון"
+"אנא צרו קשר עם התמיכה של ריינלנדר לקבלת פרטים נוספים"
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"לקובץ הרשיון אין תבנית חוקית"
+"ודא שאתה משתמש בקובץ הרשיון הנכון"
+"באפשרותך גם לנסות להוריד את הקובץ שוב אם השגיאה נמשכת"
+
+msgid "Skin error!"
+msgstr "שגיאת עור!"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"חלון המעטפת 'לוח שנה גדול' ב - Shadow4 הוחלף באפשרות 'גדול' עבור חלון ברירת "
+"המחדל 'לוח שנה'לחץ על אישור כדי לאפס את המעטפת"
+
+msgid "Use large default skin?"
+msgstr "להשתמש במעטפת ברירת מחדל גדולה?"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"ערכי ברירת המחדל עשויים להיות קטנים מדי עבור רזולוציית המסך שלךהאם ברצונך "
+"להשתמש בגופנים וחלונות גדולים יותר?"
+
+msgid "&Large"
+msgstr "גדול"
+
+msgid "&Small"
+msgstr "קטן"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"נמצאו קבצי Rainlendar ישנים:\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "האם אתה מעוניין לייבא?"
+
+msgid "Import failed with file: \"%s\""
+msgstr "הבאת הקובץ נכשלה: \"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "רוצה לרכוש את ריינלנדר2 פרו?"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"מקווה שנהנת בחודש האחרון להשתמש בריינלנדר. האם תרצה לשדרג לגרסת הפרו עם "
+"פונקציונליות נוספת? אם תלחץ על הלינק \"קנה עכשיו\" למטה תוכל לרכוש רישיון "
+"במחיר מוזל. בנוסף אתה יכול ללחוץ על כפתור ה\"לא תודה\" ולא לראות הודעה זאת "
+"יותר\n"
+"\n"
+"תודה על התמיכה."
+
+msgid "&Buy Now"
+msgstr "&קנה עכשיו"
+
+msgid "&Remind later"
+msgstr "&הזכר לי יותר מאוחר"
+
+msgid "&No Thanks"
+msgstr "&לא תודה"
+
+msgid "Ok"
+msgstr "אישור"
+
+msgid "Update"
+msgstr "עדכון"
+
+msgid "Make a selection:"
+msgstr "עשה בחירה:"
+
+msgid "Hide Windows"
+msgstr "הסתר חלונות"
+
+msgid "Show Windows"
+msgstr "הצג חלונות"
+
+msgid "Toggle Windows"
+msgstr "הפוך מצב נראות החלונות"
+
+msgid "Toggle Today Window"
+msgstr "החלף חלון היום"
+
+msgid "Create New Task"
+msgstr "צור משימה חדשה"
+
+msgid "Create New Event"
+msgstr "צור ארוע חדש"
+
+msgid "Create new event or task"
+msgstr "צור ארוע חדש"
+
+msgid "Quit Application"
+msgstr "תוכנה"
+
+msgid "Business"
+msgstr "עסקים"
+
+msgid "Calls"
+msgstr "שיחות"
+
+msgid "Clients"
+msgstr "לקוחות"
+
+msgid "Competition"
+msgstr "תחרות"
+
+msgid "Customer"
+msgstr "לקוח"
+
+msgid "Exam"
+msgstr "בחינה"
+
+msgid "Favorites"
+msgstr "מועדפים"
+
+msgid "Follow Up"
+msgstr "למעקב"
+
+msgid "Gifts"
+msgstr "מתנות"
+
+msgid "Holidays"
+msgstr "חגים"
+
+msgid "Ideas"
+msgstr "רעיונות"
+
+msgid "Important"
+msgstr "חשוב"
+
+msgid "Issues"
+msgstr "סוגיות"
+
+msgid "Miscellaneous"
+msgstr "שונות"
+
+msgid "Personal"
+msgstr "אישי"
+
+msgid "Projects"
+msgstr "פרויקטים"
+
+msgid "Public Holiday"
+msgstr "חג רישמי"
+
+msgid "Suppliers"
+msgstr "ספקים"
+
+msgid "Travel"
+msgstr "טיסה"
+
+msgid "Trip"
+msgstr "טיול"
+
+msgid "TV"
+msgstr "טלויזיה"
+
+msgid "Vacation"
+msgstr "חופשה"
+
+msgid "Work"
+msgstr "עבודה"
+
+msgid "Medical"
+msgstr "רפואי"
+
+msgid "Urgent"
+msgstr "דחוף"
+
+msgid "Health"
+msgstr "בריאות"
+
+msgid "Sport"
+msgstr "ספורט"
+
+msgid "Game"
+msgstr "משחק"
+
+msgid "School"
+msgstr "בית ספר"
+
+msgid "Party"
+msgstr "מסיבה"
+
+msgid "Movie"
+msgstr "סרט"
+
+msgid "Car"
+msgstr "מכונית"
+
+msgid "Payments"
+msgstr "תשלומים"
+
+msgid "Money"
+msgstr "Money"
+
+msgid "Pets"
+msgstr "חיות מחמד"
+
+msgid "Theatre"
+msgstr "קולנוע"
+
+msgid "Music"
+msgstr "מוזיקה"
+
+msgid "[Black]"
+msgstr "[שחור]"
+
+msgid "[Blue]"
+msgstr "[כחול]"
+
+msgid "[Brown]"
+msgstr "[חום]"
+
+msgid "[Cyan]"
+msgstr "[תכלת]"
+
+msgid "[Green]"
+msgstr "[ירוק]"
+
+msgid "[Grey]"
+msgstr "[אפור]"
+
+msgid "[Magenta]"
+msgstr "[ארגמן]"
+
+msgid "[Pink]"
+msgstr "[ורוד]"
+
+msgid "[Red]"
+msgstr "[אדום]"
+
+msgid "[Yellow]"
+msgstr "[צהוב]"
+
+msgid "[Orange]"
+msgstr "[כתום]"
+
+msgid "Must Attend"
+msgstr "חייב להשתתף"
+
+msgid "Travel Required"
+msgstr "נסיעה נחוצה"
+
+msgid "Needs Preparation"
+msgstr "דורש הכנה"
+
+msgid "Phone Call"
+msgstr "שיחת טלפון"
+
+msgid "iCalendar Format"
+msgstr "פורמט iCalendar"
+
+msgid "Network Shared Calendar"
+msgstr "רשת שיתוף היומן"
+
+msgid "Microsoft Outlook"
+msgstr "אאוטלוק של מייקרוסופט"
+
+msgid "Rainlendar Ini Format"
+msgstr "פורמט Rainlendar Ini "
+
+msgid "Google Calendar"
+msgstr "יומן של גוגל"
+
+msgid "CalDAV Calendar"
+msgstr "לוח השנה של CalDAV"
+
+msgid "Google Calendar (v3)"
+msgstr "יומן Google (v3)"
+
+msgid "Google Tasks"
+msgstr "Google Tasks"
+
+msgid "Comma Separated Values"
+msgstr "ערכים מופרדים בפסיקים"
+
+msgid "&Next >"
+msgstr "&הבא >"
+
+msgid "< &Back"
+msgstr "< &חזור"
+
+msgid "&Finish"
+msgstr "&סיום"
+
+msgid "Vertical Calendar"
+msgstr "יומן אנכי"
+
+msgid "Year Calendar"
+msgstr "יומן שנתי"
+
+msgid "Sidebar"
+msgstr "מגש צד"
+
+msgid "DigiClock"
+msgstr "שעון דיגיטלי"
+
+msgid "Dual Calendar"
+msgstr "יומן כפול"
+
+msgid "Todo List"
+msgstr "רשימת משימות"
+
+msgid "Grid Calendar"
+msgstr "יומן שנתי"
+
+msgid "Vertical Line Calendar"
+msgstr "יומן אנכי"
+
+msgid "Horizontal Line Calendar"
+msgstr "יומן אנכי"
+
+msgid "Visible month"
+msgstr "החודש הגלוי"
+
+msgid "Show buttons"
+msgstr "הצג כפתורים"
+
+msgid "Show adjacent days"
+msgstr "הצג ימים סמוכים"
+
+msgid "Eventlist max height"
+msgstr "גובה מרבי של רשימת אירועים"
+
+msgid "Todolist max height"
+msgstr "גובה מרבי של טודוליסט"
+
+msgid "Show week numbers"
+msgstr "הצג מספרי שבועות"
+
+msgid "Format"
+msgstr "צורה"
+
+msgid "Timezone"
+msgstr "אזור זמן"
+
+msgid "Label"
+msgstr "כותרת"
+
+msgid "Show 3rd month"
+msgstr "הצג חודש שלישי"
+
+msgid "Show 4th month"
+msgstr "הצג חודש רביעי"
+
+msgid "Show 5th month"
+msgstr "הצג חודש חמישי"
+
+msgid "Show 6th month"
+msgstr "הצג חודש שישי"
+
+msgid "Show 7th month"
+msgstr "הצג חודש שביעי"
+
+msgid "Show 8th month"
+msgstr "הצג חודש שמיני"
+
+msgid "Color"
+msgstr "צבע"
+
+msgid "Analog Clock"
+msgstr "שעון אנלוגי"
+
+msgid "Calendar List"
+msgstr "יומנים"
+
+msgid "X count"
+msgstr "מונה X"
+
+msgid "Y count"
+msgstr "מונה Y"
+
+msgid "Snooze All"
+msgstr "נודניק"
+
+msgid "Dismiss All"
+msgstr "סלק"
+
+msgid "To do"
+msgstr "משימות"
+
+msgid "Today color"
+msgstr "היום"
+
+msgid "Today shape"
+msgstr "היום"
+
+msgid "Circle"
+msgstr "עיגול"
+
+msgid "Rectangle"
+msgstr "מרובע"
+
+msgid "Slim circle"
+msgstr "עיגול רזה"
+
+msgid "Slim rectangle"
+msgstr "מרובע רזה"
+
+msgid "Red"
+msgstr "אדום"
+
+msgid "Orange"
+msgstr "כתום"
+
+msgid "Yellow"
+msgstr "צהוב"
+
+msgid "Green"
+msgstr "ירוק"
+
+msgid "Cyan"
+msgstr "תכלת"
+
+msgid "Blue"
+msgstr "כחול"
+
+msgid "Magenta"
+msgstr "ארגמן"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"המשך של הסקין Shadow3 הפופולרי עם כמה תכונות נוספות כמו ימים שמבצבצים מהחודש "
+"הקודם והבא והערות עם סקין."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"הגדר את החודשים שהיומן מציג. קבע 1+ לחודש הבא, 1- לחודש הקודם או קבע ערך בין "
+"0 לבין 11 אשר יציין חודש מסויים בשנה הנוכחית."
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr "הסר סימון בשביל להסתיר את כפתורי \"הבא\" ו \"הקודם\" מהיומן."
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr "הסר סימון בשביל להסתיר את הימים מהחודש הקודם והבא."
+
+msgid "Defines the maximum height of the alarm."
+msgstr "מגדיר את הגובה המרבי של האזעקה."
+
+msgid "Defines the maximum height of the event list."
+msgstr "מגדיר את הגובה המרבי של רשימת האירועים."
+
+msgid "Defines the maximum height of the to do list."
+msgstr "מגדיר את הגובה המקסימלי של הרשימה שצריך לעשות."
+
+msgid "Defines the width of the calendar list."
+msgstr "הגדר את רוחב רשימת היומנים."
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "הסר סימון בשביל להסתיר את מספרי השבוע ביומן."
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr ""
+"זה מגדיר רת הפורמט של השעון. בשביל להפטר מהשניות השתמש ב %H:%M או %#I:%M %p"
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"מגדיר את איזור הזמן. מוגדר למספר: ... -3, -2, -1, 0, +1, +2, +3, ... אתה גם "
+"יכול להשתמש בערכים כמו CET, EST, PST, A_CST, ..."
+
+msgid "Adds a label for the clock."
+msgstr "הוסף כותרת לשעון."
+
+msgid "Defines the color of the today marker."
+msgstr "הגדר את רוחב חלון המשימות."
+
+msgid "Defines the shape of the today marker."
+msgstr "הגדר את רוחב חלון המשימות."
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "מגדיר כמה יומנים מוצגים אנכית בחלון."
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "מגדיר כמה יומנים מוצגים אופקית בחלון."
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "הסר סימון בשביל להסתיר את שמות הימים של השבוע ביומן."
+
+msgid "Week View"
+msgstr "תצוגה השבוע"
+
+msgid "Today position"
+msgstr "עמדת חלונות היומן "
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"מגדיר את המיקום של איפה שהיום נמצא. אם הוגדר ל 0 (ברירת המחדל) תצוגת השבוע "
+"תראה שבוע מלא מהיומן ושינויים של היום. אם הוגדר בין 1 ל 7 היום תמיד נשמר "
+"במיקום הזה וימי השבוע משתנים בהתאם."
+
+msgid "Autoscroll"
+msgstr "גלילה אוטומטית"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "הסר סימון בשביל לכבות את הגלילה האוטומטית."
+
+msgid "Week view date format"
+msgstr "תבנית התאריך"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr "זה מגדיר את הפורמט של התאריך בלוח הזמנים. ברירת המחדל היא %#d.%#m."
+
+msgid "Week view time format"
+msgstr "תבנית הזמן"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"זה מגדיר את הפורמט של השעה בלוח הזמנים. ברירת המחדל היא .%H:%M בשביל פורמט "
+"AM/PM השתמש ב .%#I %p"
+
+msgid "Time item height"
+msgstr "גובה רשימת המשימות"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr "מגדיר את הגובה של פריט חד פעמי בתצוגה. הערך הראשוני הוא 30 פיקסלים."
+
+msgid "Time item duration"
+msgstr "משך זמן העמעום"
+
+msgid "60 Minutes"
+msgstr "60 דקות"
+
+msgid "30 Minutes"
+msgstr "30 דקות"
+
+msgid "15 Minutes"
+msgstr "15 דקות"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr "מגדיר את משך הזמן של פריט חד פעמי בתצוגה. הערך הראשוני הוא 60 שניות."
+
+msgid "All day max height"
+msgstr "גובה מקסימאלי של כל היום"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"הגובה המקסימאלי של שטח אירועי כל היום. שורת גלילה מתגלה אחרי שהאירועים לא "
+"מתאימים יותר לשטח הזה."
+
+msgid "Event min height"
+msgstr "גובה מינימלי לאירוע"
+
+msgid "The minimum height of the event."
+msgstr "הגובה המינימלי של האירוע."
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "הסר את הסימון בשביל להסתיר את מספרי השבועות."
+
+msgid "Show weekdays"
+msgstr "הצג את ימי השבוע (ימי חול)"
+
+msgid "Day View"
+msgstr "תצוגת היום"
+
+msgid "Day view time format"
+msgstr "תבנית התאריך"
+
+msgid "Day view date format"
+msgstr "תבנית התאריך"
+
+msgid "Month View"
+msgstr "תצוגת החודש"
+
+msgid "Show background"
+msgstr "הראה רקע"
+
+msgid "Uncheck to make the background transparent."
+msgstr "הסר סימון בשביל להפוך את הרקע לשקוף."
+
+msgid "Large Calendar"
+msgstr "יומן גדול"
+
+msgid "Today window max height"
+msgstr "היום גובה מרבי של החלון"
+
+msgid "Defines the maximum height of the today window."
+msgstr "מגדיר את הגובה המרבי של החלון כיום."
+
+msgid "Today show tasks"
+msgstr "היום הצג משימות"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr "מגדיר אם המשימות צריכות להיות מוצגות בחלון היום."
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"הסקין מכיל שינויי צבע מרובים. אתה יכול לשנות אותם מהגדרות הסקין או על ידי "
+"לחיצה על החץ שמצביע למטה ביומן."
+
+msgid "Brown"
+msgstr "חום"
+
+msgid "Dark"
+msgstr "חשוך"
+
+msgid "Colorless"
+msgstr "חסר צבע"
+
+msgid "Defines the color of the windows."
+msgstr "מגדיר את צבע החלונות."
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr "הגדר את רוחב חלון יומן האירועים."
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr ""
+"מגדיר את הגובה המקסימאלי של רשימת האירועים. הערך הראשוני הוא 300 פיקסלים."
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr ""
+"מגדיר את הגובה המקסימאלי של רשימת המשימות. הערך הראשוני הוא 300 פיקסלים."
+
+msgid "Removes the color from the windows."
+msgstr "מסיר את הצבע מהחלונות."
+
+msgid "Creates darker version of the windows."
+msgstr "יוצר גרסה כהה יותר של החלונות."
+
+msgid "All day"
+msgstr "אירוע כלל יומי"
+
+msgid "Day bar show day"
+msgstr "יום הצגת בר - יום"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr "מגדיר אם מספר היום והשם מוצגים בסרגל היום."
+
+msgid "Day bar am-pm"
+msgstr "בר יום AM - PM"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "בדוק כדי להציג את הזמנים עם שעון של 12 שעות."
+
+msgid "Bar event"
+msgstr "אירוע בר מצווה"
+
+msgid "The event color for the bars."
+msgstr "צבע האירוע לסורגים."
+
+msgid "Conditions: "
+msgstr "תחרות"
+
+msgid "Temperature: "
+msgstr "טמפרטורה:"
+
+msgid "Humidity: "
+msgstr "לחות:"
+
+msgid "Winds: "
+msgstr "רוחות"
+
+msgid "Time: "
+msgstr "זמן:"
+
+msgid "Refreshing..."
+msgstr "מרענן..."
+
+msgid "Downloading: "
+msgstr "מוריד:"
+
+msgid "Download failed!"
+msgstr "ההורדה נכשלה!"
+
+msgid "Loading..."
+msgstr "טוען..."
+
+msgid "Unknown result!"
+msgstr "תוצאה לא ידועה!"
+
+msgid "Upcoming programs:"
+msgstr "תוכניות עתידיות:"
+
+msgid "Parsing failed!"
+msgstr "!הניתוח נכשל"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr " ימים     שעות  דקות   שניות"
+
+msgid "Loading feed..."
+msgstr "טוען דיווח..."
+
+msgid "Lo: "
+msgstr "הנמוך ביותר:"
+
+msgid "Hi: "
+msgstr "הגבוה ביותר:"
+
+msgid "Min:"
+msgstr "מינימום: "
+
+msgid "Max:"
+msgstr "מקסימום:"
+
+msgid "Chance of precipitation: "
+msgstr "סיכוי להשתתף:"
+
+msgid "New moon"
+msgstr "ירח חדש"
+
+msgid "Waxing crescent"
+msgstr "חרמש מתמלא"
+
+msgid "First quarter"
+msgstr "רבעון ראשון"
+
+msgid "Waxing gibbous"
+msgstr "חרמש מתמלא - עבה"
+
+msgid "Full moon"
+msgstr "ירח מלא"
+
+msgid "Waning gibbous"
+msgstr "חרמש נחסר - עבה"
+
+msgid "Last quarter"
+msgstr "רבעון אחרון"
+
+msgid "Waning crescent"
+msgstr "חרמש נחסר"
+
+msgid "Southern hemisphere"
+msgstr "חצי כדור הארץ הדרומי"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr "שנה ל 1 בשביל לשנות את השלבים כמו שנראה מחצי כדור הארץ הדרומי"
+
+msgid "World Time"
+msgstr "זמן עולמי"
+
+msgid "World time format"
+msgstr "תבנית זמן עולמית"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"זה מגדיר את הפורמט של הזמן. ברירת המחדל היא .%H:%M בשביל פורמט AM/PM השתמש "
+"ב .%#I:%M %p"
+
+msgid "World time location 1"
+msgstr "מיקום זמן עולמי 1"
+
+msgid "Defines the title for the time."
+msgstr "הגדר את הכותרת של הזמן.."
+
+msgid "World time timezone 1"
+msgstr "איזור זמן עולמי 1"
+
+msgid "World time location 2"
+msgstr "מיקום זמן עולמי 2"
+
+msgid "World time timezone 2"
+msgstr "איזור זמן עולמי 2"
+
+msgid "World time location 3"
+msgstr "מיקום זמן עולמי 3"
+
+msgid "World time timezone 3"
+msgstr "איזור זמן עולמי 3"
+
+msgid "World time location 4"
+msgstr "מיקום זמן עולמי 4"
+
+msgid "World time timezone 4"
+msgstr "זמן עולמי איזור זמן 4"
+
+msgid "Photos"
+msgstr "תמונות"
+
+msgid "Weather"
+msgstr "מזג האויר"
+
+msgid "Countdown"
+msgstr "ספירה לאחור"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Create New"
+msgstr "צור משימה חדשה"
+
+msgid "Moon Phase"
+msgstr "מופע הירח"
+
+msgid "QuickAdd"
+msgstr "הוספה מהירה"
+
+msgid "Translate"
+msgstr "שקיפות"
+
+msgid "Text File"
+msgstr "קובץ טקסט"
+
+msgid "RSS height"
+msgstr "גובה הRSS"
+
+msgid "Defines the maximum height of the list."
+msgstr "מגדיר את הגובה המרבי של הרשימה."
+
+msgid "RSS location"
+msgstr "RSS מיקום"
+
+msgid "Location of the RSS feed."
+msgstr "מיקום דיווח ה RSS."
+
+msgid "Weather location"
+msgstr "מיקום תחזית מזג האויר"
+
+msgid "Location of the weather feed."
+msgstr "דיווח של מיקום התחזית"
+
+msgid "Weather city"
+msgstr "מזג האויר של העיר"
+
+msgid "The city for the weather."
+msgstr "העיר של מזג האויר"
+
+msgid "Weather language"
+msgstr "שפת מזג האויר"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr "שפת מזג האויר. השתמש בקיצורי שפה כמו en, fi, ru, zh-cn וכו..."
+
+msgid "Photos random"
+msgstr "הגרלת תמונות"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr ""
+"הסר סימון בשביל להראות את התמונות ברצף. סמן בשביל להראות אותם בסדר מוגרל."
+
+msgid "Photos update"
+msgstr "עידכון תמונות"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "מגדיר כמה מהר התמונות מתעדכנות. הערך הוא בדקות."
+
+msgid "Photos folder"
+msgstr "תיקיית תמונות"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"מגדיר את התיקייה המקומית הנסרקת לתמונות. אם הערך כאן ריק אז התמונות מורדות "
+"מפליקר."
+
+msgid "Countdown event"
+msgstr "אירוע ספירה לאחור"
+
+msgid "The description of the event."
+msgstr "הצג תיאור בחלונית המידע"
+
+msgid "Countdown time"
+msgstr "מועד סיום:"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "השעה של האירוע. השתמש בפורמט HH:MM:SS."
+
+msgid "Countdown date"
+msgstr "תאריך ספירה לאחור"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "התאריך של האירוע. השתמש בפורמט YYYY-MM-DD."
+
+msgid "TV height"
+msgstr "גובה רשימת תשדירי הטלויזיה"
+
+msgid "Copy to clipboard"
+msgstr "העתק"
+
+msgid "File path"
+msgstr "כתובת קובץ"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "מגדיר את השם ואת הכתובת לקובץ שמוצג בחלון."
+
+msgid "No file given"
+msgstr "שום קובץ לא ניתן"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr "לך להגדרות החלון וקשר את משתנה הכתובת לקובץ טקסט."
+
+msgid "File window full rows"
+msgstr "שורות מלאות בחלון הקובץ"
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr "סמן בשביל להראות שורות מלאות. הסר סימון בשביל לכתוך את הקוים."
+
+msgid "File window width"
+msgstr "רוחב חלון הקובץ"
+
+msgid "The width of the calendar window."
+msgstr "הרוחב של חלון היומן."
+
+msgid "The height of the calendar window."
+msgstr "מגדיר את הגובה של חלון היומן."
+
+msgid "Defines the width of the event list."
+msgstr "הגדר את רוחב חלון יומן האירועים."
+
+msgid "Defines the width of the to do list."
+msgstr "מגדיר את רוחב חלון המשימות."
+
+msgid "Defines the width of the quickadd window."
+msgstr "הגדר את רוחב חלון ההוספה המהירה."
+
+msgid "Defines the width of the day view window."
+msgstr "הגדר את רוחב חלון תצוגת היום."
+
+msgid "Defines the height of the day view window."
+msgstr "מגדיר את הגובה של חלון תצוגת היום."
+
+msgid "Defines the width of the week view window."
+msgstr "מגדיר את רוחב חלון תצוגת השבוע."
+
+msgid "Defines the height of the week view window."
+msgstr "מגדיר את גובה חלון תצוגת השבוע."
+
+msgid "Defines the width of the calendar window."
+msgstr "הגדר את רוחב חלון היומן."
+
+msgid "Defines the height of the calendar window."
+msgstr "מגדיר את הגובה של חלון היומן."
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "alt"
+msgstr "Alt מקש"
+
+msgid "shift"
+msgstr "Shift מקש"
+
+msgid "Mark as completed"
+msgstr "הושלמה"
+
+msgid "Mark as needs action"
+msgstr "ממתינות"
+
+msgid "Recurring"
+msgstr "חזרות"
+
+msgid "Description"
+msgstr "תיאור"
+
+msgid "Text color"
+msgstr "צבע טקסט"
+
+msgid "Tooltip color"
+msgstr "צבע ההערה"
+
+msgid "Black"
+msgstr "שחור"
+
+msgid "White"
+msgstr "לבן"
+
+msgid "Light grey"
+msgstr "אפור בהיר"
+
+msgid "Light pink"
+msgstr "ורוד בהיר"
+
+msgid "Grey"
+msgstr "אפור"
+
+msgid "Pink"
+msgstr "ורוד"
+
+msgid "Schedule background"
+msgstr "הרקע של האירוע"
+
+msgid "The background color for the day, week and month views."
+msgstr "צבע הרקע לתצוגות היון, השבוע והחודש."
+
+msgid "Schedule text color"
+msgstr "צבע הטקסט של האירוע"
+
+msgid "The text color for the day, week and month views."
+msgstr "צבע הטקסט לתצוגות היום, השבוע והחודש."
+
+msgid "Calendar day color"
+msgstr "צבע יום לוח השנה"
+
+msgid "Large calendar day color"
+msgstr "צבע הימים ביומן הגדול."
+
+msgid "The color for the days in the calendar."
+msgstr "הצבע לימים ביומן."
+
+msgid "Calendar day text color"
+msgstr "צבע היום ביומן"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "הצבע למספרי הימים בלוח השנה."
+
+msgid "Small icon"
+msgstr "סמל קטן"
+
+msgid "The icon which is shown in the calendar."
+msgstr "הסמל שמופיע בלוח השנה"
+
+msgid "Large icon"
+msgstr "סמל גדול"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "הסמל שנחשף ברשימות האירועים והמשימות."
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "צבע הטקסט ברשימות ובהערות."
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr "העדיפות קובעת איזו קטגוריה תראה כשיש הרבה כמוהה באותו היום."
+
+msgid "Schedule text shadow color"
+msgstr "צבע צל הטקסט של האירוע"
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "צבע הטקסט לתצוגות היום, השבוע והחודש."
+
+msgid "Calendar day text shadow color"
+msgstr "צבע צל הטקסט של הימים ביומן"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "הצבע למספרי הימים בלוח השנה."
+
+msgid "Text shadow color"
+msgstr "צבע צל הטקסט"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "צבע הטקסט ברשימות ובהערות."
+
+msgid "Show date"
+msgstr "הצג תאריך"
+
+msgid "Check to show also the current date."
+msgstr "בדוק בשביל להראות גם את התאריך הנוכחי."
+
+msgid "This defines the format of the time."
+msgstr "זה מגדיר את הפורמט של השעה."
+
+msgid "This defines the format of the date."
+msgstr "זה מגדיר את הפורמט של התאריך."
+
+msgid "Search"
+msgstr "חפש"
+
+msgid "Search engine"
+msgstr "מנוע חיפוש"
+
+msgid "Choose the search engine"
+msgstr "בחר במנוע החיפוש"
+
+msgid "Enter search text"
+msgstr "הכנס טקסט חיפוש"
+
+msgid "Show title"
+msgstr "הצג כותרת"
+
+msgid "Check to show a title text."
+msgstr "בדוק בשביל להראות את טקסט הכותרת."
+
+msgid "Title text"
+msgstr "טקסט הכותרת"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "זה מגדיר את טקסט הכותרת שמוצג מעל השעה."
+
+msgid "Weather woeid"
+msgstr "ה woeid של מזג האויר"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "הWOEID של יאהו בשביל מיקום תחזית מזג האויר."
+
+msgid "Weather celsius"
+msgstr "מזג אוויר צלזיוס"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "אם מסומן, הטמפרטורה מוצגת בטמפרטורה של צלזיוס."
+
+msgid "Bold blue"
+msgstr "כחול מודגש"
+
+msgid "Turquoise"
+msgstr "טורקיז"
+
+msgid "Bold green"
+msgstr "ירוק מודגש"
+
+msgid "Bold red"
+msgstr "אדום מודגש"
+
+msgid "Purple"
+msgstr "סגול"
+
+msgid "Gray"
+msgstr "אפור"
+
+msgid "No events today"
+msgstr "אין אירועים היום"
+
+msgid "No tasks today"
+msgstr "אין משימות היום"
+
+msgid "Background opacity"
+msgstr "שקיפות הרקע"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr "מגדיר את האטימות של רקעי החלון. השתמש בערכים בין 0 ל -100."
+
+msgid "Snooze menu"
+msgstr "השהיה זמנית של התפריט"
+
+msgid "Pressure: "
+msgstr "לחץ:"
+
+msgid "UV index: "
+msgstr "אינדקס UV:"
+
+msgid "Feels like: "
+msgstr "מרגיש כמו"
+
+msgid "Sunrise: "
+msgstr "זריחה:"
+
+msgid "Sunset: "
+msgstr "שקיעה:"
+
+msgid "Tonight"
+msgstr "בפרק זה..."
+
+msgid "Menu"
+msgstr "תפריט"
+
+msgid "Large"
+msgstr "גדול"
+
+msgid "Use large images and more space between the items."
+msgstr "השתמש בתמונות גדולות ויותר מקום בין הפריטים."
+
+msgid "Alarm max height"
+msgstr "גובה מירבי של התראה"
+
+msgid "Horizontal Day Bar"
+msgstr "סרגל יום אופקי"
+
+msgid "Vertical Day Bar"
+msgstr "סרגל יום אנכי"
+
+msgid "Day bar show text"
+msgstr "טקסט לתצוגה בסרגל היום"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "בטל את הסימון כדי להסתיר את הטקסטים מהאירועים."
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "צבע הטקסט ביומן וברשימות."
+
+msgid "The color of the text in the tooltip."
+msgstr "צבע הטקסט בהערה."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"הגדר את החודשים שהיומן מציג. קבע 1+ לחודש הבא, 1- לחודש הקודם או קבע ערך בין "
+"0 לבין 11 אשר יציין חודש מסויים בשנה הנוכחית."
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"לא מצליח לאתר סקינים פעילים.\n"
+"לחץ אישור להעלאת הסקין הזמין הראשון."
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"לסקין אין כל חלונות פעילים.\n"
+"חלונות סקין ברירת המחדל ישמשו כתחליף."
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr "הסקין אינו קיים. לחץ אישור להעלאת הסקין הזמין הראשון."
+
+msgid "No items"
+msgstr "אין פריטים"
+
+msgid "No events"
+msgstr "אין אירועים"
+
+msgid "No tasks"
+msgstr "16 סיביות"
+
+msgid "Synchronizing"
+msgstr "מסתכרן"
+
+msgid "Offline"
+msgstr "לא מקוון"
+
+msgid "today"
+msgstr "היום"
+
+msgid "tomorrow"
+msgstr "מחר"
+
+msgid "yesterday"
+msgstr "אתמול"
+
+msgid "Jan"
+msgstr "ינואר"
+
+msgid "Feb"
+msgstr "פבואר"
+
+msgid "Mar"
+msgstr "מרץ"
+
+msgid "Apr"
+msgstr "אפריל"
+
+msgid "Jun"
+msgstr "יוני"
+
+msgid "Jul"
+msgstr "יולי"
+
+msgid "Aug"
+msgstr "אוגוסט"
+
+msgid "Sep"
+msgstr "ספטמבר"
+
+msgid "Oct"
+msgstr "אוקטובר"
+
+msgid "Nov"
+msgstr "נובמבר"
+
+msgid "Dec"
+msgstr "דצמבר"
+
+msgid "%ith"
+msgstr "%ith"
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11th;12th;13th;1st;2nd;3rd"
+
+msgid "edit"
+msgstr "ערוך"
+
+msgid "Do you want to create the file?"
+msgstr "האם ליצור את הקובץ?"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"הקובץ לא קיים\n"
+"%s"
+
+msgid "Unable to create the file \"%s\"."
+msgstr "לא מסוגל ליצור את הקובץ \"%s\"."
+
+msgid "This is a read only event."
+msgstr "זהו אירוע לקריאה בלבד."
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "זה לא אפשרי לערוך את האירוע הזה עם ריירנלנדר."
+
+msgid "This is a read only task."
+msgstr "זוהי משימה לקריאה בלבד."
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "זה לא אפשרי לערוך משימה זו עם ריינלנדר."
+
+msgid "URL"
+msgstr "כתובת אינטרנט"
+
+msgid "Organizer"
+msgstr "מנחה"
+
+msgid "Accepted"
+msgstr "התקבל"
+
+msgid "Declined"
+msgstr "נדחתה"
+
+msgid "Tentative"
+msgstr "טנטטיבי"
+
+msgid "Needs action"
+msgstr "יש לפעול"
+
+msgid "Create a new calendar"
+msgstr "בנה יומן חדש"
+
+msgid "Please select the type of the calendar."
+msgstr "בחר את סוג היומן"
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr ""
+"סוג היומן מגדיר את הפורמט \n"
+"ואת מיקומו"
+
+msgid "local"
+msgstr "מקומי"
+
+msgid "deprecated"
+msgstr "הוצא משימוש"
+
+msgid "Type"
+msgstr "סוג"
+
+msgid "Go Pro"
+msgstr "שדרג לגרסת הפרו"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"ריינלנדר פרו נותן לך להכניס יומני אאוטלוק, גוגל ועוד יומני צד שלישי בנוסף "
+"לרשימות של משימות ישירות משולחן העבודה."
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"ריינלנדר פרו נותן לך לגשת ליומן של גוגל וליומני צד שלישי אחרים בנוסף לרשימות "
+"משימות ישירות משולחן העבודה."
+
+msgid "Buy license"
+msgstr "רישיון"
+
+msgid "See differences"
+msgstr "ראה הבדלים"
+
+msgid "No calendar selected!"
+msgstr "אף יומן לא נבחר!"
+
+msgid "You need to select a calendar type."
+msgstr "עליך לבחור סוג יומן!"
+
+msgid "Finish the authentication in your browser"
+msgstr "סיים את האימות בדפדפן שלך"
+
+msgid "Authenticating..."
+msgstr "אימות מתבצע..."
+
+msgid "Downloading..."
+msgstr "מוריד..."
+
+msgid "No urls allowed!"
+msgstr "השימוש בכתובות אתרים אסור!"
+
+msgid "Only local files can be defined as the file name."
+msgstr "רק קבצים מקומיים (הקיימים במחשב) יכולים להיות מוגדרים כשם קובץ"
+
+msgid "No UNC paths allowed!"
+msgstr "אסור השימוש בכתובות אוניברסאליות!"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"זה לא אפשרי להשתמש בכתובות אוניברסליות כשם הקובץ.\n"
+"אתה צריך למפות את כונן הרשת בשביל להיות מסוגל לגשת לקבצים בשרת."
+
+msgid "No filename defined!"
+msgstr "שם קובץ לא הוגדר!"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"אתה לא יכול להשאיר את תיבת שם הקובץ ריק. אתה חייב להגדיר קובץ שבו האירועים "
+"והמשימות ישמרו."
+
+msgid "The file name is missing."
+msgstr "שם הקובץ חסר."
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"אם אתה יוצר יומן חדש אתה יכול להכניס כל דבר כשם. אחרת בחר קובץ iCalendar (*."
+"ics) בשביל להמשיך."
+
+msgid "The url is empty!"
+msgstr "כתובת האתר ריקה!"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"אתה לא יכול להשאיר את תיבת כתובת האתר ריקה. אתה צריך להגדיר קובץ שבו המשימות "
+"והאירועים יאוחסנו."
+
+msgid "The protocol is missing!"
+msgstr "הפרוטוקול חסר!"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "ציין בבקשה גם את הפרוטוקול לכתובת (כמו \"http://\")"
+
+msgid "The file name is missing from the url!"
+msgstr "השם של הקובץ חסר בכתובת האתר!"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"אם אתה יוצר יומן חדש אתה יכול להכניס כל דבר כשם. אחרת אתה אמור לוודא שהשרת "
+"לא מגדיר באמת שום קובץ בשביל כתובת האתר.\n"
+"\n"
+"האם ברצונך להמשיך?"
+
+msgid "Incorrect email!"
+msgstr "דואר אלקטרוני שגוי!"
+
+msgid "You need to enter a full email address."
+msgstr "חובה לציין שם ליומן"
+
+msgid "Please select the calendar."
+msgstr "בחר את היומן בבקשה."
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr "לא בחרת אף יומן. אתה בטוח שאתה רוצה להמשיך?"
+
+msgid "Name"
+msgstr "שם"
+
+msgid "The calendar already exists!"
+msgstr "לוח השנה כבר קיים:"
+
+msgid "Please choose some other name for the calendar."
+msgstr "אנא בחר שם ליומן."
+
+msgid "The calendar name is empty!"
+msgstr "שם לוח השנה ריק!"
+
+msgid "You must give a name for the calendar."
+msgstr "חובה לציין שם ליומן"
+
+msgid "Alarm sound"
+msgstr "צליל התראה"
+
+msgid "Select alarm sound"
+msgstr "בחר צליל התראה"
+
+msgid "Default sound"
+msgstr "צליל ברירת מחדל"
+
+msgid "Preview"
+msgstr "תצוגה מקדימה"
+
+msgid "No sound"
+msgstr "שניות"
+
+msgid "Custom sound / executable"
+msgstr "צליל /מערכת הפעלה מותאמת אישית"
+
+msgid "Browse..."
+msgstr "עיין..."
+
+msgid "Bulk Change"
+msgstr "שינוי בולט"
+
+msgid "Type:"
+msgstr "סוג:"
+
+msgid "Summary:"
+msgstr "כותרת:"
+
+msgid "Location:"
+msgstr "מיקום:"
+
+msgid "Url:"
+msgstr "כתובת אתר:"
+
+msgid "Class:"
+msgstr "מחלקה:"
+
+msgid "Time type:"
+msgstr "סוג זמן:"
+
+msgid "With time"
+msgstr "עם זמן"
+
+msgid "Start time:"
+msgstr "מועד התחלה:"
+
+msgid "Absolute"
+msgstr "אבסולוטי"
+
+msgid "Relative"
+msgstr "יחסי"
+
+msgid "Months"
+msgstr "חודשים"
+
+msgid "Years"
+msgstr "שנים"
+
+msgid "Visibility:"
+msgstr "ראות:"
+
+msgid "Show in calendar"
+msgstr "הצג ביומן"
+
+msgid "Priority:"
+msgstr "עדיפות:"
+
+msgid "Status:"
+msgstr "סטטוס:"
+
+msgid "Not Started"
+msgstr "בהמתנה"
+
+msgid "Progress:"
+msgstr "התקדמות:"
+
+msgid "0 %"
+msgstr "0%"
+
+msgid "10 %"
+msgstr "10%"
+
+msgid "20 %"
+msgstr "20%"
+
+msgid "30 %"
+msgstr "30%"
+
+msgid "40 %"
+msgstr "40%"
+
+msgid "50 %"
+msgstr "50%"
+
+msgid "60 %"
+msgstr "60%"
+
+msgid "70 %"
+msgstr "70%"
+
+msgid "80 %"
+msgstr "80%"
+
+msgid "90 %"
+msgstr "90%"
+
+msgid "100 %"
+msgstr "100%"
+
+msgid "Free/Busy:"
+msgstr "פנוי/עסוק:"
+
+msgid "Free"
+msgstr "פנוי"
+
+msgid "Busy"
+msgstr "עסוק"
+
+msgid "Description:"
+msgstr "תיאור:"
+
+msgid "Alarm:"
+msgstr "התראה:"
+
+msgid "Category:"
+msgstr "סמל:"
+
+msgid "Recurrence:"
+msgstr "חזרה אוטומטית:"
+
+msgid "Repeat every"
+msgstr "חזור כל"
+
+msgid "Weeks"
+msgstr "שבועות"
+
+msgid "Repeat ending"
+msgstr "חזור על הסוף"
+
+msgid "Forever"
+msgstr "לנצח"
+
+msgid "Number of times"
+msgstr "פעמים"
+
+msgid "Until"
+msgstr "עד"
+
+msgid "Debug Window"
+msgstr "חלון איתור באגים"
+
+msgid "Sensitivity:"
+msgstr "רגישויות מיוחדות:"
+
+msgid "All day event"
+msgstr "אירוע כלל יומי"
+
+msgid "Mark time as busy"
+msgstr "סמן זמן כעסוק"
+
+msgid "Time zone:"
+msgstr "אזור זמן"
+
+msgid "Calendar:"
+msgstr "יומן:"
+
+msgid "Mon"
+msgstr "שני"
+
+msgid "Tue"
+msgstr "שלישי"
+
+msgid "Wed"
+msgstr "רביעי"
+
+msgid "Thu"
+msgstr "חמישי"
+
+msgid "Fri"
+msgstr "שישי"
+
+msgid "Sat"
+msgstr "שבת"
+
+msgid "Sun"
+msgstr "ראשון"
+
+msgid "Repeat"
+msgstr "חזור"
+
+msgid "End after"
+msgstr "& סיים אחרי"
+
+msgid "occurrences"
+msgstr "אירועים"
+
+msgid "Exception dates"
+msgstr "תאריכים אשר לא נכללים:"
+
+msgid "Add"
+msgstr "הוסף"
+
+msgid "Show descriptions"
+msgstr "הצג תיאורים"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "הצג את אירועי היום לאחר עליית התוכנה"
+
+msgid "Hide list windows if there are no items"
+msgstr "הסתר חלונות רשימה אם אין בהם פריטים"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "(מצב טפט שקוף: היומן מתעלם מהקלקות (החזק את מקש ה-שיפט בכדי להקליק"
+
+msgid "Lock windows in place"
+msgstr "נעל את החלון במקומו"
+
+msgid "Enable on startup"
+msgstr "הפעל מיד לאחר אתחול המחשב"
+
+msgid "Hide from taskbar"
+msgstr "הסתרה משורת המשימות"
+
+msgid "Use Retina Resolution"
+msgstr "השתמש ברזולוציית רטינה"
+
+msgid "Add years for categories"
+msgstr "הוסף שנים עבור קטגוריות"
+
+msgid "Categories..."
+msgstr "קטגוריות"
+
+msgid "Week's start day:"
+msgstr "השבוע מתחיל ביום:"
+
+msgid "Position:"
+msgstr "מיקום:"
+
+msgid "Language:"
+msgstr "שפה:"
+
+msgid "Opacity"
+msgstr "שקיפות"
+
+msgid "Normal:"
+msgstr "במצב רגיל:"
+
+msgid "Mouse over:"
+msgstr ""
+"כאשר סמן העכבר \n"
+"מרחף מעל:"
+
+msgid "Apply to all windows at the same time"
+msgstr "החל על כל החלונות בו זמנית"
+
+msgid "Font Size"
+msgstr "גודל פונט"
+
+msgid "Size:"
+msgstr "גודל:"
+
+msgid "Duplicate..."
+msgstr "שכפול..."
+
+msgid "Action:"
+msgstr "פעולה:"
+
+msgid "Hotkey:"
+msgstr ":מקש קיצור"
+
+msgid "Set"
+msgstr "הגדר"
+
+msgid "Available skins"
+msgstr " סקינים זמינים"
+
+msgid "Active skins"
+msgstr "סקינים פעילים"
+
+msgid "Settings..."
+msgstr "...הגדרות"
+
+msgid "All items"
+msgstr "כל הפריטים"
+
+msgid "Selected items"
+msgstr "פריטים נבחרים"
+
+msgid "Day range"
+msgstr "אירוע לכל היום"
+
+msgid "Select days"
+msgstr "בחר ימים"
+
+msgid "Add title"
+msgstr "הוסף כותרת"
+
+msgid "Preview..."
+msgstr "תצוגה מקדימה..."
+
+msgid "Page Setup..."
+msgstr "הגדרת דף"
+
+msgid "Todo"
+msgstr "משימה"
+
+msgid "Date only"
+msgstr "תאריך בלבד"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "קבצי iCalendar (*.ics)|*.ics"
+
+msgid "Username"
+msgstr "שם משתמש"
+
+msgid "Password"
+msgstr "סיסמא"
+
+msgid "Calendar name"
+msgstr "שם היומן"
+
+msgid "Poll frequency (mins)"
+msgstr "תדירות עדכון"
+
+msgid "Suppress errors"
+msgstr "אל תודיע לגבי שגיאות"
+
+msgid "Keep offline copy"
+msgstr "שמור עותק לא מקוון "
+
+msgid "Authentication"
+msgstr "תוכנה"
+
+msgid "Basic"
+msgstr "בסיסי"
+
+msgid "Digest"
+msgstr "עיכול"
+
+msgid "GSS-Negotiate"
+msgstr "מסר ומתן-GSS"
+
+msgid "NTLM"
+msgstr "NTLM"
+
+msgid "Support"
+msgstr "תמיכה"
+
+msgid "Automatic"
+msgstr "אוטומטי"
+
+msgid "Both"
+msgstr "בשניהם"
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"בחר כתובת אינטרנט, שם משתמש וסיסמה ליומן ובחר בכפתור בחירת היומן.\n"
+"\n"
+"שדות שם המשתמש והסיסמא יכולים להשאר ריקים אם הם לא נחוצים."
+
+msgid "Select Calendar"
+msgstr "בחר יומן"
+
+msgid "CalDAV Error (%s)!"
+msgstr "שגיאת CalDAV (%s)!"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"שגיאה בהעלאת הנתונים לכתובת הרשת:\n"
+"%s\n"
+"\n"
+"תוצאת שרת חוזרת: : (%i) %i %s."
+
+msgid "Google Error (%s)!"
+msgstr "תקלת גוגל (%s)!"
+
+msgid "Unable to delete the event."
+msgstr "לא מצליח למחוק את האירוע."
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "התוצאות שחזרו מהשרת : (%i) %i %s."
+
+msgid "Unable to read the calendars from the server."
+msgstr "לא מסוגל לקרוא את היומנים מהשרת."
+
+msgid "Unable to authenticate to the server."
+msgstr "לא מצליח להתאמת מול השרת"
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"לא מסוגל למצוא את היומן הנבחר (%s).\n"
+"\n"
+"יומנים זמינים:\n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "קריאת היומנים מהשרת נכשלה."
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr "אימות נכשל. וודא כי הכנסת את שם המשתמש והסיסמא הנכונים."
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr "ודא גם שאתה משתמש בסיסמה ספציפית ליישום עבור Rainlendar."
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr "לא מסוגל להתחבר לשרת. וודא כי הרשת שלך עובדת."
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "כתובת הרשת \"%s\" לא מכילה אף יומנים."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr ""
+"שגיאה בהורדת הנתונים מהכתובת:\n"
+"%s"
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr "תוודא שהרשת שלך פועלת ושחומת האש שלך לא חוסמת את החיבור."
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr "לא מסוגל לפענח את הפרוקסי. וודא כי הגדרות הפרוקסי שלך נכונות."
+
+msgid "Unable to resolve the host."
+msgstr "לא מצליח לפענח את שם השרת"
+
+msgid "Unable to connect to the server."
+msgstr "לא מצליח ליצור קשר עם השרת"
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "החיבור המאובטח (SSL) לשרת נכשל."
+
+msgid "FALSE"
+msgstr "שלילי"
+
+msgid "UID"
+msgstr "מזהה משתמש"
+
+msgid "Ignore private events"
+msgstr "התעלמות מאירועים פרטיים"
+
+msgid "Import limit"
+msgstr "ייבא התראות"
+
+msgid "Everything"
+msgstr "הכל"
+
+msgid "Future only"
+msgstr "בעתיד בלבד"
+
+msgid "Past month"
+msgstr "לפני 6 חודשים"
+
+msgid "Past 6 months"
+msgstr "לפני 6 חודשים"
+
+msgid "Past year"
+msgstr "שנה שעברה"
+
+msgid "Past 2 years"
+msgstr "לפני שנתיים"
+
+msgid "Delete notifications"
+msgstr "מחיקת התראות"
+
+msgid "External Only"
+msgstr "חיצוני בלבד"
+
+msgid "Future Only"
+msgstr "עתיד בלבד"
+
+msgid "Color mapping"
+msgstr "מיפוי צבעים"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"הזן את כתובת הדוא\"ל של חשבון Google לחץ על הלחצן \" בחר יומן \" ובחר את "
+"היומן שאליו ברצונך לגשת"
+
+msgid "Select calendar"
+msgstr "בחר לוח שנה"
+
+msgid "Unable to read the calendars."
+msgstr "לא מצליח לקרוא את היומנים."
+
+msgid "Authentication failed."
+msgstr "רימות נכשל."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"לא מסוגל להתאמת עם גוגל.\n"
+"וודא בבקשה שהדואר האלקטרוני\n"
+"והסיסמא שלך נכונים."
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr "האירוע לא יכול לעלות בגלל שיומן היעד לא הוגדר."
+
+msgid "Google Calendar Error (%s)!"
+msgstr "שגיאת יומן Google (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"לא מסוגל להתאמת מול גוגל. אימות 2 הצעדים מאופשר לחשבון שלך אז אתה צריך ליצור "
+"סיסמאת אפליקציה ספציפית לריינלנדר. אתה יכול לעשות זאת בהגדרות החשבון של גוגל "
+"מתחת ל\"אימות 2 הצעדים\""
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"אין אפשרות לאמת ל - Googleייתכן שהגישה של יומן הגשם ליומן Google בוטלהיש "
+"לעבור אל אפשרויות-&gt;לוחות שנה ולהפעיל שוב את האימות עבור לוח השנה"
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"לא מסוגל להתאמת עם גוגל.\n"
+"תוצאת שרת חוזרת: (%i) %i %s."
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"לא מסוגל להוריד את היומנים.\n"
+"תוצאת שרת חוזרת: (%i) %i %s."
+
+msgid "Unable to parse the calendar url."
+msgstr "לא מסוגל לפרש את כתובת הרשת של היומן."
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"שגחאה של גוגל!\n"
+"נראה כי הכנסת כתובת רשת כשם היומן.\n"
+"במקום זאת אתה צריך להשתמש באחד מהשמות להלן:\n"
+
+msgid "Unable to delete the event: "
+msgstr "לא מצליח למחוק את האירוע"
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"האירוע לא יכול לעלות ליומן של גוגל בשל התנגשות. האירוע המעודכן יטען מחדש "
+"מהיומן של גוגל."
+
+msgid "Unable to parse the events."
+msgstr "לא מצליח לפרש את האירועים."
+
+msgid "Unable to upload the event: "
+msgstr "לא מצליח להעלות את האירוע."
+
+msgid "Task list name"
+msgstr "שם רשימת משימות"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"הזן את כתובת הדוא\"ל של חשבון Google שלך ולחץ על הלחצן \" בחר רשימת משימות "
+"\" ובחר את רשימת המשימות שברצונך לגשת אליה"
+
+msgid "Select task list"
+msgstr "בחר רשימת משימות"
+
+msgid "Unable to read the task lists."
+msgstr "לא מצליח לקרוא את רשימת המשימות."
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr "המשימה לא יכולה לעלות בגלל שרשימת המשימות המיועדת לא הוגדרה."
+
+msgid "Google Tasks Error (%s)!"
+msgstr "שגיאת משימות Google (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"אין אפשרות לאמת ל - Googleייתכן שהגישה של יומן הגשם לרשימת המשימות של Google "
+"בוטלהרענן את היומן ואמת שוב את יומן הגשם לחשבון Google שלך"
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"לא מסוגל להוריד את היומנים.\n"
+"תוצאת שרת חוזרת:  (%i) %i %s."
+
+msgid "Unable to parse the task list url."
+msgstr "לא מצליח לפרש את כתובת הרשת של רשימת המשימות."
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"שגחאה של גוגל!\n"
+"נראה כי הכנסת כתובת רשת כשם היומן.\n"
+"במקום זאת אתה צריך להשתמש באחד מהשמות להלן:\n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"שגיאה של גוגל!\n"
+"לא מסוגל למצוא את רשימת המשימות הנבחרת (%s).\n"
+"\n"
+"רשימות זמינות:\n"
+
+msgid "Unable to delete the task: "
+msgstr "לא מצליח למחוק את המשימה"
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"המשימה לא יכולה לעלות ליומן של גוגל בשל התנגשות. המשימה המעודכנת תטען מחדש "
+"מהיומן של גוגל."
+
+msgid "Unable to upload the task: "
+msgstr "לא מצליח להעלות את המשימה."
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "קבצי Rainlendar (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "העלאה בטוחה"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"בחר כתובת אינטרנט, שם משתמש וסיסמה ליומן.\n"
+"\n"
+"כתובת האינטרנט יכול להשתמש בפרוטוקולי http, https או ftp. שדות שם המשתמש "
+"והסיסמה יכולים להישאר ריקים אם אין צורך בהם."
+
+msgid "Network Error (%s)!"
+msgstr "שגיאת רשת (%s)!"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "לא יכול להוסיף את הפריט ללוח השנה המקוון."
+
+msgid "Unable to remove the item from the online calendar."
+msgstr "לא מסוגל להסיר את הפריט מלוח השנה המקוון."
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"לא מסוגל לפרש את הקובץ: %s\n"
+"הקובץ עלול להיות פגום."
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr "השרת החזיר תוצאה ריקה. וודא שכתובת היומן מצביעה אל קובץ ולא אל תיקייה."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"שגיאה בהורדת הנתונים מהכתובת:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+
+msgid "Downloaded event count"
+msgstr "מספר אירועים שהורדו"
+
+msgid "Office 365"
+msgstr "Office 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"הזן את כתובת הדוא\"ל של חשבון Office 365 ולחץ על הלחצן \" בחר לוח שנה \" "
+"ובחר את לוח השנה שאליו ברצונך לגשת"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"אין אפשרות לאמת לחשבון Office 365\n"
+"אנא ודא כי הדוא\"ל והסיסמה שלך נכונים"
+
+msgid "Office365 Error (%s)!"
+msgstr "שגיאה Office365 (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"אין אפשרות לאמת לחשבון Office 365ייתכן שהגישה של יומן הגשם ללוח השנה של "
+"Office 365 בוטלהיש לרענן את לוח השנה ולאמת שוב את לוח השנה לחשבון Office 365 "
+"שלך"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"אין אפשרות לאמת לחשבון Office 365\n"
+"שרת החזיר תוצאה: (%i )%i %s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr "לא ניתן להעלות את האירוע עקב התנגשותהאירוע המעודכן יטען מחדש מהשרת"
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"שגיאה של אאוטלוק!\n"
+"לא מסוגל לאתחל את ספריית הMAPI.\n"
+"\n"
+"אם ברצונך לשדרג את ריינלנדר או האאוטלוק אתה צריך ליצור מחדש את יומן האאוטלוק "
+"באפשרויות של ריינלנדר.\n"
+"\n"
+"בנוסף, וודא שאתה משתמש באותן הגירסאות (32ביט או 64ביט) של שתי האפליקציות."
+
+msgid "Application"
+msgstr "תוכנה"
+
+msgid "Profile"
+msgstr "פרופיל"
+
+msgid "MessageStore"
+msgstr "בסיס הנתונים של תוכנת הדואר"
+
+msgid "Folders"
+msgstr "תיקייה"
+
+msgid "Default Folder"
+msgstr "ברירת מחדל"
+
+msgid "Use labels instead of categories"
+msgstr "השתמש בתוויות במקום בקטגוריות"
+
+msgid "Show edit links"
+msgstr "הצג מיקום הארוע"
+
+msgid "Keep MAPI connection alive"
+msgstr "השאר חיבור MAPI בחיים"
+
+msgid "Month"
+msgstr "חודש"
+
+msgid "6 months"
+msgstr "6 חודשים"
+
+msgid "Year"
+msgstr "שנה"
+
+msgid "2 years"
+msgstr "שנתיים"
+
+msgid "Read birthdays from contacts"
+msgstr "קרא ימי הולדת מאנשי קשר"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "בחר את בסיס הנתונים  של תוכנת הדואר שברצונך לראות ב-Rainlendar."
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[אאוטלוק:%s][ערוך]]"
+
+msgid "Outlook error!"
+msgstr "שגיאת אאוטלוק!"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr ""
+"קריאת פריטי האאוטלוק מ\"%s\" נכשלה. ראה את יומן המעקב של ריינלנדר לפרטים "
+"נוספים."
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr " 0x%p עדכון הפריט נכשל. קוד שגיאה"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr "כתיבת פריט האאוטלוק נכשלה. אין תיקיות זמינות בהן הוא יכול להשמר."
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "לא מסוגל למחוק את הפריט. Error code 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "- שגיאה במציאת רשימת המשימות - Remember The Milk"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "הרשימה \"%s\" לא נמצאה. רשימות זמינות:"
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "בבקשה כתוב את השם בדיוק כמו ברשימה לעיל."
+
+msgid "Unable to parse the ID from the task."
+msgstr "לא מצליח לפרש את כתובת הזיהוי מהמשימה"
+
+msgid "Unable to create the task."
+msgstr "לא מצליח ליצור את המשימה."
+
+msgid "Unable to parse the timeline."
+msgstr "לא מצליח לפרש את קו הזמן."
+
+msgid "The service is temporarily unavailable."
+msgstr "השירות לא זמין כרגע."
+
+msgid "Please log in to Remember The Milk."
+msgstr "התחבר לשירות Remember The Milk בבקשה"
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"אתה צריך לאמת את ריינלנדר בשביל לקבל גישה לחשבון .Remember The Milk בבקשה "
+"התחבר לאתר של Remember The Milk ותן לריינלנדר גישה לחשבון.\n"
+"\n"
+"דפדפן ברירת המחדל שלך יפתח אוטומטית כאשר תלחץ על כפתור האישור."
+
+msgid "Continue after authorization."
+msgstr "המשך לאחר אימות."
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr "לחץ על לחצן האישור בשביל להמשיך אחרי שהרשאת את ריינלנדר."
+
+msgid "Unable to parse the output."
+msgstr "לא מצליח לפרש את הפלט."
+
+msgid "Unknown response for call \"%s\"."
+msgstr "תוצאה לא ידועה לקריאה \"%s\"."
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"קריאת \"%s\" נכשלה:\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "הקריאה לפונקציה \"%s\" נכשלה."
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "שגיאת Remember The Milk (%s)!"
+
+msgid "List"
+msgstr "רשימת משימות"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"בחר בשם של רשימת המשימות מ.Remember The Milk אתה גם יכול להשאיר את השדה ריק "
+"אם אתה רוצה לקבל את כל הרשימות שלך."
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr "ערך האימות חסר. אתה צריך לתת לריינלנדר גישה לחשבון Remember The Milk."
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"לא מסוגל למצור את הסיפרייה \"%s\".\n"
+"\n"
+"הסיפריות הזמינות הן:"
+
+msgid "Toodledo Error (%s)!"
+msgstr "שגיאת Toodledo  (%s)!"
+
+msgid "Folder"
+msgstr "תיקייה"
+
+msgid "Poll for changes"
+msgstr "עקוב אחרי שינויים"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr "הכנס את כתובת הדואר האלקטרוני שלך ואת הסיסמא לToodledo בבקשה."
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "לא מסוגל לפתוח את הקובץ \"%s\" לכתיבה."
+
+msgid "Filename"
+msgstr "שם קובץ"
+
+msgid "Monitor changes"
+msgstr "עקוב אחרי שינויים"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"בחר קובץ לימן.\n"
+"\n"
+"הינך יכול לבחור קובץ ics קיים או להקליד יעד חדש שיהווה קובץ חדש שיווצר."
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "קבצי iCalendar (*.ics)|*.ics| קבציvCalendar (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr ""
+"הנתיב לקובץ היומן \" %s \" אינו יוצאיש לעבור אל אפשרויות-&gt;לוחות שנה "
+"ולוודא שהמיקום של הקובץ מוגדר כראוי"
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "לא מסוגל ליצור העתק זמני של הקובץ \"%s\"."
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "לא מסוגל להחליף את הקובץ \"%s\"."
+

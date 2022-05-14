@@ -1,0 +1,5116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: 2022-03-18 12:29+0200\n"
+"Last-Translator: Abhi Avi <abhiavi114@gmail.com>\n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: D:/Projects/Rainlendar2\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SearchPath-0: Application\n"
+"X-Poedit-SearchPath-1: Plugins\n"
+"X-Poedit-SearchPath-2: Testbench/Debug/resources\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Rainlendar OAuth प्रतिक्रिया प्राप्त करने के लिए HTTP सर्वर शुरू करने में असमर्थ हैसत्यापित "
+"करें कि आपके पास कोई सुरक्षा सॉफ़्टवेयर नहीं है जो एप्लिकेशन को सर्वर शुरू करने से रोकता है और "
+"उसी पोर्ट पर कोई अन्य सेवाएं नहीं चल रही हैं"
+
+msgid "Server Port: "
+msgstr "सर्वर नाम"
+
+msgid "Failed to start HTTP server"
+msgstr "HTTP सर्वर प्रारंभ करने में विफल"
+
+msgid "Choose the backup path"
+msgstr "पूर्तिकर स्थान चुनें"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "आर्काइव (*.zip)|*.zip"
+
+msgid "Authentication failed!"
+msgstr "प्रमाणीकरण असफल"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "सुनिश्चित करें कि आप प्रमाणीकरण प्रक्रिया समाप्त करें"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr "और अपने कैलेंडर तक पहुँचने के लिए Rainlendar की अनुमति दें।"
+
+msgid "Authentication succeeded!"
+msgstr "प्रमाणीकरण विधि"
+
+msgid "You may close the browser window now."
+msgstr "अब आप ब्राउज़र विंडो बंद कर सकते हैं।"
+
+msgid "Choose the backup file:"
+msgstr "पूर्तिकर नत्थी का चयन करेंः"
+
+msgid "Select"
+msgstr "चूनें"
+
+msgid "No backups found!"
+msgstr "पूर्तिकर उपलब्ध नहीं है!"
+
+msgid "There are no backups available in the backup folder."
+msgstr "पूर्तिकर फोल्डर में पूर्तिकर उपलब्ध नहीं है!"
+
+msgid "The settings do not exist!"
+msgstr "यह सेटिंग उपलब्ध नहीं है!"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "चयन हुई पूर्तिकर नत्थी में सेटिंग फाइल उप्लब्ध नहीं है।"
+
+msgid "The file already exists:"
+msgstr "यह  नत्थी उपलब्ध है!"
+
+msgid "Do you want to overwrite the file?"
+msgstr "क्या आप इस  नत्थी को ओवरराइट करना चाहते हैं?"
+
+msgid "Unable to overwrite file:"
+msgstr "नत्थी ओवरराइट करने में असफलः"
+
+msgid "Write error!"
+msgstr "लिखने में दोष"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+" नत्थी रिस्टोर करने में असफलः\n"
+"%s\n"
+"\n"
+"आप को यह नत्थी पूर्तिकर आर्काइव से निकालना पडेगा।"
+
+msgid "Restore error!"
+msgstr "पुनर्स्थापन दोष"
+
+msgid "[None]"
+msgstr "कोई नहीं"
+
+msgid "<Hidden>"
+msgstr "<गोपनीय>"
+
+msgid "all"
+msgstr "सभी"
+
+msgid "active"
+msgstr "सक्रिय"
+
+msgid "dismissed"
+msgstr "सभी को निकाल दिया गया है!"
+
+msgid "snoozed"
+msgstr "छीन लिया गया"
+
+msgid "Show only needs action"
+msgstr "केवल कार्रवाई की जरूरत है दिखाएँ"
+
+msgid "Show only in progress"
+msgstr "केवल प्रगति पर दिखाएँ"
+
+msgid "Show only completed"
+msgstr "केवल पूर्ण दिखाएँ"
+
+msgid "Show only cancelled"
+msgstr "केवल रद्द किया गया दिखाएँ"
+
+msgid "Hide needs action"
+msgstr "क्रिया की आवश्यकता"
+
+msgid "Hide in progress"
+msgstr "प्रगति पर"
+
+msgid "Hide completed"
+msgstr "छिपाना पूर्ण हुआ"
+
+msgid "Hide cancelled"
+msgstr "छिपाएँ रद्द"
+
+msgid "Reset completed time"
+msgstr "पूरा समय रीसेट करें"
+
+msgid "Show only no priority"
+msgstr "केवल कोई प्राथमिकता नहीं दिखाएं"
+
+msgid "Show only high priority"
+msgstr "केवल उच्च प्राथमिकता दिखाएँ"
+
+msgid "Show only normal priority"
+msgstr "केवल सामान्य प्राथमिकता दिखाएँ"
+
+msgid "Show only low priority"
+msgstr "केवल निम्न प्राथमिकता दिखाएँ"
+
+msgid "Hide no priority"
+msgstr "कोई प्राथमिकता नहीं छुपाएँ"
+
+msgid "Hide high priority"
+msgstr "ऊँची प्राथमिकता"
+
+msgid "Hide normal priority"
+msgstr "सामान्य प्राथमिकता छुपाएँ"
+
+msgid "Hide low priority"
+msgstr "कम प्राथमिकता"
+
+msgid "Show only alarms"
+msgstr "सिर्फ अलार्म दिखाएँ "
+
+msgid "Show only active"
+msgstr "केवल सक्रिय दिखाएँ"
+
+msgid "Show only snoozed"
+msgstr "केवल स्नूज़ किए गए दिखाएँ"
+
+msgid "Show only dismissed"
+msgstr "केवल बर्खास्त दिखाएँ"
+
+msgid "Hide alarms"
+msgstr "अलार्म छुपाएँ "
+
+msgid "Hide active"
+msgstr "सक्रिय छुपाएँ"
+
+msgid "Hide snoozed"
+msgstr "स्नूज़ किए गए छुपाएँ"
+
+msgid "Hide dismissed"
+msgstr "बर्खास्तगी छुपाएँ"
+
+msgid "Reset dismiss time"
+msgstr "बर्खास्तगी का समय रीसेट करें"
+
+msgid "Reset snooze time"
+msgstr "स्नूज़ समय रीसेट करें"
+
+msgid "Dismiss next alarm"
+msgstr "अगला अलार्म खारिज करें "
+
+msgid "Duration:"
+msgstr "अवधिः"
+
+msgid "Next alarm:"
+msgstr "अगला अलार्मः "
+
+msgid "Dismissed:"
+msgstr "सभी को निकाल दिया गया है!"
+
+msgid "Snoozed until:"
+msgstr "तक स्नूज़ किया गया:"
+
+msgid "In Progress"
+msgstr "प्रगति पर"
+
+msgid "Completed"
+msgstr "संपूर्ण"
+
+msgid "Needs Action"
+msgstr "कृपया ध्यान दें।"
+
+msgid "Cancelled"
+msgstr "रद्द कीया हुआ"
+
+msgid "None"
+msgstr "कोई नहीं"
+
+msgid "High"
+msgstr "ऊँचा"
+
+msgid "Normal"
+msgstr "सामान्य"
+
+msgid "Low"
+msgstr "नीचा"
+
+msgid "All"
+msgstr "सभी"
+
+msgid "Active"
+msgstr "सक्रिय"
+
+msgid "Dismissed"
+msgstr "सभी को निकाल दिया गया है!"
+
+msgid "Snoozed"
+msgstr "स्नूज़्ड"
+
+msgid "Daily"
+msgstr "दैनिक"
+
+msgid "Weekly"
+msgstr "प्रति सप्ताह"
+
+msgid "Monthly"
+msgstr "प्रति महिना"
+
+msgid "Yearly"
+msgstr "प्रति वर्ष"
+
+msgid "Private"
+msgstr "व्यक्तिगत"
+
+msgid "Public"
+msgstr "सार्वजनिक"
+
+msgid "Confidential"
+msgstr "गोपनीय"
+
+msgid "Default"
+msgstr "प्रवर्तमान"
+
+msgid "No priority"
+msgstr "कोई प्राथमिकता नहीं"
+
+msgid "Normal priority"
+msgstr "साधारण प्राथमिकता"
+
+msgid "High priority"
+msgstr "ऊच्च प्राथमिकता"
+
+msgid "Low priority"
+msgstr "नीम्न प्राथमिकता"
+
+msgid "Created: "
+msgstr "बनाया गया:"
+
+msgid "Unknown"
+msgstr "अज्ञात"
+
+msgid "Modified: "
+msgstr "छवि विगनेटिंग कम करने के लिए डिज़ीकैम इमेज प्लगइन."
+
+msgid "Copy"
+msgstr "नकल"
+
+msgid "Region"
+msgstr "प्रान्त"
+
+msgid "Native"
+msgstr "स्थानिक"
+
+msgid "Sunday"
+msgstr "रविवार"
+
+msgid "Monday"
+msgstr "सोमवार"
+
+msgid "Tuesday"
+msgstr "मंगलवार"
+
+msgid "Wednesday"
+msgstr "बुधवार"
+
+msgid "Thursday"
+msgstr "गुऋवार"
+
+msgid "Friday"
+msgstr "शुक्रवार"
+
+msgid "Saturday"
+msgstr "शनिवार"
+
+msgid "Every second Saturday"
+msgstr "प्रत्येक दूसरा शनिवार"
+
+msgid "Start"
+msgstr "शरु"
+
+msgid "Due"
+msgstr "देय"
+
+msgid "Priority"
+msgstr "प्रघान्य"
+
+msgid "Status"
+msgstr "दर्जा"
+
+msgid "Category"
+msgstr "वर्ग"
+
+msgid "Recurrence"
+msgstr "पुनरावृत्ति"
+
+msgid "Off"
+msgstr "बंद"
+
+msgid "Beta"
+msgstr "बीटा"
+
+msgid "General"
+msgstr "सामान्य"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "%H:%M (उदा. \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "%#H:%M (उदा. \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "%I:%M %p (उदा. \"01:42 pm\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "%#I:%M %p (उदा. \"3:42 pm\")"
+
+msgid "Time format"
+msgstr "समय स्वरूप"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "%d.%#m.%Y (उदा. \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "%d.%m.%Y (उदा. \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "%Y-%m-%d (उदा. \"2012-04-21\")"
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "%#m/%d/%Y (उदा. \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "%m/%d/%Y (उदा. \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "तारीख स्वरूप"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "'आज' और 'कल' का उपयोग करें"
+
+msgid "Weekend days"
+msgstr "सप्ताह के अंतिम के दिन"
+
+msgid "Week number delta"
+msgstr "सप्ताह संख्या डेल्टा"
+
+msgid "Default categories"
+msgstr "प्रवर्तमान वर्ग"
+
+msgid "Show categories from the skin"
+msgstr "त्वचा पर से श्रेणी बताएं"
+
+msgid "Show tray icon"
+msgstr "थाल आइकन दिखाएं"
+
+msgid "Show tray status icons"
+msgstr "थाल स्थिति आइकन बताएं"
+
+msgid "Day number"
+msgstr "दिन संख्या"
+
+msgid "Week number"
+msgstr "सप्ताह का नंबर"
+
+msgid "Number in tray"
+msgstr "ट्रे में संख्या "
+
+msgid "Always"
+msgstr "सदैव"
+
+msgid "Never"
+msgstr "कभी नहीं"
+
+msgid "Show full menus"
+msgstr "पूर्ण मेन्यू दिखाएँ"
+
+msgid "Disable keyboard shortcuts"
+msgstr "कीबोर्ड शोर्टकट असमर्थ करें"
+
+msgid "List wheel scroll"
+msgstr "व्हिक-स्क्रोल को लिस्ट करें"
+
+msgid "Skin language"
+msgstr "स्किन भाषा"
+
+msgid "Number of stored backups"
+msgstr "संग्राहित पूर्तिकर की संख्या"
+
+msgid "Show delete confirmations"
+msgstr "मिटाने के लिए अनुमति लें"
+
+msgid "Disable text formatting"
+msgstr "टेक्स्ट फोर्मेटिंग को असमर्थ करें"
+
+msgid "Show empty list text"
+msgstr "खाली सूची पाठ दिखाएँ "
+
+msgid "Check for updates"
+msgstr "अद्यतन जांचें"
+
+msgid "Show url icons"
+msgstr "यूआरएल आइकन दिखाएं"
+
+msgid "Simultaneous transfers"
+msgstr "समकालिक स्थानांतरण"
+
+msgid "Only uncategorized"
+msgstr "मात्र अवर्गीकृत"
+
+msgid "Icon from events"
+msgstr "घटनाओं से आइकन"
+
+msgid "Visual category overwrite"
+msgstr "दृश्यात्मक वर्ग ओवरराइट"
+
+msgid "Store English category names"
+msgstr "अंग्रेजी वर्गीकरण नाम को संचित करें"
+
+msgid "Custom category icon path"
+msgstr "वपराश्कर्ता द्वारा बनाए वर्गीकरण आइकन का पाथ"
+
+msgid "Use antialiased fonts"
+msgstr "एन्टीएलिआस्ड फोन्ट का उपयोग करें"
+
+msgid "Count"
+msgstr "गिनती"
+
+msgid "Ordinal"
+msgstr "क्रमवार"
+
+msgid "Type of year to add for categories"
+msgstr "वर्गीकरण में जोड़ने के लिए साल का प्रकार"
+
+msgid "Use custom password encrypting"
+msgstr "वपराशकर्ता द्वारा बनाया पासवर्ड एन्क्रिप्टिंग"
+
+msgid "Editor"
+msgstr "संपादक"
+
+msgid "Allow multiple calendars"
+msgstr "एकाधिक केलेन्डर की अनुमति"
+
+msgid "Allow multiple categories"
+msgstr "एकाधिक वर्गों की अनुमति"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "लिखने में सफलता मिलने तक एडीटर को खूला रखें"
+
+msgid "Time span in the editor"
+msgstr "एडीटर में समयावधि "
+
+msgid "Number of previous locations"
+msgstr "पीछले स्थानों की संख्या"
+
+msgid "Default event duration"
+msgstr "तयशुदा घटना अवधि"
+
+msgid "Windows"
+msgstr "विन्डोझ"
+
+msgid "Use window names"
+msgstr "विन्डो के नाम का उपयोग करें"
+
+msgid "Hide on Aero peek"
+msgstr "एरो-पीक पर छुपाएं"
+
+msgid "Transparency type"
+msgstr "पारदर्शिता का प्रकार"
+
+msgid "Copy transparency sleep time"
+msgstr "पारदर्शिता समय कोपी करें"
+
+msgid "Fade delay (ms)"
+msgstr "फेड विलंब (एमएस)"
+
+msgid "Fade duration (ms)"
+msgstr "फेड अवधि (एमएस)"
+
+msgid "Allow window fading"
+msgstr "विन्डो फेडिंग की अनुमति दें"
+
+msgid "Keep on screen"
+msgstr "स्क्रिन पर रखें"
+
+msgid "Bring all windows on top when clicked"
+msgstr "क्लिक करने पर सभी विंडो शीर्ष पर लाएँ"
+
+msgid "Show in all desktops"
+msgstr "सभी डेस्कटोप पर दिखाएं"
+
+msgid "Snap distance"
+msgstr "स्नेप अंतर"
+
+msgid "Snap center"
+msgstr "स्नेप केन्द्र"
+
+msgid "Don't save"
+msgstr "सेव न करें"
+
+msgid "Per resolution"
+msgstr "प्रति रेजोल्यूशन"
+
+msgid "Single value"
+msgstr "एकल मूल्य"
+
+msgid "Save window position"
+msgstr "विन्डो स्थान सेव करें"
+
+msgid "Font face"
+msgstr "फ़ॉन्ट चेहरा"
+
+msgid "Scaling quality"
+msgstr "स्केलिंग गुणवत्ता"
+
+msgid "Network"
+msgstr "संजाल"
+
+msgid "Reload delay after resume (s)"
+msgstr "फिर से शुरू करने के बाद फिर से लोड करें "
+
+msgid "Network access delay after startup (s)"
+msgstr "आरंभ होने के बाद संजाल अभिगम विलंब"
+
+msgid "Proxy server"
+msgstr "प्रॉक्सी सर्वर"
+
+msgid "Proxy user"
+msgstr "प्रॉक्सी उपयोगकर्ता"
+
+msgid "Proxy password"
+msgstr "प्रॉक्सी पासवर्ड"
+
+msgid "HTTP"
+msgstr "एचटीटीपी"
+
+msgid "SOCKS4"
+msgstr "सॉक्स4"
+
+msgid "SOCKS5"
+msgstr "सॉक्स5"
+
+msgid "Proxy type"
+msgstr "प्रॉक्सी प्रकार"
+
+msgid "Try direct connection if proxy fails"
+msgstr "प्रोक्सी की असफलता पर सीधा संपर्क"
+
+msgid "Calendar"
+msgstr "केलेन्डर"
+
+msgid "Show all icons"
+msgstr "सभी आइकन दिखाओ"
+
+msgid "Show one icon per type"
+msgstr "प्रती प्रकार एक आइकन"
+
+msgid "Show only one icon"
+msgstr "एक ही आइकन दिखाएं"
+
+msgid "Show no icons"
+msgstr "कोई आइकन न दिखाओ"
+
+msgid "Combine icons in the calendar"
+msgstr "केलेन्डर में आइकन्स मिलाएं"
+
+msgid "Calendar wheel scroll"
+msgstr "केलेन्डर व्हिल स्क्रोल"
+
+msgid "Show tasks in calendar"
+msgstr "केलेन्डर में कार्यों को दिखाएं"
+
+msgid "Always show menu"
+msgstr "मेनु सदैव दिखाएं"
+
+msgid "Always create new event"
+msgstr "सदैव नया इवेन्ट बनाएं"
+
+msgid "Do nothing"
+msgstr "कुछ न करें"
+
+msgid "Double click action"
+msgstr "एक्शन को डबल क्लिक करें"
+
+msgid "Tooltip"
+msgstr "टिप्पनी"
+
+msgid "Show tooltips"
+msgstr "उपकरण विवरण दिखाएँ"
+
+msgid "Only on days with events"
+msgstr "मात्र धटनाओं वाले दिन पर"
+
+msgid "Show tooltip in tray"
+msgstr "थाल में उपकरण विवरण को दिखाएं"
+
+msgid "Max tooltip window width"
+msgstr "उपकरण सूचना विन्डो का महत्तम नाप"
+
+msgid "Show description in tooltip"
+msgstr "उपकरण सूचना में विवरण बताएं"
+
+msgid "Task fields in tooltip"
+msgstr "उपकरण सूचना में टास्क फिल्ड"
+
+msgid "Event fields in tooltip"
+msgstr "उपकरण सूचना में इवेन्ट फिल्ड"
+
+msgid "Traytip show duration (s)"
+msgstr "Traytip show duration (s)"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "उपकरण सूचना फेड समयावधि (एमएस)"
+
+msgid "Tooltip show delay (ms)"
+msgstr "उपकरण सूचना दिखाने में विलंब (एमएस)"
+
+msgid "Tooltip format"
+msgstr "उपकरण विवरण स्वरूप"
+
+msgid "Task List"
+msgstr "कार्य सूची"
+
+msgid "Show full task summary"
+msgstr "संपूर्ण कार्य सारांश दिखाएं"
+
+msgid "Show task due time"
+msgstr "कार्य देय समय दिखाएं"
+
+msgid "Show task location"
+msgstr "कार्यस्थल दिखाएं"
+
+msgid "Show task calendar"
+msgstr "कार्य केलेन्डर दिखाएं"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "सूची में इतने दिन दिखाएं (0 =  सभी दिखाएं)"
+
+msgid "Show task time when arranged by start or due date"
+msgstr "प्रारंभ या समय के आधार पर क्रमबद्ध करने पर कार्य का समय दिखाएं।"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr ""
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr ""
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr ""
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr ""
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr ""
+
+msgid "Task list header format"
+msgstr "कार्य सूची शीर्षक फोर्मेट"
+
+msgid "<None>"
+msgstr "<कोई नहीं>"
+
+msgid "Default task template"
+msgstr "वर्तमान कार्य टेम्प्लेट"
+
+msgid "Event List"
+msgstr "घटना सूची"
+
+msgid "Show full event summary"
+msgstr "संपूर्ण घटना सारांश दिखाएँ"
+
+msgid "Show event start time"
+msgstr "घटना शुरु होने का समय दिखाएं"
+
+msgid "Show event end time"
+msgstr "घटना अंत होने का समय दिखाएं"
+
+msgid "Show event location"
+msgstr "घटना स्थल दिखाएं"
+
+msgid "Show event calendar"
+msgstr "घटना केलेन्डर दिखाएं"
+
+msgid "Hide dismissed events"
+msgstr "रद्द कार्यों को न दिखाएं"
+
+msgid "Hide past events"
+msgstr "पूर्व घटनाएं हटाएं"
+
+msgid "Number of future days the list shows"
+msgstr "सूची में आगामी दिनों की संख्या"
+
+msgid "Number of past days the list shows"
+msgstr "सूची में पूर्व दिनों की संख्या"
+
+msgid "Age from start of the week"
+msgstr "सप्ताह के शुरू से उम्र"
+
+msgid "Event list header format"
+msgstr "घटना सूची शीर्षक स्वरूप"
+
+msgid "Default event template"
+msgstr "प्रवर्तमान घटना टेम्प्लेट"
+
+msgid "No grouping"
+msgstr "कोई समूहीकरण नहीं"
+
+msgid "Start and end dates"
+msgstr "सुरू और अंत की तारिख"
+
+msgid "Start date and duration"
+msgstr "शुरु की तारिख की अवधि"
+
+msgid "Group multiday events"
+msgstr "एकाधिक दिनों की घटनाएं एक साथ रखें"
+
+msgid "Schedule"
+msgstr "समयसारणी"
+
+msgid "Show schedule descriptions"
+msgstr "समयसारणि का विवरण बताएं"
+
+msgid "Show schedule start time"
+msgstr "समयसारणी शुरु का समय दिखाएं"
+
+msgid "Show schedule end time"
+msgstr "समयसारणी के अंत का समय बताएं"
+
+msgid "Show schedule location"
+msgstr "समयसारणी का स्थान बताएं"
+
+msgid "Show schedule calendar"
+msgstr "समयसारणी केलेन्डर दिखाएं"
+
+msgid "Create, move and resize events with mouse"
+msgstr "घटना को माउस की मदद से बनाएं, हटाएं तथा नाप बदलें"
+
+msgid "First shown hour"
+msgstr "प्रथम दर्शित घंटा"
+
+msgid "Last shown hour"
+msgstr "आखरी दर्शित घंटा"
+
+msgid "Alarm"
+msgstr "अलार्म"
+
+msgid "Show alarm start time"
+msgstr "अलार्म शुरू समय दिखाएँ"
+
+msgid "Show alarm end time"
+msgstr "अलार्म पूर्ण का समय दिखाएं"
+
+msgid "Show alarm location"
+msgstr "अलार्म का स्थान दिखाएं"
+
+msgid "Show alarm calendar"
+msgstr "अलार्म केलेन्डर दिखाएं"
+
+msgid "Show due to the event"
+msgstr "घटना का देय दिखाएं"
+
+msgid "Support Mozilla alarms"
+msgstr "मोझिला अलार्म का समर्थन करें"
+
+msgid "Keep alarm always on top"
+msgstr "अलार्म को सब से ऊपर रखें"
+
+msgid "Default snooze time (secs)"
+msgstr "प्रवर्तमान स्नूझ अवधि (पल)"
+
+msgid "Max alarm window width"
+msgstr "अलार्म विन्डो की महत्तम चौडाई"
+
+msgid "Hide from alarm after days"
+msgstr "इतने दिनो के बाद अलार्म से छुपाएं"
+
+msgid "Default alarm time (mins)"
+msgstr "डिफ़ॉल्ट अलार्म समय (मिनट) "
+
+msgid "Default alarm file"
+msgstr "प्रवर्तमान अलार्म फाइल"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "अलार्म को फुलस्क्रीन विंडो पर न दिखाएँ "
+
+msgid "Loop the alarm sound (secs)"
+msgstr "अलार्म की आवाझ को लूप करें (पल)"
+
+msgid "Snooze times (mins)"
+msgstr "स्नूझ अवधि (क्षण)"
+
+msgid "Create Error!"
+msgstr "दोष बनाएं!"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "चीज पर से लक्ष्य केलेन्डर चयन करने में असमर्थ।"
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "स्ट्रिंग में से नयी चिज बनाने में असमर्थः\n"
+
+msgid "Parse Error!"
+msgstr "दोष पार्स करें!"
+
+msgid "New version found!"
+msgstr "नया संस्करण मिला!"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"%s संस्करण उपलब्ध है।\n"
+"क्या आप अभी वेबसाइट पर जाना चाहते हैं?"
+
+msgid "No updates available."
+msgstr "नया संस्करण उपलब्ध नहीं है।"
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "आप का रेइनलेंडर संस्करण अत्याधुनिक है।"
+
+msgid "New event"
+msgstr "नई घटना"
+
+msgid "New task"
+msgstr "नया कार्य"
+
+msgid "Refresh"
+msgstr "ताज़ा करना"
+
+msgid "Options..."
+msgstr "विकल्प..."
+
+msgid "Manager..."
+msgstr "व्यवस्थापन..."
+
+msgid "Exit"
+msgstr "बंद"
+
+msgid "File"
+msgstr "नत्थी"
+
+msgid "View"
+msgstr "दिखाएं"
+
+msgid "About..."
+msgstr "प्रोग्राम के बारे मैं"
+
+msgid "Open help\tCtrl+?"
+msgstr "मदद दिखाएं\tCtrl+?"
+
+msgid "Help"
+msgstr "मदद"
+
+msgid "About"
+msgstr "प्रोग्राम विवरण"
+
+msgid "Calendars"
+msgstr "केलेन्डर्स"
+
+msgid "Choose day"
+msgstr "एक दिन चुनें"
+
+msgid "Choose month"
+msgstr "महिना चयन करें"
+
+msgid "Install license..."
+msgstr "लायसेंस स्थापित करें..."
+
+msgid "Show debug log"
+msgstr "डिबग-लोग दिखाएं"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+msgid "Enable all calendars"
+msgstr "सभी केलेन्डर को समर्थ करें"
+
+msgid "Disable all calendars"
+msgstr "सभी केलेन्डर्स को असमर्थ करें"
+
+msgid "Current Day"
+msgstr "आज का दिन"
+
+msgid "Next Day"
+msgstr "आगामी दिन"
+
+msgid "Previous Day"
+msgstr "पीछला दिन"
+
+msgid "Next Week"
+msgstr "आगामी सप्ताह"
+
+msgid "Previous Week"
+msgstr "पीछला सप्ताह"
+
+msgid "Next Month"
+msgstr "अगला महिना"
+
+msgid "Previous Month"
+msgstr "पीछला महिना"
+
+msgid "Current Month"
+msgstr "वर्तमान महिना"
+
+msgid "Next Year"
+msgstr "आगामी वर्ष"
+
+msgid "Previous Year"
+msgstr "पीछला वर्ष"
+
+msgid "Home"
+msgstr "होम"
+
+msgid "Right"
+msgstr "दांयें"
+
+msgid "Left"
+msgstr "बांयें"
+
+msgid "Up"
+msgstr "ऊपर"
+
+msgid "Down"
+msgstr "नीचे"
+
+msgid "January"
+msgstr "जनवरी"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+msgid "February"
+msgstr "फरवरी"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+msgid "March"
+msgstr "मार्च"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+msgid "April"
+msgstr "अप्रैल"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+msgid "May"
+msgstr "मई"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+msgid "June"
+msgstr "जून"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+msgid "July"
+msgstr "जुलाई"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+msgid "August"
+msgstr "अगस्त"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+msgid "September"
+msgstr "सितंबर"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+msgid "October"
+msgstr "अक्टूबर"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+msgid "November"
+msgstr "नवंबर"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+msgid "December"
+msgstr "डिदिसंबर"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+msgid "Visible"
+msgstr "दर्शनक्षम"
+
+msgid "More settings..."
+msgstr "अधिक सेटिंग"
+
+msgid "Today"
+msgstr "आज"
+
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+msgid "Show all windows"
+msgstr "सभी विन्डो दिखाओ"
+
+msgid "Hide all windows"
+msgstr "सभी विन्डो छिपाओं"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "अनुज्ञापत्र नत्थी (*.r2lic)|*.r2lic"
+
+msgid "Choose the license file"
+msgstr "अनुज्ञापत्र नत्थी चुनें"
+
+msgid "*Empty*"
+msgstr "*खाली*"
+
+msgid "This instance"
+msgstr "यह अस्तित्व"
+
+msgid "Whole event"
+msgstr "पूरी घटना"
+
+msgid "All following"
+msgstr "नीचे के सभी"
+
+msgid "Cancel"
+msgstr "रद्द"
+
+msgid "Do you want to delete this item?"
+msgstr "क्यां आप इस चीज को मिटाना चाहते हो?"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"यह एक आवर्ती आइटम है:\n"
+"\n"
+" %s\\ n\\ nआप या तो सिर्फ इस उदाहरण (%s), सभी निम्नलिखित घटनाओं या पूरे आवर्ती "
+"घटना को हटा सकते हैं"
+
+msgid "The item is read only and cannot be deleted."
+msgstr "आइटम केवल पढ़ा जाता है और हटाया नहीं जा सकता।"
+
+msgid "Unable to delete the item."
+msgstr "आइटम को मिटाने में असमर्थ."
+
+msgid "Do you want to delete these items?"
+msgstr "क्यां आप इन चीजों को मिटाना चाहते हैं?"
+
+msgid "The item is read only and cannot be moved."
+msgstr "आइटम केवल पढ़ा जाता है और स्थानांतरित नहीं किया जा सकता।"
+
+msgid "Unable to move the item."
+msgstr "वस्तु को खिसकाने में अक्षम."
+
+msgid "Choose a directory"
+msgstr "डिरेक्टरी चयन करें"
+
+msgid "Version"
+msgstr "संस्करण"
+
+msgid "Built on"
+msgstr "पर बनाया गया"
+
+msgid "Developed by"
+msgstr " इन के द्वारा विकसित"
+
+msgid "Translated (%s) by"
+msgstr "(%s) अनुवाद"
+
+msgid "Licensed to"
+msgstr "पंजीकरण"
+
+msgid "Plugins"
+msgstr "प्लगिन्स"
+
+msgid "Links"
+msgstr "लिंक्स"
+
+msgid "FAQ"
+msgstr "पूछे जाने वाले प्रश्न"
+
+msgid "Forum"
+msgstr "गोष्ठी"
+
+msgid "Menu icons by"
+msgstr "सूची आइकन श्रेय"
+
+msgid "Application icon by"
+msgstr "एप्लिकेशन आइकन श्रेय"
+
+msgid "Copyrights"
+msgstr "सर्वाधिकार"
+
+msgid "Please wait..."
+msgstr "कृपयां ठहरीये..."
+
+msgid "Check for update"
+msgstr "नया संस्करण ढूंढें"
+
+msgid "Choose Alarm"
+msgstr "अलार्म चयन करें"
+
+msgid "All files (*.*)|*.*"
+msgstr "सभी  नत्थी (*.*)|*.*"
+
+msgid "Change Fields"
+msgstr "फिल्ड बदलें"
+
+msgid "%i events selected"
+msgstr "%i घटनाएं चयन कि है।"
+
+msgid "%i tasks selected"
+msgstr "%i कार्य चयन किये हैं।"
+
+msgid "End time:"
+msgstr "अंत समय:"
+
+msgid "Due time:"
+msgstr "देय समय:"
+
+msgid "Add new alarm"
+msgstr "नया अलार्म लगाएं"
+
+msgid "Are you sure you want to do this?"
+msgstr "क्या आप सचमुच में यह करना चाहते हैं?"
+
+msgid "The selected fields will be changed to %i items."
+msgstr "चयन किये फिल्ड्झ को %i चीजों से बदलेंगें।"
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr ""
+"इस कार्य को अनकिया नहीं किया जा सकता। संपूर्ण आस्वस्थ होने पर ही  \"हां\" पर क्लिक करें।"
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr ""
+"यह सूचित किया जाता है, की घटना एवं कार्य के बीच स्वरूप में परिवर्तित करने पर कुछ डेटा-लोस "
+"होगा।"
+
+msgid "Categories"
+msgstr "वर्ग"
+
+msgid "Add..."
+msgstr "जोड़ें..."
+
+msgid "Clear"
+msgstr "साफ"
+
+msgid "Remove"
+msgstr "हटाएं"
+
+msgid "Values"
+msgstr "मूल्य"
+
+msgid "Please give a name for the category"
+msgstr "कृपयां वर्ग के लिये एक मान दें"
+
+msgid "Enter text"
+msgstr "पाठ एन्टर करें"
+
+msgid "Unable to create the category!"
+msgstr "श्रेणी बनाने में असमर्थ!"
+
+msgid "You must give a name for the category."
+msgstr "वर्ग के लिये एक नाम देना आवश्यक है।"
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "नाम में '/' का उपयोग वर्ज्य है।"
+
+msgid "A category called \"%s\" already exists."
+msgstr "\"%s\" नाम से वर्ग पहले से उपलब्ध है।"
+
+msgid "Link start and end dates"
+msgstr "शुरूआत और खत्म होने की तारीख"
+
+msgid "Save\tCtrl+S"
+msgstr "बचाना\tCtrl+s"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "नये नाम से बचाना\tShift+Ctrl+s"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "फ़ाइल में सहेजें...\\ tAlt Ctrl S"
+
+msgid "Print...\tCtrl+P"
+msgstr "प्रिंट करें...\\ tCtrl P"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "मिटाएं\tCtrl+Delete"
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "बंद करें स्वीकार करें\\ tCtrl दर्ज करें"
+
+msgid "Close\tCtrl+W"
+msgstr "बंद करें\\ tCtrl W"
+
+msgid "Close\tAlt-F4"
+msgstr "बंद करें\tAlt-F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "यह केलेन्डर पुनरागमन को स्वीकार नहीं करता है।"
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr "अलार्म नहीं बजेगा। केलेन्डर में अलार्म को अनसुना किया गया है।"
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr "अलार्म नहीं बजेगा। इस स्किन में अलार्म विन्डो नहीं है।"
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr "कार्य केवल पढ़ने के लिए है और संशोधन सहेजा नहीं जा सकता।"
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr "घटना केवल पढ़ने के लिए है और संशोधनों को बचाया नहीं जा सकता।"
+
+msgid "The task is from a read-only calendar."
+msgstr "यह कार्य केवल पढ़ने के लिए एक कैलेंडर से है।"
+
+msgid "The event is from a read-only calendar."
+msgstr "यह घटना केवल पढ़ने के लिए एक कैलेंडर से है।"
+
+msgid "There are no calendars available which can store tasks."
+msgstr "कोई कैलेंडर उपलब्ध नहीं है जो कार्यों को संग्रहीत कर सकता है।"
+
+msgid "There are no calendars available which can store events."
+msgstr "कोई कैलेंडर उपलब्ध नहीं हैं जो घटनाओं को संग्रहीत कर सकते हैं।"
+
+msgid "No target calendar has been selected."
+msgstr "नहीं लक्ष्य चयनित"
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr "मूल विवरण HTML में है और संपादित नहीं किया जा सकता है।"
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"इस चीज के लिए कोई केलेन्डर चयन नहीं किया है। इस चीज के संग्रह के लिए केलेन्डर का चयन करें।"
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"ची सेव करने के लिए कोई अधिकृत केलेन्डर नहीं है। विकल्प में जा कर इस चीज के लिए नया केलेन्डर "
+"बनाएं. कुछ केलेन्डर घटना एवं कार्य दोनो का समर्थन नहीं करते हैं।"
+
+msgid "Unable to save the item."
+msgstr "चीज को बचाना करने में असमर्थ।"
+
+msgid "Updating"
+msgstr "अद्यतन हो रहा है।"
+
+msgid "Do you want to save the changes?"
+msgstr "क्यां आप सेव करना चाहते हैं?"
+
+msgid "You have made some changes to the fields."
+msgstr "आपने कुछ फिल्ड में बदलाव किया है।"
+
+msgid "&Save"
+msgstr "&बचाना"
+
+msgid "&Discard"
+msgstr "&रद्द"
+
+msgid "&Cancel"
+msgstr "&रद्द करें"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "क्यां आप इस चीज को मिटाना चाहते हो?"
+
+msgid "Event"
+msgstr "घटना"
+
+msgid "Choose a file"
+msgstr "नत्थी चुनें"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "इ-केलेंडर नत्थी (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "केलेन्डर चयन करें:"
+
+msgid "Select the categories:"
+msgstr "वर्गीकरण चयन करें:"
+
+msgid "before the event starts."
+msgstr "धटना शुरु होने से पहेले."
+
+msgid "before the task is due."
+msgstr "कार्य समाप्त होने से पहेले."
+
+msgid "Set alarm sound"
+msgstr "अलार्म सेट करें"
+
+msgid "Current alarm: "
+msgstr "वर्तमान अलार्मः"
+
+msgid "Remove alarm"
+msgstr "अलार्म हटाएं"
+
+msgid "Minutes"
+msgstr "मिनटें"
+
+msgid "Hours"
+msgstr "घंटें"
+
+msgid "Days"
+msgstr "दिन"
+
+msgid "Alert"
+msgstr "चेतावनी"
+
+msgid "Email"
+msgstr "ईमेल"
+
+msgid "SMS"
+msgstr "एसएमएस"
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr ""
+"इस घटना के लिए किसी भी कैलेंडर संचालक प्राप्त करने में असमर्थ। इस घटना को सेव नहीं किया "
+"गया."
+
+msgid "On the %s day of the month"
+msgstr "इस महीने के %s दिन पर"
+
+msgid "first"
+msgstr "पहेला"
+
+msgid "second"
+msgstr "दुसरा"
+
+msgid "third"
+msgstr "तीसरा"
+
+msgid "fourth"
+msgstr "चौथा"
+
+msgid "fifth"
+msgstr "पांचवां"
+
+msgid "On the %s %s of the month"
+msgstr "महिने के %s %s पर"
+
+msgid "On the last %s of the month"
+msgstr "महिने के अंतिम %s पर"
+
+msgid "On the first weekday of the month"
+msgstr "महिने के प्रथम कार्य-दिवस पर"
+
+msgid "On the last weekday of the month"
+msgstr "महिने के अंतिम कार्य-दिवस पर"
+
+msgid "On the last day of the month"
+msgstr "महिने के अंतिम दिवस पर"
+
+msgid "Please give a name for the template"
+msgstr "कृपयां इस टेम्प्लेट को नाम दें"
+
+msgid "Unable to create the template!"
+msgstr "टेम्प्लेट बनाने में असमर्थ!"
+
+msgid "You must give a name for the template."
+msgstr "टेम्प्लेट के लिये एक नाम देना आवश्यक है।"
+
+msgid "A template called \"%s\" already exists."
+msgstr "\"%s\" नाम से टेम्प्लेट पहले से तैयार है।"
+
+msgid "Do you want to overwrite the template?"
+msgstr "क्यां आप इस टेम्प्लेट को ओवरराईट करना चाहते हैं?"
+
+msgid "Choose the template to delete:"
+msgstr "कौन सा टेम्प्लेट मिटाना हैः"
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "नते कार्य के लिए टेम्प्लेट चयन करेंः"
+
+msgid "Choose the template which is used for new events:"
+msgstr "नयी घटना के लिए नये टेम्प्लेट का चयन करेंः"
+
+msgid "Save as template..."
+msgstr "टेम्प्लेट सेव करें..."
+
+msgid "Delete template..."
+msgstr "टेम्प्लेट मिटाएं..."
+
+msgid "Set the default template..."
+msgstr "प्रवर्तमान टेम्प्लेट..."
+
+msgid "Template"
+msgstr "टेम्प्लेट"
+
+msgid "Select the day range"
+msgstr "दिन मर्यादा चयन करें"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"यह निकासकर्ता पुनरावर्ती घटनाओं को एक इकाई में परिवर्तित नहीं कर सकता है। कृपया दिन-"
+"मर्यादा निश्चित करें जो फाइल में सेव हो सके।"
+
+msgid "From:"
+msgstr "से:"
+
+msgid "To:"
+msgstr "प्रति:"
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "अंत समय प्रारंभ समय से पहले नहीं हो सकता"
+
+msgid "Birthday"
+msgstr "जन्मदिन"
+
+msgid "Anniversary"
+msgstr "वर्षगाँठ"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"आपने जन्मदिवस या वर्षगांठ निश्चित किया है, परंतु उस का पुनरागमन निश्चित नहीं किया है।\n"
+"क्या आप इस घटना को हट साल पुनरावर्तित करना चाकते हैं?"
+
+msgid "Error"
+msgstr "दोष"
+
+msgid "Warning"
+msgstr "चेतावनी"
+
+msgid "Question"
+msgstr "प्रश्न"
+
+msgid "Information"
+msgstr "जानकारी"
+
+msgid "Do not show this again"
+msgstr "इसे दोबारा न दिखाएं"
+
+msgid "&OK"
+msgstr "ठीक"
+
+msgid "&Yes"
+msgstr "हां"
+
+msgid "&No"
+msgstr "नहीं"
+
+msgid "Manager"
+msgstr "व्यवस्थापन"
+
+msgid "Events"
+msgstr "घटनाएं"
+
+msgid "Tasks"
+msgstr "कार्य"
+
+msgid "Show original"
+msgstr "मूल दिखाएं"
+
+msgid "Show current"
+msgstr "वर्तमान दिखाएं"
+
+msgid "Show upcoming"
+msgstr "आगामी दिखाएं"
+
+msgid "New"
+msgstr "नया"
+
+msgid "Edit"
+msgstr "संपादन"
+
+msgid "Delete"
+msgstr "मिटाएं"
+
+msgid "Copy to"
+msgstr "इस में कोपी करें"
+
+msgid "Move to"
+msgstr "यहां हटाएं"
+
+msgid "Change fields"
+msgstr "फिल्ड बदलें"
+
+msgid "Import"
+msgstr "आयात"
+
+msgid "Export"
+msgstr "निर्यात"
+
+msgid "Print..."
+msgstr "मुद्रण..."
+
+msgid "Backup"
+msgstr "पूर्तिकर"
+
+msgid "Restore"
+msgstr "पुनर्स्थापन"
+
+msgid "Close"
+msgstr "बन्द"
+
+msgid "Select all"
+msgstr "सभी चुनें"
+
+msgid "Select none"
+msgstr "कुछ नहीं चुनें"
+
+msgid "Toggle selection"
+msgstr "चयन टॉगल करें"
+
+msgid "Select duplicates"
+msgstr "डुप्लिकेट का चयन करें"
+
+msgid "Sort by due time"
+msgstr "ड्यू-समय के क्रम से दिखाएं"
+
+msgid "Sort by end time"
+msgstr "समय-समाप्ती के क्रम से दिखाएं"
+
+msgid "Sort by summary"
+msgstr "सारांश पर क्रमबद्ध करे"
+
+msgid "Sort by location"
+msgstr "स्थान के क्रम से दिखाएं"
+
+msgid "Sort by calendar"
+msgstr "केलेन्डर पर क्रमबद्ध करे"
+
+msgid "Sort by category"
+msgstr "वर्ग पर क्रमबद्ध करे"
+
+msgid "Sort by url"
+msgstr "यूआरएल के क्रम से दिखाएं"
+
+msgid "Sort by repeat"
+msgstr "पुनरावर्तन के क्रम से दिखाएं"
+
+msgid "Sort by priority"
+msgstr "प्रधान्य पर क्रमबद्ध"
+
+msgid "Sort by status"
+msgstr "स्तर पर क्रमबद्ध करे"
+
+msgid "Sort by create time"
+msgstr "इसके अनुसार क्रमबद्ध करें समय बनाएँ"
+
+msgid "Sort by modify time"
+msgstr "परिवर्धित समय के अनुसार क्रमबद्ध करें"
+
+msgid "Sort by start time"
+msgstr "प्रारंभ समय  पर क्रमबद्ध करे"
+
+msgid "Start time"
+msgstr "प्रारंभ समय"
+
+msgid "End time"
+msgstr "अंत समय"
+
+msgid "Summary"
+msgstr "सारांश"
+
+msgid "Location"
+msgstr "स्थान"
+
+msgid "Url"
+msgstr "यूआरएल"
+
+msgid "Create time"
+msgstr "समय बनाएँ"
+
+msgid "Modify time"
+msgstr "समय परिवर्धित करें"
+
+msgid "Reverse sorting"
+msgstr "उलटा क्रमांक"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "कुलः %i (चयनितः % i)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr ""
+"संपादन के लिए इतनी सारी चीजें खोलने पर समय ज्यादा व्यतित होगा। क्या आप यह करना चाहते "
+"हैं।"
+
+msgid "Do you want to delete the selected item?"
+msgstr "क्या आप चयनित चीजों को मिटाना चाहते हैं?"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "क्या आप चयनित %i चीजों को मिटाना चाहते हैं?"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr "चयन हुई चीज मात्र पढने के लिए खुली है, इसे मिटाया नहीं जा सकता।"
+
+msgid "There were %i read only items which were not deleted."
+msgstr "%i चीजें मात्र पढने के लिए खुल सकती है। इसे मिटाया नहीं जा सका है।"
+
+msgid "Unable to delete some items."
+msgstr "क्यां आप कुछ चीजे मिटाना चाहते हैं?"
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "चीजों को कोपी करने के लिए कैलेंडर चुनें:"
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "चीजों को मूव करने के लिए कैलेंडर चुनें:"
+
+msgid "Operation failed!"
+msgstr "प्रक्रिया असफल!"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr "चीजों का संग्रह करने में सक्षम कोई केलेन्डर उपलब्ध नहीं है।"
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"आइटम को ऑनलाइन कैलेंडर पर ले जाना सुरक्षित नहीं हैयदि गंतव्य कैलेंडर नेटवर्क समस्याओं के कारण "
+"या किसी अन्य कारण से आइटम स्वीकार नहीं करता है तो आप सभी स्थानांतरित घटनाओं को खो "
+"देंगे\n"
+"\\ nइसलिए, केवल तभी \" हाँ \" पर क्लिक करें जब आप पूरी तरह से सुनिश्चित हों कि आप जानते "
+"हैं कि आप क्या कर रहे हैं"
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "इस केलेन्डर्स में %i चीजों को मूव किया:\n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "इस केलेन्डर्स में %i चीजों को कोपी किया:\n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"आवश्यक सूचना! ओन-लाइन केलेन्डर पर चीजों को कोपी करने में थोडा समय लगता है, इसलिये वह "
+"थोडी देर के बाद ही वहां प्रगट होगी।"
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr ""
+"कुछ आइटम केवल पढ़ने के लिए सेट किए गए थे और स्थानांतरित करने के बजाय कॉपी किए गए थे।"
+
+msgid "Operation finished!"
+msgstr "कार्य समाप्त!"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "घटनाओं के लिए कम से कम एक कैलेंडर का चयन करना आवश्यक है।"
+
+msgid "Backup was successful."
+msgstr "पुनर्स्थापन सफल।"
+
+msgid "The backup contains these files:"
+msgstr "पूर्तिकर में यह फाइलें उपलब्ध हैः"
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"इस पूर्तिकर में ई-केलेन्डर की फाइलें नहीं है। यदी आपने स्थानिक जगह पर घटना या कार्यों को सेव "
+"किया है, तो उस का पूर्तिकर आपको लेना पडेगा।"
+
+msgid "Unable to create the backup file."
+msgstr "पूर्तिकर नत्थी बनाने में असमर्थ।"
+
+msgid "The archive contains unknown files:\n"
+msgstr "इस आर्काइव में अज्ञात नत्थी हैं।\n"
+
+msgid "Restore was successful."
+msgstr "पुनर्स्थापन सफल।"
+
+msgid "There were problems during the restore."
+msgstr "रिस्टोर के दरमियान समस्या हुई है।"
+
+msgid "Exported %i events successfully."
+msgstr "%i चीजों का निर्यात सफल।"
+
+msgid "Exported %i todo items successfully."
+msgstr "%i हीजों का निर्यात सफल।"
+
+msgid "Export failed!"
+msgstr "निर्यात असफल!"
+
+msgid "Import failed!"
+msgstr "आयात असफल!"
+
+msgid "Options"
+msgstr "विकल्प"
+
+msgid "Skins"
+msgstr "स्किन्स"
+
+msgid "Hotkeys"
+msgstr "होट की"
+
+msgid "Advanced"
+msgstr "उच्च श्रेणी"
+
+msgid "Reset all settings"
+msgstr "सभी सेटिंग्स रिसेट करें"
+
+msgid "Reset offline copy"
+msgstr "ऑफ़लाइन रीसेट करें कॉपी बनाएं"
+
+msgid "Authenticate"
+msgstr "प्रमाणीकरण"
+
+msgid "OK"
+msgstr "ठीक"
+
+msgid "Get more languages..."
+msgstr "नयी भाषाएं पाएं..."
+
+msgid "On Top"
+msgstr "शीर्ष पर"
+
+msgid "On Bottom"
+msgstr "तल पर"
+
+msgid "On Desktop"
+msgstr "डेस्कटॉप पर"
+
+msgid "Get more skins..."
+msgstr "नयी स्किन पाएं..."
+
+msgid "TrayIcon"
+msgstr "थाल आइकन"
+
+msgid "Author"
+msgstr "लेखक"
+
+msgid "Homepage"
+msgstr "होम पेज़"
+
+msgid "Addons"
+msgstr "एडओन"
+
+msgid "Version history"
+msgstr "संस्करण विवरण"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr ""
+"यह रेइनलेंडर का पूराना स्किन है। इस की कुछ विशेषताएं अब समर्थित नहीं भी हो सकती है।"
+
+msgid "Advanced >>>"
+msgstr "उच्च श्रेणी >>>"
+
+msgid "<<< Simple"
+msgstr "<<< सरल"
+
+msgid "Open containing folder"
+msgstr "इस का फोल्डर खोलें"
+
+msgid "Custom categories are not supported."
+msgstr "वपराशकर्ता के वर्गों की सुविधा नहीं है।"
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr ""
+"\"%s\" स्किन, वपराशकर्ता द्वारा वर्गीकरण प्रगटन का समर्थन नहीं करती। इसलिए इसे "
+"सम्पादित करना संभव नहीं है।"
+
+msgid "Activate only default windows?"
+msgstr "केवल तयशुदा विंडो सक्रिय करें?"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr "क्या आप केवल डिफ़ॉल्ट Windows या सभी Windows को सक्रिय करना चाहते हैं?"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr "ध्यान दें कि सभी खिड़कियों को सक्रिय करने से प्रदर्शन कम हो सकता है।"
+
+msgid "&Default"
+msgstr "डिफ़ॉल्ट"
+
+msgid "&All"
+msgstr "सभी"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"संपादन फिल्ड को सक्रिय कर के होट-की दबाएं। याद रहें, कि होट-की वैश्विक है तथा दूसरी "
+"एप्लिकेशन्स को भी प्रभावित कर सकती है। इसलिए इन्हें अधिक सरल न बनाएं।"
+
+msgid "Hotkey"
+msgstr "होटकी"
+
+msgid "Function"
+msgstr "कार्य "
+
+msgid "Search:"
+msgstr "खोज:"
+
+msgid "Do you want to reset all settings?"
+msgstr "क्यां आप सभी सेटिंग रेसेट करना चाहते हैं?"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"इस से सभी सेटिंग प्रवर्तमान मूल्यो पर रिसेट हो जाएंगें। प्रवर्तमान सेटिंग तुरंत लागु होंगें। क्या "
+"आप आगे बढना चाहते हैं?"
+
+msgid "Common"
+msgstr "सामान्य"
+
+msgid "Enabled"
+msgstr "समर्थित"
+
+msgid "Read only"
+msgstr "अमिट"
+
+msgid "Ignore alarms"
+msgstr "अलार्म को अनसुना करें"
+
+msgid "Default alarm (minutes)"
+msgstr "प्रचलित अलार्म (मिनट)"
+
+msgid "Visual category"
+msgstr "दृश्य आधारित वर्गीकरण"
+
+msgid "Time offset (mins)"
+msgstr "समय ओफ्फसेट (मिनट)"
+
+msgid "Time zone"
+msgstr "समय क्षेत्र"
+
+msgid "Copy of %s"
+msgstr "%s की नकल"
+
+msgid "Please enter a name for the calendar."
+msgstr "कृपया इस कैलेंडर के लिए एक नाम चुनें."
+
+msgid "Illegal character!"
+msgstr "अवैध अक्षर!"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "यह नाम में '/' या '; 'वर्णों का उपयोग करने की अनुमति नहीं है।"
+
+msgid "A calendar called \"%s\" already exists."
+msgstr "\"%s\" नाम से केलेन्डर पहले से उपलब्ध है।"
+
+msgid "Choose another name."
+msgstr "दुसरा नाम चुनें।"
+
+msgid "Authentication failure"
+msgstr "सत्यापन असफल"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr "OAuth प्रक्रिया विफल रही। Rainlendar आपके कैलेंडर डेटा तक पहुँचने में असमर्थ है।"
+
+msgid "Do you want to delete the skin?"
+msgstr "क्यां आप इस स्किन को मिटाना चाहते हैं?"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"यदि आप हां पसंद करते है, तो \"%s\" स्किन \n"
+"स्थायी रूप से मिट जाएगी।"
+
+msgid "Delete failed!"
+msgstr "मिटाने में असफल!"
+
+msgid "Unable to delete the skin."
+msgstr "स्किन मिटाने में असमर्थ।"
+
+msgid "Print"
+msgstr "मुद्रण"
+
+msgid "Print items"
+msgstr "चीज मुद्रित करें"
+
+msgid "End"
+msgstr "अंत"
+
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+msgid "Variables"
+msgstr "वेरिएबल्स"
+
+msgid "Window settings"
+msgstr "विन्डो सेटिंग"
+
+msgid "Settings can be shown only for a single window."
+msgstr "मात्र एक विन्डो के लिए ही सेटिंग दिखाए जा सकते हैं।"
+
+msgid "No settings available."
+msgstr "कोई सेटिंग उपलब्ध नहीं।"
+
+msgid "Global variables"
+msgstr "ग्लोबल वेरिएबल्स"
+
+msgid "Grow upwards"
+msgstr "उपर की दिशा में बढ़ें"
+
+msgid "Window position"
+msgstr "विंडो की स्थिति"
+
+msgid "Disabled"
+msgstr "निष्क्रिय"
+
+msgid "Click through"
+msgstr "के माध्यम से क्लिक करें"
+
+msgid "Scale"
+msgstr "परिमाण"
+
+msgid "Filters"
+msgstr "फ़िल्टर"
+
+msgid "Included calendars"
+msgstr "केलेन्डर्स को सामेल करें"
+
+msgid "Excluded calendars"
+msgstr "केलेन्डर्स को सामेल न करें"
+
+msgid "Included categories"
+msgstr "सामेल वर्ग"
+
+msgid "Excluded categories"
+msgstr "वर्ग सामेल नहीं"
+
+msgid "Task list"
+msgstr "कार्यसूची"
+
+msgid "Alphabetically"
+msgstr "वर्ण-माला के क्रम से"
+
+msgid "By Category"
+msgstr "वर्गीकरण आधारित"
+
+msgid "By Due Date"
+msgstr "अन्तिम तिथि आधारित"
+
+msgid "By Start Date"
+msgstr "प्रारंभ तिथि आधारित"
+
+msgid "By Status"
+msgstr "स्तर पर आधारित"
+
+msgid "By Priority"
+msgstr "प्राथमिकता आधारित"
+
+msgid "By Location"
+msgstr "स्थान आधारित"
+
+msgid "By Calendar"
+msgstr "केलेन्डर आधारित"
+
+msgid "Custom"
+msgstr "वपराश्कर्ता द्वारा चयन"
+
+msgid "Primary sort order"
+msgstr "प्राथमिक अनुक्रम"
+
+msgid "Secondary sort order"
+msgstr "गौण अनुक्रम"
+
+msgid "Reverse primary sorting"
+msgstr "विपरीत प्राथमिक अनुक्रम"
+
+msgid "Reverse secondary sorting"
+msgstr "विपरीत गौण अनुक्रम"
+
+msgid "Empty at top"
+msgstr "शीर्ष पर खाली"
+
+msgid "Hide completed tasks"
+msgstr "संपन्न कार्यों को न दिखाएं"
+
+msgid "Hide canceled tasks"
+msgstr "संपूर्ण हुए कार्य को छिपाएं"
+
+msgid "Hide upcoming tasks"
+msgstr "आगामी कार्य छिपाएँ"
+
+msgid "Event list"
+msgstr "घटना सूची"
+
+msgid "Show empty days"
+msgstr "खाली दिन दिखाएँ"
+
+msgid "Window variables"
+msgstr "विन्डो वेरिएबल्स"
+
+msgid "Appearance"
+msgstr "प्रकटन"
+
+msgid "Operations"
+msgstr "संचालन"
+
+msgid "Left click"
+msgstr "बाईं क्लिक"
+
+msgid "Right click"
+msgstr "दाहिने क्लिक"
+
+msgid "Double left click"
+msgstr "डबल बाईं क्लिक"
+
+msgid "Double right click"
+msgstr "डबल दाहिने क्लिक"
+
+msgid "Local"
+msgstr "स्थानिक"
+
+msgid "Task"
+msgstr "कार्य"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr "पुनरावृत्ति निश्चित करने से पहले देय-तारिख निश्चित करना आवश्यक है।"
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "नियत समय प्रारंभ समय से पहले नहीं हो सकता है।"
+
+msgid "Unable to add new alarm!"
+msgstr "नया अलार्म लगाने में असमर्थ!"
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr "अलार्म सेट करने से पहले देय-तारिख निश्चित करना आवश्यक है।"
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "पंजीकरण से पहले व्यावसायिक संस्करण इन्स्टोल करें।"
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"अभी आप लाइट संस्करण का उपयोग कर रहे हैं, जिस में व्यावसायिक विशेषताएं उपलब्ध नहीं है। "
+"रेइनलेंडर के डाउनलोड पृष्ठ से व्यावसायिक संस्करण लाना आवश्यक है।"
+
+msgid "&Get Pro"
+msgstr "&वृत्तिक संस्करण लाएं"
+
+msgid "&Ignore"
+msgstr "&अवज्ञा"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"यदि आपने .r2skin or .r2lang फाइलें डाउनलोड कि है, और\n"
+"यदि आपके ब्राउझरने इन्हें .zip बना दी हैं, तो इन्हें दोबारा नाम बदल कर\n"
+"इन्हें आयात किया जा सकता है।"
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "रेइनलेन्डर में Zip आर्काइव्झ को आयात नहीं किया हा सकता।"
+
+msgid "Unknown file \"%s\"."
+msgstr "अज्ञात नत्थी  \"%s\"|"
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "इस फाइल को रेइनलेन्डर में आयात नहीं किया हा सकता।"
+
+msgid "Installation failed!"
+msgstr "स्थापना असफल!"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "नत्थी की नकल करने में असमर्थ. स्रोत एवं गंतव्य स्थान एक ही है।"
+
+msgid "Unable to install the file \"%s\"."
+msgstr "नत्थी \"%s\"  स्थापन में असमर्थ।"
+
+msgid "The folder does not have write permissions."
+msgstr "इस फोल्डर में लिखने की अनुमति नहीं है।"
+
+msgid "The skin %s doesn't exist."
+msgstr "स्किन %s उपलब्ध नहीं है।"
+
+msgid "Unable to merge the addon."
+msgstr "एड-ओन मर्ज करने में असमर्थ।"
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"यह नत्थी \"% s \" पहले से मौजूद है. \n"
+"क्या आप इसे बदलना चाहते हैं?"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "उपरोक्त नत्थी पहले से मौजूद है. आप इसे ओवरराइट करना चाहते हैं?"
+
+msgid "Unable to install the skin!"
+msgstr "स्किन स्थापन में असमर्थ!"
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"इस स्किन में \"skin.xml\" फाइल नहीं है। क्या यह xml प्रकार की रेइनलेन्डर स्किन ही है।"
+
+msgid "The installation was successful!"
+msgstr "स्थापना सफल!"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "नत्थी\"%s\" सफलतापूर्वक इन्स्टोल हो गई है।"
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr "कृपया परिवर्तन देखने के लिए Rainlendar को रिफ्रेश करें।"
+
+msgid "&Refresh"
+msgstr "रिफ्रेश करें"
+
+msgid "The installation failed!"
+msgstr "स्थापना असफल!"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr "\t%s नत्थी स्थापना में असफल!"
+
+msgid "Select the calendar for the imported items:"
+msgstr "आयाति चीजों के लिए कैलेंडर चुनें:"
+
+msgid "There are no calendars available that are able to store the item."
+msgstr "चीज संग्र के लिए कोई कैलेंडर उपलब्ध नहीं हैं."
+
+msgid "Imported %i items successfully."
+msgstr "%i चीजों का आयात सफल।"
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr "घटनाओं की आयात के लिए कम से कम एक केलेन्डर का चयन आवश्यक है।"
+
+msgid "Version mismatch!"
+msgstr "संस्करण बेमेल!"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr "यह चमड़ी एडऑन चमड़ी के %s संस्करण के लिए है. संस्थापित संस्करण %s है."
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "आप जारी रखना चाहते हैं? (आपकी त्वचा खराब हो सकती है)"
+
+msgid "&Continue"
+msgstr "जारी रखें"
+
+msgid "Ca&ncel"
+msgstr "रद्द करें"
+
+msgid "Failed to install \"%s\"."
+msgstr "\"%s\" इन्स्टोल करने में असफलता।"
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"यह एडओन स्किन पर पहले से लागु है।\n"
+"स्किन पर मात्र एक बार ही एड-ओन इन्स्टोल किया जा सकता है।"
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "एडओन मिलाने के लिए अस्थायी फोल्डर बनाने में असमर्थ।"
+
+msgid "Win"
+msgstr "विन्डोझ"
+
+msgid "Control"
+msgstr "कंट्रोल"
+
+msgid "Alt"
+msgstr "ओल्टर"
+
+msgid "Shift"
+msgstr "शिफ्ट"
+
+msgid "Back"
+msgstr "बेक"
+
+msgid "Tab"
+msgstr "टेब"
+
+msgid "Return"
+msgstr "रिटर्न"
+
+msgid "Esc"
+msgstr "ऍस्केप"
+
+msgid "Space"
+msgstr "स्पेस"
+
+msgid "Page Up"
+msgstr "पेज अप"
+
+msgid "Page Down"
+msgstr "पेज डाउन"
+
+msgid "Insert"
+msgstr "बीच में जोडें"
+
+msgid "NumLock"
+msgstr "न्युमरिक लोक"
+
+msgid "ScrollLock"
+msgstr "स्क्रोल लोक"
+
+msgid "Edit \"%s\""
+msgstr "संपादित करें \"%s\""
+
+msgid "Delete all"
+msgstr "सब मिटाएं"
+
+msgid "Dismiss alarm"
+msgstr "अलार्म खारिज करें "
+
+msgid "Tomorrow"
+msgstr "आनेवाला कल"
+
+msgid "Yesterday"
+msgstr "कल"
+
+msgid "Last %1"
+msgstr "आखरी %1"
+
+msgid "%1 next week"
+msgstr "%1 अगला सप्ताह"
+
+msgid "%1 last week"
+msgstr "%1 पीछला सप्ताह"
+
+msgid "%1 %2 weeks ago"
+msgstr "%1, %2 सप्ताहे पहले"
+
+msgid "%1 in %2 weeks"
+msgstr "%1, %2 सप्ताहे में"
+
+msgid " (Due in %s)"
+msgstr "(%s में देय)"
+
+msgid " (Overdue %s)"
+msgstr "(अतिदेय %s)"
+
+msgid "day"
+msgstr "दिन"
+
+msgid "days"
+msgstr "दिन"
+
+msgid "hour"
+msgstr "घंटा"
+
+msgid "hours"
+msgstr "घंटें"
+
+msgid "minute"
+msgstr "मिनट"
+
+msgid "minutes"
+msgstr "मिनट्स"
+
+msgid " (Due now)"
+msgstr "(अभी देय)"
+
+msgid "before target"
+msgstr "लक्ष्यांक से पहले"
+
+msgid "Snooze"
+msgstr "थोडी देर बाद"
+
+msgid "Dismiss"
+msgstr "खारिज"
+
+msgid "Edit..."
+msgstr "संपादित करें..."
+
+msgid "Move to next day"
+msgstr "अगले दिन पर जाएँ"
+
+msgid " (%i days)"
+msgstr " (%i दिन)"
+
+msgid "Edit event"
+msgstr "घटना सम्पादित करें"
+
+msgid "Delete event"
+msgstr "घटना रद्द करें"
+
+msgid "[Due %x]"
+msgstr "[बाकी %x]"
+
+msgid "No location"
+msgstr "कोई स्थान नहीं"
+
+msgid "No category"
+msgstr "अवर्गीकृत"
+
+msgid "No due date"
+msgstr "कोई देय तारिख नहीं"
+
+msgid "No start date"
+msgstr "कोई प्रारंभ तिथि नहीं"
+
+msgid "High Priority"
+msgstr "उच्च प्राथमिकता"
+
+msgid "Medium Priority"
+msgstr "मध्यम प्राथमिकता"
+
+msgid "Low Priority"
+msgstr "मिम्न प्राथमिकता"
+
+msgid "No Priority"
+msgstr "प्राथमिकता रहीत"
+
+msgid "Medium"
+msgstr "मध्यम"
+
+msgid "Expand"
+msgstr "विस्तार"
+
+msgid "Collapse"
+msgstr "निपात"
+
+msgid "New subtask"
+msgstr "नया उपकार्य"
+
+msgid "Edit task"
+msgstr "कार्य सम्पादित करें"
+
+msgid "Delete task"
+msgstr "कार्य रद्द करें"
+
+msgid "Todo list"
+msgstr "कार्य सूची"
+
+msgid "Completed to now"
+msgstr "अब तक पूरा हुआ"
+
+msgid "No events today."
+msgstr "आज कोई धटना नहीं हैं।"
+
+msgid "Today's events:"
+msgstr "आज की धटनाएं:"
+
+msgid "Invalid plugins found!"
+msgstr "अमान्य प्लग-इन मीला!"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"रेइनलेन्डर प्लग-इन फोल्डर में स्थित नीचे लिखी फाइलें\n"
+"अमान्य है। इसे निकालना आवश्यक हैः\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"सभी प्लग-इन का समान रेइनलेंडर संस्करण का होना आवश्यक है।"
+
+msgid "allow multiple instances"
+msgstr "एकाधिक बार चलाएं"
+
+msgid "install a skin or a language"
+msgstr "स्किन अथवा भाषा इन्स्टोल करें"
+
+msgid "import the given file"
+msgstr "दिया गया नत्थी आयात करें।"
+
+msgid "path where the configuration file will be stored"
+msgstr "यहां कोन्फिगरेशन फाइल का संग्रह होगा"
+
+msgid "execute the given function in a script"
+msgstr "एक स्क्रिप्ट के द्वारा दिया गया फंक्शन कार्यरत करें।"
+
+msgid "path where the log file will be stored"
+msgstr "यहां पर लोग नत्थी का संग्रह होगा"
+
+msgid "path where the backups will be stored"
+msgstr "पूर्तिकर संग्रह के लिए स्थान"
+
+msgid "add event or task to the calendar"
+msgstr "कैलेंडर में घटना या कार्य को जोडें"
+
+msgid "enable verbose logging"
+msgstr "विस्तृत लोगिंग समर्थ करें"
+
+msgid "enable debug logging"
+msgstr "डिबग लोगिंग समर्थ करें"
+
+msgid "disable all logging"
+msgstr "सभी लॉगिंग अक्षम करें"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr "पूर्तिकर की आयात एवं इन्स्टोल के पश्चात मेसेजबोक्स न दिखाएं।"
+
+msgid "Do you want to start another instance?"
+msgstr "क्यां आप नया अस्थित्व शुरू करना चाहते हैं?"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"लगता है, कि रेइनलेंडर पहले से चल रहा है। 'हां' पर क्लिक कर के आप नये अस्तित्व को चला सकते "
+"हैं।"
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"यदी ऐसा नहीं है, और रेइनलेंडर शुरु करने पर प्रत्येक बार यह प्रश्न पूछा जाता है,तो कृपयां इस "
+"फाईल को हटा देंः\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"यहां से संसाधनों को खोलने में असमर्थ: \n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "याद रहें, आप की घटनाएं तथा कार्य अक्षत रहेंगें।"
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"सेटिंग फ़ाइल गुम या खाली है \\ nक्या आप इसे नवीनतम बैक अप फ़ाइल से पुनर्स्थापित करना चाहते "
+"हैं?"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"कोन्फिगरेशन  नत्थी बनाने में असमर्थः\n"
+"\n"
+"%s\n"
+"\n"
+"यह देखें, की फोल्डर में लिखने की अनुमति है की नहीं।"
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"कोन्फिगरेशन  नत्थी में लिखना संभव नहीं है।\n"
+"\n"
+"%s\n"
+"\n"
+"यह देखें की आवश्यक अनुमति है।"
+
+msgid "You won't be able to store any settings permanently."
+msgstr "आप कोई भी सेटिंग हमेशा के लिए सेव नही कर सकेंगे।"
+
+msgid "This is a BETA version."
+msgstr "यह बीटा संस्करण है।"
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"आप रेइनलेंडर के बीटा संस्करण का उपयोग कर रहे हैं। यह संस्करण जांचा हुआ तथा प्रतिदिन उपयोग "
+"के लिए उचित नहीं है।\n"
+"\n"
+"सभी दोष को www.rainlendar.net पर रेइनलेंडर के BETA forum में व्यक्त करें।\n"
+"\n"
+"(यह सूचना मात्र एक ही बार दिखाई जाएगी)"
+
+msgid "Google Calendar support has been changed"
+msgstr "Google कैलेंडर समर्थन बदल दिया गया है"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"Google कैलेंडर समर्थन अब एक अलग कैलेंडर प्रकार का उपयोग करता हैGoogle ईवेंट को फिर से "
+"दिखाने के लिए आपको एक नया कैलेंडर बनाना होगा और कैलेंडर प्रकार के रूप में 'Google कैलेंडर "
+"(v3 )' चुनना होगा"
+
+msgid "Everything is hidden."
+msgstr "सब कुछ गोपनीय है।"
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"ऐसा लगता है, की सभी विन्डो तथा ट्रे-आइकन गोपनिय है। क्या यह आपने जानबूझ कर किया है?\n"
+"\n"
+"यदि आप सबकुः गोपनिय हि रखना तथा यह संवाद दोबारा नहींदेखना चाहते है , तो 'हां' पर "
+"क्लिक करें. 'सभी विन्डो को दोबारा दृश्यमान करने के लिए 'ना' पर क्लिक करें।"
+
+msgid "Startup error!"
+msgstr "प्रारंभ दोष!"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"रेइनलेन्डर सही प्रकार से सेटिंग्स ताज़ा करने में असमर्थ। आप सभी सेटिंग्स पुनर्स्थापित करके "
+"दोबारा प्रयत्न करना चाहते हैं या पूर्तिकर संस्करण का उपयोग करना चाहते हैं?"
+
+msgid "&Reset"
+msgstr "रिसेट"
+
+msgid "&Use backup"
+msgstr "पूर्तिकर का उपयोग करें"
+
+msgid "&Keep"
+msgstr "रखें"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"यहां कोई स्किन उपलब्ध नहीं हैः\n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"रेइनलेन्डर चयनित स्किन को लोड करने में असमर्थ| क्या आप डिफ़ॉल्ट स्किन का उपयोग करना चाहते "
+"हैं?"
+
+msgid "Unable to load the skin!"
+msgstr "स्किन लोड करने में असमर्थ!"
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr ""
+"चयक किया गया स्किन खूलता नहीं है। अधिक जानकारी आप रेइनलेंडर का लोग में देख सकते हैं।"
+
+msgid "&Ok"
+msgstr "ठीक"
+
+msgid "&Show log"
+msgstr "लोग दिखाएं"
+
+msgid "Yes"
+msgstr "हां"
+
+msgid "No"
+msgstr "नहीं"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr ""
+"लायसेंस फ़ाइल रिक्त है"
+"लायसेंस फ़ाइल डाउनलोड करते समय पूर्ण URL का उपयोग करना सुनिश्चित करें"
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"लायसेंस फ़ाइल मान्य नहीं है"
+"आपने लायसेंस डाउनलोड किए जाने की संख्या को पार कर लिया है"
+"अधिक जानकारी के लिए Rainlendar के समर्थन से संपर्क करें"
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"लायसेंस फ़ाइल में मान्य स्वरूप नहीं है"
+"सुनिश्चित करें कि आप सही लायसेंस फ़ाइल का उपयोग कर रहे हैं"
+"यदि त्रुटि बनी रहती है, तो आप फ़ाइल को पुन: डाउनलोड करने का प्रयास भी कर सकते हैं"
+
+msgid "Skin error!"
+msgstr "त्वचा की गलती!"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"Shadow4 में 'Large Calendar' स्किन विंडो को डिफ़ॉल्ट 'Calendar' विंडो के लिए 'Large' "
+"विकल्प के साथ बदल दिया गया हैत्वचा को रीसेट करने के लिए OK पर क्लिक करें"
+
+msgid "Use large default skin?"
+msgstr "बड़ी डिफ़ॉल्ट त्वचा का उपयोग करें?"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"आपके स्क्रीन रिज़ॉल्यूशन के लिए डिफ़ॉल्ट मान बहुत छोटे हो सकते हैंक्या आप बड़े फोंट और खिड़कियों "
+"का उपयोग करना चाहते हैं?"
+
+msgid "&Large"
+msgstr "बड़ा"
+
+msgid "&Small"
+msgstr "छोटा"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"पुरानी रेइनलेंडर नत्थी मिली हैः\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "क्या आप इन्हें आयात करना चाहते हैं?"
+
+msgid "Import failed with file: \"%s\""
+msgstr "एस नत्थी का आयात असफल: \"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "रेइनलेंडर-2 खरीदें?"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"मुझे आशा है, की पीछले एक महिने के दौरान रेइनलेंडर का उपयोग कर के आप खुश है। क्या अधिक "
+"विशेषता के लिए आप व्यावसायिक संस्करण खरीदना चाहेंगें? 'अभी खरीदें' लिंक का उपयोग करने पर "
+"आपको अनुज्ञापत्र कि किमत में छूट मिलेगी।  \"नहीं, शुक्रिया\" बटन पर क्लिक करने से यह सूचना "
+"दोबारा नहीं दि जाएगी।\n"
+"\n"
+"प्रोत्साहन के लिए आपका शुक्रिया।"
+
+msgid "&Buy Now"
+msgstr "अभी खरीदें"
+
+msgid "&Remind later"
+msgstr "बाद में"
+
+msgid "&No Thanks"
+msgstr "नहीं, शुक्रिया"
+
+msgid "Ok"
+msgstr "ठीक"
+
+msgid "Update"
+msgstr "अद्यतन"
+
+msgid "Make a selection:"
+msgstr "चयन करेंः"
+
+msgid "Hide Windows"
+msgstr "विन्ड़ोझ छिपाएं"
+
+msgid "Show Windows"
+msgstr "विन्ड़ोझ दिखाओ"
+
+msgid "Toggle Windows"
+msgstr "विन्ड़ोझ को बदलें"
+
+msgid "Toggle Today Window"
+msgstr "आज विंडो टॉगल करें"
+
+msgid "Create New Task"
+msgstr "नया टास्क बनाएं"
+
+msgid "Create New Event"
+msgstr "नयी घटना बनाएं"
+
+msgid "Create new event or task"
+msgstr "नयी घटना या कार्य"
+
+msgid "Quit Application"
+msgstr "एप्लिकेशन बंद"
+
+msgid "Business"
+msgstr "व्यवसाय"
+
+msgid "Calls"
+msgstr "कॉलस्"
+
+msgid "Clients"
+msgstr "ग्राहको"
+
+msgid "Competition"
+msgstr "प्रतियोगिता"
+
+msgid "Customer"
+msgstr "ग्राहक"
+
+msgid "Exam"
+msgstr "परीक्षा"
+
+msgid "Favorites"
+msgstr "पसंदीदा"
+
+msgid "Follow Up"
+msgstr "आगे की कार्यवाही"
+
+msgid "Gifts"
+msgstr "उपहार"
+
+msgid "Holidays"
+msgstr "छुट्टीयां"
+
+msgid "Ideas"
+msgstr "सुझ़ाव"
+
+msgid "Important"
+msgstr "महत्वपूर्ण"
+
+msgid "Issues"
+msgstr "मामले"
+
+msgid "Miscellaneous"
+msgstr "विविध"
+
+msgid "Personal"
+msgstr "व्यक्तिगत"
+
+msgid "Projects"
+msgstr "योजनाएं"
+
+msgid "Public Holiday"
+msgstr "सार्वजनिक छुट्टी"
+
+msgid "Suppliers"
+msgstr "आपूर्तिकर्ता"
+
+msgid "Travel"
+msgstr "यात्रा"
+
+msgid "Trip"
+msgstr "दौरा"
+
+msgid "TV"
+msgstr "टीवी"
+
+msgid "Vacation"
+msgstr "छुट्टी"
+
+msgid "Work"
+msgstr "व्यवसाय"
+
+msgid "Medical"
+msgstr "आरोग्यलक्षी"
+
+msgid "Urgent"
+msgstr "अत्यावश्यक"
+
+msgid "Health"
+msgstr "आरोग्य"
+
+msgid "Sport"
+msgstr "खेल कूद"
+
+msgid "Game"
+msgstr "गेम"
+
+msgid "School"
+msgstr "विध्यालय"
+
+msgid "Party"
+msgstr "पार्टी"
+
+msgid "Movie"
+msgstr "फिल्म"
+
+msgid "Car"
+msgstr "कार"
+
+msgid "Payments"
+msgstr "भुगतान"
+
+msgid "Money"
+msgstr "रुपया पैसा"
+
+msgid "Pets"
+msgstr "पालतु"
+
+msgid "Theatre"
+msgstr "रंगभूमि"
+
+msgid "Music"
+msgstr "संगीत"
+
+msgid "[Black]"
+msgstr "[वापस]"
+
+msgid "[Blue]"
+msgstr "[नीला]"
+
+msgid "[Brown]"
+msgstr "[बादामी]"
+
+msgid "[Cyan]"
+msgstr "[आसमानी]"
+
+msgid "[Green]"
+msgstr "[हरा]"
+
+msgid "[Grey]"
+msgstr "[सीलेटीया]"
+
+msgid "[Magenta]"
+msgstr "[जामूनी]"
+
+msgid "[Pink]"
+msgstr "[गुलाबी]"
+
+msgid "[Red]"
+msgstr "[लाल]"
+
+msgid "[Yellow]"
+msgstr "[पीला]"
+
+msgid "[Orange]"
+msgstr "[नारंगी]"
+
+msgid "Must Attend"
+msgstr "पहुंचना आवश्यक"
+
+msgid "Travel Required"
+msgstr "यात्रा अनिवार्य"
+
+msgid "Needs Preparation"
+msgstr "तैयारी आवश्यक है।"
+
+msgid "Phone Call"
+msgstr "फॉन कॉल"
+
+msgid "iCalendar Format"
+msgstr "iकेलेन्डर स्वरूप"
+
+msgid "Network Shared Calendar"
+msgstr "नेटवर्क सहभाजी केलेन्डर"
+
+msgid "Microsoft Outlook"
+msgstr "माइक्रोसोफ्ट आउटलूक"
+
+msgid "Rainlendar Ini Format"
+msgstr "रेइन्लेंडर Ini स्वरूप"
+
+msgid "Google Calendar"
+msgstr "गूगल केलेन्डर"
+
+msgid "CalDAV Calendar"
+msgstr "CalDAV कैलेंडर"
+
+msgid "Google Calendar (v3)"
+msgstr "गूगल कैलेंडर (v3)"
+
+msgid "Google Tasks"
+msgstr "Google कार्य"
+
+msgid "Comma Separated Values"
+msgstr "कौमा पृथक मान प्रारूप"
+
+msgid "&Next >"
+msgstr "आगे>"
+
+msgid "< &Back"
+msgstr "<बेक"
+
+msgid "&Finish"
+msgstr "पूर्ण>"
+
+msgid "Vertical Calendar"
+msgstr "सीधा केलेन्डर"
+
+msgid "Year Calendar"
+msgstr "वार्षिक केलेन्डर"
+
+msgid "Sidebar"
+msgstr "साइडबार"
+
+msgid "DigiClock"
+msgstr "डिजिक्लोक"
+
+msgid "Dual Calendar"
+msgstr "दोहरा केलेन्डर"
+
+msgid "Todo List"
+msgstr "कार्य सूची"
+
+msgid "Grid Calendar"
+msgstr "ग्रीड केलेन्डर"
+
+msgid "Vertical Line Calendar"
+msgstr "सीधी रेखावाला केलेन्डर"
+
+msgid "Horizontal Line Calendar"
+msgstr "आडी रेखावाला केलेन्डर"
+
+msgid "Visible month"
+msgstr "दर्शनक्षम महिना"
+
+msgid "Show buttons"
+msgstr "बटन दिखाएं"
+
+msgid "Show adjacent days"
+msgstr "नजदिकी दिवस दिखाएं"
+
+msgid "Eventlist max height"
+msgstr "घटना सूची अधिकतम ऊंचाई"
+
+msgid "Todolist max height"
+msgstr "Todolist अधिकतम ऊंचाई"
+
+msgid "Show week numbers"
+msgstr "सप्ताह की संख्या दिखाएं"
+
+msgid "Format"
+msgstr "स्वरूप"
+
+msgid "Timezone"
+msgstr "समय क्षेत्र"
+
+msgid "Label"
+msgstr "लेबल"
+
+msgid "Show 3rd month"
+msgstr "तिसरा महिना दिखाएं"
+
+msgid "Show 4th month"
+msgstr "चौथा महिना दिखाएं"
+
+msgid "Show 5th month"
+msgstr "पांचावा महिना दिखाएं"
+
+msgid "Show 6th month"
+msgstr "छठा महिना दिखाएं"
+
+msgid "Show 7th month"
+msgstr "सातवा महिना दिखाएं"
+
+msgid "Show 8th month"
+msgstr "आठवा महिना दिखाएं"
+
+msgid "Color"
+msgstr "रंग"
+
+msgid "Analog Clock"
+msgstr "अनालोग घडी"
+
+msgid "Calendar List"
+msgstr "केलेन्डर सूची"
+
+msgid "X count"
+msgstr "एक्स गिनती"
+
+msgid "Y count"
+msgstr "वाई गिनती"
+
+msgid "Snooze All"
+msgstr "थोडी देर बाद"
+
+msgid "Dismiss All"
+msgstr "सब रद्द"
+
+msgid "To do"
+msgstr "कार्यसूची"
+
+msgid "Today color"
+msgstr "आज का रंग"
+
+msgid "Today shape"
+msgstr "आज का आकार"
+
+msgid "Circle"
+msgstr "वृत्त"
+
+msgid "Rectangle"
+msgstr "चतुष्कोण"
+
+msgid "Slim circle"
+msgstr "पतला वृत्त"
+
+msgid "Slim rectangle"
+msgstr "पतला चौरस"
+
+msgid "Red"
+msgstr "लाल"
+
+msgid "Orange"
+msgstr "नारंगी"
+
+msgid "Yellow"
+msgstr "पीला"
+
+msgid "Green"
+msgstr "हरा"
+
+msgid "Cyan"
+msgstr "आसमानी"
+
+msgid "Blue"
+msgstr "नीला"
+
+msgid "Magenta"
+msgstr "जामूनी"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"विख्यात क्षदोव३-स्किन का उत्तरीय भाग, पीछले एवं अगले महिनों के दृश्यमान दिन तथा एक "
+"स्किन्ड उपकरण विवरण जैसी कुछ विशिष्टताओं के साथ।"
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"केलेन्डर में दिखाया जानेवाला महिना निश्चित करता है। +1 से अगला महिना, -1 से पीछला "
+"महिना तथा 1 से 12 के अंक से वर्तमान वर्ष का निश्चित महिना निश्चित करें।"
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr "केलेन्डर से अगला एवं पीछला बटन बंद करने के लिये इसे चयन करें।"
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr "केलेन्डर से अगले एवं पीछले दिनों को बंद करने के लिये इसे चयन करें।"
+
+msgid "Defines the maximum height of the alarm."
+msgstr "अलार्म की अधिकतम ऊंचाई पारिभाषित करता है. "
+
+msgid "Defines the maximum height of the event list."
+msgstr "घटना सूची की अधिकतम ऊंचाई परिभाषित करता है."
+
+msgid "Defines the maximum height of the to do list."
+msgstr "करने के लिए सूची की अधिकतम ऊंचाई को परिभाषित करता है।"
+
+msgid "Defines the width of the calendar list."
+msgstr "केलेन्डर सूची की चौडाई निश्चित करता है।"
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "केलेन्डर में से सप्ताह की संख्या छिपाने के लिये मिटाएं।"
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr "घडी का स्वरूप निश्चित करें। सेकंड्झ को बंद करने के लिए %H:%M या %#I:%M %p"
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"समयक्षेत्र निश्चित करता है। एक नंबर पर सेट करेंः... -3, -2, -1, 0, +1, +2, +3, ... । "
+"आप सीईटी, ईएसटी, पीएसटी, A_CST,... जैसे मूल्यों का भी उपयोग कर सकते हैं।"
+
+msgid "Adds a label for the clock."
+msgstr "घडी के लिए लेबल जोडता है।"
+
+msgid "Defines the color of the today marker."
+msgstr "आज के चिह्नांकन का रंग निश्चित करता है।"
+
+msgid "Defines the shape of the today marker."
+msgstr "आज के चिह्नांकन का आकार निश्चित करता है।"
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "विन्डो में आडी दिशा में केलेन्डर की संख्या निश्चित करता है।"
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "विन्डो में खडी दिशा में केलेन्डर की संख्या निश्चित करता है।"
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "केलेन्डर से सप्ताह के दिनों के नाम छुपाने के लिए अनचेक करें।"
+
+msgid "Week View"
+msgstr "सप्ताह दृश्य"
+
+msgid "Today position"
+msgstr "आज का स्थान"
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"आज का स्थान निश्चित करता है। प्रवर्तमान 0 निश्चित करने से सप्ताह दृश्य एक पूरा केलेन्डर "
+"सप्ताह दिखाता है, तथा आज का स्थान बदलता है। 1 से 7 निश्चित करने से आज का स्थान उसी "
+"स्थान पर निश्चित हो जाता है तथा दुसरे दिनों का स्थान उस के हिसाब से बदलता रहता है।"
+
+msgid "Autoscroll"
+msgstr "ऑटोस्क्रोल"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "ऑटोस्क्रोल को असमर्थ करने के लिए अनचेक करें।"
+
+msgid "Week view date format"
+msgstr "सप्ताह दर्शन तारीख स्वरूप"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr "समयसारणी में तारीख का स्वरूप निश्चित करता है। प्रवर्तमान स्वरूप %#d.%#m है।"
+
+msgid "Week view time format"
+msgstr "सप्ताह दर्शन समय स्वरूप"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"समयसारणी में समय का स्वरूप निश्चित करता है। प्रवर्तमान स्वरूप %H:%M है। एकएम / पीएम "
+"स्वरूप के लिए %#I %p का उपयोग करें।"
+
+msgid "Time item height"
+msgstr "समय की ऊंचाई"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr "दर्शन में समय की ऊंचाई निश्चित करता है। प्रवर्तमान संख्या 30 बिंदु है।"
+
+msgid "Time item duration"
+msgstr "समय की अवधि"
+
+msgid "60 Minutes"
+msgstr "60 मिनिट्स"
+
+msgid "30 Minutes"
+msgstr "30 मिनिट्स"
+
+msgid "15 Minutes"
+msgstr "15 मिनिट्स"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr "दर्शन में समय की अवधि निश्चित करता है। प्रवर्तमान संख्या 60 मिनिट है।"
+
+msgid "All day max height"
+msgstr "पुरे दिन की अधिकतम ऊंचाई"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"पूर्ण दिवस घटना स्थान की महत्तम ऊंचाई निश्चित करता है। जो घटना इस स्थान में नहीं समा "
+"सके, उस के लिए एक स्क्रोलबार दिखेगा।"
+
+msgid "Event min height"
+msgstr "घटना न्यूनतम ऊंचाई"
+
+msgid "The minimum height of the event."
+msgstr "घटना की न्यूनतम ऊंचाई।"
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "दर्शन में सप्ताह की संख्या छुपाने के लिए अनचेक करें।"
+
+msgid "Show weekdays"
+msgstr "कार्यदिवस दिखाएं"
+
+msgid "Day View"
+msgstr "दिन दर्शन"
+
+msgid "Day view time format"
+msgstr "दिन दर्शन समय स्वरूप"
+
+msgid "Day view date format"
+msgstr "दिन दर्शन तारीख स्वरूप"
+
+msgid "Month View"
+msgstr "महिना-दर्शन"
+
+msgid "Show background"
+msgstr "पृष्ठभूमि दिखाएं"
+
+msgid "Uncheck to make the background transparent."
+msgstr "पृष्ठभूमि पारदर्शक बनाने के लिए अनचेक करें।"
+
+msgid "Large Calendar"
+msgstr "बड़ा केलेन्डर"
+
+msgid "Today window max height"
+msgstr "आज विंडो अधिकतम ऊंचाई"
+
+msgid "Defines the maximum height of the today window."
+msgstr "आज विंडो की अधिकतम ऊंचाई परिभाषित करता है."
+
+msgid "Today show tasks"
+msgstr "आज कार्य दिखाएं"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr "परिभाषित करता है कि क्या कार्यों को आज विंडो में दिखाया जाना चाहिए।"
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"इस स्किन में एकाधिक रंग विविधता है। आप इसे स्किन के सेटिंग के द्वारा या केलेन्डर से डाउन-एरो "
+"पर क्लिक कर के बदल सकते हैं।"
+
+msgid "Brown"
+msgstr "बादामी"
+
+msgid "Dark"
+msgstr "गहरा"
+
+msgid "Colorless"
+msgstr "रंगहीन"
+
+msgid "Defines the color of the windows."
+msgstr "इस से विन्डो का रंग निश्चित होता है।"
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr "इस से घटना-सूची के शीर्षक पर तारिख का स्वरूप निश्चित होता है।"
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr "घटनासूची की महात्तम ऊंचाई निश्चित करें। प्रवर्तमान संख्या 300 बिंदु है।"
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr "कार्यसूची की महात्तम ऊंचाई निश्चित करें। प्रवर्तमान संख्या 300 बिंदु है।"
+
+msgid "Removes the color from the windows."
+msgstr "खिड़की से रंग उतरता है।"
+
+msgid "Creates darker version of the windows."
+msgstr "विंडो का गहरा संस्करण बनाता है. "
+
+msgid "All day"
+msgstr "पुरा दिन"
+
+msgid "Day bar show day"
+msgstr "दिन बार शो दिन"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr "परिभाषित करता है अगर दिन की संख्या और नाम दिन पट्टी में दिखाए गए हैं."
+
+msgid "Day bar am-pm"
+msgstr "दिन बार am - pm"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "12 घंटे की घड़ी के साथ समय दिखाने के लिए जांचें।"
+
+msgid "Bar event"
+msgstr "बार घटना"
+
+msgid "The event color for the bars."
+msgstr "सलाखों के लिए घटना रंग."
+
+msgid "Conditions: "
+msgstr "शर्तेंः"
+
+msgid "Temperature: "
+msgstr "उष्णतामानः"
+
+msgid "Humidity: "
+msgstr "आर्द्रताः"
+
+msgid "Winds: "
+msgstr "विन्डोझ"
+
+msgid "Time: "
+msgstr "समयः"
+
+msgid "Refreshing..."
+msgstr "ताज़ा हो रहा है..."
+
+msgid "Downloading: "
+msgstr "डाउनलोडिंगः"
+
+msgid "Download failed!"
+msgstr "डाउनलोड असफल!"
+
+msgid "Loading..."
+msgstr "लोडिंग..."
+
+msgid "Unknown result!"
+msgstr "अज्ञात परिणाम"
+
+msgid "Upcoming programs:"
+msgstr "आगामी कार्यक्रमः"
+
+msgid "Parsing failed!"
+msgstr "पार्सिंग असफल!"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr "दिन      घंटे       मिनट्स      सेकंड्स"
+
+msgid "Loading feed..."
+msgstr "लोडिंग फिड..."
+
+msgid "Lo: "
+msgstr "निम्नः"
+
+msgid "Hi: "
+msgstr "उच्चः"
+
+msgid "Min:"
+msgstr "निम्नोत्तमः"
+
+msgid "Max:"
+msgstr "उच्चतमः"
+
+msgid "Chance of precipitation: "
+msgstr "शीघ्र गति की संभावनाः"
+
+msgid "New moon"
+msgstr "नया चांद"
+
+msgid "Waxing crescent"
+msgstr "वेक्सिंग क्रेसन्ट"
+
+msgid "First quarter"
+msgstr "प्रथम चौथाई"
+
+msgid "Waxing gibbous"
+msgstr "वेक्सिंग गिब्बस"
+
+msgid "Full moon"
+msgstr "पूर्णिमा"
+
+msgid "Waning gibbous"
+msgstr "वेनिंग गिब्बस"
+
+msgid "Last quarter"
+msgstr "आखरी चौथाई"
+
+msgid "Waning crescent"
+msgstr "वेनिंग क्रेसन्ट"
+
+msgid "Southern hemisphere"
+msgstr "दक्षिणी गोलार्ध"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr "दक्षिणी गोलार्ध से दृश्य के लिए फेझिस को 1 पर निश्चित करें"
+
+msgid "World Time"
+msgstr "विश्व समय"
+
+msgid "World time format"
+msgstr "विश्व समय स्वरूप"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"समय का स्वरूप निश्चित करता है। प्रवर्तमान स्वरूप %H:%M है। AM/PM स्वरूप के लिए %#I:%M %p "
+"स्वरूप का उपयोग करें।"
+
+msgid "World time location 1"
+msgstr "विश्व समय स्थान 1"
+
+msgid "Defines the title for the time."
+msgstr "समयावधि के लिए शीर्षक निश्चित करता है।"
+
+msgid "World time timezone 1"
+msgstr "विश्व समय समय-क्षेत्र 1"
+
+msgid "World time location 2"
+msgstr "विश्व समय स्थान 2"
+
+msgid "World time timezone 2"
+msgstr "विश्व समय समय-क्षेत्र 2"
+
+msgid "World time location 3"
+msgstr "विश्व समय स्थान 3"
+
+msgid "World time timezone 3"
+msgstr "विश्व समय समय-क्षेत्र 3"
+
+msgid "World time location 4"
+msgstr "विश्व समय स्थान 3"
+
+msgid "World time timezone 4"
+msgstr "विश्व समय समय-क्षेत्र 4"
+
+msgid "Photos"
+msgstr "चित्र"
+
+msgid "Weather"
+msgstr "मौसम"
+
+msgid "Countdown"
+msgstr "उल्टी गिनती"
+
+msgid "RSS"
+msgstr "आरएसएस"
+
+msgid "Create New"
+msgstr "नया बनाएं"
+
+msgid "Moon Phase"
+msgstr "चंद्रमा चरण"
+
+msgid "QuickAdd"
+msgstr "तत्काल जोडें"
+
+msgid "Translate"
+msgstr "अनुवाद करें"
+
+msgid "Text File"
+msgstr "टेक्स्ट फाइल"
+
+msgid "RSS height"
+msgstr "आरएसएस ऊंचाई"
+
+msgid "Defines the maximum height of the list."
+msgstr "सूची की अधिकतम ऊंचाई परिभाषित करता है."
+
+msgid "RSS location"
+msgstr "आरएसएस स्थान"
+
+msgid "Location of the RSS feed."
+msgstr "आरएसएस फिड का स्थान।"
+
+msgid "Weather location"
+msgstr "मौसम का स्थान"
+
+msgid "Location of the weather feed."
+msgstr "मौसम फिड का स्थान"
+
+msgid "Weather city"
+msgstr "मौसम शहर"
+
+msgid "The city for the weather."
+msgstr "मौसम के लिए शहर"
+
+msgid "Weather language"
+msgstr "ऋतु भाषा"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr "मौसम की भाषा। hi, en, fi, ru, zh-cn, ... जैसे भाषा के संक्षेप का उपयोग करें।"
+
+msgid "Photos random"
+msgstr "अनियमित चित्र"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr "चित्र क्रमबद्ध दर्शाने के लिए अनचेक करें। चेक से क्रमबद्ध दिखाई देंगे।"
+
+msgid "Photos update"
+msgstr "चित्र अद्यतन"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "चित्र कितनी बार उपडेट हो, यह निश्चित करें। इस का मूल्य मिनिट में है।"
+
+msgid "Photos folder"
+msgstr "चित्र का फोल्डर"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"फोटो का स्थानिक फोल्डर निश्चित करता है। यदि इसे खाली रखा गया तो चित्र फ्लिकर से "
+"डाउनलोड होंगे।"
+
+msgid "Countdown event"
+msgstr "उलटी गिनती घटना"
+
+msgid "The description of the event."
+msgstr "घटना का विवरण।"
+
+msgid "Countdown time"
+msgstr "उलटी गिनती अवधि"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "घटना का समय। एचएच:एमएम:एस एस स्वरूप का उपयोग करें।"
+
+msgid "Countdown date"
+msgstr "उल्टी गिनती की तारीख"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "घटना की तारीख। YYYY-MM-DD स्वरूप का उपयोग करें।"
+
+msgid "TV height"
+msgstr "टीवी ऊंचाई"
+
+msgid "Copy to clipboard"
+msgstr "क्लिपबोर्ड पर कोपी करें"
+
+msgid "File path"
+msgstr "नत्थी स्थान"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "विन्डो में दर्शित नत्थी का नाम तथा पता निश्चित करता है।"
+
+msgid "No file given"
+msgstr "कोई नत्थी नहीं दिया गया।"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr "विन्डोझ के सेटिंग में जा कर पाथ वेरिएबल को टेक्स्ट नत्थी की तरफ निर्देश दें।"
+
+msgid "File window full rows"
+msgstr "विन्डो के संपूर्ण पंक्तिओं को भर दें।"
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr "सभी पंक्तिओं को दिखाने के लिए चेक करें अनचेक से रेखाएं कट जाती हैं।"
+
+msgid "File window width"
+msgstr "नत्थी विन्डो चौडाई"
+
+msgid "The width of the calendar window."
+msgstr "केलेन्डर विन्डो की चौडाई"
+
+msgid "The height of the calendar window."
+msgstr "केलेन्डर विन्डो की ऊंचाई"
+
+msgid "Defines the width of the event list."
+msgstr "घटना-सूची की वर्तमान चौड़ाई निश्चित करता है।"
+
+msgid "Defines the width of the to do list."
+msgstr "कार्यसूची की चौड़ाई निश्चित करता है।"
+
+msgid "Defines the width of the quickadd window."
+msgstr "इस से तत्काल-जोड़ विन्डो की चौडाई निश्चित होती है।"
+
+msgid "Defines the width of the day view window."
+msgstr "इस से दिवस दर्शाने की विन्डो की चौडाई निश्चित होती है।"
+
+msgid "Defines the height of the day view window."
+msgstr "इस से दिवस दर्शाने की विन्डो की ऊंचाई निश्चित होती है।"
+
+msgid "Defines the width of the week view window."
+msgstr "इस से सप्ताह दर्शाने की विन्डो की चौडाई निश्चित होती है।"
+
+msgid "Defines the height of the week view window."
+msgstr "इस से सप्ताह दिखाने की विन्डो की उंछाई निश्चित होती है।"
+
+msgid "Defines the width of the calendar window."
+msgstr "इस से केलेन्डर विन्डो की चौडाई निश्चित होती है।"
+
+msgid "Defines the height of the calendar window."
+msgstr "केलेन्डर विन्डो की चौडाई निश्चित करता है।"
+
+msgid "ctrl"
+msgstr "कंट्रोल"
+
+msgid "alt"
+msgstr "ओल्टर"
+
+msgid "shift"
+msgstr "शिफ्ट"
+
+msgid "Mark as completed"
+msgstr "संपूर्ण के नाम से अंकित करें"
+
+msgid "Mark as needs action"
+msgstr "ध्यान देने योग्य के नाम से अंकित करें"
+
+msgid "Recurring"
+msgstr "पुनरावृत्तित"
+
+msgid "Description"
+msgstr "वर्णन"
+
+msgid "Text color"
+msgstr "टेक्स्ट का रंग"
+
+msgid "Tooltip color"
+msgstr "उपकरण विवरण का रंग"
+
+msgid "Black"
+msgstr "काला"
+
+msgid "White"
+msgstr "सफेद"
+
+msgid "Light grey"
+msgstr "हलका बादामी"
+
+msgid "Light pink"
+msgstr "हलका गुलाबी"
+
+msgid "Grey"
+msgstr "सिलेटिया"
+
+msgid "Pink"
+msgstr "गुलाबी"
+
+msgid "Schedule background"
+msgstr "समयसारणी पृष्ठभूमि"
+
+msgid "The background color for the day, week and month views."
+msgstr "दिन, सप्ताह तथा महिना दर्शन के लिए पृष्ठभूमि का रंग"
+
+msgid "Schedule text color"
+msgstr "समयसारणी टेक्स्ट का रंग"
+
+msgid "The text color for the day, week and month views."
+msgstr "दिन, सप्ताह तथा महिना दर्शन के लिए टेक्स्ट का रंग"
+
+msgid "Calendar day color"
+msgstr "केलेन्डर दिन का रंग"
+
+msgid "Large calendar day color"
+msgstr "बडे केलेन्डर के दिन का रंग"
+
+msgid "The color for the days in the calendar."
+msgstr "केलेन्ड के दिवस के अक्षरों का रंग।"
+
+msgid "Calendar day text color"
+msgstr "केलेन्डर दिन टेक्स्ट का रंग"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "केलेन्ड के दिवस के आंकडों का रंग।"
+
+msgid "Small icon"
+msgstr "छोटे आइकन"
+
+msgid "The icon which is shown in the calendar."
+msgstr "केलेन्डर में दर्शित आइकन।"
+
+msgid "Large icon"
+msgstr "बडे आइकन"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "घटना एवं कार्यसूची में दर्शित आइकन।"
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "सूची एवं उपकरण विवरण में पाठ का रंग।"
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr ""
+"एक ही दिन में एकाधिक वर्ग होने पर दिखाये जाने वाले वर्गकी प्रथमिकता निश्चित करता है।"
+
+msgid "Schedule text shadow color"
+msgstr "समयसारणी पाठ छाया का रंग"
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "दिन, सप्ताह तथा महिना दर्शन के लिए पाठ छाया का रंग।"
+
+msgid "Calendar day text shadow color"
+msgstr "केलेन्डर पाठ छाया का रंग"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "केलेन्ड के दिवस के आंकडों की छाया का रंग।"
+
+msgid "Text shadow color"
+msgstr "पाठ छाया का रंग"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "सूची तथा उपकरण विवरण में पाठ छाया का रंग"
+
+msgid "Show date"
+msgstr "तारिख दिखाएं"
+
+msgid "Check to show also the current date."
+msgstr "वर्तमान तारिख भी देखने के लिए चेक करें।"
+
+msgid "This defines the format of the time."
+msgstr "इस से समय का स्वरूप निश्चित होता है।"
+
+msgid "This defines the format of the date."
+msgstr "इस से तारिक का स्वरूप निश्चित होता है।"
+
+msgid "Search"
+msgstr "खोजें"
+
+msgid "Search engine"
+msgstr "सर्च-एंजिन"
+
+msgid "Choose the search engine"
+msgstr "सर्च-एंजिन खोजें"
+
+msgid "Enter search text"
+msgstr "खोजने के लिए पाठ एंटर करें"
+
+msgid "Show title"
+msgstr "शीर्षक दिखाएँ"
+
+msgid "Check to show a title text."
+msgstr "शीर्षक पाठ दिखाने के लिए चेक करें।"
+
+msgid "Title text"
+msgstr "शीर्षक पाठ"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "समय के ऊपर दिखता शीर्षक पाठ निश्चित करता है।"
+
+msgid "Weather woeid"
+msgstr "मौसम woeid"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "मौसम स्थान के लिए याहू woeid।"
+
+msgid "Weather celsius"
+msgstr "मौसम सेल्सियस"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "अगर चेक किया जाए तो तापमान को सेल्सियस में दिखाया जाता है।"
+
+msgid "Bold blue"
+msgstr "बोल्ड ब्लू"
+
+msgid "Turquoise"
+msgstr "color"
+
+msgid "Bold green"
+msgstr "बोल्ड ग्रीन"
+
+msgid "Bold red"
+msgstr "बोल्ड लाल"
+
+msgid "Purple"
+msgstr "बैंगनी"
+
+msgid "Gray"
+msgstr "सलेटी"
+
+msgid "No events today"
+msgstr "आज कोई घटना नहीं"
+
+msgid "No tasks today"
+msgstr "आज कोई कार्य नहीं"
+
+msgid "Background opacity"
+msgstr "पृष्ठभूमि अपारदर्शिता"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr ""
+"विंडो पृष्ठभूमि की अस्पष्टता पारिभाषित करता है. 0 और 100 के बीच मान का उपयोग करें।"
+
+msgid "Snooze menu"
+msgstr "स्नूज़ मेन्यू"
+
+msgid "Pressure: "
+msgstr "दबाव"
+
+msgid "UV index: "
+msgstr "यूवी सूचकांक:"
+
+msgid "Feels like: "
+msgstr "ऐसा लगता है:"
+
+msgid "Sunrise: "
+msgstr "सूर्योदयः"
+
+msgid "Sunset: "
+msgstr "सूर्यास्तः"
+
+msgid "Tonight"
+msgstr "आज रात।"
+
+msgid "Menu"
+msgstr "मेन्यू"
+
+msgid "Large"
+msgstr "बड़ा"
+
+msgid "Use large images and more space between the items."
+msgstr "बड़ी छवियों और आइटम के बीच अधिक जगह का उपयोग करें।"
+
+msgid "Alarm max height"
+msgstr "अलार्म अधिकतम ऊंचाई"
+
+msgid "Horizontal Day Bar"
+msgstr "क्षैतिज दिन बार"
+
+msgid "Vertical Day Bar"
+msgstr "वर्टिकल डे बार"
+
+msgid "Day bar show text"
+msgstr "डे बार शो टेक्स्ट"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "घटनाओं से ग्रंथों को छिपाने के लिए अनचेक करें।"
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "केलेन्डर तथा सूची में पाठ का रंग"
+
+msgid "The color of the text in the tooltip."
+msgstr "उपकरण विवरण में पाठ का रंग"
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"केलेन्डर में दिखाया जानेवाला महिना दिखाता है। +1 से अगला महिना, -1 से पीछला महिना तथा "
+"0 से 11 के अंक से वर्तमान वर्ष का निश्चित महिना निश्चित करें।"
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"सक्रिय स्किन मील नहीं रह्या है। \n"
+"ठीक पर क्लिक कर के प्रथम उपलब्ध स्किन का उपयोग करें।"
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"इस स्किन में एक भी वर्तमान विन्डो नहीं है। \n"
+"वर्तमान विन्डो का उपयोग किया जाएगा।"
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"यह स्किन उपलब्ध नहीं है। \n"
+"ठीक पर क्लिक कर के उपलब्ध प्रथम स्किन का उपयोग करें।"
+
+msgid "No items"
+msgstr "कोई तारीख़ नहीं"
+
+msgid "No events"
+msgstr "कोई इवेंट नहीं!"
+
+msgid "No tasks"
+msgstr "16 बिट्स"
+
+msgid "Synchronizing"
+msgstr "साथ - साथ होना"
+
+msgid "Offline"
+msgstr "ओफलाइन"
+
+msgid "today"
+msgstr "आज"
+
+msgid "tomorrow"
+msgstr "कल"
+
+msgid "yesterday"
+msgstr "कल"
+
+msgid "Jan"
+msgstr "जान्युआरी"
+
+msgid "Feb"
+msgstr "फरवरी"
+
+msgid "Mar"
+msgstr "मार्च"
+
+msgid "Apr"
+msgstr "अप्रैल"
+
+msgid "Jun"
+msgstr "जून"
+
+msgid "Jul"
+msgstr "जुलाई"
+
+msgid "Aug"
+msgstr "अगस्त"
+
+msgid "Sep"
+msgstr "सितंबर"
+
+msgid "Oct"
+msgstr "अक्टूबर"
+
+msgid "Nov"
+msgstr "नवम्बर"
+
+msgid "Dec"
+msgstr "दिसंबर"
+
+msgid "%ith"
+msgstr "%i बार"
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11 वीं;12 वीं;13 वीं;1st;2nd;3rd"
+
+msgid "edit"
+msgstr "सम्पादन"
+
+msgid "Do you want to create the file?"
+msgstr "क्यां आप  नत्थी बनाना चाहते हो?"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+" नत्थी उपलब्ध नहीं हैः\n"
+"%s"
+
+msgid "Unable to create the file \"%s\"."
+msgstr " नत्थी \"%s\" बनाने में असमर्थ।"
+
+msgid "This is a read only event."
+msgstr "इस घटना को सम्पादित नहीं किया जा सकता।"
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "इस घटना को रेइनलेंडर से सम्पादित करना संभव नहीं है।"
+
+msgid "This is a read only task."
+msgstr "इस कार्य को सम्पादित नहीं किया जा सकता।"
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "इस कार्य को रेइनलेंडर से सम्पादित करना संभव नहीं है।"
+
+msgid "URL"
+msgstr "यूआरएल"
+
+msgid "Organizer"
+msgstr "आर्गेनाइज़र"
+
+msgid "Accepted"
+msgstr "स्‍वीकृत"
+
+msgid "Declined"
+msgstr "अस्वीकृत"
+
+msgid "Tentative"
+msgstr "अंतरिम"
+
+msgid "Needs action"
+msgstr "क्रिया की आवश्यकता"
+
+msgid "Create a new calendar"
+msgstr "नया कैलेंडर बनाएँ"
+
+msgid "Please select the type of the calendar."
+msgstr "कृपया कैलेंडर के प्रकार का चयन करें."
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr "केलेन्डर प्रकार से घटनाओं का स्वरूप तथा संग्रह स्थान निश्चित होता है।"
+
+msgid "local"
+msgstr "स्थानिक"
+
+msgid "deprecated"
+msgstr "पदावनत"
+
+msgid "Type"
+msgstr "प्रकार"
+
+msgid "Go Pro"
+msgstr "प्रो खरीदें"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"रेइनलेंडर प्रो, सीधे देस्कटोप से ही आप के आउटलूक, गूगल केलेन्डर तथा अन्य केलेन्डरों तथा कार्यसूची "
+"का उपयोग की अनुमति देता है।"
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"रेइनलेंडर सीधे डेस्कटोप से आपके गूगल केलेन्डर तथा अन्य केलेन्डर और कार्यसूची का उपयोग करने की "
+"अनुमति देता है।"
+
+msgid "Buy license"
+msgstr "अनुज्ञापत्र खरीदें"
+
+msgid "See differences"
+msgstr "अंतर जांचें"
+
+msgid "No calendar selected!"
+msgstr "कोई केलेन्डर चयन नहीं किया है।"
+
+msgid "You need to select a calendar type."
+msgstr "कैलेंडर के प्रकार का चयन करना आवश्यक है!"
+
+msgid "Finish the authentication in your browser"
+msgstr "अपने ब्राउज़र में प्रमाणीकरण पूरा करें"
+
+msgid "Authenticating..."
+msgstr "सत्यापित किया जा रहा है"
+
+msgid "Downloading..."
+msgstr "डाउनलोडिंग..."
+
+msgid "No urls allowed!"
+msgstr "यूआरएल की अनुमति नहीं है!"
+
+msgid "Only local files can be defined as the file name."
+msgstr " नत्थी के नाम में केवल स्थानीय फाइल को ही निर्धारित किया जा सकता है।"
+
+msgid "No UNC paths allowed!"
+msgstr "यूआरएल स्थान की अनुमति नहीं है!"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"यू एन सी पाथ का उपयोग फाइल नाम के रूप में करना असंभव है। सर्वर स्थित फाइल को एक्सेस करने "
+"के लिए नेटवर्क ड्राइव मेप करना आवश्यक है।"
+
+msgid "No filename defined!"
+msgstr " नत्थी का नाम निश्चित नहीं है।"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"आप  नत्थी का नाम खाली नहीम्छोड सकते। घटनाएं तथा कार्यों का संग्रह करने के लिए फाइल का "
+"नाम देना आवश्यक है।"
+
+msgid "The file name is missing."
+msgstr " नत्थी का नाम मौजुद नहीं है।"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"यदि आप नया केलेन्डर बना रहे हैं, तो आप कोई भी नाम दे सकते हैं। अन्यथा मौजुद इ-केलेन्डर फाइल "
+"का चयन करें।"
+
+msgid "The url is empty!"
+msgstr "यूआरएल खाली है!"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"आप यूआरएल फिल्ड को खाली नहीं छोड सकते। घटनाएं एवं कार्यों के लिए फाइल का निश्चित होना "
+"आवश्यक है।"
+
+msgid "The protocol is missing!"
+msgstr "शिष्टाचार उपलब्ध नहीं है।"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "कृपयां url के लिए शिष्टाचार दें (उदा. \"http://\")"
+
+msgid "The file name is missing from the url!"
+msgstr "यूआरएल में से  नत्थी का नाम मौजुद नहीं है!"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"यदि आप नया केलेन्डर बना रहे हैं, तो आप कोई भी नाम दे सकते हैं। अन्यथा मौजुद इ-केलेन्डर  "
+"नत्थी का चयन करें। अन्यथा आप को यह देखना आवश्यक है, कि यूआरएल के लिए सर्वर पर कोई  "
+"नत्थी निश्चित नहीं हुई है।\n"
+"\n"
+"क्या आप आगे जाना चाहते हैं?"
+
+msgid "Incorrect email!"
+msgstr "अनुचित ईमेल"
+
+msgid "You need to enter a full email address."
+msgstr "पूरा ईमेल एड्रेस्स देना आवश्यक है।"
+
+msgid "Please select the calendar."
+msgstr "कृपया कैलेंडर का चयन करें।"
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr "आपने कोई केलेन्डर चयन नहीं किया है। क्या आप आगे जाना चाहते है?"
+
+msgid "Name"
+msgstr "नाम"
+
+msgid "The calendar already exists!"
+msgstr "यह केलेन्डर पहले से मौजुद है।"
+
+msgid "Please choose some other name for the calendar."
+msgstr "कृपया कैलेंडर के लिए नया नाम चुनें।"
+
+msgid "The calendar name is empty!"
+msgstr "केलेन्डर का नाम खाली है।"
+
+msgid "You must give a name for the calendar."
+msgstr "कैलेंडर का नाम देना आवश्यक है।"
+
+msgid "Alarm sound"
+msgstr "अलार्म ध्वनि"
+
+msgid "Select alarm sound"
+msgstr "अलार्म ध्वनि चुनें "
+
+msgid "Default sound"
+msgstr "तयशुदा ध्वनि"
+
+msgid "Preview"
+msgstr "पूर्वावलोकन"
+
+msgid "No sound"
+msgstr "कोई आवाज नहीं"
+
+msgid "Custom sound / executable"
+msgstr "मनपसंद ध्वनि/एक्जीक्यूटेबल"
+
+msgid "Browse..."
+msgstr "खोजें ..."
+
+msgid "Bulk Change"
+msgstr "भारी परिवर्तन"
+
+msgid "Type:"
+msgstr "प्रकारः"
+
+msgid "Summary:"
+msgstr "सारांश:"
+
+msgid "Location:"
+msgstr "स्थान:"
+
+msgid "Url:"
+msgstr "यूआरएल:"
+
+msgid "Class:"
+msgstr "वर्गः"
+
+msgid "Time type:"
+msgstr "समय का प्रकारः"
+
+msgid "With time"
+msgstr "समय के साथ"
+
+msgid "Start time:"
+msgstr "प्रारंभ समय:"
+
+msgid "Absolute"
+msgstr "निरपेक्ष"
+
+msgid "Relative"
+msgstr "सांदर्भिक"
+
+msgid "Months"
+msgstr "महिनें"
+
+msgid "Years"
+msgstr "वर्ष"
+
+msgid "Visibility:"
+msgstr "दृष्टिक्षेत्रः"
+
+msgid "Show in calendar"
+msgstr "केलेन्डर में दिखाएं"
+
+msgid "Priority:"
+msgstr "प्राघान्य"
+
+msgid "Status:"
+msgstr "स्थिति:"
+
+msgid "Not Started"
+msgstr "अभी शुरू नहीं हुआ है"
+
+msgid "Progress:"
+msgstr "प्रगति:"
+
+msgid "0 %"
+msgstr "0 %"
+
+msgid "10 %"
+msgstr "10 %"
+
+msgid "20 %"
+msgstr "20 %"
+
+msgid "30 %"
+msgstr "30 %"
+
+msgid "40 %"
+msgstr "40 %"
+
+msgid "50 %"
+msgstr "50 %"
+
+msgid "60 %"
+msgstr "60 %"
+
+msgid "70 %"
+msgstr "70 %"
+
+msgid "80 %"
+msgstr "80 %"
+
+msgid "90 %"
+msgstr "90 %"
+
+msgid "100 %"
+msgstr "100 %"
+
+msgid "Free/Busy:"
+msgstr "मुक्त/व्यस्त"
+
+msgid "Free"
+msgstr "मुक्त"
+
+msgid "Busy"
+msgstr "व्यस्त"
+
+msgid "Description:"
+msgstr "वर्णनः"
+
+msgid "Alarm:"
+msgstr "अलार्म"
+
+msgid "Category:"
+msgstr "वर्गः"
+
+msgid "Recurrence:"
+msgstr "पुनरावृत्तिः"
+
+msgid "Repeat every"
+msgstr "दोहराने का अंतराल"
+
+msgid "Weeks"
+msgstr "हप्तें"
+
+msgid "Repeat ending"
+msgstr "पुनरावर्तन रोकें"
+
+msgid "Forever"
+msgstr "हंमेशा के लिए"
+
+msgid "Number of times"
+msgstr "इतनी बार"
+
+msgid "Until"
+msgstr "यहां तक"
+
+msgid "Debug Window"
+msgstr "डिबग विंडो"
+
+msgid "Sensitivity:"
+msgstr "संवेदनशीलता (आइएसओ):"
+
+msgid "All day event"
+msgstr "धटना पूरा दिन चलेगी"
+
+msgid "Mark time as busy"
+msgstr "इस समय पर व्यस्त का चिह्न लगाएं।"
+
+msgid "Time zone:"
+msgstr "समय क्षेत्र: "
+
+msgid "Calendar:"
+msgstr "केलेन्डरः"
+
+msgid "Mon"
+msgstr "सोम"
+
+msgid "Tue"
+msgstr "मगंल"
+
+msgid "Wed"
+msgstr "बुध"
+
+msgid "Thu"
+msgstr "गुरू"
+
+msgid "Fri"
+msgstr "शुक्र"
+
+msgid "Sat"
+msgstr "शनि"
+
+msgid "Sun"
+msgstr "रवि"
+
+msgid "Repeat"
+msgstr "दोहराएं"
+
+msgid "End after"
+msgstr "के बाद अंत: "
+
+msgid "occurrences"
+msgstr "पुनरावृत्तियां"
+
+msgid "Exception dates"
+msgstr "अपवाद रूप तारिखः"
+
+msgid "Add"
+msgstr "जोड़ें"
+
+msgid "Show descriptions"
+msgstr "विवरण दिखाएँ"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "रेइनलेन्डर शुरु होने पर आज की घटनाएं थाल में दिखाएं।"
+
+msgid "Hide list windows if there are no items"
+msgstr "कोई चीज न होने पर विन्डो छिपाएं।"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "क्लिक थ्रू (निष्क्रिय करने के लिए शिफ्ट-की दबा कर रखें)"
+
+msgid "Lock windows in place"
+msgstr "विन्ड़ोझ का स्थान निश्चित करें"
+
+msgid "Enable on startup"
+msgstr "स्टार्टअप पर सक्षम"
+
+msgid "Hide from taskbar"
+msgstr "टास्कबार से छुपाएँ"
+
+msgid "Use Retina Resolution"
+msgstr "रेटिना रिज़ॉल्यूशन का उपयोग करें"
+
+msgid "Add years for categories"
+msgstr "Category के लिए साल जोड़ें"
+
+msgid "Categories..."
+msgstr "वर्ग..."
+
+msgid "Week's start day:"
+msgstr "हफ्ते की शुरूआत इस दिन से:"
+
+msgid "Position:"
+msgstr "स्थिति:"
+
+msgid "Language:"
+msgstr "भाषा:"
+
+msgid "Opacity"
+msgstr "अपारदर्शिता"
+
+msgid "Normal:"
+msgstr "सामान्य:"
+
+msgid "Mouse over:"
+msgstr "माउसओवर:"
+
+msgid "Apply to all windows at the same time"
+msgstr "एक ही समय में सभी खिड़कियों पर आवेदन करें"
+
+msgid "Font Size"
+msgstr "Name"
+
+msgid "Size:"
+msgstr "आकार"
+
+msgid "Duplicate..."
+msgstr "नकल..."
+
+msgid "Action:"
+msgstr "कार्य:"
+
+msgid "Hotkey:"
+msgstr "होट-कीः"
+
+msgid "Set"
+msgstr "स्थापन"
+
+msgid "Available skins"
+msgstr "उपलब्ध स्किन"
+
+msgid "Active skins"
+msgstr "वर्तमान स्किन"
+
+msgid "Settings..."
+msgstr "सेटिंग्स.."
+
+msgid "All items"
+msgstr "सभी चीजे"
+
+msgid "Selected items"
+msgstr "चुनिंदा चीजें"
+
+msgid "Day range"
+msgstr "दिन सीमा"
+
+msgid "Select days"
+msgstr "दिन चुनें"
+
+msgid "Add title"
+msgstr "शीर्षक जोड़ें"
+
+msgid "Preview..."
+msgstr "पूर्वदर्शन..."
+
+msgid "Page Setup..."
+msgstr "पृष्ट सेटअप"
+
+msgid "Todo"
+msgstr "कार्य सूची"
+
+msgid "Date only"
+msgstr "सिर्फ- तारीख़"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "कोमा-विभाजित मूल्य (*.csv)|*.csv"
+
+msgid "Username"
+msgstr "उपयोगकर्ता का नाम"
+
+msgid "Password"
+msgstr "पासवर्ड़"
+
+msgid "Calendar name"
+msgstr "केलेन्डर नाम"
+
+msgid "Poll frequency (mins)"
+msgstr "पोल फ़्रिक्वेंसी (मिनिट्स)"
+
+msgid "Suppress errors"
+msgstr "एरर न दिखाएं"
+
+msgid "Keep offline copy"
+msgstr "ओफलाइन नकल बचाएं"
+
+msgid "Authentication"
+msgstr "प्रमाणीकरण"
+
+msgid "Basic"
+msgstr "बुनियादी"
+
+msgid "Digest"
+msgstr "डाइजेस्ट"
+
+msgid "GSS-Negotiate"
+msgstr "जीएसएस से बातचीत"
+
+msgid "NTLM"
+msgstr "एन टी एल एम"
+
+msgid "Support"
+msgstr "सहायता"
+
+msgid "Automatic"
+msgstr "set white balance manually"
+
+msgid "Both"
+msgstr "दोनों"
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"कैलेंडर के लिए यूआरएल, उपयोगकर्ता नाम और पासवर्ड चुनें, तथा किलेन्डर चयन का बटन दबाएं। \n"
+"\n"
+"आवश्यकता न होने पर उपयोगकर्ता नाम और पासवर्ड को खाली छोड़ा जा सकता है."
+
+msgid "Select Calendar"
+msgstr "केलेन्डर चयन करें"
+
+msgid "CalDAV Error (%s)!"
+msgstr "CalDAV दोष (%s)!"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"इस यूआरएल पर डेटा अपलोड करने में दोष:\n"
+"%s\n"
+"\n"
+"सर्वर से प्राप्त परिणाम: (%i) %i %s."
+
+msgid "Google Error (%s)!"
+msgstr "गूगल दोष (%s)!"
+
+msgid "Unable to delete the event."
+msgstr "घटना मिटाने में असमर्थ।"
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "सर्वर से प्राप्त परिणामः (%i) %i %s"
+
+msgid "Unable to read the calendars from the server."
+msgstr "सर्वर से केलेन्डर पढने में असमर्थ।"
+
+msgid "Unable to authenticate to the server."
+msgstr "सर्वर प्रमाणीकरण में असमर्थ।"
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"चयन किये गये केलेन्डर (%s) को खोजने में असफल। \n"
+"\n"
+"उपलब्द केलेन्डरः \n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "सर्वर से केलेन्डर पढने में असमर्थ"
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr "प्रमाणीकरण असफल। यह जांच ले, कि आपने सही नाम तथा पासवर्ड डाला है।"
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr ""
+"यह भी सत्यापित करें कि आप Rainlendar के लिए एप्लिकेशन विशिष्ट पासवर्ड का उपयोग कर रहे "
+"हैं।"
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr "सर्वर से संपर्क असफल। यह जांच ले की आपका नेटवर्क ठीक से काम कर रहा है।"
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "यह यूआरएल \"%s\" पर कोई केलेन्डर उपलब्ध नहीं है।"
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr ""
+"इस यूआरएल से डाटा डाउनलोड करने में दोषः\n"
+"%s"
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr ""
+"यह जांच ले कि आपका नेटवर्क ठीक से काम कर रहा है, तथा फायरवॉल आप का संपर्क रोक नहीं "
+"रही है।"
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr "प्रोक्सी को रिसोल्व करने में असफल। यह जांच लें, कि आपके प्रोक्सी सेटिंग सही है।"
+
+msgid "Unable to resolve the host."
+msgstr "होस्ट रिसोल्व करने में असफल।"
+
+msgid "Unable to connect to the server."
+msgstr "सर्वर से कनेक्ट करने में असमर्थ|"
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "सर्वर से सुरक्षित कनेक्शन (एसएसएल) विफल रहा।"
+
+msgid "FALSE"
+msgstr "गलत"
+
+msgid "UID"
+msgstr "यूआईडी"
+
+msgid "Ignore private events"
+msgstr "निजी घटनाओं पर ध्यान न दें"
+
+msgid "Import limit"
+msgstr "आयात मर्यादा"
+
+msgid "Everything"
+msgstr "सब कुछ"
+
+msgid "Future only"
+msgstr "मात्र आंकडें"
+
+msgid "Past month"
+msgstr "पीछला महिना"
+
+msgid "Past 6 months"
+msgstr "पिछले छे महिने"
+
+msgid "Past year"
+msgstr "पिछला वर्ष"
+
+msgid "Past 2 years"
+msgstr "पिछले दो वर्ष"
+
+msgid "Delete notifications"
+msgstr "नोटिफ़िकेशन मिटाएँ"
+
+msgid "External Only"
+msgstr "केवल बाहरी"
+
+msgid "Future Only"
+msgstr "केवल भविष्य"
+
+msgid "Color mapping"
+msgstr "रंग मानचित्रण"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"अपना Google खाता ईमेल पता दर्ज करें और \" कैलेंडर का चयन करें \" बटन पर क्लिक करें और उस "
+"कैलेंडर को चुनें जिसे आप एक्सेस करना चाहते हैं"
+
+msgid "Select calendar"
+msgstr "कैलेंडर का चयन करें"
+
+msgid "Unable to read the calendars."
+msgstr "केलेन्डर पढने में असमर्थ।"
+
+msgid "Authentication failed."
+msgstr "प्रमाणीकरण असफल"
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"गूगल प्रमाणित करने में असफल। \n"
+"कृपयां यह जांचें कि आपका इ-मेईल\n"
+"तथा पासवर्ड सही है।"
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr "यह घटना उपलोड नहीं हो रही है, क्योंकी लक्ष्य केलेन्डर निश्चित नहीं है।"
+
+msgid "Google Calendar Error (%s)!"
+msgstr "गूगल पंचांग त्रुटि! Google Calendar Error (%s)"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"गूगल प्रमाणित करने में असफल। आप के खाते लिए 2-कदम के प्रमाण समर्थ किया गया है, आप को "
+"रेइनलेंडर के लिए एप्लिकेशन विशेष पासवर्ड बनाना पडेगा. गूगल अकाउण के सेटिंग में \"2-step "
+"verification\" से आप यह कर सकते हैं।"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"Google को सत्यापित करने में असमर्थRainlendar की Google कैलेंडर तक पहुंच रद्द हो सकती "
+"हैकृपया विकल्प -&gt; कैलेंडर पर जाएं और कैलेंडर के लिए फिर से प्रमाणीकरण चलाएं"
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"गूगल प्रमाणित करने में असफल।\n"
+"सर्वर से प्राप्त परिणाम (%i) %i %s."
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"केलेन्डर्स डाउनलोड करने में असमर्थ।\n"
+"सर्वर से प्राप्त परिणामः (%i) %i %s"
+
+msgid "Unable to parse the calendar url."
+msgstr "केलेन्डर यूआरएल पार्स करने में असफल।"
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"लगता है आपने एक यूआरएल को केलेन्डर के नाम के स्थन पर लिखा है।\n"
+"इसके स्थान पर नीचे से किसी एक नाम का उपयोग करेंः\n"
+
+msgid "Unable to delete the event: "
+msgstr "घटना मिटाने में असमर्थ:"
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"मतांतर के कारण यह घटना गूगल केलेन्डर पर अपलोड नहीं हो रही है। अद्यतन घटना गूगल कार्य से "
+"दोबारा खूलेगी।"
+
+msgid "Unable to parse the events."
+msgstr "घटनाएं पार्स करने में असमर्थ।"
+
+msgid "Unable to upload the event: "
+msgstr "अपलोड करने में असमर्थ:"
+
+msgid "Task list name"
+msgstr "कार्यसूची का नाम"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"अपना Google खाता ईमेल पता दर्ज करें और \" कार्य सूची का चयन करें \" बटन पर क्लिक करें "
+"और उस कार्य सूची को चुनें जिसे आप एक्सेस करना चाहते हैं"
+
+msgid "Select task list"
+msgstr "कार्य सूची चुनें"
+
+msgid "Unable to read the task lists."
+msgstr "कार्यसूची पढने में असफल।"
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr "यह कार्यसूची अपलोड नहीं हो रही है, क्यों की लक्ष्य कार्यसूची निश्चित नहीं है।"
+
+msgid "Google Tasks Error (%s)!"
+msgstr "Google कार्य त्रुटि (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"Google को सत्यापित करने में असमर्थGoogle टास्क सूची में Rainlendar की पहुंच रद्द कर दी "
+"गई हो सकती हैकृपया कैलेंडर को रिफ्रेश करें और Rainlendar को फिर से अपने Google खाते में "
+"प्रमाणित करें"
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"कार्यसूची डाउनलोड करने में असफल। \n"
+"सर्वर से प्राप्त परिणामः (%i) %i %s"
+
+msgid "Unable to parse the task list url."
+msgstr "कार्यसूची यूआरएल पार्स करने में असफल।"
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"लगता है आपने एक यूआरएल को कार्यसूची के नाम के स्थन पर लिखा है।\n"
+"इसके स्थान पर नीचे से किसी एक नाम का उपयोग करेंः\n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"चयन कार्यसूची (%s) को खोजने में असमर्थ।\n"
+"\n"
+"उपलब्ध सूचीः\n"
+
+msgid "Unable to delete the task: "
+msgstr "कार्य मिटाने में असमर्थः"
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"मतांतर के कारण यह कार्य गूगल कार्य पर अपलोड नहीं हो रहा है। अद्यतन कार्य गूगल कार्य से "
+"दोबारा खूलेंगें।"
+
+msgid "Unable to upload the task: "
+msgstr "कार्य अपलोड में असफलः"
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "रेइनलेंडर नत्थी (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "सुरक्षित अपलोड"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"यूआरएल, उपयोगकर्ता का नाम तथा पासवर्ड  पसंद करें।\n"
+"\n"
+"यूआरएल में http, https अथवा ftp शिष्टाचार का प्रयोग हो सकता है. आवश्यकता न हो तो "
+"वपराशकर्ता तथा पासवर्ड का स्थान खाली छोड सकते हैं।"
+
+msgid "Network Error (%s)!"
+msgstr "नेटवर्क दोष (%s)!"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "ओनलाइन केलेन्डर में चीजें जोडने में असमर्थ।"
+
+msgid "Unable to remove the item from the online calendar."
+msgstr "ओनलाइन केलेन्डर से चिज़ों को हटाने में असमर्थ।"
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"नत्थी %s पार्स करने में असफल।\n"
+" नत्थी खराब हो सकती है।"
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"सर्वर से खाली परिणाम प्राप्त। यह जांचे कि केलेन्डर का यूआरएल किसी फाइल के प्रति सूचित "
+"करता है, ना कि फोल्डर के प्रति।"
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"यूआरएल:\n"
+" से डेटा डाउनलोड करने में असफल%s\n"
+"\n"
+"रस्वर की तरफ से परिणाम: (%i) %i %s."
+
+msgid "Downloaded event count"
+msgstr "डाउनलोड की गई ईवेंट गिनती"
+
+msgid "Office 365"
+msgstr "Office 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"अपना Office 365 खाता ईमेल पता दर्ज करें और \" कैलेंडर का चयन करें \" बटन पर क्लिक करें "
+"और उस कैलेंडर का चयन करें जिसे आप एक्सेस करना चाहते हैं"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Office 365 खाते को सत्यापित करने में असमर्थ\\ nकृपया पुष्टि करें कि आपका ईमेल\\ nऔर "
+"पासवर्ड सही है"
+
+msgid "Office365 Error (%s)!"
+msgstr "Office365 त्रुटि (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Office 365 खाते को सत्यापित करने में असमर्थOffice 365 कैलेंडर में Rainlendar की पहुँच रद्द "
+"की जा सकती हैकृपया कैलेंडर को रिफ्रेश करें और Rainlendar को फिर से अपने Office 365 खाते "
+"में प्रमाणित करें"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Office 365 खाते को सत्यापित करने में असमर्थ\\ nसर्वर ने परिणाम लौटाया: (% i )% i %s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"विरोध के कारण घटना अपलोड नहीं की जा सकतीअद्यतन घटना को सर्वर से पुनः लोड किया जाएगा"
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"आउटलूक दोष!\n"
+"MAPI library का आरंभ करने में असफल।\n"
+"\n"
+"यदि आपने रेइनलेंडर या आउटलूक अपग्रेड किया है, तो रेइनलेंडर में आउटलूक केलेन्डर बनाना आवश्यक "
+"है।\n"
+"\n"
+"यह भी देखें, कि आप दोनो एप्लिकेशन्स के समान संस्करण (32bit vs. 64bit) का उपयोग कर रहे "
+"हैं।"
+
+msgid "Application"
+msgstr "एप्लिकेशन"
+
+msgid "Profile"
+msgstr "रूपरेखा"
+
+msgid "MessageStore"
+msgstr "संदेश संग्रह"
+
+msgid "Folders"
+msgstr "फोल्डर्स"
+
+msgid "Default Folder"
+msgstr "प्रवर्तमान फोल्डर"
+
+msgid "Use labels instead of categories"
+msgstr "वर्ग के स्थान पर लेबल का प्रयोग करें।"
+
+msgid "Show edit links"
+msgstr "संपादन लिंक्स को दिखाएं"
+
+msgid "Keep MAPI connection alive"
+msgstr "मापी संपर्क बनाए रखें।"
+
+msgid "Month"
+msgstr "महिना"
+
+msgid "6 months"
+msgstr "6 महिना"
+
+msgid "Year"
+msgstr "वर्ष"
+
+msgid "2 years"
+msgstr "2 वर्ष"
+
+msgid "Read birthdays from contacts"
+msgstr "संपर्क से जन्मदिवस को पढें"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "रेइनलेंडर में जिस संदेश को आप देखना चाहतें है, आउटलूक से उन्हें चयन करें।"
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[आउटलूक:%s][संपादित करें]]"
+
+msgid "Outlook error!"
+msgstr "आउटलूक दोष!"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr "\"%s\" से आउटलूक चीजों को पढ़ने में असमर्थ। विस्तृत जानकारी के लिए लोग पढें।"
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "इस चीज का अपडेट असफल। दोष का कोड 0x%p"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr "आउटलूक चीज लिखने में असफल। इसे संग्र करने के लिए कोई फोल्डर उपलब्ध नहीं है।"
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "चीज मिटाने में असमर्थ. दोष कोड 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "दूध याद कार्यसूची खोजने में असफल।"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "सूची \"%s\" नहीं मिल रही है। उपलब्ध सूचीः"
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "उपर की सूची के अनुसार ही नाम लिखें।"
+
+msgid "Unable to parse the ID from the task."
+msgstr "कार्य से आईडी को पार्स करने में असमर्थ।"
+
+msgid "Unable to create the task."
+msgstr "कार्य बनाने में असमर्थ।"
+
+msgid "Unable to parse the timeline."
+msgstr "टाइमलाइन पार्स करने में असमर्थ।"
+
+msgid "The service is temporarily unavailable."
+msgstr "यह सेवा अस्थायी रूप से उपलब्ध नहीं है।"
+
+msgid "Please log in to Remember The Milk."
+msgstr "दूध याद में लोग-इन करें"
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"आपका दूध याद अकाउन्ट खोलने के लिए रेइनलेंडर को प्रमाणित करना आवश्यक है।\n"
+"\n"
+"ठीक पर क्लिक करने पर आपका ब्राउझर अपने आप खूल जाएगा।"
+
+msgid "Continue after authorization."
+msgstr "प्रमाणित करने पर आगे बढ़ें।"
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr "रेइनलेंडर प्रमाणित करने के लिए ठी बटन पर क्लिक करें।"
+
+msgid "Unable to parse the output."
+msgstr "आउटपूट पार्स करने में असमर्थ।"
+
+msgid "Unknown response for call \"%s\"."
+msgstr "\"%s\" के लिए अज्ञात प्रतिक्रिया।"
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"कॉल \"%s\" असफलः\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "रिती \"%s\" के प्रति कॉल असफल।"
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "मिल्क दोष (%s) याद रखें!"
+
+msgid "List"
+msgstr "सूची"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"दूध याद की कार्यसूची का नाम चयन करें। सभी सूचीओं को लाने के लिए यह स्थान खाली भी रख "
+"सकते हैं।"
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"प्रमाणीकरण टोकन उपलब्ध नहीं है। रेइनलेंडर को Remember The Milk अकाउन्ट में प्रवेश देना "
+"आवश्यक है।"
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"फोल्डर \"%s\" उपलब्ध नहीं है।\n"
+"\n"
+"उपलब्ध फोल्डर्सः"
+
+msgid "Toodledo Error (%s)!"
+msgstr "तोडलेडो दोष (%s)!"
+
+msgid "Folder"
+msgstr "फोल्डर"
+
+msgid "Poll for changes"
+msgstr "बदलाव के लिए मतदान"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr "तोडलेडो के लिए आपका इ-मेईल एड्रेस एवं पासवर्ड एंटर करें।"
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "नत्थी \"%s\" लिखने के लिए खोलने में असफल।"
+
+msgid "Filename"
+msgstr "नत्थी का नाम"
+
+msgid "Monitor changes"
+msgstr "बदलाव पर निगरानी रखें"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"कैलेंडर के लिए एक फ़ाइल चुनें. \n"
+"\n"
+"आप मौजूदा ics फाइल का चयन कर सकते हैं। अथवा नया नाम टाइप कर के नया फाईल बना सकते "
+"हैं। "
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "इ-केलेंडर नत्थी (*.ics)|*.ics|वि-केलेंडर नत्थी (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr ""
+"कैलेण्डर फ़ाइल \" %s \" का पथ बाहर नहीं निकलताOptions -&gt; Calendars पर जाएं और "
+"सत्यापित करें कि फ़ाइल का स्थान सही ढंग से सेट है"
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "नत्थी \"%s\" की अस्थायी कोपी करने में असमर्थ।"
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "नत्थी \"%s\" बदलने में असफल।"
+

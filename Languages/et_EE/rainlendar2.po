@@ -1,0 +1,5144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: 2021-09-29 20:19+0300\n"
+"Last-Translator: Omega <omega@email.ee>\n"
+"Language-Team: \n"
+"Language: et_EE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: D:/My Documents/Isiklik/tr/Poedit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: Application\n"
+"X-Poedit-SearchPath-1: Plugins\n"
+"X-Poedit-SearchPath-2: Testbench/Debug/resources\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Rainlendar ei saa käivitada HTTP-serverit OAuthi vastuste saamiseks. "
+"Veenduge, et teil pole ühtegi turbetarkvara, mis takistab rakendusel serveri "
+"käivitamist ja ei ole muid teenuseid, mis töötavad samal pordil."
+
+msgid "Server Port: "
+msgstr "Serveri port:"
+
+msgid "Failed to start HTTP server"
+msgstr "HTTP-serveri käivitamine nurjus"
+
+msgid "Choose the backup path"
+msgstr "Vali varundi asukoht"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "Arhiiv (*.zip)|*.zip"
+
+msgid "Authentication failed!"
+msgstr "Autentimine nurjus!"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "Veenduge, et lõpetate autentimisprotsessi"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr "ja annate Rainlendar-ile loa juurdepääsuks oma kalendrile."
+
+msgid "Authentication succeeded!"
+msgstr "Autentimine õnnestus!"
+
+msgid "You may close the browser window now."
+msgstr "Võite veebilehitseja akna kohe sulgeda."
+
+msgid "Choose the backup file:"
+msgstr "Vali varundi fail:"
+
+msgid "Select"
+msgstr "Vali"
+
+msgid "No backups found!"
+msgstr "Varundeid ei leitud!"
+
+msgid "There are no backups available in the backup folder."
+msgstr "Varundite kaustas ei ole varukoopiaid."
+
+msgid "The settings do not exist!"
+msgstr "Seaded ei ole olemas!"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "Valitud varundfaili ei sisalda suvandite faili."
+
+msgid "The file already exists:"
+msgstr "Fail on juba olemas:"
+
+msgid "Do you want to overwrite the file?"
+msgstr "Kas soovid faili üle kirjutada?"
+
+msgid "Unable to overwrite file:"
+msgstr "Ei saa üle kirjutada faili:"
+
+msgid "Write error!"
+msgstr "Kirjutamise viga!"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"Ei saa taastada faili:\n"
+"%s\n"
+"\n"
+"Pead selle ise lahti pakkima varundi arhiivist."
+
+msgid "Restore error!"
+msgstr "Viga taastamisel!"
+
+msgid "[None]"
+msgstr "[Puudub]"
+
+msgid "<Hidden>"
+msgstr "<Peidetud>"
+
+msgid "all"
+msgstr "kõik"
+
+msgid "active"
+msgstr "aktiivne"
+
+msgid "dismissed"
+msgstr "lõpetatud"
+
+msgid "snoozed"
+msgstr "edasi lükatud"
+
+msgid "Show only needs action"
+msgstr "Näita ainult \"vajab tegevust\""
+
+msgid "Show only in progress"
+msgstr "Näita ainult \"töös\""
+
+msgid "Show only completed"
+msgstr "Näita ainult \"lõpetatud\""
+
+msgid "Show only cancelled"
+msgstr "Näita ainult \"katkestatud\""
+
+msgid "Hide needs action"
+msgstr "Peida \"vajab tegevust\""
+
+msgid "Hide in progress"
+msgstr "Peida \"töös\""
+
+msgid "Hide completed"
+msgstr "Peida \"lõpetatud\""
+
+msgid "Hide cancelled"
+msgstr "Peida \"katkestatud\""
+
+msgid "Reset completed time"
+msgstr "Lähtesta lõpetatud aeg"
+
+msgid "Show only no priority"
+msgstr "Näita ainult prioriteedita"
+
+msgid "Show only high priority"
+msgstr "Näita ainult kõrge prioriteediga"
+
+msgid "Show only normal priority"
+msgstr "Näita ainult normaal prioriteediga"
+
+msgid "Show only low priority"
+msgstr "Näita ainult madala prioriteediga"
+
+msgid "Hide no priority"
+msgstr "Peida prioriteedita"
+
+msgid "Hide high priority"
+msgstr "Peida kõrge prioriteediga"
+
+msgid "Hide normal priority"
+msgstr "Peida normaal prioriteediga"
+
+msgid "Hide low priority"
+msgstr "Peida madala prioriteediga"
+
+msgid "Show only alarms"
+msgstr "Näita ainult teavitusi"
+
+msgid "Show only active"
+msgstr "Näita ainult aktiivseid"
+
+msgid "Show only snoozed"
+msgstr "Näita ainult edasi lükatud"
+
+msgid "Show only dismissed"
+msgstr "Näita ainult lõpetatud"
+
+msgid "Hide alarms"
+msgstr "Peida teavitusi"
+
+msgid "Hide active"
+msgstr "Peida aktiivseid"
+
+msgid "Hide snoozed"
+msgstr "Peida edasi lükatud"
+
+msgid "Hide dismissed"
+msgstr "Peida lõpetatud"
+
+msgid "Reset dismiss time"
+msgstr "Lähtesta lõpetamise aeg"
+
+msgid "Reset snooze time"
+msgstr "Lähtesta edasilükkamise aeg"
+
+msgid "Dismiss next alarm"
+msgstr "Lõpeta järgmine teavitus"
+
+msgid "Duration:"
+msgstr "Kestvus:"
+
+msgid "Next alarm:"
+msgstr "Järgmine teavitus:"
+
+msgid "Dismissed:"
+msgstr "Lõpetatud:"
+
+msgid "Snoozed until:"
+msgstr "Edasi lükatud:"
+
+msgid "In Progress"
+msgstr "Töös"
+
+msgid "Completed"
+msgstr "Lõpetatud"
+
+msgid "Needs Action"
+msgstr "Vajab tegevust"
+
+msgid "Cancelled"
+msgstr "Katkestatud"
+
+msgid "None"
+msgstr "Puudub"
+
+msgid "High"
+msgstr "Kõrge"
+
+msgid "Normal"
+msgstr "Tavaline"
+
+msgid "Low"
+msgstr "Madal"
+
+msgid "All"
+msgstr "Kõik"
+
+msgid "Active"
+msgstr "Aktiivne"
+
+msgid "Dismissed"
+msgstr "Lõpetatud"
+
+msgid "Snoozed"
+msgstr "Edasi lükatud"
+
+msgid "Daily"
+msgstr "Päeval"
+
+msgid "Weekly"
+msgstr "Nädalal"
+
+msgid "Monthly"
+msgstr "Kuul"
+
+msgid "Yearly"
+msgstr "Aastal"
+
+msgid "Private"
+msgstr "Isiklik"
+
+msgid "Public"
+msgstr "Avalik"
+
+msgid "Confidential"
+msgstr "Konfidentsiaalne"
+
+msgid "Default"
+msgstr "Vaikimisi"
+
+msgid "No priority"
+msgstr "Prioriteedita"
+
+msgid "Normal priority"
+msgstr "Normaal prioriteet"
+
+msgid "High priority"
+msgstr "Kõrge prioriteet"
+
+msgid "Low priority"
+msgstr "Madal prioriteet"
+
+msgid "Created: "
+msgstr "Loodud:"
+
+msgid "Unknown"
+msgstr "Tundmatu"
+
+msgid "Modified: "
+msgstr "Muudetud:"
+
+msgid "Copy"
+msgstr "Kopeeri"
+
+msgid "Region"
+msgstr "Regioon"
+
+msgid "Native"
+msgstr "Algne"
+
+msgid "Sunday"
+msgstr "pühapäev"
+
+msgid "Monday"
+msgstr "esmaspäev"
+
+msgid "Tuesday"
+msgstr "teisipäev"
+
+msgid "Wednesday"
+msgstr "kolmapäev"
+
+msgid "Thursday"
+msgstr "neljapäev"
+
+msgid "Friday"
+msgstr "reede"
+
+msgid "Saturday"
+msgstr "laupäev"
+
+msgid "Every second Saturday"
+msgstr "Iga teine laupäev"
+
+msgid "Start"
+msgstr "Algus"
+
+msgid "Due"
+msgstr "Lõpp"
+
+msgid "Priority"
+msgstr "Tähtsus"
+
+msgid "Status"
+msgstr "Olek"
+
+msgid "Category"
+msgstr "Kategooria"
+
+msgid "Recurrence"
+msgstr "Kordus"
+
+msgid "Off"
+msgstr "Väljas"
+
+msgid "Beta"
+msgstr "Beeta"
+
+msgid "General"
+msgstr "Üldine"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "%T:%M (nt. \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "%#T:%M (nt. \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "%T:%M %p (nt. \"01:42 pm\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "%#T:%M %p (nt. \"3:42 pm\")"
+
+msgid "Time format"
+msgstr "Aja formaat"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "%p.%#k.%a (nt. \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "%p.%k.%a (nt. \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "%a-%k-%p (nt. \"2012-04-21\")"
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "%#k/%p/%a (nt. \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "%k/%p/%a (nt. \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "Kuupäeva formaat"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "Kasuta 'Täna' ja 'Homme'"
+
+msgid "Weekend days"
+msgstr "Nädalavahetuse päevad"
+
+msgid "Week number delta"
+msgstr "Nädala numbri muutus"
+
+msgid "Default categories"
+msgstr "Vaikimisi  kategooriad"
+
+msgid "Show categories from the skin"
+msgstr "Näita välimuse kategooriaid"
+
+msgid "Show tray icon"
+msgstr "Näita süsteemisalve ikooni"
+
+msgid "Show tray status icons"
+msgstr "Näita süsteemisalves olekute ikoone"
+
+msgid "Day number"
+msgstr "Päeva number"
+
+msgid "Week number"
+msgstr "Nädala number"
+
+msgid "Number in tray"
+msgstr "Number süsteemisalves"
+
+msgid "Always"
+msgstr "Alati"
+
+msgid "Never"
+msgstr "Mitte kunagi"
+
+msgid "Show full menus"
+msgstr "Näita täis menüüsid"
+
+msgid "Disable keyboard shortcuts"
+msgstr "Keela klaviatuuri kiirklahvid"
+
+msgid "List wheel scroll"
+msgstr "Rulliga nimekirja kerimine"
+
+msgid "Skin language"
+msgstr "Välimuse keel"
+
+msgid "Number of stored backups"
+msgstr "Varundite arv"
+
+msgid "Show delete confirmations"
+msgstr "Küsi kustutamisel kinnitust"
+
+msgid "Disable text formatting"
+msgstr "Keela teksti vormindamine"
+
+msgid "Show empty list text"
+msgstr "Näita tühjas loendis teksti \"Tühi\""
+
+msgid "Check for updates"
+msgstr "Kontrolli uuendusi"
+
+msgid "Show url icons"
+msgstr "Näita veebiaadressi (URL-i) ikoone"
+
+msgid "Simultaneous transfers"
+msgstr "Samaaegsed ülekanded"
+
+msgid "Only uncategorized"
+msgstr "Ainult kategooriata"
+
+msgid "Icon from events"
+msgstr "Sündmuste ikoon"
+
+msgid "Visual category overwrite"
+msgstr "Nähtava kategooria ülekirjutamine"
+
+msgid "Store English category names"
+msgstr "Säilita kategooriate ingliskeelsed nimed"
+
+msgid "Custom category icon path"
+msgstr "Kohandatud kategooria ikooni asukoht"
+
+msgid "Use antialiased fonts"
+msgstr "Kasuta antialiased fonte"
+
+msgid "Count"
+msgstr "Lugem"
+
+msgid "Ordinal"
+msgstr "Järgarv"
+
+msgid "Type of year to add for categories"
+msgstr "Aasta tüüp katekooriatesse lisamiseks"
+
+msgid "Use custom password encrypting"
+msgstr "Kasuta kohandatud parooli krüpteerimist"
+
+msgid "Editor"
+msgstr "Redigeerija"
+
+msgid "Allow multiple calendars"
+msgstr "Luba mitme kalendri valimine"
+
+msgid "Allow multiple categories"
+msgstr "Luba mitmed kategooriad"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "Hoia redigeerija avatuna kirjutamise lõpuni"
+
+msgid "Time span in the editor"
+msgstr "Ajavahemik toimetajas"
+
+msgid "Number of previous locations"
+msgstr "Eelmiste asukohtade arv loendis"
+
+msgid "Default event duration"
+msgstr "Vaikimisi sündmuse kestvus"
+
+msgid "Windows"
+msgstr "Aknad"
+
+msgid "Use window names"
+msgstr "Kasuta akende nimesid"
+
+msgid "Hide on Aero peek"
+msgstr "Peida \"Aero peek\" eest"
+
+msgid "Transparency type"
+msgstr "Läbipaistvuse tüüp"
+
+msgid "Copy transparency sleep time"
+msgstr "Kopeeri läbipaistvuse ooteaeg"
+
+msgid "Fade delay (ms)"
+msgstr "Hajumise viivitus (ms)"
+
+msgid "Fade duration (ms)"
+msgstr "Hajumise kestvus (ms)"
+
+msgid "Allow window fading"
+msgstr "Luba akna hajumist"
+
+msgid "Keep on screen"
+msgstr "Hoia ekraanil"
+
+msgid "Bring all windows on top when clicked"
+msgstr "Too kõik aknad klõpsamisel esileplaanile"
+
+msgid "Show in all desktops"
+msgstr "Näita kõikidel töölaudadel"
+
+msgid "Snap distance"
+msgstr "Haaramise kaugus"
+
+msgid "Snap center"
+msgstr "Haara keskelt"
+
+msgid "Don't save"
+msgstr "Ära salvesta"
+
+msgid "Per resolution"
+msgstr "Resolutsioonile"
+
+msgid "Single value"
+msgstr "Üksik väärtus"
+
+msgid "Save window position"
+msgstr "Salvesta akna asukoht"
+
+msgid "Font face"
+msgstr "Kirja stiil (font)"
+
+msgid "Scaling quality"
+msgstr "Skaleerimise kvaliteet"
+
+msgid "Network"
+msgstr "Võrk"
+
+msgid "Reload delay after resume (s)"
+msgstr "Uuestilaadimise viivitus peale jätkamist (s)"
+
+msgid "Network access delay after startup (s)"
+msgstr "Võrgu kasutamise viivitus peale käivitust (s)"
+
+msgid "Proxy server"
+msgstr "Puhverserver (Proxy)"
+
+msgid "Proxy user"
+msgstr "Puhverserveri (proxy) kasutajanimi"
+
+msgid "Proxy password"
+msgstr "Puhverserveri (proxy) parool"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgid "Proxy type"
+msgstr "Puhverserveri (proxy) tüüp"
+
+msgid "Try direct connection if proxy fails"
+msgstr "Proovi otseühendust, kui puhverserver (proxy) ei toimi"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Show all icons"
+msgstr "Näita kõiki ikoone"
+
+msgid "Show one icon per type"
+msgstr "Näita ühte ikooni tüübi kohta"
+
+msgid "Show only one icon"
+msgstr "Näita ainult ühte ikooni"
+
+msgid "Show no icons"
+msgstr "Ära näita ikoone"
+
+msgid "Combine icons in the calendar"
+msgstr "Kombineeri ikoone kalendris"
+
+msgid "Calendar wheel scroll"
+msgstr "Rulliga kalendri kerimine"
+
+msgid "Show tasks in calendar"
+msgstr "Näita kalendris töid"
+
+msgid "Always show menu"
+msgstr "Näita alati menüüd"
+
+msgid "Always create new event"
+msgstr "Loo alati uus sündmus"
+
+msgid "Do nothing"
+msgstr "Ära tee midagi"
+
+msgid "Double click action"
+msgstr "Topeltkõpsu tegevus"
+
+msgid "Tooltip"
+msgstr "Kohtspikker"
+
+msgid "Show tooltips"
+msgstr "Näita kohtspikreid"
+
+msgid "Only on days with events"
+msgstr "Ainult sündmusi sisaldaval päeval"
+
+msgid "Show tooltip in tray"
+msgstr "Näita kohtspikrit süsteemisalves"
+
+msgid "Max tooltip window width"
+msgstr "Kohtspikri akna maksimaalne laius"
+
+msgid "Show description in tooltip"
+msgstr "Näita kohtspikris kirjeldust"
+
+msgid "Task fields in tooltip"
+msgstr "Ülesande väli kohtspikris"
+
+msgid "Event fields in tooltip"
+msgstr "Sündmuse väli kohtspikris"
+
+msgid "Traytip show duration (s)"
+msgstr "Süsteemisalvespikri kuvamise kestvus (s)"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "Kohtspikri hajumise kestvus (ms)"
+
+msgid "Tooltip show delay (ms)"
+msgstr "Kohtspikri kuvamise viivitus (ms)"
+
+msgid "Tooltip format"
+msgstr "Kohtspikri formaat"
+
+msgid "Task List"
+msgstr "Ülesannete nimekiri"
+
+msgid "Show full task summary"
+msgstr "Näita tervet ülesande pealkirja"
+
+msgid "Show task due time"
+msgstr "Näita ülesande lõpuaega"
+
+msgid "Show task location"
+msgstr "Näita ülesande asukohta"
+
+msgid "Show task calendar"
+msgstr "Näita ülesande kalendrit"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "Nimekirjas kuvatavate päevade arv (0 = näita kõiki)"
+
+msgid "Show task time when arranged by start or due date"
+msgstr "Algusaja või lõpuaja järgi järjestuse korral näita ülesannete kestvust"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr "%A %p.%#k.%a (nt. \"Esmaspäev 21.4.2012\")"
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr "%A  %p.%k.%a (nt. \" Esmaspäev 21.04.2012\")"
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr "%A %a-%k-%p (nt. \"Esmaspäev 2012-04-21\")"
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr "%A %#k/%p/%a (nt. \"Esmaspäev 4/21/2012\")"
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr "%A %k/%p/%a (nt. \"Esmaspäev 04/21/2012\")"
+
+msgid "Task list header format"
+msgstr "Ülesannete nimekirja päise formaat"
+
+msgid "<None>"
+msgstr "<Puudub>"
+
+msgid "Default task template"
+msgstr "Vaikimisi ülesande mall"
+
+msgid "Event List"
+msgstr "Sündmuste nimekiri"
+
+msgid "Show full event summary"
+msgstr "Näita tervet sündmuse pealkirja"
+
+msgid "Show event start time"
+msgstr "Näita sündmuse algusaega"
+
+msgid "Show event end time"
+msgstr "Näita sündmuse lõpuaega"
+
+msgid "Show event location"
+msgstr "Näita sündmuse asukohta"
+
+msgid "Show event calendar"
+msgstr "Näita sündmuste kalendrit"
+
+msgid "Hide dismissed events"
+msgstr "Peida lõpetatud sündmused"
+
+msgid "Hide past events"
+msgstr "Peida möödunud sündmused"
+
+msgid "Number of future days the list shows"
+msgstr "Nimekirjas kuvatavate järgnevate päevade arv"
+
+msgid "Number of past days the list shows"
+msgstr "Nimekirjas kuvatavate möödunud päevade arv"
+
+msgid "Age from start of the week"
+msgstr "Aegub nädala alguses"
+
+msgid "Event list header format"
+msgstr "Sündmuste nimekirja päise formaat"
+
+msgid "Default event template"
+msgstr "Vaikimisi sündmuse mall"
+
+msgid "No grouping"
+msgstr "Grupeerimata"
+
+msgid "Start and end dates"
+msgstr "Alguse ja lõpu kuupäevad"
+
+msgid "Start date and duration"
+msgstr "Alguse kuupäev ja kestvus"
+
+msgid "Group multiday events"
+msgstr "Grupeeri mitmepäevased sündmused"
+
+msgid "Schedule"
+msgstr "Ajakava"
+
+msgid "Show schedule descriptions"
+msgstr "Näita ajakava kirjeldusi"
+
+msgid "Show schedule start time"
+msgstr "Näita ajakava algusaega"
+
+msgid "Show schedule end time"
+msgstr "Näita ajakava lõpuaega"
+
+msgid "Show schedule location"
+msgstr "Näita ajakava asukohta"
+
+msgid "Show schedule calendar"
+msgstr "Näita ajakava kalendrit"
+
+msgid "Create, move and resize events with mouse"
+msgstr "Loo, liiguta ja muuda sündmuste ulatust hiirega"
+
+msgid "First shown hour"
+msgstr "Esimesena näidatav tund"
+
+msgid "Last shown hour"
+msgstr "Viimasena näidatav tund"
+
+msgid "Alarm"
+msgstr "Teavitus"
+
+msgid "Show alarm start time"
+msgstr "Näita teavituse algusaega"
+
+msgid "Show alarm end time"
+msgstr "Näita teavituse lõpuaega"
+
+msgid "Show alarm location"
+msgstr "Näita teavituse asukohta"
+
+msgid "Show alarm calendar"
+msgstr "Näita teavituse kalendrit"
+
+msgid "Show due to the event"
+msgstr "Näita sündmuse lõpuaega"
+
+msgid "Support Mozilla alarms"
+msgstr "Toeta Mozilla teavitusi"
+
+msgid "Keep alarm always on top"
+msgstr "Hoia teavitus alati pealmisena"
+
+msgid "Default snooze time (secs)"
+msgstr "Vaikimisi edasilükkamise aeg (sek)"
+
+msgid "Max alarm window width"
+msgstr "Teavituse akna suurim laius"
+
+msgid "Hide from alarm after days"
+msgstr "Peida teavitus pärast (päevad)"
+
+msgid "Default alarm time (mins)"
+msgstr "Teavituse vaikeaeg (min)"
+
+msgid "Default alarm file"
+msgstr "Vaikimisi teavituse helifail"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "Ära näita teavitust täisekraanis oleva akna peal"
+
+msgid "Loop the alarm sound (secs)"
+msgstr "Korda teavituse heli (sek)"
+
+msgid "Snooze times (mins)"
+msgstr "Edasilükkamise aeg (min)"
+
+msgid "Create Error!"
+msgstr "Viga loomisel!"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "Üksuse jaoks ei saa valida sihtkalendrit."
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "Üksuse loomine nurjus stringist :\n"
+
+msgid "Parse Error!"
+msgstr "Töötlemise viga!"
+
+msgid "New version found!"
+msgstr "Saadaval on uus versioon!"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"Versioon %s on saadaval.\n"
+"Kas soovid minna kodulehele?"
+
+msgid "No updates available."
+msgstr "Uuendusi pole saadaval."
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "Sul on Rainlendar'i kõige uuem versioon."
+
+msgid "New event"
+msgstr "Uus sündmus"
+
+msgid "New task"
+msgstr "Uus ülesanne"
+
+msgid "Refresh"
+msgstr "Värskenda"
+
+msgid "Options..."
+msgstr "Sätted..."
+
+msgid "Manager..."
+msgstr "Märkmehaldur..."
+
+msgid "Exit"
+msgstr "Välju"
+
+msgid "File"
+msgstr "Fail"
+
+msgid "View"
+msgstr "Vaade"
+
+msgid "About..."
+msgstr "Rainlendar'i teave"
+
+msgid "Open help\tCtrl+?"
+msgstr "Ava abi\tCtrl+?"
+
+msgid "Help"
+msgstr "Abi"
+
+msgid "About"
+msgstr "Rainlendar'i teave"
+
+msgid "Calendars"
+msgstr "Kalendrid"
+
+msgid "Choose day"
+msgstr "Vali päev"
+
+msgid "Choose month"
+msgstr "Vali kuu"
+
+msgid "Install license..."
+msgstr "Installige litsents..."
+
+msgid "Show debug log"
+msgstr "Näita siluri logi"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+msgid "Enable all calendars"
+msgstr "Luba kõik kalendrid"
+
+msgid "Disable all calendars"
+msgstr "Keela kõik kalendrid"
+
+msgid "Current Day"
+msgstr "Praegune päev"
+
+msgid "Next Day"
+msgstr "Järgmine päev"
+
+msgid "Previous Day"
+msgstr "Eelmine päev"
+
+msgid "Next Week"
+msgstr "Järgmine nädal"
+
+msgid "Previous Week"
+msgstr "Eelmine nädal"
+
+msgid "Next Month"
+msgstr "Järgmine kuu"
+
+msgid "Previous Month"
+msgstr "Eelmine kuu"
+
+msgid "Current Month"
+msgstr "Praegune kuu"
+
+msgid "Next Year"
+msgstr "Järgmine aasta"
+
+msgid "Previous Year"
+msgstr "Eelmine aasta"
+
+msgid "Home"
+msgstr "Kodu"
+
+msgid "Right"
+msgstr "Paremale"
+
+msgid "Left"
+msgstr "Vasakule"
+
+msgid "Up"
+msgstr "Üles"
+
+msgid "Down"
+msgstr "Alla"
+
+msgid "January"
+msgstr "Jaanuar"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+msgid "February"
+msgstr "Veebruar"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+msgid "March"
+msgstr "Märts"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+msgid "April"
+msgstr "Aprill"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+msgid "June"
+msgstr "Juuni"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+msgid "July"
+msgstr "Juuli"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+msgid "August"
+msgstr "August"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+msgid "September"
+msgstr "September"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+msgid "October"
+msgstr "Oktoober"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+msgid "November"
+msgstr "November"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+msgid "December"
+msgstr "Detsember"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+msgid "Visible"
+msgstr "Nähtav"
+
+msgid "More settings..."
+msgstr "Rohkem sätteid..."
+
+msgid "Today"
+msgstr "Täna"
+
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+msgid "Show all windows"
+msgstr "Näita kõiki aknaid"
+
+msgid "Hide all windows"
+msgstr "Peida kõik aknad"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "Litsentsi failid (*.r2lic)|*.r2lic"
+
+msgid "Choose the license file"
+msgstr "Vali litsentsi fail"
+
+msgid "*Empty*"
+msgstr "*Tühi*"
+
+msgid "This instance"
+msgstr "See sündmus"
+
+msgid "Whole event"
+msgstr "Terve seeria"
+
+msgid "All following"
+msgstr "Kõik järgnevad"
+
+msgid "Cancel"
+msgstr "Loobu"
+
+msgid "Do you want to delete this item?"
+msgstr "Kas sa soovid selle üksuse kustutada?"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"See on korduv üksus:\n"
+"\n"
+"%s\n"
+"\n"
+"Sa saad kas kustutada selle: (%s), kõik järgnevad sündmused või kogu "
+"sündmuse seeria."
+
+msgid "The item is read only and cannot be deleted."
+msgstr "See üksus on ainult lugemiseks ja seda ei saa kustutada."
+
+msgid "Unable to delete the item."
+msgstr "Üksust ei saa kustutada."
+
+msgid "Do you want to delete these items?"
+msgstr "Kas sa soovid kustutada need üksused?"
+
+msgid "The item is read only and cannot be moved."
+msgstr "See üksus on ainult lugemiseks ja seda ei saa liiguta."
+
+msgid "Unable to move the item."
+msgstr "Üksust ei saa liigutada."
+
+msgid "Choose a directory"
+msgstr "Vali kataloog"
+
+msgid "Version"
+msgstr "Versioon"
+
+msgid "Built on"
+msgstr "Baseerub"
+
+msgid "Developed by"
+msgstr "Looja"
+
+msgid "Translated (%s) by"
+msgstr "Keelde (%s) tõlkis"
+
+msgid "Licensed to"
+msgstr "Litsentseeritud"
+
+msgid "Plugins"
+msgstr "Lisamoodulid"
+
+msgid "Links"
+msgstr "Viidad"
+
+msgid "FAQ"
+msgstr "KKK"
+
+msgid "Forum"
+msgstr "Foorum"
+
+msgid "Menu icons by"
+msgstr "Menüü ikoonid"
+
+msgid "Application icon by"
+msgstr "Programmi ikoonid"
+
+msgid "Copyrights"
+msgstr "Autoriõigused"
+
+msgid "Please wait..."
+msgstr "Palun oota..."
+
+msgid "Check for update"
+msgstr "Kontrolli uuendusi"
+
+msgid "Choose Alarm"
+msgstr "Vali teavitusheli"
+
+msgid "All files (*.*)|*.*"
+msgstr "Kõik failid (*.*)|*.*"
+
+msgid "Change Fields"
+msgstr "Muuda välju"
+
+msgid "%i events selected"
+msgstr "%i sündmust valitud"
+
+msgid "%i tasks selected"
+msgstr "%i ülesannet valitud"
+
+msgid "End time:"
+msgstr "Lõpuaeg:"
+
+msgid "Due time:"
+msgstr "Lõpuaeg:"
+
+msgid "Add new alarm"
+msgstr "Lisa uus teavitus"
+
+msgid "Are you sure you want to do this?"
+msgstr "Kas oled kindel, et soovid seda teha?"
+
+msgid "The selected fields will be changed to %i items."
+msgstr "Valitud väljad muudetakse %i -ks."
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr ""
+"Seda tegevuste ei saa tagasi võtta. Klõpsa   \"Jah\" ainult siis, kui oled "
+"kindel selles, mida sa teed."
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr ""
+"Pane tähele, et tüübi vahetamine sündmuste ja ülesannete vahel tekitab "
+"osalise andmekao."
+
+msgid "Categories"
+msgstr "Kategooriad"
+
+msgid "Add..."
+msgstr "Lisa..."
+
+msgid "Clear"
+msgstr "Puhasta"
+
+msgid "Remove"
+msgstr "Eemalda"
+
+msgid "Values"
+msgstr "Väärtused"
+
+msgid "Please give a name for the category"
+msgstr "Palun anna kategooriale nimi"
+
+msgid "Enter text"
+msgstr "Sisesta tekst"
+
+msgid "Unable to create the category!"
+msgstr "Kategooria loomine nurjus!"
+
+msgid "You must give a name for the category."
+msgstr "Pead andma kalendrile nime."
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "Nimedes pole lubatud kasutada  '/' sümbolit."
+
+msgid "A category called \"%s\" already exists."
+msgstr "\"%s\" nimeline kalender on juba olemas."
+
+msgid "Link start and end dates"
+msgstr "Lingi algus-ja lõpukuupäevad"
+
+msgid "Save\tCtrl+S"
+msgstr "Salvesta\tCtrl+S"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "Salvesta uuena\tShift+Ctrl+S"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "Salvesta faili...\tAlt+Ctrl+S"
+
+msgid "Print...\tCtrl+P"
+msgstr "Prindi...\tCtrl+P"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "Kustuta\tCtrl+Delete"
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "Salvesta ja sulge\tCtrl-Enter"
+
+msgid "Close\tCtrl+W"
+msgstr "Sulge\tCtrl+W"
+
+msgid "Close\tAlt-F4"
+msgstr "Sulge\tAlt-F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "Valitud kalender ei toeta kordumisi."
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr "Teavitust ei näidata kuna \"Eira teavitusi\" on sisse lülitatud."
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr "Teavitust ei näidata kuna valitud rüü (skin) ei oma teavituse akent."
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr "Ülesanne on ainult lugemiseks ja muudatusi ei salvestata."
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr "Sündmus on ainult lugemiseks ja muudatusi ei salvestata."
+
+msgid "The task is from a read-only calendar."
+msgstr "Ülesanne on kalendrist, mis on ainult lugemiseks."
+
+msgid "The event is from a read-only calendar."
+msgstr "Sündmus on kalendrist, mis on ainult lugemiseks."
+
+msgid "There are no calendars available which can store tasks."
+msgstr "Ühtegi kalendrit pole saadaval, mis saab salvestada ülesandeid."
+
+msgid "There are no calendars available which can store events."
+msgstr "Ühtegi kalendrit pole saadaval, mis saab salvestada sündmusi."
+
+msgid "No target calendar has been selected."
+msgstr "Siht kalendrit pole valitud."
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr "Originaal kirjeldus on HTML-is ja seda ei saa muuta."
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"Selle üksuse jaoks pole kalendrit valitud. Palun vali kalender, kuhu soovid "
+"selle üksuse lisada."
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"Salvestamiseks sobivat kalendrit ei leitud. Ava sätted ja loo uus kalender. "
+"Pane tähele, osad kalendrid ei toeta korraga töid ja sündmusi."
+
+msgid "Unable to save the item."
+msgstr "Üksust ei saa salvestada."
+
+msgid "Updating"
+msgstr "Uuendamine"
+
+msgid "Do you want to save the changes?"
+msgstr "Soovid muudatused salvestada?"
+
+msgid "You have made some changes to the fields."
+msgstr "Oled teinud väljadel muudatusi."
+
+msgid "&Save"
+msgstr "&Salvesta"
+
+msgid "&Discard"
+msgstr "&Unusta"
+
+msgid "&Cancel"
+msgstr "&Loobu"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Oled ikka kindel, et soovid selle üksuse kustutada?"
+
+msgid "Event"
+msgstr "Sündmus"
+
+msgid "Choose a file"
+msgstr "Vali fail"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar failid (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "Vali kalendrid:"
+
+msgid "Select the categories:"
+msgstr "Vali kategooriad:"
+
+msgid "before the event starts."
+msgstr "enne sündmuse algust."
+
+msgid "before the task is due."
+msgstr "enne sündmuse lõppemist."
+
+msgid "Set alarm sound"
+msgstr "Sea teavituse heli"
+
+msgid "Current alarm: "
+msgstr "Praegune teavitus: "
+
+msgid "Remove alarm"
+msgstr "Eemalda teavitus"
+
+msgid "Minutes"
+msgstr "minutit"
+
+msgid "Hours"
+msgstr "tundi"
+
+msgid "Days"
+msgstr "päeva järel"
+
+msgid "Alert"
+msgstr "Hoiatus"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "Selle sündmuse jaoks puudub sobiv kalender. Sündmust ei salvestatud."
+
+msgid "On the %s day of the month"
+msgstr "Kuu %s. päev"
+
+msgid "first"
+msgstr "esimene"
+
+msgid "second"
+msgstr "teine"
+
+msgid "third"
+msgstr "kolmas"
+
+msgid "fourth"
+msgstr "neljas"
+
+msgid "fifth"
+msgstr "viies"
+
+msgid "On the %s %s of the month"
+msgstr "Kuu %s %s"
+
+msgid "On the last %s of the month"
+msgstr "Kuu viimane %s"
+
+msgid "On the first weekday of the month"
+msgstr "Kuu esimene nädalapäev"
+
+msgid "On the last weekday of the month"
+msgstr "Kuu viimane nädalapäev"
+
+msgid "On the last day of the month"
+msgstr "Kuu viimane päev"
+
+msgid "Please give a name for the template"
+msgstr "Palun anna mallile nimi"
+
+msgid "Unable to create the template!"
+msgstr "Malli loomine nurjus!"
+
+msgid "You must give a name for the template."
+msgstr "Sa pead mallile nime andma."
+
+msgid "A template called \"%s\" already exists."
+msgstr "\"%s\" nimeline mall on juba olemas."
+
+msgid "Do you want to overwrite the template?"
+msgstr "Kas soovid selle malli üle kirjutada?"
+
+msgid "Choose the template to delete:"
+msgstr "Vali mall, mille soovid kustutada:"
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "Vali mall, mida kasutatakse uute ülesannete puhul:"
+
+msgid "Choose the template which is used for new events:"
+msgstr "Vali mall, mida kasutatakse uute sündmuste puhul:"
+
+msgid "Save as template..."
+msgstr "Salvesta mallina..."
+
+msgid "Delete template..."
+msgstr "Kustuta mall..."
+
+msgid "Set the default template..."
+msgstr "Sea vaikimisi mall..."
+
+msgid "Template"
+msgstr "Mall"
+
+msgid "Select the day range"
+msgstr "Vali päevade vahemik"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"See eksportija ei oska salvestada sündmuste seeriaid ja need tuleb ümber "
+"muuta tavalisteks sündmusteks. Palun defineeri päevade vahemik, mis "
+"salvestatakse faili."
+
+msgid "From:"
+msgstr "Algus:"
+
+msgid "To:"
+msgstr "Lõpp:"
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "Lõpuaeg ei saa olla varasem kui algusaeg."
+
+msgid "Birthday"
+msgstr "Sünnipäev"
+
+msgid "Anniversary"
+msgstr "Aastapäev"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Sisestasid sünnipäeva või aastapäeva, kuid ei lisanud kordamist.\n"
+"Kas soovid seda sündmust korrata igal aastal?"
+
+msgid "Error"
+msgstr "Viga"
+
+msgid "Warning"
+msgstr "Hoiatus"
+
+msgid "Question"
+msgstr "Küsimus"
+
+msgid "Information"
+msgstr "Informatsioon"
+
+msgid "Do not show this again"
+msgstr "Ära rohkem seda näita"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "&Yes"
+msgstr "&Jah"
+
+msgid "&No"
+msgstr "&Ei"
+
+msgid "Manager"
+msgstr "Märkmehaldur"
+
+msgid "Events"
+msgstr "Sündmused"
+
+msgid "Tasks"
+msgstr "Ülesanded"
+
+msgid "Show original"
+msgstr "Näita originaali"
+
+msgid "Show current"
+msgstr "Näita praegust"
+
+msgid "Show upcoming"
+msgstr "Näita tulevat"
+
+msgid "New"
+msgstr "Uus"
+
+msgid "Edit"
+msgstr "Muuda"
+
+msgid "Delete"
+msgstr "Kustuta"
+
+msgid "Copy to"
+msgstr "Kopeeri"
+
+msgid "Move to"
+msgstr "Tõsta"
+
+msgid "Change fields"
+msgstr "Muuda välju"
+
+msgid "Import"
+msgstr "Impordi"
+
+msgid "Export"
+msgstr "Ekspordi"
+
+msgid "Print..."
+msgstr "Prindi..."
+
+msgid "Backup"
+msgstr "Varunda"
+
+msgid "Restore"
+msgstr "Taasta"
+
+msgid "Close"
+msgstr "Sulge"
+
+msgid "Select all"
+msgstr "Vali kõik"
+
+msgid "Select none"
+msgstr "Tühista valik"
+
+msgid "Toggle selection"
+msgstr "Pööra valik"
+
+msgid "Select duplicates"
+msgstr "Vali duplikaadid"
+
+msgid "Sort by due time"
+msgstr "Sorteeri lõpu aja põhjal"
+
+msgid "Sort by end time"
+msgstr "Sorteeri lõpu aja põhjal"
+
+msgid "Sort by summary"
+msgstr "Sorteeri kokkuvõtte põhjal"
+
+msgid "Sort by location"
+msgstr "Sorteeri asukoha põhjal"
+
+msgid "Sort by calendar"
+msgstr "Sorteeri kalendri põhjal"
+
+msgid "Sort by category"
+msgstr "Sorteeri kategooria põhjal"
+
+msgid "Sort by url"
+msgstr "Sorteeri veebiaadressi (URL-i) põhjal"
+
+msgid "Sort by repeat"
+msgstr "Sorteeri kordumise põhjal"
+
+msgid "Sort by priority"
+msgstr "Sorteeri prioriteedi põhjal"
+
+msgid "Sort by status"
+msgstr "Sorteeri staatuse põhjal"
+
+msgid "Sort by create time"
+msgstr "Sordi loomise aja põhjal"
+
+msgid "Sort by modify time"
+msgstr "Sordi muutmise aja põhjal"
+
+msgid "Sort by start time"
+msgstr "Sorteeri algusaja põhjal"
+
+msgid "Start time"
+msgstr "Algusaeg"
+
+msgid "End time"
+msgstr "Lõpuaeg"
+
+msgid "Summary"
+msgstr "Pealkiri"
+
+msgid "Location"
+msgstr "Asukoht"
+
+msgid "Url"
+msgstr "Veebiaadress (URL)"
+
+msgid "Create time"
+msgstr "Loomise aeg"
+
+msgid "Modify time"
+msgstr "Muutmise aeg"
+
+msgid "Reverse sorting"
+msgstr "Pööratud järjestus"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "Kokku: %i (Valitud: %i)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr ""
+"Suure hulga üksuste korraga muutmine võib võtta kaua aega. Oled kindel, et "
+"soovid seda teha?"
+
+msgid "Do you want to delete the selected item?"
+msgstr "Kas soovid kustutada valitud üksuse?"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "Kas soovid kustutada valitud %i üksust?"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr "Valitud üksus on ainult lugemiseks ja seda ei saa kustutada."
+
+msgid "There were %i read only items which were not deleted."
+msgstr "Leiti %i  ainult lugemiseks üksust ja neid ei kustutatud."
+
+msgid "Unable to delete some items."
+msgstr "Ei saa kustutada osasid üksuseid."
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "Vali kalender, kuhu üksused tuleks kopeeritakse:"
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "Vali kalender, kuhu üksused tuleks tõsta:"
+
+msgid "Operation failed!"
+msgstr "Tegevus !"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr "Pole kalendrit, kuhu saaks üksusi lisada."
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"Üksuste tõstmine online kalendrisse pole turvaline. Kui sihtkalender ei võta "
+"probleemide tõttu sündmuseid vastu siis sa kaotad kõik ringi tõstetavad "
+"sündmused.\n"
+"\n"
+"Klõpsa \"Yes\" ainult siis, kui oled täiesti kindel selles, mida sa teed."
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "Tõstetud %i üksust järgmistesse kalendritesse:\n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "Kopeeritud %i üksust järgmistesse kalendritesse:\n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"Tähtis! Üksuste kopeerimine internetikalendrisse võtab natuke aega, seega "
+"need ei ole mõnda aega kättesaadavad."
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr "Osa üksusi on ainult lugemiseks ja neid kopeeriti tõstmise asemel."
+
+msgid "Operation finished!"
+msgstr "Tegevus lõpetatud!"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "Sündmuste jaoks pead valima vähemalt ühe kalendri."
+
+msgid "Backup was successful."
+msgstr "Varundi loomine õnnestus."
+
+msgid "The backup contains these files:"
+msgstr "Varund sisaldab järgmisi faile:"
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"Hoiatus! Varund ei sisalda ühtegi iCalendar faili. Kui sul on kohapeal "
+"salvestatud sündmusi või ülesandeid, siis pead need varundama käsitsi."
+
+msgid "Unable to create the backup file."
+msgstr "Ei saa luua varundi faili."
+
+msgid "The archive contains unknown files:\n"
+msgstr "Arhiiv sisaldab tundmatuid faile:\n"
+
+msgid "Restore was successful."
+msgstr "Taastamine õnnestus."
+
+msgid "There were problems during the restore."
+msgstr "Taastamisel esines probleeme."
+
+msgid "Exported %i events successfully."
+msgstr "%i sündmust eksporditi edukalt."
+
+msgid "Exported %i todo items successfully."
+msgstr "%i ülesannet eksporditi edukalt."
+
+msgid "Export failed!"
+msgstr "Eksport nurjus!"
+
+msgid "Import failed!"
+msgstr "Import nurjus!"
+
+msgid "Options"
+msgstr "Sätted"
+
+msgid "Skins"
+msgstr "Välimused"
+
+msgid "Hotkeys"
+msgstr "Kiirklahvid"
+
+msgid "Advanced"
+msgstr "Täpsemad"
+
+msgid "Reset all settings"
+msgstr "Lähtesta kõik seaded"
+
+msgid "Reset offline copy"
+msgstr "Lähtesta kohapealne koopia"
+
+msgid "Authenticate"
+msgstr "Autendi"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Get more languages..."
+msgstr "Hangi uusi keeli..."
+
+msgid "On Top"
+msgstr "Peal"
+
+msgid "On Bottom"
+msgstr "All"
+
+msgid "On Desktop"
+msgstr "Töölaual"
+
+msgid "Get more skins..."
+msgstr "Hangi uusi välimusi..."
+
+msgid "TrayIcon"
+msgstr "Süsteemisalve ikoon"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Homepage"
+msgstr "Koduleht"
+
+msgid "Addons"
+msgstr "Lisad"
+
+msgid "Version history"
+msgstr "Versiooni ajalugu"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr ""
+"See on vana Rainlendar'i välimus. Osad lisavõimalused ei pruugi toimida."
+
+msgid "Advanced >>>"
+msgstr "Täpsem>>>"
+
+msgid "<<< Simple"
+msgstr "<<<Lihtsam"
+
+msgid "Open containing folder"
+msgstr "Ava sisaldav kaust"
+
+msgid "Custom categories are not supported."
+msgstr "Kohandatud kategooriaid ei toetata."
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr ""
+"Välimus \"%s\" ei toeta kohandatud kategooria välimust, seega ei ole "
+"võimalik neid muuta."
+
+msgid "Activate only default windows?"
+msgstr "Aktiveeri ainult vaikimisi aknad?"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr "Kas soovid aktiveerida ainult vaikimisi aknad või kõik aknad?"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr "Kõikide akende aktiveerimine võib põhjusta kiiruse langust."
+
+msgid "&Default"
+msgstr "Vaikimisi"
+
+msgid "&All"
+msgstr "Kõik"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"Aktiveeri muutmise väli ja vajuta kiirklahvide kombinatsiooni. Pane tähele, "
+"et kiirklahvid on globaalsed ja mõjutavad ka teisi programme. Seega ära vali "
+"liiga lihtsaid kombinatsioone."
+
+msgid "Hotkey"
+msgstr "Kiirklahv"
+
+msgid "Function"
+msgstr "Funktsioon"
+
+msgid "Search:"
+msgstr "Otsi:"
+
+msgid "Do you want to reset all settings?"
+msgstr "Kas sa soovid lähtestada kõik sätted?"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"See taastab vaikimisi väärtused. Vaikimisi sätted rakendatakse koheselt. Kas "
+"soovid jätkata?"
+
+msgid "Common"
+msgstr "Üldine"
+
+msgid "Enabled"
+msgstr "Lubatud"
+
+msgid "Read only"
+msgstr "Ainult lugemiseks"
+
+msgid "Ignore alarms"
+msgstr "Eira teavitusi"
+
+msgid "Default alarm (minutes)"
+msgstr "Vaikimisi teavitus (minutites)"
+
+msgid "Visual category"
+msgstr "Nähtav kategooria"
+
+msgid "Time offset (mins)"
+msgstr "Ajanihe (min)"
+
+msgid "Time zone"
+msgstr "Aja vöönd"
+
+msgid "Copy of %s"
+msgstr "%s'i koopia"
+
+msgid "Please enter a name for the calendar."
+msgstr "Palun sisesta kalendri nimi."
+
+msgid "Illegal character!"
+msgstr "Lubamatu sümbol!"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "Nimes pole lubatud kasutada  '/' või ';' sümboleid."
+
+msgid "A calendar called \"%s\" already exists."
+msgstr "\"%s\" nimeline kalender on juba olemas."
+
+msgid "Choose another name."
+msgstr "Vali mõni teine nimi."
+
+msgid "Authentication failure"
+msgstr "Autentimise nurjumine"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr ""
+"OAuthi protsess nurjus. Rainlendar ei pääse teie kalendriandmetele juurde."
+
+msgid "Do you want to delete the skin?"
+msgstr "Kas sa soovid selle välimuse kustutada?"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"Kui valid Jah, siis välimus \"%s\"\n"
+"kustutatakse jäädavalt."
+
+msgid "Delete failed!"
+msgstr "Kustutamine nurjus!"
+
+msgid "Unable to delete the skin."
+msgstr "Välimust ei saa kustutada."
+
+msgid "Print"
+msgstr "Prindi"
+
+msgid "Print items"
+msgstr "Prindi üksused"
+
+msgid "End"
+msgstr "Lõpp"
+
+msgid "Settings"
+msgstr "Sätted"
+
+msgid "Variables"
+msgstr "Muutujad"
+
+msgid "Window settings"
+msgstr "Akna sätted"
+
+msgid "Settings can be shown only for a single window."
+msgstr "Sätteid saab kuvada ainult ühe akna jaoks."
+
+msgid "No settings available."
+msgstr "Sätted puuduvad."
+
+msgid "Global variables"
+msgstr "Üldised väärtused"
+
+msgid "Grow upwards"
+msgstr "Kasva ülespoole"
+
+msgid "Window position"
+msgstr "Akna positsioon"
+
+msgid "Disabled"
+msgstr "Keelatud"
+
+msgid "Click through"
+msgstr "Klõpsa läbi"
+
+msgid "Scale"
+msgstr "Skaala (%)"
+
+msgid "Filters"
+msgstr "Filtrid"
+
+msgid "Included calendars"
+msgstr "Kaasatud kalendrid"
+
+msgid "Excluded calendars"
+msgstr "Välistatud kalendrid"
+
+msgid "Included categories"
+msgstr "Kaasatud kategooriad"
+
+msgid "Excluded categories"
+msgstr "Välistatud kategooriad"
+
+msgid "Task list"
+msgstr "Ülesannete nimekiri"
+
+msgid "Alphabetically"
+msgstr "Tähestikuliselt"
+
+msgid "By Category"
+msgstr "Kategooria järgi"
+
+msgid "By Due Date"
+msgstr "Lõpu kuupäeva järgi"
+
+msgid "By Start Date"
+msgstr "Alguskuupäeva järgi"
+
+msgid "By Status"
+msgstr "Oleku järgi"
+
+msgid "By Priority"
+msgstr "Tähtsuse järgi"
+
+msgid "By Location"
+msgstr "Asukoha järgi"
+
+msgid "By Calendar"
+msgstr "Kalendri järgi"
+
+msgid "Custom"
+msgstr "Kohandatud"
+
+msgid "Primary sort order"
+msgstr "Esmane sortimise järjekord"
+
+msgid "Secondary sort order"
+msgstr "Teisene sortimise järjekord"
+
+msgid "Reverse primary sorting"
+msgstr "Pööra ümber esmane järjestus"
+
+msgid "Reverse secondary sorting"
+msgstr "Pööra ümber teisene järjestus"
+
+msgid "Empty at top"
+msgstr "Tühjad üleval"
+
+msgid "Hide completed tasks"
+msgstr "Peida lõpetatud ülesanded"
+
+msgid "Hide canceled tasks"
+msgstr "Peida katkestatud ülesanded"
+
+msgid "Hide upcoming tasks"
+msgstr "Peida eesseisvad ülesanded"
+
+msgid "Event list"
+msgstr "Sündmused"
+
+msgid "Show empty days"
+msgstr "Näita sündmusteta päevi"
+
+msgid "Window variables"
+msgstr "Akna väärtused"
+
+msgid "Appearance"
+msgstr "Välimus"
+
+msgid "Operations"
+msgstr "Tegevused"
+
+msgid "Left click"
+msgstr "Vasak-klõps"
+
+msgid "Right click"
+msgstr "Parem-klõps"
+
+msgid "Double left click"
+msgstr "Vasak topeltklõps"
+
+msgid "Double right click"
+msgstr "Parem topeltklõps"
+
+msgid "Local"
+msgstr "Kohalik"
+
+msgid "Task"
+msgstr "Ülesanne"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr "Lõpuaeg peab olema seatud enne, kui korduse saab määrata."
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "Lõpuaeg ei saa olla varasem kui algusaeg."
+
+msgid "Unable to add new alarm!"
+msgstr "Uut teavitust ei saa lisada!"
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr "Enne teavituse lisamist peab olema ülesandele lisatud lõpuaeg."
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "Täiusta Pro versiooniks enne litsentsi paigaldamist."
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"Sa kasutad endiselt Lite versiooni, mis ei sisalda Pro versiooni võimalusi. "
+"Pead minema Rainlendar'i allalaadimislehele ja võtma Pro versiooni."
+
+msgid "&Get Pro"
+msgstr "Võta Pro versioon"
+
+msgid "&Ignore"
+msgstr "Eira"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"Kui laadisid alla .r2skin või .r2lang faili ja sinu\n"
+"veebilehitseja muutis faili laiendi .zip-iks, siis võid selle\n"
+"ümber nimetada esialgsele kujule ja uuesti importida."
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Zip arhiive ei saa importida Rainlendar'isse."
+
+msgid "Unknown file \"%s\"."
+msgstr "Tundmatu fail \"%s\"."
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "Seda faili ei saa importida Rainlendar'isse."
+
+msgid "Installation failed!"
+msgstr "Paigaldamine nurjus!"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Faili kopeerimine nurjus. Alg- ja lõppfail on samasugused."
+
+msgid "Unable to install the file \"%s\"."
+msgstr "Ei saa paigaldada faili  \"%s\"."
+
+msgid "The folder does not have write permissions."
+msgstr "See kaust ei oma kirjutusõigust."
+
+msgid "The skin %s doesn't exist."
+msgstr "Välimus %s puudub."
+
+msgid "Unable to merge the addon."
+msgstr "Lisamooduli paigaldamine nurjus."
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"Fail  \"%s\" on juba olemas.\n"
+"Kas sa soovid selle asendada?"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Fail on juba olemas. Kas sa soovid selle üle kirjutada?"
+
+msgid "Unable to install the skin!"
+msgstr "Välimuse paigaldamine nurjus!"
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"See välimus ei sisalda \"skin.xml\" faili. Oled kindel, et see on xml "
+"formaadis Rainlendar'i välimus?"
+
+msgid "The installation was successful!"
+msgstr "Paigaldus lõpetati edukalt!"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "Fail \"%s\" paigaldati edukalt."
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr "Muudatuste nägemiseks palun värskenda Rainlendar-it."
+
+msgid "&Refresh"
+msgstr "&Värskenda"
+
+msgid "The installation failed!"
+msgstr "Paigaldamine nurjus!"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr "Faili \"%s\" paigaldamine nurjus!"
+
+msgid "Select the calendar for the imported items:"
+msgstr "Vali kalender imporditud üksuste jaoks:"
+
+msgid "There are no calendars available that are able to store the item."
+msgstr "Pole kalendrit, kuhu see üksus lisada."
+
+msgid "Imported %i items successfully."
+msgstr "%i üksust imporditi edukalt."
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Imporditud sündmuste jaoks pead valima vähemalt ühe kalendri"
+
+msgid "Version mismatch!"
+msgstr "Versioonid ei kattu!"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr "See rüü on versioonile %s. Paigaldatud on versioon %s."
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "Kas soovid jätkata? (Rüü välimus võib saada rikutud)"
+
+msgid "&Continue"
+msgstr "&Jätka"
+
+msgid "Ca&ncel"
+msgstr "Loobu"
+
+msgid "Failed to install \"%s\"."
+msgstr "\"%s\"'i paigaldamine nurjus."
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"See välimuse lisa on juba lisatud välimusele.\n"
+"Sama lisa võid paigaldada välimusele ainult korra."
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Lisamooduli jaoks ajutise kausta loomine nurjus."
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Space"
+msgstr "Tühik"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "NumLock"
+msgstr "NumLock"
+
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+msgid "Edit \"%s\""
+msgstr "Redigeeri \"%s\""
+
+msgid "Delete all"
+msgstr "Kustuta kõik"
+
+msgid "Dismiss alarm"
+msgstr "Lõpeta teavitus"
+
+msgid "Tomorrow"
+msgstr "Homme"
+
+msgid "Yesterday"
+msgstr "Eile"
+
+msgid "Last %1"
+msgstr "Viimasel %1l"
+
+msgid "%1 next week"
+msgstr "%1 järgmine nädal"
+
+msgid "%1 last week"
+msgstr "%1 eelmine nädal"
+
+msgid "%1 %2 weeks ago"
+msgstr "%1 %2 nädalat tagasi"
+
+msgid "%1 in %2 weeks"
+msgstr "%1 korda %2 nädalas"
+
+msgid " (Due in %s)"
+msgstr " (Lõppeb %s)"
+
+msgid " (Overdue %s)"
+msgstr " (Hilinenud %s)"
+
+msgid "day"
+msgstr "päev"
+
+msgid "days"
+msgstr "päeva"
+
+msgid "hour"
+msgstr "tund"
+
+msgid "hours"
+msgstr "tundi"
+
+msgid "minute"
+msgstr "minut"
+
+msgid "minutes"
+msgstr "minutit"
+
+msgid " (Due now)"
+msgstr " (Lõpeta kohe)"
+
+msgid "before target"
+msgstr "enne sihtmärki"
+
+msgid "Snooze"
+msgstr "Lükka edasi"
+
+msgid "Dismiss"
+msgstr "Lõpeta"
+
+msgid "Edit..."
+msgstr "Redigeeri..."
+
+msgid "Move to next day"
+msgstr "Tõsta päev edasi"
+
+msgid " (%i days)"
+msgstr " (%i päeva)"
+
+msgid "Edit event"
+msgstr "Muuda sündmust"
+
+msgid "Delete event"
+msgstr "Kustuta sündmus"
+
+msgid "[Due %x]"
+msgstr "[Kestvus %x]"
+
+msgid "No location"
+msgstr "Asukohata"
+
+msgid "No category"
+msgstr "Kategooriata"
+
+msgid "No due date"
+msgstr "Tähtajatu"
+
+msgid "No start date"
+msgstr "Algusajatu"
+
+msgid "High Priority"
+msgstr "Kõrge prioriteet"
+
+msgid "Medium Priority"
+msgstr "Keskmine prioriteet"
+
+msgid "Low Priority"
+msgstr "Madal prioriteet"
+
+msgid "No Priority"
+msgstr "Prioriteet puudub"
+
+msgid "Medium"
+msgstr "Keskmine"
+
+msgid "Expand"
+msgstr "Laienda"
+
+msgid "Collapse"
+msgstr "Kitsenda"
+
+msgid "New subtask"
+msgstr "Uus alamülesanne"
+
+msgid "Edit task"
+msgstr "Muuda ülesannet"
+
+msgid "Delete task"
+msgstr "Kustuta ülesanne"
+
+msgid "Todo list"
+msgstr "Ülesanded"
+
+msgid "Completed to now"
+msgstr "Praeguseks lõpetatud"
+
+msgid "No events today."
+msgstr "Täna ei toimu midagi."
+
+msgid "Today's events:"
+msgstr "Tänased sündmused:"
+
+msgid "Invalid plugins found!"
+msgstr "Leiti vigaseid lisasi!"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"Rainlendar'i lisade kaustas on järgnevad \n"
+"failid vigased ning need tuleks eemaldada:\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"Kontrolli, et kõik lisad oleks samast Rainlendar'i versioonist."
+
+msgid "allow multiple instances"
+msgstr "luba mitut programmi"
+
+msgid "install a skin or a language"
+msgstr "paigalda välimus või keel"
+
+msgid "import the given file"
+msgstr "impordi etteantud fail"
+
+msgid "path where the configuration file will be stored"
+msgstr "asukoht, kus hoitakse seadistuste faili"
+
+msgid "execute the given function in a script"
+msgstr "käivita etteantud funktsioon skriptis"
+
+msgid "path where the log file will be stored"
+msgstr "asukoht, kus hoitakse logi faili"
+
+msgid "path where the backups will be stored"
+msgstr "asukoht, kuhu salvestatakse varundid"
+
+msgid "add event or task to the calendar"
+msgstr "lisa sündmus või ülesanne kalendrisse"
+
+msgid "enable verbose logging"
+msgstr "luba põhjalik logi"
+
+msgid "enable debug logging"
+msgstr "luba silutud logi"
+
+msgid "disable all logging"
+msgstr "keela logimine"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr "ära kuva teadet peale failide importimist ja paigaldamist"
+
+msgid "Do you want to start another instance?"
+msgstr "Kas soovid käivitada programmi uue protsessi?"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"Rainlendar peaks juba töötama. Võid selle programmi käivitada teise "
+"protsessina, valides 'Jah'."
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"Kui see pole probleemiks ja see küsimus esitatakse alati Rainlendar'i "
+"käivitamisel, siis palun eemalda see fail:\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Andmeid ei suudetud laadida asukohast:\n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "Pane tähele, sinu sündmusi ja töid ei muudeta."
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"Seadete fail on puudu või tühi.\n"
+"Kas soovid seda taasta viimasest varukoopiast?"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Seadistuste faili loomine nurjus:\n"
+"\n"
+"%s\n"
+"\n"
+"Veendu, et antud kaust omaks kirjutusõigust."
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"Seadistuste fail ei ole kirjutatav:\n"
+"\n"
+"%s\n"
+"\n"
+"Veendu, et sellel oleks piisavalt õigusi."
+
+msgid "You won't be able to store any settings permanently."
+msgstr "Sa ei saa salvestada ühtegi suvandit jäädavalt."
+
+msgid "This is a BETA version."
+msgstr "See on BEETA versioon."
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"Kasutad Rainlendar BEETA versiooni. See tähendab, et see tarkvara ei ole "
+"testitud ja ei sobi igapäevasesse kasutusse.\n"
+"\n"
+"Palun anna vigadest teada Rainlendari BEETA foorumis aadressil www."
+"rainlendar.net.\n"
+"\n"
+"(Seda teadet näidatakse ainult üks kord)"
+
+msgid "Google Calendar support has been changed"
+msgstr "Google Calendar tuge on muudetud"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"Google Calender tugi kasutab nüüd teist kalendri tüüpi. Et taas näha Google "
+"sündmusi, pead looma uue kalendri ja määrama kalendri tüübiks  'Google "
+"Calendar (v3)'."
+
+msgid "Everything is hidden."
+msgstr "Kõik on peidetud."
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"Paistab, et kõik aknad ja süsteemisalve ikoon on peidetud. Kas see oli sinu "
+"soov?\n"
+"\n"
+"Vajuta 'Jah', kui soovid jätta kõik peidetuks ja seda dialoogi enam mitte "
+"näha.\n"
+"Vajuta 'Ei', kui soovid teha kõik aknad jälle nähtavaks."
+
+msgid "Startup error!"
+msgstr "Viga käivitamisel!"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"Rainlendar ei suutnud seadeid korrektselt värskendada. Kas soovid lähtestada "
+"kõik seaded ja proovida uuesti või kasutada varukoopiat?"
+
+msgid "&Reset"
+msgstr "&Lähtesta"
+
+msgid "&Use backup"
+msgstr "Kasuta varundit"
+
+msgid "&Keep"
+msgstr "Säilita"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Välimusi ei leitud asukohast:\n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"Rainlendar ei suutnud laadida valitud välimust. Kas soovid kasutada selle "
+"asemel vaikimisi välimust?"
+
+msgid "Unable to load the skin!"
+msgstr "Rüüd ei saa laadida!"
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr "Valitud rüüd ei saa laadida. Täpsema info leiad Rainlendari logist."
+
+msgid "&Ok"
+msgstr "&Ok"
+
+msgid "&Show log"
+msgstr "Näita logi"
+
+msgid "Yes"
+msgstr "Jah"
+
+msgid "No"
+msgstr "Ei"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr ""
+"Litsentsifail on tühi"
+"Kasutage litsentsifaili allalaadimisel kindlasti täielikku URL-i."
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"Litsentsifail ei sobi"
+"Olete ületanud litsentsi allalaadimise kordade arvu"
+"Lisateabe saamiseks võtke ühendust Rainlendari toega"
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"Litsentsifailil pole kehtivat vormingut"
+"Veenduge, et kasutate õiget litsentsifaili"
+"Samuti võite proovida faili uuesti alla laadida, kui tõrge püsib"
+
+msgid "Skin error!"
+msgstr "Välimuse viga!"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"Shadow4 \"Suur kalender\" välimus on asendatud kalendri suvandiga \"Suur\". "
+"Klõpsa OK välimuse lähtestamiseks."
+
+msgid "Use large default skin?"
+msgstr "Kasuta suurt vaikimisi rüüd?"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"Vaikimisi väärtused võivad olla su ekraaniresolutsiooni juures liiga "
+"väikesed. Kas soovid kasutada suuremaid fonte ja aknaid?"
+
+msgid "&Large"
+msgstr "Suur"
+
+msgid "&Small"
+msgstr "Väike"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Leitud vanad Rainlendar'i failid:\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "Soovid need importida?"
+
+msgid "Import failed with file: \"%s\""
+msgstr "Importimine nurjus failiga: \"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "Soovid osta Rainlendar2 Pro?"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"Loodan, et nautisid Rainlendari kasutamist möödunud kuul. Kas soovid "
+"uuendada lisavõimalustega Pro versioonile? Kui kasutad allpool asuvat linki "
+"\"Osta kohe\" siis saad litsentsi sootsamalt. Võid kasutada ka  \"Tänan, ei"
+"\" nuppu ja seda teadet rohkem ei kuvata.\n"
+"\n"
+"Tänan toetuse eest."
+
+msgid "&Buy Now"
+msgstr "&Osta kohe"
+
+msgid "&Remind later"
+msgstr "&Teavita hiljem"
+
+msgid "&No Thanks"
+msgstr "&Tänan, ei"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Update"
+msgstr "Uuenda"
+
+msgid "Make a selection:"
+msgstr "Soorita valik:"
+
+msgid "Hide Windows"
+msgstr "Peida aknad"
+
+msgid "Show Windows"
+msgstr "Näita aknaid"
+
+msgid "Toggle Windows"
+msgstr "Vaheta aknad"
+
+msgid "Toggle Today Window"
+msgstr "Vaheta tänane aken"
+
+msgid "Create New Task"
+msgstr "Loo uus ülesanne"
+
+msgid "Create New Event"
+msgstr "Loo uus sündmus"
+
+msgid "Create new event or task"
+msgstr "Loo uus sündmus või ülesanne"
+
+msgid "Quit Application"
+msgstr "Välju rakendusest"
+
+msgid "Business"
+msgstr "Äri"
+
+msgid "Calls"
+msgstr "Kõned"
+
+msgid "Clients"
+msgstr "Kliendid"
+
+msgid "Competition"
+msgstr "Võistlus"
+
+msgid "Customer"
+msgstr "Klient"
+
+msgid "Exam"
+msgstr "Eksam"
+
+msgid "Favorites"
+msgstr "Lemmikud"
+
+msgid "Follow Up"
+msgstr "Eesolev"
+
+msgid "Gifts"
+msgstr "Kingitused"
+
+msgid "Holidays"
+msgstr "Riigipühad"
+
+msgid "Ideas"
+msgstr "Ideed"
+
+msgid "Important"
+msgstr "Tähtis"
+
+msgid "Issues"
+msgstr "Tegevused"
+
+msgid "Miscellaneous"
+msgstr "Mitmesugused"
+
+msgid "Personal"
+msgstr "Isiklik"
+
+msgid "Projects"
+msgstr "Projektid"
+
+msgid "Public Holiday"
+msgstr "Avalik püha"
+
+msgid "Suppliers"
+msgstr "Tarnijad"
+
+msgid "Travel"
+msgstr "Reis"
+
+msgid "Trip"
+msgstr "Retk"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Vacation"
+msgstr "Puhkus"
+
+msgid "Work"
+msgstr "Töö"
+
+msgid "Medical"
+msgstr "Meditsiin"
+
+msgid "Urgent"
+msgstr "Kiire"
+
+msgid "Health"
+msgstr "Tervis"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Game"
+msgstr "Mäng"
+
+msgid "School"
+msgstr "Kool"
+
+msgid "Party"
+msgstr "Pidu"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "Car"
+msgstr "Auto"
+
+msgid "Payments"
+msgstr "Maksed"
+
+msgid "Money"
+msgstr "Raha"
+
+msgid "Pets"
+msgstr "Loomad"
+
+msgid "Theatre"
+msgstr "Teater"
+
+msgid "Music"
+msgstr "Muusika"
+
+msgid "[Black]"
+msgstr "[Must]"
+
+msgid "[Blue]"
+msgstr "[Sinine]"
+
+msgid "[Brown]"
+msgstr "[Pruun]"
+
+msgid "[Cyan]"
+msgstr "[Helesinine]"
+
+msgid "[Green]"
+msgstr "[Roheline]"
+
+msgid "[Grey]"
+msgstr "[Hall]"
+
+msgid "[Magenta]"
+msgstr "[Lilla]"
+
+msgid "[Pink]"
+msgstr "[Roosa]"
+
+msgid "[Red]"
+msgstr "[Punane]"
+
+msgid "[Yellow]"
+msgstr "[Kollane]"
+
+msgid "[Orange]"
+msgstr "[Oranž]"
+
+msgid "Must Attend"
+msgstr "Peab kaasnema"
+
+msgid "Travel Required"
+msgstr "Vajab reisimist"
+
+msgid "Needs Preparation"
+msgstr "Vajab ettevalmistust"
+
+msgid "Phone Call"
+msgstr "Telefoni kõne"
+
+msgid "iCalendar Format"
+msgstr "iCalendar formaat"
+
+msgid "Network Shared Calendar"
+msgstr "Jagatud (võrgu) kalender"
+
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+msgid "Rainlendar Ini Format"
+msgstr "Rainlendar .ini formaat"
+
+msgid "Google Calendar"
+msgstr "Google Kalender"
+
+msgid "CalDAV Calendar"
+msgstr "CalDAV kalender"
+
+msgid "Google Calendar (v3)"
+msgstr "Google Calendar (v3)"
+
+msgid "Google Tasks"
+msgstr "Google Tasks"
+
+msgid "Comma Separated Values"
+msgstr "Komaga eraldatud väärtused (CSV)"
+
+msgid "&Next >"
+msgstr "&Edasi >"
+
+msgid "< &Back"
+msgstr "< &Tagasi"
+
+msgid "&Finish"
+msgstr "&Valmis"
+
+msgid "Vertical Calendar"
+msgstr "Vertikaalne kalender"
+
+msgid "Year Calendar"
+msgstr "Aasta kalender"
+
+msgid "Sidebar"
+msgstr "Külgriba"
+
+msgid "DigiClock"
+msgstr "Digitaalkell"
+
+msgid "Dual Calendar"
+msgstr "Topelt kalender"
+
+msgid "Todo List"
+msgstr "Ülesannete nimekiri"
+
+msgid "Grid Calendar"
+msgstr "Joondatud kalender"
+
+msgid "Vertical Line Calendar"
+msgstr "Kalender vertikaalse joonena"
+
+msgid "Horizontal Line Calendar"
+msgstr "Kalender horisontaalse joonena"
+
+msgid "Visible month"
+msgstr "Nähtav kuu"
+
+msgid "Show buttons"
+msgstr "Näita nuppe"
+
+msgid "Show adjacent days"
+msgstr "Näita külgnevaid päevi"
+
+msgid "Eventlist max height"
+msgstr "Sündmuste nimekirja max kõrgus"
+
+msgid "Todolist max height"
+msgstr "Ülesannete nimekirja max kõrgus"
+
+msgid "Show week numbers"
+msgstr "Näita nädalate numbreid"
+
+msgid "Format"
+msgstr "Formaat"
+
+msgid "Timezone"
+msgstr "Ajavöönd"
+
+msgid "Label"
+msgstr "Silt"
+
+msgid "Show 3rd month"
+msgstr "Näita 3.-ndat kuud"
+
+msgid "Show 4th month"
+msgstr "Näita 4.-ndat kuud"
+
+msgid "Show 5th month"
+msgstr "Näita 5.-ndat kuud"
+
+msgid "Show 6th month"
+msgstr "Näita 6.-ndat kuud"
+
+msgid "Show 7th month"
+msgstr "Näita 7.-ndat kuud"
+
+msgid "Show 8th month"
+msgstr "Näita 8.-ndat kuud"
+
+msgid "Color"
+msgstr "Värv"
+
+msgid "Analog Clock"
+msgstr "Analoogkell"
+
+msgid "Calendar List"
+msgstr "Kalendri nimekiri"
+
+msgid "X count"
+msgstr "X loend"
+
+msgid "Y count"
+msgstr "Y loend"
+
+msgid "Snooze All"
+msgstr "Lükka kõik edasi"
+
+msgid "Dismiss All"
+msgstr "Lõpeta kõik"
+
+msgid "To do"
+msgstr "Ülesanded"
+
+msgid "Today color"
+msgstr "Tänase päeva märgise värv"
+
+msgid "Today shape"
+msgstr "Tänase päeva märgise kuju"
+
+msgid "Circle"
+msgstr "Ring"
+
+msgid "Rectangle"
+msgstr "Ristkülik"
+
+msgid "Slim circle"
+msgstr "Õhuke ring"
+
+msgid "Slim rectangle"
+msgstr "Õhuke ristkülik"
+
+msgid "Red"
+msgstr "Punane"
+
+msgid "Orange"
+msgstr "Oranž"
+
+msgid "Yellow"
+msgstr "Kollane"
+
+msgid "Green"
+msgstr "Roheline"
+
+msgid "Cyan"
+msgstr "Helesinine (cyan)"
+
+msgid "Blue"
+msgstr "Sinine"
+
+msgid "Magenta"
+msgstr "Lilla"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"Järg populaarsele Shadow3-skin'ile, millele on lisatud nähtavad päevad "
+"eelmisest ja järgmisest kuust ja kujundatud infomull."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"Määrab kuu, mida kalender näitab. Järgmise kuu jaoks vali +1 ja eelmise "
+"jaoks -1 või konkreetse kuu jaoks 1 kuni 12."
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr ""
+"Eemalda märgistus, kui soovid peita kalendris nupu järgmine ja eelmine."
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr ""
+"Eemalda märgistus, kui soovid peita kalendris eelmise ja järgmise kuu päevad."
+
+msgid "Defines the maximum height of the alarm."
+msgstr "Määrab teavituse maksimaalse kõrguse."
+
+msgid "Defines the maximum height of the event list."
+msgstr "Määrab sündmuste nimekirja maksimaalse kõrguse."
+
+msgid "Defines the maximum height of the to do list."
+msgstr "Määrab ülesannete nimekirja maksimaalse kõrguse."
+
+msgid "Defines the width of the calendar list."
+msgstr "Defineerib kalendri nimekirja laiuse."
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "Eemalda märgistus, kui soovid peita kalendris nädala numbrid."
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr ""
+"Määrab kella kuvamise formaadi. Et lahti saada sekunditest, kasuta %H:%M või "
+"%#I:%M %p"
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"Määrab ajavööndi. Kasuta väärtusi: ... -3, -2, -1, 0, +1, +2, +3, ... . Saad "
+"kasutada ka väärtusi, nagu CET, EST, PST, A_CST, ..."
+
+msgid "Adds a label for the clock."
+msgstr "Lisab kellale pealkirja."
+
+msgid "Defines the color of the today marker."
+msgstr "Määrab tänase päeva märgise värvi."
+
+msgid "Defines the shape of the today marker."
+msgstr "Määrab tänase päeva märgise kuju."
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "Määrab, mitut kalendrit näidatakse aknas horisontaalselt."
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "Määrab, mitut kalendrit näidatakse aknas vertikaalselt."
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "Eemalda märgistus, kui soovid peita kalendris nädalapäevade nimed."
+
+msgid "Week View"
+msgstr "Nädala vaade"
+
+msgid "Today position"
+msgstr "Tänase positsioon"
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"Määrab koha, kus paikneb tänase päeva märge. Kui väärtus on seatud 0-ks "
+"(vaikimisi), siis nädala vaade kuvab täis nädalat ja tänase päeva märge "
+"liigub seal. Kui väärtus on 1 kuni 7, siis tänase päeva märge püsib sellel "
+"positsioonil ja nädalapäevade asukohad muutuvad vastavalt sellele."
+
+msgid "Autoscroll"
+msgstr "Automaatne kerimine"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "Eemalda märgistus, kui soovid eemaldada automaatse kerimise."
+
+msgid "Week view date format"
+msgstr "Nädala vaate kuupäeva formaat"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr "See määrab ajakavas kuupäeva formaadi. Vaikimisi on %#d.%#m."
+
+msgid "Week view time format"
+msgstr "Nädala vaate aja formaat"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"Määrab ajakavas kella kuvamise formaadi. Vaikimisi on %H:%M. AM/PM formaadi "
+"jaoks kasuta %#I %p"
+
+msgid "Time item height"
+msgstr "Ajaüksuse kõrgus"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr "Määrab vaates ühe ajaüksuse kõrguse. Vaikimisi väärtus on 30 pikslit."
+
+msgid "Time item duration"
+msgstr "Ajaüksuse kestvus"
+
+msgid "60 Minutes"
+msgstr "60 minutit"
+
+msgid "30 Minutes"
+msgstr "30 minutit"
+
+msgid "15 Minutes"
+msgstr "15 minutit"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr "Määrab vaates ühe ajaüksuse kestvuse. Vaikimisi väärtus on 60 minutit."
+
+msgid "All day max height"
+msgstr "Kogu päeva suurim kõrgus"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"Terve päeva sündmuseala maksimaalne kõrgus. Kui sündmused ei mahu sellele "
+"alale ära, kasutatakse kerimisriba."
+
+msgid "Event min height"
+msgstr "Sündmuse min kõrgus"
+
+msgid "The minimum height of the event."
+msgstr "Sündmuse minimaalne kõrgus."
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "Eemalda märgistus, kui soovid peita vaatest nädala numbrid."
+
+msgid "Show weekdays"
+msgstr "Näita nädalapäevi"
+
+msgid "Day View"
+msgstr "Päeva vaade"
+
+msgid "Day view time format"
+msgstr "Päeva vaate aja formaat"
+
+msgid "Day view date format"
+msgstr "Päeva vaate kuupäeva formaat"
+
+msgid "Month View"
+msgstr "Kuu vaade"
+
+msgid "Show background"
+msgstr "Näita tausta"
+
+msgid "Uncheck to make the background transparent."
+msgstr "Eemalda märgistus, kui soovid muuta tausta läbipaistvaks."
+
+msgid "Large Calendar"
+msgstr "Suur kalender"
+
+msgid "Today window max height"
+msgstr "Tänase akna max kõrgus"
+
+msgid "Defines the maximum height of the today window."
+msgstr "Defineerib tänase akna maksimaalse kõrguse."
+
+msgid "Today show tasks"
+msgstr "Näita tänaseid töid"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr "Defineerib, kas töid näidatakse tänases aknas."
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"Välimus sisaldab mitmeid erinevaid värvide kombinatsioone. Neid saad muuta "
+"kas välimuse suvandite alt või vajutades kalendris allasuunatud noolele."
+
+msgid "Brown"
+msgstr "Pruun"
+
+msgid "Dark"
+msgstr "Tume"
+
+msgid "Colorless"
+msgstr "Värvitu"
+
+msgid "Defines the color of the windows."
+msgstr "Määrab akende värvi."
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr "Määrab sündmuste nimekirja päisetes kuupäevade formaadi."
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr ""
+"Määrab sündmuste nimekirja suurima kõrguse. Vaikimisi väärtus on 300 pikslit."
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr ""
+"Määrab ülesannete nimekirja suurima kõrguse. Vaikimisi väärtus on 300 "
+"pikslit."
+
+msgid "Removes the color from the windows."
+msgstr "Eemaldab akende värvi."
+
+msgid "Creates darker version of the windows."
+msgstr "Loob akna tumedama versiooni."
+
+msgid "All day"
+msgstr "Terve päev"
+
+msgid "Day bar show day"
+msgstr "Päeva riba näitab päevi"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr "Määrab, kas päevade numbreid ja nimesid näidatakse päeva ribal."
+
+msgid "Day bar am-pm"
+msgstr "Päeva riba am-pm"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "Märgista aegade näitamiseks 12-tunni kellaga."
+
+msgid "Bar event"
+msgstr "Riba sündmus"
+
+msgid "The event color for the bars."
+msgstr "Sündmuse värv ribadele."
+
+msgid "Conditions: "
+msgstr "Tingimused: "
+
+msgid "Temperature: "
+msgstr "Temperatuur: "
+
+msgid "Humidity: "
+msgstr "Õhuniiskus: "
+
+msgid "Winds: "
+msgstr "Tuuled: "
+
+msgid "Time: "
+msgstr "Aeg: "
+
+msgid "Refreshing..."
+msgstr "Värskendan..."
+
+msgid "Downloading: "
+msgstr "Allalaadimine: "
+
+msgid "Download failed!"
+msgstr "Allalaadimine nurjus!"
+
+msgid "Loading..."
+msgstr "Laadimine..."
+
+msgid "Unknown result!"
+msgstr "Tundmatu tulemus!"
+
+msgid "Upcoming programs:"
+msgstr "Saabuvad kavad:"
+
+msgid "Parsing failed!"
+msgstr "Töötlemine nurjus!"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr " PÄEVAD     TUNNID   MIN   SEK"
+
+msgid "Loading feed..."
+msgstr "Laen voogu..."
+
+msgid "Lo: "
+msgstr "Madalaim: "
+
+msgid "Hi: "
+msgstr "Kõrgeim: "
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "Max:"
+msgstr "Max:"
+
+msgid "Chance of precipitation: "
+msgstr "Sademete tõenäosus: "
+
+msgid "New moon"
+msgstr "Noorkuu"
+
+msgid "Waxing crescent"
+msgstr "Kasvav noorkuu"
+
+msgid "First quarter"
+msgstr "Esimene veerand"
+
+msgid "Waxing gibbous"
+msgstr "Kasvav kolmas veerand"
+
+msgid "Full moon"
+msgstr "Täiskuu"
+
+msgid "Waning gibbous"
+msgstr "Kahanev kolmas veerand"
+
+msgid "Last quarter"
+msgstr "Viimane veerand"
+
+msgid "Waning crescent"
+msgstr "Kahanev vanakuu"
+
+msgid "Southern hemisphere"
+msgstr "Lõuna poolkera"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr ""
+"Sea 1-ks, kui soovid faase vaadata ekvaatorist lõunapoole jäävatel aladel."
+
+msgid "World Time"
+msgstr "Maailmaaeg"
+
+msgid "World time format"
+msgstr "Maailmaaja formaat"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"See määrab ajaformaadi. Vaikimisi kasutatakse %H:%M. AM/PM formaadi puhul "
+"kasuta %#I:%M %p"
+
+msgid "World time location 1"
+msgstr "Maailmaaja asukoht 1"
+
+msgid "Defines the title for the time."
+msgstr "Määrab aja pealkirja."
+
+msgid "World time timezone 1"
+msgstr "Maailmaaja ajavöönd 1"
+
+msgid "World time location 2"
+msgstr "Maailmaaja asukoht 2"
+
+msgid "World time timezone 2"
+msgstr "Maailmaaja ajavöönd 2"
+
+msgid "World time location 3"
+msgstr "Maailmaaja asukoht 3"
+
+msgid "World time timezone 3"
+msgstr "Maailmaaja ajavöönd 3"
+
+msgid "World time location 4"
+msgstr "Maailmaaja asukoht 4"
+
+msgid "World time timezone 4"
+msgstr "Maailmaaja ajavöönd 4"
+
+msgid "Photos"
+msgstr "Pildid"
+
+msgid "Weather"
+msgstr "Ilm"
+
+msgid "Countdown"
+msgstr "Mahaloendus"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Create New"
+msgstr "Loo uus"
+
+msgid "Moon Phase"
+msgstr "Kuu faas"
+
+msgid "QuickAdd"
+msgstr "Kiirlisamine"
+
+msgid "Translate"
+msgstr "Tõlgi"
+
+msgid "Text File"
+msgstr "Teksti fail"
+
+msgid "RSS height"
+msgstr "RSS kõrgus"
+
+msgid "Defines the maximum height of the list."
+msgstr "Defineerib nimekirja max kõrguse."
+
+msgid "RSS location"
+msgstr "RSS asukoht"
+
+msgid "Location of the RSS feed."
+msgstr "RSS voo asukoht."
+
+msgid "Weather location"
+msgstr "Ilmateate asukoht"
+
+msgid "Location of the weather feed."
+msgstr "Ilmateate voo asukoht."
+
+msgid "Weather city"
+msgstr "Ilmateate linn"
+
+msgid "The city for the weather."
+msgstr "Linn ilmateateks."
+
+msgid "Weather language"
+msgstr "Ilmateate keel"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr "Ilmateate keel. Kasuta keelte tähiseid nagu en, fi, ru, zh-cn, ..."
+
+msgid "Photos random"
+msgstr "Pildid juhuslikult"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr ""
+"Eemalda märgistus piltide kuvamiseks järjekorras. Märgistatuna näidatakse "
+"neid juhuslikus järjekorras."
+
+msgid "Photos update"
+msgstr "Piltide uuendus"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "Määrab, kui tihti pilti uuendatakse. Väärtus on minutites."
+
+msgid "Photos folder"
+msgstr "Piltide kaust"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"Määrab kohaliku kausta, millest otsitakse pilte. Kui see on jäetud tühjaks, "
+"siis laetakse pildid alla Flickr'ist."
+
+msgid "Countdown event"
+msgstr "Pöördloenduse sündmus"
+
+msgid "The description of the event."
+msgstr "Sündmuse kirjeldus."
+
+msgid "Countdown time"
+msgstr "Pöördloenduse aeg"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "Sündmuse kellaaeg. Kasuta formaati TT:MM:SS."
+
+msgid "Countdown date"
+msgstr "Pöördloenduse kuupäev"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "Sündmuse kuupäev. Kasuta formaati AAAA-KK-PP."
+
+msgid "TV height"
+msgstr "TV kõrgus"
+
+msgid "Copy to clipboard"
+msgstr "Kopeeri lõikelauale"
+
+msgid "File path"
+msgstr "Faili asukoht"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "Määrab aknas kuvatava faili asukoha ja nime."
+
+msgid "No file given"
+msgstr "Faili pole antud"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr "Mine akna suvanditesse ja suuna asukoha väärtus tekstifailile."
+
+msgid "File window full rows"
+msgstr "Failiakna täis read"
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr "Märgista täisridade näitamiseks. Ilma märgistuseta lõikab ridu."
+
+msgid "File window width"
+msgstr "Faili akna laius"
+
+msgid "The width of the calendar window."
+msgstr "Kalendri akna laius."
+
+msgid "The height of the calendar window."
+msgstr "Kalendri akna kõrgus."
+
+msgid "Defines the width of the event list."
+msgstr "Määrab sündmuste nimekirja laiuse."
+
+msgid "Defines the width of the to do list."
+msgstr "Defineerib ülesannete nimekirja laiuse."
+
+msgid "Defines the width of the quickadd window."
+msgstr "Defineerib kiirlisamise aknalaiuse."
+
+msgid "Defines the width of the day view window."
+msgstr "Defineerib päeva vaate akna laiuse."
+
+msgid "Defines the height of the day view window."
+msgstr "Defineerib päeva vaate akna kõrguse."
+
+msgid "Defines the width of the week view window."
+msgstr "Defineerib nädala vaate akna laiuse."
+
+msgid "Defines the height of the week view window."
+msgstr "Defineerib nädala vaate akna kõrguse."
+
+msgid "Defines the width of the calendar window."
+msgstr "Defineerib kalendri akna laiuse."
+
+msgid "Defines the height of the calendar window."
+msgstr "Defineerib kalendri akna kõrguse."
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "alt"
+msgstr "alt"
+
+msgid "shift"
+msgstr "shift"
+
+msgid "Mark as completed"
+msgstr "Märgi tehtuks"
+
+msgid "Mark as needs action"
+msgstr "Märgi tegemist vajavaks"
+
+msgid "Recurring"
+msgstr "Kordus"
+
+msgid "Description"
+msgstr "Kirjeldus"
+
+msgid "Text color"
+msgstr "Teksti värv"
+
+msgid "Tooltip color"
+msgstr "Kohtspikri värv"
+
+msgid "Black"
+msgstr "Must"
+
+msgid "White"
+msgstr "Valge"
+
+msgid "Light grey"
+msgstr "Helehall"
+
+msgid "Light pink"
+msgstr "Heleroosa"
+
+msgid "Grey"
+msgstr "Hall"
+
+msgid "Pink"
+msgstr "Roosa"
+
+msgid "Schedule background"
+msgstr "Ajakava taust"
+
+msgid "The background color for the day, week and month views."
+msgstr "Päeva-, nädala- ja kuuvaadete taustavärv."
+
+msgid "Schedule text color"
+msgstr "Ajakava tekstivärv"
+
+msgid "The text color for the day, week and month views."
+msgstr "Päeva-, nädala- ja kuuvaadete tekstivärv."
+
+msgid "Calendar day color"
+msgstr "Kalendripäeva värv"
+
+msgid "Large calendar day color"
+msgstr "Suure kalendripäeva värv"
+
+msgid "The color for the days in the calendar."
+msgstr "Päevade teksti värv kalendris."
+
+msgid "Calendar day text color"
+msgstr "Päeva teksti värv kalendris"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "Päevanumbrite värv kalendris."
+
+msgid "Small icon"
+msgstr "Väike ikoon"
+
+msgid "The icon which is shown in the calendar."
+msgstr "Kalendris kuvatav ikoon."
+
+msgid "Large icon"
+msgstr "Suur ikoon"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "Ikoon, mis kuvatakse sündmuste ja ülesannete nimekirjades."
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "Nimekirjade ja kohtspikri tekstivärv."
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr ""
+"Tähtsus määrab, millist kategooriat näidatakse, kui neid esineb samal päeval "
+"mitul."
+
+msgid "Schedule text shadow color"
+msgstr "Ajakava teksti varjutuse värv"
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "Teksti varjutuse värv päeva, nädala ja kuu vaates."
+
+msgid "Calendar day text shadow color"
+msgstr "Päeva teksti varjutuse värv kalendris"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "Päeva numbrite varjutuse värv kalendris."
+
+msgid "Text shadow color"
+msgstr "Teksti varjutuse värv"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "Teksti varjutuse värv nimekirjades ja kohtspikris."
+
+msgid "Show date"
+msgstr "Näita kuupäeva"
+
+msgid "Check to show also the current date."
+msgstr "Vali ka praeguse kuupäeva näitamiseks."
+
+msgid "This defines the format of the time."
+msgstr "Kirjeldab kellaaja formaadi."
+
+msgid "This defines the format of the date."
+msgstr "Kirjeldab kuupäeva formaadi."
+
+msgid "Search"
+msgstr "Otsi"
+
+msgid "Search engine"
+msgstr "Otsingumootor"
+
+msgid "Choose the search engine"
+msgstr "Vali otsingumootor"
+
+msgid "Enter search text"
+msgstr "Siseta otsingu tekst"
+
+msgid "Show title"
+msgstr "Näita pealkirja"
+
+msgid "Check to show a title text."
+msgstr "Vali pealkirja teksti näitamiseks."
+
+msgid "Title text"
+msgstr "Pealkirja tekst"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "Pealkirja tekst, mida näidatakse kellaaja kohal."
+
+msgid "Weather woeid"
+msgstr "Ilmateate asukoha WOEID"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "Yahoo WOEID ilmajaama tähis."
+
+msgid "Weather celsius"
+msgstr "Temp. Celsiuses"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "Valiku korral näitatakse temperatuuri Celsiuse kraadides."
+
+msgid "Bold blue"
+msgstr "Tugev sinine"
+
+msgid "Turquoise"
+msgstr "Türkiis"
+
+msgid "Bold green"
+msgstr "Tugev roheline"
+
+msgid "Bold red"
+msgstr "Tugev punane"
+
+msgid "Purple"
+msgstr "Lilla"
+
+msgid "Gray"
+msgstr "Hall"
+
+msgid "No events today"
+msgstr "Tänaseks pole sündmusi"
+
+msgid "No tasks today"
+msgstr "Tänaseks pole töid"
+
+msgid "Background opacity"
+msgstr "Tausta läbipaistvus"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr "Defineerib akna tausta läbipaistvuse. Kasuta väärtusi 0 kuni 100."
+
+msgid "Snooze menu"
+msgstr "Lükka edasi menüü"
+
+msgid "Pressure: "
+msgstr "Rõhk: "
+
+msgid "UV index: "
+msgstr "UV indeks: "
+
+msgid "Feels like: "
+msgstr "Tundub kui: "
+
+msgid "Sunrise: "
+msgstr "Päikesetõus: "
+
+msgid "Sunset: "
+msgstr "Päikeseloojang: "
+
+msgid "Tonight"
+msgstr "Täna"
+
+msgid "Menu"
+msgstr "Menüü"
+
+msgid "Large"
+msgstr "Suur"
+
+msgid "Use large images and more space between the items."
+msgstr "Kasuta suuri pilte ja suuremaid vahesid elementide vahel."
+
+msgid "Alarm max height"
+msgstr "Teavituse suurim kõrgus"
+
+msgid "Horizontal Day Bar"
+msgstr "Horisontaalne päeva riba"
+
+msgid "Vertical Day Bar"
+msgstr "Vertikaalne päeva riba"
+
+msgid "Day bar show text"
+msgstr "Päeva riba näitab teksti"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "Eemalda märgistus, kui soovid peita sündmustest tekstid."
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "Tekstivärv kalendris ja nimekirjades."
+
+msgid "The color of the text in the tooltip."
+msgstr "Tekstivärv kohtspikris."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"Määrab kuu, mida kalender näitab. Järgmise kuu jaoks vali +1 ja eelmise "
+"jaoks -1 või kindla kuu jaoks 0 kuni 11."
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Aktiivset välimust ei suudetud leida.\n"
+"Esimese saadavaloleva välimuse laadimiseks vajuta OK."
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"Välimusel puuduvad aktiivsed aknad.\n"
+"Selle asemel kasutatakse vaikimisi aknaid."
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Välimust ei eksisteeri.\n"
+"Esimese saadavaloleva välimuse laadimiseks vajuta OK."
+
+msgid "No items"
+msgstr "Üksused puuduvad"
+
+msgid "No events"
+msgstr "Sündmused puuduvad"
+
+msgid "No tasks"
+msgstr "Ülesanded puuduvad"
+
+msgid "Synchronizing"
+msgstr "Sünkroniseerin"
+
+msgid "Offline"
+msgstr "Võrguta"
+
+msgid "today"
+msgstr "täna"
+
+msgid "tomorrow"
+msgstr "homme"
+
+msgid "yesterday"
+msgstr "eile"
+
+msgid "Jan"
+msgstr "Jaan"
+
+msgid "Feb"
+msgstr "Veebr"
+
+msgid "Mar"
+msgstr "Märts"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "Jun"
+msgstr "Juuni"
+
+msgid "Jul"
+msgstr "Juuli"
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "Sep"
+msgstr "Sept"
+
+msgid "Oct"
+msgstr "Okt"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Dets"
+
+msgid "%ith"
+msgstr "%i"
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11;12;13;1;2;3"
+
+msgid "edit"
+msgstr "redigeeri"
+
+msgid "Do you want to create the file?"
+msgstr "Kas sa soovid luua faili?"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"Faili ei ole olemas:\n"
+"%s"
+
+msgid "Unable to create the file \"%s\"."
+msgstr "Ei saa luua faili \"%s\"."
+
+msgid "This is a read only event."
+msgstr "See sündmus on kirjutuskaitstud."
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "Seda sündmust pole võimalik Rainlendar'iga muuta."
+
+msgid "This is a read only task."
+msgstr "See ülesanne on kirjutuskaitstud."
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "Seda ülesannet pole võimalik Rainlendar'iga muuta."
+
+msgid "URL"
+msgstr "Veebiaadress (URL)"
+
+msgid "Organizer"
+msgstr "Korraldaja"
+
+msgid "Accepted"
+msgstr "Aktsepteeritud"
+
+msgid "Declined"
+msgstr "Keeldutud"
+
+msgid "Tentative"
+msgstr "Katseline"
+
+msgid "Needs action"
+msgstr "Vajab tegevust"
+
+msgid "Create a new calendar"
+msgstr "Loo uus kalender"
+
+msgid "Please select the type of the calendar."
+msgstr "Palun vali kalendri tüüp."
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr ""
+"Kalendri tüüp määrab sündmuste formaati ja koha, kuhu need salvestatakse."
+
+msgid "local"
+msgstr "lokaalne"
+
+msgid "deprecated"
+msgstr "ebasoovitav"
+
+msgid "Type"
+msgstr "Tüüp"
+
+msgid "Go Pro"
+msgstr "Võta Pro versioon"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro kasutada Outlook-i, Google Calendar-i ja teisi kolmanda "
+"osapoole kalendreid otse töölaualt."
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro kasutada Google Calendar-i ja teisi kolmanda osapoole "
+"kalendreid otse töölaualt."
+
+msgid "Buy license"
+msgstr "Osta litsents"
+
+msgid "See differences"
+msgstr "Vaata erinevusi"
+
+msgid "No calendar selected!"
+msgstr "Ühtegi kalendrit pole valitud!"
+
+msgid "You need to select a calendar type."
+msgstr "Pead valima kalendri tüübi."
+
+msgid "Finish the authentication in your browser"
+msgstr "Lõpetage autentimisprotsess veebilehitsejas"
+
+msgid "Authenticating..."
+msgstr "Autendin..."
+
+msgid "Downloading..."
+msgstr "Laen alla..."
+
+msgid "No urls allowed!"
+msgstr "Veebiaadressid (URL-id) pole lubatud!"
+
+msgid "Only local files can be defined as the file name."
+msgstr "Faili nimena saab määrata ainult kohalikke faile."
+
+msgid "No UNC paths allowed!"
+msgstr "UNC rajad pole lubatud!"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"UNC radasid ei saa kasutada faili nimena. Serveris olevatele failidele "
+"ligipääsuks pead kaardistama võrgudraivi."
+
+msgid "No filename defined!"
+msgstr "Faili nimi on määramata!"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"Faili nime välja ei saa jätta tühjaks. Pead määratlema faili, kuhu sündmused "
+"ja ülesanded salvestatakse."
+
+msgid "The file name is missing."
+msgstr "Faili nimi puudub."
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"Kui lood uut kalendrit, võid nime vabalt valida. Muul juhul vali olemasolev "
+"iCalendar'i (*.ics) fail."
+
+msgid "The url is empty!"
+msgstr "Veebiaadress (URL) on tühi!"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"Veebiaadressi (URL-i) rida ei saa jätta tühjaks. Pead määratlema, kuhu "
+"sündmused ja ülesanded salvestatakse."
+
+msgid "The protocol is missing!"
+msgstr "Protokoll puudub!"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "Palun lisa veebiaadressile (URL-ile) ka protokoll  (nt. \"http://\")."
+
+msgid "The file name is missing from the url!"
+msgstr "Faili nimi puudub veebiaadressist (URL-ist)!"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Kui lood uut kalendrit, võid nime vabalt valida. Muul juhul veendu, et "
+"server ei määra aadressile ühegi faili nime.\n"
+"\n"
+"Kas soovid jätkata?"
+
+msgid "Incorrect email!"
+msgstr "Vigane e-post!"
+
+msgid "You need to enter a full email address."
+msgstr "Pead sisestama täieliku e-posti aadressi."
+
+msgid "Please select the calendar."
+msgstr "Palun vali kalender."
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr "Kalendrit pole valitud. Kas soovid kindlasti jätkata?"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "The calendar already exists!"
+msgstr "Kalender on juba olemas!"
+
+msgid "Please choose some other name for the calendar."
+msgstr "Palun vali kalendrile mõni teine nimi."
+
+msgid "The calendar name is empty!"
+msgstr "Kalendri nimi on tühi!"
+
+msgid "You must give a name for the calendar."
+msgstr "Pead andma kalendrile nime."
+
+msgid "Alarm sound"
+msgstr "Teavituse heli"
+
+msgid "Select alarm sound"
+msgstr "Vali teavituse heli"
+
+msgid "Default sound"
+msgstr "Vaikimisi heli"
+
+msgid "Preview"
+msgstr "Eelvaade"
+
+msgid "No sound"
+msgstr "Hääletu"
+
+msgid "Custom sound / executable"
+msgstr "Muu heli / käivitatav fail"
+
+msgid "Browse..."
+msgstr "Sirvi..."
+
+msgid "Bulk Change"
+msgstr "Mass muutmine"
+
+msgid "Type:"
+msgstr "Tüüp:"
+
+msgid "Summary:"
+msgstr "Pealkiri:"
+
+msgid "Location:"
+msgstr "Asukoht:"
+
+msgid "Url:"
+msgstr "Veebiaadress (URL):"
+
+msgid "Class:"
+msgstr "Klass:"
+
+msgid "Time type:"
+msgstr "Aja tüüp:"
+
+msgid "With time"
+msgstr "Ajaga"
+
+msgid "Start time:"
+msgstr "Algusaeg:"
+
+msgid "Absolute"
+msgstr "Absoluutne"
+
+msgid "Relative"
+msgstr "Relatiivne"
+
+msgid "Months"
+msgstr "kuu järel"
+
+msgid "Years"
+msgstr "aasta järel"
+
+msgid "Visibility:"
+msgstr "Nähtavus:"
+
+msgid "Show in calendar"
+msgstr "Näita kalendris"
+
+msgid "Priority:"
+msgstr "Tähtsus:"
+
+msgid "Status:"
+msgstr "Olek:"
+
+msgid "Not Started"
+msgstr "Pole alustatud"
+
+msgid "Progress:"
+msgstr "Edenemine:"
+
+msgid "0 %"
+msgstr "0 %"
+
+msgid "10 %"
+msgstr "10 %"
+
+msgid "20 %"
+msgstr "20 %"
+
+msgid "30 %"
+msgstr "30 %"
+
+msgid "40 %"
+msgstr "40 %"
+
+msgid "50 %"
+msgstr "50 %"
+
+msgid "60 %"
+msgstr "60 %"
+
+msgid "70 %"
+msgstr "70 %"
+
+msgid "80 %"
+msgstr "80 %"
+
+msgid "90 %"
+msgstr "90 %"
+
+msgid "100 %"
+msgstr "100 %"
+
+msgid "Free/Busy:"
+msgstr "Vaba/Hõivatud:"
+
+msgid "Free"
+msgstr "Vaba"
+
+msgid "Busy"
+msgstr "Hõivatud"
+
+msgid "Description:"
+msgstr "Kirjeldus:"
+
+msgid "Alarm:"
+msgstr "Teavitus:"
+
+msgid "Category:"
+msgstr "Kategooria:"
+
+msgid "Recurrence:"
+msgstr "Kordumine:"
+
+msgid "Repeat every"
+msgstr "Korda iga"
+
+msgid "Weeks"
+msgstr "nädala järel"
+
+msgid "Repeat ending"
+msgstr "Kordumise lõpp"
+
+msgid "Forever"
+msgstr "Igavesti"
+
+msgid "Number of times"
+msgstr "Kordade arv"
+
+msgid "Until"
+msgstr "Kuni"
+
+msgid "Debug Window"
+msgstr "Siluri aken"
+
+msgid "Sensitivity:"
+msgstr "Tundlikus:"
+
+msgid "All day event"
+msgstr "Terve päeva sündmus"
+
+msgid "Mark time as busy"
+msgstr "Märgi aeg hõivatuks"
+
+msgid "Time zone:"
+msgstr "Aja vöönd:"
+
+msgid "Calendar:"
+msgstr "Kalender:"
+
+msgid "Mon"
+msgstr "E"
+
+msgid "Tue"
+msgstr "T"
+
+msgid "Wed"
+msgstr "K"
+
+msgid "Thu"
+msgstr "N"
+
+msgid "Fri"
+msgstr "R"
+
+msgid "Sat"
+msgstr "L"
+
+msgid "Sun"
+msgstr "P"
+
+msgid "Repeat"
+msgstr "Korda"
+
+msgid "End after"
+msgstr "Lõpeta peale"
+
+msgid "occurrences"
+msgstr "kordust"
+
+msgid "Exception dates"
+msgstr "Väljaarvatud kuupäevad"
+
+msgid "Add"
+msgstr "Lisa"
+
+msgid "Show descriptions"
+msgstr "Näita kirjeldusi"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr ""
+"Näita Rainlendar'i käivitamisel tänaseid sündmusi ja töid süsteemisalves"
+
+msgid "Hide list windows if there are no items"
+msgstr "Peida nimekirja aknad, kui nendes puuduvad üksused"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Klõpsa läbi (Deaktiveerimiseks kasuta koos Shift-klahviga)"
+
+msgid "Lock windows in place"
+msgstr "Lukusta aken kohale"
+
+msgid "Enable on startup"
+msgstr "Käivita koos windowsiga"
+
+msgid "Hide from taskbar"
+msgstr "Peida tegumiribalt"
+
+msgid "Use Retina Resolution"
+msgstr "Kasuta Retina resolutsiooni"
+
+msgid "Add years for categories"
+msgstr "Lisa aastad kategooriatele"
+
+msgid "Categories..."
+msgstr "Kategooriad..."
+
+msgid "Week's start day:"
+msgstr "Nädala esimene päev:"
+
+msgid "Position:"
+msgstr "Positsioon:"
+
+msgid "Language:"
+msgstr "Keel:"
+
+msgid "Opacity"
+msgstr "Läbipaistvus"
+
+msgid "Normal:"
+msgstr "Tavaliselt:"
+
+msgid "Mouse over:"
+msgstr "Hiir objekti kohal:"
+
+msgid "Apply to all windows at the same time"
+msgstr "Paigalda kõikitele akendele korraga"
+
+msgid "Font Size"
+msgstr "Fondi suurus"
+
+msgid "Size:"
+msgstr "Suurus:"
+
+msgid "Duplicate..."
+msgstr "Klooni..."
+
+msgid "Action:"
+msgstr "Tegevus:"
+
+msgid "Hotkey:"
+msgstr "Kiirklahv:"
+
+msgid "Set"
+msgstr "Sea"
+
+msgid "Available skins"
+msgstr "Saadaolevad välimused"
+
+msgid "Active skins"
+msgstr "Aktiivsed välimused"
+
+msgid "Settings..."
+msgstr "Sätted..."
+
+msgid "All items"
+msgstr "Kõik üksused"
+
+msgid "Selected items"
+msgstr "Valitud üksused"
+
+msgid "Day range"
+msgstr "Päeva ulatus"
+
+msgid "Select days"
+msgstr "Vali päevad"
+
+msgid "Add title"
+msgstr "Lisa pealkiri"
+
+msgid "Preview..."
+msgstr "Eelvaade..."
+
+msgid "Page Setup..."
+msgstr "Lehekülje seadistus..."
+
+msgid "Todo"
+msgstr "Ülesanne"
+
+msgid "Date only"
+msgstr "Ainul kuupäev"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "Komaga eraldatud väärtused  (*.csv)|*.csv"
+
+msgid "Username"
+msgstr "Kasutajanimi"
+
+msgid "Password"
+msgstr "Parool"
+
+msgid "Calendar name"
+msgstr "Kalendri nimi"
+
+msgid "Poll frequency (mins)"
+msgstr "Värskendamise sagedus (min)"
+
+msgid "Suppress errors"
+msgstr "Eira vigu"
+
+msgid "Keep offline copy"
+msgstr "Säilita kohapealne koopia"
+
+msgid "Authentication"
+msgstr "Autentimine"
+
+msgid "Basic"
+msgstr "Lihtne"
+
+msgid "Digest"
+msgstr "Töödeldud"
+
+msgid "GSS-Negotiate"
+msgstr "GSS-Negotiate"
+
+msgid "NTLM"
+msgstr "NTLM"
+
+msgid "Support"
+msgstr "Toetus"
+
+msgid "Automatic"
+msgstr "Automaatne"
+
+msgid "Both"
+msgstr "Mõlemad"
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Sisesta kalendri veebiaadress (URL), kasutajanimi ja parool ja vajuta vali "
+"kalender nuppu.\n"
+"\n"
+"Kasutajanime ja parooli väljad võivad jääda tühjaks, kui neid ei vajata."
+
+msgid "Select Calendar"
+msgstr "Vali kalender"
+
+msgid "CalDAV Error (%s)!"
+msgstr "CalDAV viga (%s)!"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Nurjus andmete üleslaadimine veebiaadressile (URL-ile):\n"
+"%s\n"
+"\n"
+"Server vastas: (%i) %i %s."
+
+msgid "Google Error (%s)!"
+msgstr "Google viga (%s)!"
+
+msgid "Unable to delete the event."
+msgstr "Sündmust ei saa kustutada."
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "Server pöördus tulemusega: (%i) %i %s."
+
+msgid "Unable to read the calendars from the server."
+msgstr "Kalendreid pole võimalik serverist lugeda."
+
+msgid "Unable to authenticate to the server."
+msgstr "Autentimine serverisse nurjus."
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Ei leitud valitud kalendrit (%s).\n"
+"\n"
+"Saada ol kalendrid:\n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "Kalendri lugemine serverist nurjus."
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr ""
+"Autentimine nurjus. Kontrolli, et sisestasid õige kasutajanime ja parooli."
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr "Kontrolli ka, et kasutad rakenduse põhist parooli Rainlendari jaoks."
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr "Serveriga ei saa ühendust. Kontrolli, et võrguühendus toimiks."
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "Veebiaadress (URL) \"%s\" ei sisalda kalendreid."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr ""
+"Viga andmete allalaadimisel veebiaadressilt (URL-ilt):\n"
+"%s"
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr ""
+"Kontrolli, et sinu internetivõrk toimib ja tulemüür ei blokeeri ühendust."
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr ""
+"Puhverserverit ei leitud. Palun kontrolli, et puhverserveri (proxy) sätted "
+"oleksid õiged."
+
+msgid "Unable to resolve the host."
+msgstr "Ei suuda tuvastada teenusepakkujat."
+
+msgid "Unable to connect to the server."
+msgstr "Serveriga ei saa ühendust."
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "Turvaline ühendus (SSL) serveriga nurjus."
+
+msgid "FALSE"
+msgstr "VÄÄR"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Ignore private events"
+msgstr "Ignoreeri isiklikke sündmusi"
+
+msgid "Import limit"
+msgstr "Impordi limiit"
+
+msgid "Everything"
+msgstr "Kõik"
+
+msgid "Future only"
+msgstr "Ainult tulevikus"
+
+msgid "Past month"
+msgstr "Eelmine kuu"
+
+msgid "Past 6 months"
+msgstr "Eelmised 6 kuud"
+
+msgid "Past year"
+msgstr "Eelmine aasta"
+
+msgid "Past 2 years"
+msgstr "Eelmised 2 aastat"
+
+msgid "Delete notifications"
+msgstr "Kustuta teavitused"
+
+msgid "External Only"
+msgstr "Ainult väline"
+
+msgid "Future Only"
+msgstr "Ainult tulevikus"
+
+msgid "Color mapping"
+msgstr "Värvide vastavus"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"Sisesta oma Google konto e-posti aadress ja klõpsa \"Vali kalender\" nuppu "
+"ning vali kalender, millele soovid ligipääsu."
+
+msgid "Select calendar"
+msgstr "Vali kalender"
+
+msgid "Unable to read the calendars."
+msgstr "Kalendreid ei saa lugeda."
+
+msgid "Authentication failed."
+msgstr "Autentimine nurjus."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Googlisse sisselogimine nurjus.\n"
+"Kontrolli, et e-posti aadress\n"
+"ja parool oleks õiged."
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr "Sündmust ei saa ülesse laadida, kuna sihtkalendrit pole defineeritud."
+
+msgid "Google Calendar Error (%s)!"
+msgstr "Google Calendar viga (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"Googlisse sisselogimine nurjus. Kontol on sisse lülitatud 2-astmeline "
+"kinnitamine. Seetõttu pead looma Rainlendarile applikatsioonipõhise parooli. "
+"Seda saad teha Google konto seadetes kaheastmelise kinnitamise all."
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"Googlisse sisselogimine nurjus. Rainlendari ligipääs Google kalendrile võib "
+"olla tühistatud. Mine Sätted->Kalendrid ja tee kalendri autentimine uuesti."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Googlisse sisselogimine nurjus.\n"
+"Server vastas: (%i) %i %s."
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Kalendri allalaadimine nurjus.\n"
+"Server vastas: (%i) %i %s."
+
+msgid "Unable to parse the calendar url."
+msgstr "Kalendri veebiaadressi (URLi) ei saa töödelda."
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Paistab, et sisestasid veebiaadressi (URL-i) kalendri nime kohale.\n"
+"Pead selle asemel valima ühe nimedest:\n"
+
+msgid "Unable to delete the event: "
+msgstr "Ei saa kustutada sündmust: "
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"Sündmust ei saa konflikti tõttu ülesse laadida Google kalendrisse. Uuendatud "
+"sündmus taaslaetakse Google kalendrist."
+
+msgid "Unable to parse the events."
+msgstr "Sündmusi ei saa töödelda."
+
+msgid "Unable to upload the event: "
+msgstr "Ei saa ülesse laadida sündmust: "
+
+msgid "Task list name"
+msgstr "Ülesannete nimekirja nimi"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"Sisesta oma Google konto e-posti aadress ja klõpsa \"Vali kalender\" nuppu "
+"ning vali ülesannete nimekiri, millele soovid ligipääsu."
+
+msgid "Select task list"
+msgstr "Vali ülesannete nimekiri"
+
+msgid "Unable to read the task lists."
+msgstr "Ülesannete nimekirja ei saa lugeda."
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr ""
+"Ülesandeid ei saa ülesse laadida, kuna ülesannete nimekirja pole "
+"defineeritud."
+
+msgid "Google Tasks Error (%s)!"
+msgstr "Google Tasks viga (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"Googlisse sisselogimine nurjus. Rainlendari ligipääs Google Tasks-ile võib "
+"olla tühistatud. Värskenda kalendrit ja tuvasta Rainlendar uuesti oma Google "
+"konto juures."
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Ülesannete nimekirja allalaadimine nurjus.\n"
+"Server vastas: (%i) %i %s."
+
+msgid "Unable to parse the task list url."
+msgstr "Ülesannete nimekirja veebiaadressi (URL-i) ei saa töödelda."
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"Paistab, et sisestasid veebiaadressi (URL-i) ülesannete nimekirja nime "
+"kohale.\n"
+"Pead selle asemel valima ühe nimedest:\n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"Ei leitud valitud ülesannete nimekirja (%s).\n"
+"\n"
+"Saadaolevad nimekirjad:\n"
+
+msgid "Unable to delete the task: "
+msgstr "Ei saa kustutada ülesannet: "
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"Ülesannet ei saa konflikti tõttu ülesse laadida Google Tasks-i. Uuendatud "
+"töö taaslaetakse Google Tasks-ist."
+
+msgid "Unable to upload the task: "
+msgstr "Ei saa ülesse laadida ülesannet: "
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar'i failid (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "Turvaline üleslaadimine"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"Sisesta kalendri veebiaadress (URL), kasutajanimi ja parool.\n"
+"\n"
+"Veebiaadress (URL) võib kasutada http, https või ftp protokolle. "
+"Kasutajanime ja parooli väli võivad ka tühjaks jääda, kui neid ei vajata."
+
+msgid "Network Error (%s)!"
+msgstr "Võrgu viga (%s)!"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "Üksust ei saa lisada internetikalendrisse."
+
+msgid "Unable to remove the item from the online calendar."
+msgstr "Üksust ei saa kustutada internetikalendrist."
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"Faili %s töötlemine nurjus\n"
+"See fail võib olla vigane."
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"Server andis tühja vastuse. Kontrolli, et kalendri veebiaadress viitaks "
+"failile ja mitte kataloogile."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Viga andmete allalaadimisel veebiaadressilt (URL-ilt):\n"
+"%s\n"
+"\n"
+"Server vastas: (%i) %i %s."
+
+msgid "Downloaded event count"
+msgstr "Allalaadimisi loendatud"
+
+msgid "Office 365"
+msgstr "Office 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"Sisesta oma Office 365 konto e-posti aadress ja klõpsa \"Vali kalender\" "
+"nuppu ning vali kalender, millele soovid ligipääsu."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Office 365 kontoga sisselogimine nurjus.\n"
+"Kontrolli, et e-posti aadress\n"
+"ja parool oleks õiged."
+
+msgid "Office365 Error (%s)!"
+msgstr "Office 365 viga (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Office 365 kontoga sisselogimine nurjus. Rainlendari ligipääs Office 365 "
+"kalendrile võib olla tühistatud. Värskenda kalendrit ja tuvasta Rainlendar "
+"uuesti oma Office 365 konto juures."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Office 365 kontoga sisselogimine nurjus.\n"
+"Server vastas: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Sündmust ei saa konflikti tõttu ülesse laadida. Uuendatud sündmus "
+"taaslaetakse serverist."
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"Outlooki viga!\n"
+"MAPI lisa ei saa aktiveerida. \n"
+"\n"
+"Kui uuendasid Rainlendar'it või Outlook,i siis pead taaslooma Outlooki "
+"kalendri Rainlendar'i sätetes.\n"
+"\n"
+"Veendu, et mõlemad rakendused on sama versiooniga (32-bitine või 64-bitine)."
+
+msgid "Application"
+msgstr "Rakendus"
+
+msgid "Profile"
+msgstr "Profiil"
+
+msgid "MessageStore"
+msgstr "Sõnumihoidla"
+
+msgid "Folders"
+msgstr "Kaustad"
+
+msgid "Default Folder"
+msgstr "Vaikimisi kaust"
+
+msgid "Use labels instead of categories"
+msgstr "Kasuta kategooriate asemel pealkirju"
+
+msgid "Show edit links"
+msgstr "Näita viidete muutmist"
+
+msgid "Keep MAPI connection alive"
+msgstr "Hoia MAPI ühendust lahti"
+
+msgid "Month"
+msgstr "Kuu"
+
+msgid "6 months"
+msgstr "6 kuud"
+
+msgid "Year"
+msgstr "Aasta"
+
+msgid "2 years"
+msgstr "2 aastat"
+
+msgid "Read birthdays from contacts"
+msgstr "Loe sünnipäevi kontaktidest"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Vali Outlooki sõnumihoidla, mida soovid näha Rainlendar'is."
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][edit]]"
+
+msgid "Outlook error!"
+msgstr "Outlooki viga!"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr "Viga Outlooki üksuste lugemisel \"%s\". Täpsem info logis."
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "Üksuse uuendamine nurjus. Vea kood 0x%p"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr ""
+"Viga Outlooki üksuste kirjutamise. Ei leitud kataloogi, kuhu see salvestada."
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "Üksuse kustutamine nurjus. Vea kood 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "Ei leia Rememer The Milk ülesannete nimekirja!"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "Nimekirja \"%s\" ei leitud. Saadaval on järgmised nimekirjad:"
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "Palun kirjuta nimi täpselt nii, nagu see on üleval pool nimekirjas."
+
+msgid "Unable to parse the ID from the task."
+msgstr "Ülesandes oleva ID töötlemine nurjus."
+
+msgid "Unable to create the task."
+msgstr "Ülesande loomine nurjus."
+
+msgid "Unable to parse the timeline."
+msgstr "Ajajoone töötlemine nurjus."
+
+msgid "The service is temporarily unavailable."
+msgstr "Teenus ei ole ajutiselt kättesaadav."
+
+msgid "Please log in to Remember The Milk."
+msgstr "Palun logi Remember The Milk kontosse."
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"Pead autoriseerima Rainlendar'i oma Remember The Milk konto kasutamiseks. "
+"Palun logi Remember The Milk kodulehelt oma kontosse ja anna Rainlendar'ile "
+"sellele ligipääs.\n"
+"\n"
+"Sinu vaikimisi veebilehitseja avaneb automaatselt peale OK nupu vajutamist."
+
+msgid "Continue after authorization."
+msgstr "Jätka peale autoriseerimist."
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr "Peale Rainlendar'i autoriseerimist vajuta jätkamiseks OK nuppu."
+
+msgid "Unable to parse the output."
+msgstr "Väljundi töötlemine nurjus."
+
+msgid "Unknown response for call \"%s\"."
+msgstr "Tundmatu vastus kutsele \"%s\"."
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"\"%s\" kutse nurjus:\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "Meetodi \"%s\"  kutse nurjus."
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "Mäleta The Milk viga (%s)!"
+
+msgid "List"
+msgstr "Nimekiri"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"Vali Remember The Milk'i ülesannete nimekirja nimi. Kui soovid kõiki oma "
+"nimekirju, siis jäta väli tühjaks."
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"Pole võimalik autentida. Pead andma Rainlendar'ile ligipääsu oma Remember "
+"The Milk kontole."
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"Kausta ei leitud  \"%s\".\n"
+"\n"
+"Saadaval on kaustad:"
+
+msgid "Toodledo Error (%s)!"
+msgstr "Toodledo viga (%s)!"
+
+msgid "Folder"
+msgstr "Kaust"
+
+msgid "Poll for changes"
+msgstr "Jälgi muutusi"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr "Palun sisesta oma e-posti aadress ja parool Toodledo jaoks."
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "Faili  \"%s\" ei saa avada kirjutamiseks."
+
+msgid "Filename"
+msgstr "Faili nimi"
+
+msgid "Monitor changes"
+msgstr "Jälgi muutusi"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"Vali kalendrile fail.\n"
+"\n"
+"Võid valida juba olemasoleva ics-faili või sisestada uue, loodava faili "
+"asukoha."
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar failid (*.ics)|*.ics|vCalendar failid (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr ""
+"Rada kalendri failini \"%s\" ei eksisteeri. Mine Sätted->Kalendrid ja "
+"kontrolli, et faili asukoht on õige."
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "Ei saa luu ajutist koopiat failist  \"%s\"."
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "Ei saa asendada faili  \"%s\"."
+

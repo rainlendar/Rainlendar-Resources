@@ -1,0 +1,5120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: 2021-09-26 14:45+0900\n"
+"Last-Translator: Kim YoungCheon <circcc@gmail.com>\n"
+"Language-Team: Realman <ishwang3@gmail.com>\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: C:/Users/Rainlendar2-x86\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Bookmarks: 1262,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: Application\n"
+"X-Poedit-SearchPath-1: Plugins\n"
+"X-Poedit-SearchPath-2: Testbench/Debug/resources\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Rainlendar가 OAuth 응답을 받기 위한 HTTP 서버를 시작할 수 없습니다. 응용 프로"
+"그램이 서버를 시작하지 못하게 하는 보안 소프트웨어가 없고 동일한 포트에 다른 "
+"서비스가 실행되고 있지 않은지 확인하십시오."
+
+msgid "Server Port: "
+msgstr "서버 포트: "
+
+msgid "Failed to start HTTP server"
+msgstr "HTTP 서버 시작 실패"
+
+msgid "Choose the backup path"
+msgstr "백업 저장 경로를 선택하십시오"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "압축파일 (*.zip)|*.zip"
+
+msgid "Authentication failed!"
+msgstr "인증 실패!"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "인증 프로세스를 완료했는지 확인하십시오"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr "그리고 Rainlendar에 달력 접근 권한을 부여하십시오."
+
+msgid "Authentication succeeded!"
+msgstr "인증 성공!"
+
+msgid "You may close the browser window now."
+msgstr "이제 브라우저 창을 닫을 수 있습니다."
+
+msgid "Choose the backup file:"
+msgstr "백업 파일 선택:"
+
+msgid "Select"
+msgstr "선택"
+
+msgid "No backups found!"
+msgstr "백업을 찾을 수 없습니다!"
+
+msgid "There are no backups available in the backup folder."
+msgstr "백업 폴더에 사용할 수 있는 백업이 없습니다."
+
+msgid "The settings do not exist!"
+msgstr "설정이 존재하지 않습니다!"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "선택된 백업 파일에 설정 파일이 없습니다."
+
+msgid "The file already exists:"
+msgstr "파일이 이미 존재합니다:"
+
+msgid "Do you want to overwrite the file?"
+msgstr "파일을 덮어쓰시겠습니까?"
+
+msgid "Unable to overwrite file:"
+msgstr "덮어쓸 수 없는 파일:"
+
+msgid "Write error!"
+msgstr "쓰기 오류!"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"복원 불가 파일:\n"
+"%s\n"
+"\n"
+"수동으로 백업파일을 풀어야 합니다."
+
+msgid "Restore error!"
+msgstr "복원 오류!"
+
+msgid "[None]"
+msgstr "[없음]"
+
+msgid "<Hidden>"
+msgstr "<숨김>"
+
+msgid "all"
+msgstr "모두"
+
+msgid "active"
+msgstr "활성"
+
+msgid "dismissed"
+msgstr "해제"
+
+msgid "snoozed"
+msgstr "다시 알림"
+
+msgid "Show only needs action"
+msgstr "조치 필요만 표시"
+
+msgid "Show only in progress"
+msgstr "진행 중만 표시"
+
+msgid "Show only completed"
+msgstr "완료됨만 표시"
+
+msgid "Show only cancelled"
+msgstr "취소됨만 표시"
+
+msgid "Hide needs action"
+msgstr "조치 필요 숨기기"
+
+msgid "Hide in progress"
+msgstr "진행 중 숨기기"
+
+msgid "Hide completed"
+msgstr "완료됨 숨기기"
+
+msgid "Hide cancelled"
+msgstr "취소됨 숨기기"
+
+msgid "Reset completed time"
+msgstr "완료된 시간 초기화"
+
+msgid "Show only no priority"
+msgstr "우선순위 없음만 표시"
+
+msgid "Show only high priority"
+msgstr "높은 순위만 표시"
+
+msgid "Show only normal priority"
+msgstr "보통 순위만 표시"
+
+msgid "Show only low priority"
+msgstr "낮은 순위만 표시"
+
+msgid "Hide no priority"
+msgstr "순위 없음 숨기기"
+
+msgid "Hide high priority"
+msgstr "높은 순위 숨기기"
+
+msgid "Hide normal priority"
+msgstr "보통 순위 숨기기"
+
+msgid "Hide low priority"
+msgstr "낮은 순위 숨기기"
+
+msgid "Show only alarms"
+msgstr "시간 알림만 표시"
+
+msgid "Show only active"
+msgstr "활성만 표시"
+
+msgid "Show only snoozed"
+msgstr "다시 알림만 표시"
+
+msgid "Show only dismissed"
+msgstr "해제된 것만 표시"
+
+msgid "Hide alarms"
+msgstr "시간 알림 숨기기"
+
+msgid "Hide active"
+msgstr "활성 숨기기"
+
+msgid "Hide snoozed"
+msgstr "다시 알림 숨기기"
+
+msgid "Hide dismissed"
+msgstr "해제된 것 숨기기"
+
+msgid "Reset dismiss time"
+msgstr "해제 시간 초기화"
+
+msgid "Reset snooze time"
+msgstr "다시 알림 시간 초기화"
+
+msgid "Dismiss next alarm"
+msgstr "다음 시간 알림 해제"
+
+msgid "Duration:"
+msgstr "간격:"
+
+msgid "Next alarm:"
+msgstr "다음 시간 알림:"
+
+msgid "Dismissed:"
+msgstr "해제:"
+
+msgid "Snoozed until:"
+msgstr "다시 알림 기한:"
+
+msgid "In Progress"
+msgstr "진행 중"
+
+msgid "Completed"
+msgstr "완료됨"
+
+msgid "Needs Action"
+msgstr "조치 필요"
+
+msgid "Cancelled"
+msgstr "취소됨"
+
+msgid "None"
+msgstr "없음"
+
+msgid "High"
+msgstr "높음"
+
+msgid "Normal"
+msgstr "보통"
+
+msgid "Low"
+msgstr "낮음"
+
+msgid "All"
+msgstr "모두"
+
+msgid "Active"
+msgstr "활성"
+
+msgid "Dismissed"
+msgstr "해제됨"
+
+msgid "Snoozed"
+msgstr "다시 알림"
+
+msgid "Daily"
+msgstr "매일"
+
+msgid "Weekly"
+msgstr "매주"
+
+msgid "Monthly"
+msgstr "매달"
+
+msgid "Yearly"
+msgstr "매년"
+
+msgid "Private"
+msgstr "사적인 일정"
+
+msgid "Public"
+msgstr "공적인 일정"
+
+msgid "Confidential"
+msgstr "기밀"
+
+msgid "Default"
+msgstr "기본"
+
+msgid "No priority"
+msgstr "우선순위 없음"
+
+msgid "Normal priority"
+msgstr "보통 순위"
+
+msgid "High priority"
+msgstr "높은 순위"
+
+msgid "Low priority"
+msgstr "낮은 순위"
+
+msgid "Created: "
+msgstr "생성: "
+
+msgid "Unknown"
+msgstr "알 수 없음"
+
+msgid "Modified: "
+msgstr "수정: "
+
+msgid "Copy"
+msgstr "복사"
+
+msgid "Region"
+msgstr "영역"
+
+msgid "Native"
+msgstr "네이티브"
+
+msgid "Sunday"
+msgstr "일요일"
+
+msgid "Monday"
+msgstr "월요일"
+
+msgid "Tuesday"
+msgstr "화요일"
+
+msgid "Wednesday"
+msgstr "수요일"
+
+msgid "Thursday"
+msgstr "목요일"
+
+msgid "Friday"
+msgstr "금요일"
+
+msgid "Saturday"
+msgstr "토요일"
+
+msgid "Every second Saturday"
+msgstr "매달 2주째 토요일"
+
+msgid "Start"
+msgstr "시작"
+
+msgid "Due"
+msgstr "마감"
+
+msgid "Priority"
+msgstr "우선순위"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Category"
+msgstr "범주"
+
+msgid "Recurrence"
+msgstr "반복"
+
+msgid "Off"
+msgstr "끄기"
+
+msgid "Beta"
+msgstr "베타"
+
+msgid "General"
+msgstr "일반"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "%H:%M (예: \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "%#H:%M (예: \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "%I:%M %p (예: \"01:42 pm\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "%#I:%M %p (예: \"3:42 pm\")"
+
+msgid "Time format"
+msgstr "시간 형식"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "%d.%#m.%Y (예: \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "%d.%m.%Y (예: \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "%Y-%m-%d (예: \"2012-04-21\")"
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "%#m/%d/%Y (예: \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "%m/%d/%Y (예: \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "날짜 형식"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "'오늘' 및 '내일' 사용"
+
+msgid "Weekend days"
+msgstr "주말"
+
+msgid "Week number delta"
+msgstr "주 번호 보정"
+
+msgid "Default categories"
+msgstr "기본 범주"
+
+msgid "Show categories from the skin"
+msgstr "스킨에 범주 표시"
+
+msgid "Show tray icon"
+msgstr "트레이 아이콘 표시"
+
+msgid "Show tray status icons"
+msgstr "트레이 상태 아이콘 표시"
+
+msgid "Day number"
+msgstr "일수"
+
+msgid "Week number"
+msgstr "주 번호"
+
+msgid "Number in tray"
+msgstr "트레이에 표시할 숫자"
+
+msgid "Always"
+msgstr "항상"
+
+msgid "Never"
+msgstr "표시 안 함"
+
+msgid "Show full menus"
+msgstr "전체 메뉴 표시"
+
+msgid "Disable keyboard shortcuts"
+msgstr "키보드 단축키 사용 안 함"
+
+msgid "List wheel scroll"
+msgstr "목록 휠 스크롤 속도"
+
+msgid "Skin language"
+msgstr "스킨 언어"
+
+msgid "Number of stored backups"
+msgstr "저장된 백업 갯수"
+
+msgid "Show delete confirmations"
+msgstr "삭제할 때 확인"
+
+msgid "Disable text formatting"
+msgstr "글자 서식 사용 안 함"
+
+msgid "Show empty list text"
+msgstr "빈 목록 글 표시"
+
+msgid "Check for updates"
+msgstr "업데이트 확인"
+
+msgid "Show url icons"
+msgstr "URL 아이콘 표시"
+
+msgid "Simultaneous transfers"
+msgstr "동시 전송"
+
+msgid "Only uncategorized"
+msgstr "범주 미지정만"
+
+msgid "Icon from events"
+msgstr "일정 아이콘"
+
+msgid "Visual category overwrite"
+msgstr "범주 모양 덮어쓰기"
+
+msgid "Store English category names"
+msgstr "영어 범주명 저장"
+
+msgid "Custom category icon path"
+msgstr "사용자 지정 범주 아이콘 경로"
+
+msgid "Use antialiased fonts"
+msgstr "부드러운 글꼴 사용"
+
+msgid "Count"
+msgstr "서수"
+
+msgid "Ordinal"
+msgstr "기수"
+
+msgid "Type of year to add for categories"
+msgstr "범주로 추가할 연 형식"
+
+msgid "Use custom password encrypting"
+msgstr "사용자 지정 비밀번호 암호화 사용"
+
+msgid "Editor"
+msgstr "편집기"
+
+msgid "Allow multiple calendars"
+msgstr "다중 달력 허용"
+
+msgid "Allow multiple categories"
+msgstr "다중 범주 허용"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "쓰기가 성공할 때까지 편집기 열어놓기"
+
+msgid "Time span in the editor"
+msgstr "편집기에서 시간 간격"
+
+msgid "Number of previous locations"
+msgstr "표시할 이전 장소 개수"
+
+msgid "Default event duration"
+msgstr "기본 일정 간격"
+
+msgid "Windows"
+msgstr "창"
+
+msgid "Use window names"
+msgstr "창 이름 사용"
+
+msgid "Hide on Aero peek"
+msgstr "에어로 피크 사용 시 숨기기"
+
+msgid "Transparency type"
+msgstr "투명 형식"
+
+msgid "Copy transparency sleep time"
+msgstr "복사 투명 슬립 시간"
+
+msgid "Fade delay (ms)"
+msgstr "페이드 간격 (밀리초)"
+
+msgid "Fade duration (ms)"
+msgstr "페이드 지속 시간 (밀리초)"
+
+msgid "Allow window fading"
+msgstr "창 페이딩 허용"
+
+msgid "Keep on screen"
+msgstr "화면 안에 유지"
+
+msgid "Bring all windows on top when clicked"
+msgstr "눌렀을 때 모든 창을 위로 가져오기"
+
+msgid "Show in all desktops"
+msgstr "모든 바탕화면에 표시"
+
+msgid "Snap distance"
+msgstr "붙기 거리"
+
+msgid "Snap center"
+msgstr "화면 중앙에 붙기"
+
+msgid "Don't save"
+msgstr "저장 안 함"
+
+msgid "Per resolution"
+msgstr "해상도마다"
+
+msgid "Single value"
+msgstr "단일 값"
+
+msgid "Save window position"
+msgstr "창 위치 저장"
+
+msgid "Font face"
+msgstr "글꼴"
+
+msgid "Scaling quality"
+msgstr "스케일링 품질"
+
+msgid "Network"
+msgstr "네트워크"
+
+msgid "Reload delay after resume (s)"
+msgstr "깨어난 후 다시로드까지 대기 시간 (초)"
+
+msgid "Network access delay after startup (s)"
+msgstr "시작 후 네트워크 연결 대기 시간 (초)"
+
+msgid "Proxy server"
+msgstr "프록시 서버"
+
+msgid "Proxy user"
+msgstr "프록시 사용자 이름"
+
+msgid "Proxy password"
+msgstr "프록시 비밀번호"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgid "Proxy type"
+msgstr "프록시 형태"
+
+msgid "Try direct connection if proxy fails"
+msgstr "프록시 접속이 실패하면 직접 연결 시도"
+
+msgid "Calendar"
+msgstr "달력"
+
+msgid "Show all icons"
+msgstr "모든 아이콘 표시"
+
+msgid "Show one icon per type"
+msgstr "형식마다 아이콘 표시"
+
+msgid "Show only one icon"
+msgstr "하나의 아이콘만 표시"
+
+msgid "Show no icons"
+msgstr "아이콘 표시 안 함"
+
+msgid "Combine icons in the calendar"
+msgstr "달력에 아이콘 표시"
+
+msgid "Calendar wheel scroll"
+msgstr "달력 휠 스크롤 속도"
+
+msgid "Show tasks in calendar"
+msgstr "달력에 작업 표시"
+
+msgid "Always show menu"
+msgstr "항상 메뉴 표시"
+
+msgid "Always create new event"
+msgstr "항상 새 일정 만들기"
+
+msgid "Do nothing"
+msgstr "아무 것도 안 함"
+
+msgid "Double click action"
+msgstr "더블 클릭 동작"
+
+msgid "Tooltip"
+msgstr "도구 설명"
+
+msgid "Show tooltips"
+msgstr "도구 설명 표시"
+
+msgid "Only on days with events"
+msgstr "일정 있는 날만"
+
+msgid "Show tooltip in tray"
+msgstr "트레이에 도구 설명 표시"
+
+msgid "Max tooltip window width"
+msgstr "도구 설명 창 최대 너비"
+
+msgid "Show description in tooltip"
+msgstr "도구 설명에서 상세 설명 보기"
+
+msgid "Task fields in tooltip"
+msgstr "작업 도구 설명에 표시할 항목"
+
+msgid "Event fields in tooltip"
+msgstr "일정 도구 설명에 표시할 항목"
+
+msgid "Traytip show duration (s)"
+msgstr "트레이 설명 표시 시간 (초)"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "도구 설명이 사라지는 시간 (밀리초)"
+
+msgid "Tooltip show delay (ms)"
+msgstr "도구 설명 표시 시간 (밀리초)"
+
+msgid "Tooltip format"
+msgstr "도구 설명 형식"
+
+msgid "Task List"
+msgstr "작업 목록"
+
+msgid "Show full task summary"
+msgstr "전체 작업 요약 표시"
+
+msgid "Show task due time"
+msgstr "작업 마감 시간 표시"
+
+msgid "Show task location"
+msgstr "작업 장소 표시"
+
+msgid "Show task calendar"
+msgstr "작업 달력 종류 보기"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "목록에 표시할 일수 (모두 표시: 0)"
+
+msgid "Show task time when arranged by start or due date"
+msgstr "시작/마감일로 정렬 시 작업 시간 표시"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr "%A %d.%#m.%Y (예: \"월요일 21.4.2012\")"
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr "%A %d.%m.%Y (예: \"월요일 21.04.2012\")"
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr "%A %Y-%m-%d (예: \"월요일 2012-04-21\")"
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr "%A %#m/%d/%Y (예: \"월요일 4/21/2012\")"
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr "%A %m/%d/%Y (예: \"월요일 04/21/2012\")"
+
+msgid "Task list header format"
+msgstr "작업 목록 머리말 형식"
+
+msgid "<None>"
+msgstr "<없음>"
+
+msgid "Default task template"
+msgstr "기본 작업 서식"
+
+msgid "Event List"
+msgstr "일정 목록"
+
+msgid "Show full event summary"
+msgstr "모든 일정 요약 표시"
+
+msgid "Show event start time"
+msgstr "일정 시작 시간 표시"
+
+msgid "Show event end time"
+msgstr "일정 종료 시간 표시"
+
+msgid "Show event location"
+msgstr "일정 장소 표시"
+
+msgid "Show event calendar"
+msgstr "일정 달력 종류 보기"
+
+msgid "Hide dismissed events"
+msgstr "알림 해제된 일정 숨기기"
+
+msgid "Hide past events"
+msgstr "지나간 일정 숨기기"
+
+msgid "Number of future days the list shows"
+msgstr "목록에 표시할 미래 일수"
+
+msgid "Number of past days the list shows"
+msgstr "목록에 표시할 과거 일수"
+
+msgid "Age from start of the week"
+msgstr "주 앞 부분에 주차 표시"
+
+msgid "Event list header format"
+msgstr "일정 목록 머리말 형식"
+
+msgid "Default event template"
+msgstr "기본 일정 서식"
+
+msgid "No grouping"
+msgstr "그룹화 안 함"
+
+msgid "Start and end dates"
+msgstr "시작/종료 날짜"
+
+msgid "Start date and duration"
+msgstr "시작 날짜/간격"
+
+msgid "Group multiday events"
+msgstr "여러 날 일정 그룹화"
+
+msgid "Schedule"
+msgstr "시간 계획"
+
+msgid "Show schedule descriptions"
+msgstr "시간 계획 설명 표시"
+
+msgid "Show schedule start time"
+msgstr "시간 계획 시작 시간 표시"
+
+msgid "Show schedule end time"
+msgstr "시간 계획 종료 시간 표시"
+
+msgid "Show schedule location"
+msgstr "시간 계획 장소 표시"
+
+msgid "Show schedule calendar"
+msgstr "시간 계획 달력 표시"
+
+msgid "Create, move and resize events with mouse"
+msgstr "마우스로 만들기, 이동, 크기 조정 가능"
+
+msgid "First shown hour"
+msgstr "처음으로 표시되는 시간"
+
+msgid "Last shown hour"
+msgstr "마지막으로 표시되는 시간"
+
+msgid "Alarm"
+msgstr "시간 알림"
+
+msgid "Show alarm start time"
+msgstr "시간 알림 시작 시간 표시"
+
+msgid "Show alarm end time"
+msgstr "시간 알림 종료 시간 표시"
+
+msgid "Show alarm location"
+msgstr "시간 알림 장소 표시"
+
+msgid "Show alarm calendar"
+msgstr "시간 알림 달력 보기"
+
+msgid "Show due to the event"
+msgstr "일정에 마감 표시"
+
+msgid "Support Mozilla alarms"
+msgstr "Mozilla 시간 알림 지원"
+
+msgid "Keep alarm always on top"
+msgstr "시간 알림 항상 위에 표시"
+
+msgid "Default snooze time (secs)"
+msgstr "다시 알림 기본 시간 (초)"
+
+msgid "Max alarm window width"
+msgstr "시간 알림 창 최대 너비"
+
+msgid "Hide from alarm after days"
+msgstr "#일 지난 시간 알림은 숨기기"
+
+msgid "Default alarm time (mins)"
+msgstr "기본 시간 알림 시간 (분)"
+
+msgid "Default alarm file"
+msgstr "기본 시간 알림 파일"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "전체 화면 창에 시간 알림 표시 안 함"
+
+msgid "Loop the alarm sound (secs)"
+msgstr "시간 알림 소리 반복 (초)"
+
+msgid "Snooze times (mins)"
+msgstr "다시 알림 시간 (분)"
+
+msgid "Create Error!"
+msgstr "생성 오류!"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "항목에 대한 대상 달력을 선택할 수 없습니다."
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "다음 문자열로 새 항목을 만들 수 없습니다:\n"
+
+msgid "Parse Error!"
+msgstr "분석 오류!"
+
+msgid "New version found!"
+msgstr "새 버전을 찾았습니다!"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"%s 버전이 나왔습니다.\n"
+"지금 웹사이트에 접속하시겠습니까?"
+
+msgid "No updates available."
+msgstr "새 버전이 없습니다."
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "최신 버전의 Rainlendar를 사용 중입니다."
+
+msgid "New event"
+msgstr "새 일정"
+
+msgid "New task"
+msgstr "새 작업"
+
+msgid "Refresh"
+msgstr "새로 고침"
+
+msgid "Options..."
+msgstr "옵션..."
+
+msgid "Manager..."
+msgstr "관리자..."
+
+msgid "Exit"
+msgstr "종료"
+
+msgid "File"
+msgstr "파일"
+
+msgid "View"
+msgstr "보기"
+
+msgid "About..."
+msgstr "정보..."
+
+msgid "Open help\tCtrl+?"
+msgstr "도움말 열기\tCtrl+?"
+
+msgid "Help"
+msgstr "도움말"
+
+msgid "About"
+msgstr "Rainlendar 정보"
+
+msgid "Calendars"
+msgstr "달력"
+
+msgid "Choose day"
+msgstr "날짜 선택"
+
+msgid "Choose month"
+msgstr "달 선택"
+
+msgid "Install license..."
+msgstr "라이센스 설치..."
+
+msgid "Show debug log"
+msgstr "디버그 로그 보기"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+msgid "Enable all calendars"
+msgstr "모든 달력 사용함"
+
+msgid "Disable all calendars"
+msgstr "모든 달력 사용 안 함"
+
+msgid "Current Day"
+msgstr "오늘"
+
+msgid "Next Day"
+msgstr "다음 날"
+
+msgid "Previous Day"
+msgstr "이전 날"
+
+msgid "Next Week"
+msgstr "다음 주"
+
+msgid "Previous Week"
+msgstr "이전 주"
+
+msgid "Next Month"
+msgstr "다음 달"
+
+msgid "Previous Month"
+msgstr "이전 달"
+
+msgid "Current Month"
+msgstr "이번 달"
+
+msgid "Next Year"
+msgstr "내년"
+
+msgid "Previous Year"
+msgstr "작년"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Right"
+msgstr "오른쪽 키 (→)"
+
+msgid "Left"
+msgstr "왼쪽 키 (←)"
+
+msgid "Up"
+msgstr "위쪽 키 (↑)"
+
+msgid "Down"
+msgstr "아래쪽 키 (↓)"
+
+msgid "January"
+msgstr "1월"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+msgid "February"
+msgstr "2월"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+msgid "March"
+msgstr "3월"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+msgid "April"
+msgstr "4월"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+msgid "May"
+msgstr "5월"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+msgid "June"
+msgstr "6월"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+msgid "July"
+msgstr "7월"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+msgid "August"
+msgstr "8월"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+msgid "September"
+msgstr "9월"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+msgid "October"
+msgstr "10월"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+msgid "November"
+msgstr "11월"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+msgid "December"
+msgstr "12월"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+msgid "Visible"
+msgstr "표시"
+
+msgid "More settings..."
+msgstr "추가 설정..."
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+msgid "Show all windows"
+msgstr "모든 창 표시"
+
+msgid "Hide all windows"
+msgstr "모든 창 숨기기"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "사용권 파일 (*.r2lic)|*.r2lic"
+
+msgid "Choose the license file"
+msgstr "사용권 파일을 선택하십시오"
+
+msgid "*Empty*"
+msgstr "*비어있음*"
+
+msgid "This instance"
+msgstr "이 개체"
+
+msgid "Whole event"
+msgstr "전체 일정"
+
+msgid "All following"
+msgstr "이 다음 일정"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Do you want to delete this item?"
+msgstr "이 항목을 삭제하시겠습니까?"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"반복되는 항목입니다:\n"
+"\n"
+"%s\n"
+"\n"
+"이 개체(%s)만을 삭제하거나, 이 다음 모든 일정 또는 반복되는 일정 전체를 삭제"
+"할 수 있습니다."
+
+msgid "The item is read only and cannot be deleted."
+msgstr "읽기 전용 항목이므로 삭제할 수 없습니다."
+
+msgid "Unable to delete the item."
+msgstr "항목을 삭제할 수 없습니다."
+
+msgid "Do you want to delete these items?"
+msgstr "이 항목을 삭제하시겠습니까?"
+
+msgid "The item is read only and cannot be moved."
+msgstr "읽기 전용 항목이므로 이동할 수 없습니다."
+
+msgid "Unable to move the item."
+msgstr "항목을 이동할 수 없습니다."
+
+msgid "Choose a directory"
+msgstr "디렉터리 선택"
+
+msgid "Version"
+msgstr "버전"
+
+msgid "Built on"
+msgstr "빌드 날짜"
+
+msgid "Developed by"
+msgstr "개발자"
+
+msgid "Translated (%s) by"
+msgstr "번역자 (%s)"
+
+msgid "Licensed to"
+msgstr "등록자"
+
+msgid "Plugins"
+msgstr "플러그인"
+
+msgid "Links"
+msgstr "링크"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Forum"
+msgstr "포럼"
+
+msgid "Menu icons by"
+msgstr "메뉴 아이콘 개발"
+
+msgid "Application icon by"
+msgstr "아이콘 제작자"
+
+msgid "Copyrights"
+msgstr "저작권"
+
+msgid "Please wait..."
+msgstr "잠시만 기다리십시오..."
+
+msgid "Check for update"
+msgstr "새 버전 확인"
+
+msgid "Choose Alarm"
+msgstr "시간 알림 선택"
+
+msgid "All files (*.*)|*.*"
+msgstr "모든 파일 (*.*)|*.*"
+
+msgid "Change Fields"
+msgstr "필드 변경"
+
+msgid "%i events selected"
+msgstr "%i 일정이 선택됨"
+
+msgid "%i tasks selected"
+msgstr "%i 작업이 선택됨"
+
+msgid "End time:"
+msgstr "종료 시간:"
+
+msgid "Due time:"
+msgstr "마감 시간:"
+
+msgid "Add new alarm"
+msgstr "새로운 시간 알림 추가"
+
+msgid "Are you sure you want to do this?"
+msgstr "계속하시겠습니까?"
+
+msgid "The selected fields will be changed to %i items."
+msgstr "선택된 영역이 %i 항목으로 바뀝니다."
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr ""
+"작업을 되돌릴 수 없으므로 무엇을 했는지 확실히 알 경우만 \"예\"를 누르십시오."
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr "일정과 작업 형식을 바꾸는 데 일부 자료가 손실되는 것에 주의하십시오."
+
+msgid "Categories"
+msgstr "범주"
+
+msgid "Add..."
+msgstr "추가..."
+
+msgid "Clear"
+msgstr "비우기"
+
+msgid "Remove"
+msgstr "제거"
+
+msgid "Values"
+msgstr "값"
+
+msgid "Please give a name for the category"
+msgstr "범주에 이름을 지정하십시오"
+
+msgid "Enter text"
+msgstr "글을 입력하십시오"
+
+msgid "Unable to create the category!"
+msgstr "범주를 만들 수 없습니다!"
+
+msgid "You must give a name for the category."
+msgstr "범주 이름이 있어야 합니다."
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "이름에 '/' 문자를 사용할 수 없습니다."
+
+msgid "A category called \"%s\" already exists."
+msgstr "\"%s\" 범주 이름은 이미 존재합니다."
+
+msgid "Link start and end dates"
+msgstr "시작/종료 날짜 연결"
+
+msgid "Save\tCtrl+S"
+msgstr "저장\tCtrl+S"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "새로 저장\tShift+Ctrl+S"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "파일로 저장...\tShift+Ctrl+S"
+
+msgid "Print...\tCtrl+P"
+msgstr "인쇄...\tCtrl+P"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "삭제\tCtrl+Delete"
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "적용 후 닫기\tCtrl-Enter"
+
+msgid "Close\tCtrl+W"
+msgstr "닫기\tCtrl+S"
+
+msgid "Close\tAlt-F4"
+msgstr "닫기\tAlt-F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "선택된 달력은 반복을 지원하지 않습니다."
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr ""
+"달력에서 시간 알림을 이용하지 않는 것으로 설정했으므로 시간 알림을 표시하지 "
+"않습니다."
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr "스킨에 시간 알림 창이 없으므로 시간 알림을 표시하지 않습니다."
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr "읽기 전용 작업이므로 변경사항을 저장할 수 없습니다."
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr "읽기 전용 일정이므로 변경사항을 저장할 수 없습니다."
+
+msgid "The task is from a read-only calendar."
+msgstr "읽기 전용 달력에 있는 작업입니다."
+
+msgid "The event is from a read-only calendar."
+msgstr "읽기 전용 달력에 있는 일정입니다."
+
+msgid "There are no calendars available which can store tasks."
+msgstr "작업을 저장할 수 있는 사용 가능한 달력이 없습니다."
+
+msgid "There are no calendars available which can store events."
+msgstr "일정을 저장할 수 있는 사용 가능한 달력이 없습니다."
+
+msgid "No target calendar has been selected."
+msgstr "대상 달력이 선택되지 않았습니다."
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr "원래 설명은 HTML로 되어 있으며 편집할 수 없습니다."
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr "항목이 선택된 달력이 없습니다. 항목을 저장할 달력을 선택하십시오."
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"항목을 저장할 수 있는 유효한 달력이 없습니다. 옵션으로 가서 새 달력을 만들어"
+"야 합니다. 일부 달력은 일정과 작업 모두를 지원하지는 않는 것에 주의하십시오."
+
+msgid "Unable to save the item."
+msgstr "항목을 저장할 수 없습니다."
+
+msgid "Updating"
+msgstr "업데이트 중"
+
+msgid "Do you want to save the changes?"
+msgstr "변경 사항을 저장하시겠습니까?"
+
+msgid "You have made some changes to the fields."
+msgstr "일부 내용이 변경되었습니다."
+
+msgid "&Save"
+msgstr "저장(&S)"
+
+msgid "&Discard"
+msgstr "아니오(&D)"
+
+msgid "&Cancel"
+msgstr "취소(&C)"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "이 항목을 삭제하시겠습니까?"
+
+msgid "Event"
+msgstr "일정"
+
+msgid "Choose a file"
+msgstr "파일 선택"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar 파일 (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "달력을 선택하십시오:"
+
+msgid "Select the categories:"
+msgstr "범주를 선택하십시오:"
+
+msgid "before the event starts."
+msgstr "전에 일정 시작을 알립니다."
+
+msgid "before the task is due."
+msgstr "전에 작업 마감을 알립니다."
+
+msgid "Set alarm sound"
+msgstr "시간 알림 소리 설정"
+
+msgid "Current alarm: "
+msgstr "현재 시간 알림: "
+
+msgid "Remove alarm"
+msgstr "시간 알림 제거"
+
+msgid "Minutes"
+msgstr "분"
+
+msgid "Hours"
+msgstr "시간"
+
+msgid "Days"
+msgstr "일"
+
+msgid "Alert"
+msgstr "경고"
+
+msgid "Email"
+msgstr "전자 메일"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr ""
+"일정에 대한 달력 핸들러를 찾을 수 없습니다. 이 일정은 저장되지 않습니다."
+
+msgid "On the %s day of the month"
+msgstr "그 달의 %s 날에"
+
+msgid "first"
+msgstr "첫째"
+
+msgid "second"
+msgstr "둘째"
+
+msgid "third"
+msgstr "셋째"
+
+msgid "fourth"
+msgstr "넷째"
+
+msgid "fifth"
+msgstr "다섯째"
+
+msgid "On the %s %s of the month"
+msgstr "그 달의 %s %s"
+
+msgid "On the last %s of the month"
+msgstr "그 달의 마지막 %s"
+
+msgid "On the first weekday of the month"
+msgstr "그 달의 첫 평일"
+
+msgid "On the last weekday of the month"
+msgstr "그 달의 마지막 평일"
+
+msgid "On the last day of the month"
+msgstr "그 달의 마지막 날"
+
+msgid "Please give a name for the template"
+msgstr "서식에 이름을 지정하십시오"
+
+msgid "Unable to create the template!"
+msgstr "서식을 만들 수 없습니다!"
+
+msgid "You must give a name for the template."
+msgstr "서식에 이름을 지정해야 합니다."
+
+msgid "A template called \"%s\" already exists."
+msgstr "\"%s\" 서식 이름은 이미 존재합니다."
+
+msgid "Do you want to overwrite the template?"
+msgstr "서식을 덮어쓰시겠습니까?"
+
+msgid "Choose the template to delete:"
+msgstr "삭제할 서식 선택:"
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "새 작업에 사용할 서식 선택:"
+
+msgid "Choose the template which is used for new events:"
+msgstr "새 일정에 사용할 서식 선택:"
+
+msgid "Save as template..."
+msgstr "서식 저장..."
+
+msgid "Delete template..."
+msgstr "서식 삭제..."
+
+msgid "Set the default template..."
+msgstr "기본 서식으로 설정..."
+
+msgid "Template"
+msgstr "서식"
+
+msgid "Select the day range"
+msgstr "날의 범위를 선택하십시오"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"하나의 항목으로 변환되기 때문에 반복 일정을 저장할 수 없습니다. 파일로 저장하"
+"기 위해 날짜 범위를 지정하십시오."
+
+msgid "From:"
+msgstr "발신:"
+
+msgid "To:"
+msgstr "수신:"
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "종료 시간은 시작 시간보다 빠를 수 없습니다."
+
+msgid "Birthday"
+msgstr "생일"
+
+msgid "Anniversary"
+msgstr "기념일"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"생일 또는 기념일이 생성되었지만 반복이 지정되지 않았습니다. 이 일정을 매년 반"
+"복하시겠습니까?"
+
+msgid "Error"
+msgstr "오류"
+
+msgid "Warning"
+msgstr "경고"
+
+msgid "Question"
+msgstr "질문"
+
+msgid "Information"
+msgstr "정보"
+
+msgid "Do not show this again"
+msgstr "다시 표시하지 않음"
+
+msgid "&OK"
+msgstr "확인(&O)"
+
+msgid "&Yes"
+msgstr "예(&Y)"
+
+msgid "&No"
+msgstr "아니오(&N)"
+
+msgid "Manager"
+msgstr "관리자"
+
+msgid "Events"
+msgstr "일정"
+
+msgid "Tasks"
+msgstr "작업"
+
+msgid "Show original"
+msgstr "원본 보기"
+
+msgid "Show current"
+msgstr "현재 보기"
+
+msgid "Show upcoming"
+msgstr "예정 보기"
+
+msgid "New"
+msgstr "새 항목"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Copy to"
+msgstr "복사"
+
+msgid "Move to"
+msgstr "이동"
+
+msgid "Change fields"
+msgstr "필드 변경"
+
+msgid "Import"
+msgstr "가져오기"
+
+msgid "Export"
+msgstr "내보내기"
+
+msgid "Print..."
+msgstr "인쇄..."
+
+msgid "Backup"
+msgstr "백업"
+
+msgid "Restore"
+msgstr "복원"
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "Select all"
+msgstr "모두 선택"
+
+msgid "Select none"
+msgstr "선택 안 함"
+
+msgid "Toggle selection"
+msgstr "선택 반전"
+
+msgid "Select duplicates"
+msgstr "중복 선택"
+
+msgid "Sort by due time"
+msgstr "마감 시간으로 정렬"
+
+msgid "Sort by end time"
+msgstr "종료 시간으로 정렬"
+
+msgid "Sort by summary"
+msgstr "요약으로 정렬"
+
+msgid "Sort by location"
+msgstr "장소로 정렬"
+
+msgid "Sort by calendar"
+msgstr "달력으로 정렬"
+
+msgid "Sort by category"
+msgstr "범주로 정렬"
+
+msgid "Sort by url"
+msgstr "url로 정렬"
+
+msgid "Sort by repeat"
+msgstr "반복으로 정렬"
+
+msgid "Sort by priority"
+msgstr "우선순위로 정렬"
+
+msgid "Sort by status"
+msgstr "상태로 정렬"
+
+msgid "Sort by create time"
+msgstr "생성 시간으로 정렬"
+
+msgid "Sort by modify time"
+msgstr "수정 시간으로 정렬"
+
+msgid "Sort by start time"
+msgstr "시작 시간으로 정렬"
+
+msgid "Start time"
+msgstr "시작 시간"
+
+msgid "End time"
+msgstr "종료 시간"
+
+msgid "Summary"
+msgstr "요약"
+
+msgid "Location"
+msgstr "장소"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Create time"
+msgstr "생성 시간"
+
+msgid "Modify time"
+msgstr "수정 시간"
+
+msgid "Reverse sorting"
+msgstr "역순 정렬"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "전체: %i (선택: %i)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr ""
+"많은 편집 항목을 여는 데 오랜 시간이 걸릴 수 있습니다. 계속하시겠습니까?"
+
+msgid "Do you want to delete the selected item?"
+msgstr "선택된 항목을 삭제하시겠습니까?"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "선택된 %i 항목을 삭제하시겠습니까?"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr "선택된 항목은 읽기 전용이며 삭제할 수 없습니다."
+
+msgid "There were %i read only items which were not deleted."
+msgstr "삭제되지 않은 읽기 전용 항목 %i개가 있었습니다."
+
+msgid "Unable to delete some items."
+msgstr "일부 항목을 삭제할 수 없습니다."
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "항목을 복사할 달력 선택:"
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "항목을 이동할 달력 선택:"
+
+msgid "Operation failed!"
+msgstr "작업 실패!"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr "항목을 저장할 수 있는 알맞은 달력이 없습니다."
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"온라인 달력으로 항목을 옮기는 것은 안전하지 않습니다. 만약 대상 달력이 네트워"
+"크 문제나 기타 사유로 항목을 받아들이지 않는다면 옮겼던 모든 일정을 잃게 됩니"
+"다.\n"
+"\n"
+"따라서 확실할 경우에만 \"예\"를 누르십시오."
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "다음 달력에 %i 항목을 옮겼습니다: \n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "다음 달력에 %i 항목을 복사했습니다.: \n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"중요! 항목을 온라인 달력에 복사하는데 시간이 걸리므로 잠시 사용할 수 없습니"
+"다."
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr "일부 항목이 읽기 전용으로 설정되어 이동대신 복사되었습니다."
+
+msgid "Operation finished!"
+msgstr "작업 완료!"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "일정에 대해 적어도 하나의 달력을 선택해야 합니다."
+
+msgid "Backup was successful."
+msgstr "백업에 성공했습니다."
+
+msgid "The backup contains these files:"
+msgstr "백업에 다음 파일을 포함합니다:"
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"경고! 백업 파일은 iCalendar 파일을 포함하고 있지 않습니다. 로컬에 저장한 일정"
+"이나 작업이라면 수동으로 백업해야 합니다."
+
+msgid "Unable to create the backup file."
+msgstr "백업을 생성할 수 없습니다."
+
+msgid "The archive contains unknown files:\n"
+msgstr "압축파일이 알 수 없는 파일을 포함하고 있습니다:\n"
+
+msgid "Restore was successful."
+msgstr "복원에 성공하였습니다."
+
+msgid "There were problems during the restore."
+msgstr "복원하는 동안 문제가 발생하였습니다."
+
+msgid "Exported %i events successfully."
+msgstr "%i - 일정 내보내기 성공."
+
+msgid "Exported %i todo items successfully."
+msgstr "%i - 할 일 항목 내보내기 성공."
+
+msgid "Export failed!"
+msgstr "내보내기 실패!"
+
+msgid "Import failed!"
+msgstr "가져오기 실패!"
+
+msgid "Options"
+msgstr "옵션"
+
+msgid "Skins"
+msgstr "스킨"
+
+msgid "Hotkeys"
+msgstr "단축키"
+
+msgid "Advanced"
+msgstr "고급"
+
+msgid "Reset all settings"
+msgstr "모든 설정 초기화"
+
+msgid "Reset offline copy"
+msgstr "오프라인 복사 초기화"
+
+msgid "Authenticate"
+msgstr "인증"
+
+msgid "OK"
+msgstr "확인"
+
+msgid "Get more languages..."
+msgstr "다른 언어 받기..."
+
+msgid "On Top"
+msgstr "위"
+
+msgid "On Bottom"
+msgstr "아래"
+
+msgid "On Desktop"
+msgstr "바탕화면"
+
+msgid "Get more skins..."
+msgstr "더 많은 스킨 받기..."
+
+msgid "TrayIcon"
+msgstr "트레이 아이콘"
+
+msgid "Author"
+msgstr "제작자"
+
+msgid "Homepage"
+msgstr "홈페이지"
+
+msgid "Addons"
+msgstr "추가 기능"
+
+msgid "Version history"
+msgstr "버전 내역"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "이전 버전의 Rainlendar 스킨입니다. 일부 기능은 지원되지 않습니다."
+
+msgid "Advanced >>>"
+msgstr "고급 >>>"
+
+msgid "<<< Simple"
+msgstr "<<< 단순"
+
+msgid "Open containing folder"
+msgstr "포함하고 있는 폴더 열기"
+
+msgid "Custom categories are not supported."
+msgstr "기존 범주가 지원되지 않습니다."
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr "\"%s\" 스킨은 기존 범주 표현에서 지원되지 않으므로 편집할 수 없습니다."
+
+msgid "Activate only default windows?"
+msgstr "기본 창만 활성화하시겠습니까?"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr "기본 창만 또는 모든 창을 활성화하시겠습니까?"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr "모든 창을 활성화하면 성능이 저하될 수 있습니다."
+
+msgid "&Default"
+msgstr "기본(&D)"
+
+msgid "&All"
+msgstr "모두(&A)"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"편집란을 활성화하고 단축키 조합을 누르십시오. 단축키는 전역이며 다른 응용 프"
+"로그램에도 영향을 미치므로 너무 단순하게 만들지 마십시오."
+
+msgid "Hotkey"
+msgstr "단축키"
+
+msgid "Function"
+msgstr "기능"
+
+msgid "Search:"
+msgstr "찾기:"
+
+msgid "Do you want to reset all settings?"
+msgstr "모든 설정을 초기화하시겠습니까?"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"모든 설정을 기본 값으로 바꿉니다. 기본 값은 바로 적용됩니다. 계속하시겠습니"
+"까?"
+
+msgid "Common"
+msgstr "평상 시"
+
+msgid "Enabled"
+msgstr "켜기"
+
+msgid "Read only"
+msgstr "읽기 전용"
+
+msgid "Ignore alarms"
+msgstr "시간 알림 무시"
+
+msgid "Default alarm (minutes)"
+msgstr "기본 시간 알림 (분)"
+
+msgid "Visual category"
+msgstr "범주 모양"
+
+msgid "Time offset (mins)"
+msgstr "시간 오프셋 (분)"
+
+msgid "Time zone"
+msgstr "표준 시간대"
+
+msgid "Copy of %s"
+msgstr "%s 를 복사"
+
+msgid "Please enter a name for the calendar."
+msgstr "달력 이름을 입력하십시오."
+
+msgid "Illegal character!"
+msgstr "잘못된 문자입니다!"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "이름에 '/' 또는 ';' 문자를 사용할 수 없습니다."
+
+msgid "A calendar called \"%s\" already exists."
+msgstr "\"%s\" 달력 이름은 이미 존재합니다."
+
+msgid "Choose another name."
+msgstr "다른 이름을 선택하십시오."
+
+msgid "Authentication failure"
+msgstr "인증 실패"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr ""
+"OAuth 프로세스가 실패했습니다. Rainlendar가 달력 데이터에 접근할 수 없습니다."
+
+msgid "Do you want to delete the skin?"
+msgstr "스킨을 삭제하시겠습니까?"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"'예'를 선택하면 \"%s\" 스킨\n"
+"은 영구적으로 삭제됩니다."
+
+msgid "Delete failed!"
+msgstr "삭제 실패!"
+
+msgid "Unable to delete the skin."
+msgstr "스킨을 삭제할 수 없습니다."
+
+msgid "Print"
+msgstr "인쇄"
+
+msgid "Print items"
+msgstr "항목 인쇄"
+
+msgid "End"
+msgstr "End"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Variables"
+msgstr "변수"
+
+msgid "Window settings"
+msgstr "창 설정"
+
+msgid "Settings can be shown only for a single window."
+msgstr "설정은 하나의 창에서만 볼 수 있습니다."
+
+msgid "No settings available."
+msgstr "사용 가능한 설정이 없습니다."
+
+msgid "Global variables"
+msgstr "전역 변수"
+
+msgid "Grow upwards"
+msgstr "위로 늘리기"
+
+msgid "Window position"
+msgstr "창 위치"
+
+msgid "Disabled"
+msgstr "사용 안 함"
+
+msgid "Click through"
+msgstr "클릭 통과"
+
+msgid "Scale"
+msgstr "크기 비율"
+
+msgid "Filters"
+msgstr "필터"
+
+msgid "Included calendars"
+msgstr "포함할 달력"
+
+msgid "Excluded calendars"
+msgstr "제외할 달력"
+
+msgid "Included categories"
+msgstr "포함할 범주"
+
+msgid "Excluded categories"
+msgstr "제외할 범주"
+
+msgid "Task list"
+msgstr "작업 목록"
+
+msgid "Alphabetically"
+msgstr "가나다순"
+
+msgid "By Category"
+msgstr "범주순"
+
+msgid "By Due Date"
+msgstr "마감 날짜순"
+
+msgid "By Start Date"
+msgstr "시작 날짜순"
+
+msgid "By Status"
+msgstr "상태순"
+
+msgid "By Priority"
+msgstr "순위순"
+
+msgid "By Location"
+msgstr "장소순"
+
+msgid "By Calendar"
+msgstr "달력순"
+
+msgid "Custom"
+msgstr "사용자 지정"
+
+msgid "Primary sort order"
+msgstr "주 정렬 기준"
+
+msgid "Secondary sort order"
+msgstr "보조 정렬 기준"
+
+msgid "Reverse primary sorting"
+msgstr "역순 주 정렬"
+
+msgid "Reverse secondary sorting"
+msgstr "역순 보조 정렬"
+
+msgid "Empty at top"
+msgstr "빈 항목을 위에"
+
+msgid "Hide completed tasks"
+msgstr "완료된 작업 숨기기"
+
+msgid "Hide canceled tasks"
+msgstr "취소된 작업 숨기기"
+
+msgid "Hide upcoming tasks"
+msgstr "예정된 작업 숨기기"
+
+msgid "Event list"
+msgstr "일정 목록"
+
+msgid "Show empty days"
+msgstr "빈 날 표시"
+
+msgid "Window variables"
+msgstr "창 변수"
+
+msgid "Appearance"
+msgstr "모양"
+
+msgid "Operations"
+msgstr "동작"
+
+msgid "Left click"
+msgstr "왼쪽 클릭"
+
+msgid "Right click"
+msgstr "오른쪽 클릭"
+
+msgid "Double left click"
+msgstr "왼쪽 더블 클릭"
+
+msgid "Double right click"
+msgstr "오른쪽 더블 클릭"
+
+msgid "Local"
+msgstr "로컬"
+
+msgid "Task"
+msgstr "작업"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr "반복을 지정하기 전에 마감 날짜가 설정되어야 합니다."
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "마감 시간은 시작 시간보다 빠를 수 없습니다."
+
+msgid "Unable to add new alarm!"
+msgstr "새 시간 알림을 추가할 수 없습니다!"
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr "시간 알림을 지정하기 전에 마감 날짜가 작업에 지정되어야 합니다."
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "사용권을 설치하기 전에 Pro 판으로 업그레이드 하십시오."
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"아직 Pro 판 기능이 포함되지 않은 Lite 판을 사용 중입니다. Rainlendar 다운로"
+"드 페이지에서 Pro 판을 받으십시오."
+
+msgid "&Get Pro"
+msgstr "Pro 판 받기(&G)"
+
+msgid "&Ignore"
+msgstr "무시(&I)"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+".r2skin 또는 .r2lang 파일을 받을 때\n"
+"웹 브라우저가 확장자를 .zip으로 바꿨다면\n"
+"파일을 적용할 수 있도록 확장자를 바꾸십시오."
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Zip 압축파일은 Rainlendar로 가져올 수 없습니다."
+
+msgid "Unknown file \"%s\"."
+msgstr "알 수 없는 파일 \"%s\"."
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "Rainlendar로 파일을 가져올 수 없습니다."
+
+msgid "Installation failed!"
+msgstr "설치 실패!"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "파일을 복사할 수 없습니다. 원본과 결과물이 같습니다."
+
+msgid "Unable to install the file \"%s\"."
+msgstr "파일 \"%s\" 을 설치할 수 없습니다."
+
+msgid "The folder does not have write permissions."
+msgstr "폴더에 쓰기 권한이 없습니다."
+
+msgid "The skin %s doesn't exist."
+msgstr "%s 스킨이 존재하지 않습니다."
+
+msgid "Unable to merge the addon."
+msgstr "추가 기능을 합칠 수 없습니다."
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"\"%s\"이 이미 존재합니다.\n"
+"대체하시겠습니까?"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "위 파일은 이미 존재합니다. 덮어쓰기 하시겠습니까?"
+
+msgid "Unable to install the skin!"
+msgstr "스킨을 설치할 수 없습니다!"
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr ""
+"스킨이 \"skin.xml\" 파일을 포함하고 있지 않습니다. xml 형태의 Rainlendar 스킨"
+"이 맞습니까?"
+
+msgid "The installation was successful!"
+msgstr "설치 성공하였습니다!"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "\"%s\" 파일을 성공적으로 설치하였습니다."
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr "변경 사항을 보려면 Rainlendar를 새로 고침 하십시오."
+
+msgid "&Refresh"
+msgstr "새로 고침(&R)"
+
+msgid "The installation failed!"
+msgstr "설치 실패하였습니다!"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr "\"%s\"을(를) 설치하는 데 실패하였습니다!"
+
+msgid "Select the calendar for the imported items:"
+msgstr "가져온 항목에 대한 달력 선택:"
+
+msgid "There are no calendars available that are able to store the item."
+msgstr "항목을 저장할 수 있는 달력이 없습니다."
+
+msgid "Imported %i items successfully."
+msgstr "%i 항목을 성공적으로 가져왔습니다."
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr "가져온 일정에 최소한 하나의 달력을 선택해야 합니다"
+
+msgid "Version mismatch!"
+msgstr "버전 불일치!"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr "이 스킨 추가 기능은 스킨 버전 %s용입니다. 설치된 버전은 %s 입니다."
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "계속하시겠습니까? (스킨이 깨질 수 있습니다.)"
+
+msgid "&Continue"
+msgstr "계속(&C)"
+
+msgid "Ca&ncel"
+msgstr "취소(&N)"
+
+msgid "Failed to install \"%s\"."
+msgstr "\"%s\" 을(를) 설치하는 데 실패했습니다."
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"스킨 추가 기능이 이미 적용되어 있습니다.\n"
+"동일한 추가 기능은 한 번만 적용 가능합니다."
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "추가 기능을 합칠 임시 폴더를 생성할 수 없습니다."
+
+msgid "Win"
+msgstr "Windows 키"
+
+msgid "Control"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Return"
+msgstr "Return (Enter)"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Space"
+msgstr "Spacebar"
+
+msgid "Page Up"
+msgstr "PgUp"
+
+msgid "Page Down"
+msgstr "PgDn"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "NumLock"
+msgstr "NumLock"
+
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+msgid "Edit \"%s\""
+msgstr "\"%s\" 편집"
+
+msgid "Delete all"
+msgstr "모두 삭제"
+
+msgid "Dismiss alarm"
+msgstr "시간 알림 해제"
+
+msgid "Tomorrow"
+msgstr "내일"
+
+msgid "Yesterday"
+msgstr "어제"
+
+msgid "Last %1"
+msgstr "지난 %1"
+
+msgid "%1 next week"
+msgstr "다음 주 %1"
+
+msgid "%1 last week"
+msgstr "지난 주 %1"
+
+msgid "%1 %2 weeks ago"
+msgstr "%2주 전 %1"
+
+msgid "%1 in %2 weeks"
+msgstr "%1 %2주 후"
+
+msgid " (Due in %s)"
+msgstr " (%s 까지)"
+
+msgid " (Overdue %s)"
+msgstr " (%s 지나서)"
+
+msgid "day"
+msgstr "일"
+
+msgid "days"
+msgstr "일"
+
+msgid "hour"
+msgstr "시간"
+
+msgid "hours"
+msgstr "시간"
+
+msgid "minute"
+msgstr "분"
+
+msgid "minutes"
+msgstr "분"
+
+msgid " (Due now)"
+msgstr " (지금까지)"
+
+msgid "before target"
+msgstr "목표 전"
+
+msgid "Snooze"
+msgstr "다시 알림"
+
+msgid "Dismiss"
+msgstr "해제"
+
+msgid "Edit..."
+msgstr "편집..."
+
+msgid "Move to next day"
+msgstr "다음 날로 이동"
+
+msgid " (%i days)"
+msgstr " (%i 일)"
+
+msgid "Edit event"
+msgstr "일정 편집"
+
+msgid "Delete event"
+msgstr "일정 삭제"
+
+msgid "[Due %x]"
+msgstr "[%x까지]"
+
+msgid "No location"
+msgstr "장소 없음"
+
+msgid "No category"
+msgstr "범주 없음"
+
+msgid "No due date"
+msgstr "마감 날짜 없음"
+
+msgid "No start date"
+msgstr "시작 날짜 없음"
+
+msgid "High Priority"
+msgstr "높은 순위"
+
+msgid "Medium Priority"
+msgstr "중간 순위"
+
+msgid "Low Priority"
+msgstr "낮은 순위"
+
+msgid "No Priority"
+msgstr "순위 없음"
+
+msgid "Medium"
+msgstr "중간"
+
+msgid "Expand"
+msgstr "확장"
+
+msgid "Collapse"
+msgstr "축소"
+
+msgid "New subtask"
+msgstr "새 하위 작업"
+
+msgid "Edit task"
+msgstr "작업 편집"
+
+msgid "Delete task"
+msgstr "작업 삭제"
+
+msgid "Todo list"
+msgstr "할 일 목록"
+
+msgid "Completed to now"
+msgstr "지금까지 완료"
+
+msgid "No events today."
+msgstr "오늘 일정 없음."
+
+msgid "Today's events:"
+msgstr "오늘의 일정:"
+
+msgid "Invalid plugins found!"
+msgstr "잘못된 플러그인을 찾았습니다!"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"다음 Rainlendar 플러그인 파일은\n"
+"폴더가 잘못되었거나 제거되었습니다:\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"플러그인 버전과 같은 Rainlendar 버전인지 확인하십시오."
+
+msgid "allow multiple instances"
+msgstr "다수 항목 가능"
+
+msgid "install a skin or a language"
+msgstr "스킨 또는 언어 설치"
+
+msgid "import the given file"
+msgstr "지정된 파일 가져오기"
+
+msgid "path where the configuration file will be stored"
+msgstr "설정 파일을 저장할 경로"
+
+msgid "execute the given function in a script"
+msgstr "스크립트에 지정된 함수 실행"
+
+msgid "path where the log file will be stored"
+msgstr "로그 파일을 저장 경로"
+
+msgid "path where the backups will be stored"
+msgstr "백업을 저장할 경로"
+
+msgid "add event or task to the calendar"
+msgstr "달력에 일정 또는 작업 추가"
+
+msgid "enable verbose logging"
+msgstr "상세한 로그 사용"
+
+msgid "enable debug logging"
+msgstr "디버그 로그 사용"
+
+msgid "disable all logging"
+msgstr "모든 로그 사용 안 함"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr "파일을 가져오거나 설치한 후 메시지 표시하지 않기"
+
+msgid "Do you want to start another instance?"
+msgstr "다른 프로세스를 시작하시겠습니까?"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr ""
+"이미 Rainlendar가 실행 중입니다. '예'를 선택하면 다른 Rainlendar가 실행됩니"
+"다."
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"실행할 때마다 질문 창이 뜨면\n"
+"다음 파일을 삭제하고 Rainlendar를 시작하십시오:\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"다음 경로에서 리소스를 읽어들일 수 없습니다:\n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "일정과 작업이 그대로 남아있다는 것에 주의하십시오."
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"설정 파일이 없거나 비어 있습니다.\n"
+"최신 백업 파일에서 복원하시겠습니까?"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"설정 파일을 생성할 수 없습니다:\n"
+"\n"
+"%s\n"
+"\n"
+"폴더에 쓰기 권한을 만드십시오."
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"설정 파일을 기록할 수 없습니다:\n"
+"\n"
+"%s\n"
+"\n"
+"올바른 권한이 있는지 확인하십시오."
+
+msgid "You won't be able to store any settings permanently."
+msgstr "설정은 영구적으로 저장할 수 없습니다."
+
+msgid "This is a BETA version."
+msgstr "베타판입니다."
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"Rainlendar 베타판을 사용 중입니다. 이는 소프트웨어가 테스트되지 않았고 일상적"
+"으로 사용하기에는 적합하지 않다는 것을 의미합니다.\n"
+"\n"
+"모든 오류들은 www.rainlendar.net의 Rainlendar 베타 토론장으로 보고해주시기 바"
+"랍니다.\n"
+"\n"
+"(이 메시지는 한 번만 표시됩니다)"
+
+msgid "Google Calendar support has been changed"
+msgstr "Google 달력 지원이 변경되었습니다"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"Google 달력 지원은 이제 다른 달력 형태를 사용합니다. Google 일정을 다시 표시"
+"하려면 새 달력을 만들고 'Google 달력 (v3)'를 달력 형태로 골라야 합니다.."
+
+msgid "Everything is hidden."
+msgstr "모두 숨깁니다."
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"모든 창과 트레이 아이콘이 숨겨집니다.\n"
+"계속하시겠습니까?\n"
+"\n"
+"모든 창을 숨기고 이 대화 창을 다시 보지 않으려면 '예'를 클릭하십시오. 모든 창"
+"을 다시 보려면 '아니오'를 클릭하십시오."
+
+msgid "Startup error!"
+msgstr "시작 오류!"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"Rainlendar가 설정을 올바로 새로 고침할 수 없습니다. 모든 설정을 초기화하고 다"
+"시 시도하거나 백업된 버전 중 하나를 사용하시겠습니까?"
+
+msgid "&Reset"
+msgstr "초기화(&R)"
+
+msgid "&Use backup"
+msgstr "백업 사용하기(&U)"
+
+msgid "&Keep"
+msgstr "유지(&K)"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"다음 경로에 스킨이 없습니다:\n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr ""
+"선택된 스킨을 불러올 수 없습니다.\n"
+"기본 스킨으로 대체하시겠습니까?"
+
+msgid "Unable to load the skin!"
+msgstr "스킨을 불러올 수 없습니다!"
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr ""
+"선택된 스킨을 불러올 수 없었습니다. 자세한 사항은 Rainlendar 로그에서 볼 수 "
+"있습니다."
+
+msgid "&Ok"
+msgstr "확인(&O)"
+
+msgid "&Show log"
+msgstr "로그 보기(&S)"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "No"
+msgstr "아니오"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr ""
+"라이센스 파일이 비어 있습니다."
+"라이센스 파일을 다운로드할 때 전체 URL을 사용해야 합니다."
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"라이센스가 유효하지 않습니다."
+"라이선스를 다운로드할 수 있는 횟수를 초과했습니다."
+"자세한 내용은 Rainlendar의 지원에 문의하십시오."
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"라이센스 파일의 형식이 올바르지 않습니다."
+"올바른 라이센스 파일을 사용하고 있는지 확인하십시오."
+"오류가 지속되면 파일을 다시 다운로드 할 수도 있습니다."
+
+msgid "Skin error!"
+msgstr "스킨 오류!"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"Shadow4의 '큰 달력' 스킨 창이 기본 '달력' 창의 '대형' 옵션으로 대체되었습니"
+"다. 스킨을 초기화하려면 '확인'을 클릭하십시오."
+
+msgid "Use large default skin?"
+msgstr "큰 기본 스킨을 사용하시겠습니까?"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"기본 값은 화면 해상도에 비해 너무 작을 수 있습니다. 더 큰 글꼴과 창을 사용하"
+"시겠습니까?"
+
+msgid "&Large"
+msgstr "대형(&L)"
+
+msgid "&Small"
+msgstr "소형(&S)"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"이전 Rainlendar 파일을 찾았습니다:\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "항목을 가져오시겠습니까?"
+
+msgid "Import failed with file: \"%s\""
+msgstr "파일 가져오기 실패: \"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "Rainlendar2 Pro를 구매하시겠습니까?"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"지난 한 달 동안 Rainlendar를 사용하면서 즐거웠기를 바랍니다. 추가 기능이 있"
+"는 Pro판으로 업그레이드하시겠습니까? 아래 \"바로 구매\" 연결을 이용하면 사용"
+"권을 할인된 가격에 구매하실 수 있습니다. 또한 \"괜찮습니다\" 버튼을 누르면 "
+"이 메시지를 다시 표시하지 않습니다.\n"
+"\n"
+"성원에 감사드립니다."
+
+msgid "&Buy Now"
+msgstr "바로 구매(&B)"
+
+msgid "&Remind later"
+msgstr "나중에 다시 알림(&R)"
+
+msgid "&No Thanks"
+msgstr "괜찮습니다(&N)"
+
+msgid "Ok"
+msgstr "확인"
+
+msgid "Update"
+msgstr "업데이트"
+
+msgid "Make a selection:"
+msgstr "선택하기:"
+
+msgid "Hide Windows"
+msgstr "창 숨기기"
+
+msgid "Show Windows"
+msgstr "창 표시"
+
+msgid "Toggle Windows"
+msgstr "창 바꾸기"
+
+msgid "Toggle Today Window"
+msgstr "오늘 창 바꾸기"
+
+msgid "Create New Task"
+msgstr "새 작업 만들기"
+
+msgid "Create New Event"
+msgstr "새 일정 만들기"
+
+msgid "Create new event or task"
+msgstr "새 일정 또는 작업 만들기"
+
+msgid "Quit Application"
+msgstr "응용프로그램 종료"
+
+msgid "Business"
+msgstr "업무"
+
+msgid "Calls"
+msgstr "초청"
+
+msgid "Clients"
+msgstr "고객"
+
+msgid "Competition"
+msgstr "경쟁"
+
+msgid "Customer"
+msgstr "손님"
+
+msgid "Exam"
+msgstr "시험"
+
+msgid "Favorites"
+msgstr "마음에 드는 것"
+
+msgid "Follow Up"
+msgstr "후속조치"
+
+msgid "Gifts"
+msgstr "선물"
+
+msgid "Holidays"
+msgstr "휴일"
+
+msgid "Ideas"
+msgstr "생각"
+
+msgid "Important"
+msgstr "중요"
+
+msgid "Issues"
+msgstr "문제"
+
+msgid "Miscellaneous"
+msgstr "기타"
+
+msgid "Personal"
+msgstr "사적인 것"
+
+msgid "Projects"
+msgstr "계획"
+
+msgid "Public Holiday"
+msgstr "공휴일"
+
+msgid "Suppliers"
+msgstr "공급자"
+
+msgid "Travel"
+msgstr "여행"
+
+msgid "Trip"
+msgstr "출장"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Vacation"
+msgstr "휴가"
+
+msgid "Work"
+msgstr "일"
+
+msgid "Medical"
+msgstr "의료"
+
+msgid "Urgent"
+msgstr "긴급"
+
+msgid "Health"
+msgstr "건강"
+
+msgid "Sport"
+msgstr "스포츠"
+
+msgid "Game"
+msgstr "게임"
+
+msgid "School"
+msgstr "학교"
+
+msgid "Party"
+msgstr "파티"
+
+msgid "Movie"
+msgstr "영화"
+
+msgid "Car"
+msgstr "자동차"
+
+msgid "Payments"
+msgstr "결제"
+
+msgid "Money"
+msgstr "돈"
+
+msgid "Pets"
+msgstr "애완동물"
+
+msgid "Theatre"
+msgstr "연극"
+
+msgid "Music"
+msgstr "음악"
+
+msgid "[Black]"
+msgstr "[검정]"
+
+msgid "[Blue]"
+msgstr "[파랑]"
+
+msgid "[Brown]"
+msgstr "[갈색]"
+
+msgid "[Cyan]"
+msgstr "[녹청]"
+
+msgid "[Green]"
+msgstr "[녹색]"
+
+msgid "[Grey]"
+msgstr "[회색]"
+
+msgid "[Magenta]"
+msgstr "[자홍]"
+
+msgid "[Pink]"
+msgstr "[분홍]"
+
+msgid "[Red]"
+msgstr "[빨강]"
+
+msgid "[Yellow]"
+msgstr "[노랑]"
+
+msgid "[Orange]"
+msgstr "[오렌지색]"
+
+msgid "Must Attend"
+msgstr "주의하기"
+
+msgid "Travel Required"
+msgstr "여행 준비 사항"
+
+msgid "Needs Preparation"
+msgstr "해야 할 준비"
+
+msgid "Phone Call"
+msgstr "전화 요청"
+
+msgid "iCalendar Format"
+msgstr "iCalendar 형식"
+
+msgid "Network Shared Calendar"
+msgstr "Network 공유 달력"
+
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+msgid "Rainlendar Ini Format"
+msgstr "Rainlendar Ini 형식"
+
+msgid "Google Calendar"
+msgstr "Google 달력"
+
+msgid "CalDAV Calendar"
+msgstr "CalDAV 달력"
+
+msgid "Google Calendar (v3)"
+msgstr "Google 달력 (v3)"
+
+msgid "Google Tasks"
+msgstr "Google 할 일 목록"
+
+msgid "Comma Separated Values"
+msgstr "쉼표 구분 값 (CSV)"
+
+msgid "&Next >"
+msgstr "다음(&N) >"
+
+msgid "< &Back"
+msgstr "< 이전(&B)"
+
+msgid "&Finish"
+msgstr "끝내기(&F)"
+
+msgid "Vertical Calendar"
+msgstr "수직형 달력"
+
+msgid "Year Calendar"
+msgstr "연간 달력"
+
+msgid "Sidebar"
+msgstr "사이드바"
+
+msgid "DigiClock"
+msgstr "디지털 시계"
+
+msgid "Dual Calendar"
+msgstr "이중 달력"
+
+msgid "Todo List"
+msgstr "할 일 목록"
+
+msgid "Grid Calendar"
+msgstr "격자 달력"
+
+msgid "Vertical Line Calendar"
+msgstr "수직 라인 달력"
+
+msgid "Horizontal Line Calendar"
+msgstr "수평 라인 달력"
+
+msgid "Visible month"
+msgstr "표시할 달"
+
+msgid "Show buttons"
+msgstr "단추 보기"
+
+msgid "Show adjacent days"
+msgstr "인접한 날 표시"
+
+msgid "Eventlist max height"
+msgstr "일정 목록 최대 높이"
+
+msgid "Todolist max height"
+msgstr "할 일 목록 최대 높이"
+
+msgid "Show week numbers"
+msgstr "주 번호 표시"
+
+msgid "Format"
+msgstr "형식"
+
+msgid "Timezone"
+msgstr "표준 시간대"
+
+msgid "Label"
+msgstr "이름표"
+
+msgid "Show 3rd month"
+msgstr "3번째 달 표시"
+
+msgid "Show 4th month"
+msgstr "4번째 달 표시"
+
+msgid "Show 5th month"
+msgstr "5번째 달 표시"
+
+msgid "Show 6th month"
+msgstr "6번째 달 표시"
+
+msgid "Show 7th month"
+msgstr "7번째 달 표시"
+
+msgid "Show 8th month"
+msgstr "8번째 달 표시"
+
+msgid "Color"
+msgstr "색깔"
+
+msgid "Analog Clock"
+msgstr "아날로그 시계"
+
+msgid "Calendar List"
+msgstr "달력 목록"
+
+msgid "X count"
+msgstr "X 개수"
+
+msgid "Y count"
+msgstr "Y 개수"
+
+msgid "Snooze All"
+msgstr "모두 다시 알림"
+
+msgid "Dismiss All"
+msgstr "모두 해제"
+
+msgid "To do"
+msgstr "할 일"
+
+msgid "Today color"
+msgstr "오늘 색"
+
+msgid "Today shape"
+msgstr "오늘 형태"
+
+msgid "Circle"
+msgstr "동그라미"
+
+msgid "Rectangle"
+msgstr "네모"
+
+msgid "Slim circle"
+msgstr "얇은 동그라미"
+
+msgid "Slim rectangle"
+msgstr "얇은 네모"
+
+msgid "Red"
+msgstr "빨강"
+
+msgid "Orange"
+msgstr "오렌지색"
+
+msgid "Yellow"
+msgstr "노랑"
+
+msgid "Green"
+msgstr "녹색"
+
+msgid "Cyan"
+msgstr "녹청"
+
+msgid "Blue"
+msgstr "파랑"
+
+msgid "Magenta"
+msgstr "자홍"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"Shadow3 스킨에서 추가된 사항은 이전/다음 달의 날 보기와 스킨 도구 설명입니다."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"달력에 표시할 달을 지정하십시오. 다음 달은 +1, 이전 달은 -1로 설정하거나, 1에"
+"서 12로 올해에 있는 달을 설정할 수 있습니다."
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr "달력에서 이전/다음 단추를 숨기려면 선택 해제하십시오."
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr "이전/다음 달의 날을 숨기려면 선택 해제하십시오."
+
+msgid "Defines the maximum height of the alarm."
+msgstr "시간 알림의 최대 높이를 지정하십시오."
+
+msgid "Defines the maximum height of the event list."
+msgstr "일정 목록의 최대 높이를 지정하십시오."
+
+msgid "Defines the maximum height of the to do list."
+msgstr "할 일 목록의 최대 높이를 지정하십시오."
+
+msgid "Defines the width of the calendar list."
+msgstr "달력 목록 창의 너비를 지정하십시오."
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "달력에서 주 번호를 숨기려면 선택 해제하십시오."
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr ""
+"시간 형식을 지정합니다. 초 형식을 사용하지 않으려면 다음 형식문을 사용하십시"
+"오.\n"
+"%H:%M 또는 %#I:%M %p"
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"시간대를 지정하십시오. 숫자 설정: ... -3, -3, -1, 0, +1, +2, +3, ... . 시간"
+"대 이름도 사용할 수 있습니다. (CET, EST, PST, A_CST, ...)"
+
+msgid "Adds a label for the clock."
+msgstr "시계에 이름을 붙입니다."
+
+msgid "Defines the color of the today marker."
+msgstr "오늘 표시 색을 설정하십시오."
+
+msgid "Defines the shape of the today marker."
+msgstr "오늘 표시 형태를 설정하십시오."
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "창에 수평으로 표시할 달력 수를 설정하십시오."
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "창에 수직으로 표시할 달력 수를 설정하십시오."
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "달력에서 요일을 숨기려면 선택 해제하십시오."
+
+msgid "Week View"
+msgstr "주간 일정"
+
+msgid "Today position"
+msgstr "오늘 색"
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"오늘을 나타낼 위치를 정하십시오. 0으로 설정하면 (기본) 주간 일정에서 달력 상"
+"의 전체 주에 오늘 위치를 표시합니다. 1에서 7로 설정하면 항상 그 위치를 유지하"
+"고 주말도 따라서 바뀝니다."
+
+msgid "Autoscroll"
+msgstr "자동 스크롤"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "자동 스크롤을 사용하지 않으려면 선택 해제하십시오."
+
+msgid "Week view date format"
+msgstr "주간 일정 날짜 형식"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr "시간 계획의 날짜 형식을 지정합니다. 기본 형식은 %#d.%#m 입니다."
+
+msgid "Week view time format"
+msgstr "주간 일정 시간 형식"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr ""
+"시간 계획의 시간 형식을 지정합니다. 기본 형식은 %H:%M 입니다. AM/PM 형식은 "
+"%#I %p 을 사용합니다."
+
+msgid "Time item height"
+msgstr "시간 항목 높이"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr ""
+"일정 창의 시간 항목 하나당 높이를 지정하십시오. 기본 값은 30 픽셀입니다."
+
+msgid "Time item duration"
+msgstr "시간 항목 간격"
+
+msgid "60 Minutes"
+msgstr "60분"
+
+msgid "30 Minutes"
+msgstr "30분"
+
+msgid "15 Minutes"
+msgstr "15분"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr "시간 항목 하나당 간격을 지정하십시오. 기본 값은 60분입니다."
+
+msgid "All day max height"
+msgstr "'하루 종일' 최대 높이"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr ""
+"하루 종일 일정 부분의 최대 높이입니다. 일정 뒤에 표시되는 스크롤 막대 부분은 "
+"여기에 포함되지 않습니다."
+
+msgid "Event min height"
+msgstr "일정 최소 높이"
+
+msgid "The minimum height of the event."
+msgstr "일정 창의 최소 높이입니다."
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "일정 창에서 주 번호를 숨기려면 선택 해제하십시오."
+
+msgid "Show weekdays"
+msgstr "주말 표시"
+
+msgid "Day View"
+msgstr "일간 일정"
+
+msgid "Day view time format"
+msgstr "일간 일정 시간 형식"
+
+msgid "Day view date format"
+msgstr "일간 일정 날짜 형식"
+
+msgid "Month View"
+msgstr "월간 일정"
+
+msgid "Show background"
+msgstr "배경 표시"
+
+msgid "Uncheck to make the background transparent."
+msgstr "배경을 투명하게 하려면 선택 해제하십시오."
+
+msgid "Large Calendar"
+msgstr "큰 달력"
+
+msgid "Today window max height"
+msgstr "오늘 창 최대 높이"
+
+msgid "Defines the maximum height of the today window."
+msgstr "오늘 창의 최대 높이를 지정하십시오."
+
+msgid "Today show tasks"
+msgstr "오늘 작업 보기"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr "오늘 창에 작업을 표시하려면 지정하십시오."
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"이 스킨에는 다양한 색상이 있습니다. 달력에 아래 화살표를 사용하거나 스킨 설정"
+"으로 바꿀 수 있습니다."
+
+msgid "Brown"
+msgstr "갈색"
+
+msgid "Dark"
+msgstr "어두운색"
+
+msgid "Colorless"
+msgstr "색깔 없음"
+
+msgid "Defines the color of the windows."
+msgstr "창의 색깔을 지정하십시오."
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr "일정 목록의 머리말에 날짜 형식을 지정하십시오."
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr "일정 목록의 최대 높이를 지정하십시오. 기본 값은 300 픽셀입니다."
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr "할 일 목록의 최대 높이를 지정하십시오. 기본 값은 300 픽셀입니다."
+
+msgid "Removes the color from the windows."
+msgstr "창에서 색깔을 없앱니다."
+
+msgid "Creates darker version of the windows."
+msgstr "창의 어두운 형태를 만듭니다."
+
+msgid "All day"
+msgstr "하루 종일"
+
+msgid "Day bar show day"
+msgstr "날짜 막대에 날 표시"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr "날짜 막대에 일수와 이름을 표시하려면 지정하십시오."
+
+msgid "Day bar am-pm"
+msgstr "날짜 막대에 오전-오후"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "12시간 시계로 시간을 표시하려면 선택하십시오."
+
+msgid "Bar event"
+msgstr "막대 일정"
+
+msgid "The event color for the bars."
+msgstr "막대의 일정 색깔."
+
+msgid "Conditions: "
+msgstr "상태: "
+
+msgid "Temperature: "
+msgstr "기온: "
+
+msgid "Humidity: "
+msgstr "습도: "
+
+msgid "Winds: "
+msgstr "바람: "
+
+msgid "Time: "
+msgstr "시간: "
+
+msgid "Refreshing..."
+msgstr "새로 고침 중..."
+
+msgid "Downloading: "
+msgstr "다운로드 중: "
+
+msgid "Download failed!"
+msgstr "다운로드 실패!"
+
+msgid "Loading..."
+msgstr "불러오는 중..."
+
+msgid "Unknown result!"
+msgstr "알 수 없는 결과!"
+
+msgid "Upcoming programs:"
+msgstr "예정 프로그램:"
+
+msgid "Parsing failed!"
+msgstr "분석 실패!"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr "    일             시간        분          초"
+
+msgid "Loading feed..."
+msgstr "피드 불러오는 중..."
+
+msgid "Lo: "
+msgstr "최저: "
+
+msgid "Hi: "
+msgstr "최고: "
+
+msgid "Min:"
+msgstr "최소:"
+
+msgid "Max:"
+msgstr "최대:"
+
+msgid "Chance of precipitation: "
+msgstr "강수 확률: "
+
+msgid "New moon"
+msgstr "삭월"
+
+msgid "Waxing crescent"
+msgstr "초승달"
+
+msgid "First quarter"
+msgstr "반달 (상현)"
+
+msgid "Waxing gibbous"
+msgstr "상현달"
+
+msgid "Full moon"
+msgstr "보름달"
+
+msgid "Waning gibbous"
+msgstr "하현달"
+
+msgid "Last quarter"
+msgstr "반달 (하현)"
+
+msgid "Waning crescent"
+msgstr "그믐달"
+
+msgid "Southern hemisphere"
+msgstr "남반구"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr "남반구에서 보이는 모양으로 바꾸려면 1로 설정하십시오."
+
+msgid "World Time"
+msgstr "세계 시간"
+
+msgid "World time format"
+msgstr "세계 시간 형식"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr ""
+"시간 형식을 지정합니다. 기본 형식은 %H:%M 입니다. AM/PM 형식은 %#I:%M %p 을 "
+"사용합니다."
+
+msgid "World time location 1"
+msgstr "세계 시간 지역 1"
+
+msgid "Defines the title for the time."
+msgstr "시간의 제목을 지정하십시오."
+
+msgid "World time timezone 1"
+msgstr "세계 시간 시간대 1"
+
+msgid "World time location 2"
+msgstr "세계 시간 지역 2"
+
+msgid "World time timezone 2"
+msgstr "세계 시간 시간대 2"
+
+msgid "World time location 3"
+msgstr "세계 시간 지역 3"
+
+msgid "World time timezone 3"
+msgstr "세계 시간 시간대 3"
+
+msgid "World time location 4"
+msgstr "세계 시간 지역 4"
+
+msgid "World time timezone 4"
+msgstr "세계 시간 시간대 4"
+
+msgid "Photos"
+msgstr "사진"
+
+msgid "Weather"
+msgstr "날씨"
+
+msgid "Countdown"
+msgstr "초읽기"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Create New"
+msgstr "새로 만들기"
+
+msgid "Moon Phase"
+msgstr "달 위상"
+
+msgid "QuickAdd"
+msgstr "빠른 추가"
+
+msgid "Translate"
+msgstr "번역"
+
+msgid "Text File"
+msgstr "글 파일"
+
+msgid "RSS height"
+msgstr "RSS 높이"
+
+msgid "Defines the maximum height of the list."
+msgstr "목록의 최대 높이를 지정하십시오."
+
+msgid "RSS location"
+msgstr "RSS 위치"
+
+msgid "Location of the RSS feed."
+msgstr "RSS 피드 위치."
+
+msgid "Weather location"
+msgstr "날씨 지역"
+
+msgid "Location of the weather feed."
+msgstr "날씨 피드 위치."
+
+msgid "Weather city"
+msgstr "날씨 도시"
+
+msgid "The city for the weather."
+msgstr "날씨를 표시할 도시."
+
+msgid "Weather language"
+msgstr "날씨 언어"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr "날씨를 표시할 언어. 언어 약어는 ko, en, fi, ru 등을 사용합니다."
+
+msgid "Photos random"
+msgstr "무작위 이미지"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr ""
+"순서대로 이미지를 보려면 선택 해제하십시오. 선택하면 무작위 순서로 표시합니"
+"다."
+
+msgid "Photos update"
+msgstr "사진 업데이트"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "이미지 업데이트 간격을 설정하십시오. 입력 값은 분 단위입니다."
+
+msgid "Photos folder"
+msgstr "사진 폴더"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr ""
+"사진을 찾을 로컬 폴더를 지정하십시오. 빈 칸으로 두면 Flickr에서 다운로드합니"
+"다."
+
+msgid "Countdown event"
+msgstr "초읽기 일정"
+
+msgid "The description of the event."
+msgstr "일정 설명."
+
+msgid "Countdown time"
+msgstr "초읽기 시간"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "일정 시간. HH:MM:SS 형식을 사용합니다."
+
+msgid "Countdown date"
+msgstr "초읽기 날짜"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "일정 날짜. YYYY-MM-DD 형식을 사용합니다."
+
+msgid "TV height"
+msgstr "TV 높이"
+
+msgid "Copy to clipboard"
+msgstr "클립보드에 복사"
+
+msgid "File path"
+msgstr "파일 경로"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "창에 표시되는 파일의 이름과 경로를 설정하십시오."
+
+msgid "No file given"
+msgstr "파일 지정 안 됨"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr "창 설정으로 가서 글 파일의 경로 변수를 지정합니다."
+
+msgid "File window full rows"
+msgstr "파일 창의 줄 표시"
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr "줄을 모두 표시하려면 선택하십시오. 선택 해제하면 줄을 자릅니다."
+
+msgid "File window width"
+msgstr "파일 창 너비"
+
+msgid "The width of the calendar window."
+msgstr "달력 창의 너비입니다."
+
+msgid "The height of the calendar window."
+msgstr "달력 창의 높이입니다."
+
+msgid "Defines the width of the event list."
+msgstr "일정 목록의 너비를 지정하십시오."
+
+msgid "Defines the width of the to do list."
+msgstr "할 일 목록의 너비를 지정하십시오."
+
+msgid "Defines the width of the quickadd window."
+msgstr "빠른 추가 창의 너비를 지정하십시오."
+
+msgid "Defines the width of the day view window."
+msgstr "일간 일정 창의 너비를 지정하십시오."
+
+msgid "Defines the height of the day view window."
+msgstr "일간 일정 창의 색깔을 지정하십시오."
+
+msgid "Defines the width of the week view window."
+msgstr "주간 일정 창의 너비를 지정하십시오."
+
+msgid "Defines the height of the week view window."
+msgstr "주간 일정 창의 높이를 지정하십시오."
+
+msgid "Defines the width of the calendar window."
+msgstr "달력 창의 너비를 지정하십시오."
+
+msgid "Defines the height of the calendar window."
+msgstr "달력 창의 높이를 지정하십시오."
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "alt"
+msgstr "alt"
+
+msgid "shift"
+msgstr "shift"
+
+msgid "Mark as completed"
+msgstr "완료됨으로 표시"
+
+msgid "Mark as needs action"
+msgstr "조치 필요로 표시"
+
+msgid "Recurring"
+msgstr "반복"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Text color"
+msgstr "글자 색"
+
+msgid "Tooltip color"
+msgstr "도구 설명 색깔"
+
+msgid "Black"
+msgstr "검은색"
+
+msgid "White"
+msgstr "흰색"
+
+msgid "Light grey"
+msgstr "밝은 회색"
+
+msgid "Light pink"
+msgstr "밝은 분홍"
+
+msgid "Grey"
+msgstr "회색"
+
+msgid "Pink"
+msgstr "분홍"
+
+msgid "Schedule background"
+msgstr "시간 계획 배경"
+
+msgid "The background color for the day, week and month views."
+msgstr "일간, 주간, 월간 일정 창의 배경색입니다."
+
+msgid "Schedule text color"
+msgstr "시간 계획 글자 색"
+
+msgid "The text color for the day, week and month views."
+msgstr "일간, 주간, 월간 일정 창의 글자 색입니다."
+
+msgid "Calendar day color"
+msgstr "달력의 날짜 색"
+
+msgid "Large calendar day color"
+msgstr "큰 달력의 날짜 색"
+
+msgid "The color for the days in the calendar."
+msgstr "달력의 날짜 색입니다."
+
+msgid "Calendar day text color"
+msgstr "달력 날짜의 글자 색"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "달력의 일수 색입니다."
+
+msgid "Small icon"
+msgstr "작은 아이콘"
+
+msgid "The icon which is shown in the calendar."
+msgstr "달력에 보이는 아이콘입니다."
+
+msgid "Large icon"
+msgstr "큰 아이콘"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "일정과 할 일 목록에 표시할 아이콘입니다."
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "목록과 도구 설명의 글자 색입니다."
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr "같은 날에 여러 개체가 표시될 때 범주에 표시할 우선순위를 지정합니다."
+
+msgid "Schedule text shadow color"
+msgstr "시간 계획 글 그림자 색"
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "일간, 주간, 월간 일정 창의 글 그림자 색입니다."
+
+msgid "Calendar day text shadow color"
+msgstr "달력 날짜의 글 그림자 색"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "달력에 표시되는 일수의 그림자 색입니다."
+
+msgid "Text shadow color"
+msgstr "글 그림자 색"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "목록과 도구 설명의 글 그림자 색입니다."
+
+msgid "Show date"
+msgstr "날짜 표시"
+
+msgid "Check to show also the current date."
+msgstr "현재 날짜도 표시하려면 선택하십시오."
+
+msgid "This defines the format of the time."
+msgstr "시간 형식을 지정합니다."
+
+msgid "This defines the format of the date."
+msgstr "날짜 형식을 지정합니다."
+
+msgid "Search"
+msgstr "찾기"
+
+msgid "Search engine"
+msgstr "검색 엔진"
+
+msgid "Choose the search engine"
+msgstr "검색 엔진을 선택하십시오"
+
+msgid "Enter search text"
+msgstr "찾을 내용을 입력하십시오"
+
+msgid "Show title"
+msgstr "제목 표시"
+
+msgid "Check to show a title text."
+msgstr "제목 글을 표시하려면 선택하십시오."
+
+msgid "Title text"
+msgstr "제목 글"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "시간 위에 표시할 제목 글을 지정합니다."
+
+msgid "Weather woeid"
+msgstr "날씨 WOEID"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "날씨 지역의 Yahoo WOEID입니다."
+
+msgid "Weather celsius"
+msgstr "날씨 섭씨 온도"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "표시하면 기온을 섭씨로 표시합니다."
+
+msgid "Bold blue"
+msgstr "진청"
+
+msgid "Turquoise"
+msgstr "청록"
+
+msgid "Bold green"
+msgstr "진녹색"
+
+msgid "Bold red"
+msgstr "진홍"
+
+msgid "Purple"
+msgstr "보라"
+
+msgid "Gray"
+msgstr "회색"
+
+msgid "No events today"
+msgstr "오늘 일정 없음"
+
+msgid "No tasks today"
+msgstr "오늘 작업 없음"
+
+msgid "Background opacity"
+msgstr "배경 불투명도"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr "창 배경의 불투명도를 지정하십시오. 0에서 100 사이의 값을 사용합니다."
+
+msgid "Snooze menu"
+msgstr "다시 알림 메뉴"
+
+msgid "Pressure: "
+msgstr "기압: "
+
+msgid "UV index: "
+msgstr "자외선 지수: "
+
+msgid "Feels like: "
+msgstr "체감 기온: "
+
+msgid "Sunrise: "
+msgstr "일출: "
+
+msgid "Sunset: "
+msgstr "일몰: "
+
+msgid "Tonight"
+msgstr "오늘밤"
+
+msgid "Menu"
+msgstr "메뉴"
+
+msgid "Large"
+msgstr "크게"
+
+msgid "Use large images and more space between the items."
+msgstr "항목 사이에 큰 이미지와 더 많은 공간을 사용하십시오."
+
+msgid "Alarm max height"
+msgstr "시간 알림 최대 높이"
+
+msgid "Horizontal Day Bar"
+msgstr "수평 날짜 막대"
+
+msgid "Vertical Day Bar"
+msgstr "수직 날짜 막대"
+
+msgid "Day bar show text"
+msgstr "날짜 막대에 글 표시"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "일정에서 글을 숨기려면 선택 해제하십시오."
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "달력과 목록의 글자 색입니다."
+
+msgid "The color of the text in the tooltip."
+msgstr "도구 설명의 글자 색입니다."
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"달력에 표시할 달을 지정하십시오. 다음 달은 +1, 이전 달은 -1로 설정하거나, 0에"
+"서 11로 올해에 있는 달을 설정할 수 있습니다."
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"활성화된 스킨을 찾을 수 없습니다.\n"
+"처음 사용 가능한 스킨을 불러오려면 '확인'을 클릭하십시오."
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"스킨에 활성화된 창이 없습니다.\n"
+"기본 창으로 대체합니다."
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"스킨이 존재하지 않습니다.\n"
+"처음 사용 가능한 스킨을 불러오려면 '확인'을 클릭하십시오."
+
+msgid "No items"
+msgstr "항목 없음"
+
+msgid "No events"
+msgstr "일정 없음"
+
+msgid "No tasks"
+msgstr "작업 없음"
+
+msgid "Synchronizing"
+msgstr "동기화 중"
+
+msgid "Offline"
+msgstr "오프라인"
+
+msgid "today"
+msgstr "오늘"
+
+msgid "tomorrow"
+msgstr "내일"
+
+msgid "yesterday"
+msgstr "모래"
+
+msgid "Jan"
+msgstr "1월"
+
+msgid "Feb"
+msgstr "2월"
+
+msgid "Mar"
+msgstr "3월"
+
+msgid "Apr"
+msgstr "4월"
+
+msgid "Jun"
+msgstr "6월"
+
+msgid "Jul"
+msgstr "7월"
+
+msgid "Aug"
+msgstr "8월"
+
+msgid "Sep"
+msgstr "9월"
+
+msgid "Oct"
+msgstr "10월"
+
+msgid "Nov"
+msgstr "11월"
+
+msgid "Dec"
+msgstr "12월"
+
+msgid "%ith"
+msgstr "%i번째"
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11번째;12번째;13번째;1번째;2번째;3번째"
+
+msgid "edit"
+msgstr "수정"
+
+msgid "Do you want to create the file?"
+msgstr "파일을 생성하시겠습니까?"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"다음 파일이 존재하지 않습니다:\n"
+"%s"
+
+msgid "Unable to create the file \"%s\"."
+msgstr "파일 \"%s\" 을 생성할 수 없습니다."
+
+msgid "This is a read only event."
+msgstr "읽기 전용 일정입니다."
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "Rainlendar로 이 일정을 수정할 수 없습니다."
+
+msgid "This is a read only task."
+msgstr "읽기 전용 작업입니다."
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "Rainlendar로 이 작업을 수정할 수 없습니다."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Organizer"
+msgstr "조직자"
+
+msgid "Accepted"
+msgstr "수락됨"
+
+msgid "Declined"
+msgstr "거부됨"
+
+msgid "Tentative"
+msgstr "미정"
+
+msgid "Needs action"
+msgstr "조치 필요"
+
+msgid "Create a new calendar"
+msgstr "새 달력 만들기"
+
+msgid "Please select the type of the calendar."
+msgstr "달력의 종류를 선택하십시오."
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr "달력 종류는 일정 형식과 저장될 곳을 결정합니다."
+
+msgid "local"
+msgstr "로컬"
+
+msgid "deprecated"
+msgstr "사용하지 않음"
+
+msgid "Type"
+msgstr "종류"
+
+msgid "Go Pro"
+msgstr "Pro 판으로"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro는 바탕 화면에서 Outlook, Google 달력, 기타 보조 달력과 작업 목"
+"록으로 바로 접근할 수 있게 합니다."
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro는 바탕 화면에서 Google 달력, 기타 보조 달력과 작업 목록으로 바"
+"로 접근할 수 있게 합니다."
+
+msgid "Buy license"
+msgstr "사용권 구매"
+
+msgid "See differences"
+msgstr "새로운 기능 보기"
+
+msgid "No calendar selected!"
+msgstr "달력이 선택되지 않았습니다!"
+
+msgid "You need to select a calendar type."
+msgstr "달력 종류를 선택해야 합니다."
+
+msgid "Finish the authentication in your browser"
+msgstr "브라우저에서 인증을 완료하십시오"
+
+msgid "Authenticating..."
+msgstr "인증 중..."
+
+msgid "Downloading..."
+msgstr "다운로드 중..."
+
+msgid "No urls allowed!"
+msgstr "URL이 허용되지 않습니다!"
+
+msgid "Only local files can be defined as the file name."
+msgstr "로컬 파일만 파일 이름으로 지정할 수 있습니다."
+
+msgid "No UNC paths allowed!"
+msgstr "UNC 경로가 허용되지 않습니다!"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"파일 이름에 UNC 경로를 사용할 수 없습니다. 서버 파일에 접근할 수 있는 네트워"
+"크 드라이브를 구성해야 합니다."
+
+msgid "No filename defined!"
+msgstr "파일 이름이 지정되지 않았습니다!"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr ""
+"파일 이름란을 비워둘 수 없습니다. 일정과 작업을 저장할 파일 이름을 지정해야 "
+"합니다."
+
+msgid "The file name is missing."
+msgstr "파일 이름이 없습니다."
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"새 달력을 만들면 이름을 입력할 수 있습니다. 그렇지 않으면 존재하는 "
+"iCalendar(*.ics) 파일을 선택하십시오."
+
+msgid "The url is empty!"
+msgstr "URL이 비었습니다!"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr ""
+"URL란을 비워둘 수 없습니다. 일정과 작업을 저장할 파일을 지정해야 합니다."
+
+msgid "The protocol is missing!"
+msgstr "프로토콜이 빠졌습니다!"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "URL에 프로토콜을 입력하십시오. (예: \"http://\")"
+
+msgid "The file name is missing from the url!"
+msgstr "URL에 파일 이름이 없습니다!"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"새 달력을 만들면 이름을 입력할 수 있습니다. 그렇지 않으면 서버가 URL 파일을 "
+"확인할 수 없으므로 인증을 받아야 합니다.\n"
+"\n"
+"계속하시겠습니까?"
+
+msgid "Incorrect email!"
+msgstr "잘못된 전자 메일입니다!"
+
+msgid "You need to enter a full email address."
+msgstr "전자 메일 주소 전체를 입력해야 합니다."
+
+msgid "Please select the calendar."
+msgstr "달력을 선택하십시오."
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr "달력을 선택하지 않았습니다. 계속하시겠습니까?"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "The calendar already exists!"
+msgstr "달력이 이미 존재합니다!"
+
+msgid "Please choose some other name for the calendar."
+msgstr "다른 달력 이름을 선택하십시오."
+
+msgid "The calendar name is empty!"
+msgstr "달력 이름이 없습니다!"
+
+msgid "You must give a name for the calendar."
+msgstr "달력 이름이 있어야 합니다."
+
+msgid "Alarm sound"
+msgstr "시간 알림 소리"
+
+msgid "Select alarm sound"
+msgstr "시간 알림 소리 선택"
+
+msgid "Default sound"
+msgstr "기본 소리"
+
+msgid "Preview"
+msgstr "미리보기"
+
+msgid "No sound"
+msgstr "소리 없음"
+
+msgid "Custom sound / executable"
+msgstr "사용자 정의 소리 / 실행 파일"
+
+msgid "Browse..."
+msgstr "찾아보기..."
+
+msgid "Bulk Change"
+msgstr "대량 변경"
+
+msgid "Type:"
+msgstr "형식:"
+
+msgid "Summary:"
+msgstr "요약:"
+
+msgid "Location:"
+msgstr "장소:"
+
+msgid "Url:"
+msgstr "URL:"
+
+msgid "Class:"
+msgstr "분류:"
+
+msgid "Time type:"
+msgstr "시간 형식:"
+
+msgid "With time"
+msgstr "시간으로"
+
+msgid "Start time:"
+msgstr "시작 시간:"
+
+msgid "Absolute"
+msgstr "절대"
+
+msgid "Relative"
+msgstr "상대"
+
+msgid "Months"
+msgstr "달"
+
+msgid "Years"
+msgstr "년"
+
+msgid "Visibility:"
+msgstr "가시성:"
+
+msgid "Show in calendar"
+msgstr "달력에 표시"
+
+msgid "Priority:"
+msgstr "우선순위:"
+
+msgid "Status:"
+msgstr "상태:"
+
+msgid "Not Started"
+msgstr "시작 안 됨"
+
+msgid "Progress:"
+msgstr "진행률:"
+
+msgid "0 %"
+msgstr "0 %"
+
+msgid "10 %"
+msgstr "10 %"
+
+msgid "20 %"
+msgstr "20 %"
+
+msgid "30 %"
+msgstr "30 %"
+
+msgid "40 %"
+msgstr "40 %"
+
+msgid "50 %"
+msgstr "50 %"
+
+msgid "60 %"
+msgstr "60 %"
+
+msgid "70 %"
+msgstr "70 %"
+
+msgid "80 %"
+msgstr "80 %"
+
+msgid "90 %"
+msgstr "90 %"
+
+msgid "100 %"
+msgstr "100 %"
+
+msgid "Free/Busy:"
+msgstr "한가함/바쁨:"
+
+msgid "Free"
+msgstr "한가함"
+
+msgid "Busy"
+msgstr "바쁨"
+
+msgid "Description:"
+msgstr "설명:"
+
+msgid "Alarm:"
+msgstr "시간 알림:"
+
+msgid "Category:"
+msgstr "범주:"
+
+msgid "Recurrence:"
+msgstr "반복:"
+
+msgid "Repeat every"
+msgstr "매번 반복"
+
+msgid "Weeks"
+msgstr "주"
+
+msgid "Repeat ending"
+msgstr "반복 종료"
+
+msgid "Forever"
+msgstr "영원히"
+
+msgid "Number of times"
+msgstr "횟수"
+
+msgid "Until"
+msgstr "종료일"
+
+msgid "Debug Window"
+msgstr "디버그 창"
+
+msgid "Sensitivity:"
+msgstr "민감도:"
+
+msgid "All day event"
+msgstr "하루 종일"
+
+msgid "Mark time as busy"
+msgstr "바쁨으로 시간 표시"
+
+msgid "Time zone:"
+msgstr "표준 시간대:"
+
+msgid "Calendar:"
+msgstr "달력:"
+
+msgid "Mon"
+msgstr "월"
+
+msgid "Tue"
+msgstr "화"
+
+msgid "Wed"
+msgstr "수"
+
+msgid "Thu"
+msgstr "목"
+
+msgid "Fri"
+msgstr "금"
+
+msgid "Sat"
+msgstr "토"
+
+msgid "Sun"
+msgstr "일"
+
+msgid "Repeat"
+msgstr "반복"
+
+msgid "End after"
+msgstr "반복"
+
+msgid "occurrences"
+msgstr "번하고 종료"
+
+msgid "Exception dates"
+msgstr "제외할 날"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Show descriptions"
+msgstr "설명 표시"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Rainlendar를 시작할 때 트레이에 오늘의 일정 표시"
+
+msgid "Hide list windows if there are no items"
+msgstr "항목이 없으면 목록 창 숨기기"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "클릭 무시 (Shift 키를 누르면 비활성화)"
+
+msgid "Lock windows in place"
+msgstr "창 위치 고정"
+
+msgid "Enable on startup"
+msgstr "시작 시 자동 실행"
+
+msgid "Hide from taskbar"
+msgstr "작업 표시줄에서 숨기기"
+
+msgid "Use Retina Resolution"
+msgstr "레티나 해상도 사용"
+
+msgid "Add years for categories"
+msgstr "범주에 연도 추가"
+
+msgid "Categories..."
+msgstr "범주..."
+
+msgid "Week's start day:"
+msgstr "한 주의 시작 요일:"
+
+msgid "Position:"
+msgstr "위치:"
+
+msgid "Language:"
+msgstr "언어:"
+
+msgid "Opacity"
+msgstr "투명도"
+
+msgid "Normal:"
+msgstr "보통 상태:"
+
+msgid "Mouse over:"
+msgstr "마우스를 위에 놓을 때:"
+
+msgid "Apply to all windows at the same time"
+msgstr "모든 창에 동시에 적용"
+
+msgid "Font Size"
+msgstr "글꼴 크기"
+
+msgid "Size:"
+msgstr "크기:"
+
+msgid "Duplicate..."
+msgstr "복사..."
+
+msgid "Action:"
+msgstr "동작:"
+
+msgid "Hotkey:"
+msgstr "단축키:"
+
+msgid "Set"
+msgstr "설정하기"
+
+msgid "Available skins"
+msgstr "사용 가능한 스킨"
+
+msgid "Active skins"
+msgstr "활성 스킨"
+
+msgid "Settings..."
+msgstr "설정..."
+
+msgid "All items"
+msgstr "모든 항목"
+
+msgid "Selected items"
+msgstr "선택된 항목"
+
+msgid "Day range"
+msgstr "날짜 범위"
+
+msgid "Select days"
+msgstr "선택된 날"
+
+msgid "Add title"
+msgstr "제목 추가"
+
+msgid "Preview..."
+msgstr "미리보기..."
+
+msgid "Page Setup..."
+msgstr "페이지 설정..."
+
+msgid "Todo"
+msgstr "할 일"
+
+msgid "Date only"
+msgstr "날짜만"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "반점 구분 값 (*.csv)|*.csv"
+
+msgid "Username"
+msgstr "사용자 이름"
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Calendar name"
+msgstr "달력 이름"
+
+msgid "Poll frequency (mins)"
+msgstr "반영 간격 (분)"
+
+msgid "Suppress errors"
+msgstr "오류 표시 안 함"
+
+msgid "Keep offline copy"
+msgstr "오프라인 복제 유지하기"
+
+msgid "Authentication"
+msgstr "인증"
+
+msgid "Basic"
+msgstr "기본"
+
+msgid "Digest"
+msgstr "요약"
+
+msgid "GSS-Negotiate"
+msgstr "GSS-Negotiate"
+
+msgid "NTLM"
+msgstr "NTLM"
+
+msgid "Support"
+msgstr "지원"
+
+msgid "Automatic"
+msgstr "자동"
+
+msgid "Both"
+msgstr "둘 다"
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"달력의 URL, 사용자 이름, 비밀번호를 선택하고 달력 선택 단추를 누르십시오.\n"
+"\n"
+"사용자 이름과 비밀번호란은 필요 없으면 빈 칸으로 남겨둘 수 있습니다."
+
+msgid "Select Calendar"
+msgstr "달력 선택"
+
+msgid "CalDAV Error (%s)!"
+msgstr "CalDAV 오류 (%s)!"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"URL로 데이터 업로드 중 오류:\n"
+"%s\n"
+"\n"
+"서버 반환 결과: (%i) %i %s."
+
+msgid "Google Error (%s)!"
+msgstr "Google 오류 (%s)!"
+
+msgid "Unable to delete the event."
+msgstr "일정을 삭제할 수 없습니다."
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "서버 반환 결과: (%i) %i %s."
+
+msgid "Unable to read the calendars from the server."
+msgstr "서버에서 달력을 읽을 수 없습니다."
+
+msgid "Unable to authenticate to the server."
+msgstr "서버에 인증할 수 없습니다."
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"선택한 달력을 찾을 수 없습니다 (%s).\n"
+"\n"
+"사용 가능한 달력:\n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "서버에서 달력을 읽는 데 실패했습니다."
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr "인증 실패. 올바른 사용자 이름과 비밀번호를 입력하여 인증하십시오."
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr ""
+"또한 Rainlendar에 응용 프로그램별 비밀번호를 사용하고 있는지 확인하십시오."
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr ""
+"서버에 연결할 수 없습니다. 네트워크 연결이 동작하고 있는지 확인하십시오."
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "\"%s\" URL에 달력이 없습니다."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr ""
+"URL에서 데이터 다운로드 중 오류:\n"
+"%s"
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr "네트워크가 동작하는지, 방화벽 때문에 막혔는지 확인하십시오."
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr "프록시를 확인할 수 없습니다. 프록시 설정이 정확한지 확인하십시오."
+
+msgid "Unable to resolve the host."
+msgstr "호스트를 확인할 수 없습니다."
+
+msgid "Unable to connect to the server."
+msgstr "서버에 접속할 수 없습니다."
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "보안접속(SSL)하는 데 실패했습니다."
+
+msgid "FALSE"
+msgstr "FALSE"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Ignore private events"
+msgstr "사적인 일정 무시"
+
+msgid "Import limit"
+msgstr "가져오기 제한"
+
+msgid "Everything"
+msgstr "모두"
+
+msgid "Future only"
+msgstr "미래 일정만"
+
+msgid "Past month"
+msgstr "과거 1개월"
+
+msgid "Past 6 months"
+msgstr "과거 6개월"
+
+msgid "Past year"
+msgstr "과거 1년"
+
+msgid "Past 2 years"
+msgstr "과거 2년"
+
+msgid "Delete notifications"
+msgstr "알림 삭제"
+
+msgid "External Only"
+msgstr "외부만"
+
+msgid "Future Only"
+msgstr "미래 일정만"
+
+msgid "Color mapping"
+msgstr "색상 매핑"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"Google 계정으로 이용하는 전자 메일 주소를 입력하고, \"달력 선택\" 단추를 누르"
+"고 접근하려는 달력을 선택하십시오."
+
+msgid "Select calendar"
+msgstr "달력 선택"
+
+msgid "Unable to read the calendars."
+msgstr "달력을 읽을 수 없습니다."
+
+msgid "Authentication failed."
+msgstr "인증 실패했습니다."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Google에 인증할 수 없습니다.\n"
+"전자 메일과 비밀번호가 맞는지\n"
+"확인해주십시오."
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr "대상 달력이 지정되지 않아 일정을 업로드할 수 없습니다."
+
+msgid "Google Calendar Error (%s)!"
+msgstr "Google 달력 오류 (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"Google에 인증할 수 없습니다. 계정에 2단계 인증을 사용하고 있으므로 "
+"Rainlendar 전용 애플리케이션 비밀번호를 만들어야 합니다. Google 계정 설정의 "
+"\"2단계 인증\"에서 만들 수 있습니다."
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"Google에 인증할 수 없습니다. Google 달력에 대한 Rainlendar의 접근권한이 취소"
+"된 것 같습니다. 옵션->달력으로 이동하여 달력에 대한 인증을 다시 실행하십시오."
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google에 인증할 수 없습니다.\n"
+"서버 반환 결과: (%i) %i %s."
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"달력을 다운로드 할 수 없습니다.\n"
+"서버 반환 결과: (%i) %i %s."
+
+msgid "Unable to parse the calendar url."
+msgstr "달력 URL을 분석할 수 없습니다."
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"달력 이름으로 URL을 입력하였습니다.\n"
+"아래 이름 중에 하나를 사용해야 합니다:\n"
+
+msgid "Unable to delete the event: "
+msgstr "일정을 삭제할 수 없습니다: "
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"충돌 때문에 일정을 Google 달력에 업로드할 수 없습니다. 업데이트된 일정은 "
+"Google 달력에 다시 올라갑니다."
+
+msgid "Unable to parse the events."
+msgstr "일정을 분석할 수 없습니다."
+
+msgid "Unable to upload the event: "
+msgstr "일정을 업로드할 수 없습니다: "
+
+msgid "Task list name"
+msgstr "작업 목록 이름"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"Google 계정으로 사용하는 전자 메일 주소를 입력하고, \"할 일 목록 선택\" 버튼"
+"을 누르고 접근하려는 할 일 목록을 선택하십시오."
+
+msgid "Select task list"
+msgstr "작업 목록 선택"
+
+msgid "Unable to read the task lists."
+msgstr "작업 목록을 읽을 수 없습니다."
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr "대상 작업 목록이 지정되지 않아 작업을 업로드할 수 없습니다."
+
+msgid "Google Tasks Error (%s)!"
+msgstr "Google 할 일 목록 오류 (%s)!"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"Google에 인증할 수 없습니다. Google 할 일 목록에 대한 Rainlendar의 접근권한"
+"이 취소된 것 같습니다. 달력을 새로 고침하고 Google 계정에 Rainlendar를 다시 "
+"인증하십시오."
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"작업 목록을 다운로드 할 수 없습니다.\n"
+"서버 반환 결과: (%i) %i %s."
+
+msgid "Unable to parse the task list url."
+msgstr "작업 목록 URL을 분석할 수 없습니다."
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"작업 목록 이름으로 URL을 입력하였습니다.\n"
+"아래 이름 중에 하나를 사용해야 합니다:\n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"선택한 작업 목록을 찾을 수 없습니다 (%s).\n"
+"\n"
+"사용 가능한 달력:\n"
+
+msgid "Unable to delete the task: "
+msgstr "작업을 삭제할 수 없습니다: "
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"충돌 때문에 작업을 Google 작업에 업로드할 수 없습니다. 업데이트된 작업은 "
+"Google 작업에 다시 올라갑니다."
+
+msgid "Unable to upload the task: "
+msgstr "작업을 업로드할 수 없습니다: "
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar 파일 (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "안전한 업로드"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"달력의 URL, 사용자 이름, 비밀번호를 선택하십시오.\n"
+"\n"
+"URL에 http, https, ftp 프로토콜이 사용할 수 있습니다. 사용자 이름과 비밀번호"
+"란은 필요 없으면 빈 칸으로 남겨둘 수 있습니다."
+
+msgid "Network Error (%s)!"
+msgstr "네트워크 오류 (%s)!"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "온라인 달력의 항목을 추가할 수 없습니다."
+
+msgid "Unable to remove the item from the online calendar."
+msgstr "온라인 달력의 항목을 삭제할 수 없습니다."
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"파일을 분석할 수 없습니다: %s\n"
+"파일이 손상되었습니다."
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"서버가 빈 결과를 반환하였습니다. 달력 URL이 폴더가 아니라 파일을 가리키고 있"
+"는지 확인하십시오."
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"URL에서 데이터 다운로드 중 오류:\n"
+"%s\n"
+"\n"
+"서버 반환 결과: (%i) %i %s."
+
+msgid "Downloaded event count"
+msgstr "다운로드한 일정 개수"
+
+msgid "Office 365"
+msgstr "오피스 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"오피스 365 계정의 전자 메일 주소를 입력하고, \"달력 선택\" 단추를 누르고 접근"
+"하려는 달력을 선택하십시오."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"오피스 365 계정에 인증할 수 없습니다.\n"
+"전자 메일과 비밀번호가 맞는지\n"
+"확인해주십시오."
+
+msgid "Office365 Error (%s)!"
+msgstr "오피스365 오류 (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"오피스 365 계정에 인증할 수 없습니다. 오피스 365 달력에 대한 Rainlendar의 접"
+"근권한이 취소된 것 같습니다. 달력을 새로 고침하고 오피스 365 계정에 "
+"Rainlendar를 다시 인증하십시오."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"오피스 365 계정에 인증할 수 없습니다.\n"
+"서버 반환 결과: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"충돌 때문에 일정을 업로드할 수 없습니다. 업데이트된 일정이 서버에서 다시로드"
+"됩니다."
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"Outlook 오류!\n"
+"MAPI 라이브러리를 초기화할 수 없습니다.\n"
+"\n"
+"Rainlendar나 Outlook을 업그레이드 했다면 Rainlendar 옵션에서 아웃룩 달력을 재"
+"생성해야 합니다.\n"
+"\n"
+"두 응용 프로그램이 같은 버전(32비트 또는 64비트)을 사용하는지도 확인해야 합니"
+"다."
+
+msgid "Application"
+msgstr "응용 프로그램"
+
+msgid "Profile"
+msgstr "프로파일"
+
+msgid "MessageStore"
+msgstr "편지함"
+
+msgid "Folders"
+msgstr "폴더"
+
+msgid "Default Folder"
+msgstr "기본 폴더"
+
+msgid "Use labels instead of categories"
+msgstr "범주 대신에 사용할 이름 표시"
+
+msgid "Show edit links"
+msgstr "편집 연결 표시"
+
+msgid "Keep MAPI connection alive"
+msgstr "MAPI 연결 유지"
+
+msgid "Month"
+msgstr "달"
+
+msgid "6 months"
+msgstr "6개월"
+
+msgid "Year"
+msgstr "년"
+
+msgid "2 years"
+msgstr "2년"
+
+msgid "Read birthdays from contacts"
+msgstr "연락처에서 생일 불러오기"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Rainlendar에서 보고 싶은 Outlook 편지함을 선택하십시오."
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][편집]]"
+
+msgid "Outlook error!"
+msgstr "Outlook 오류!"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr ""
+"Outlook 항목을 \"%s\"에서 읽을 수 없었습니다. 자세한 사항은 log를 보십시오."
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "항목을 업데이트하는 데 실패하였습니다. 오류 코드 0x%p"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr "Outlook 항목을 쓰는데 실패했습니다. 저장할 수 있는 폴더가 없습니다."
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "항목을 삭제할 수 없습니다. 오류 코드 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "Remember The Milk 작업 목록을 찾을 수 없습니다!"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "\"%s\" 목록을 찾을 수 없습니다. 사용 가능한 목록:"
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "목록의 이름과 같은 정확한 이름을 쓰십시오."
+
+msgid "Unable to parse the ID from the task."
+msgstr "작업의 ID를 분석할 수 없습니다."
+
+msgid "Unable to create the task."
+msgstr "작업을 만들 수 없습니다."
+
+msgid "Unable to parse the timeline."
+msgstr "시간 설정을 가져올 수 없습니다."
+
+msgid "The service is temporarily unavailable."
+msgstr "서비스를 일시적으로 사용할 수 없습니다."
+
+msgid "Please log in to Remember The Milk."
+msgstr "Remember The Milk에 로그인하십시오."
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"Remember The Milk 계정에 접속하려면 인증이 필요합니다. Remember The Milk 사이"
+"트에 로그인하고 계정에 접속하십시오.\n"
+"\n"
+"'확인'을 클릭하시면 기본 웹 브라우저가 자동으로 열립니다."
+
+msgid "Continue after authorization."
+msgstr "인증 후 계속합니다."
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr "Rainlendar 인증 후 '확인' 단추를 누르십시오."
+
+msgid "Unable to parse the output."
+msgstr "내보내기를 할 수 없습니다."
+
+msgid "Unknown response for call \"%s\"."
+msgstr "\"%s\" 요청에 대한 반응이 없습니다."
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"\"%s\"을(를) 불러오는 데 실패하였습니다:\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "\"%s\" 방식을 불러오는 데 실패하였습니다."
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "Remember The Milk 오류 (%s)!"
+
+msgid "List"
+msgstr "목록"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"Remember The Milk의 작업 목록 이름을 선택하십시오. 모든 항목을 선택하려면 빈 "
+"칸으로 두십시오."
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"인증 토큰이 없습니다. Remember The Milk 계정에 접속하기 위한 인증이 필요합니"
+"다."
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"\"%s\" 폴더를 찾을 수 없습니다.\n"
+"\n"
+"사용 가능한 폴더:"
+
+msgid "Toodledo Error (%s)!"
+msgstr "Toodledo 오류 (%s)!"
+
+msgid "Folder"
+msgstr "폴더"
+
+msgid "Poll for changes"
+msgstr "변경 반영하기"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr "Toodledo 이메일 주소와 비밀번호를 입력하십시오."
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "파일 \"%s\" 을 쓰기용으로 열 수 없습니다."
+
+msgid "Filename"
+msgstr "파일 이름"
+
+msgid "Monitor changes"
+msgstr "모니터 변경"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"달력 파일을 선택하십시오.\n"
+"\n"
+"존재하는 ics파일을 선택하거나 새 파일을 만들 경로를 입력하십시오."
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar 파일 (*.ics)|*.ics|vCalendar 파일 (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr ""
+"달력 파일 \"%s\"의 경로가 존재하지 않습니다. 옵션->달력으로 이동하여 파일 위"
+"치가 올바르게 설정되었는지 확인하십시오."
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "파일 \"%s\" 의 임시 복사본을 생성할 수 없습니다."
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "파일 \"%s\" 을 대체할 수 없습니다."
+

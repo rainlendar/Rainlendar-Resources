@@ -1,0 +1,5051 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Evan Lo <evanade@hotmail.com>\n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+
+msgid ""
+"Rainlendar is unable to start the HTTP server to receive the OAuth response. "
+"Verify that you don't have any any security software which prevents "
+"application's from starting servers and that there are no other services "
+"running in the same port."
+msgstr ""
+"Rainlendar無法啟動HTTP伺服器以接收OAuth回應驗證您沒有任何阻止應用程式啟動伺服"
+"器的安全軟體，且沒有其他服務在同一端口中運行"
+
+msgid "Server Port: "
+msgstr "服務器端口"
+
+msgid "Failed to start HTTP server"
+msgstr "無法啟動HTTP伺服器"
+
+msgid "Choose the backup path"
+msgstr "選擇備份路徑"
+
+msgid "Archive (*.zip)|*.zip"
+msgstr "檔案 (*.zip)|*.zip"
+
+msgid "Authentication failed!"
+msgstr "驗證失敗"
+
+msgid "Make sure that you finish the authentication process"
+msgstr "確保完成驗證流程"
+
+msgid "and give Rainlendar permission to access your calendar."
+msgstr "並授予Rainlendar存取您的日曆的權限。"
+
+msgid "Authentication succeeded!"
+msgstr "驗證成功！"
+
+msgid "You may close the browser window now."
+msgstr "你現在可以關閉瀏覽器視窗。"
+
+msgid "Choose the backup file:"
+msgstr "選擇備份檔案："
+
+msgid "Select"
+msgstr "選擇"
+
+msgid "No backups found!"
+msgstr "未發現備份檔案！"
+
+msgid "There are no backups available in the backup folder."
+msgstr "備份資料夾中沒有可用的備份檔案"
+
+msgid "The settings do not exist!"
+msgstr "設定值不存在！"
+
+msgid "The selected backup file doesn't contain the settings file."
+msgstr "備份檔案中不包含設定檔"
+
+msgid "The file already exists:"
+msgstr "檔案已存在："
+
+msgid "Do you want to overwrite the file?"
+msgstr "您確定要覆蓋檔案嗎？"
+
+msgid "Unable to overwrite file:"
+msgstr "無法覆蓋檔案："
+
+msgid "Write error!"
+msgstr "寫入錯誤！"
+
+msgid ""
+"Unable to restore the file:\n"
+"%s\n"
+"\n"
+"You need to extract the file manually from the backup archive."
+msgstr ""
+"無法還原檔案：\n"
+"%s\n"
+"\n"
+"您需要從備份檔案中手動提取檔案。"
+
+msgid "Restore error!"
+msgstr "還原錯誤！"
+
+msgid "[None]"
+msgstr "[無]"
+
+msgid "<Hidden>"
+msgstr "<隱藏>"
+
+msgid "all"
+msgstr "全部"
+
+msgid "active"
+msgstr "啟用"
+
+msgid "dismissed"
+msgstr "解除"
+
+msgid "snoozed"
+msgstr "瞌睡"
+
+msgid "Show only needs action"
+msgstr "只顯示尚未開始"
+
+msgid "Show only in progress"
+msgstr "只顯示進行中"
+
+msgid "Show only completed"
+msgstr "只顯示已完成"
+
+msgid "Show only cancelled"
+msgstr "只顯示已取消"
+
+msgid "Hide needs action"
+msgstr "待處理"
+
+msgid "Hide in progress"
+msgstr "進行中"
+
+msgid "Hide completed"
+msgstr "隱藏已完成的工作"
+
+msgid "Hide cancelled"
+msgstr "隱藏已取消"
+
+msgid "Reset completed time"
+msgstr "重設完成時間"
+
+msgid "Show only no priority"
+msgstr "只顯示無優先等級"
+
+msgid "Show only high priority"
+msgstr "只顯示高優先等級"
+
+msgid "Show only normal priority"
+msgstr "只顯示中優先等級"
+
+msgid "Show only low priority"
+msgstr "只顯示低優先等級"
+
+msgid "Hide no priority"
+msgstr "隱藏無優先級"
+
+msgid "Hide high priority"
+msgstr "高優先順序"
+
+msgid "Hide normal priority"
+msgstr "隱藏正常優先級"
+
+msgid "Hide low priority"
+msgstr "隱藏低優先級"
+
+msgid "Show only alarms"
+msgstr "只顯示鬧鈴"
+
+msgid "Show only active"
+msgstr "只顯示已啟動"
+
+msgid "Show only snoozed"
+msgstr "只顯示已瞌睡"
+
+msgid "Show only dismissed"
+msgstr "只顯示已解除"
+
+msgid "Hide alarms"
+msgstr "隱藏警報"
+
+msgid "Hide active"
+msgstr "隱藏激活"
+
+msgid "Hide snoozed"
+msgstr "隱藏已休眠"
+
+msgid "Hide dismissed"
+msgstr "隱藏已解僱"
+
+msgid "Reset dismiss time"
+msgstr "重設解除時間"
+
+msgid "Reset snooze time"
+msgstr "重設瞌睡時間"
+
+msgid "Dismiss next alarm"
+msgstr "解除下一個鬧鈴"
+
+msgid "Duration:"
+msgstr "持續時間："
+
+msgid "Next alarm:"
+msgstr "下一鬧鈴："
+
+msgid "Dismissed:"
+msgstr "已解除："
+
+msgid "Snoozed until:"
+msgstr "瞌睡至："
+
+msgid "In Progress"
+msgstr "進行中"
+
+msgid "Completed"
+msgstr "已完成"
+
+msgid "Needs Action"
+msgstr "準備開始"
+
+msgid "Cancelled"
+msgstr "已取消"
+
+msgid "None"
+msgstr "無"
+
+msgid "High"
+msgstr "高"
+
+msgid "Normal"
+msgstr "一般"
+
+msgid "Low"
+msgstr "低"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Active"
+msgstr "啟用"
+
+msgid "Dismissed"
+msgstr "解除"
+
+msgid "Snoozed"
+msgstr "瞌睡"
+
+msgid "Daily"
+msgstr "每日"
+
+msgid "Weekly"
+msgstr "每週"
+
+msgid "Monthly"
+msgstr "每月"
+
+msgid "Yearly"
+msgstr "每年"
+
+msgid "Private"
+msgstr "私人的"
+
+msgid "Public"
+msgstr "公開的"
+
+msgid "Confidential"
+msgstr "機密"
+
+msgid "Default"
+msgstr "預設"
+
+msgid "No priority"
+msgstr "無優先等級"
+
+msgid "Normal priority"
+msgstr "優先等級：中"
+
+msgid "High priority"
+msgstr "優先等級：高"
+
+msgid "Low priority"
+msgstr "優先等級：低"
+
+msgid "Created: "
+msgstr "創建："
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Modified: "
+msgstr "上次修改:"
+
+msgid "Copy"
+msgstr "複製 (Copy)"
+
+msgid "Region"
+msgstr "區域 (Region)"
+
+msgid "Native"
+msgstr "本機 (Native)"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "Every second Saturday"
+msgstr "隔週休星期六"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Due"
+msgstr "到期"
+
+msgid "Priority"
+msgstr "優先權"
+
+msgid "Status"
+msgstr "狀況"
+
+msgid "Category"
+msgstr "分類"
+
+msgid "Recurrence"
+msgstr "循環事件"
+
+msgid "Off"
+msgstr "關閉"
+
+msgid "Beta"
+msgstr "測試版"
+
+msgid "General"
+msgstr "一般"
+
+msgid "%H:%M (e.g. \"15:42\")"
+msgstr "%H:%M (例: \"15:42\")"
+
+msgid "%#H:%M (e.g. \"7:42\")"
+msgstr "%#H:%M (例: \"7:42\")"
+
+msgid "%I:%M %p (e.g. \"01:42 pm\")"
+msgstr "%I:%M %p (例: \"01:42 pm\")"
+
+msgid "%#I:%M %p (e.g. \"3:42 pm\")"
+msgstr "%#I:%M %p (例: \"3:42 pm\")"
+
+msgid "Time format"
+msgstr "時間格式"
+
+msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
+msgstr "%d.%#m.%Y (例: \"21.4.2012\")"
+
+msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
+msgstr "%d.%m.%Y (例: \"21.04.2012\")"
+
+msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
+msgstr "%Y-%m-%d (例: \"2012-04-21\")"
+
+msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
+msgstr "%#m/%d/%Y (例: \"4/21/2012\")"
+
+msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
+msgstr "%m/%d/%Y (例: \"04/21/2012\")"
+
+msgid "Date format"
+msgstr "日期格式"
+
+msgid "Use 'Today' and 'Tomorrow'"
+msgstr "使用“今天”和“明天”"
+
+msgid "Weekend days"
+msgstr "週末"
+
+msgid "Week number delta"
+msgstr "週數偏移量"
+
+msgid "Default categories"
+msgstr "預設分類"
+
+msgid "Show categories from the skin"
+msgstr "顯示面板預設的分類"
+
+msgid "Show tray icon"
+msgstr "顯示系統列圖示"
+
+msgid "Show tray status icons"
+msgstr "顯示系統列狀態圖示"
+
+msgid "Day number"
+msgstr "日期"
+
+msgid "Week number"
+msgstr "週數"
+
+msgid "Number in tray"
+msgstr "系統列圖示顯示數字"
+
+msgid "Always"
+msgstr "永遠使用"
+
+msgid "Never"
+msgstr "永不"
+
+msgid "Show full menus"
+msgstr "顯示完整選單"
+
+msgid "Disable keyboard shortcuts"
+msgstr "停用快捷鍵"
+
+msgid "List wheel scroll"
+msgstr "滑鼠滾輪滾動清單的速度"
+
+msgid "Skin language"
+msgstr "面板語言"
+
+msgid "Number of stored backups"
+msgstr "保存的備份數"
+
+msgid "Show delete confirmations"
+msgstr "刪除時顯示確認"
+
+msgid "Disable text formatting"
+msgstr "停用文字格式"
+
+msgid "Show empty list text"
+msgstr "在空白的清單顯示文字"
+
+msgid "Check for updates"
+msgstr "檢查線上更新"
+
+msgid "Show url icons"
+msgstr "顯示網址圖示"
+
+msgid "Simultaneous transfers"
+msgstr "同步傳輸"
+
+msgid "Only uncategorized"
+msgstr "事件無分類時使用"
+
+msgid "Icon from events"
+msgstr "使用原本的圖示"
+
+msgid "Visual category overwrite"
+msgstr "使用行事曆顯示分類"
+
+msgid "Store English category names"
+msgstr "儲存英文分類名稱"
+
+msgid "Custom category icon path"
+msgstr "自訂分類圖示檔案路徑"
+
+msgid "Use antialiased fonts"
+msgstr "使用反鋸齒字型"
+
+msgid "Count"
+msgstr "計數"
+
+msgid "Ordinal"
+msgstr "序數"
+
+msgid "Type of year to add for categories"
+msgstr "年度循環事件年份顯示格式"
+
+msgid "Use custom password encrypting"
+msgstr "使用系統加密演算法"
+
+msgid "Editor"
+msgstr "編輯器"
+
+msgid "Allow multiple calendars"
+msgstr "允許多個行事曆"
+
+msgid "Allow multiple categories"
+msgstr "允許多個分類"
+
+msgid "Keep editor open until writing succeeds"
+msgstr "完成寫入前保持編輯器開啟"
+
+msgid "Time span in the editor"
+msgstr "編輯器預設時間間隔"
+
+msgid "Number of previous locations"
+msgstr "地點紀錄數量"
+
+msgid "Default event duration"
+msgstr "預設事件時間"
+
+msgid "Windows"
+msgstr "視窗"
+
+msgid "Use window names"
+msgstr "使用視窗名稱"
+
+msgid "Hide on Aero peek"
+msgstr "透視桌面(Aero peek)時隱藏"
+
+msgid "Transparency type"
+msgstr "透明度類型"
+
+msgid "Copy transparency sleep time"
+msgstr "複製 (Copy)透明度睡眠時間"
+
+msgid "Fade delay (ms)"
+msgstr "淡出延遲（ms）"
+
+msgid "Fade duration (ms)"
+msgstr "淡出持續時間（ms）"
+
+msgid "Allow window fading"
+msgstr "允許視窗淡出"
+
+msgid "Keep on screen"
+msgstr "保持在螢幕上"
+
+msgid "Bring all windows on top when clicked"
+msgstr "點擊時將所有視窗放置在最上層"
+
+msgid "Show in all desktops"
+msgstr "顯示於全部桌面 (只在 Linux 有效)"
+
+msgid "Snap distance"
+msgstr "邊緣吸附距離 (只在 Windows 有效)"
+
+msgid "Snap center"
+msgstr "吸附於螢幕中心"
+
+msgid "Don't save"
+msgstr "不儲存"
+
+msgid "Per resolution"
+msgstr "每個解析度"
+
+msgid "Single value"
+msgstr "單一數值"
+
+msgid "Save window position"
+msgstr "儲存視窗位置"
+
+msgid "Font face"
+msgstr "字型"
+
+msgid "Scaling quality"
+msgstr "反鋸齒品質"
+
+msgid "Network"
+msgstr "網路"
+
+msgid "Reload delay after resume (s)"
+msgstr "重整之後的延遲時間（秒）"
+
+msgid "Network access delay after startup (s)"
+msgstr "啟動後網路延遲時間（秒）"
+
+msgid "Proxy server"
+msgstr "代理伺服器 (Proxy)"
+
+msgid "Proxy user"
+msgstr "帳號"
+
+msgid "Proxy password"
+msgstr "密碼"
+
+msgid "HTTP"
+msgstr "HTTP"
+
+msgid "SOCKS4"
+msgstr "SOCKS4"
+
+msgid "SOCKS5"
+msgstr "SOCKS5"
+
+msgid "Proxy type"
+msgstr "類型"
+
+msgid "Try direct connection if proxy fails"
+msgstr "代理伺服器連接失敗時嘗試直接連接"
+
+msgid "Calendar"
+msgstr "行事曆"
+
+msgid "Show all icons"
+msgstr "顯示所有圖示"
+
+msgid "Show one icon per type"
+msgstr "每類型只顯示一個圖示"
+
+msgid "Show only one icon"
+msgstr "只顯示一個圖示"
+
+msgid "Show no icons"
+msgstr "不顯示圖示"
+
+msgid "Combine icons in the calendar"
+msgstr "於行事曆結合圖示"
+
+msgid "Calendar wheel scroll"
+msgstr "滑鼠滾輪滾動行事曆月份數"
+
+msgid "Show tasks in calendar"
+msgstr "在行事曆中顯示工作"
+
+msgid "Always show menu"
+msgstr "顯示選單"
+
+msgid "Always create new event"
+msgstr "建立新事件"
+
+msgid "Do nothing"
+msgstr "無動作"
+
+msgid "Double click action"
+msgstr "雙擊左鍵動作"
+
+msgid "Tooltip"
+msgstr "提示"
+
+msgid "Show tooltips"
+msgstr "顯示提示"
+
+msgid "Only on days with events"
+msgstr "今日有事件時顯示"
+
+msgid "Show tooltip in tray"
+msgstr "系統列顯示提示"
+
+msgid "Max tooltip window width"
+msgstr "提示視窗最大寬度"
+
+msgid "Show description in tooltip"
+msgstr "提示顯示描述"
+
+msgid "Task fields in tooltip"
+msgstr "工作提示欄位"
+
+msgid "Event fields in tooltip"
+msgstr "事件提示欄位"
+
+msgid "Traytip show duration (s)"
+msgstr "系統列提示持續時間（秒）"
+
+msgid "Tooltip fade duration (ms)"
+msgstr "提示淡出持續時間（ms）"
+
+msgid "Tooltip show delay (ms)"
+msgstr "提示顯示延遲時間（ms）"
+
+msgid "Tooltip format"
+msgstr "提示格式"
+
+msgid "Task List"
+msgstr "工作清單"
+
+msgid "Show full task summary"
+msgstr "顯示完整工作摘要"
+
+msgid "Show task due time"
+msgstr "顯示工作到期日"
+
+msgid "Show task location"
+msgstr "顯示工作地點"
+
+msgid "Show task calendar"
+msgstr "顯示工作行事曆"
+
+msgid "Number of days the list shows (0 = show all)"
+msgstr "列表顯示天數（0 = 顯示全部）"
+
+msgid "Show task time when arranged by start or due date"
+msgstr "當以開始日或到期日排序時顯示工作時間"
+
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr "%A %d.%#m.%Y (例：\"星期一 21.4.2012\")"
+
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr "%A %d.%m.%Y (例： \"星期一 21.04.2012\")"
+
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr "%A %Y-%m-%d (例： \"星期一 2012-04-21\")"
+
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr "%A %#m/%d/%Y (例： \"星期一 4/21/2012\")"
+
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr "%A %m/%d/%Y (例： \"星期一 04/21/2012\")"
+
+msgid "Task list header format"
+msgstr "工作標題格式"
+
+msgid "<None>"
+msgstr "<無>"
+
+msgid "Default task template"
+msgstr "預設工作範本"
+
+msgid "Event List"
+msgstr "事件清單"
+
+msgid "Show full event summary"
+msgstr "顯示完整事件摘要"
+
+msgid "Show event start time"
+msgstr "顯示事件開始時間"
+
+msgid "Show event end time"
+msgstr "顯示事件結束時間"
+
+msgid "Show event location"
+msgstr "顯示事件地點"
+
+msgid "Show event calendar"
+msgstr "顯示事件行事曆"
+
+msgid "Hide dismissed events"
+msgstr "隱藏解除(鬧鈴)的事件"
+
+msgid "Hide past events"
+msgstr "隱藏過去的事件"
+
+msgid "Number of future days the list shows"
+msgstr "清單顯示未來天數"
+
+msgid "Number of past days the list shows"
+msgstr "清單顯示過去天數"
+
+msgid "Age from start of the week"
+msgstr "星期開始時期"
+
+msgid "Event list header format"
+msgstr "事件清單標題格式"
+
+msgid "Default event template"
+msgstr "預設事件範本"
+
+msgid "No grouping"
+msgstr "不合併"
+
+msgid "Start and end dates"
+msgstr "開始和結束日期"
+
+msgid "Start date and duration"
+msgstr "開始日期和持續時間"
+
+msgid "Group multiday events"
+msgstr "合併多日事件"
+
+msgid "Schedule"
+msgstr "計劃表"
+
+msgid "Show schedule descriptions"
+msgstr "顯示計劃表描述"
+
+msgid "Show schedule start time"
+msgstr "顯示計劃表開始時間"
+
+msgid "Show schedule end time"
+msgstr "顯示計劃表結束時間"
+
+msgid "Show schedule location"
+msgstr "顯示計劃表地點"
+
+msgid "Show schedule calendar"
+msgstr "顯示計劃表行事曆"
+
+msgid "Create, move and resize events with mouse"
+msgstr "使用滑鼠新增、移動、調整事件項目大小"
+
+msgid "First shown hour"
+msgstr "起始時間(小時)"
+
+msgid "Last shown hour"
+msgstr "結尾時間(小時)"
+
+msgid "Alarm"
+msgstr "鬧鈴"
+
+msgid "Show alarm start time"
+msgstr "顯示鬧鈴開始時間"
+
+msgid "Show alarm end time"
+msgstr "顯示鬧鈴結束時間"
+
+msgid "Show alarm location"
+msgstr "顯示鬧鈴地點"
+
+msgid "Show alarm calendar"
+msgstr "顯示鬧鈴行事曆"
+
+msgid "Show due to the event"
+msgstr "顯示到期的事件"
+
+msgid "Support Mozilla alarms"
+msgstr "支援 Mozilla 鬧鈴"
+
+msgid "Keep alarm always on top"
+msgstr "鬧鈴永遠保持在最上層"
+
+msgid "Default snooze time (secs)"
+msgstr "預設瞌睡時間 (秒)"
+
+msgid "Max alarm window width"
+msgstr "鬧鈴視窗最大寬度"
+
+msgid "Hide from alarm after days"
+msgstr "鬧鈴在幾天後隱藏"
+
+msgid "Default alarm time (mins)"
+msgstr "預設警報時間（分鐘）"
+
+msgid "Default alarm file"
+msgstr "預設鬧鈴檔案"
+
+msgid "Don't show alarm over a fullscreen window"
+msgstr "全螢幕狀態時不顯示鬧鈴視窗"
+
+msgid "Loop the alarm sound (secs)"
+msgstr "鬧鈴重複時間  (秒)"
+
+msgid "Snooze times (mins)"
+msgstr "瞌睡時間（分鐘）"
+
+msgid "Create Error!"
+msgstr "建立錯誤！"
+
+msgid "Unable to select the target calendar for the item."
+msgstr "無法選定行事曆的項目。"
+
+msgid "Unable to create a new item from the string:\n"
+msgstr "無法從下列建立一個新的項目：\n"
+
+msgid "Parse Error!"
+msgstr "解析錯誤！"
+
+msgid "New version found!"
+msgstr "發現新版本！"
+
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"版本 %s 已經發行。\n"
+"您確定現在要去網站嗎？"
+
+msgid "No updates available."
+msgstr "沒有可用的更新。"
+
+msgid "You have the most recent version of Rainlendar."
+msgstr "您已安裝最新版的 Rainlendar。"
+
+msgid "New event"
+msgstr "新事件"
+
+msgid "New task"
+msgstr "新工作"
+
+msgid "Refresh"
+msgstr "重新整理"
+
+msgid "Options..."
+msgstr "選項 ..."
+
+msgid "Manager..."
+msgstr "管理 ..."
+
+msgid "Exit"
+msgstr "離開"
+
+msgid "File"
+msgstr "檔案"
+
+msgid "View"
+msgstr "瀏覽"
+
+msgid "About..."
+msgstr "關於 ..."
+
+msgid "Open help\tCtrl+?"
+msgstr "開啟說明\tCtrl+?"
+
+msgid "Help"
+msgstr "說明"
+
+msgid "About"
+msgstr "關於"
+
+msgid "Calendars"
+msgstr "行事曆"
+
+msgid "Choose day"
+msgstr "選擇日期"
+
+msgid "Choose month"
+msgstr "選擇月份"
+
+msgid "Install license..."
+msgstr "安裝許可證..."
+
+msgid "Show debug log"
+msgstr "顯示除錯紀錄"
+
+msgid "Ctrl-%i"
+msgstr "Ctrl-%i"
+
+msgid "Enable all calendars"
+msgstr "啟用全部行事曆"
+
+msgid "Disable all calendars"
+msgstr "停用全部行事曆"
+
+msgid "Current Day"
+msgstr "本日"
+
+msgid "Next Day"
+msgstr "後一天"
+
+msgid "Previous Day"
+msgstr "前一天"
+
+msgid "Next Week"
+msgstr "下一週"
+
+msgid "Previous Week"
+msgstr "上一週"
+
+msgid "Next Month"
+msgstr "下個月"
+
+msgid "Previous Month"
+msgstr "上個月"
+
+msgid "Current Month"
+msgstr "本月"
+
+msgid "Next Year"
+msgstr "下一年"
+
+msgid "Previous Year"
+msgstr "上一年"
+
+msgid "Home"
+msgstr "首頁"
+
+msgid "Right"
+msgstr "右方向鍵"
+
+msgid "Left"
+msgstr "左方向鍵"
+
+msgid "Up"
+msgstr "上方向鍵"
+
+msgid "Down"
+msgstr "下方向鍵"
+
+msgid "January"
+msgstr "一月"
+
+msgid "Ctrl-F1"
+msgstr "Ctrl-F1"
+
+msgid "February"
+msgstr "二月"
+
+msgid "Ctrl-F2"
+msgstr "Ctrl-F2"
+
+msgid "March"
+msgstr "三月"
+
+msgid "Ctrl-F3"
+msgstr "Ctrl-F3"
+
+msgid "April"
+msgstr "四月"
+
+msgid "Ctrl-F4"
+msgstr "Ctrl-F4"
+
+msgid "May"
+msgstr "五月"
+
+msgid "Ctrl-F5"
+msgstr "Ctrl-F5"
+
+msgid "June"
+msgstr "六月"
+
+msgid "Ctrl-F6"
+msgstr "Ctrl-F6"
+
+msgid "July"
+msgstr "七月"
+
+msgid "Ctrl-F7"
+msgstr "Ctrl-F7"
+
+msgid "August"
+msgstr "八月"
+
+msgid "Ctrl-F8"
+msgstr "Ctrl-F8"
+
+msgid "September"
+msgstr "九月"
+
+msgid "Ctrl-F9"
+msgstr "Ctrl-F9"
+
+msgid "October"
+msgstr "十月"
+
+msgid "Ctrl-F10"
+msgstr "Ctrl-F10"
+
+msgid "November"
+msgstr "十一月"
+
+msgid "Ctrl-F11"
+msgstr "Ctrl-F11"
+
+msgid "December"
+msgstr "十二月"
+
+msgid "Ctrl-F12"
+msgstr "Ctrl-F12"
+
+msgid "Visible"
+msgstr "顯示"
+
+msgid "More settings..."
+msgstr "更多設定 ..."
+
+msgid "Today"
+msgstr "今天"
+
+msgid "Alt-%i"
+msgstr "Alt-%i"
+
+msgid "Show all windows"
+msgstr "顯示全部視窗"
+
+msgid "Hide all windows"
+msgstr "隱藏全部視窗"
+
+msgid "License files (*.r2lic)|*.r2lic"
+msgstr "授權檔案 (*.r2lic)|*.r2lic"
+
+msgid "Choose the license file"
+msgstr "選擇授權檔案"
+
+msgid "*Empty*"
+msgstr "*空白*"
+
+msgid "This instance"
+msgstr "目前程序"
+
+msgid "Whole event"
+msgstr "全部事件"
+
+msgid "All following"
+msgstr "之後的事件"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Do you want to delete this item?"
+msgstr "您確定要刪除此項目嗎？"
+
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance (%s), all the following events or "
+"the whole recurring event."
+msgstr ""
+"這是一個循環項目：\\ n\\ n %s\\ n\\ n您可以刪除僅此實例(%s)、以下所有事件或整"
+"個循環事件"
+
+msgid "The item is read only and cannot be deleted."
+msgstr "此項目是唯讀的且不能被刪除"
+
+msgid "Unable to delete the item."
+msgstr "無法刪除項目"
+
+msgid "Do you want to delete these items?"
+msgstr "您確定要刪除這些項目嗎？"
+
+msgid "The item is read only and cannot be moved."
+msgstr "此項目為讀取式，無法移動。"
+
+msgid "Unable to move the item."
+msgstr "無法移動項目。"
+
+msgid "Choose a directory"
+msgstr "選擇一個路徑"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Built on"
+msgstr "建置時間"
+
+msgid "Developed by"
+msgstr "開發者"
+
+msgid "Translated (%s) by"
+msgstr "翻譯 (%s)"
+
+msgid "Licensed to"
+msgstr "授權給"
+
+msgid "Plugins"
+msgstr "外掛程式"
+
+msgid "Links"
+msgstr "連結"
+
+msgid "FAQ"
+msgstr "問與答"
+
+msgid "Forum"
+msgstr "論壇"
+
+msgid "Menu icons by"
+msgstr "選單圖示製作"
+
+msgid "Application icon by"
+msgstr "應用程式圖示提供"
+
+msgid "Copyrights"
+msgstr "版權所有"
+
+msgid "Please wait..."
+msgstr "請稍候 ..."
+
+msgid "Check for update"
+msgstr "檢查更新"
+
+msgid "Choose Alarm"
+msgstr "選擇鬧鈴"
+
+msgid "All files (*.*)|*.*"
+msgstr "所有檔案 (*.*)|*.*"
+
+msgid "Change Fields"
+msgstr "區段變更"
+
+msgid "%i events selected"
+msgstr "已選擇 %i 事件"
+
+msgid "%i tasks selected"
+msgstr "選擇 %i 工作"
+
+msgid "End time:"
+msgstr "結束時間："
+
+msgid "Due time:"
+msgstr "到期時間："
+
+msgid "Add new alarm"
+msgstr "新增鬧鈴"
+
+msgid "Are you sure you want to do this?"
+msgstr "您確定要進行此動作嗎？"
+
+msgid "The selected fields will be changed to %i items."
+msgstr "已選擇的區段將變更%i 項目"
+
+msgid ""
+"It's not possible to undo the operation so click \"Yes\" only if you are "
+"completely sure you know what you are doing."
+msgstr "所做的變更將無法復原，請確認無誤後再按下 \"是(Y)\" 執行變更。"
+
+msgid ""
+"Note that changing the type between events and tasks will result to some "
+"loss of data."
+msgstr "注意，事件和工作項目類型互換時可能會造成部分資料遺失。"
+
+msgid "Categories"
+msgstr "分類"
+
+msgid "Add..."
+msgstr "增加 ..."
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Values"
+msgstr "變數"
+
+msgid "Please give a name for the category"
+msgstr "請為這個分類命名"
+
+msgid "Enter text"
+msgstr "輸入文字"
+
+msgid "Unable to create the category!"
+msgstr "無法建立分類！"
+
+msgid "You must give a name for the category."
+msgstr "您需要為分類設定一個名稱。"
+
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "無法使用 '/' 符號命名。"
+
+msgid "A category called \"%s\" already exists."
+msgstr "分類  \"%s\" 已存在。"
+
+msgid "Link start and end dates"
+msgstr "連結開始和結束日期"
+
+msgid "Save\tCtrl+S"
+msgstr "儲存檔案\tCtrl+S"
+
+msgid "Save As New\tShift+Ctrl+S"
+msgstr "另存新檔\tShift+Ctrl+S"
+
+msgid "Save To File...\tAlt+Ctrl+S"
+msgstr "另存新檔...\tAlt+Ctrl+S"
+
+msgid "Print...\tCtrl+P"
+msgstr "列印 ...\tCtrl+P"
+
+msgid "Delete\tCtrl+Delete"
+msgstr "刪除\tCtrl+Delete"
+
+msgid "Close && Accept\tCtrl+Enter"
+msgstr "關閉 && 接受\tCtrl-Enter"
+
+msgid "Close\tCtrl+W"
+msgstr "關閉\tCtrl+W"
+
+msgid "Close\tAlt-F4"
+msgstr "關閉\tAlt-F4"
+
+msgid "The selected calendar does not support recurrence."
+msgstr "選擇的行事曆不支援循環功能。"
+
+msgid ""
+"The alarm won't be shown since the calendar has ignore alarms setting "
+"enabled."
+msgstr "行事曆無法啟用鬧鈴，鬧鈴將不會顯示。"
+
+msgid "The alarm won't be shown since skin doesn't have an alarm window."
+msgstr "面板無鬧鈴視窗，鬧鈴將不會顯示。"
+
+msgid "The task is read-only and the modifications cannot be saved."
+msgstr "工作項目是唯讀的且不會儲存任何變更。"
+
+msgid "The event is read-only and the modifications cannot be saved."
+msgstr "事件項目是唯讀的且不會儲存任何變更。"
+
+msgid "The task is from a read-only calendar."
+msgstr "此工作來自一個唯獨的行事曆。"
+
+msgid "The event is from a read-only calendar."
+msgstr "此事件來自一個唯獨的行事曆。"
+
+msgid "There are no calendars available which can store tasks."
+msgstr "沒有可用於儲存任務的日曆。"
+
+msgid "There are no calendars available which can store events."
+msgstr "沒有可用於儲存活動的日曆。"
+
+msgid "No target calendar has been selected."
+msgstr "沒有選擇目標行事曆。"
+
+msgid "The original description is in HTML and cannot be edited."
+msgstr "原始的描述在HTML中且無法被編輯。"
+
+msgid ""
+"There is no calendar selected for the item. Please choose the calendar where "
+"you want to store the item."
+msgstr ""
+"沒有為此項目選擇要儲存的行事曆。請點擊行事曆按鈕並且為此項目選擇行事曆。"
+
+msgid ""
+"There are no valid calendars where the item can be saved. You need to go to "
+"the options and create a new calendar for the item. Note that some calendars "
+"do not support both events and tasks."
+msgstr ""
+"沒有可用的行事曆可儲存此項目。您需要在選項中建立一個新行事曆。請注意有些行事"
+"曆無法同時支援事件和工作。"
+
+msgid "Unable to save the item."
+msgstr "無法儲存項目。"
+
+msgid "Updating"
+msgstr "更新"
+
+msgid "Do you want to save the changes?"
+msgstr "您要儲存變更嗎？"
+
+msgid "You have made some changes to the fields."
+msgstr "您已做了一些變更。"
+
+msgid "&Save"
+msgstr "儲存(&S)"
+
+msgid "&Discard"
+msgstr "放棄(&D)"
+
+msgid "&Cancel"
+msgstr "取消(&C)"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "您確定要刪除此項目嗎？"
+
+msgid "Event"
+msgstr "事件"
+
+msgid "Choose a file"
+msgstr "選擇檔案"
+
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar 檔案 (*.ics)|*.ics"
+
+msgid "Select the calendars:"
+msgstr "選擇行事曆："
+
+msgid "Select the categories:"
+msgstr "選擇分類："
+
+msgid "before the event starts."
+msgstr "在事件開始前。"
+
+msgid "before the task is due."
+msgstr "在工作到期之前。"
+
+msgid "Set alarm sound"
+msgstr "設定鬧鈴音效"
+
+msgid "Current alarm: "
+msgstr "目前的鬧鈴："
+
+msgid "Remove alarm"
+msgstr "移除鬧鈴"
+
+msgid "Minutes"
+msgstr "分"
+
+msgid "Hours"
+msgstr "時"
+
+msgid "Days"
+msgstr "天"
+
+msgid "Alert"
+msgstr "警告"
+
+msgid "Email"
+msgstr "電子郵件"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid ""
+"Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "無法為事件找到任何行事曆管理員。事件將不會被儲存。"
+
+msgid "On the %s day of the month"
+msgstr "在每月的第 %s 天"
+
+msgid "first"
+msgstr "一"
+
+msgid "second"
+msgstr "二"
+
+msgid "third"
+msgstr "三"
+
+msgid "fourth"
+msgstr "四"
+
+msgid "fifth"
+msgstr "五"
+
+msgid "On the %s %s of the month"
+msgstr "在每月的第 %s 個 %s"
+
+msgid "On the last %s of the month"
+msgstr "在每月的最後一個 %s"
+
+msgid "On the first weekday of the month"
+msgstr "在每月的第一個週末"
+
+msgid "On the last weekday of the month"
+msgstr "在每月的最後一個週末"
+
+msgid "On the last day of the month"
+msgstr "在每月的最後一天"
+
+msgid "Please give a name for the template"
+msgstr "請為這個範本命名"
+
+msgid "Unable to create the template!"
+msgstr "無法建立範本！"
+
+msgid "You must give a name for the template."
+msgstr "您必須為這個範本命名。"
+
+msgid "A template called \"%s\" already exists."
+msgstr "範本名稱 \"%s\" 已經存在。"
+
+msgid "Do you want to overwrite the template?"
+msgstr "您確定要覆蓋原有的範本嗎？"
+
+msgid "Choose the template to delete:"
+msgstr "選擇要刪除的範本："
+
+msgid "Choose the template which is used for new tasks:"
+msgstr "為新工作選擇要使用的範本："
+
+msgid "Choose the template which is used for new events:"
+msgstr "為新事件選擇要使用的範本："
+
+msgid "Save as template..."
+msgstr "儲存範本到 ..."
+
+msgid "Delete template..."
+msgstr "刪除範本 ..."
+
+msgid "Set the default template..."
+msgstr "設為預設範本 ..."
+
+msgid "Template"
+msgstr "範本"
+
+msgid "Select the day range"
+msgstr "選擇日期範圍"
+
+msgid ""
+"This exporter is unable to save recurring events so they need to be "
+"converted to single instances. Please define the day range which will be "
+"saved to the file."
+msgstr ""
+"此匯出工具無法保存循環事件，所以需要轉換成單一事件。請設定要儲存到檔案中的日"
+"期範圍。"
+
+msgid "From:"
+msgstr "從："
+
+msgid "To:"
+msgstr "到："
+
+msgid "The end time cannot be earlier than the start time."
+msgstr "結束時間不能早於開始時間。"
+
+msgid "Birthday"
+msgstr "生日"
+
+msgid "Anniversary"
+msgstr "週年紀念日"
+
+msgid ""
+"You have created a birthday or anniversary but didn't define any "
+"recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"您已建立了一個生日或週年紀念日，但是沒有設定循環週期。\n"
+"您確定要讓事件每年重復嗎？"
+
+msgid "Error"
+msgstr "錯誤"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Question"
+msgstr "問題"
+
+msgid "Information"
+msgstr "資訊"
+
+msgid "Do not show this again"
+msgstr "不再顯示此訊息"
+
+msgid "&OK"
+msgstr "確定(&O)"
+
+msgid "&Yes"
+msgstr "是(&Y)"
+
+msgid "&No"
+msgstr "否(&N)"
+
+msgid "Manager"
+msgstr "管理"
+
+msgid "Events"
+msgstr "事件"
+
+msgid "Tasks"
+msgstr "工作"
+
+msgid "Show original"
+msgstr "顯示最初的"
+
+msgid "Show current"
+msgstr "顯示當期的"
+
+msgid "Show upcoming"
+msgstr "顯示即將到來"
+
+msgid "New"
+msgstr "新增"
+
+msgid "Edit"
+msgstr "編輯"
+
+msgid "Delete"
+msgstr "刪除"
+
+msgid "Copy to"
+msgstr "複製到"
+
+msgid "Move to"
+msgstr "移動到"
+
+msgid "Change fields"
+msgstr "變更欄位"
+
+msgid "Import"
+msgstr "匯入"
+
+msgid "Export"
+msgstr "匯出"
+
+msgid "Print..."
+msgstr "列印 ..."
+
+msgid "Backup"
+msgstr "備份"
+
+msgid "Restore"
+msgstr "還原"
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "Select all"
+msgstr "全選"
+
+msgid "Select none"
+msgstr "全不選"
+
+msgid "Toggle selection"
+msgstr "反向選擇"
+
+msgid "Select duplicates"
+msgstr "選擇重複項目"
+
+msgid "Sort by due time"
+msgstr "依到期時間排序"
+
+msgid "Sort by end time"
+msgstr "依結束時間排序"
+
+msgid "Sort by summary"
+msgstr "依摘要排序"
+
+msgid "Sort by location"
+msgstr "依地點排序"
+
+msgid "Sort by calendar"
+msgstr "依行事曆排序"
+
+msgid "Sort by category"
+msgstr "依分類排序"
+
+msgid "Sort by url"
+msgstr "依連結排序"
+
+msgid "Sort by repeat"
+msgstr "依循環事件排序"
+
+msgid "Sort by priority"
+msgstr "依優先權排序"
+
+msgid "Sort by status"
+msgstr "依狀態圖示排序"
+
+msgid "Sort by create time"
+msgstr "按創建時間排序"
+
+msgid "Sort by modify time"
+msgstr "按修改時間排序"
+
+msgid "Sort by start time"
+msgstr "依開始時間排序"
+
+msgid "Start time"
+msgstr "開始時間"
+
+msgid "End time"
+msgstr "結束時間"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid "Location"
+msgstr "地點"
+
+msgid "Url"
+msgstr "網址"
+
+msgid "Create time"
+msgstr "建立時間"
+
+msgid "Modify time"
+msgstr "修改時間"
+
+msgid "Reverse sorting"
+msgstr "反向排序"
+
+msgid "Total: %i (Selected: %i)"
+msgstr "全部: %i (已選擇: %i)"
+
+msgid ""
+"Opening a lot of items for editing can take a long time. Are you sure you "
+"want to do this?"
+msgstr "一次開啟大量的項目做編輯會花費一段時間。您確定要繼續？"
+
+msgid "Do you want to delete the selected item?"
+msgstr "您確定要刪除選擇的項目嗎？"
+
+msgid "Do you want to delete the selected %i items?"
+msgstr "您確定要刪除選擇的 %i 個項目嗎？"
+
+msgid "The selected item is read only and cannot be deleted."
+msgstr "選擇的項目是唯讀的不能被刪除"
+
+msgid "There were %i read only items which were not deleted."
+msgstr "有 %i 個唯獨項目沒有被刪除"
+
+msgid "Unable to delete some items."
+msgstr "無法刪除項目"
+
+msgid "Select the calendar where the items should be copied to:"
+msgstr "選擇項目將被複製到的行事曆："
+
+msgid "Select the calendar where the items should be moved to:"
+msgstr "選擇項目將被移動到的行事曆："
+
+msgid "Operation failed!"
+msgstr "操作失敗！"
+
+msgid "There are no calendars available that are able to store the items."
+msgstr "行事曆中沒有可儲存的項目。"
+
+msgid ""
+"Moving items to an online calendar is not safe. If the destination calendar "
+"doesn't accept the items because of network problems or for some other "
+"reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are "
+"doing."
+msgstr ""
+"移動項目到網路行事曆是不安全的，原因是網路問題或是不明原因，\n"
+"導致目標行事曆無法接收項目，則您所移動的項目將全部遺失。\n"
+"\n"
+"所以！當您有完全的把握知道您在做什麼時，請點擊【是】。"
+
+msgid "Moved %i items to these calendars:\n"
+msgstr "移動 %i 項目到行事曆：\n"
+
+msgid "Copied %i items to these calendars:\n"
+msgstr "複製 %i 項目到行事曆：\n"
+
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time so they won't "
+"be available until after a while."
+msgstr ""
+"\n"
+"重要！複製項目到網路行事曆時需要一段時間。這段時間裡行事曆\n"
+"將無法使用，直到複製完成才可繼續使用。"
+
+msgid "Some items were set as read-only and were copied instead moved."
+msgstr "部分項目設定為唯獨，已以複製取代移動處理。"
+
+msgid "Operation finished!"
+msgstr "操作完成！"
+
+msgid "You need to select at least one calendar for the events."
+msgstr "您需要為事件至少選擇一個行事曆。"
+
+msgid "Backup was successful."
+msgstr "備份成功"
+
+msgid "The backup contains these files:"
+msgstr "備份檔案包含以下檔案："
+
+msgid ""
+"Warning! The backup file does not contain any iCalendar files. If you have "
+"any locally stored events or tasks you need to back up them manually."
+msgstr ""
+"警告！備份檔案沒有包含任何的 iCalendar 檔案。如果您有任何在本機的事件或工作則"
+"需要使用手動備份。"
+
+msgid "Unable to create the backup file."
+msgstr "無法建立備份檔案。"
+
+msgid "The archive contains unknown files:\n"
+msgstr "包含未知的檔案：\n"
+
+msgid "Restore was successful."
+msgstr "還原成功。"
+
+msgid "There were problems during the restore."
+msgstr "在還原時發生錯誤。"
+
+msgid "Exported %i events successfully."
+msgstr "成功匯出 %i 事件。"
+
+msgid "Exported %i todo items successfully."
+msgstr "成功匯出 %i 待辦事項。"
+
+msgid "Export failed!"
+msgstr "匯出失敗！"
+
+msgid "Import failed!"
+msgstr "匯入失敗！"
+
+msgid "Options"
+msgstr "選項"
+
+msgid "Skins"
+msgstr "面板"
+
+msgid "Hotkeys"
+msgstr "快捷鍵"
+
+msgid "Advanced"
+msgstr "進階"
+
+msgid "Reset all settings"
+msgstr "重設所有設定"
+
+msgid "Reset offline copy"
+msgstr "重設離線副本"
+
+msgid "Authenticate"
+msgstr "驗證"
+
+msgid "OK"
+msgstr "確定"
+
+msgid "Get more languages..."
+msgstr "取得更多語言 ..."
+
+msgid "On Top"
+msgstr "最上層"
+
+msgid "On Bottom"
+msgstr "最底部"
+
+msgid "On Desktop"
+msgstr "桌面上"
+
+msgid "Get more skins..."
+msgstr "取得更多面板 ..."
+
+msgid "TrayIcon"
+msgstr "系統列圖示"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Homepage"
+msgstr "首頁"
+
+msgid "Addons"
+msgstr "附加元件"
+
+msgid "Version history"
+msgstr "版本歷史"
+
+msgid ""
+"This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "這是一個舊的 Rainlendar 面板，部分功能可能無法使用。"
+
+msgid "Advanced >>>"
+msgstr "進階選項 >>>"
+
+msgid "<<< Simple"
+msgstr "<<< 基本選項"
+
+msgid "Open containing folder"
+msgstr "開啟目的地資料夾"
+
+msgid "Custom categories are not supported."
+msgstr "不支援自訂分類"
+
+msgid ""
+"The skin \"%s\" doesn't support custom category appearances so it's not "
+"possible to edit them."
+msgstr "面板 \"%s\" 不支援自訂分類功能，故無法修改項目。"
+
+msgid "Activate only default windows?"
+msgstr "僅使用預設視窗？"
+
+msgid "Do you want to activate only the default windows or all windows?"
+msgstr "您要使用預設的視窗或是全部視窗？"
+
+msgid "Note that activating all windows can decrease the performance."
+msgstr "請注意若使用全部的視窗將會降低系統效能。"
+
+msgid "&Default"
+msgstr "&預設"
+
+msgid "&All"
+msgstr "&全部"
+
+msgid ""
+"Activate the edit field and press the hotkey combination. Note that the "
+"hotkeys are global and will affect other applications too so don't make them "
+"too simple."
+msgstr ""
+"點選編輯區域並按下快速鍵組合。請注意設定的快速鍵為全域類型並有可能影響到其他"
+"程式，故請不要設定的過於簡單。"
+
+msgid "Hotkey"
+msgstr "快捷鍵"
+
+msgid "Function"
+msgstr "功能"
+
+msgid "Search:"
+msgstr "搜尋："
+
+msgid "Do you want to reset all settings?"
+msgstr "您確定要重新設定所有設定？"
+
+msgid ""
+"This will reset all settings to default values. The default settings are "
+"applied immediately. Do you want to continue?"
+msgstr ""
+"此動作將會把全部設定恢復成預設值，並且預設值會立即被套用。您確定要繼續執行"
+"嗎？"
+
+msgid "Common"
+msgstr "一般"
+
+msgid "Enabled"
+msgstr "啟用"
+
+msgid "Read only"
+msgstr "唯讀"
+
+msgid "Ignore alarms"
+msgstr "忽略鬧鈴"
+
+msgid "Default alarm (minutes)"
+msgstr "預設鬧鈴 (分鐘)"
+
+msgid "Visual category"
+msgstr "顯示分類"
+
+msgid "Time offset (mins)"
+msgstr "時間偏移量 (分)"
+
+msgid "Time zone"
+msgstr "時區"
+
+msgid "Copy of %s"
+msgstr "%s 的複製"
+
+msgid "Please enter a name for the calendar."
+msgstr "請輸入行事曆名稱。"
+
+msgid "Illegal character!"
+msgstr "非法的字元！"
+
+msgid "It's not allowed to use the '/' or ';' characters in the name."
+msgstr "不可使用「/」或「;」符號命名。"
+
+msgid "A calendar called \"%s\" already exists."
+msgstr "行事曆名稱為 \"%s\" 已存在。"
+
+msgid "Choose another name."
+msgstr "選擇另一個名稱。"
+
+msgid "Authentication failure"
+msgstr "認證失敗"
+
+msgid ""
+"The OAuth process failed. Rainlendar is unable to access your calendar data."
+msgstr "OAuth過程失敗。Rainlendar無法存取您的日曆資料。"
+
+msgid "Do you want to delete the skin?"
+msgstr "您確定要刪除這個面板嗎？"
+
+msgid ""
+"If you select yes the skin \"%s\"\n"
+"will be permanently deleted."
+msgstr ""
+"如果您選擇「是」\n"
+"\"%s\" 面板將被永久刪除。"
+
+msgid "Delete failed!"
+msgstr "刪除失敗!"
+
+msgid "Unable to delete the skin."
+msgstr "無法刪除面板。"
+
+msgid "Print"
+msgstr "列印"
+
+msgid "Print items"
+msgstr "列印項目"
+
+msgid "End"
+msgstr "結束"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Variables"
+msgstr "變數"
+
+msgid "Window settings"
+msgstr "視窗設定"
+
+msgid "Settings can be shown only for a single window."
+msgstr "設定可能只顯示單一視窗。"
+
+msgid "No settings available."
+msgstr "無可用的設定。"
+
+msgid "Global variables"
+msgstr "整體變數"
+
+msgid "Grow upwards"
+msgstr "向上成長"
+
+msgid "Window position"
+msgstr "面板視窗位置"
+
+msgid "Disabled"
+msgstr "停用"
+
+msgid "Click through"
+msgstr "穿透點擊"
+
+msgid "Scale"
+msgstr "比例"
+
+msgid "Filters"
+msgstr "過濾"
+
+msgid "Included calendars"
+msgstr "包含的行事曆"
+
+msgid "Excluded calendars"
+msgstr "排除的行事曆"
+
+msgid "Included categories"
+msgstr "包含的分類"
+
+msgid "Excluded categories"
+msgstr "排除的分類"
+
+msgid "Task list"
+msgstr "工作清單"
+
+msgid "Alphabetically"
+msgstr "依照字母順序"
+
+msgid "By Category"
+msgstr "依照分類"
+
+msgid "By Due Date"
+msgstr "依照到期日"
+
+msgid "By Start Date"
+msgstr "依照開始日"
+
+msgid "By Status"
+msgstr "依照狀態"
+
+msgid "By Priority"
+msgstr "依照優先權"
+
+msgid "By Location"
+msgstr "依照地點"
+
+msgid "By Calendar"
+msgstr "依照行事曆"
+
+msgid "Custom"
+msgstr "自訂"
+
+msgid "Primary sort order"
+msgstr "主要排序方式"
+
+msgid "Secondary sort order"
+msgstr "次要排序方式"
+
+msgid "Reverse primary sorting"
+msgstr "主要排序方式反向"
+
+msgid "Reverse secondary sorting"
+msgstr "次要排序方式反向"
+
+msgid "Empty at top"
+msgstr "空白項目置頂"
+
+msgid "Hide completed tasks"
+msgstr "隱藏已完成的工作"
+
+msgid "Hide canceled tasks"
+msgstr "隱藏已取消的工作"
+
+msgid "Hide upcoming tasks"
+msgstr "隱藏即將到來的工作"
+
+msgid "Event list"
+msgstr "事件清單"
+
+msgid "Show empty days"
+msgstr "顯示空白日期"
+
+msgid "Window variables"
+msgstr "視窗變數"
+
+msgid "Appearance"
+msgstr "外觀"
+
+msgid "Operations"
+msgstr "操作"
+
+msgid "Left click"
+msgstr "單擊左鍵"
+
+msgid "Right click"
+msgstr "單擊右鍵"
+
+msgid "Double left click"
+msgstr "雙擊左鍵"
+
+msgid "Double right click"
+msgstr "雙擊右鍵"
+
+msgid "Local"
+msgstr "本機"
+
+msgid "Task"
+msgstr "工作"
+
+msgid "The due date needs to be set before recurrence can be defined."
+msgstr "使用循環事件功能前必須設定到期時間。"
+
+msgid "The due time cannot be earlier than the start time."
+msgstr "截止日期不能早於開始時間。"
+
+msgid "Unable to add new alarm!"
+msgstr "無法新增鬧鈴！"
+
+msgid ""
+"The due date needs to be specified for the task before it can have alarms."
+msgstr "使用鬧鈴功能前必須設定到期時間。"
+
+msgid "Upgrade to Pro version before installing the license."
+msgstr "升級至專業版前請先安裝授權。"
+
+msgid ""
+"You are still using the Lite version which doesn't include the Pro features. "
+"You need to go to the Rainlendar's download page and get the Pro version."
+msgstr ""
+"您仍在使用的 Lite 版不包含專業版的功能，若需要專業版則請到 Rainlendar 下載頁"
+"面下載。"
+
+msgid "&Get Pro"
+msgstr "升級(&G)"
+
+msgid "&Ignore"
+msgstr "忽略(&I)"
+
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+"如果您下載了 .r2skin 或是 .r2lang 檔案。\n"
+"但是您的瀏覽器下載時變更了檔案格式為 .zip 時。\n"
+"您可以變更檔案的附檔名或是重新下載。"
+
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Zip 檔案無法匯入到 Rainlendar。"
+
+msgid "Unknown file \"%s\"."
+msgstr "未知的檔案 \"%s\"。"
+
+msgid "The file cannot be imported into Rainlendar."
+msgstr "檔案無法匯入到 Rainlendar。"
+
+msgid "Installation failed!"
+msgstr "安裝失敗！"
+
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "無法複製檔案。目標檔案與來源相同。"
+
+msgid "Unable to install the file \"%s\"."
+msgstr "無法安裝檔案 \"%s\"。"
+
+msgid "The folder does not have write permissions."
+msgstr "資料夾沒有寫入權限。"
+
+msgid "The skin %s doesn't exist."
+msgstr "此面板 %s 不存在。"
+
+msgid "Unable to merge the addon."
+msgstr "無法和附加元件合併。"
+
+msgid ""
+"The file \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"\"%s\" 檔案已存在。\n"
+"您確定要取代目前檔案嗎？"
+
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "檔案已存在。您確定要覆蓋嗎？"
+
+msgid "Unable to install the skin!"
+msgstr "無法安裝面板！"
+
+msgid ""
+"The skin doesn't contain the \"skin.xml\" file. Are you sure this is an xml "
+"format Rainlendar skin?"
+msgstr "此面板不包含【skin.xml】檔案。您確定這是 XML 格式的 Rainlendar 面板？"
+
+msgid "The installation was successful!"
+msgstr "安裝成功！"
+
+msgid "The file \"%s\" was installed successfully.."
+msgstr "\"%s\" 檔案已經成功安裝！"
+
+msgid "Please refresh Rainlendar to see the changes."
+msgstr "請重新整理 Rainlendar 來確認變更。"
+
+msgid "&Refresh"
+msgstr "&重新整理"
+
+msgid "The installation failed!"
+msgstr "安裝失敗！"
+
+msgid "The installation of the file \"%s\" failed!"
+msgstr " \"%s\" 檔案安裝失敗！"
+
+msgid "Select the calendar for the imported items:"
+msgstr "選擇行事曆以匯入項目："
+
+msgid "There are no calendars available that are able to store the item."
+msgstr "沒有可儲存項目的行事曆。"
+
+msgid "Imported %i items successfully."
+msgstr "%i 項目匯入成功。"
+
+msgid "You need to select at least one calendar for the imported events"
+msgstr "您需要為匯入的事件至少選擇一個行事曆"
+
+msgid "Version mismatch!"
+msgstr "版本不合！"
+
+msgid ""
+"This skin addon is for version %s of the skin. The installed version is %s."
+msgstr "此面板附加元件為 %s 版的面板使用。目前安裝的版本為 %s。"
+
+msgid "Do you want to continue? (The skin might get broken)"
+msgstr "您確定要繼續嗎？（面板可能會損毀）"
+
+msgid "&Continue"
+msgstr "&繼續"
+
+msgid "Ca&ncel"
+msgstr "取消"
+
+msgid "Failed to install \"%s\"."
+msgstr "無法安裝檔案 \"%s\"。"
+
+msgid ""
+"The skin addon has been already applied to the skin.\n"
+"You may apply the same addon only once to the skin."
+msgstr ""
+"面板的附加元件已加入面板。\n"
+"您只能套用一次相同的附加元件。"
+
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "無法建立合併附加元件的暫存資料夾。"
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Control"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Space"
+msgstr "空白鍵"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "NumLock"
+msgstr "NumLock"
+
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+msgid "Edit \"%s\""
+msgstr "編輯 \"%s\""
+
+msgid "Delete all"
+msgstr "刪除全部"
+
+msgid "Dismiss alarm"
+msgstr "解除鬧鈴"
+
+msgid "Tomorrow"
+msgstr "明天"
+
+msgid "Yesterday"
+msgstr "昨天"
+
+msgid "Last %1"
+msgstr "最近的 %1"
+
+msgid "%1 next week"
+msgstr "%1 下週"
+
+msgid "%1 last week"
+msgstr "%1 上週"
+
+msgid "%1 %2 weeks ago"
+msgstr "%1 %2 週前"
+
+msgid "%1 in %2 weeks"
+msgstr "%1 %2 週後"
+
+msgid " (Due in %s)"
+msgstr " (%s 後到期)"
+
+msgid " (Overdue %s)"
+msgstr " (已過期 %s)"
+
+msgid "day"
+msgstr "天"
+
+msgid "days"
+msgstr "天"
+
+msgid "hour"
+msgstr "小時"
+
+msgid "hours"
+msgstr "小時"
+
+msgid "minute"
+msgstr "分鐘"
+
+msgid "minutes"
+msgstr "分鐘"
+
+msgid " (Due now)"
+msgstr " (已到期)"
+
+msgid "before target"
+msgstr "在事件開始前"
+
+msgid "Snooze"
+msgstr "瞌睡"
+
+msgid "Dismiss"
+msgstr "解除"
+
+msgid "Edit..."
+msgstr "編輯 ..."
+
+msgid "Move to next day"
+msgstr "移至下一頁"
+
+msgid " (%i days)"
+msgstr " (%i 天)"
+
+msgid "Edit event"
+msgstr "編輯事件"
+
+msgid "Delete event"
+msgstr "刪除事件"
+
+msgid "[Due %x]"
+msgstr "[%x 到期]"
+
+msgid "No location"
+msgstr "沒有地點"
+
+msgid "No category"
+msgstr "沒有分類"
+
+msgid "No due date"
+msgstr "未設定到期日"
+
+msgid "No start date"
+msgstr "未設定開始日期"
+
+msgid "High Priority"
+msgstr "優先等級：高"
+
+msgid "Medium Priority"
+msgstr "優先等級：中"
+
+msgid "Low Priority"
+msgstr "優先等級：低"
+
+msgid "No Priority"
+msgstr "優先等級：無"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "Expand"
+msgstr "展開"
+
+msgid "Collapse"
+msgstr "收合"
+
+msgid "New subtask"
+msgstr "新子工作"
+
+msgid "Edit task"
+msgstr "編輯工作"
+
+msgid "Delete task"
+msgstr "刪除工作"
+
+msgid "Todo list"
+msgstr "待辦事項清單"
+
+msgid "Completed to now"
+msgstr "完成此次"
+
+msgid "No events today."
+msgstr "今天沒有任何事件"
+
+msgid "Today's events:"
+msgstr "今日事件："
+
+msgid "Invalid plugins found!"
+msgstr "發現無效的插件！"
+
+msgid ""
+"The following files in Rainlendar's plugins\n"
+"folder are invalid and should be removed:\n"
+msgstr ""
+"下列 Rainlendar 的插件資料夾中\n"
+"部份檔案是無效的並且應該刪除：\n"
+
+msgid ""
+"\n"
+"\n"
+"Make sure that all the plugins are from the same Rainlendar version."
+msgstr ""
+"\n"
+"\n"
+"請確認所有的插件都來自相同的 Rainlendar 版本。"
+
+msgid "allow multiple instances"
+msgstr "允許多個程序"
+
+msgid "install a skin or a language"
+msgstr "安裝面板或語言"
+
+msgid "import the given file"
+msgstr "匯入指定檔案"
+
+msgid "path where the configuration file will be stored"
+msgstr "設定檔路徑將被儲存"
+
+msgid "execute the given function in a script"
+msgstr "執行指定 Script 中的函式"
+
+msgid "path where the log file will be stored"
+msgstr "記錄檔路徑將被儲存"
+
+msgid "path where the backups will be stored"
+msgstr "備份檔路徑將被儲存"
+
+msgid "add event or task to the calendar"
+msgstr "新增事件或工作到行事曆"
+
+msgid "enable verbose logging"
+msgstr "啟動詳細記錄"
+
+msgid "enable debug logging"
+msgstr "啟動除錯記錄"
+
+msgid "disable all logging"
+msgstr "停用除錯記錄"
+
+msgid "don't show the messagebox after importing and installing files"
+msgstr "在匯入和安裝檔案之後不顯示對話窗"
+
+msgid "Do you want to start another instance?"
+msgstr "您確定要開啟另一個程序嗎？"
+
+msgid ""
+"Rainlendar seems to be already running. You can start another instance by "
+"selecting 'Yes'."
+msgstr "Rainlendar 已執行中。您可以在開啟選擇【是】後另開程序。"
+
+msgid ""
+"\n"
+"\n"
+"If this is not the case and this question pops up every time you start "
+"Rainlendar please remove this file:\n"
+msgstr ""
+"\n"
+"\n"
+"此狀況並不一定是這個問題，若每次開啟 Rainlendar 則會跳出此狀況，則請移除以下"
+"檔案：\n"
+
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"無法從以下路徑載入資源：\n"
+"%s"
+
+msgid "Note that your events and tasks will be left untouched."
+msgstr "注意您的事件及代辦項目將維持不變。"
+
+msgid ""
+"The settings file is missing or empty.\n"
+"Do you want to restore it from the latest back up file?"
+msgstr ""
+"設定檔案遺失或為空白。\n"
+"要從最新的備份檔案復原嗎？"
+
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"無法建立設定檔：\n"
+"\n"
+"%s\n"
+"\n"
+"請確定資料夾有寫入權限。"
+
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"設定檔無法匯入：\n"
+"\n"
+"%s\n"
+"\n"
+"請確定有正確的權限。"
+
+msgid "You won't be able to store any settings permanently."
+msgstr "您永遠無法儲存任何設定。"
+
+msgid "This is a BETA version."
+msgstr "這是測試版本。"
+
+msgid ""
+"You are using a BETA version of Rainlendar. It means that the software has "
+"not been tested and not suitable for daily use.\n"
+"\n"
+"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
+"net.\n"
+"\n"
+"(This message is shown only once)"
+msgstr ""
+"您正在使用測試版的Rainlendar。 這代表此軟體還未測試完成並有可能造成使用上的不"
+"便。\n"
+"\n"
+"敬請到Rainlendar測試版論壇回報所有的軟體錯誤 www.rainlendar.net。\n"
+"\n"
+"(此訊息只會顯示一次)"
+
+msgid "Google Calendar support has been changed"
+msgstr "Google日曆格式已變更"
+
+msgid ""
+"The Google Calender support uses now a different calendar type. To show the "
+"Google events again you need to create a new calendar and choose 'Google "
+"Calendar (v3)' as the calendar type."
+msgstr ""
+"Google日曆已改用不同的行事曆格式。若要再次顯示Google日曆事件，您必須新建立一"
+"個行事曆並選擇「Google日曆 (v3)」作為行事曆的類型。"
+
+msgid "Everything is hidden."
+msgstr "全部隱藏"
+
+msgid ""
+"It looks like all the windows and the trayicon have been hidden. Was this "
+"your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog "
+"again. Click 'No' to make all windows visible again."
+msgstr ""
+"所有的視窗和系統列圖示都將被隱藏。這是您的目的嗎？\n"
+"\n"
+"點擊【是】假設您想隱藏全部且不想再看見此對話框。點擊【否】再次顯示所有視窗。"
+
+msgid "Startup error!"
+msgstr "啟動錯誤！"
+
+msgid ""
+"Rainlendar was not able to refresh the settings correctly. Do you want to "
+"reset all settings and try again or use one of the backed up versions?"
+msgstr ""
+"Rainlendar 無法正確更新設定。您要全部回復預設值並且重試或使用另一份備份檔案"
+"嗎？"
+
+msgid "&Reset"
+msgstr "重設(&R)"
+
+msgid "&Use backup"
+msgstr "使用備份(&R)"
+
+msgid "&Keep"
+msgstr "保留(&K)"
+
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"以下路徑中沒有面板：\n"
+"%s"
+
+msgid ""
+"Rainlendar was not able to load the selected skin. Do you want to use the "
+"default skin instead?"
+msgstr "Rainlendar 無法載入所選擇的面板。您確定要使用預設面板來替代嗎？"
+
+msgid "Unable to load the skin!"
+msgstr "無法載入面板！"
+
+msgid ""
+"The selected skin could not be loaded. You can find more details from the "
+"Rainlendar's log."
+msgstr "無法載入面板。您可以在Rainlendar's log找到更多詳細資訊。"
+
+msgid "&Ok"
+msgstr "確定(&O)"
+
+msgid "&Show log"
+msgstr "顯示除錯紀錄(&S)"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid ""
+"The license file empty. Make sure to use the complete url when downloading "
+"the license file."
+msgstr "空白檔案一定要使用稅務部 web 輪胎。"
+
+msgid ""
+"The license file is not valid. You have exceeded the number of times the "
+"license can be downloaded. Please contact Rainlendar's support for more "
+"details."
+msgstr ""
+"你的註冊碼無效子商品允許下載的時間。不符合結帳條件，請聯繫支援人員了解詳情。"
+
+msgid ""
+"The license file does not have valid format. Make sure that you are using "
+"correct license file. You can also try to download the file again if the "
+"error persists."
+msgstr ""
+"許可證文件不包含有效的序列號。確保您使用的是正確的裝置。如果您認為輸入的信用"
+"卡信息有誤，可以選擇再次提交訂單。"
+
+msgid "Skin error!"
+msgstr "面板錯誤！"
+
+msgid ""
+"The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
+"option for the default 'Calendar' window. Click OK to reset the skin."
+msgstr ""
+"Shadow4的「大型行事曆」面板視窗已被預設「行事曆」面板的「大型」選項取代，按下"
+"確定重設面板。"
+
+msgid "Use large default skin?"
+msgstr "使用大的預設面板？"
+
+msgid ""
+"The default values might be too small for your screen resolution. Do you "
+"want to use larger fonts and windows?"
+msgstr ""
+"預設的面板外觀相對於您的螢幕解析度可能會過小，請問您要使用較大的字型跟視窗"
+"嗎？"
+
+msgid "&Large"
+msgstr "&較大"
+
+msgid "&Small"
+msgstr "&較小"
+
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"找到舊的 Rainlendar 檔案：\n"
+"\n"
+
+msgid "Do you want to import them?"
+msgstr "您確定要匯入項目嗎？"
+
+msgid "Import failed with file: \"%s\""
+msgstr "匯入檔案失敗：\"%s\""
+
+msgid "Purchase Rainlendar2 Pro?"
+msgstr "購買 Rainlendar2 Pro?"
+
+msgid ""
+"I hope you've enjoyed using Rainlendar for the past month. Would you like to "
+"upgrade to the Pro version with additional functionality? If you use the "
+"\"Buy Now\" link below you can purchase the license at a discounted price. "
+"You can also press the \"No thanks\" button and never see this message "
+"again.\n"
+"\n"
+"Thank you for the support."
+msgstr ""
+"誠懇的希望您在過去一個月對Rainlendar有良好的使用體驗。 您願意升級至專業版並獲"
+"得額外的功能嗎？ 如果您按下下方的 \"立即購買\" 連結可享有折扣優惠。 您也可以"
+"按下 \"不了，謝謝\" 按鈕使此訊息不再出現。\n"
+"\n"
+"感謝您的支持。"
+
+msgid "&Buy Now"
+msgstr "&立即購買"
+
+msgid "&Remind later"
+msgstr "&之後提醒我"
+
+msgid "&No Thanks"
+msgstr "&不了，謝謝"
+
+msgid "Ok"
+msgstr "確定"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Make a selection:"
+msgstr "選擇："
+
+msgid "Hide Windows"
+msgstr "隱藏視窗"
+
+msgid "Show Windows"
+msgstr "顯示視窗"
+
+msgid "Toggle Windows"
+msgstr "切換視窗"
+
+msgid "Toggle Today Window"
+msgstr "切換今日視窗"
+
+msgid "Create New Task"
+msgstr "建立新工作"
+
+msgid "Create New Event"
+msgstr "建立新事件"
+
+msgid "Create new event or task"
+msgstr "建立新事件或工作"
+
+msgid "Quit Application"
+msgstr "離開程式"
+
+msgid "Business"
+msgstr "公事"
+
+msgid "Calls"
+msgstr "電話"
+
+msgid "Clients"
+msgstr "客戶"
+
+msgid "Competition"
+msgstr "比賽"
+
+msgid "Customer"
+msgstr "顧客"
+
+msgid "Exam"
+msgstr "考試"
+
+msgid "Favorites"
+msgstr "喜好"
+
+msgid "Follow Up"
+msgstr "追蹤"
+
+msgid "Gifts"
+msgstr "禮物"
+
+msgid "Holidays"
+msgstr "假日"
+
+msgid "Ideas"
+msgstr "想法"
+
+msgid "Important"
+msgstr "重要"
+
+msgid "Issues"
+msgstr "發行"
+
+msgid "Miscellaneous"
+msgstr "雜項"
+
+msgid "Personal"
+msgstr "個人"
+
+msgid "Projects"
+msgstr "專案"
+
+msgid "Public Holiday"
+msgstr "國定假日"
+
+msgid "Suppliers"
+msgstr "供應商"
+
+msgid "Travel"
+msgstr "旅行"
+
+msgid "Trip"
+msgstr "行程"
+
+msgid "TV"
+msgstr "電視節目"
+
+msgid "Vacation"
+msgstr "假期"
+
+msgid "Work"
+msgstr "工作"
+
+msgid "Medical"
+msgstr "醫療"
+
+msgid "Urgent"
+msgstr "緊急"
+
+msgid "Health"
+msgstr "健康"
+
+msgid "Sport"
+msgstr "運動"
+
+msgid "Game"
+msgstr "遊戲"
+
+msgid "School"
+msgstr "學校"
+
+msgid "Party"
+msgstr "舞會"
+
+msgid "Movie"
+msgstr "電影"
+
+msgid "Car"
+msgstr "車輛"
+
+msgid "Payments"
+msgstr "付款"
+
+msgid "Money"
+msgstr "財經"
+
+msgid "Pets"
+msgstr "寵物"
+
+msgid "Theatre"
+msgstr "戲劇"
+
+msgid "Music"
+msgstr "音樂"
+
+msgid "[Black]"
+msgstr "[黑色]"
+
+msgid "[Blue]"
+msgstr "[藍色]"
+
+msgid "[Brown]"
+msgstr "[棕色]"
+
+msgid "[Cyan]"
+msgstr "[青色]"
+
+msgid "[Green]"
+msgstr "[綠色]"
+
+msgid "[Grey]"
+msgstr "[灰色]"
+
+msgid "[Magenta]"
+msgstr "[紫紅色]"
+
+msgid "[Pink]"
+msgstr "[粉紅色]"
+
+msgid "[Red]"
+msgstr "[紅色]"
+
+msgid "[Yellow]"
+msgstr "[黃色]"
+
+msgid "[Orange]"
+msgstr "[橘色]"
+
+msgid "Must Attend"
+msgstr "必須參加"
+
+msgid "Travel Required"
+msgstr "旅行需求"
+
+msgid "Needs Preparation"
+msgstr "需要準備"
+
+msgid "Phone Call"
+msgstr "撥打電話"
+
+msgid "iCalendar Format"
+msgstr "iCalendar 格式"
+
+msgid "Network Shared Calendar"
+msgstr "Network Shared Calendar"
+
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+msgid "Rainlendar Ini Format"
+msgstr "Rainlendar INI 格式"
+
+msgid "Google Calendar"
+msgstr "Google Calendar"
+
+msgid "CalDAV Calendar"
+msgstr "CalDAV行事曆"
+
+msgid "Google Calendar (v3)"
+msgstr "Google日曆 (v3)"
+
+msgid "Google Tasks"
+msgstr "Google工作表"
+
+msgid "Comma Separated Values"
+msgstr "逗號分隔型取值 (CSV)"
+
+msgid "&Next >"
+msgstr "下一步(&N) >"
+
+msgid "< &Back"
+msgstr "< 上一步(&B)"
+
+msgid "&Finish"
+msgstr "完成(&F)"
+
+msgid "Vertical Calendar"
+msgstr "垂直行事曆"
+
+msgid "Year Calendar"
+msgstr "年行事曆"
+
+msgid "Sidebar"
+msgstr "側邊欄"
+
+msgid "DigiClock"
+msgstr "數位時鐘"
+
+msgid "Dual Calendar"
+msgstr "雙行事曆"
+
+msgid "Todo List"
+msgstr "待辦事項清單"
+
+msgid "Grid Calendar"
+msgstr "多月（格子狀）行事曆"
+
+msgid "Vertical Line Calendar"
+msgstr "垂直行事曆"
+
+msgid "Horizontal Line Calendar"
+msgstr "水平行事曆"
+
+msgid "Visible month"
+msgstr "顯示月份"
+
+msgid "Show buttons"
+msgstr "顯示按鈕"
+
+msgid "Show adjacent days"
+msgstr "顯示相鄰的日期"
+
+msgid "Eventlist max height"
+msgstr "事件清單最大高度"
+
+msgid "Todolist max height"
+msgstr "待辦事項清單最大高度"
+
+msgid "Show week numbers"
+msgstr "顯示週數"
+
+msgid "Format"
+msgstr "格式"
+
+msgid "Timezone"
+msgstr "時區"
+
+msgid "Label"
+msgstr "標籤"
+
+msgid "Show 3rd month"
+msgstr "顯示第三個月"
+
+msgid "Show 4th month"
+msgstr "顯示第四個月"
+
+msgid "Show 5th month"
+msgstr "顯示第五個月"
+
+msgid "Show 6th month"
+msgstr "顯示第六個月"
+
+msgid "Show 7th month"
+msgstr "顯示第七個月"
+
+msgid "Show 8th month"
+msgstr "顯示第八個月"
+
+msgid "Color"
+msgstr "顏色"
+
+msgid "Analog Clock"
+msgstr "類比時鐘"
+
+msgid "Calendar List"
+msgstr "行事曆清單"
+
+msgid "X count"
+msgstr "水平月數"
+
+msgid "Y count"
+msgstr "垂直月數"
+
+msgid "Snooze All"
+msgstr "全部瞌睡"
+
+msgid "Dismiss All"
+msgstr "全部解除"
+
+msgid "To do"
+msgstr "待辦事項"
+
+msgid "Today color"
+msgstr "今天顏色"
+
+msgid "Today shape"
+msgstr "今天形狀"
+
+msgid "Circle"
+msgstr "圓形"
+
+msgid "Rectangle"
+msgstr "長方形"
+
+msgid "Slim circle"
+msgstr "細圓形"
+
+msgid "Slim rectangle"
+msgstr "細長方形"
+
+msgid "Red"
+msgstr "紅色"
+
+msgid "Orange"
+msgstr "橘色"
+
+msgid "Yellow"
+msgstr "黃色"
+
+msgid "Green"
+msgstr "綠色"
+
+msgid "Cyan"
+msgstr "青色"
+
+msgid "Blue"
+msgstr "藍色"
+
+msgid "Magenta"
+msgstr "紫紅色"
+
+msgid ""
+"A sequel to the popular Shadow3-skin with some added features like visible "
+"days from the next and previous month and a skinned tooltip."
+msgstr ""
+"受歡迎的 Shadow4 面板會繼續增加功能，例如可以看的見下個月或上個月天數、面板狀"
+"態提示 ... 等等之類新功能。"
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 1 to 12 for a specific month in the "
+"current year."
+msgstr ""
+"設定行事曆顯示的月份。+1 為下個月，-1 為上個月，或以 1 到 12 指定在今年中的月"
+"份。"
+
+msgid "Uncheck to hide the next and previous buttons from the calendar."
+msgstr "取消勾選則為隱藏行事曆上一個和下一個按鈕。"
+
+msgid "Uncheck to hide the days from the previous and next month."
+msgstr "取消勾選則為隱藏上一個和下一個月份的日期。"
+
+msgid "Defines the maximum height of the alarm."
+msgstr "設定鬧鈴的最大高度。"
+
+msgid "Defines the maximum height of the event list."
+msgstr "設定事件清單的最大高度。"
+
+msgid "Defines the maximum height of the to do list."
+msgstr "設定待辦事項清單的最大高度。"
+
+msgid "Defines the width of the calendar list."
+msgstr "設定行事曆清單的寬度。"
+
+msgid "Uncheck to hide the week numbers from the calendar."
+msgstr "取消勾選則為隱藏行事曆上的週數。"
+
+msgid ""
+"This defines the format of the clock. To get rid of the seconds use %H:%M or "
+"%#I:%M %p"
+msgstr "設定時鐘格式。去除秒數使用 %H:%M 或 %#I:%M %p"
+
+msgid ""
+"Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
+"You can also use values like CET, EST, PST, A_CST, ..."
+msgstr ""
+"設定時區。設定一個數字：... -3, -2, -1, 0, +1, +2, +3, ...。您也可以使用 "
+"CET, EST, PST, A_CST, ... 設定。"
+
+msgid "Adds a label for the clock."
+msgstr "為時鐘加上標籤"
+
+msgid "Defines the color of the today marker."
+msgstr "設定今天標記的顏色。"
+
+msgid "Defines the shape of the today marker."
+msgstr "設定今天標記的形狀。"
+
+msgid "Defines how many calendars are shown horizontally in the window."
+msgstr "設定水平顯示的行事曆數量。"
+
+msgid "Defines how many calendars are shown vertically in the window."
+msgstr "設定垂直顯示的行事曆數量。"
+
+msgid "Uncheck to hide the names of the days of the week from the calendar."
+msgstr "取消勾選則隱藏星期顯示"
+
+msgid "Week View"
+msgstr "週計劃表"
+
+msgid "Today position"
+msgstr "今天顯示位置"
+
+msgid ""
+"Defines the position where today is located. If set to 0 (the default) the "
+"week view shows a full calendar week and the today's position changes. If "
+"set to 1 to 7 the today is kept on that position always and the weekdays are "
+"changed accordingly."
+msgstr ""
+"設定今天顯示位置。 設定為 0 (預設) 則會顯示整週行事曆，今天位置隨時間改變。 "
+"若設定數字 1 到 7 則會使今天顯示位置固定，並使星期顯示隨位置改變。"
+
+msgid "Autoscroll"
+msgstr "自動捲動"
+
+msgid "Uncheck to disable the autoscroll."
+msgstr "取消勾選則為不捲動"
+
+msgid "Week view date format"
+msgstr "日期格式"
+
+msgid ""
+"This defines the format of the date in the schedule. The default is %#d.%#m."
+msgstr "設定計劃表日期格式。預設為%#d.%#m."
+
+msgid "Week view time format"
+msgstr "時間格式"
+
+msgid ""
+"This defines the format of the time in the schedule. The default is %H:%M. "
+"For AM/PM format use %#I %p"
+msgstr "設定計劃表時間格式。預設為 %H:%M. 。使用AM/PM格式則為 %#I %p 。"
+
+msgid "Time item height"
+msgstr "時間項目高度"
+
+msgid ""
+"Defines the height of one time item in the view. The default value is 30 "
+"pixels."
+msgstr "設定時間項目高度。預設值是 30 像素。"
+
+msgid "Time item duration"
+msgstr "時間項目時間長度"
+
+msgid "60 Minutes"
+msgstr "60分鐘"
+
+msgid "30 Minutes"
+msgstr "30分鐘"
+
+msgid "15 Minutes"
+msgstr "15分鐘"
+
+msgid ""
+"Defines the duration of one time item in the view. The default value is 60 "
+"minutes."
+msgstr "設定一個時間項目區塊的時間長度。預設值是60分鐘。"
+
+msgid "All day max height"
+msgstr "全天事件最大高度"
+
+msgid ""
+"The maximum height of the all day event area. A scrollbar is shown after the "
+"events don't fit anymore inside this area."
+msgstr "全天事件的最大高度。如果無法容納所有事件則會顯示捲軸。"
+
+msgid "Event min height"
+msgstr "事件最小高度"
+
+msgid "The minimum height of the event."
+msgstr "事件的最小高度。"
+
+msgid "Uncheck to hide the week numbers from the view."
+msgstr "取消勾選則為隱藏行事曆上的週數。"
+
+msgid "Show weekdays"
+msgstr "顯示星期"
+
+msgid "Day View"
+msgstr "日計劃表"
+
+msgid "Day view time format"
+msgstr "時間格式"
+
+msgid "Day view date format"
+msgstr "時間格式"
+
+msgid "Month View"
+msgstr "月計劃表"
+
+msgid "Show background"
+msgstr "顯示背景"
+
+msgid "Uncheck to make the background transparent."
+msgstr "取消勾選使背景透明。"
+
+msgid "Large Calendar"
+msgstr "大型行事曆"
+
+msgid "Today window max height"
+msgstr "今日視窗最大高度"
+
+msgid "Defines the maximum height of the today window."
+msgstr "設定今日視窗最大高度。"
+
+msgid "Today show tasks"
+msgstr "今日顯示工作"
+
+msgid "Defines if the tasks should be shown in the today window."
+msgstr "設定今日視窗是否顯示工作。"
+
+msgid ""
+"The skin contains multiple different color variations. You can change them "
+"either from the skin's settings or by clicking the down arrow on the "
+"calendar."
+msgstr ""
+"面板含有多種的顏色可更換。您可以從面板設定變更其他的顏色或是點擊行事曆上向下"
+"的箭頭來變更顏色。"
+
+msgid "Brown"
+msgstr "棕色"
+
+msgid "Dark"
+msgstr "深色"
+
+msgid "Colorless"
+msgstr "無色彩"
+
+msgid "Defines the color of the windows."
+msgstr "設定視窗的顏色。"
+
+msgid "Defines the format for the dates on the event list headers."
+msgstr "設定事件清單標題的日期格式。"
+
+msgid ""
+"Defines the maximum height of the event list. The default value is 300 "
+"pixels."
+msgstr "設定最大事件清單高度。預設值是 300 像素。"
+
+msgid ""
+"Defines the maximum height of the to do list. The default value is 300 "
+"pixels."
+msgstr "設定待辦事項最大高度。預設值是 300 像素。"
+
+msgid "Removes the color from the windows."
+msgstr "移除視窗的色彩。"
+
+msgid "Creates darker version of the windows."
+msgstr "產生較為深色的視窗。"
+
+msgid "All day"
+msgstr "全天事件"
+
+msgid "Day bar show day"
+msgstr "Day Bar顯示日期"
+
+msgid "Defines if the day number and name are shown in the day bar."
+msgstr "設定Day Bar視窗是否顯示日期與名稱。"
+
+msgid "Day bar am-pm"
+msgstr "Day Bar顯示am-pm"
+
+msgid "Check to show the times with 12-hour clock."
+msgstr "勾選為顯示12小時制。"
+
+msgid "Bar event"
+msgstr "Bar事件"
+
+msgid "The event color for the bars."
+msgstr "Bar的事件顏色。"
+
+msgid "Conditions: "
+msgstr "天氣狀況："
+
+msgid "Temperature: "
+msgstr "溫度："
+
+msgid "Humidity: "
+msgstr "濕度："
+
+msgid "Winds: "
+msgstr "風速："
+
+msgid "Time: "
+msgstr "時間："
+
+msgid "Refreshing..."
+msgstr "重新整理 ..."
+
+msgid "Downloading: "
+msgstr "下載中 ..."
+
+msgid "Download failed!"
+msgstr "下載失敗！"
+
+msgid "Loading..."
+msgstr "載入中 ..."
+
+msgid "Unknown result!"
+msgstr "未知的結果！"
+
+msgid "Upcoming programs:"
+msgstr "即將播映："
+
+msgid "Parsing failed!"
+msgstr "操作失敗！"
+
+msgid " DAYS     HOURS  MINS   SECS"
+msgstr " 天     時  分   秒"
+
+msgid "Loading feed..."
+msgstr "載入來源 ..."
+
+msgid "Lo: "
+msgstr "低溫："
+
+msgid "Hi: "
+msgstr "高溫："
+
+msgid "Min:"
+msgstr "低溫:"
+
+msgid "Max:"
+msgstr "高溫:"
+
+msgid "Chance of precipitation: "
+msgstr "降雨機率："
+
+msgid "New moon"
+msgstr "新月"
+
+msgid "Waxing crescent"
+msgstr "漸滿峨眉月"
+
+msgid "First quarter"
+msgstr "上弦月"
+
+msgid "Waxing gibbous"
+msgstr "凸月"
+
+msgid "Full moon"
+msgstr "滿月"
+
+msgid "Waning gibbous"
+msgstr "殘月"
+
+msgid "Last quarter"
+msgstr "下弦月"
+
+msgid "Waning crescent"
+msgstr "漸暗峨眉月"
+
+msgid "Southern hemisphere"
+msgstr "南半球"
+
+msgid "Set to 1 to change the phases as seen from southern hemisphere."
+msgstr "設定為 1 時顯示南半球月相"
+
+msgid "World Time"
+msgstr "世界時間"
+
+msgid "World time format"
+msgstr "世界時間顯示格式"
+
+msgid ""
+"This defines the format of the time. The default is %H:%M. For AM/PM format "
+"use %#I:%M %p"
+msgstr "設定時間格式。預設為 %H:%M。使用AM/PM格式則為 %#I %p 。"
+
+msgid "World time location 1"
+msgstr "地點 1"
+
+msgid "Defines the title for the time."
+msgstr "設定時間的標題。"
+
+msgid "World time timezone 1"
+msgstr "時區 1"
+
+msgid "World time location 2"
+msgstr "地點 2"
+
+msgid "World time timezone 2"
+msgstr "時區 2"
+
+msgid "World time location 3"
+msgstr "地點 3"
+
+msgid "World time timezone 3"
+msgstr "時區 3"
+
+msgid "World time location 4"
+msgstr "地點 4"
+
+msgid "World time timezone 4"
+msgstr "時區 4"
+
+msgid "Photos"
+msgstr "相片"
+
+msgid "Weather"
+msgstr "天氣預報"
+
+msgid "Countdown"
+msgstr "倒數"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Create New"
+msgstr "建立新工作"
+
+msgid "Moon Phase"
+msgstr "月相"
+
+msgid "QuickAdd"
+msgstr "快速新增"
+
+msgid "Translate"
+msgstr "翻譯"
+
+msgid "Text File"
+msgstr "文字檔案"
+
+msgid "RSS height"
+msgstr "RSS 高度"
+
+msgid "Defines the maximum height of the list."
+msgstr "設定清單的最大高度。"
+
+msgid "RSS location"
+msgstr "RSS 位置"
+
+msgid "Location of the RSS feed."
+msgstr "RSS 來源位置。"
+
+msgid "Weather location"
+msgstr "天氣預報位置"
+
+msgid "Location of the weather feed."
+msgstr "天氣預報來源位置。"
+
+msgid "Weather city"
+msgstr "天氣預報城市"
+
+msgid "The city for the weather."
+msgstr "天氣預報城市名稱。"
+
+msgid "Weather language"
+msgstr "天氣預報語言"
+
+msgid ""
+"The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
+msgstr "天氣語言( zh-tw 為繁體中文)。輸入語言英文縮寫例如 en, fi, ru, zh-cn..."
+
+msgid "Photos random"
+msgstr "隨機相片"
+
+msgid "Uncheck to show the images in sequel. Check shows them in random order."
+msgstr "取消勾選為依序顯示影像。勾選則為隨機顯示。"
+
+msgid "Photos update"
+msgstr "相片更新"
+
+msgid "Defines how often the image is updated. The value is in minutes."
+msgstr "設定更新影像頻率。單位為分鐘計算。"
+
+msgid "Photos folder"
+msgstr "相片資料夾"
+
+msgid ""
+"Defines the local folder which is scanned for photos. If this is left empty "
+"the photos are downloaded from Flickr."
+msgstr "設定瀏覽相片的本機資料夾位置。如果為空白則從 Flickr 下載照片。"
+
+msgid "Countdown event"
+msgstr "事件倒數"
+
+msgid "The description of the event."
+msgstr "事件描述。"
+
+msgid "Countdown time"
+msgstr "時間倒數"
+
+msgid "The time of the event. Use format HH:MM:SS."
+msgstr "事件發生的時間。使用格式為 HH:MM:SS。"
+
+msgid "Countdown date"
+msgstr "日期倒數"
+
+msgid "The date of the event. Use format YYYY-MM-DD."
+msgstr "事件發生的日期。使用格式為 YYYY-MM-DD。"
+
+msgid "TV height"
+msgstr "電視節目清單高度"
+
+msgid "Copy to clipboard"
+msgstr "複製到剪貼簿"
+
+msgid "File path"
+msgstr "檔案路徑"
+
+msgid "Defines the name and path to the file which is displayed in the window."
+msgstr "為要顯示的文字檔案路徑。"
+
+msgid "No file given"
+msgstr "未指定檔案"
+
+msgid "Go to the window's settings and point the path variable to a text file."
+msgstr "請到檔案面板視窗指定一個文字檔案路徑。"
+
+msgid "File window full rows"
+msgstr "自動換行"
+
+msgid "Check to show full rows. Uncheck cuts the lines."
+msgstr "勾選為不自動換行，取消勾選設定為自動換行。"
+
+msgid "File window width"
+msgstr "視窗寬度"
+
+msgid "The width of the calendar window."
+msgstr "行事曆視窗的寬度。"
+
+msgid "The height of the calendar window."
+msgstr "行事曆視窗的高度。"
+
+msgid "Defines the width of the event list."
+msgstr "設定事件清單的寬度。"
+
+msgid "Defines the width of the to do list."
+msgstr "設定待辦事項清單的寬度。"
+
+msgid "Defines the width of the quickadd window."
+msgstr "設定快速新增面板的寬度。"
+
+msgid "Defines the width of the day view window."
+msgstr "設定日計劃表視窗寬度。"
+
+msgid "Defines the height of the day view window."
+msgstr "設定日計劃表視窗高度。"
+
+msgid "Defines the width of the week view window."
+msgstr "設定週計劃表視窗寬度。"
+
+msgid "Defines the height of the week view window."
+msgstr "設定週計劃表視窗高度。"
+
+msgid "Defines the width of the calendar window."
+msgstr "設定行事曆視窗的寬度。"
+
+msgid "Defines the height of the calendar window."
+msgstr "設定行事曆視窗的高度。"
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "alt"
+msgstr "alt"
+
+msgid "shift"
+msgstr "shift"
+
+msgid "Mark as completed"
+msgstr "標記為已完成"
+
+msgid "Mark as needs action"
+msgstr "標記為未完成"
+
+msgid "Recurring"
+msgstr "循環"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Text color"
+msgstr "文字顏色"
+
+msgid "Tooltip color"
+msgstr "提示顏色"
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "White"
+msgstr "白色"
+
+msgid "Light grey"
+msgstr "淺灰色"
+
+msgid "Light pink"
+msgstr "淡粉色"
+
+msgid "Grey"
+msgstr "灰色"
+
+msgid "Pink"
+msgstr "粉紅色"
+
+msgid "Schedule background"
+msgstr "計劃表背景顏色"
+
+msgid "The background color for the day, week and month views."
+msgstr "日、週、月計劃表的背景顏色。"
+
+msgid "Schedule text color"
+msgstr "計劃表文字顏色"
+
+msgid "The text color for the day, week and month views."
+msgstr "日、週、月計劃表的文字顏色。"
+
+msgid "Calendar day color"
+msgstr "行事曆日期顏色"
+
+msgid "Large calendar day color"
+msgstr "大型行事曆日期顏色"
+
+msgid "The color for the days in the calendar."
+msgstr "行事曆上日期顯示的顏色。"
+
+msgid "Calendar day text color"
+msgstr "行事曆日期顏色"
+
+msgid "The color for the day numbers in the calendar."
+msgstr "行事曆上日期顯示的顏色。"
+
+msgid "Small icon"
+msgstr "小圖示"
+
+msgid "The icon which is shown in the calendar."
+msgstr "在行事曆上顯示的圖示。"
+
+msgid "Large icon"
+msgstr "大圖示"
+
+msgid "The icon which is shown in the event and to do lists."
+msgstr "在事件及待辦事項清單顯示的圖示。"
+
+msgid "The color of the text in the lists and tooltip."
+msgstr "提示以及清單的文字顏色"
+
+msgid ""
+"The priority defines which category is shown when there are multiple on the "
+"same day."
+msgstr "優先權定義在同一天有多個事件時何者顯示在上層。"
+
+msgid "Schedule text shadow color"
+msgstr "計劃表文字陰影顏色"
+
+msgid "The text shadow color for the day, week and month views."
+msgstr "日、週、月計劃表的文字陰影顏色。"
+
+msgid "Calendar day text shadow color"
+msgstr "行事曆日期陰影顏色"
+
+msgid "The color for the day numbers' shadow in the calendar."
+msgstr "行事曆上日期顯示的顏色。"
+
+msgid "Text shadow color"
+msgstr "文字陰影顏色"
+
+msgid "The color of the text shadow in the lists and tooltip."
+msgstr "提示以及清單的文字顏色"
+
+msgid "Show date"
+msgstr "顯示日期"
+
+msgid "Check to show also the current date."
+msgstr "勾選為顯示現在日期。"
+
+msgid "This defines the format of the time."
+msgstr "此區定義時間格式。"
+
+msgid "This defines the format of the date."
+msgstr "此區定義日期格式。"
+
+msgid "Search"
+msgstr "搜尋："
+
+msgid "Search engine"
+msgstr "搜尋引擎："
+
+msgid "Choose the search engine"
+msgstr "選擇搜尋引擎"
+
+msgid "Enter search text"
+msgstr "輸入搜尋字串"
+
+msgid "Show title"
+msgstr "顯示標題"
+
+msgid "Check to show a title text."
+msgstr "勾選為顯示標題文字。"
+
+msgid "Title text"
+msgstr "標題文字"
+
+msgid "This defines a title text that is shown above the time."
+msgstr "此區定義顯示在時間上方的標題文字。"
+
+msgid "Weather woeid"
+msgstr "天氣WOEID代碼"
+
+msgid "The Yahoo WOEID for the weather location."
+msgstr "Yahoo天氣的WOEID天氣地區代碼。"
+
+msgid "Weather celsius"
+msgstr "攝氏溫標"
+
+msgid "If checked the temperature is shown in celsius."
+msgstr "勾選以顯示攝氏溫標"
+
+msgid "Bold blue"
+msgstr "亮藍色"
+
+msgid "Turquoise"
+msgstr "綠松色"
+
+msgid "Bold green"
+msgstr "亮綠色"
+
+msgid "Bold red"
+msgstr "亮紅色"
+
+msgid "Purple"
+msgstr "紫色"
+
+msgid "Gray"
+msgstr "灰色"
+
+msgid "No events today"
+msgstr "今天沒有任何事件"
+
+msgid "No tasks today"
+msgstr "今天沒有任何工作"
+
+msgid "Background opacity"
+msgstr "背景透明度"
+
+msgid ""
+"Defines the opacity of the window backgrounds. Use values between 0 and 100."
+msgstr "設定視窗透明度。數值0~100。"
+
+msgid "Snooze menu"
+msgstr "瞌睡選單"
+
+msgid "Pressure: "
+msgstr "氣壓："
+
+msgid "UV index: "
+msgstr "紫外線指數："
+
+msgid "Feels like: "
+msgstr "體感："
+
+msgid "Sunrise: "
+msgstr "日出："
+
+msgid "Sunset: "
+msgstr "日落："
+
+msgid "Tonight"
+msgstr "今晚"
+
+msgid "Menu"
+msgstr "選單"
+
+msgid "Large"
+msgstr "大型"
+
+msgid "Use large images and more space between the items."
+msgstr "使用大圖示並將各物件加大間距"
+
+msgid "Alarm max height"
+msgstr "鬧鈴最大高度"
+
+msgid "Horizontal Day Bar"
+msgstr "水平Day Bar"
+
+msgid "Vertical Day Bar"
+msgstr "垂直Day Bar"
+
+msgid "Day bar show text"
+msgstr "Day Bar顯示文字"
+
+msgid "Uncheck to hide the texts from the events."
+msgstr "取消勾選則為隱藏事件文字。"
+
+msgid "The color of the text in calendar and in the lists."
+msgstr "行事曆以及清單的文字顏色"
+
+msgid "The color of the text in the tooltip."
+msgstr "提示文字顏色"
+
+msgid ""
+"Defines the month that the calendar shows. Set to +1 for the next month, -1 "
+"for the previous month or a value from 0 to 11 for a specific month in the "
+"current year."
+msgstr ""
+"設定行事曆顯示的月份。+1 為下個月，-1 為上個月，或以 0 到 11 指定在今年中的月"
+"份。"
+
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"無法找到現行的面板。\n"
+"點擊【確定】會自動載入第一個可用的面板。"
+
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"此面板沒有任何現行的視窗可用。\n"
+"會以預設視窗來替代。"
+
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"此面板不存在。\n"
+"點擊【確定】會自動載入第一個可用的面板。"
+
+msgid "No items"
+msgstr "無項目"
+
+msgid "No events"
+msgstr "無事件"
+
+msgid "No tasks"
+msgstr "無工作"
+
+msgid "Synchronizing"
+msgstr "同步中"
+
+msgid "Offline"
+msgstr "離線"
+
+msgid "today"
+msgstr "今天得知"
+
+msgid "tomorrow"
+msgstr "明天 | 明日"
+
+msgid "yesterday"
+msgstr "昨天"
+
+msgid "Jan"
+msgstr "一月"
+
+msgid "Feb"
+msgstr "二月"
+
+msgid "Mar"
+msgstr "三月"
+
+msgid "Apr"
+msgstr "四月"
+
+msgid "Jun"
+msgstr "六月"
+
+msgid "Jul"
+msgstr "七月"
+
+msgid "Aug"
+msgstr "八月"
+
+msgid "Sep"
+msgstr "九月"
+
+msgid "Oct"
+msgstr "十月"
+
+msgid "Nov"
+msgstr "十一月"
+
+msgid "Dec"
+msgstr "十二月"
+
+msgid "%ith"
+msgstr "%i"
+
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "11;12;13;1;2;3"
+
+msgid "edit"
+msgstr "編輯"
+
+msgid "Do you want to create the file?"
+msgstr "您確定要建立檔案嗎？"
+
+msgid ""
+"The file does not exist:\n"
+"%s"
+msgstr ""
+"以下檔案不存在：\n"
+"%s"
+
+msgid "Unable to create the file \"%s\"."
+msgstr "無法建立檔案 \"%s\"。"
+
+msgid "This is a read only event."
+msgstr "這是一個唯讀事件。"
+
+msgid "It's not possible to edit this event with Rainlendar."
+msgstr "在 Rainlendar 中無法編輯此事件。"
+
+msgid "This is a read only task."
+msgstr "這是一個唯讀的工作。"
+
+msgid "It's not possible to edit this task with Rainlendar."
+msgstr "在 Rainlendar 中無法編輯此工作。"
+
+msgid "URL"
+msgstr "網址"
+
+msgid "Organizer"
+msgstr "主辦單位"
+
+msgid "Accepted"
+msgstr "已接受"
+
+msgid "Declined"
+msgstr "已拒絕"
+
+msgid "Tentative"
+msgstr "暫定的"
+
+msgid "Needs action"
+msgstr "待處理"
+
+msgid "Create a new calendar"
+msgstr "建立新行事曆"
+
+msgid "Please select the type of the calendar."
+msgstr "請選擇行事曆類型。"
+
+msgid ""
+"The calendar type defines the format of the events and where they are stored."
+msgstr "行事曆類型定義了事件格式和儲存位置。"
+
+msgid "local"
+msgstr "本機檔案"
+
+msgid "deprecated"
+msgstr "停用"
+
+msgid "Type"
+msgstr "類型"
+
+msgid "Go Pro"
+msgstr "升級專業版"
+
+msgid ""
+"Rainlendar Pro allows you to access your Outlook, Google Calendar and other "
+"3rd party calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro 可以讓您直接在桌面使用Outlook, Google Calendar 以及其他第三方"
+"行事曆的事件以及工作項目。"
+
+msgid ""
+"Rainlendar Pro allows you to access your Google Calendar and other 3rd party "
+"calendars and task lists directly from the desktop."
+msgstr ""
+"Rainlendar Pro 可以讓您直接在桌面使用Google Calendar以及其他第三方行事曆的事"
+"件以及工作項目。"
+
+msgid "Buy license"
+msgstr "購買授權"
+
+msgid "See differences"
+msgstr "查看版本差異"
+
+msgid "No calendar selected!"
+msgstr "沒有選擇行事曆！"
+
+msgid "You need to select a calendar type."
+msgstr "您必須選擇一個行事曆類型！"
+
+msgid "Finish the authentication in your browser"
+msgstr "在瀏覽器中完成驗證"
+
+msgid "Authenticating..."
+msgstr "驗證中"
+
+msgid "Downloading..."
+msgstr "下載中 ..."
+
+msgid "No urls allowed!"
+msgstr "沒有允許的網址！"
+
+msgid "Only local files can be defined as the file name."
+msgstr "只有本機檔案能被定義名稱。"
+
+msgid "No UNC paths allowed!"
+msgstr "沒有允許的 UNC 路徑！"
+
+msgid ""
+"It's not possible to use UNC paths as the file name. You need to map the "
+"network drive to be able to access the files on a server."
+msgstr ""
+"無法使用 UNC 路徑為檔案名稱。您需要對應網路磁碟機能夠從一個伺服器存取檔案。"
+
+msgid "No filename defined!"
+msgstr "沒有定義檔案名稱！"
+
+msgid ""
+"You cannot leave the filename field empty. You need to define a file where "
+"the events and tasks will be stored."
+msgstr "您不能讓檔案名稱欄位空白。您必須指定一個用來儲存事件或工作的檔案。"
+
+msgid "The file name is missing."
+msgstr "找不到這個檔案名稱。"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise select an existing iCalendar (*.ics) file."
+msgstr ""
+"若您正在建立一個新的行事曆，您可以輸入任何東西當做它的名稱。或者選擇一個已經"
+"存在的iCalendar(*.ics)檔案。"
+
+msgid "The url is empty!"
+msgstr "網址是空的！"
+
+msgid ""
+"You cannot leave the url field empty. You need to define a file where the "
+"events and tasks will be stored."
+msgstr "您不能讓網址欄位空白。您必須指定一個用來儲存事件或工作的檔案。"
+
+msgid "The protocol is missing!"
+msgstr "找不到通訊協定！"
+
+msgid "Please give also the protocol for the url (e.g. \"http://\")."
+msgstr "請在網址中加入協定名稱（例如： \"http://\"）。"
+
+msgid "The file name is missing from the url!"
+msgstr "找不到網址中的檔案名稱！"
+
+msgid ""
+"If you are creating a new calendar you can enter anything as the name. "
+"Otherwise you should verify that the server really doesn't define any file "
+"for the url.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"若您正在建立一個新的行事曆，您可以輸入任何文字作為它的名稱。您要確定網址沒有"
+"被伺服器上的其他檔案使用。\n"
+"\n"
+"請問您要繼續嗎？"
+
+msgid "Incorrect email!"
+msgstr "錯誤的email！"
+
+msgid "You need to enter a full email address."
+msgstr "您需要輸入完整的電子郵件地址。"
+
+msgid "Please select the calendar."
+msgstr "請選擇行事曆："
+
+msgid "You have not selected any calendar. Are you sure you want to continue?"
+msgstr "您尚未選擇任何行事曆。您確定要繼續？"
+
+msgid "Name"
+msgstr "名稱"
+
+msgid "The calendar already exists!"
+msgstr "行事曆已經存在！"
+
+msgid "Please choose some other name for the calendar."
+msgstr "請重新命名此行事曆。"
+
+msgid "The calendar name is empty!"
+msgstr "行事曆的名稱是空的！"
+
+msgid "You must give a name for the calendar."
+msgstr "您需要為行事曆設定一個名稱。"
+
+msgid "Alarm sound"
+msgstr "鬧鈴音效"
+
+msgid "Select alarm sound"
+msgstr "選擇鬧鈴音效"
+
+msgid "Default sound"
+msgstr "預設音效"
+
+msgid "Preview"
+msgstr "預覽"
+
+msgid "No sound"
+msgstr "無音效"
+
+msgid "Custom sound / executable"
+msgstr "自訂音效／執行檔"
+
+msgid "Browse..."
+msgstr "瀏覽 ..."
+
+msgid "Bulk Change"
+msgstr "批次變更"
+
+msgid "Type:"
+msgstr "類型："
+
+msgid "Summary:"
+msgstr "摘要："
+
+msgid "Location:"
+msgstr "地點："
+
+msgid "Url:"
+msgstr "網址："
+
+msgid "Class:"
+msgstr "類別："
+
+msgid "Time type:"
+msgstr "時間格式："
+
+msgid "With time"
+msgstr "包含時間"
+
+msgid "Start time:"
+msgstr "開始時間："
+
+msgid "Absolute"
+msgstr "絕對時間"
+
+msgid "Relative"
+msgstr "相對時間"
+
+msgid "Months"
+msgstr "月"
+
+msgid "Years"
+msgstr "年"
+
+msgid "Visibility:"
+msgstr "能見度:"
+
+msgid "Show in calendar"
+msgstr "顯示於行事曆"
+
+msgid "Priority:"
+msgstr "優先級："
+
+msgid "Status:"
+msgstr "狀態："
+
+msgid "Not Started"
+msgstr "尚未開始"
+
+msgid "Progress:"
+msgstr "進度："
+
+msgid "0 %"
+msgstr "0 %"
+
+msgid "10 %"
+msgstr "10 %"
+
+msgid "20 %"
+msgstr "20 %"
+
+msgid "30 %"
+msgstr "30 %"
+
+msgid "40 %"
+msgstr "40 %"
+
+msgid "50 %"
+msgstr "50 %"
+
+msgid "60 %"
+msgstr "60 %"
+
+msgid "70 %"
+msgstr "70 %"
+
+msgid "80 %"
+msgstr "80 %"
+
+msgid "90 %"
+msgstr "90 %"
+
+msgid "100 %"
+msgstr "100 %"
+
+msgid "Free/Busy:"
+msgstr "空閒/忙碌："
+
+msgid "Free"
+msgstr "空閒"
+
+msgid "Busy"
+msgstr "忙碌"
+
+msgid "Description:"
+msgstr "描述："
+
+msgid "Alarm:"
+msgstr "鬧鈴："
+
+msgid "Category:"
+msgstr "分類"
+
+msgid "Recurrence:"
+msgstr "循環事件："
+
+msgid "Repeat every"
+msgstr "循環週期"
+
+msgid "Weeks"
+msgstr "週"
+
+msgid "Repeat ending"
+msgstr "重複結束"
+
+msgid "Forever"
+msgstr "永遠"
+
+msgid "Number of times"
+msgstr "次數"
+
+msgid "Until"
+msgstr "直到"
+
+msgid "Debug Window"
+msgstr "除錯視窗"
+
+msgid "Sensitivity:"
+msgstr "通知標準"
+
+msgid "All day event"
+msgstr "全天事件"
+
+msgid "Mark time as busy"
+msgstr "標記為忙碌時間"
+
+msgid "Time zone:"
+msgstr "時區："
+
+msgid "Calendar:"
+msgstr "行事曆:"
+
+msgid "Mon"
+msgstr "一"
+
+msgid "Tue"
+msgstr "二"
+
+msgid "Wed"
+msgstr "三"
+
+msgid "Thu"
+msgstr "四"
+
+msgid "Fri"
+msgstr "五"
+
+msgid "Sat"
+msgstr "六"
+
+msgid "Sun"
+msgstr "日"
+
+msgid "Repeat"
+msgstr "重複"
+
+msgid "End after"
+msgstr "直到循環"
+
+msgid "occurrences"
+msgstr "次"
+
+msgid "Exception dates"
+msgstr "例外日期"
+
+msgid "Add"
+msgstr "增加"
+
+msgid "Show descriptions"
+msgstr "顯示描述"
+
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "當 Rainlendar 啟動時在系統列顯示今日事件"
+
+msgid "Hide list windows if there are no items"
+msgstr "若無任何項目則隱藏視窗。"
+
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "穿透點擊 (按住 Shift 鍵解除)(只在 Windows、Mac 有效)。"
+
+msgid "Lock windows in place"
+msgstr "在目前位置鎖定視窗。"
+
+msgid "Enable on startup"
+msgstr "開機時啟動"
+
+msgid "Hide from taskbar"
+msgstr "在工作列隱藏"
+
+msgid "Use Retina Resolution"
+msgstr "使用Retina分辨率"
+
+msgid "Add years for categories"
+msgstr "每年循環的分類"
+
+msgid "Categories..."
+msgstr "自訂分類..."
+
+msgid "Week's start day:"
+msgstr "每週開始日："
+
+msgid "Position:"
+msgstr "位置："
+
+msgid "Language:"
+msgstr "語言："
+
+msgid "Opacity"
+msgstr "透明度"
+
+msgid "Normal:"
+msgstr "一般："
+
+msgid "Mouse over:"
+msgstr "滑鼠經過時："
+
+msgid "Apply to all windows at the same time"
+msgstr "套用到所有視窗"
+
+msgid "Font Size"
+msgstr "字型大小"
+
+msgid "Size:"
+msgstr "尺寸"
+
+msgid "Duplicate..."
+msgstr "複製到 ..."
+
+msgid "Action:"
+msgstr "動作："
+
+msgid "Hotkey:"
+msgstr "快捷鍵："
+
+msgid "Set"
+msgstr "設定"
+
+msgid "Available skins"
+msgstr "可使用的面板"
+
+msgid "Active skins"
+msgstr "使用中的面板"
+
+msgid "Settings..."
+msgstr "設定 ..."
+
+msgid "All items"
+msgstr "所有項目"
+
+msgid "Selected items"
+msgstr "已選項目"
+
+msgid "Day range"
+msgstr "日期範圍"
+
+msgid "Select days"
+msgstr "選擇日期"
+
+msgid "Add title"
+msgstr "增加標題"
+
+msgid "Preview..."
+msgstr "預覽 ..."
+
+msgid "Page Setup..."
+msgstr "頁面設定 ..."
+
+msgid "Todo"
+msgstr "待辦事項"
+
+msgid "Date only"
+msgstr "只使用日期"
+
+msgid "Comma Separated Values (*.csv)|*.csv"
+msgstr "Comma Separated Values (CSV)檔案 (*.csv)|*.csv"
+
+msgid "Username"
+msgstr "使用者名稱"
+
+msgid "Password"
+msgstr "密碼"
+
+msgid "Calendar name"
+msgstr "行事曆名稱"
+
+msgid "Poll frequency (mins)"
+msgstr "更新頻率（分鐘）"
+
+msgid "Suppress errors"
+msgstr "關閉錯誤顯示"
+
+msgid "Keep offline copy"
+msgstr "保留離線副本"
+
+msgid "Authentication"
+msgstr "驗證"
+
+msgid "Basic"
+msgstr "基本"
+
+msgid "Digest"
+msgstr "摘要"
+
+msgid "GSS-Negotiate"
+msgstr "GSS 驗證"
+
+msgid "NTLM"
+msgstr "NTLM 驗證"
+
+msgid "Support"
+msgstr "支援"
+
+msgid "Automatic"
+msgstr "自動"
+
+msgid "Both"
+msgstr "兩者"
+
+msgid ""
+"Choose a URL, username and password for the calendar and click the select "
+"calendar button.\n"
+"\n"
+"The username and password fields can be left empty if they are not needed."
+msgstr ""
+"為行事曆選擇一個網址、使用者名稱和密碼並按下選擇行事曆按鈕。\n"
+"\n"
+"若無必要，使用者名稱及密碼欄位可空白。"
+
+msgid "Select Calendar"
+msgstr "選擇行事曆"
+
+msgid "CalDAV Error (%s)!"
+msgstr "CalDAV 錯誤 (%s)！"
+
+msgid ""
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"上傳錯誤資料從：\n"
+"%s\n"
+"\n"
+"伺服器傳回訊息: (%i) %i %s."
+
+msgid "Google Error (%s)!"
+msgstr "Google 錯誤 (%s)！"
+
+msgid "Unable to delete the event."
+msgstr "無法刪除事件。"
+
+msgid "Server returned result: (%i) %i %s."
+msgstr "伺服器回傳結果：(%i) %i %s。"
+
+msgid "Unable to read the calendars from the server."
+msgstr "無法從伺服器讀取行事曆。"
+
+msgid "Unable to authenticate to the server."
+msgstr "無法驗證伺服器。"
+
+msgid ""
+"Unable to find the chosen calendar (%s).\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"無法找到指定的行事曆(%s).\n"
+"\n"
+"可使用的行事曆為：\n"
+
+msgid "Failed to read the calendar from the server."
+msgstr "無法從伺服器讀取行事曆。"
+
+msgid ""
+"Authentication failed. Verify that you have entered correct username and "
+"password."
+msgstr "驗證失敗。請確認是否輸入正確的使用者名稱及密碼。"
+
+msgid ""
+"Verify also that you are using application specific password for Rainlendar."
+msgstr "確認使用在Rainlendar上的應用程式密碼"
+
+msgid ""
+"Unable to connect to the server. Make sure your network connection is "
+"working."
+msgstr "無法連線到伺服器。請確認您有連線到網際網路。"
+
+msgid "The url \"%s\" does not contain any calendars."
+msgstr "連結 \"%s\" 沒有任何行事曆。"
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s"
+msgstr ""
+"下載資料錯誤從：\n"
+"%s"
+
+msgid ""
+"Make sure that your network is working and that your firewall is not "
+"blocking the connection."
+msgstr "確定您的網路有作用且連線沒有被您的防火牆阻擋。"
+
+msgid ""
+"Unable to resolve the proxy. Verify that your proxy settings are correct."
+msgstr "找不到代理伺服器。請確定您的代理伺服器設定是否正確。"
+
+msgid "Unable to resolve the host."
+msgstr "無法找到主機。"
+
+msgid "Unable to connect to the server."
+msgstr "無法連接到伺服器。"
+
+msgid "Secure connection (SSL) to the server failed."
+msgstr "伺服器無法建立安全連線(SSL)。"
+
+msgid "FALSE"
+msgstr "失敗"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Ignore private events"
+msgstr "忽略私人事件"
+
+msgid "Import limit"
+msgstr "匯入限制"
+
+msgid "Everything"
+msgstr "全部"
+
+msgid "Future only"
+msgstr "只有未來"
+
+msgid "Past month"
+msgstr "過去一個月"
+
+msgid "Past 6 months"
+msgstr "過去六個月"
+
+msgid "Past year"
+msgstr "過去一年"
+
+msgid "Past 2 years"
+msgstr "過去兩年"
+
+msgid "Delete notifications"
+msgstr "刪除通知"
+
+msgid "External Only"
+msgstr "僅限外部"
+
+msgid "Future Only"
+msgstr "僅限未來"
+
+msgid "Color mapping"
+msgstr "活動顏色對應分類"
+
+msgid ""
+"Enter your Google account email address and click the \"Select calendar\" "
+"button and choose the calendar you want to access."
+msgstr ""
+"輸入您Google帳戶的電子郵件地址，按下\"選擇行事曆\"按鈕選擇您要匯入的行事曆。"
+
+msgid "Select calendar"
+msgstr "選擇行事曆"
+
+msgid "Unable to read the calendars."
+msgstr "無法讀取行事曆"
+
+msgid "Authentication failed."
+msgstr "驗證失敗"
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"無法驗證 Google.\n"
+"請確認您的電子郵件\n"
+"以及密碼是否正確."
+
+msgid ""
+"The event cannot be uploaded because the target calendar hasn't been defined."
+msgstr "事件無法被上傳，因為目標行事曆沒有被定義。"
+
+msgid "Google Calendar Error (%s)!"
+msgstr "Google日曆錯誤 (%s)！"
+
+msgid ""
+"Unable to authenticate to Google. The 2-step verification is enabled for "
+"your account so you need to create an application specific password for "
+"Rainlendar. You can do this in the Google account settings under the \"2-"
+"step verification\"."
+msgstr ""
+"無法驗證Google。您的帳號已啟用兩步驟驗證機制，您必須為Rainlendar設定一組應用"
+"程式專用密碼。您可以在Google帳戶設定中的\"兩步驟驗證機制\"中進行設定。"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
+"might have been revoked. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr ""
+"無法驗證Google。Rainlendar使用Google日曆的授權可能已遭到撤銷。請到設定→行事曆"
+"中重新驗證無法使用的行事曆。"
+
+msgid ""
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"無法驗證Google.\n"
+"伺服器傳回訊息: (%i) %i %s."
+
+msgid ""
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"無法下載行事曆.\n"
+"伺服器傳回訊息: (%i) %i %s."
+
+msgid "Unable to parse the calendar url."
+msgstr "無法解析行事曆網址，"
+
+msgid ""
+"It seems that you have entered a URL as the calendar name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"您可能輸入了一個網址作為行事曆名稱。\n"
+"您需要用下列的名稱來替換：\n"
+
+msgid "Unable to delete the event: "
+msgstr "無法刪除事件："
+
+msgid ""
+"The event cannot be uploaded to the Google Calendar due to a conflict. The "
+"updated event will be reloaded from the Google Calendar."
+msgstr ""
+"由於發生衝突，所以這個事件無法上傳到Google Calendar。更新後的事件將從Google "
+"Calendar重新讀取。"
+
+msgid "Unable to parse the events."
+msgstr "無法解析事件。"
+
+msgid "Unable to upload the event: "
+msgstr "無法上傳事件："
+
+msgid "Task list name"
+msgstr "工作清單名稱"
+
+msgid ""
+"Enter your Google account email address and click the \"Select task list\" "
+"button and choose the task list you want to access."
+msgstr ""
+"輸入您Google帳戶的電子郵件地址，按下\"選擇工作表\"按鈕選擇您要匯入的工作表。"
+
+msgid "Select task list"
+msgstr "選擇工作表"
+
+msgid "Unable to read the task lists."
+msgstr "無法讀取工作表。"
+
+msgid ""
+"The task cannot be uploaded because the target task list hasn't been defined."
+msgstr "工作無法被上傳，因為目標行事曆沒有被定義。"
+
+msgid "Google Tasks Error (%s)!"
+msgstr "Google工作表錯誤 (%s)！"
+
+msgid ""
+"Unable to authenticate to Google. Rainlendar's access to the Google Task "
+"list might have been revoked. Please refresh the calendar and authenticate "
+"Rainlendar again to your Google account."
+msgstr ""
+"無法驗證Google。Rainlendar使用Google工作表的許可可能已遭到撤銷。請重新讀取行"
+"事曆並重新驗證你的Google帳戶。"
+
+msgid ""
+"Unable to download the task lists.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"無法下載工作表.\n"
+"伺服器傳回訊息: (%i) %i %s."
+
+msgid "Unable to parse the task list url."
+msgstr "無法解析工作表網址。"
+
+msgid ""
+"It seems that you have entered a URL as the task list name.\n"
+"You need to use one of the names below instead:\n"
+msgstr ""
+"您可能輸入了一個網址作為工作表名稱。\n"
+"您需要用下列的名稱來替換：\n"
+
+msgid ""
+"Unable to find the chosen task list (%s).\n"
+"\n"
+"Available lists are:\n"
+msgstr ""
+"無法找到指定的工作表(%s)。\n"
+"\n"
+"可使用的工作表為：\n"
+
+msgid "Unable to delete the task: "
+msgstr "無法刪除工作："
+
+msgid ""
+"The task cannot be uploaded to the Google Tasks due to a conflict. The "
+"updated task will be reloaded from the Google Tasks."
+msgstr ""
+"由於發生衝突，所以這個工作無法上傳到Google工作表。更新後的工作將從Google工作"
+"表重新讀取。"
+
+msgid "Unable to upload the task: "
+msgstr "無法上傳工作："
+
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar 檔案 (*.ini)|*.ini"
+
+msgid "Safe upload"
+msgstr "安全上傳"
+
+msgid ""
+"Choose a URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password "
+"fields can be left empty if they are not needed."
+msgstr ""
+"為行事曆選擇一個網址、使用者名稱和密碼。\n"
+"\n"
+"網址可為 HTTP、HTTPS 或 FTP 傳輸協定。如不需要使用者名稱和密碼可空白。"
+
+msgid "Network Error (%s)!"
+msgstr "網路連線錯誤 (%s)！"
+
+msgid "Unable to add the item to the online calendar."
+msgstr "無法增加項目至線上行事曆。"
+
+msgid "Unable to remove the item from the online calendar."
+msgstr "無法從線上行事曆移除項目。"
+
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"無法解析檔案：%s\n"
+"檔案可能毀損。"
+
+msgid ""
+"The server returned an empty result. Make sure that the calendar url points "
+"to a file and not to a folder."
+msgstr ""
+"伺服器回傳一個空的結果。請確定該行事曆網址是指向一個檔案而非一個資料夾。"
+
+msgid ""
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"下載資料錯誤從：\n"
+"%s\n"
+"\n"
+"伺服器傳回訊息: (%i) %i %s."
+
+msgid "Downloaded event count"
+msgstr "已下載事件數"
+
+msgid "Office 365"
+msgstr "Office 365"
+
+msgid ""
+"Enter your Office 365 account email address and click the \"Select calendar"
+"\" button and choose the calendar you want to access."
+msgstr ""
+"輸入您Office 365帳戶的電子郵件地址，按下\"選擇行事曆\"按鈕選擇您要匯入的行事"
+"曆。"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"無法驗證Office 365帳戶\n"
+"請確認您的電子郵件\n"
+"以及密碼是否正確。"
+
+msgid "Office365 Error (%s)!"
+msgstr "Office 365 錯誤 (%s)！"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"無法驗證Office 365帳戶。Rainlendar使用 Office 365 的授權可能已遭到撤銷。請重"
+"新讀取行事曆並重新驗證您的 Office 365 帳戶。"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"無法驗證Office 365帳戶。\n"
+"伺服器傳回訊息: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr "由於發生衝突，所以這個事件無法上傳。更新後的事件將從伺服器重新讀取。"
+
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library.\n"
+"\n"
+"If you have upgraded Rainlendar or Outlook you need to recreate the Outlook "
+"calendar in Rainlendar's options.\n"
+"\n"
+"Make also sure you are using the same versions (32bit vs. 64bit) of both "
+"applications."
+msgstr ""
+"Outlook 錯誤!\n"
+"無法初始化 MAPI 程式庫。\n"
+"\n"
+"如果您已經升級 Rainlendar 或 Outlook，您必須在Rainlendar 的設定中重新建立"
+"Outlook行事曆。\n"
+"\n"
+"並確定您使用軟體為相同的版本(32位元 或 64位元)。"
+
+msgid "Application"
+msgstr "應用程式"
+
+msgid "Profile"
+msgstr "設定檔"
+
+msgid "MessageStore"
+msgstr "儲存訊息"
+
+msgid "Folders"
+msgstr "資料夾"
+
+msgid "Default Folder"
+msgstr "預設資料夾"
+
+msgid "Use labels instead of categories"
+msgstr "使用標籤代替分類"
+
+msgid "Show edit links"
+msgstr "顯示編輯連結"
+
+msgid "Keep MAPI connection alive"
+msgstr "保持 MAPI 連接"
+
+msgid "Month"
+msgstr "1個月"
+
+msgid "6 months"
+msgstr "6個月"
+
+msgid "Year"
+msgstr "1年"
+
+msgid "2 years"
+msgstr "2年"
+
+msgid "Read birthdays from contacts"
+msgstr "查詢聯絡人的生日"
+
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "在 Rainlendar 上選擇您要的 Outlook 儲存訊息。"
+
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][編輯]]"
+
+msgid "Outlook error!"
+msgstr "Outlook 錯誤！"
+
+msgid "Failed to read the Outlook items from \"%s\". See log for more details."
+msgstr "無法讀取來自 \"%s\" 的Outlook項目。請檢查記錄檔以獲取更多資訊。"
+
+msgid "Updating the item failed. Error code 0x%p"
+msgstr "上傳項目失敗。錯誤代碼 0x%p"
+
+msgid ""
+"Failed to write the Outlook item. There are no folders available where it "
+"could be stored."
+msgstr "無法寫入Outlook項目。沒有可用的資料夾存放資料。"
+
+msgid "Unable to delete the item. Error code 0x%p"
+msgstr "無法刪除項目。錯誤代碼 0x%p"
+
+msgid "Unable to find the Remember The Milk task list!"
+msgstr "找不到Rememer The Milk 中的工作清單！"
+
+msgid "The list \"%s\" could not be found. Available lists are:"
+msgstr "找不到清單 \"%s\" 。可得的清單有："
+
+msgid "Please write the name exactly like it is in the above list."
+msgstr "請輸入如在上面清單中的所示的完整名稱。"
+
+msgid "Unable to parse the ID from the task."
+msgstr "無法從工作項目解析ID。"
+
+msgid "Unable to create the task."
+msgstr "無法建立此工作。"
+
+msgid "Unable to parse the timeline."
+msgstr "無法解析時間軸。"
+
+msgid "The service is temporarily unavailable."
+msgstr "這個服務暫時無法使用。"
+
+msgid "Please log in to Remember The Milk."
+msgstr "請登入到Remember The Milk。"
+
+msgid ""
+"You need to authorize Rainlendar to access your Remember The Milk account. "
+"Please log in to the Remember The Milk web site and give Rainlendar access "
+"to your account.\n"
+"\n"
+"Your default web browser will open automatically when you click the OK "
+"button."
+msgstr ""
+"您必須認證Rainlendar以存取您的Remember The Milk 帳戶。請登入到Remember The "
+"Milk 網站且讓 Rainlendar 存取您的帳戶。\n"
+"\n"
+"當您按下確定按鈕，您的預設網路瀏覽器將會自動開啟。"
+
+msgid "Continue after authorization."
+msgstr "認證後繼續。"
+
+msgid "Click the OK button to continue after you have authorized Rainlendar."
+msgstr "若您已經認證Rainlendar，按下確定按鈕繼續。"
+
+msgid "Unable to parse the output."
+msgstr "無法解析輸出。"
+
+msgid "Unknown response for call \"%s\"."
+msgstr "呼叫 \"%s\" 時得到不明回應。"
+
+msgid ""
+"Call \"%s\" failed:\n"
+"%s"
+msgstr ""
+"呼叫 \"%s\" 失敗：\n"
+"%s"
+
+msgid "Call to method \"%s\" failed."
+msgstr "呼叫方法 \"%s\" 時失敗。"
+
+msgid "Remember The Milk Error (%s)!"
+msgstr "Remember The Milk 錯誤 (%s)！"
+
+msgid "List"
+msgstr "待辦事項清單"
+
+msgid ""
+"Choose the name of the task list from the Remember The Milk. You can also "
+"leave the field empty if you want to get all your lists."
+msgstr ""
+"選擇 Remember The Milk 的工作清單名稱。如果您想要取得全部的清單則空白。"
+
+msgid ""
+"Authentication token is missing. You need to give Rainlendar access to your "
+"Remember The Milk account."
+msgstr ""
+"找不到認證碼(authentication token)。您必須讓 Rainlendar 存取您的 Remember "
+"The Milk 帳戶。"
+
+msgid ""
+"Unable to find folder \"%s\".\n"
+"\n"
+"The available folders are:"
+msgstr ""
+"無法找到資料夾 \"%s\"。\n"
+"\n"
+"可使用的資料夾為："
+
+msgid "Toodledo Error (%s)!"
+msgstr "Toodledo 錯誤 (%s)!"
+
+msgid "Folder"
+msgstr "資料夾"
+
+msgid "Poll for changes"
+msgstr "監視變更"
+
+msgid "Please enter your email address and password for Toodledo."
+msgstr "請輸入您Toodledo的電子郵件地址及密碼"
+
+msgid "Unable to open file \"%s\" for writing."
+msgstr "無法開啟 \"%s\" 檔案進行寫入。"
+
+msgid "Filename"
+msgstr "檔案名稱"
+
+msgid "Monitor changes"
+msgstr "監視變更"
+
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a "
+"new file will be created."
+msgstr ""
+"為行事曆選擇一個檔案。\n"
+"\n"
+"您可以選擇現有的 ICS 檔案或輸入一個新路徑來建立新檔案。"
+
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar 檔案 (*.ics)|*.ics|vCalendar 檔案 (*.vcs)|*.vcs"
+
+msgid ""
+"The path to the calendar file \"%s\" does not exits. Go to Options-"
+">Calendars and verify that the location of the file is correctly set."
+msgstr "行事曆檔案不存在 \"%s\"，前往設定→行事曆，並確認檔案路徑是否設定正確。"
+
+msgid "Unable to make a temporary copy of the file \"%s\"."
+msgstr "無法建立暫存檔案 \"%s\"。"
+
+msgid "Unable to replace the file \"%s\"."
+msgstr "無法取代檔案 \"%s\"。"

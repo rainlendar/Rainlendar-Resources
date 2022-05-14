@@ -1,0 +1,1911 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cherokee (Tsalagi) Language\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-01-06 13:22-0500\n"
+"Last-Translator: CSmyre <luthersmyre@strawberryplains.net>\n"
+"Language-Team: SchmeyerWare <luthersmyre@strawberryplains.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Cherokee\n"
+"X-Poedit-Country: UNITED STATES\n"
+
+#: Application/Config.cpp:568
+#: Application/Rainlendar.cpp:984
+#: Application/Rainlendar.cpp:995
+#: Application/Rainlendar.cpp:1108
+#: Plugins/OutlookPlugin/MapiHandler.cpp:388
+msgid "Default"
+msgstr ""
+
+#: Application/Config.cpp:574
+msgid "Copy"
+msgstr "Ditlilostanv"
+
+#: Application/Config.cpp:575
+msgid "Region"
+msgstr "Utanidi gadohi"
+
+#: Application/Config.cpp:577
+msgid "Native"
+msgstr "Nayehiya"
+
+#: Application/Config.cpp:586
+#: Application/Util.cpp:767
+msgid "Sunday"
+msgstr "Unadodaquasgv"
+
+#: Application/Config.cpp:587
+#: Application/Util.cpp:770
+msgid "Monday"
+msgstr "Unadodaquonvhi"
+
+#: Application/Config.cpp:588
+#: Application/Util.cpp:773
+msgid "Tuesday"
+msgstr "Taline iga"
+
+#: Application/Config.cpp:589
+#: Application/Util.cpp:776
+msgid "Wednesday"
+msgstr "Tsoine iga"
+
+#: Application/Config.cpp:590
+#: Application/Util.cpp:779
+msgid "Thursday"
+msgstr "Nvgine iga"
+
+#: Application/Config.cpp:591
+#: Application/Util.cpp:782
+msgid "Friday"
+msgstr "Tsunagilosdi"
+
+#: Application/Config.cpp:592
+#: Application/Util.cpp:785
+msgid "Saturday"
+msgstr "Unadodaquidena"
+
+#: Application/Config.cpp:595
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogPrint.cpp:313
+#: Application/WindowTooltip.cpp:195
+msgid "Start"
+msgstr "Anigisdi"
+
+#: Application/Config.cpp:596
+#: Application/DialogManager.cpp:815
+#: Application/DialogPrint.cpp:343
+#: Application/WindowTooltip.cpp:205
+msgid "Due"
+msgstr "Usqualvhv"
+
+#: Application/Config.cpp:597
+#: Application/DialogManager.cpp:815
+#: Application/WindowTooltip.cpp:216
+msgid "Priority"
+msgstr ""
+
+#: Application/Config.cpp:598
+#: Application/DialogManager.cpp:815
+#: Application/ItemListTodo.cpp:775
+#: Application/WindowTooltip.cpp:228
+#: Application/Resource.h:245
+msgid "Status"
+msgstr "Nusdidanv"
+
+#: Application/Config.cpp:602
+#: Application/DialogOptions.cpp:77
+#: Application/DialogSkinSettings.cpp:55
+#: Application/res/options.cpp:1
+msgid "General"
+msgstr "Nigav"
+
+#: Application/Config.cpp:629
+#: Application/DialogOptions.cpp:513
+msgid "Tooltip"
+msgstr ""
+
+#: Application/Config.cpp:635
+msgid "TodoList"
+msgstr ""
+
+#: Application/Config.cpp:640
+msgid "EventList"
+msgstr "Nidegalistanidohv"
+
+#: Application/Config.cpp:657
+#: Application/res/manager.cpp:1
+msgid "Manager"
+msgstr "Adanvtelidohi"
+
+#: Application/ControlWindow.cpp:197
+msgid "About"
+msgstr "Gvwaduwidv"
+
+#: Application/ControlWindow.cpp:198
+#: Application/DialogOptions.cpp:104
+msgid "Help"
+msgstr "Alisdelvdi"
+
+#: Application/ControlWindow.cpp:200
+#: Application/ItemCalendar.cpp:204
+#: Application/ItemListEvent.cpp:346
+msgid "New event"
+msgstr "Itse Nigalistanidohv"
+
+#: Application/ControlWindow.cpp:201
+#: Application/ItemListTodo.cpp:792
+msgid "New task"
+msgstr "Itse Iyadvnedi ahv"
+
+#: Application/ControlWindow.cpp:223
+#: Application/DialogOptions.cpp:515
+#: Application/DialogOptions.cpp:1061
+msgid "Windows"
+msgstr "Ditsolanv"
+
+#: Application/ControlWindow.cpp:241
+#: Application/DialogComponent.cpp:505
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogOptions.cpp:79
+#: Application/DropTarget.cpp:240
+#: Application/res/event.cpp:15
+#: Application/res/options.cpp:18
+#: Application/res/todo.cpp:39
+msgid "Calendars"
+msgstr "Nvdodisedi"
+
+#: Application/ControlWindow.cpp:244
+msgid "Current Month\tHome"
+msgstr ""
+
+#: Application/ControlWindow.cpp:245
+msgid "Next Month\tRight"
+msgstr ""
+
+#: Application/ControlWindow.cpp:246
+msgid "Prev Month\tLeft"
+msgstr ""
+
+#: Application/ControlWindow.cpp:247
+msgid "Next Year\tUp"
+msgstr ""
+
+#: Application/ControlWindow.cpp:248
+msgid "Previous Year\tDown"
+msgstr ""
+
+#: Application/ControlWindow.cpp:250
+#, c-format
+msgid "January %s\tCtrl-F1"
+msgstr "Unolvtani %s\tCtrl-F1"
+
+#: Application/ControlWindow.cpp:251
+#, c-format
+msgid "February %s\tCtrl-F2"
+msgstr "Kagali %s\tCtrl-F2"
+
+#: Application/ControlWindow.cpp:252
+#, c-format
+msgid "March %s\tCtrl-F3"
+msgstr "Anayilisv %s\tCtrl-F3"
+
+#: Application/ControlWindow.cpp:253
+#, c-format
+msgid "April %s\tCtrl-F4"
+msgstr "Guwoni %s\tCtrl-F4"
+
+#: Application/ControlWindow.cpp:254
+#, c-format
+msgid "May %s\tCtrl-F5"
+msgstr "Anasgvti %s\tCtrl-F5"
+
+#: Application/ControlWindow.cpp:255
+#, c-format
+msgid "June %s\tCtrl-F6"
+msgstr "Dehaluyi %s\tCtrl-F6"
+
+#: Application/ControlWindow.cpp:256
+#, c-format
+msgid "July %s\tCtrl-F7"
+msgstr "Guyequoni %s\tCtrl-F7"
+
+#: Application/ControlWindow.cpp:257
+#, c-format
+msgid "August %s\tCtrl-F8"
+msgstr "Galoni %s\tCtrl-F8"
+
+#: Application/ControlWindow.cpp:258
+#, c-format
+msgid "September %s\tCtrl-F9"
+msgstr "Dulisdi %s\tCtrl-F9"
+
+#: Application/ControlWindow.cpp:259
+#, c-format
+msgid "October %s\tCtrl-F10"
+msgstr "Duninodi %s\tCtrl-F10"
+
+#: Application/ControlWindow.cpp:260
+#, c-format
+msgid "November %s\tCtrl-F11"
+msgstr "Nvdadequa %s\tCtrl-F11"
+
+#: Application/ControlWindow.cpp:261
+#, c-format
+msgid "December %s\tCtrl-F12"
+msgstr "Vsgiyi %s\tCtrl-F12"
+
+#: Application/ControlWindow.cpp:263
+msgid "Choose month"
+msgstr "Asuyesdi Sinvdo"
+
+#: Application/ControlWindow.cpp:265
+#: Application/Resource.h:224
+msgid "Refresh"
+msgstr ""
+
+#: Application/ControlWindow.cpp:266
+msgid "Options..."
+msgstr ""
+
+#: Application/ControlWindow.cpp:267
+msgid "Manager..."
+msgstr "Adanvtelidohi..."
+
+#: Application/ControlWindow.cpp:281
+msgid "Exit"
+msgstr ""
+
+#: Application/ControlWindow.cpp:568
+#, c-format
+msgid ""
+"This is a recurring item:\n"
+"%s\n"
+"\n"
+"Do you want to delete just this instance?\n"
+"(Select No to delete whole pattern)"
+msgstr ""
+
+#: Application/ControlWindow.cpp:589
+#, c-format
+msgid ""
+"Do you want to delete this item?\n"
+"%s"
+msgstr ""
+
+#: Application/ControlWindow.cpp:600
+msgid "Do you want to delete these items?"
+msgstr ""
+
+#: Application/DialogAbout.cpp:47
+#: Application/DialogOptions.cpp:587
+msgid "Version"
+msgstr ""
+
+#: Application/DialogAbout.cpp:55
+msgid "Build on"
+msgstr ""
+
+#: Application/DialogAbout.cpp:60
+msgid "Developed by"
+msgstr ""
+
+#: Application/DialogAbout.cpp:68
+msgid "Licensed to"
+msgstr ""
+
+#: Application/DialogAbout.cpp:75
+msgid "Plugins"
+msgstr ""
+
+#: Application/DialogAbout.cpp:94
+msgid "Links"
+msgstr ""
+
+#: Application/DialogAbout.cpp:96
+#: Application/HotkeyControl.cpp:185
+msgid "Home"
+msgstr "Owenvsv"
+
+#: Application/DialogAbout.cpp:99
+msgid "FAQ"
+msgstr "Didvdvhvsgi"
+
+#: Application/DialogAbout.cpp:102
+msgid "Forum"
+msgstr ""
+
+#: Application/DialogAbout.cpp:108
+msgid "Icons by"
+msgstr ""
+
+#: Application/DialogAbout.cpp:118
+msgid "Copyrights"
+msgstr ""
+
+#: Application/DialogAbout.cpp:139
+msgid "About Rainlendar..."
+msgstr "Gvwaduwidv Rainlendar..."
+
+#: Application/DialogAbout.cpp:151
+msgid "Please wait..."
+msgstr "Agatidisdi Howatsu..."
+
+#: Application/DialogAbout.cpp:164
+msgid "Unknown response from the server."
+msgstr ""
+
+#: Application/DialogAbout.cpp:193
+#, c-format
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+
+#: Application/DialogAbout.cpp:201
+msgid "No updates available."
+msgstr ""
+
+#: Application/DialogAbout.cpp:210
+msgid "Unable to connect to the server."
+msgstr ""
+
+#: Application/DialogAbout.cpp:215
+#: Application/res/about.cpp:1
+msgid "Check for update"
+msgstr ""
+
+#: Application/DialogAlarm.cpp:32
+msgid "Sound files (*.wav)|*.wav"
+msgstr "Unoyvgv Datlavi (*.wav)|*.wav"
+
+#: Application/DialogComponent.cpp:505
+msgid "Select the calendars:"
+msgstr ""
+
+#: Application/DialogComponent.cpp:557
+msgid "Select the categories:"
+msgstr ""
+
+#: Application/DialogComponent.cpp:557
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/res/event.cpp:16
+#: Application/res/todo.cpp:40
+msgid "Categories"
+msgstr ""
+
+#: Application/DialogComponent.cpp:704
+msgid "Unable to find any calendar handlers for the event. The event was not saved."
+msgstr ""
+
+#: Application/DialogComponent.cpp:920
+#, c-format
+msgid "On the %s day of the month"
+msgstr ""
+
+#: Application/DialogComponent.cpp:928
+msgid "first"
+msgstr "Igvyi"
+
+#: Application/DialogComponent.cpp:932
+msgid "second"
+msgstr "Taline"
+
+#: Application/DialogComponent.cpp:936
+msgid "third"
+msgstr "Tsoine"
+
+#: Application/DialogComponent.cpp:940
+msgid "fourth"
+msgstr "Nvgine"
+
+#: Application/DialogComponent.cpp:944
+msgid "fifth"
+msgstr "Hisgine"
+
+#: Application/DialogComponent.cpp:946
+#, c-format
+msgid "On the %s %s of the month"
+msgstr ""
+
+#: Application/DialogComponent.cpp:953
+#, c-format
+msgid "On the last %s of the month"
+msgstr ""
+
+#: Application/DialogComponent.cpp:962
+msgid "On the first weekday of the month"
+msgstr ""
+
+#: Application/DialogComponent.cpp:971
+msgid "On the last weekday of the month"
+msgstr ""
+
+#: Application/DialogComponent.cpp:978
+msgid "On the last day of the month"
+msgstr ""
+
+#: Application/DialogManager.cpp:196
+#: Application/DialogManager.cpp:250
+msgid "Choose a file"
+msgstr "Asuyesdi Atlavi"
+
+#: Application/DialogManager.cpp:209
+msgid "Import failed!"
+msgstr ""
+
+#: Application/DialogManager.cpp:268
+msgid "Export failed!"
+msgstr ""
+
+#: Application/DialogManager.cpp:335
+msgid "Do you want to delete the selected item(s)?"
+msgstr ""
+
+#: Application/DialogManager.cpp:444
+#: Application/DialogManager.cpp:525
+msgid "Archive (*.zip)|*.zip"
+msgstr ""
+
+#: Application/DialogManager.cpp:445
+#: Application/DialogManager.cpp:524
+msgid "Choose the backup path"
+msgstr ""
+
+#: Application/DialogManager.cpp:581
+msgid "Restore was succesful."
+msgstr ""
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogPrint.cpp:329
+#: Application/HotkeyControl.cpp:183
+msgid "End"
+msgstr "Ulisdv"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogOptions.cpp:512
+#: Application/ItemListAlarm.cpp:221
+#: Application/res/event.cpp:9
+#: Application/res/todo.cpp:33
+msgid "Alarm"
+msgstr "Adasgasdanedi"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+msgid "Summary"
+msgstr ""
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+msgid "Recurring"
+msgstr ""
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogPrint.cpp:301
+msgid "Location"
+msgstr "Galuhisdi"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogOptions.cpp:644
+msgid "Description"
+msgstr "Nusdv dikanodi"
+
+#: Application/DialogManager.cpp:795
+#: Application/res/event.cpp:1
+#: Application/res/event.cpp:2
+msgid "Event"
+msgstr "Nigalistanidohv"
+
+#: Application/DialogManager.cpp:802
+msgid "New Event..."
+msgstr "Itse Nigalistanidohv..."
+
+#: Application/DialogManager.cpp:824
+#: Application/res/todo.cpp:1
+#: Application/res/todo.cpp:2
+msgid "Todo"
+msgstr ""
+
+#: Application/DialogManager.cpp:831
+msgid "New Todo..."
+msgstr "Itse Iyadvnedi ahv..."
+
+#: Application/DialogManager.cpp:1000
+msgid "Single"
+msgstr "Siyvwi"
+
+#: Application/DialogManager.cpp:1033
+#: Application/DialogSkinSettings.cpp:80
+#: Application/ItemListTodo.cpp:593
+#: Application/res/todo.cpp:9
+#: Application/res/todo.cpp:10
+msgid "None"
+msgstr "Kanigidv"
+
+#: Application/DialogManager.cpp:1037
+#: Application/ItemListTodo.cpp:605
+#: Application/res/todo.cpp:13
+msgid "High"
+msgstr "Galvladi"
+
+#: Application/DialogManager.cpp:1041
+#: Application/ItemListTodo.cpp:601
+#: Application/res/todo.cpp:12
+msgid "Medium"
+msgstr "Ayelique iyv"
+
+#: Application/DialogManager.cpp:1066
+#: Application/ItemListTodo.cpp:331
+#: Application/ItemListTodo.cpp:617
+#: Application/ItemListTodo.cpp:774
+#: Application/res/todo.cpp:19
+msgid "Cancelled"
+msgstr ""
+
+#: Application/DialogManager.cpp:1086
+#: Application/res/todo.cpp:15
+#: Application/res/todo.cpp:16
+msgid "Not Started"
+msgstr ""
+
+#: Application/DialogOptions.cpp:42
+msgid "Options"
+msgstr ""
+
+#: Application/DialogOptions.cpp:81
+msgid "Skins"
+msgstr ""
+
+#: Application/DialogOptions.cpp:84
+#: Application/res/options.cpp:22
+msgid "Hotkeys"
+msgstr ""
+
+#: Application/DialogOptions.cpp:87
+msgid "Advanced"
+msgstr ""
+
+#: Application/DialogOptions.cpp:109
+#: Application/DialogSkinSettings.cpp:28
+#: Application/res/alarm.cpp:4
+#: Application/res/event.cpp:37
+#: Application/res/todo.cpp:61
+msgid "OK"
+msgstr "Howa"
+
+#: Application/DialogOptions.cpp:113
+#: Application/DialogSkinSettings.cpp:31
+#: Application/res/alarm.cpp:5
+#: Application/res/event.cpp:38
+#: Application/res/todo.cpp:62
+msgid "Cancel"
+msgstr "Asehisdi"
+
+#: Application/DialogOptions.cpp:276
+msgid "Get more languages..."
+msgstr ""
+
+#: Application/DialogOptions.cpp:434
+msgid "Get more skins..."
+msgstr ""
+
+#: Application/DialogOptions.cpp:514
+#: Application/DialogOptions.cpp:792
+#: Application/DialogOptions.cpp:1061
+msgid "TrayIcon"
+msgstr ""
+
+#: Application/DialogOptions.cpp:597
+msgid "Author"
+msgstr "Goweli gowlisgi"
+
+#: Application/DialogOptions.cpp:612
+msgid "Homepage"
+msgstr ""
+
+#: Application/DialogOptions.cpp:630
+msgid "This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr ""
+
+#: Application/DialogOptions.cpp:640
+msgid "Window"
+msgstr "Tsolanv"
+
+#: Application/DialogOptions.cpp:642
+msgid "Variable"
+msgstr ""
+
+#: Application/DialogOptions.cpp:697
+#: Application/res/options.cpp:33
+msgid "Advanced >>>"
+msgstr ""
+
+#: Application/DialogOptions.cpp:701
+msgid "<<< Simple"
+msgstr "<<< Nutsosdvna"
+
+#: Application/DialogOptions.cpp:1103
+msgid "Hotkey"
+msgstr ""
+
+#: Application/DialogOptions.cpp:1104
+msgid "Function"
+msgstr "Uyanadvnedi"
+
+#: Application/DialogOptions.cpp:1188
+msgid "IMPORTANT! Read the documentation before changing these settings. It's possible to make Rainlendar inoperable if you just randomly change the values. Consider yourself warned!"
+msgstr ""
+
+#: Application/DialogOptions.cpp:1195
+msgid "Reset All Settings"
+msgstr ""
+
+#: Application/DialogOptions.cpp:1208
+msgid ""
+"This will reset all settings to default values.\n"
+"The default settings are applied immediately.\n"
+"Do you want to continue?"
+msgstr ""
+
+#: Application/DialogOptions.cpp:1278
+msgid "Common"
+msgstr "Tsutsataquu"
+
+#: Application/DialogOptions.cpp:1279
+#: Application/DialogOptions.cpp:1418
+msgid "Enabled"
+msgstr "Yli iyulistanv"
+
+#: Application/DialogOptions.cpp:1292
+#: Application/DialogOptions.cpp:1422
+msgid "Visual category"
+msgstr ""
+
+#: Application/DialogPrint.cpp:55
+msgid "Print items"
+msgstr ""
+
+#: Application/DialogSkinSettings.cpp:56
+#: Application/DialogSkinSettings.cpp:110
+msgid "Visible"
+msgstr "Gvgowadvdi"
+
+#: Application/DialogSkinSettings.cpp:57
+#: Application/DialogSkinSettings.cpp:111
+msgid "Scale"
+msgstr "Digadvdi"
+
+#: Application/DialogSkinSettings.cpp:61
+msgid "Variables"
+msgstr ""
+
+#: Application/DialogSkinSettings.cpp:76
+msgid "Operations"
+msgstr ""
+
+#: Application/DialogSkinSettings.cpp:102
+#: Application/DialogSkinSettings.cpp:126
+msgid "Double click"
+msgstr ""
+
+#: Application/DropTarget.cpp:42
+msgid "skin"
+msgstr "Ganega"
+
+#: Application/DropTarget.cpp:47
+msgid "addon"
+msgstr ""
+
+#: Application/DropTarget.cpp:53
+msgid "language"
+msgstr "Gawonihisdi"
+
+#: Application/DropTarget.cpp:61
+msgid "license"
+msgstr "Goweli alisgolvdisgi"
+
+#: Application/DropTarget.cpp:87
+#, c-format
+msgid "Unknown file \"%s\"."
+msgstr ""
+
+#: Application/DropTarget.cpp:93
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr ""
+
+#: Application/DropTarget.cpp:111
+#, c-format
+msgid ""
+"The skin %s doesn't exist.\n"
+"Unable to merge the addon."
+msgstr ""
+
+#: Application/DropTarget.cpp:125
+#, c-format
+msgid ""
+"The %s \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+
+#: Application/DropTarget.cpp:153
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr ""
+
+#: Application/DropTarget.cpp:191
+#, c-format
+msgid ""
+"The %s was installed succesfully!\n"
+"Please refresh (or restart) Rainlendar to see the changes."
+msgstr ""
+
+#: Application/DropTarget.cpp:196
+#, c-format
+msgid "The %s installation failed!"
+msgstr ""
+
+#: Application/DropTarget.cpp:240
+msgid "Select the calendars for the imported items:"
+msgstr ""
+
+#: Application/DropTarget.cpp:256
+msgid ""
+"Import failed.\n"
+"\n"
+"There are no calendars available that are able to store the item."
+msgstr ""
+
+#: Application/DropTarget.cpp:268
+#, c-format
+msgid "Imported %i items succesfully."
+msgstr ""
+
+#: Application/DropTarget.cpp:279
+msgid "You need to select at least one calendar for the imported events"
+msgstr ""
+
+#: Application/DropTarget.cpp:548
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr ""
+
+#: Application/HotkeyControl.cpp:101
+msgid "Win"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:107
+msgid "Control"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:113
+msgid "Alt"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:119
+msgid "Shift"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:167
+msgid "Back"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:169
+msgid "Tab"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:171
+msgid "Return"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:173
+msgid "Esc"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:175
+msgid "Space"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:177
+#: Application/res/event.cpp:36
+#: Application/res/manager.cpp:11
+#: Application/res/todo.cpp:60
+msgid "Delete"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:179
+msgid "Page Up"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:181
+msgid "Page Down"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:187
+msgid "Left"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:189
+msgid "Up"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:191
+msgid "Right"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:193
+msgid "Down"
+msgstr ""
+
+#: Application/HotkeyControl.cpp:195
+msgid "Insert"
+msgstr ""
+
+#: Application/ItemCalendar.cpp:196
+#, c-format
+msgid "Edit \"%s\""
+msgstr ""
+
+#: Application/ItemCalendar.cpp:201
+msgid "Delete all events"
+msgstr ""
+
+#: Application/ItemCalendar.cpp:207
+#: Application/ItemListEvent.cpp:348
+msgid "Delete event"
+msgstr ""
+
+#: Application/ItemCalendar.cpp:209
+msgid "Events"
+msgstr "Nidegalistanidohv"
+
+#: Application/ItemListAlarm.cpp:202
+msgid "1 minute"
+msgstr ""
+
+#: Application/ItemListAlarm.cpp:203
+msgid "5 minutes"
+msgstr ""
+
+#: Application/ItemListAlarm.cpp:204
+msgid "10 minutes"
+msgstr ""
+
+#: Application/ItemListAlarm.cpp:205
+msgid "30 minutes"
+msgstr ""
+
+#: Application/ItemListAlarm.cpp:206
+msgid "1 hour"
+msgstr ""
+
+#: Application/ItemListAlarm.cpp:207
+msgid "2 hours"
+msgstr ""
+
+#: Application/ItemListAlarm.cpp:209
+msgid "Snooze"
+msgstr ""
+
+#: Application/ItemListAlarm.cpp:210
+msgid "Dismiss"
+msgstr ""
+
+#: Application/ItemListAlarm.cpp:214
+#: Application/ItemListAlarm.cpp:218
+msgid "Edit..."
+msgstr ""
+
+#: Application/ItemListEvent.cpp:180
+msgid "Today"
+msgstr "Gohi iga"
+
+#: Application/ItemListEvent.cpp:184
+msgid "Tomorrow"
+msgstr ""
+
+#: Application/ItemListEvent.cpp:192
+#, c-format
+msgid "%s next week"
+msgstr ""
+
+#: Application/ItemListEvent.cpp:196
+#, c-format
+msgid "%s in %i weeks"
+msgstr ""
+
+#: Application/ItemListEvent.cpp:347
+msgid "Edit event"
+msgstr ""
+
+#: Application/ItemListEvent.cpp:357
+msgid "Event list"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:93
+#, c-format
+msgid "[Due %x]"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:166
+msgid "No category"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:255
+msgid "Unknown"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:316
+#: Application/ItemListTodo.cpp:623
+#: Application/ItemListTodo.cpp:758
+msgid "Needs Action"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:321
+#: Application/ItemListTodo.cpp:620
+#: Application/ItemListTodo.cpp:771
+#: Application/res/todo.cpp:17
+msgid "In Progress"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:326
+#: Application/ItemListTodo.cpp:614
+#: Application/ItemListTodo.cpp:773
+#: Application/res/todo.cpp:18
+msgid "Completed"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:362
+msgid "High Priority"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:367
+msgid "Medium Priority"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:372
+msgid "Low Priority"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:377
+msgid "No Priority"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:597
+#: Application/res/todo.cpp:11
+msgid "Low"
+msgstr "Eladi"
+
+#: Application/ItemListTodo.cpp:725
+msgid "Alphabetically"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:726
+msgid "By Category"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:727
+msgid "By Due Date"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:728
+msgid "By Start Date"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:729
+msgid "By Status"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:730
+msgid "By Priority"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:732
+msgid "Arrange"
+msgstr "Adanelodi"
+
+#: Application/ItemListTodo.cpp:793
+msgid "Edit task"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:794
+msgid "Delete task"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:804
+msgid "Hide completed tasks"
+msgstr ""
+
+#: Application/ItemListTodo.cpp:810
+msgid "Todo list"
+msgstr ""
+
+#: Application/ItemListTooltip.cpp:54
+msgid "No events today."
+msgstr "Tla Gohi igohi Nidegalistanidohv:"
+
+#: Application/ItemListTooltip.cpp:75
+msgid "Today's events:"
+msgstr "Gohi igohi Nidegalistanidohv:"
+
+#: Application/Rainlendar.cpp:104
+msgid "allow multiple instances"
+msgstr ""
+
+#: Application/Rainlendar.cpp:105
+msgid "install a skin or a language"
+msgstr ""
+
+#: Application/Rainlendar.cpp:106
+msgid "path where the configuration file will be stored"
+msgstr ""
+
+#: Application/Rainlendar.cpp:108
+msgid "path where the log file will be stored"
+msgstr ""
+
+#: Application/Rainlendar.cpp:109
+msgid "enable verbose logging"
+msgstr ""
+
+#: Application/Rainlendar.cpp:110
+msgid "enable debug logging"
+msgstr ""
+
+#: Application/Rainlendar.cpp:296
+#, c-format
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+
+#: Application/Rainlendar.cpp:512
+msgid ""
+"Rainlendar was not able to refresh the settings correctly.\n"
+"Do you want to reset all settings and try again?\n"
+"(Select \"No\" to open Rainlendar with old settings)"
+msgstr ""
+
+#: Application/Rainlendar.cpp:526
+#, c-format
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+
+#: Application/Rainlendar.cpp:540
+msgid ""
+"Rainlendar was not able to load the selected skin.\n"
+"Do you want to use the default skin instead?"
+msgstr ""
+
+#: Application/Rainlendar.cpp:553
+msgid "Unable to load the skin. Check the log for more details."
+msgstr ""
+
+#: Application/Rainlendar.cpp:823
+msgid ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+msgstr ""
+
+#: Application/Rainlendar.cpp:1097
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+
+#: Application/Rainlendar.cpp:1104
+msgid "Do you want to import them?"
+msgstr ""
+
+#: Application/Rainlendar.cpp:1126
+#, c-format
+msgid "Import failed with file: \"%s\""
+msgstr ""
+
+#: Application/SkinIni.cpp:303
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 0 to 11 for a specific month in the current year."
+msgstr ""
+
+#: Application/SkinIni.cpp:448
+msgid "Defines the width of the event list."
+msgstr ""
+
+#: Application/SkinIni.cpp:449
+msgid "Defines the width of the todo list."
+msgstr ""
+
+#: Application/SkinManager.cpp:87
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+
+#: Application/SkinManager.cpp:92
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+
+#: Application/SkinManager.cpp:97
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+
+#: Application/Util.cpp:725
+msgid "January"
+msgstr "Unolvtani"
+
+#: Application/Util.cpp:727
+msgid "February"
+msgstr "Kagali"
+
+#: Application/Util.cpp:729
+msgid "March"
+msgstr "Anayilisv"
+
+#: Application/Util.cpp:731
+msgid "April"
+msgstr "Guwoni"
+
+#: Application/Util.cpp:733
+msgid "May"
+msgstr "Anasgvti"
+
+#: Application/Util.cpp:735
+msgid "June"
+msgstr "Dehaluyi"
+
+#: Application/Util.cpp:737
+msgid "July"
+msgstr "Guyequoni"
+
+#: Application/Util.cpp:739
+msgid "August"
+msgstr "Galoni"
+
+#: Application/Util.cpp:741
+msgid "September"
+msgstr "Dulisdi"
+
+#: Application/Util.cpp:743
+msgid "October"
+msgstr "Duninodi"
+
+#: Application/Util.cpp:745
+msgid "November"
+msgstr "Nvdadequa"
+
+#: Application/Util.cpp:747
+msgid "December"
+msgstr "Vsgiyi"
+
+#: Application/Util.cpp:788
+#: Application/res/event.cpp:29
+#: Application/res/todo.cpp:53
+msgid "Sun"
+msgstr ""
+
+#: Application/Util.cpp:791
+#: Application/res/event.cpp:23
+#: Application/res/todo.cpp:47
+msgid "Mon"
+msgstr ""
+
+#: Application/Util.cpp:794
+#: Application/res/event.cpp:24
+#: Application/res/todo.cpp:48
+msgid "Tue"
+msgstr ""
+
+#: Application/Util.cpp:797
+#: Application/res/event.cpp:25
+#: Application/res/todo.cpp:49
+msgid "Wed"
+msgstr ""
+
+#: Application/Util.cpp:800
+#: Application/res/event.cpp:26
+#: Application/res/todo.cpp:50
+msgid "Thu"
+msgstr ""
+
+#: Application/Util.cpp:803
+#: Application/res/event.cpp:27
+#: Application/res/todo.cpp:51
+msgid "Fri"
+msgstr ""
+
+#: Application/Util.cpp:806
+#: Application/res/event.cpp:28
+#: Application/res/todo.cpp:52
+msgid "Sat"
+msgstr ""
+
+#: Application/WizardCalendar.cpp:22
+#: Application/WizardCalendar.cpp:27
+msgid "Create a new calendar"
+msgstr "Nvdodisedi Gotlvdi Itse"
+
+#: Application/WizardPageCalendar.cpp:33
+msgid "Please select the type of the calendar."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:42
+msgid "Type"
+msgstr "Digagodi"
+
+#: Application/WizardPageCalendar.cpp:68
+msgid ""
+"The calendar type defines the format of the events\n"
+"and where they are stored."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:85
+msgid "You need to select a calendar type!"
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:172
+#: Application/res/alarm.cpp:3
+msgid "Browse..."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:248
+msgid "Only local files can be defined as the file name."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:254
+msgid ""
+"It's not possible to use UNC paths as the file name.\n"
+"You need to map the network drive to be able to access the files on a server."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:362
+msgid "Please choose a name for the the calendar."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:370
+msgid "Name"
+msgstr "Dudov"
+
+#: Application/WizardPageCalendar.cpp:408
+msgid ""
+"The calendar with the same name already exists.\n"
+"Please use some other name."
+msgstr ""
+
+#: Application/WizardPageCalendar.cpp:415
+msgid "You need to give some name for the calendar."
+msgstr ""
+
+#: Application/res/about.cpp:2
+#: Application/res/manager.cpp:8
+#: Application/res/manager.cpp:15
+#: Application/res/print.cpp:10
+msgid "Close"
+msgstr "Asdudi"
+
+#: Application/res/alarm.cpp:1
+msgid "Alarm sound"
+msgstr "Adasgasdanedi Unoyvgv"
+
+#: Application/res/alarm.cpp:2
+msgid "Select the sound file for the alarm"
+msgstr "Asuyesdi Unoyvgv Atlavi  Nasginai Adasgasdanedi"
+
+#: Application/res/event.cpp:3
+#: Application/res/todo.cpp:3
+msgid "Summary:"
+msgstr ""
+
+#: Application/res/event.cpp:4
+#: Application/res/todo.cpp:4
+msgid "Location:"
+msgstr "Galuhisdi:"
+
+#: Application/res/event.cpp:5
+#: Application/res/todo.cpp:5
+msgid "Private"
+msgstr "Utselida"
+
+#: Application/res/event.cpp:6
+#: Application/res/todo.cpp:6
+msgid "Start time:"
+msgstr "Anigisdi Iyuwakodi:"
+
+#: Application/res/event.cpp:7
+msgid "All day event"
+msgstr ""
+
+#: Application/res/event.cpp:8
+msgid "End time:"
+msgstr "Ulisdv Iyuwakodi:"
+
+#: Application/res/event.cpp:10
+#: Application/res/event.cpp:11
+#: Application/res/todo.cpp:35
+msgid "Minutes"
+msgstr "Hilvsgi iyatawostanv"
+
+#: Application/res/event.cpp:12
+#: Application/res/todo.cpp:36
+msgid "Hours"
+msgstr "Itsutlilodv"
+
+#: Application/res/event.cpp:13
+#: Application/res/event.cpp:19
+#: Application/res/todo.cpp:34
+#: Application/res/todo.cpp:37
+#: Application/res/todo.cpp:43
+msgid "Days"
+msgstr "Hilvsgi iga"
+
+#: Application/res/event.cpp:14
+msgid "before the event starts."
+msgstr ""
+
+#: Application/res/event.cpp:17
+#: Application/res/todo.cpp:41
+msgid "Recurrence"
+msgstr ""
+
+#: Application/res/event.cpp:18
+#: Application/res/todo.cpp:42
+msgid "Repeat every"
+msgstr "Nvgvgogogi Nigavi"
+
+#: Application/res/event.cpp:20
+#: Application/res/todo.cpp:44
+msgid "Weeks"
+msgstr "Hilvsgi iyunadodaquasdi"
+
+#: Application/res/event.cpp:21
+#: Application/res/todo.cpp:45
+msgid "Months"
+msgstr "Iyanvda"
+
+#: Application/res/event.cpp:22
+#: Application/res/todo.cpp:46
+msgid "Years"
+msgstr "Tsudetiyvda"
+
+#: Application/res/event.cpp:30
+#: Application/res/todo.cpp:54
+msgid "Repeat"
+msgstr "Nvgvgogogi"
+
+#: Application/res/event.cpp:31
+#: Application/res/todo.cpp:55
+msgid "Forever"
+msgstr "Igohidaquu gesv"
+
+#: Application/res/event.cpp:32
+#: Application/res/todo.cpp:56
+msgid "Number of times"
+msgstr ""
+
+#: Application/res/event.cpp:33
+#: Application/res/todo.cpp:57
+msgid "Until"
+msgstr ""
+
+#: Application/res/event.cpp:34
+#: Application/res/todo.cpp:58
+msgid "Exception dates"
+msgstr ""
+
+#: Application/res/event.cpp:35
+#: Application/res/options.cpp:26
+#: Application/res/todo.cpp:59
+msgid "Add"
+msgstr "Gatlisodi"
+
+#: Application/res/manager.cpp:2
+msgid "File"
+msgstr "Atlavi"
+
+#: Application/res/manager.cpp:3
+msgid "Import"
+msgstr ""
+
+#: Application/res/manager.cpp:4
+msgid "Export"
+msgstr "Wadi doyiditlv"
+
+#: Application/res/manager.cpp:5
+#: Application/res/print.cpp:9
+msgid "Print..."
+msgstr "Galeyadv..."
+
+#: Application/res/manager.cpp:6
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:180
+msgid "Backup"
+msgstr ""
+
+#: Application/res/manager.cpp:7
+msgid "Restore"
+msgstr "Nvadanedi"
+
+#: Application/res/manager.cpp:9
+msgid "New"
+msgstr "Itse"
+
+#: Application/res/manager.cpp:10
+msgid "Edit"
+msgstr ""
+
+#: Application/res/manager.cpp:12
+msgid "Show events"
+msgstr ""
+
+#: Application/res/manager.cpp:13
+msgid "Show todo items"
+msgstr ""
+
+#: Application/res/manager.cpp:14
+msgid "Search:"
+msgstr "Ayasdi:"
+
+#: Application/res/options.cpp:2
+msgid "Week's start day:"
+msgstr ""
+
+#: Application/res/options.cpp:3
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr ""
+
+#: Application/res/options.cpp:4
+msgid "Add years to birthdays and anniversaries"
+msgstr ""
+
+#: Application/res/options.cpp:5
+msgid "Hide windows if there are no items"
+msgstr ""
+
+#: Application/res/options.cpp:6
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr ""
+
+#: Application/res/options.cpp:7
+msgid "Lock windows in place"
+msgstr ""
+
+#: Application/res/options.cpp:8
+msgid "Enable on startup"
+msgstr ""
+
+#: Application/res/options.cpp:9
+msgid "Language:"
+msgstr "Gawonihisdi:"
+
+#: Application/res/options.cpp:10
+msgid "Position"
+msgstr "Nahna gadogv"
+
+#: Application/res/options.cpp:11
+msgid "On Top"
+msgstr "Nahna Gadui"
+
+#: Application/res/options.cpp:12
+msgid "Normal"
+msgstr "Nulosvsdvna"
+
+#: Application/res/options.cpp:13
+msgid "On Bottom"
+msgstr "Nahna Hawini"
+
+#: Application/res/options.cpp:14
+msgid "On Desktop"
+msgstr "Nahna Digowelodi"
+
+#: Application/res/options.cpp:15
+msgid "Transparency"
+msgstr "Gvgowadvdi Igai gesv"
+
+#: Application/res/options.cpp:16
+msgid "Normal:"
+msgstr "Nulosvsdvna:"
+
+#: Application/res/options.cpp:17
+msgid "Mouse over:"
+msgstr "Tsisdetsi Gawohilvdodi:"
+
+#: Application/res/options.cpp:19
+msgid "Add..."
+msgstr "Gatlisodi..."
+
+#: Application/res/options.cpp:20
+#: Application/res/options.cpp:27
+msgid "Remove"
+msgstr "Ahvsdi"
+
+#: Application/res/options.cpp:21
+msgid "Settings"
+msgstr "Diwisdi"
+
+#: Application/res/options.cpp:23
+msgid "Action:"
+msgstr "Alitelvdi:"
+
+#: Application/res/options.cpp:24
+msgid "Hotkey:"
+msgstr ""
+
+#: Application/res/options.cpp:25
+msgid "Set"
+msgstr "Awisvdi"
+
+#: Application/res/options.cpp:28
+msgid "Available skins"
+msgstr ""
+
+#: Application/res/options.cpp:29
+msgid "-->"
+msgstr "-->"
+
+#: Application/res/options.cpp:30
+msgid "<--"
+msgstr "<--"
+
+#: Application/res/options.cpp:31
+msgid "Active skins"
+msgstr ""
+
+#: Application/res/options.cpp:32
+msgid "Settings..."
+msgstr "Diwisdi..."
+
+#: Application/res/options.cpp:34
+msgid "Details"
+msgstr "Nidegvhnanvi"
+
+#: Application/res/print.cpp:1
+msgid "All items"
+msgstr ""
+
+#: Application/res/print.cpp:2
+msgid "Selected items"
+msgstr ""
+
+#: Application/res/print.cpp:3
+msgid "Day range"
+msgstr ""
+
+#: Application/res/print.cpp:4
+msgid "Select days"
+msgstr ""
+
+#: Application/res/print.cpp:5
+msgid "From:"
+msgstr "Nidvlenvda:"
+
+#: Application/res/print.cpp:6
+msgid "To:"
+msgstr ""
+
+#: Application/res/print.cpp:7
+msgid "Add title"
+msgstr ""
+
+#: Application/res/print.cpp:8
+msgid "Preview..."
+msgstr ""
+
+#: Application/res/todo.cpp:7
+msgid "Due time:"
+msgstr "Nahiyu tsigesesdi:"
+
+#: Application/res/todo.cpp:8
+msgid "Priority:"
+msgstr ""
+
+#: Application/res/todo.cpp:14
+msgid "Status:"
+msgstr "Nusdidanv:"
+
+#: Application/res/todo.cpp:20
+msgid "Progress:"
+msgstr "Aliilisv:"
+
+#: Application/res/todo.cpp:21
+#: Application/res/todo.cpp:22
+msgid "0 %"
+msgstr "0 %"
+
+#: Application/res/todo.cpp:23
+msgid "10 %"
+msgstr "10 %"
+
+#: Application/res/todo.cpp:24
+msgid "20 %"
+msgstr "20 %"
+
+#: Application/res/todo.cpp:25
+msgid "30 %"
+msgstr "30 %"
+
+#: Application/res/todo.cpp:26
+msgid "40 %"
+msgstr "40 %"
+
+#: Application/res/todo.cpp:27
+msgid "50 %"
+msgstr "50 %"
+
+#: Application/res/todo.cpp:28
+msgid "60 %"
+msgstr "60 %"
+
+#: Application/res/todo.cpp:29
+msgid "70 %"
+msgstr "70 %"
+
+#: Application/res/todo.cpp:30
+msgid "80 %"
+msgstr "80 %"
+
+#: Application/res/todo.cpp:31
+msgid "90 %"
+msgstr "90 %"
+
+#: Application/res/todo.cpp:32
+msgid "100 %"
+msgstr "100 %"
+
+#: Application/res/todo.cpp:38
+msgid "before the task is due."
+msgstr ""
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:421
+msgid "Filename"
+msgstr ""
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:464
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a new file will be created."
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:164
+msgid "URL"
+msgstr "URL"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:168
+msgid "Username"
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:172
+msgid "Password"
+msgstr "Ayvsdodi yigawesti"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:176
+msgid "Poll Frequency"
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:184
+msgid "Proxy server"
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:188
+msgid "Proxy username"
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:192
+msgid "Proxy password"
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:196
+msgid "Suppress errors"
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:236
+msgid ""
+"Choose an URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password fields can be left empty if they are not needed."
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:473
+#, c-format
+msgid ""
+"Network Error!\n"
+"\n"
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:600
+#, c-format
+msgid ""
+"Network Error!\n"
+"\n"
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:92
+msgid "Unable to initialize the MAPI library."
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:192
+#: Plugins/OutlookPlugin/MapiHandler.cpp:285
+#: Plugins/OutlookPlugin/MapiHandler.cpp:298
+msgid "Application"
+msgstr "Atayosdodi"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:207
+#: Plugins/OutlookPlugin/MapiHandler.cpp:304
+msgid "Profile"
+msgstr "Saquagati"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:222
+msgid "MessageStore"
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:237
+msgid "Import Alarms"
+msgstr ""
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:337
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr ""
+
+#: Application/Resource.h:214
+msgid "Yes"
+msgstr "Vv"
+
+#: Application/Resource.h:215
+msgid "No"
+msgstr "Tla"
+
+#: Application/Resource.h:216
+msgid "True"
+msgstr "Udohiyu"
+
+#: Application/Resource.h:217
+msgid "False"
+msgstr "Galonuhedv"
+
+#: Application/Resource.h:219
+msgid "Hide Windows"
+msgstr "Adisgalodi Ditsolanv"
+
+#: Application/Resource.h:220
+msgid "Show Windows"
+msgstr "Unadvnelvdi Ditsolanv"
+
+#: Application/Resource.h:221
+msgid "Toggle Windows"
+msgstr "Ganetliyvsdi Ditsolanv"
+
+#: Application/Resource.h:222
+msgid "Next Month"
+msgstr "Soi Sinvdo"
+
+#: Application/Resource.h:223
+msgid "Previous Month"
+msgstr "Tsuwagutanv Sinvdo"
+
+#: Application/Resource.h:226
+msgid "Anniversary"
+msgstr "Udetiyisgv"
+
+#: Application/Resource.h:227
+msgid "Birthday"
+msgstr "Udetiyisgv"
+
+#: Application/Resource.h:228
+msgid "Business"
+msgstr "Digalvwisdanedi"
+
+#: Application/Resource.h:229
+msgid "Calls"
+msgstr "Dayani"
+
+#: Application/Resource.h:230
+msgid "Clients"
+msgstr ""
+
+#: Application/Resource.h:231
+msgid "Competition"
+msgstr "Adagonvdodiyi"
+
+#: Application/Resource.h:232
+msgid "Customer"
+msgstr "Uwasgi"
+
+#: Application/Resource.h:233
+msgid "Exam"
+msgstr ""
+
+#: Application/Resource.h:234
+msgid "Favorites"
+msgstr ""
+
+#: Application/Resource.h:235
+msgid "Follow up"
+msgstr ""
+
+#: Application/Resource.h:236
+msgid "Gifts"
+msgstr "Didanedi"
+
+#: Application/Resource.h:237
+msgid "Holidays"
+msgstr "Tsunilvwisdanedi nigesvna iga"
+
+#: Application/Resource.h:238
+msgid "Ideas"
+msgstr "Adanvtesgv"
+
+#: Application/Resource.h:239
+msgid "Important"
+msgstr "Ulisgedv"
+
+#: Application/Resource.h:240
+msgid "Issues"
+msgstr "Ayadohihv"
+
+#: Application/Resource.h:241
+msgid "Miscellaneous"
+msgstr "Tsudalenvda"
+
+#: Application/Resource.h:242
+msgid "Personal"
+msgstr "Asiyvwi"
+
+#: Application/Resource.h:243
+msgid "Projects"
+msgstr ""
+
+#: Application/Resource.h:244
+msgid "Public Holiday"
+msgstr "Digalvwisdanedi nigesvna iga Yvwi unedasdi"
+
+#: Application/Resource.h:246
+msgid "Suppliers"
+msgstr ""
+
+#: Application/Resource.h:247
+msgid "Travel"
+msgstr "Edolidohv"
+
+#: Application/Resource.h:248
+msgid "Trip"
+msgstr "Aneladisdi"
+
+#: Application/Resource.h:249
+msgid "TV"
+msgstr ""
+
+#: Application/Resource.h:250
+msgid "Vacation"
+msgstr "Unatsowesolvsdv"
+
+#: Application/Resource.h:251
+msgid "Work"
+msgstr "Digalvwisdanedi"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:27
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar Datlavi (*.ics)|*.ics|vCalendar Datlavi (*.vcs)|*.vcs"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:28
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar Datlavi (*.ics)|*.ics"
+
+#: Plugins/IniFormatPlugin/IniFormatHandler.h:21
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar Datlavi (*.ini)|*.ini"
+

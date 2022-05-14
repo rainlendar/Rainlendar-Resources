@@ -1,0 +1,1975 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-02-20 09:30+0100\n"
+"Last-Translator: Matthias Bilger <matthias@bilger.info>\n"
+"Language-Team: Matthias Bilger <matthias@bilger.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Leet-Speak\n"
+"X-Poedit-Country: Internet\n"
+
+#: Application/Config.cpp:568
+#: Application/Rainlendar.cpp:984
+#: Application/Rainlendar.cpp:995
+#: Application/Rainlendar.cpp:1108
+#: Plugins/OutlookPlugin/MapiHandler.cpp:388
+msgid "Default"
+msgstr "D3fau17"
+
+#: Application/Config.cpp:574
+msgid "Copy"
+msgstr "C0py"
+
+#: Application/Config.cpp:575
+msgid "Region"
+msgstr "R39i0n"
+
+#: Application/Config.cpp:577
+msgid "Native"
+msgstr "Na7iv3"
+
+#: Application/Config.cpp:586
+#: Application/Util.cpp:767
+msgid "Sunday"
+msgstr "Sunday"
+
+#: Application/Config.cpp:587
+#: Application/Util.cpp:770
+msgid "Monday"
+msgstr "M0nday"
+
+#: Application/Config.cpp:588
+#: Application/Util.cpp:773
+msgid "Tuesday"
+msgstr "7u35day"
+
+#: Application/Config.cpp:589
+#: Application/Util.cpp:776
+msgid "Wednesday"
+msgstr "W3dn35day"
+
+#: Application/Config.cpp:590
+#: Application/Util.cpp:779
+msgid "Thursday"
+msgstr "7hur5day"
+
+#: Application/Config.cpp:591
+#: Application/Util.cpp:782
+msgid "Friday"
+msgstr "Friday"
+
+#: Application/Config.cpp:592
+#: Application/Util.cpp:785
+msgid "Saturday"
+msgstr "Sa7urday"
+
+#: Application/Config.cpp:595
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogPrint.cpp:313
+#: Application/WindowTooltip.cpp:195
+msgid "Start"
+msgstr "S7ar7"
+
+#: Application/Config.cpp:596
+#: Application/DialogManager.cpp:815
+#: Application/DialogPrint.cpp:343
+#: Application/WindowTooltip.cpp:205
+msgid "Due"
+msgstr "Du3"
+
+#: Application/Config.cpp:597
+#: Application/DialogManager.cpp:815
+#: Application/WindowTooltip.cpp:216
+msgid "Priority"
+msgstr "Pri0ri7y"
+
+#: Application/Config.cpp:598
+#: Application/DialogManager.cpp:815
+#: Application/ItemListTodo.cpp:775
+#: Application/WindowTooltip.cpp:228
+#: Application/Resource.h:245
+msgid "Status"
+msgstr "S7a7u5"
+
+#: Application/Config.cpp:602
+#: Application/DialogOptions.cpp:77
+#: Application/DialogSkinSettings.cpp:55
+#: Application/res/options.cpp:1
+msgid "General"
+msgstr "60rn0ra1"
+
+#: Application/Config.cpp:629
+#: Application/DialogOptions.cpp:513
+msgid "Tooltip"
+msgstr "70017ip"
+
+#: Application/Config.cpp:635
+msgid "TodoList"
+msgstr "70d01i57"
+
+#: Application/Config.cpp:640
+msgid "EventList"
+msgstr "3v0rn71i57"
+
+#: Application/Config.cpp:657
+#: Application/res/manager.cpp:1
+msgid "Manager"
+msgstr "Mana90r"
+
+#: Application/ControlWindow.cpp:197
+msgid "About"
+msgstr "4b0u7"
+
+#: Application/ControlWindow.cpp:198
+#: Application/DialogOptions.cpp:104
+msgid "Help"
+msgstr "H31p"
+
+#: Application/ControlWindow.cpp:200
+#: Application/ItemCalendar.cpp:204
+#: Application/ItemListEvent.cpp:346
+msgid "New event"
+msgstr "N3w 3v0rn7"
+
+#: Application/ControlWindow.cpp:201
+#: Application/ItemListTodo.cpp:792
+msgid "New task"
+msgstr "N3w 7a5k"
+
+#: Application/ControlWindow.cpp:223
+#: Application/DialogOptions.cpp:515
+#: Application/DialogOptions.cpp:1061
+msgid "Windows"
+msgstr "Wind0w5"
+
+#: Application/ControlWindow.cpp:241
+#: Application/DialogComponent.cpp:505
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogOptions.cpp:79
+#: Application/DropTarget.cpp:240
+#: Application/res/event.cpp:15
+#: Application/res/options.cpp:18
+#: Application/res/todo.cpp:39
+msgid "Calendars"
+msgstr "Ca10rndar5"
+
+#: Application/ControlWindow.cpp:244
+msgid "Current Month\tHome"
+msgstr "Curr0rn7 M0n7h\tH0m3"
+
+#: Application/ControlWindow.cpp:245
+msgid "Next Month\tRight"
+msgstr "N3x7 M0n7h\tRi9h7"
+
+#: Application/ControlWindow.cpp:246
+msgid "Prev Month\tLeft"
+msgstr "Pr3v M0n7h\t13f7"
+
+#: Application/ControlWindow.cpp:247
+msgid "Next Year\tUp"
+msgstr "N3x7 Y3ar\tUp"
+
+#: Application/ControlWindow.cpp:248
+msgid "Previous Year\tDown"
+msgstr "Pr3vi0u5 Y3ar\tD0wn"
+
+#: Application/ControlWindow.cpp:250
+#, c-format
+msgid "January %s\tCtrl-F1"
+msgstr "January %s\tC7r1-F1"
+
+#: Application/ControlWindow.cpp:251
+#, c-format
+msgid "February %s\tCtrl-F2"
+msgstr "F3bruary %s\tC7r1-F2"
+
+#: Application/ControlWindow.cpp:252
+#, c-format
+msgid "March %s\tCtrl-F3"
+msgstr "March %s\tC7r1-F3"
+
+#: Application/ControlWindow.cpp:253
+#, c-format
+msgid "April %s\tCtrl-F4"
+msgstr "4pri1 %s\tC7r1-F4"
+
+#: Application/ControlWindow.cpp:254
+#, c-format
+msgid "May %s\tCtrl-F5"
+msgstr "May %s\tC7r1-F5"
+
+#: Application/ControlWindow.cpp:255
+#, c-format
+msgid "June %s\tCtrl-F6"
+msgstr "Jun3 %s\tC7r1-F6"
+
+#: Application/ControlWindow.cpp:256
+#, c-format
+msgid "July %s\tCtrl-F7"
+msgstr "Ju1y %s\tC7r1-F7"
+
+#: Application/ControlWindow.cpp:257
+#, c-format
+msgid "August %s\tCtrl-F8"
+msgstr "4u9u57 %s\tC7r1-F8"
+
+#: Application/ControlWindow.cpp:258
+#, c-format
+msgid "September %s\tCtrl-F9"
+msgstr "S3p73mb0r %s\tC7r1-F9"
+
+#: Application/ControlWindow.cpp:259
+#, c-format
+msgid "October %s\tCtrl-F10"
+msgstr "Oc70b0r %s\tC7r1-F10"
+
+#: Application/ControlWindow.cpp:260
+#, c-format
+msgid "November %s\tCtrl-F11"
+msgstr "N0v3mb0r %s\tC7r1-F11"
+
+#: Application/ControlWindow.cpp:261
+#, c-format
+msgid "December %s\tCtrl-F12"
+msgstr "D3c3mb0r %s\tC7r1-F12"
+
+#: Application/ControlWindow.cpp:263
+msgid "Choose month"
+msgstr "Ch0053 m0n7h"
+
+#: Application/ControlWindow.cpp:265
+#: Application/Resource.h:224
+msgid "Refresh"
+msgstr "R3fr35h"
+
+#: Application/ControlWindow.cpp:266
+msgid "Options..."
+msgstr "Op7i0n5..."
+
+#: Application/ControlWindow.cpp:267
+msgid "Manager..."
+msgstr "Mana90r..."
+
+#: Application/ControlWindow.cpp:281
+msgid "Exit"
+msgstr "3xi7"
+
+#: Application/ControlWindow.cpp:568
+#, c-format
+msgid ""
+"This is a recurring item:\n"
+"%s\n"
+"\n"
+"Do you want to delete just this instance?\n"
+"(Select No to delete whole pattern)"
+msgstr ""
+"7hi5 i5 a r3currin9 i73m:\n"
+"%s\n"
+"\n"
+"D0 u wan7 70 d31373 ju57 7hi5 in57anc3?\n"
+"(S313c7 N0 70 d31373 wh013 pa770rn)"
+
+#: Application/ControlWindow.cpp:589
+#, c-format
+msgid ""
+"Do you want to delete this item?\n"
+"%s"
+msgstr ""
+"D0 u wan7 70 d31373 7hi5 i73m?\n"
+"%s"
+
+#: Application/ControlWindow.cpp:600
+msgid "Do you want to delete these items?"
+msgstr "D0 u wan7 70 d31373 73h53 i73m5?"
+
+#: Application/DialogAbout.cpp:47
+#: Application/DialogOptions.cpp:587
+msgid "Version"
+msgstr "V0r5i0n"
+
+#: Application/DialogAbout.cpp:55
+msgid "Build on"
+msgstr "Bui1d 0n"
+
+#: Application/DialogAbout.cpp:60
+msgid "Developed by"
+msgstr "D3v310p3d by"
+
+#: Application/DialogAbout.cpp:68
+msgid "Licensed to"
+msgstr "1ic0rn53d 70"
+
+#: Application/DialogAbout.cpp:75
+msgid "Plugins"
+msgstr "P1u9in5"
+
+#: Application/DialogAbout.cpp:94
+msgid "Links"
+msgstr "1ink5"
+
+#: Application/DialogAbout.cpp:96
+#: Application/HotkeyControl.cpp:185
+msgid "Home"
+msgstr "H0m3"
+
+#: Application/DialogAbout.cpp:99
+msgid "FAQ"
+msgstr "F4Q"
+
+#: Application/DialogAbout.cpp:102
+msgid "Forum"
+msgstr "4um"
+
+#: Application/DialogAbout.cpp:108
+msgid "Icons by"
+msgstr "Ic0n5 by"
+
+#: Application/DialogAbout.cpp:118
+msgid "Copyrights"
+msgstr "C0pyri9h75"
+
+#: Application/DialogAbout.cpp:139
+msgid "About Rainlendar..."
+msgstr "4b0u7 Rain10rndar..."
+
+#: Application/DialogAbout.cpp:151
+msgid "Please wait..."
+msgstr "P13a53 wai7..."
+
+#: Application/DialogAbout.cpp:164
+msgid "Unknown response from the server."
+msgstr "Unkn0wn r35p0n53 fr0m 73h 50rv0r."
+
+#: Application/DialogAbout.cpp:193
+#, c-format
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"V0r5i0n %s i5 avai1ab13.\n"
+"D0 u wan7 70 90 70 73h w3b5i73 n0w?"
+
+#: Application/DialogAbout.cpp:201
+msgid "No updates available."
+msgstr "N0 upd85 avai1ab13."
+
+#: Application/DialogAbout.cpp:210
+msgid "Unable to connect to the server."
+msgstr "Unab13 70 c0nn3c7 70 73h 50rv0r."
+
+#: Application/DialogAbout.cpp:215
+#: Application/res/about.cpp:1
+msgid "Check for update"
+msgstr "Ch3ck 4 upd8"
+
+#: Application/DialogAlarm.cpp:32
+msgid "Sound files (*.wav)|*.wav"
+msgstr "S0und fi135 (*.wav)|*.wav"
+
+#: Application/DialogComponent.cpp:505
+msgid "Select the calendars:"
+msgstr "S313c7 73h ca10rndar5:"
+
+#: Application/DialogComponent.cpp:557
+msgid "Select the categories:"
+msgstr "S313c7 73h c890ri35:"
+
+#: Application/DialogComponent.cpp:557
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/res/event.cpp:16
+#: Application/res/todo.cpp:40
+msgid "Categories"
+msgstr "C890ri35"
+
+#: Application/DialogComponent.cpp:704
+msgid "Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "Unab13 70 find any ca10rndar hand10r5 4 73h 3v0rn7. 73h 3v0rn7 wa5 n07 5av3d."
+
+#: Application/DialogComponent.cpp:920
+#, c-format
+msgid "On the %s day of the month"
+msgstr "On 73h %s day 0f 73h m0n7h"
+
+#: Application/DialogComponent.cpp:928
+msgid "first"
+msgstr "fir57"
+
+#: Application/DialogComponent.cpp:932
+msgid "second"
+msgstr "53c0nd"
+
+#: Application/DialogComponent.cpp:936
+msgid "third"
+msgstr "7hird"
+
+#: Application/DialogComponent.cpp:940
+msgid "fourth"
+msgstr "f0ur7h"
+
+#: Application/DialogComponent.cpp:944
+msgid "fifth"
+msgstr "fif7h"
+
+#: Application/DialogComponent.cpp:946
+#, c-format
+msgid "On the %s %s of the month"
+msgstr "On 73h %s %s 0f 73h m0n7h"
+
+#: Application/DialogComponent.cpp:953
+#, c-format
+msgid "On the last %s of the month"
+msgstr "On 73h 1a57 %s 0f 73h m0n7h"
+
+#: Application/DialogComponent.cpp:962
+msgid "On the first weekday of the month"
+msgstr "On 73h fir57 w33kday 0f 73h m0n7h"
+
+#: Application/DialogComponent.cpp:971
+msgid "On the last weekday of the month"
+msgstr "On 73h 1a57 w33kday 0f 73h m0n7h"
+
+#: Application/DialogComponent.cpp:978
+msgid "On the last day of the month"
+msgstr "On 73h 1a57 day 0f 73h m0n7h"
+
+#: Application/DialogManager.cpp:196
+#: Application/DialogManager.cpp:250
+msgid "Choose a file"
+msgstr "Ch0053 a fi13"
+
+#: Application/DialogManager.cpp:209
+msgid "Import failed!"
+msgstr "Imp0r7 fai13d!"
+
+#: Application/DialogManager.cpp:268
+msgid "Export failed!"
+msgstr "3xp0r7 fai13d!"
+
+#: Application/DialogManager.cpp:335
+msgid "Do you want to delete the selected item(s)?"
+msgstr "D0 u wan7 70 d31373 73h 5313c73d i73m(5)?"
+
+#: Application/DialogManager.cpp:444
+#: Application/DialogManager.cpp:525
+msgid "Archive (*.zip)|*.zip"
+msgstr "4rchiv3 (*.2ip)|*.2ip"
+
+#: Application/DialogManager.cpp:445
+#: Application/DialogManager.cpp:524
+msgid "Choose the backup path"
+msgstr "Ch0053 73h backup pa7h"
+
+#: Application/DialogManager.cpp:581
+msgid "Restore was succesful."
+msgstr "R3570r3 wa5 5ucc35fu1."
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogPrint.cpp:329
+#: Application/HotkeyControl.cpp:183
+msgid "End"
+msgstr "3nd"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogOptions.cpp:512
+#: Application/ItemListAlarm.cpp:221
+#: Application/res/event.cpp:9
+#: Application/res/todo.cpp:33
+msgid "Alarm"
+msgstr "41arm"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+msgid "Summary"
+msgstr "Summary"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+msgid "Recurring"
+msgstr "R3currin9"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogPrint.cpp:301
+msgid "Location"
+msgstr "10ca7i0n"
+
+#: Application/DialogManager.cpp:786
+#: Application/DialogManager.cpp:815
+#: Application/DialogOptions.cpp:644
+msgid "Description"
+msgstr "D35crip7i0n"
+
+#: Application/DialogManager.cpp:795
+#: Application/res/event.cpp:1
+#: Application/res/event.cpp:2
+msgid "Event"
+msgstr "3v0rn7"
+
+#: Application/DialogManager.cpp:802
+msgid "New Event..."
+msgstr "N3w 3v0rn7..."
+
+#: Application/DialogManager.cpp:824
+#: Application/res/todo.cpp:1
+#: Application/res/todo.cpp:2
+msgid "Todo"
+msgstr "70d0"
+
+#: Application/DialogManager.cpp:831
+msgid "New Todo..."
+msgstr "N3w 70d0..."
+
+#: Application/DialogManager.cpp:1000
+msgid "Single"
+msgstr "Sin913"
+
+#: Application/DialogManager.cpp:1033
+#: Application/DialogSkinSettings.cpp:80
+#: Application/ItemListTodo.cpp:593
+#: Application/res/todo.cpp:9
+#: Application/res/todo.cpp:10
+msgid "None"
+msgstr "N1"
+
+#: Application/DialogManager.cpp:1037
+#: Application/ItemListTodo.cpp:605
+#: Application/res/todo.cpp:13
+msgid "High"
+msgstr "Hi9h"
+
+#: Application/DialogManager.cpp:1041
+#: Application/ItemListTodo.cpp:601
+#: Application/res/todo.cpp:12
+msgid "Medium"
+msgstr "M3dium"
+
+#: Application/DialogManager.cpp:1066
+#: Application/ItemListTodo.cpp:331
+#: Application/ItemListTodo.cpp:617
+#: Application/ItemListTodo.cpp:774
+#: Application/res/todo.cpp:19
+msgid "Cancelled"
+msgstr "Canc3113d"
+
+#: Application/DialogManager.cpp:1086
+#: Application/res/todo.cpp:15
+#: Application/res/todo.cpp:16
+msgid "Not Started"
+msgstr "N07 S7ar73d"
+
+#: Application/DialogOptions.cpp:42
+msgid "Options"
+msgstr "Op7i0n5"
+
+#: Application/DialogOptions.cpp:81
+msgid "Skins"
+msgstr "Skin5"
+
+#: Application/DialogOptions.cpp:84
+#: Application/res/options.cpp:22
+msgid "Hotkeys"
+msgstr "H07k3y5"
+
+#: Application/DialogOptions.cpp:87
+msgid "Advanced"
+msgstr "4dvanc3d"
+
+#: Application/DialogOptions.cpp:109
+#: Application/DialogSkinSettings.cpp:28
+#: Application/res/alarm.cpp:4
+#: Application/res/event.cpp:37
+#: Application/res/todo.cpp:61
+msgid "OK"
+msgstr "OK"
+
+#: Application/DialogOptions.cpp:113
+#: Application/DialogSkinSettings.cpp:31
+#: Application/res/alarm.cpp:5
+#: Application/res/event.cpp:38
+#: Application/res/todo.cpp:62
+msgid "Cancel"
+msgstr "Canc31"
+
+#: Application/DialogOptions.cpp:276
+msgid "Get more languages..."
+msgstr "637 m0r3 1an9ua935..."
+
+#: Application/DialogOptions.cpp:434
+msgid "Get more skins..."
+msgstr "637 m0r3 5kin5..."
+
+#: Application/DialogOptions.cpp:514
+#: Application/DialogOptions.cpp:792
+#: Application/DialogOptions.cpp:1061
+msgid "TrayIcon"
+msgstr "7rayIc0n"
+
+#: Application/DialogOptions.cpp:597
+msgid "Author"
+msgstr "4u7h0r"
+
+#: Application/DialogOptions.cpp:612
+msgid "Homepage"
+msgstr "H0m3pa93"
+
+#: Application/DialogOptions.cpp:630
+msgid "This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "7hi5 i5 an 01d Rain10rndar 5kin. S0m3 0f 73h f3a7ur35 mi9h7 n07 b3 5upp0r73d."
+
+#: Application/DialogOptions.cpp:640
+msgid "Window"
+msgstr "Wind0w"
+
+#: Application/DialogOptions.cpp:642
+msgid "Variable"
+msgstr "Variab13"
+
+#: Application/DialogOptions.cpp:697
+#: Application/res/options.cpp:33
+msgid "Advanced >>>"
+msgstr "4dvanc3d &97;&97;&97;"
+
+#: Application/DialogOptions.cpp:701
+msgid "<<< Simple"
+msgstr "&17;&17;&17; Simp13"
+
+#: Application/DialogOptions.cpp:1103
+msgid "Hotkey"
+msgstr "H07k3y"
+
+#: Application/DialogOptions.cpp:1104
+msgid "Function"
+msgstr "Func7i0n"
+
+#: Application/DialogOptions.cpp:1188
+msgid "IMPORTANT! Read the documentation before changing these settings. It's possible to make Rainlendar inoperable if you just randomly change the values. Consider yourself warned!"
+msgstr "IMPOR74N7! R3ad 73h d0cum0rn7a7i0n b343 chan9in9 73h53 5377in95. I7'5 p055ib13 70 mak3 Rain10rndar in0p0rab13 if u ju57 rand0m1y chan93 73h va1u35. C0n5id0r ur531f warn3d!"
+
+#: Application/DialogOptions.cpp:1195
+msgid "Reset All Settings"
+msgstr "R3537 411 S377in95"
+
+#: Application/DialogOptions.cpp:1208
+msgid ""
+"This will reset all settings to default values.\n"
+"The default settings are applied immediately.\n"
+"Do you want to continue?"
+msgstr ""
+"7hi5 wi11 r3537 a11 5377in95 70 d3fau17 va1u35.\n"
+"73h d3fau17 5377in95 ar3 app1i3d imm3di81y.\n"
+"D0 u wan7 70 c0n7inu3?"
+
+#: Application/DialogOptions.cpp:1278
+msgid "Common"
+msgstr "C0mm0n"
+
+#: Application/DialogOptions.cpp:1279
+#: Application/DialogOptions.cpp:1418
+msgid "Enabled"
+msgstr "3nab13d"
+
+#: Application/DialogOptions.cpp:1292
+#: Application/DialogOptions.cpp:1422
+msgid "Visual category"
+msgstr "Vi5ua1 c890ry"
+
+#: Application/DialogPrint.cpp:55
+msgid "Print items"
+msgstr "Prin7 i73m5"
+
+#: Application/DialogSkinSettings.cpp:56
+#: Application/DialogSkinSettings.cpp:110
+msgid "Visible"
+msgstr "Vi5ib13"
+
+#: Application/DialogSkinSettings.cpp:57
+#: Application/DialogSkinSettings.cpp:111
+msgid "Scale"
+msgstr "Sca13"
+
+#: Application/DialogSkinSettings.cpp:61
+msgid "Variables"
+msgstr "Variab135"
+
+#: Application/DialogSkinSettings.cpp:76
+msgid "Operations"
+msgstr "Op0ra7i0n5"
+
+#: Application/DialogSkinSettings.cpp:102
+#: Application/DialogSkinSettings.cpp:126
+msgid "Double click"
+msgstr "D0ub13 c1ick"
+
+#: Application/DropTarget.cpp:42
+msgid "skin"
+msgstr "5kin"
+
+#: Application/DropTarget.cpp:47
+msgid "addon"
+msgstr "add0n"
+
+#: Application/DropTarget.cpp:53
+msgid "language"
+msgstr "1an9ua93"
+
+#: Application/DropTarget.cpp:61
+msgid "license"
+msgstr "1ic0rn53"
+
+#: Application/DropTarget.cpp:87
+#, c-format
+msgid "Unknown file \"%s\"."
+msgstr "Unkn0wn fi13 \"%s\"."
+
+#: Application/DropTarget.cpp:93
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Unab13 70 c0py 73h fi13. 73h 50urc3 i5 73h 5am3 a5 73h d357ina7i0n."
+
+#: Application/DropTarget.cpp:111
+#, c-format
+msgid ""
+"The skin %s doesn't exist.\n"
+"Unable to merge the addon."
+msgstr ""
+"73h 5kin %s d035n'7 3xi57.\n"
+"Unab13 70 m0r93 73h add0n."
+
+#: Application/DropTarget.cpp:125
+#, c-format
+msgid ""
+"The %s \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"73h %s \\\"%s\\\" a1r3ady 3xi575.\n"
+"D0 u wan7 70 r3p1ac3 i7?"
+
+#: Application/DropTarget.cpp:153
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "73h ab0v3 fi13 a1r3ady 3xi575. D0 u wan7 70 0v0rwri73 i7?"
+
+#: Application/DropTarget.cpp:191
+#, c-format
+msgid ""
+"The %s was installed succesfully!\n"
+"Please refresh (or restart) Rainlendar to see the changes."
+msgstr ""
+"73h %s wa5 in57a113d 5ucc35fu11y!\n"
+"P13a53 r3fr35h (0r r357ar7) Rain10rndar 70 c 73h chan935."
+
+#: Application/DropTarget.cpp:196
+#, c-format
+msgid "The %s installation failed!"
+msgstr "73h %s in57a11a7i0n fai13d!"
+
+#: Application/DropTarget.cpp:240
+msgid "Select the calendars for the imported items:"
+msgstr "S313c7 73h ca10rndar5 4 73h imp0r73d i73m5:"
+
+#: Application/DropTarget.cpp:256
+msgid ""
+"Import failed.\n"
+"\n"
+"There are no calendars available that are able to store the item."
+msgstr ""
+"Imp0r7 fai13d.\n"
+"\n"
+"73hr3 ar3 n0 ca10rndar5 avai1ab13 7ha7 ar3 ab13 70 570r3 73h i73m."
+
+#: Application/DropTarget.cpp:268
+#, c-format
+msgid "Imported %i items succesfully."
+msgstr "Imp0r73d %i i73m5 5ucc35fu11y."
+
+#: Application/DropTarget.cpp:279
+msgid "You need to select at least one calendar for the imported events"
+msgstr "u n33d 70 5313c7 a7 13a57 1 ca10rndar 4 73h imp0r73d 3v0rn75"
+
+#: Application/DropTarget.cpp:548
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Unab13 70 cr38 a 73mp0rary f01d0r wh0r3 70 m0r93 73h add0n."
+
+#: Application/HotkeyControl.cpp:101
+msgid "Win"
+msgstr "Win"
+
+#: Application/HotkeyControl.cpp:107
+msgid "Control"
+msgstr "C0n7r01"
+
+#: Application/HotkeyControl.cpp:113
+msgid "Alt"
+msgstr "417"
+
+#: Application/HotkeyControl.cpp:119
+msgid "Shift"
+msgstr "Shif7"
+
+#: Application/HotkeyControl.cpp:167
+msgid "Back"
+msgstr "Back"
+
+#: Application/HotkeyControl.cpp:169
+msgid "Tab"
+msgstr "7ab"
+
+#: Application/HotkeyControl.cpp:171
+msgid "Return"
+msgstr "R37urn"
+
+#: Application/HotkeyControl.cpp:173
+msgid "Esc"
+msgstr "35c"
+
+#: Application/HotkeyControl.cpp:175
+msgid "Space"
+msgstr "Spac3"
+
+#: Application/HotkeyControl.cpp:177
+#: Application/res/event.cpp:36
+#: Application/res/manager.cpp:11
+#: Application/res/todo.cpp:60
+msgid "Delete"
+msgstr "D31373"
+
+#: Application/HotkeyControl.cpp:179
+msgid "Page Up"
+msgstr "Pa93 Up"
+
+#: Application/HotkeyControl.cpp:181
+msgid "Page Down"
+msgstr "Pa93 D0wn"
+
+#: Application/HotkeyControl.cpp:187
+msgid "Left"
+msgstr "13f7"
+
+#: Application/HotkeyControl.cpp:189
+msgid "Up"
+msgstr "Up"
+
+#: Application/HotkeyControl.cpp:191
+msgid "Right"
+msgstr "Ri9h7"
+
+#: Application/HotkeyControl.cpp:193
+msgid "Down"
+msgstr "D0wn"
+
+#: Application/HotkeyControl.cpp:195
+msgid "Insert"
+msgstr "In50r7"
+
+#: Application/ItemCalendar.cpp:196
+#, c-format
+msgid "Edit \"%s\""
+msgstr "3di7 \"%s\""
+
+#: Application/ItemCalendar.cpp:201
+msgid "Delete all events"
+msgstr "D31373 a11 3v0rn75"
+
+#: Application/ItemCalendar.cpp:207
+#: Application/ItemListEvent.cpp:348
+msgid "Delete event"
+msgstr "D31373 3v0rn7"
+
+#: Application/ItemCalendar.cpp:209
+msgid "Events"
+msgstr "3v0rn75"
+
+#: Application/ItemListAlarm.cpp:202
+msgid "1 minute"
+msgstr "1 minu73"
+
+#: Application/ItemListAlarm.cpp:203
+msgid "5 minutes"
+msgstr "5 minu735"
+
+#: Application/ItemListAlarm.cpp:204
+msgid "10 minutes"
+msgstr "10 minu735"
+
+#: Application/ItemListAlarm.cpp:205
+msgid "30 minutes"
+msgstr "30 minu735"
+
+#: Application/ItemListAlarm.cpp:206
+msgid "1 hour"
+msgstr "1 h0ur"
+
+#: Application/ItemListAlarm.cpp:207
+msgid "2 hours"
+msgstr "2 h0ur5"
+
+#: Application/ItemListAlarm.cpp:209
+msgid "Snooze"
+msgstr "Sn0023"
+
+#: Application/ItemListAlarm.cpp:210
+msgid "Dismiss"
+msgstr "Di5mi55"
+
+#: Application/ItemListAlarm.cpp:214
+#: Application/ItemListAlarm.cpp:218
+msgid "Edit..."
+msgstr "3di7..."
+
+#: Application/ItemListEvent.cpp:180
+msgid "Today"
+msgstr "70day"
+
+#: Application/ItemListEvent.cpp:184
+msgid "Tomorrow"
+msgstr "70m0rr0w"
+
+#: Application/ItemListEvent.cpp:192
+#, c-format
+msgid "%s next week"
+msgstr "%s n3x7 w33k"
+
+#: Application/ItemListEvent.cpp:196
+#, c-format
+msgid "%s in %i weeks"
+msgstr "%s in %i w33k5"
+
+#: Application/ItemListEvent.cpp:347
+msgid "Edit event"
+msgstr "3di7 3v0rn7"
+
+#: Application/ItemListEvent.cpp:357
+msgid "Event list"
+msgstr "3v0rn7 1i57"
+
+#: Application/ItemListTodo.cpp:93
+#, c-format
+msgid "[Due %x]"
+msgstr "[Du3 %x]"
+
+#: Application/ItemListTodo.cpp:166
+msgid "No category"
+msgstr "N0 c890ry"
+
+#: Application/ItemListTodo.cpp:255
+msgid "Unknown"
+msgstr "Unkn0wn"
+
+#: Application/ItemListTodo.cpp:316
+#: Application/ItemListTodo.cpp:623
+#: Application/ItemListTodo.cpp:758
+msgid "Needs Action"
+msgstr "N33d5 4c7i0n"
+
+#: Application/ItemListTodo.cpp:321
+#: Application/ItemListTodo.cpp:620
+#: Application/ItemListTodo.cpp:771
+#: Application/res/todo.cpp:17
+msgid "In Progress"
+msgstr "In Pr09r355"
+
+#: Application/ItemListTodo.cpp:326
+#: Application/ItemListTodo.cpp:614
+#: Application/ItemListTodo.cpp:773
+#: Application/res/todo.cpp:18
+msgid "Completed"
+msgstr "C0mp1373d"
+
+#: Application/ItemListTodo.cpp:362
+msgid "High Priority"
+msgstr "Hi9h Pri0ri7y"
+
+#: Application/ItemListTodo.cpp:367
+msgid "Medium Priority"
+msgstr "M3dium Pri0ri7y"
+
+#: Application/ItemListTodo.cpp:372
+msgid "Low Priority"
+msgstr "10w Pri0ri7y"
+
+#: Application/ItemListTodo.cpp:377
+msgid "No Priority"
+msgstr "N0 Pri0ri7y"
+
+#: Application/ItemListTodo.cpp:597
+#: Application/res/todo.cpp:11
+msgid "Low"
+msgstr "10w"
+
+#: Application/ItemListTodo.cpp:725
+msgid "Alphabetically"
+msgstr "41phab37ica11y"
+
+#: Application/ItemListTodo.cpp:726
+msgid "By Category"
+msgstr "By C890ry"
+
+#: Application/ItemListTodo.cpp:727
+msgid "By Due Date"
+msgstr "By Du3 D8"
+
+#: Application/ItemListTodo.cpp:728
+msgid "By Start Date"
+msgstr "By S7ar7 D8"
+
+#: Application/ItemListTodo.cpp:729
+msgid "By Status"
+msgstr "By S7a7u5"
+
+#: Application/ItemListTodo.cpp:730
+msgid "By Priority"
+msgstr "By Pri0ri7y"
+
+#: Application/ItemListTodo.cpp:732
+msgid "Arrange"
+msgstr "4rran93"
+
+#: Application/ItemListTodo.cpp:793
+msgid "Edit task"
+msgstr "3di7 7a5k"
+
+#: Application/ItemListTodo.cpp:794
+msgid "Delete task"
+msgstr "D31373 7a5k"
+
+#: Application/ItemListTodo.cpp:804
+msgid "Hide completed tasks"
+msgstr "Hid3 c0mp1373d 7a5k5"
+
+#: Application/ItemListTodo.cpp:810
+msgid "Todo list"
+msgstr "70d0 1i57"
+
+#: Application/ItemListTooltip.cpp:54
+msgid "No events today."
+msgstr "N0 3v0rn75 70day."
+
+#: Application/ItemListTooltip.cpp:75
+msgid "Today's events:"
+msgstr "70day'5 3v0rn75:"
+
+#: Application/Rainlendar.cpp:104
+msgid "allow multiple instances"
+msgstr "a110w mu17ip13 in57anc35"
+
+#: Application/Rainlendar.cpp:105
+msgid "install a skin or a language"
+msgstr "in57a11 a 5kin 0r a 1an9ua93"
+
+#: Application/Rainlendar.cpp:106
+msgid "path where the configuration file will be stored"
+msgstr "pa7h wh0r3 73h c0nfi9ura7i0n fi13 wi11 b3 570r3d"
+
+#: Application/Rainlendar.cpp:108
+msgid "path where the log file will be stored"
+msgstr "pa7h wh0r3 73h 109 fi13 wi11 b3 570r3d"
+
+#: Application/Rainlendar.cpp:109
+msgid "enable verbose logging"
+msgstr "0rnab13 v0rb053 1099in9"
+
+#: Application/Rainlendar.cpp:110
+msgid "enable debug logging"
+msgstr "0rnab13 d3bu9 1099in9"
+
+#: Application/Rainlendar.cpp:296
+#, c-format
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Unab13 70 10ad r350urc35 fr0m pa7h:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:512
+msgid ""
+"Rainlendar was not able to refresh the settings correctly.\n"
+"Do you want to reset all settings and try again?\n"
+"(Select \"No\" to open Rainlendar with old settings)"
+msgstr ""
+"Rain10rndar wa5 n07 ab13 70 r3fr35h 73h 5377in95 c0rr3c71y.\n"
+"D0 u wan7 70 r3537 a11 5377in95 and 7ry a9ain?\n"
+"(S313c7 \\\"N0\\\" 70 0p0rn Rain10rndar wi7h 01d 5377in95)"
+
+#: Application/Rainlendar.cpp:526
+#, c-format
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"73hr3 ar3 n0 5kin5 in pa7h:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:540
+msgid ""
+"Rainlendar was not able to load the selected skin.\n"
+"Do you want to use the default skin instead?"
+msgstr ""
+"Rain10rndar wa5 n07 ab13 70 10ad 73h 5313c73d 5kin.\n"
+"D0 u wan7 70 u53 73h d3fau17 5kin in573ad?"
+
+#: Application/Rainlendar.cpp:553
+msgid "Unable to load the skin. Check the log for more details."
+msgstr "Unab13 70 10ad 73h 5kin. Ch3ck 73h 109 4 m0r3 d37ai15."
+
+#: Application/Rainlendar.cpp:823
+msgid ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+msgstr ""
+"73hr3 cm5 70 b3 50m37hin9 wr0n9 wi7h 73h 1ic0rn53 fi13.\n"
+"P13a53 mak3 5ur3 7ha7 73h d0wn10ad ur1 i5 c0rr3c7 and 7ry a9ain."
+
+#: Application/Rainlendar.cpp:1097
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"F0und 73h53 01d Rain10rndar fi135:\n"
+"\n"
+
+#: Application/Rainlendar.cpp:1104
+msgid "Do you want to import them?"
+msgstr "D0 u wan7 70 imp0r7 73hm?"
+
+#: Application/Rainlendar.cpp:1126
+#, c-format
+msgid "Import failed with file: \"%s\""
+msgstr "Imp0r7 fai13d wi7h fi13: \"%s\""
+
+#: Application/SkinIni.cpp:303
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 0 to 11 for a specific month in the current year."
+msgstr "D3fin35 73h m0n7h 7ha7 73h ca10rndar 5h0w5. S37 70 +1 4 73h n3x7 m0n7h, -1 4 73h pr3vi0u5 m0n7h 0r a va1u3 fr0m 0 70 11 4 a 5p3cific m0n7h in 73h curr0rn7 y3ar."
+
+#: Application/SkinIni.cpp:448
+msgid "Defines the width of the event list."
+msgstr "D3fin35 73h wid7h 0f 73h 3v0rn7 1i57."
+
+#: Application/SkinIni.cpp:449
+msgid "Defines the width of the todo list."
+msgstr "D3fin35 73h wid7h 0f 73h 70d0 1i57."
+
+#: Application/SkinManager.cpp:87
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Unab13 70 find ac7iv3 5kin5.\n"
+"C1ick OK 70 10ad 73h fir57 avai1ab13 5kin."
+
+#: Application/SkinManager.cpp:92
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"73h 5kin d035n'7 hav3 any ac7iv3 wind0w5.\n"
+"73h d3fau17 wind0w5 ar3 u53d in573ad."
+
+#: Application/SkinManager.cpp:97
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"73h 5kin d035n'7 3xi57.\n"
+"C1ick OK 70 10ad 73h fir57 avai1ab13 5kin."
+
+#: Application/Util.cpp:725
+msgid "January"
+msgstr "January"
+
+#: Application/Util.cpp:727
+msgid "February"
+msgstr "F3bruary"
+
+#: Application/Util.cpp:729
+msgid "March"
+msgstr "March"
+
+#: Application/Util.cpp:731
+msgid "April"
+msgstr "4pri1"
+
+#: Application/Util.cpp:733
+msgid "May"
+msgstr "May"
+
+#: Application/Util.cpp:735
+msgid "June"
+msgstr "Jun3"
+
+#: Application/Util.cpp:737
+msgid "July"
+msgstr "Ju1y"
+
+#: Application/Util.cpp:739
+msgid "August"
+msgstr "4u9u57"
+
+#: Application/Util.cpp:741
+msgid "September"
+msgstr "S3p73mb0r"
+
+#: Application/Util.cpp:743
+msgid "October"
+msgstr "Oc70b0r"
+
+#: Application/Util.cpp:745
+msgid "November"
+msgstr "N0v3mb0r"
+
+#: Application/Util.cpp:747
+msgid "December"
+msgstr "D3c3mb0r"
+
+#: Application/Util.cpp:788
+#: Application/res/event.cpp:29
+#: Application/res/todo.cpp:53
+msgid "Sun"
+msgstr "Sun"
+
+#: Application/Util.cpp:791
+#: Application/res/event.cpp:23
+#: Application/res/todo.cpp:47
+msgid "Mon"
+msgstr "M0n"
+
+#: Application/Util.cpp:794
+#: Application/res/event.cpp:24
+#: Application/res/todo.cpp:48
+msgid "Tue"
+msgstr "7u3"
+
+#: Application/Util.cpp:797
+#: Application/res/event.cpp:25
+#: Application/res/todo.cpp:49
+msgid "Wed"
+msgstr "W3d"
+
+#: Application/Util.cpp:800
+#: Application/res/event.cpp:26
+#: Application/res/todo.cpp:50
+msgid "Thu"
+msgstr "7hu"
+
+#: Application/Util.cpp:803
+#: Application/res/event.cpp:27
+#: Application/res/todo.cpp:51
+msgid "Fri"
+msgstr "Fri"
+
+#: Application/Util.cpp:806
+#: Application/res/event.cpp:28
+#: Application/res/todo.cpp:52
+msgid "Sat"
+msgstr "Sa7"
+
+#: Application/WizardCalendar.cpp:22
+#: Application/WizardCalendar.cpp:27
+msgid "Create a new calendar"
+msgstr "Cr38 a n3w ca10rndar"
+
+#: Application/WizardPageCalendar.cpp:33
+msgid "Please select the type of the calendar."
+msgstr "P13a53 5313c7 73h 7yp3 0f 73h ca10rndar."
+
+#: Application/WizardPageCalendar.cpp:42
+msgid "Type"
+msgstr "7yp3"
+
+#: Application/WizardPageCalendar.cpp:68
+msgid ""
+"The calendar type defines the format of the events\n"
+"and where they are stored."
+msgstr ""
+"73h ca10rndar 7yp3 d3fin35 73h 4ma7 0f 73h 3v0rn75\n"
+"and wh0r3 73hy ar3 570r3d."
+
+#: Application/WizardPageCalendar.cpp:85
+msgid "You need to select a calendar type!"
+msgstr "u n33d 70 5313c7 a ca10rndar 7yp3!"
+
+#: Application/WizardPageCalendar.cpp:172
+#: Application/res/alarm.cpp:3
+msgid "Browse..."
+msgstr "Br0w53..."
+
+#: Application/WizardPageCalendar.cpp:248
+msgid "Only local files can be defined as the file name."
+msgstr "On1y 10ca1 fi135 can b3 d3fin3d a5 73h fi13 nam3."
+
+#: Application/WizardPageCalendar.cpp:254
+msgid ""
+"It's not possible to use UNC paths as the file name.\n"
+"You need to map the network drive to be able to access the files on a server."
+msgstr ""
+"I7'5 n07 p055ib13 70 u53 UNC pa7h5 a5 73h fi13 nam3.\n"
+"u n33d 70 map 73h n37w0rk driv3 70 b3 ab13 70 acc355 73h fi135 0n a 50rv0r."
+
+#: Application/WizardPageCalendar.cpp:362
+msgid "Please choose a name for the the calendar."
+msgstr "P13a53 ch0053 a nam3 4 73h 73h ca10rndar."
+
+#: Application/WizardPageCalendar.cpp:370
+msgid "Name"
+msgstr "Nam3"
+
+#: Application/WizardPageCalendar.cpp:408
+msgid ""
+"The calendar with the same name already exists.\n"
+"Please use some other name."
+msgstr ""
+"73h ca10rndar wi7h 73h 5am3 nam3 a1r3ady 3xi575.\n"
+"P13a53 u53 50m3 073hr nam3."
+
+#: Application/WizardPageCalendar.cpp:415
+msgid "You need to give some name for the calendar."
+msgstr "u n33d 70 9iv3 50m3 nam3 4 73h ca10rndar."
+
+#: Application/res/about.cpp:2
+#: Application/res/manager.cpp:8
+#: Application/res/manager.cpp:15
+#: Application/res/print.cpp:10
+msgid "Close"
+msgstr "C1053"
+
+#: Application/res/alarm.cpp:1
+msgid "Alarm sound"
+msgstr "41arm 50und"
+
+#: Application/res/alarm.cpp:2
+msgid "Select the sound file for the alarm"
+msgstr "S313c7 73h 50und fi13 4 73h a1arm"
+
+#: Application/res/event.cpp:3
+#: Application/res/todo.cpp:3
+msgid "Summary:"
+msgstr "Summary:"
+
+#: Application/res/event.cpp:4
+#: Application/res/todo.cpp:4
+msgid "Location:"
+msgstr "10ca7i0n:"
+
+#: Application/res/event.cpp:5
+#: Application/res/todo.cpp:5
+msgid "Private"
+msgstr "Priv8"
+
+#: Application/res/event.cpp:6
+#: Application/res/todo.cpp:6
+msgid "Start time:"
+msgstr "S7ar7 7im3:"
+
+#: Application/res/event.cpp:7
+msgid "All day event"
+msgstr "411 day 3v0rn7"
+
+#: Application/res/event.cpp:8
+msgid "End time:"
+msgstr "3nd 7im3:"
+
+#: Application/res/event.cpp:10
+#: Application/res/event.cpp:11
+#: Application/res/todo.cpp:35
+msgid "Minutes"
+msgstr "Minu735"
+
+#: Application/res/event.cpp:12
+#: Application/res/todo.cpp:36
+msgid "Hours"
+msgstr "H0ur5"
+
+#: Application/res/event.cpp:13
+#: Application/res/event.cpp:19
+#: Application/res/todo.cpp:34
+#: Application/res/todo.cpp:37
+#: Application/res/todo.cpp:43
+msgid "Days"
+msgstr "Day5"
+
+#: Application/res/event.cpp:14
+msgid "before the event starts."
+msgstr "b343 73h 3v0rn7 57ar75."
+
+#: Application/res/event.cpp:17
+#: Application/res/todo.cpp:41
+msgid "Recurrence"
+msgstr "R3curr0rnc3"
+
+#: Application/res/event.cpp:18
+#: Application/res/todo.cpp:42
+msgid "Repeat every"
+msgstr "R3p3a7 3v0ry"
+
+#: Application/res/event.cpp:20
+#: Application/res/todo.cpp:44
+msgid "Weeks"
+msgstr "W33k5"
+
+#: Application/res/event.cpp:21
+#: Application/res/todo.cpp:45
+msgid "Months"
+msgstr "M0n7h5"
+
+#: Application/res/event.cpp:22
+#: Application/res/todo.cpp:46
+msgid "Years"
+msgstr "Y3ar5"
+
+#: Application/res/event.cpp:30
+#: Application/res/todo.cpp:54
+msgid "Repeat"
+msgstr "R3p3a7"
+
+#: Application/res/event.cpp:31
+#: Application/res/todo.cpp:55
+msgid "Forever"
+msgstr "43v0r"
+
+#: Application/res/event.cpp:32
+#: Application/res/todo.cpp:56
+msgid "Number of times"
+msgstr "Numb0r 0f 7im35"
+
+#: Application/res/event.cpp:33
+#: Application/res/todo.cpp:57
+msgid "Until"
+msgstr "Un7i1"
+
+#: Application/res/event.cpp:34
+#: Application/res/todo.cpp:58
+msgid "Exception dates"
+msgstr "3xc3p7i0n d85"
+
+#: Application/res/event.cpp:35
+#: Application/res/options.cpp:26
+#: Application/res/todo.cpp:59
+msgid "Add"
+msgstr "4dd"
+
+#: Application/res/manager.cpp:2
+msgid "File"
+msgstr "Fi13"
+
+#: Application/res/manager.cpp:3
+msgid "Import"
+msgstr "Imp0r7"
+
+#: Application/res/manager.cpp:4
+msgid "Export"
+msgstr "3xp0r7"
+
+#: Application/res/manager.cpp:5
+#: Application/res/print.cpp:9
+msgid "Print..."
+msgstr "Prin7..."
+
+#: Application/res/manager.cpp:6
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:180
+msgid "Backup"
+msgstr "Backup"
+
+#: Application/res/manager.cpp:7
+msgid "Restore"
+msgstr "R3570r3"
+
+#: Application/res/manager.cpp:9
+msgid "New"
+msgstr "N3w"
+
+#: Application/res/manager.cpp:10
+msgid "Edit"
+msgstr "3di7"
+
+#: Application/res/manager.cpp:12
+msgid "Show events"
+msgstr "Sh0w 3v0rn75"
+
+#: Application/res/manager.cpp:13
+msgid "Show todo items"
+msgstr "Sh0w 70d0 i73m5"
+
+#: Application/res/manager.cpp:14
+msgid "Search:"
+msgstr "S3arch:"
+
+#: Application/res/options.cpp:2
+msgid "Week's start day:"
+msgstr "W33k'5 57ar7 day:"
+
+#: Application/res/options.cpp:3
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Sh0w 70day'5 3v0rn75 0n 7ray wh0rn Rain10rndar i5 57ar73d"
+
+#: Application/res/options.cpp:4
+msgid "Add years to birthdays and anniversaries"
+msgstr "4dd y3ar5 70 bir7hday5 and anniv0r5ari35"
+
+#: Application/res/options.cpp:5
+msgid "Hide windows if there are no items"
+msgstr "Hid3 wind0w5 if 73hr3 ar3 n0 i73m5"
+
+#: Application/res/options.cpp:6
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "C1ick 7hr0u9h (h01d Shif7-k3y d0wn 70 d3ac7iv8)"
+
+#: Application/res/options.cpp:7
+msgid "Lock windows in place"
+msgstr "10ck wind0w5 in p1ac3"
+
+#: Application/res/options.cpp:8
+msgid "Enable on startup"
+msgstr "3nab13 0n 57ar7up"
+
+#: Application/res/options.cpp:9
+msgid "Language:"
+msgstr "1an9ua93:"
+
+#: Application/res/options.cpp:10
+msgid "Position"
+msgstr "P05i7i0n"
+
+#: Application/res/options.cpp:11
+msgid "On Top"
+msgstr "On 70p"
+
+#: Application/res/options.cpp:12
+msgid "Normal"
+msgstr "N0rma1"
+
+#: Application/res/options.cpp:13
+msgid "On Bottom"
+msgstr "On B0770m"
+
+#: Application/res/options.cpp:14
+msgid "On Desktop"
+msgstr "On D35k70p"
+
+#: Application/res/options.cpp:15
+msgid "Transparency"
+msgstr "7ran5par0rncy"
+
+#: Application/res/options.cpp:16
+msgid "Normal:"
+msgstr "N0rma1:"
+
+#: Application/res/options.cpp:17
+msgid "Mouse over:"
+msgstr "M0u53 0v0r:"
+
+#: Application/res/options.cpp:19
+msgid "Add..."
+msgstr "4dd..."
+
+#: Application/res/options.cpp:20
+#: Application/res/options.cpp:27
+msgid "Remove"
+msgstr "R3m0v3"
+
+#: Application/res/options.cpp:21
+msgid "Settings"
+msgstr "S377in95"
+
+#: Application/res/options.cpp:23
+msgid "Action:"
+msgstr "4c7i0n:"
+
+#: Application/res/options.cpp:24
+msgid "Hotkey:"
+msgstr "H07k3y:"
+
+#: Application/res/options.cpp:25
+msgid "Set"
+msgstr "S37"
+
+#: Application/res/options.cpp:28
+msgid "Available skins"
+msgstr "4vai1ab13 5kin5"
+
+#: Application/res/options.cpp:29
+msgid "-->"
+msgstr "--&97;"
+
+#: Application/res/options.cpp:30
+msgid "<--"
+msgstr "&17;--"
+
+#: Application/res/options.cpp:31
+msgid "Active skins"
+msgstr "4c7iv3 5kin5"
+
+#: Application/res/options.cpp:32
+msgid "Settings..."
+msgstr "S377in95..."
+
+#: Application/res/options.cpp:34
+msgid "Details"
+msgstr "D37ai15"
+
+#: Application/res/print.cpp:1
+msgid "All items"
+msgstr "411 i73m5"
+
+#: Application/res/print.cpp:2
+msgid "Selected items"
+msgstr "S313c73d i73m5"
+
+#: Application/res/print.cpp:3
+msgid "Day range"
+msgstr "Day ran93"
+
+#: Application/res/print.cpp:4
+msgid "Select days"
+msgstr "S313c7 day5"
+
+#: Application/res/print.cpp:5
+msgid "From:"
+msgstr "Fr0m:"
+
+#: Application/res/print.cpp:6
+msgid "To:"
+msgstr "70:"
+
+#: Application/res/print.cpp:7
+msgid "Add title"
+msgstr "4dd 7i713"
+
+#: Application/res/print.cpp:8
+msgid "Preview..."
+msgstr "Pr3vi3w..."
+
+#: Application/res/todo.cpp:7
+msgid "Due time:"
+msgstr "Du3 7im3:"
+
+#: Application/res/todo.cpp:8
+msgid "Priority:"
+msgstr "Pri0ri7y:"
+
+#: Application/res/todo.cpp:14
+msgid "Status:"
+msgstr "S7a7u5:"
+
+#: Application/res/todo.cpp:20
+msgid "Progress:"
+msgstr "Pr09r355:"
+
+#: Application/res/todo.cpp:21
+#: Application/res/todo.cpp:22
+msgid "0 %"
+msgstr "0 %"
+
+#: Application/res/todo.cpp:23
+msgid "10 %"
+msgstr "10 %"
+
+#: Application/res/todo.cpp:24
+msgid "20 %"
+msgstr "20 %"
+
+#: Application/res/todo.cpp:25
+msgid "30 %"
+msgstr "30 %"
+
+#: Application/res/todo.cpp:26
+msgid "40 %"
+msgstr "40 %"
+
+#: Application/res/todo.cpp:27
+msgid "50 %"
+msgstr "50 %"
+
+#: Application/res/todo.cpp:28
+msgid "60 %"
+msgstr "60 %"
+
+#: Application/res/todo.cpp:29
+msgid "70 %"
+msgstr "70 %"
+
+#: Application/res/todo.cpp:30
+msgid "80 %"
+msgstr "80 %"
+
+#: Application/res/todo.cpp:31
+msgid "90 %"
+msgstr "90 %"
+
+#: Application/res/todo.cpp:32
+msgid "100 %"
+msgstr "100 %"
+
+#: Application/res/todo.cpp:38
+msgid "before the task is due."
+msgstr "b343 73h 7a5k i5 du3."
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:421
+msgid "Filename"
+msgstr "Fi10rnam3"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:464
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a new file will be created."
+msgstr ""
+"Ch0053 a fi13 4 73h ca10rndar.\n"
+"\n"
+"u can 5313c7 an 3xi57in9 ic5-fi13 0r 7yp3 a n3w pa7h nam3 in which ca53 a n3w fi13 wi11 b3 cr38d."
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:164
+msgid "URL"
+msgstr "UR1"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:168
+msgid "Username"
+msgstr "U50rnam3"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:172
+msgid "Password"
+msgstr "Pa55w0rd"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:176
+msgid "Poll Frequency"
+msgstr "P011 Fr3qu0rncy"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:184
+msgid "Proxy server"
+msgstr "Pr0xy 50rv0r"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:188
+msgid "Proxy username"
+msgstr "Pr0xy u50rnam3"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:192
+msgid "Proxy password"
+msgstr "Pr0xy pa55w0rd"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:196
+msgid "Suppress errors"
+msgstr "Suppr355 0rr0r5"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:236
+msgid ""
+"Choose an URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password fields can be left empty if they are not needed."
+msgstr ""
+"Ch0053 an UR1, u50rnam3 and pa55w0rd 4 73h ca10rndar.\n"
+"\n"
+"73h UR1 can u53 h77p, h77p5 0r f7p pr070c015. 73h u50rnam3 and pa55w0rd fi31d5 can b3 13f7 3mp7y if 73hy ar3 n07 n33d3d."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:473
+#, c-format
+msgid ""
+"Network Error!\n"
+"\n"
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+"N37w0rk 3rr0r!\n"
+"\n"
+"3rr0r d0wn10adin9 73h da7a fr0m 73h ur1:\n"
+"%s\n"
+"\n"
+"S0rv0r r37urn3d r35u17: %i %s."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:600
+#, c-format
+msgid ""
+"Network Error!\n"
+"\n"
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+"N37w0rk 3rr0r!\n"
+"\n"
+"3rr0r up10adin9 73h da7a 70 73h ur1:\n"
+"%s\n"
+"\n"
+"S0rv0r r37urn3d r35u17: %i %s."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:92
+msgid "Unable to initialize the MAPI library."
+msgstr "Unab13 70 ini7ia1i23 73h M4PI 1ibrary."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:192
+#: Plugins/OutlookPlugin/MapiHandler.cpp:285
+#: Plugins/OutlookPlugin/MapiHandler.cpp:298
+msgid "Application"
+msgstr "4pp1ica7i0n"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:207
+#: Plugins/OutlookPlugin/MapiHandler.cpp:304
+msgid "Profile"
+msgstr "Pr0fi13"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:222
+msgid "MessageStore"
+msgstr "M355a93S70r3"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:237
+msgid "Import Alarms"
+msgstr "Imp0r7 41arm5"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:337
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Ch0053 73h Ou7100k m355a93 570r3 which u wan7 70 c in Rain10rndar."
+
+#: Application/Resource.h:214
+msgid "Yes"
+msgstr "Y35"
+
+#: Application/Resource.h:215
+msgid "No"
+msgstr "N0"
+
+#: Application/Resource.h:216
+msgid "True"
+msgstr "7ru3"
+
+#: Application/Resource.h:217
+msgid "False"
+msgstr "Fa153"
+
+#: Application/Resource.h:219
+msgid "Hide Windows"
+msgstr "Hid3 Wind0w5"
+
+#: Application/Resource.h:220
+msgid "Show Windows"
+msgstr "Sh0w Wind0w5"
+
+#: Application/Resource.h:221
+msgid "Toggle Windows"
+msgstr "709913 Wind0w5"
+
+#: Application/Resource.h:222
+msgid "Next Month"
+msgstr "N3x7 M0n7h"
+
+#: Application/Resource.h:223
+msgid "Previous Month"
+msgstr "Pr3vi0u5 M0n7h"
+
+#: Application/Resource.h:226
+msgid "Anniversary"
+msgstr "4nniv0r5ary"
+
+#: Application/Resource.h:227
+msgid "Birthday"
+msgstr "Bir7hday"
+
+#: Application/Resource.h:228
+msgid "Business"
+msgstr "Bu5in355"
+
+#: Application/Resource.h:229
+msgid "Calls"
+msgstr "Ca115"
+
+#: Application/Resource.h:230
+msgid "Clients"
+msgstr "C1i0rn75"
+
+#: Application/Resource.h:231
+msgid "Competition"
+msgstr "C0mp37i7i0n"
+
+#: Application/Resource.h:232
+msgid "Customer"
+msgstr "Cu570m0r"
+
+#: Application/Resource.h:233
+msgid "Exam"
+msgstr "3xam"
+
+#: Application/Resource.h:234
+msgid "Favorites"
+msgstr "Fav0ri735"
+
+#: Application/Resource.h:235
+msgid "Follow up"
+msgstr "F0110w up"
+
+#: Application/Resource.h:236
+msgid "Gifts"
+msgstr "6if75"
+
+#: Application/Resource.h:237
+msgid "Holidays"
+msgstr "H01iday5"
+
+#: Application/Resource.h:238
+msgid "Ideas"
+msgstr "Id3a5"
+
+#: Application/Resource.h:239
+msgid "Important"
+msgstr "Imp0r7an7"
+
+#: Application/Resource.h:240
+msgid "Issues"
+msgstr "I55u35"
+
+#: Application/Resource.h:241
+msgid "Miscellaneous"
+msgstr "Mi5c311an30u5"
+
+#: Application/Resource.h:242
+msgid "Personal"
+msgstr "P0r50na1"
+
+#: Application/Resource.h:243
+msgid "Projects"
+msgstr "Pr0j3c75"
+
+#: Application/Resource.h:244
+msgid "Public Holiday"
+msgstr "Pub1ic H01iday"
+
+#: Application/Resource.h:246
+msgid "Suppliers"
+msgstr "Supp1i0r5"
+
+#: Application/Resource.h:247
+msgid "Travel"
+msgstr "7rav31"
+
+#: Application/Resource.h:248
+msgid "Trip"
+msgstr "7rip"
+
+#: Application/Resource.h:249
+msgid "TV"
+msgstr "7V"
+
+#: Application/Resource.h:250
+msgid "Vacation"
+msgstr "Vaca7i0n"
+
+#: Application/Resource.h:251
+msgid "Work"
+msgstr "W0rk"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:27
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCa10rndar fi135 (*.ic5)|*.ic5|vCa10rndar fi135 (*.vc5)|*.vc5"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:28
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCa10rndar fi135 (*.ic5)|*.ic5"
+
+#: Plugins/IniFormatPlugin/IniFormatHandler.h:21
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rain10rndar fi135 (*.ini)|*.ini"
+

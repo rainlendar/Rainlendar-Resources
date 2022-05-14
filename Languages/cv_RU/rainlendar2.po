@@ -1,0 +1,3321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rainlendar 2.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-01-26 20:07+0100\n"
+"Last-Translator: mirontoli <mirontoli@gmail.com>\n"
+"Language-Team: Владимир Кожевников <interhypar@mail.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chuvash\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+
+#: Application/Config.cpp:864
+#: Application/Rainlendar.cpp:1231
+#: Application/Rainlendar.cpp:1242
+#: Application/Rainlendar.cpp:1368
+#: Plugins/OutlookPlugin/MapiHandler.cpp:592
+#: Application/Resource.h:286
+msgid "Default"
+msgstr "Default"
+
+#: Application/Config.cpp:870
+msgid "Copy"
+msgstr "Копиле"
+
+#: Application/Config.cpp:871
+msgid "Region"
+msgstr "Тăрăх"
+
+#: Application/Config.cpp:874
+msgid "Native"
+msgstr "\"Çуралнă пек\""
+
+#: Application/Config.cpp:883
+msgid "Sunday"
+msgstr "Вырсарникун"
+
+#: Application/Config.cpp:884
+msgid "Monday"
+msgstr "Тунтикун"
+
+#: Application/Config.cpp:885
+msgid "Tuesday"
+msgstr "Ытларикун"
+
+#: Application/Config.cpp:886
+msgid "Wednesday"
+msgstr "Юнкун"
+
+#: Application/Config.cpp:887
+msgid "Thursday"
+msgstr "Кĕçнерникун"
+
+#: Application/Config.cpp:888
+msgid "Friday"
+msgstr "Эрнекун"
+
+#: Application/Config.cpp:889
+msgid "Saturday"
+msgstr "Шăматкун"
+
+#: Application/Config.cpp:892
+#: Application/DialogManager.cpp:1125
+#: Application/DialogManager.cpp:1154
+#: Application/DialogPrint.cpp:355
+#: Application/WindowTooltip.cpp:239
+msgid "Start"
+msgstr "Пуçланать"
+
+#: Application/Config.cpp:893
+#: Application/DialogManager.cpp:1154
+#: Application/DialogPrint.cpp:385
+#: Application/WindowTooltip.cpp:249
+msgid "Due"
+msgstr "Пуçламалла вăхăчĕ"
+
+#: Application/Config.cpp:894
+#: Application/DialogManager.cpp:1154
+#: Application/WindowTooltip.cpp:260
+msgid "Priority"
+msgstr "Приоритет"
+
+#: Application/Config.cpp:895
+#: Application/DialogManager.cpp:1154
+#: Application/WindowTooltip.cpp:272
+#: Application/Resource.h:278
+msgid "Status"
+msgstr "Хал"
+
+#: Application/Config.cpp:905
+#: Application/DialogOptions.cpp:105
+#: Application/DialogSkinSettings.cpp:155
+#: Application/res/options.cpp:1
+msgid "General"
+msgstr "Тĕп"
+
+#: Application/Config.cpp:907
+#: Application/Config.cpp:1005
+msgid "Time format"
+msgstr "Вăхăт формачĕ"
+
+#: Application/Config.cpp:908
+#: Application/Config.cpp:1006
+msgid "Date format"
+msgstr "Дата формачĕ"
+
+#: Application/Config.cpp:909
+#: Application/Config.cpp:1007
+msgid "Weekend days"
+msgstr "Кану кунĕсем"
+
+#: Application/Config.cpp:910
+#: Application/Config.cpp:1008
+msgid "Week number delta"
+msgstr "Эрне хисепĕ delta"
+
+#: Application/Config.cpp:911
+#: Application/Config.cpp:1010
+msgid "Default categories"
+msgstr "Яланхи категорисем"
+
+#: Application/Config.cpp:912
+#: Application/Config.cpp:1020
+msgid "Show categories from the skin"
+msgstr "Кĕпен категорийĕсене кăтарт"
+
+#: Application/Config.cpp:913
+#: Application/Config.cpp:1021
+#, fuzzy
+msgid "Snap distance"
+msgstr "Snap дистанцийĕ"
+
+#: Application/Config.cpp:914
+#: Application/Config.cpp:1022
+#, fuzzy
+msgid "Snap center"
+msgstr "Snap тĕп вырăнĕ"
+
+#: Application/Config.cpp:915
+#: Application/Config.cpp:1023
+msgid "Save window position"
+msgstr "Чӳрече ăçта вырнăçнине сыхла"
+
+#: Application/Config.cpp:916
+#: Application/Config.cpp:1024
+msgid "Show tray icon"
+msgstr "Tray icon кăтарт"
+
+#: Application/Config.cpp:917
+#: Application/Config.cpp:1025
+msgid "Keep on screen"
+msgstr "Ĕç сĕтелĕнче  усра"
+
+#: Application/Config.cpp:918
+#: Application/Config.cpp:1026
+msgid "Always show full menus"
+msgstr "Ялан тулли менӳсене кăтарт"
+
+#: Application/Config.cpp:919
+#: Application/Config.cpp:1027
+msgid "Disable keyboard shortcuts"
+msgstr "Вĕри пускăчсене ан ĕçлеччĕр"
+
+#: Application/Config.cpp:922
+#: Application/Config.cpp:1030
+msgid "Show in all desktops"
+msgstr "Пур ĕç сĕтелĕсенче кăтарт"
+
+#: Application/Config.cpp:924
+#: Application/Config.cpp:1032
+#, fuzzy
+msgid "Calendar wheel scroll"
+msgstr "Календарь прокрутки"
+
+#: Application/Config.cpp:925
+#: Application/Config.cpp:1033
+#, fuzzy
+msgid "List wheel scroll"
+msgstr "Список прокрутки"
+
+#: Application/Config.cpp:926
+#: Application/Config.cpp:1034
+msgid "Transparency type"
+msgstr "Витĕр курăнмалли тип"
+
+#: Application/Config.cpp:927
+#: Application/Config.cpp:1035
+msgid "Copy transparency sleep time"
+msgstr "Transparency çывăрмалли вăхăта копиле"
+
+#: Application/Config.cpp:928
+#: Application/Config.cpp:1036
+#, fuzzy
+msgid "Fade delay"
+msgstr "Çывăрмалли задержки"
+
+#: Application/Config.cpp:929
+#: Application/Config.cpp:1037
+msgid "Fade duration"
+msgstr "Çывăрса каймалли вăхăт"
+
+#: Application/Config.cpp:930
+#: Application/Config.cpp:1038
+msgid "Font scale"
+msgstr "Шрифт пысăкăшĕ"
+
+#: Application/Config.cpp:931
+#: Application/Config.cpp:1040
+msgid "Skin language"
+msgstr "Кĕпен чĕлхи"
+
+#: Application/Config.cpp:932
+#: Application/Config.cpp:1050
+msgid "Create backups automatically"
+msgstr "Backup'сем автоматла ту"
+
+#: Application/Config.cpp:933
+#: Application/Config.cpp:1051
+msgid "Show delete confirmations"
+msgstr "Кăларса пăрахас умĕн ялан тата ыйт."
+
+#: Application/Config.cpp:934
+#: Application/Config.cpp:1052
+msgid "Combine icons in the calendar"
+msgstr "Калиндарьти иконкисене хутăштар"
+
+#: Application/Config.cpp:935
+#: Application/Config.cpp:1053
+msgid "Disable text formatting"
+msgstr "Текст форматланине хуп"
+
+#: Application/Config.cpp:937
+msgid "Network"
+msgstr "Тетел"
+
+#: Application/Config.cpp:938
+#: Application/Config.cpp:1055
+msgid "Proxy server"
+msgstr "Proxy серверĕ"
+
+#: Application/Config.cpp:939
+#: Application/Config.cpp:1056
+msgid "Proxy user"
+msgstr "Proxy усă кураканĕ"
+
+#: Application/Config.cpp:940
+#: Application/Config.cpp:941
+#: Application/Config.cpp:1057
+msgid "Proxy password"
+msgstr "Proxy паролĕ"
+
+#: Application/Config.cpp:942
+#: Application/Config.cpp:1063
+msgid "Try direct connection if proxy fails"
+msgstr "Proxy ăнăçсăрлансан тӳрĕ çыхăнупа тăрăш"
+
+#: Application/Config.cpp:944
+#: Application/DialogOptions.cpp:561
+#: Application/DialogOptions.cpp:802
+#: Application/DialogOptions.cpp:873
+msgid "Tooltip"
+msgstr "Сиксе тухакан текст"
+
+#: Application/Config.cpp:945
+#: Application/Config.cpp:1065
+msgid "Show tooltips"
+msgstr "Сиксе тухакан текст кăтарт"
+
+#: Application/Config.cpp:946
+#: Application/Config.cpp:1066
+msgid "Max tooltip window width"
+msgstr "Сиксе тухакан текстăн максимум сарлакăшĕ"
+
+#: Application/Config.cpp:947
+#: Application/Config.cpp:1067
+msgid "Show description in tooltip"
+msgstr "Сиксе тухакан текст пек ăнлантаркăчне кăтарт"
+
+#: Application/Config.cpp:948
+#: Application/Config.cpp:1068
+msgid "Todo items in tooltip"
+msgstr "Сиксе тухакан текстра тумалли япаласем"
+
+#: Application/Config.cpp:949
+#: Application/Config.cpp:1069
+msgid "Traytip show duration"
+msgstr "Traytip кăтартас вăхăт"
+
+#: Application/Config.cpp:950
+#: Application/Config.cpp:1070
+msgid "Tooltip fade duration"
+msgstr "Сиксе тухакан текст çухални вăхăт"
+
+#: Application/Config.cpp:951
+#: Application/Config.cpp:1071
+msgid "Tooltip show delay"
+msgstr "Сиксе тухакан текст мĕн чухлĕ вăхăтран кăтартмалла"
+
+#: Application/Config.cpp:952
+#: Application/Config.cpp:1072
+msgid "Tooltip format"
+msgstr "Сиксе тухакан текст формачĕ"
+
+#: Application/Config.cpp:954
+msgid "TodoList"
+msgstr "Тумалли список"
+
+#: Application/Config.cpp:955
+#: Application/Config.cpp:1074
+msgid "Show full task summary"
+msgstr "Тĕллевĕн пĕтĕ ăнлантарнине кăтарт"
+
+#: Application/Config.cpp:956
+#: Application/Config.cpp:1075
+msgid "Show task due time"
+msgstr "Тĕллевĕн хăçан пуçламаллине кăтарт"
+
+#: Application/Config.cpp:957
+#: Application/Config.cpp:1076
+msgid "Show task location"
+msgstr "Тĕллевĕн ăçтине кăтарт"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:958
+#: Application/Config.cpp:1077
+msgid "Show task calendar"
+msgstr "Тĕллев календарне кăтарт"
+
+#: Application/Config.cpp:960
+#: Application/Config.cpp:975
+#: Application/DialogComponent.cpp:1675
+#: Application/DialogComponent.cpp:1681
+msgid "<None>"
+msgstr "<Палăртман>"
+
+#: Application/Config.cpp:962
+#: Application/Config.cpp:1080
+msgid "Default task template"
+msgstr "Яланхи тĕллев шаблонĕ"
+
+#: Application/Config.cpp:964
+msgid "EventList"
+msgstr "Пулăмсен хăми"
+
+#: Application/Config.cpp:965
+#: Application/Config.cpp:1091
+msgid "Show full event summary"
+msgstr "Пулăмăн пĕтĕм ăнлантарнине кăтарт"
+
+#: Application/Config.cpp:966
+#: Application/Config.cpp:1092
+msgid "Show event start time"
+msgstr "Пулăмăн хăçан пуçланине кăтарт"
+
+#: Application/Config.cpp:967
+#: Application/Config.cpp:1093
+msgid "Show event end time"
+msgstr "Пулăмăн хăсан вĕçленине кăтарт"
+
+#: Application/Config.cpp:968
+#: Application/Config.cpp:1094
+msgid "Show event location"
+msgstr "Пулăмăн ăçтине кăтарт"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:969
+#: Application/Config.cpp:1095
+msgid "Show event calendar"
+msgstr "Пулăм календарне кăтарт"
+
+#: Application/Config.cpp:970
+#: Application/Config.cpp:1096
+msgid "Hide dismissed events"
+msgstr "Сурнă пулăмсене пытар"
+
+#: Application/Config.cpp:971
+#: Application/Config.cpp:1097
+msgid "Number of days the list shows"
+msgstr "Списокра кăтартас кунсем мĕн чухлĕ пулмалла?"
+
+#: Application/Config.cpp:972
+#: Application/Config.cpp:1098
+msgid "Header format"
+msgstr "Калпак формачĕ"
+
+#: Application/Config.cpp:973
+#: Application/Config.cpp:1099
+#, fuzzy
+msgid "Age from start of the week"
+msgstr "Эрнен пуçламăшĕнчен age"
+
+#: Application/Config.cpp:977
+#: Application/Config.cpp:1103
+msgid "Default event template"
+msgstr "По умолчене пулăм шаблонĕ"
+
+#: Application/Config.cpp:978
+#: Application/Config.cpp:1100
+msgid "Group multiday events"
+msgstr "Пĕр кунлăх кăна мар пулăмсене ушкăнласа пуçтар"
+
+#: Application/Config.cpp:980
+#: Application/DialogManager.cpp:1125
+#: Application/DialogManager.cpp:1154
+#: Application/DialogOptions.cpp:560
+#: Application/DialogOptions.cpp:796
+#: Application/DialogOptions.cpp:873
+#: Application/ItemListAlarm.cpp:264
+#: Application/res/event.cpp:14
+#: Application/res/todo.cpp:39
+msgid "Alarm"
+msgstr "Сигнал"
+
+#: Application/Config.cpp:981
+#: Application/Config.cpp:1113
+msgid "Show alarm start time"
+msgstr "Сигнал пуçлас вăхăта кăтарт"
+
+#: Application/Config.cpp:982
+#: Application/Config.cpp:1114
+msgid "Show alarm end time"
+msgstr "Сигнал вĕçлес вăхăта кăтарт"
+
+#: Application/Config.cpp:983
+#: Application/Config.cpp:1115
+#, fuzzy
+msgid "Show alarm location"
+msgstr "Сигнал вырнăçнине кăтарт"
+
+# Advanced option. If enabled the calendar's name is shown in the task list.
+#: Application/Config.cpp:984
+#: Application/Config.cpp:1116
+msgid "Show alarm calendar"
+msgstr "Сигнал календарне кăтарт"
+
+#: Application/Config.cpp:985
+#: Application/Config.cpp:1117
+msgid "Support Mozilla alarms"
+msgstr "Mozilla сигналĕсене ĕçлеттер"
+
+#: Application/Config.cpp:986
+#: Application/Config.cpp:1118
+msgid "Keep alarm always on top"
+msgstr "Сигнала ялан çӳлте усра"
+
+#: Application/Config.cpp:987
+#: Application/Config.cpp:1119
+msgid "Default snooze time"
+msgstr "По умолчене snooze вăхăчĕ"
+
+#: Application/Config.cpp:988
+#: Application/Config.cpp:1120
+msgid "Max alarm window width"
+msgstr "Сигнал чӳречин максимум сарлакăшĕ"
+
+#: Application/Config.cpp:989
+#: Application/Config.cpp:1121
+msgid "Hide from alarm after days"
+msgstr "Кунсен хыççăн сигналран пытар"
+
+#: Application/Config.cpp:990
+#: Application/Config.cpp:1122
+msgid "Default alarm file"
+msgstr "По умолчене сигнал файлĕ"
+
+#: Application/Config.cpp:991
+#: Application/Config.cpp:1124
+msgid "Snooze times"
+msgstr "Snooze вăхăчĕсем"
+
+#: Application/Config.cpp:993
+#: Application/DialogManager.cpp:62
+#: Application/res/manager.cpp:1
+msgid "Manager"
+msgstr "Планласси"
+
+#: Application/Config.cpp:994
+#: Application/Config.cpp:1127
+msgid "Manager event columns"
+msgstr "Планлассин пулăм колумнисем"
+
+#: Application/Config.cpp:995
+#: Application/Config.cpp:1128
+msgid "Manager todo columns"
+msgstr "Планлассин тумалли списокĕн колумнисем"
+
+#: Application/ControlWindow.cpp:135
+#: Application/ControlWindow.cpp:142
+msgid "Unable to create a new item from the string:\n"
+msgstr "Ку string'рен çĕнĕ япала тăвас çук: \n"
+
+#: Application/ControlWindow.cpp:137
+msgid "Create Error!"
+msgstr "Тăвассинчи йăнăш!"
+
+#: Application/ControlWindow.cpp:137
+msgid "Unable to select the target calendar for the item."
+msgstr "Япалашăн тĕл календарне суйлама май çук."
+
+#: Application/ControlWindow.cpp:144
+#, fuzzy
+msgid "Parse Error!"
+msgstr "Вуланинчи йăнăш!"
+
+#: Application/ControlWindow.cpp:361
+#: Application/DialogAbout.cpp:147
+msgid "About"
+msgstr "Программа çинчен"
+
+#: Application/ControlWindow.cpp:362
+#: Application/DialogOptions.cpp:132
+msgid "Help"
+msgstr "Пулăшу"
+
+#: Application/ControlWindow.cpp:364
+#: Application/ItemCalendar.cpp:228
+#: Application/ItemListEvent.cpp:597
+msgid "New event"
+msgstr "Çĕнĕ пулăм"
+
+#: Application/ControlWindow.cpp:365
+#: Application/ItemListTodo.cpp:1085
+msgid "New task"
+msgstr "Çĕнĕ тĕллев"
+
+#: Application/ControlWindow.cpp:395
+#: Application/DialogOptions.cpp:563
+msgid "Windows"
+msgstr "Чÿречесем"
+
+#: Application/ControlWindow.cpp:413
+#: Application/DialogComponent.cpp:665
+#: Application/DialogManager.cpp:530
+#: Application/DialogManager.cpp:1125
+#: Application/DialogManager.cpp:1154
+#: Application/DialogOptions.cpp:107
+#: Application/DropTarget.cpp:349
+#: Application/res/event.cpp:20
+#: Application/res/options.cpp:18
+#: Application/res/todo.cpp:45
+msgid "Calendars"
+msgstr "Календарьсем"
+
+#: Application/ControlWindow.cpp:416
+msgid "Current Month\tHome"
+msgstr "Хальхи уйăх\tПуçламăш"
+
+#: Application/ControlWindow.cpp:417
+msgid "Next Month\tRight"
+msgstr "Çитес уйăх\tСылтăмалла"
+
+#: Application/ControlWindow.cpp:418
+msgid "Prev Month\tLeft"
+msgstr "Иртнĕ уйăх\tсулахайалла"
+
+#: Application/ControlWindow.cpp:419
+msgid "Next Year\tUp"
+msgstr "Çитес çул\tÇӳлелле"
+
+#: Application/ControlWindow.cpp:420
+msgid "Previous Year\tDown"
+msgstr "Иртнĕ çул\tАялалла"
+
+#: Application/ControlWindow.cpp:422
+#, c-format
+msgid "January %s\tCtrl-F1"
+msgstr "Кăрлач %s\tCtrl-F1"
+
+#: Application/ControlWindow.cpp:423
+#, c-format
+msgid "February %s\tCtrl-F2"
+msgstr "Нарăс %s\tCtrl-F2"
+
+#: Application/ControlWindow.cpp:424
+#, c-format
+msgid "March %s\tCtrl-F3"
+msgstr "Пуш %s\tCtrl-F3"
+
+#: Application/ControlWindow.cpp:425
+#, c-format
+msgid "April %s\tCtrl-F4"
+msgstr "Ака %s\tCtrl-F4"
+
+#: Application/ControlWindow.cpp:426
+#, c-format
+msgid "May %s\tCtrl-F5"
+msgstr "Çу %s\tCtrl-F5"
+
+#: Application/ControlWindow.cpp:427
+#, c-format
+msgid "June %s\tCtrl-F6"
+msgstr "Çĕртме %s\tCtrl-F6"
+
+#: Application/ControlWindow.cpp:428
+#, c-format
+msgid "July %s\tCtrl-F7"
+msgstr "Утă %s\tCtrl-F7"
+
+#: Application/ControlWindow.cpp:429
+#, c-format
+msgid "August %s\tCtrl-F8"
+msgstr "Çурла %s\tCtrl-F8"
+
+#: Application/ControlWindow.cpp:430
+#, c-format
+msgid "September %s\tCtrl-F9"
+msgstr "Авăн %s\tCtrl-F9"
+
+#: Application/ControlWindow.cpp:431
+#, c-format
+msgid "October %s\tCtrl-F10"
+msgstr "Юпа %s\tCtrl-F10"
+
+#: Application/ControlWindow.cpp:432
+#, c-format
+msgid "November %s\tCtrl-F11"
+msgstr "Чӳк %s\tCtrl-F11"
+
+#: Application/ControlWindow.cpp:433
+#, c-format
+msgid "December %s\tCtrl-F12"
+msgstr "Раштав %s\tCtrl-F12"
+
+#: Application/ControlWindow.cpp:435
+msgid "Choose month"
+msgstr "Уйăх суйла"
+
+#: Application/ControlWindow.cpp:437
+#: Application/Resource.h:255
+msgid "Refresh"
+msgstr "Çĕнет"
+
+#: Application/ControlWindow.cpp:438
+msgid "Options..."
+msgstr "Уйрăмлăхсем..."
+
+#: Application/ControlWindow.cpp:439
+msgid "Manager..."
+msgstr "Планласси..."
+
+#: Application/ControlWindow.cpp:455
+msgid "Exit"
+msgstr "Тух"
+
+#: Application/ControlWindow.cpp:854
+#: Application/ControlWindow.cpp:897
+#: Application/ControlWindow.cpp:918
+#: Application/ItemCalendar.cpp:217
+#: Application/WindowTooltip.cpp:219
+msgid "*Empty*"
+msgstr "*Пушă*"
+
+#: Application/ControlWindow.cpp:857
+msgid "This instance"
+msgstr "Ку инстанци"
+
+#: Application/ControlWindow.cpp:858
+msgid "Whole event"
+msgstr "Пĕтĕм пулăм"
+
+#: Application/ControlWindow.cpp:859
+#: Application/DialogOptions.cpp:141
+#: Application/DialogSkinSettings.cpp:80
+#: Application/res/alarm.cpp:5
+#: Application/res/event.cpp:44
+#: Application/res/todo.cpp:69
+msgid "Cancel"
+msgstr "Пăрахăçла"
+
+#: Application/ControlWindow.cpp:861
+#: Application/ControlWindow.cpp:899
+msgid "Do you want to delete this item?"
+msgstr "Эсĕ ку япалана кăларса пăрахасшăн-и?"
+
+#: Application/ControlWindow.cpp:862
+#, c-format
+msgid ""
+"This is a recurring item:\n"
+"\n"
+"%s\n"
+"\n"
+"You can either delete just this instance or the whole recurring event."
+msgstr ""
+"Ку тăтăшах иртекен япала:\n"
+"\n"
+"%s\n"
+"\n"
+"Ку инстанцине кăна е пĕтĕм пулăма кăларса пăрахаятăн."
+
+#: Application/ControlWindow.cpp:912
+msgid "Do you want to delete these items?"
+msgstr "Эсĕ ку япаласене кăларса пăрахасшăн-и?"
+
+#: Application/DialogAbout.cpp:55
+#: Application/DialogOptions.cpp:649
+msgid "Version"
+msgstr "Верси"
+
+#: Application/DialogAbout.cpp:63
+#, fuzzy
+msgid "Build on"
+msgstr "Аптрамакан"
+
+#: Application/DialogAbout.cpp:68
+msgid "Developed by"
+msgstr "Тăваканĕ:"
+
+#: Application/DialogAbout.cpp:76
+msgid "Licensed to"
+msgstr "Лицензие илекенĕ:"
+
+#: Application/DialogAbout.cpp:83
+msgid "Plugins"
+msgstr "Хушăмсем"
+
+#: Application/DialogAbout.cpp:102
+msgid "Links"
+msgstr "Каçăсем"
+
+#: Application/DialogAbout.cpp:104
+#: Application/HotkeyControl.cpp:188
+msgid "Home"
+msgstr "Пуçламăш"
+
+#: Application/DialogAbout.cpp:107
+msgid "FAQ"
+msgstr "Ыйху"
+
+#: Application/DialogAbout.cpp:110
+msgid "Forum"
+msgstr "Канашлу"
+
+#: Application/DialogAbout.cpp:116
+msgid "Icons by"
+msgstr "Иконкисене тунă:"
+
+#: Application/DialogAbout.cpp:126
+msgid "Copyrights"
+msgstr "Автор прависем"
+
+#: Application/DialogAbout.cpp:161
+msgid "Please wait..."
+msgstr "Кĕт тархасшăн..."
+
+#: Application/DialogAbout.cpp:174
+msgid "Unknown response from the server."
+msgstr "Сервертан килнĕ хурав паллă мар."
+
+#: Application/DialogAbout.cpp:204
+msgid "New update found!"
+msgstr "Çĕнĕ çĕнĕтӳ тупăннă!"
+
+#: Application/DialogAbout.cpp:205
+#, c-format
+msgid ""
+"Version %s is available.\n"
+"Do you want to go to the website now?"
+msgstr ""
+"%s версийĕ хатĕр.\n"
+"Сайта халь уçас-и??"
+
+#: Application/DialogAbout.cpp:214
+msgid "No updates available."
+msgstr "Çĕнĕтӳсем çук-çкĕ."
+
+#: Application/DialogAbout.cpp:214
+msgid "You have the most recent version of Rainlendar."
+msgstr "Санăн Rainlendar чи çĕнĕ версийĕ."
+
+#: Application/DialogAbout.cpp:223
+msgid "Connection error!"
+msgstr "Çыхăнтару йăнăшĕ!"
+
+#: Application/DialogAbout.cpp:223
+msgid "Unable to connect to the server."
+msgstr "Серверпа çыхăнни пулмарĕ."
+
+#: Application/DialogAbout.cpp:228
+#: Application/res/about.cpp:1
+msgid "Check for update"
+msgstr "Çĕнĕтӳсем пуррипе çуккине пăх"
+
+#: Application/DialogAlarm.cpp:26
+msgid "Choose Alarm"
+msgstr "Сигнала суйласа ил"
+
+#: Application/DialogAlarm.cpp:41
+msgid "Sound files (*.wav)|*.wav"
+msgstr "Сасă файлĕсем (*.wav)|*.wav"
+
+#: Application/DialogComponent.cpp:522
+msgid "Do you want to save the changes?"
+msgstr "Улăштарнине сыхлас-и?"
+
+#: Application/DialogComponent.cpp:523
+msgid ""
+"You have made some changes to the fields\n"
+"which will be discarded if you select 'No'."
+msgstr ""
+"Хăш вырăнта эсĕ улăштарусене кĕртрĕн\n"
+"'Çук' суйласан вĕсем çухалаççĕ."
+
+#: Application/DialogComponent.cpp:526
+#: Application/DialogMessage.cpp:227
+#: Application/DialogMessage.cpp:256
+msgid "&Yes"
+msgstr "&Çапла"
+
+#: Application/DialogComponent.cpp:527
+#: Application/DialogMessage.cpp:228
+#: Application/DialogMessage.cpp:260
+msgid "&No"
+msgstr "&Çук"
+
+#: Application/DialogComponent.cpp:528
+#: Application/DialogMessage.cpp:268
+#: Application/Resource.h:244
+msgid "&Cancel"
+msgstr "&Пăрахăçла"
+
+#: Application/DialogComponent.cpp:543
+msgid "Are you sure you want to delete this item?"
+msgstr "Эсĕ ку япалана чăнах кăларса-пăрахасшăн-и?"
+
+#: Application/DialogComponent.cpp:665
+msgid "Select the calendars:"
+msgstr "Календарсене суйла:"
+
+#: Application/DialogComponent.cpp:717
+msgid "Select the categories:"
+msgstr "Категорисене суйла:"
+
+#: Application/DialogComponent.cpp:717
+#: Application/DialogManager.cpp:1125
+#: Application/DialogManager.cpp:1154
+#: Application/res/event.cpp:21
+#: Application/res/todo.cpp:46
+msgid "Categories"
+msgstr "Категорисем"
+
+#: Application/DialogComponent.cpp:865
+msgid "Unable to find any calendar handlers for the event. The event was not saved."
+msgstr "Пулăмĕ валли нихăш календарь тăлмачĕ тупăнман. Пулăмĕ сыхламан."
+
+#: Application/DialogComponent.cpp:1091
+#, c-format
+msgid "On the %s day of the month"
+msgstr "Уйăхĕн %s кунра"
+
+#: Application/DialogComponent.cpp:1099
+msgid "first"
+msgstr "пĕрремĕш"
+
+#: Application/DialogComponent.cpp:1103
+msgid "second"
+msgstr "иккĕмĕш"
+
+#: Application/DialogComponent.cpp:1107
+msgid "third"
+msgstr "виççĕмĕш"
+
+#: Application/DialogComponent.cpp:1111
+msgid "fourth"
+msgstr "таваттăмĕш"
+
+#: Application/DialogComponent.cpp:1115
+msgid "fifth"
+msgstr "пилĕкĕмĕш"
+
+#: Application/DialogComponent.cpp:1117
+#, c-format
+msgid "On the %s %s of the month"
+msgstr "Уйăхĕн %s %s-ра"
+
+#: Application/DialogComponent.cpp:1124
+#, c-format
+msgid "On the last %s of the month"
+msgstr "Уйăхĕн юлашки %s -нче"
+
+#: Application/DialogComponent.cpp:1133
+msgid "On the first weekday of the month"
+msgstr "Уйăхĕн пĕрремĕш ĕçлекен кун"
+
+#: Application/DialogComponent.cpp:1142
+msgid "On the last weekday of the month"
+msgstr "Уйăхĕн юлашки ĕçлекен кун"
+
+#: Application/DialogComponent.cpp:1149
+msgid "On the last day of the month"
+msgstr "Уйăхĕн юлашки кун"
+
+#: Application/DialogComponent.cpp:1625
+msgid "Please give a name for the template"
+msgstr "Шаблоншăн ят пар тархасшăн."
+
+#: Application/DialogComponent.cpp:1625
+msgid "Input text"
+msgstr "Ăнлантарса çыр"
+
+#: Application/DialogComponent.cpp:1628
+#: Application/DialogComponent.cpp:1632
+msgid "Unable to create the template!"
+msgstr "Шаблона тăвайман!"
+
+#: Application/DialogComponent.cpp:1628
+msgid "You must give a name for the template."
+msgstr "Шаблон валли ят памалла."
+
+#: Application/DialogComponent.cpp:1632
+#: Application/WizardPageCalendar.cpp:444
+msgid "It's not allowed to use the '/'-character in the name."
+msgstr "Ятĕнче  '/' паллине усă курма юрамасть."
+
+#: Application/DialogComponent.cpp:1641
+#, c-format
+msgid "A template called \"%s\" already exists."
+msgstr "\"%s\" ятлă шаблон пур ĕнтĕ."
+
+#: Application/DialogComponent.cpp:1642
+msgid "Do you want to overwrite the template?"
+msgstr "Малтанхи вырăнне тăвасшăн-и? "
+
+#: Application/DialogComponent.cpp:1660
+msgid "Choose the template to delete:"
+msgstr "Кăларса пăрахасшăн шаблонсене суйла:"
+
+#: Application/DialogComponent.cpp:1660
+#: Application/DialogComponent.cpp:1677
+msgid "Select"
+msgstr "Суйласа ил"
+
+#: Application/DialogComponent.cpp:1676
+msgid "Choose the template which is used for new tasks:"
+msgstr "Çĕнĕ тĕллевсем валли шаблон суйла:"
+
+#: Application/DialogComponent.cpp:1676
+msgid "Choose the template which is used for new events:"
+msgstr "Çĕнĕ пулăмсем валли шаблон суйла:"
+
+#: Application/DialogComponent.cpp:1715
+msgid "Save as template..."
+msgstr "Шаблон пек сыхла..."
+
+#: Application/DialogComponent.cpp:1716
+msgid "Delete template..."
+msgstr "Шаблона кăларса пăрах..."
+
+#: Application/DialogComponent.cpp:1717
+msgid "Set the default template..."
+msgstr "Яланхи шаблона йĕркеле..."
+
+#: Application/DialogComponent.cpp:1725
+#: Application/res/event.cpp:6
+#: Application/res/todo.cpp:6
+msgid "Template"
+msgstr "Шаблон"
+
+#: Application/DialogEvent.cpp:66
+#: Application/DialogManager.cpp:1134
+#: Application/res/event.cpp:1
+#: Application/res/event.cpp:7
+msgid "Event"
+msgstr "Пулăмсем"
+
+#: Application/DialogEvent.cpp:340
+msgid ""
+"You have created a birthday or anniversary but didn't define any recurrence.\n"
+"Do you want to make the event repeat every year?"
+msgstr ""
+"Эсĕ çуралнă куна е юбилее турăн çапах мĕнле тăтăшшине каламан. \n"
+"Ку çулсерен иртес тăвасшăн-и?"
+
+#: Application/DialogManager.cpp:237
+#: Application/DialogManager.cpp:290
+msgid "Choose a file"
+msgstr "Файл суйла"
+
+#: Application/DialogManager.cpp:246
+msgid "Import failed!"
+msgstr "Импортлани ăнăçсăрланнă!"
+
+#: Application/DialogManager.cpp:298
+#, c-format
+msgid "Exported %i events successfully."
+msgstr "%i пулăмсене экспортлани ăнăçлăн иртнĕ."
+
+#: Application/DialogManager.cpp:302
+#, c-format
+msgid "Exported %i todo items successfully."
+msgstr "%i тумаллисен экспортлани ăнăçлăн вĕçленчĕç."
+
+#: Application/DialogManager.cpp:308
+msgid "Export failed!"
+msgstr "Экспортлани ăнăçсăрланчĕ!"
+
+#: Application/DialogManager.cpp:391
+msgid "Do you want to delete the selected item(s)?"
+msgstr "Суйланă япала(сене) кăларса пăрахасшăн-и?"
+
+#: Application/DialogManager.cpp:523
+msgid "Select the calendars where the items should be copied to:"
+msgstr "Япаласене хăш календаре копилес тетĕн? Вĕсене суйла:"
+
+#: Application/DialogManager.cpp:527
+msgid "Select the calendars where the items should be moved to:"
+msgstr "Япаласене хăш календаре куçарас тетĕн? Вĕсене суйла:"
+
+#: Application/DialogManager.cpp:546
+#: Application/DialogManager.cpp:632
+msgid "Operation failed!"
+msgstr "Ĕçĕ ăнăçсарланчĕ!"
+
+#: Application/DialogManager.cpp:546
+msgid "There are no calendars available that are able to store the items."
+msgstr "Ку япаласене усраякан календарьсем пĕрре те çук."
+
+#: Application/DialogManager.cpp:571
+msgid "Are you sure you want to do this?"
+msgstr "Çакна чăнах тăвасшăн-и?"
+
+#: Application/DialogManager.cpp:572
+msgid ""
+"Moving items to an online calendar is not safe. If the destination\n"
+"calendar doesn't accept the items because of network problems or\n"
+"for some other reason you will lose all the moved events.\n"
+"\n"
+"So, click \"Yes\" only if you are completely sure you know what you are doing."
+msgstr ""
+"Япаласене тетелти календарь патне куçарни хăрушă пулма пултарать.\n"
+"Тетелти календарь япалусене çыхăну проблемисем пирки илмесен,\n"
+" е ытти кура пур пулăмусем çухалаяççĕ.\n"
+"\n"
+"Ху мĕн тунине аван ăнлансан кăна \"Çапла\" çине пус."
+
+#: Application/DialogManager.cpp:612
+#, c-format
+msgid "Moved %i items to these calendars:\n"
+msgstr "Ку календарьсене куçарнă %i япаласем:\n"
+
+#: Application/DialogManager.cpp:616
+#, c-format
+msgid "Copied %i items to these calendars:\n"
+msgstr "Ку календаре копиленĕ %i япаласем:\n"
+
+#: Application/DialogManager.cpp:621
+msgid ""
+"\n"
+"Important! Copying items to an online calendar takes some time\n"
+"so they won't be available until after a while."
+msgstr ""
+"\n"
+"Асăрха! Онлайн календарь çине копилесси вăхăта илет\n"
+"çавăнпа вĕсем унта кĕçех мар."
+
+#: Application/DialogManager.cpp:624
+msgid "Operation finished!"
+msgstr "Ĕçĕ вĕçленчĕ!"
+
+#: Application/DialogManager.cpp:632
+msgid "You need to select at least one calendar for the events."
+msgstr "Минимум пĕр календаре сан пулăмусем валли суйла."
+
+#: Application/DialogManager.cpp:647
+#: Application/DialogManager.cpp:841
+msgid "Archive (*.zip)|*.zip"
+msgstr "Архив (*.zip)|*.zip"
+
+#: Application/DialogManager.cpp:648
+#: Application/DialogManager.cpp:840
+msgid "Choose the backup path"
+msgstr "Backup адресне суйла"
+
+#: Application/DialogManager.cpp:656
+msgid "Backup was successful."
+msgstr "Backup ăнăçлă иртнĕ."
+
+#: Application/DialogManager.cpp:657
+msgid "The backup contains these files:"
+msgstr "Backup'ра çак файлсем пур:"
+
+#: Application/DialogManager.cpp:673
+#: Application/DialogManager.cpp:884
+msgid "Write error!"
+msgstr "Çырнинчи йăнăш!"
+
+#: Application/DialogManager.cpp:673
+msgid "Unable to create the backup file."
+msgstr "Файл валли backup тума май çук."
+
+#: Application/DialogManager.cpp:866
+msgid "The file already exists:"
+msgstr "Ку файл пур ĕнтĕ:"
+
+#: Application/DialogManager.cpp:869
+#, fuzzy
+msgid "Do you want to overwrite the file?"
+msgstr "Çĕнĕрен сыхласшăн-и ку файла?"
+
+#: Application/DialogManager.cpp:882
+msgid "Unable to overwrite file:"
+msgstr "Çĕнĕрен сыхлас çук:"
+
+#: Application/DialogManager.cpp:906
+msgid "The archive contains unknown files:\n"
+msgstr "Архивра паллă мар файлсем: \n"
+
+#: Application/DialogManager.cpp:911
+msgid "Restore was successful."
+msgstr "Кала тавăрни ăнăçлă иртнĕ"
+
+#: Application/DialogManager.cpp:1125
+#: Application/DialogPrint.cpp:371
+#: Application/HotkeyControl.cpp:186
+msgid "End"
+msgstr "Вĕçленет"
+
+#: Application/DialogManager.cpp:1125
+#: Application/DialogManager.cpp:1154
+msgid "Summary"
+msgstr "Ăнлантарни"
+
+#: Application/DialogManager.cpp:1125
+#: Application/DialogManager.cpp:1154
+msgid "Recurring"
+msgstr "Тăтăшах иртекен"
+
+#: Application/DialogManager.cpp:1125
+#: Application/DialogManager.cpp:1154
+#: Application/DialogPrint.cpp:343
+msgid "Location"
+msgstr "Вырнăçĕ"
+
+#: Application/DialogManager.cpp:1125
+#: Application/DialogManager.cpp:1154
+#: Application/DialogOptions.cpp:706
+msgid "Description"
+msgstr "Ăнлантаркăч"
+
+#: Application/DialogManager.cpp:1141
+msgid "New Event..."
+msgstr "Çĕнĕ пулăм..."
+
+#: Application/DialogManager.cpp:1163
+#: Application/DialogTodo.cpp:61
+#: Application/DialogTodo.cpp:399
+#: Application/res/todo.cpp:1
+#: Application/res/todo.cpp:7
+msgid "Todo"
+msgstr "Тăвассăм"
+
+#: Application/DialogManager.cpp:1170
+msgid "New Todo..."
+msgstr "Çĕнĕ тăвассăм..."
+
+#: Application/DialogManager.cpp:1329
+msgid "Daily"
+msgstr "Кунсеренхи"
+
+#: Application/DialogManager.cpp:1332
+msgid "Weekly"
+msgstr "Эрнесеренхи"
+
+#: Application/DialogManager.cpp:1335
+msgid "Monthly"
+msgstr "Уйăхсеренхи"
+
+#: Application/DialogManager.cpp:1338
+msgid "Yearly"
+msgstr "Çулсеренхи"
+
+#: Application/DialogManager.cpp:1350
+msgid "Single"
+msgstr "Пĕччен"
+
+#: Application/DialogManager.cpp:1391
+#: Application/DialogSkinSettings.cpp:266
+#: Application/ItemListTodo.cpp:757
+#: Application/res/todo.cpp:15
+#: Application/res/todo.cpp:16
+#: Application/Resource.h:289
+msgid "None"
+msgstr "Палăртман"
+
+#: Application/DialogManager.cpp:1395
+#: Application/ItemListTodo.cpp:761
+#: Application/res/todo.cpp:19
+msgid "High"
+msgstr "Питĕ пĕлтерĕшлĕ"
+
+#: Application/DialogManager.cpp:1399
+#: Application/ItemListTodo.cpp:765
+#: Application/res/todo.cpp:18
+msgid "Medium"
+msgstr "Вăтам"
+
+#: Application/DialogManager.cpp:1403
+#: Application/ItemListTodo.cpp:769
+#: Application/res/todo.cpp:17
+msgid "Low"
+msgstr "Пĕлтерĕшлĕ мар"
+
+#: Application/DialogManager.cpp:1429
+#: Application/ItemListTodo.cpp:548
+#: Application/ItemListTodo.cpp:778
+#: Application/ItemListTodo.cpp:1067
+#: Application/res/todo.cpp:24
+msgid "Completed"
+msgstr "Пĕтĕмлетнĕ"
+
+#: Application/DialogManager.cpp:1436
+#: Application/ItemListTodo.cpp:551
+#: Application/ItemListTodo.cpp:781
+#: Application/ItemListTodo.cpp:1068
+#: Application/res/todo.cpp:25
+msgid "Cancelled"
+msgstr "Пăрахăçланă"
+
+#: Application/DialogManager.cpp:1451
+#: Application/ItemListTodo.cpp:545
+#: Application/ItemListTodo.cpp:784
+#: Application/ItemListTodo.cpp:1065
+#: Application/res/todo.cpp:23
+msgid "In Progress"
+msgstr "Халь иртекен"
+
+#: Application/DialogManager.cpp:1458
+#: Application/ItemListTodo.cpp:555
+#: Application/ItemListTodo.cpp:787
+#: Application/ItemListTodo.cpp:1052
+msgid "Needs Action"
+msgstr "Тăвасси кирлĕ"
+
+#: Application/DialogMessage.cpp:118
+msgid "Error"
+msgstr "Йăнăш"
+
+#: Application/DialogMessage.cpp:122
+msgid "Warning"
+msgstr "Асăрхаттару"
+
+#: Application/DialogMessage.cpp:126
+msgid "Question"
+msgstr "Ыйту"
+
+#: Application/DialogMessage.cpp:130
+msgid "Information"
+msgstr "Пĕлтерӳ"
+
+#: Application/DialogMessage.cpp:211
+#: Application/DialogMessage.cpp:219
+#: Application/DialogMessage.cpp:236
+#: Application/DialogMessage.cpp:264
+#: Application/Resource.h:245
+msgid "&OK"
+msgstr "&Юрĕ"
+
+#: Application/DialogOptions.cpp:59
+#: Application/DialogOptions.cpp:62
+msgid "Options"
+msgstr "Ĕнерлевсем"
+
+#: Application/DialogOptions.cpp:109
+msgid "Skins"
+msgstr "Тир"
+
+#: Application/DialogOptions.cpp:112
+#: Application/res/options.cpp:22
+msgid "Hotkeys"
+msgstr "Вĕри пускăч"
+
+#: Application/DialogOptions.cpp:115
+msgid "Advanced"
+msgstr "Анлăрах"
+
+#: Application/DialogOptions.cpp:137
+#: Application/DialogSkinSettings.cpp:77
+#: Application/res/alarm.cpp:4
+#: Application/res/event.cpp:43
+#: Application/res/todo.cpp:68
+msgid "OK"
+msgstr "Юрĕ"
+
+#: Application/DialogOptions.cpp:317
+msgid "Get more languages..."
+msgstr "Тата ытти чĕлхесене илсе кил..."
+
+#: Application/DialogOptions.cpp:482
+msgid "Get more skins..."
+msgstr "Тата кĕпесене (тирсене) илсе кил..."
+
+#: Application/DialogOptions.cpp:562
+#: Application/DialogOptions.cpp:808
+#: Application/DialogOptions.cpp:869
+msgid "TrayIcon"
+msgstr "TrayIcon"
+
+#: Application/DialogOptions.cpp:659
+msgid "Author"
+msgstr "Тăваканĕ (Авторĕ)"
+
+#: Application/DialogOptions.cpp:674
+msgid "Homepage"
+msgstr "Сайчĕ"
+
+#: Application/DialogOptions.cpp:692
+msgid "This is an old Rainlendar skin. Some of the features might not be supported."
+msgstr "Çакă Rainlendar кивелнĕ кĕписен пĕри. Хăш енчен ĕçлеме лайăх ĕçлеме пултараймасть."
+
+#: Application/DialogOptions.cpp:702
+msgid "Window"
+msgstr "Чӳрече"
+
+#: Application/DialogOptions.cpp:704
+msgid "Variable"
+msgstr "Курăнмалли"
+
+#: Application/DialogOptions.cpp:759
+#: Application/res/options.cpp:33
+msgid "Advanced >>>"
+msgstr "Анлăрах >>>"
+
+#: Application/DialogOptions.cpp:763
+msgid "<<< Simple"
+msgstr "<<< Ансат"
+
+#: Application/DialogOptions.cpp:1305
+msgid "Hotkey"
+msgstr "Вĕри кнопка"
+
+#: Application/DialogOptions.cpp:1306
+msgid "Function"
+msgstr "Функци"
+
+#: Application/DialogOptions.cpp:1390
+msgid "IMPORTANT! Read the documentation before changing these settings. It's possible to make Rainlendar inoperable if you just randomly change the values. Consider yourself warned!"
+msgstr "АСĂРХА! Ĕнерлевсене улăштарас умĕн документацине вула. Ĕнерлевсене шухăшламасăр урăхласан, Rainlendar ĕçлеме пăрахма пултарать. Асăрхануллă пул!"
+
+#: Application/DialogOptions.cpp:1397
+msgid "Reset All Settings"
+msgstr "Пур ĕнерлевĕсене каялла тавăр"
+
+#: Application/DialogOptions.cpp:1410
+msgid ""
+"This will reset all settings to default values.\n"
+"The default settings are applied immediately.\n"
+"Do you want to continue?"
+msgstr ""
+"Ку пур ĕнерлевсене яланхискерсене тавăрĕ.\n"
+"Ĕнерлевсен яланхискерĕсем кĕçех ĕçлĕç.\n"
+"Тăсас-и?"
+
+#: Application/DialogOptions.cpp:1480
+msgid "Common"
+msgstr "Пĕрлĕхлĕ"
+
+#: Application/DialogOptions.cpp:1481
+#: Application/DialogOptions.cpp:1641
+msgid "Enabled"
+msgstr "Тапратнă"
+
+#: Application/DialogOptions.cpp:1482
+#: Application/DialogOptions.cpp:1645
+msgid "Read only"
+msgstr "Вулама кăна юракан"
+
+#: Application/DialogOptions.cpp:1494
+#: Application/DialogOptions.cpp:1649
+msgid "Visual category"
+msgstr "Курăннă категори"
+
+#: Application/DialogPrint.cpp:32
+msgid "Print"
+msgstr "Пичет"
+
+#: Application/DialogPrint.cpp:68
+msgid "Print items"
+msgstr "Пичет япалисем"
+
+#: Application/DialogSkinSettings.cpp:43
+#: Application/res/options.cpp:21
+msgid "Settings"
+msgstr "Ĕнерлевсем"
+
+#: Application/DialogSkinSettings.cpp:56
+msgid "Variables"
+msgstr "Вариаблăсем"
+
+#: Application/DialogSkinSettings.cpp:63
+msgid "Window settings"
+msgstr "Чӳрече ĕнерлевĕсем"
+
+#: Application/DialogSkinSettings.cpp:68
+msgid "Settings can be shown only for a single window."
+msgstr "Ĕнерлевсем пĕччен чӳрече валли кăна курăнайаççĕ."
+
+#: Application/DialogSkinSettings.cpp:107
+msgid "Global variables"
+msgstr "Пĕрлĕхлĕ вариаблăсем"
+
+#: Application/DialogSkinSettings.cpp:159
+#: Application/DialogSkinSettings.cpp:356
+msgid "Visible"
+msgstr "Курăнмалла"
+
+#: Application/DialogSkinSettings.cpp:160
+#: Application/DialogSkinSettings.cpp:357
+msgid "Grow upwards"
+msgstr "Малалла ӳс"
+
+#: Application/DialogSkinSettings.cpp:162
+#: Application/DialogSkinSettings.cpp:359
+msgid "Scale"
+msgstr "Шкала"
+
+#: Application/DialogSkinSettings.cpp:168
+msgid "Filters"
+msgstr "Фильтрсем"
+
+#: Application/DialogSkinSettings.cpp:180
+#: Application/DialogSkinSettings.cpp:389
+msgid "Visible calendars"
+msgstr "Курăнайакан календарьсем"
+
+#: Application/DialogSkinSettings.cpp:206
+#: Application/DialogSkinSettings.cpp:396
+msgid "Included categories"
+msgstr "Кĕртнĕ категорисем"
+
+#: Application/DialogSkinSettings.cpp:217
+#: Application/DialogSkinSettings.cpp:411
+msgid "Excluded categories"
+msgstr "Кĕртмен категорисем"
+
+#: Application/DialogSkinSettings.cpp:222
+msgid "Window variables"
+msgstr "Чӳрече variables"
+
+#: Application/DialogSkinSettings.cpp:260
+msgid "Operations"
+msgstr "Операцисем"
+
+#: Application/DialogSkinSettings.cpp:309
+#: Application/DialogSkinSettings.cpp:431
+msgid "Left click"
+msgstr "сулахайри пусни"
+
+#: Application/DialogSkinSettings.cpp:312
+#: Application/DialogSkinSettings.cpp:441
+msgid "Right click"
+msgstr "Сылтăм шăшă пусси"
+
+#: Application/DialogSkinSettings.cpp:315
+#: Application/DialogSkinSettings.cpp:451
+msgid "Double left click"
+msgstr "Ик-хутлă сулахайри пусни"
+
+#: Application/DialogSkinSettings.cpp:318
+#: Application/DialogSkinSettings.cpp:461
+msgid "Double right click"
+msgstr "Ик-хутлă сылтăмри пусни"
+
+#: Application/DropTarget.cpp:52
+msgid "skin"
+msgstr "Кĕпе (тир)"
+
+#: Application/DropTarget.cpp:58
+msgid "addon"
+msgstr "хушни (addon)"
+
+#: Application/DropTarget.cpp:65
+msgid "language"
+msgstr "Чĕлхе"
+
+#: Application/DropTarget.cpp:73
+msgid "license"
+msgstr "Лицензи"
+
+#: Application/DropTarget.cpp:78
+msgid ""
+"If you downloaded a .r2skin or .r2lang file and your\n"
+"web browser changed the extension to .zip you can rename\n"
+"the file back to the way it was and import it again."
+msgstr ""
+".r2skin or .r2lang файлсене уçласа илнĕ хыççăн\n"
+"сан веб броузер вĕсен .zip вĕç ятне панă пулсан, эсĕ ăна кала ят пама\n"
+"тата каллех импортлама пултаратăн."
+
+#: Application/DropTarget.cpp:79
+msgid "Zip archives cannot be imported to Rainlendar."
+msgstr "Zip архивĕсем Rainlendar'а импортлама май пулман."
+
+#: Application/DropTarget.cpp:106
+#, c-format
+msgid "Unknown file \"%s\"."
+msgstr "Паллă мар  \"%s\" файлĕ."
+
+#: Application/DropTarget.cpp:107
+msgid "The file cannot be imported into Rainlendar."
+msgstr "Файл Rainlendar'а импортлама май пулман."
+
+#: Application/DropTarget.cpp:114
+msgid "Unable to copy the file. The source is the same as the destination."
+msgstr "Файла копилеме май çук. Ăçтанни ăçталли пĕр пек."
+
+#: Application/DropTarget.cpp:141
+#: Application/DropTarget.cpp:198
+#, c-format
+msgid "Unable to install the file \"%s\"."
+msgstr "\"%s\" файла лартас çук."
+
+#: Application/DropTarget.cpp:142
+msgid "Cannot acquire administrative privileges."
+msgstr "Администратор ирĕкĕсене илес çук."
+
+#: Application/DropTarget.cpp:199
+msgid "The folder does not have write permissions."
+msgstr "Каталогăн (папкăн) çырма ирĕкĕ çук."
+
+#: Application/DropTarget.cpp:218
+#, c-format
+msgid "The skin %s doesn't exist."
+msgstr "%s кĕпи (тирĕ) çук-çкĕ."
+
+#: Application/DropTarget.cpp:219
+msgid "Unable to merge the addon."
+msgstr "Хушнине çыхас çук."
+
+#: Application/DropTarget.cpp:233
+#, c-format
+msgid ""
+"The %s \"%s\" already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+" %s \"%s\" пур ĕнтĕ\n"
+"Киввине хуратса çĕннине лартас-и?"
+
+#: Application/DropTarget.cpp:261
+msgid "The above file already exists. Do you want to overwrite it?"
+msgstr "Çӳлти файлсем пур ĕнтĕ. Киввине кăларса пăрахса çĕнĕрен сыхласшăн-и?"
+
+#: Application/DropTarget.cpp:299
+#, c-format
+msgid "The %s was installed successfully!"
+msgstr "%s лартасси ăнăçлăн иртнĕ!"
+
+#: Application/DropTarget.cpp:300
+msgid "Please refresh (or restart) Rainlendar to see the changes."
+msgstr "Rainlendar'ти улăштарусене курас килсен, çĕнет е çĕнĕн тапрат тархасшăн."
+
+#: Application/DropTarget.cpp:305
+#, c-format
+msgid "The %s installation failed!"
+msgstr "%s лартни ăнăçсăрланчĕ!"
+
+#: Application/DropTarget.cpp:349
+msgid "Select the calendars for the imported items:"
+msgstr "Импортланă япаласем валли календарьсене суйла"
+
+#: Application/DropTarget.cpp:365
+msgid ""
+"Import failed.\n"
+"\n"
+"There are no calendars available that are able to store the item."
+msgstr ""
+"Импортласси ăнăçсăрланчĕ.\n"
+"\n"
+"Япаласене усраякан календарьсем пĕр те çук."
+
+#: Application/DropTarget.cpp:381
+#, c-format
+msgid "Imported %i items successfully."
+msgstr "%i япаласене импортласси ăнăçлăн иртнĕ."
+
+#: Application/DropTarget.cpp:392
+msgid "You need to select at least one calendar for the imported events"
+msgstr "Импортлас япаласемшĕн мĕн пулин те пĕр календаре суйламалла."
+
+#: Application/DropTarget.cpp:661
+msgid "Unable to create a temporary folder where to merge the addon."
+msgstr "Хушнине кĕртесси валли вăхăтлăх каталог тăвасси пулмарĕ."
+
+#: Application/HotkeyControl.cpp:104
+msgid "Win"
+msgstr "Win"
+
+#: Application/HotkeyControl.cpp:110
+msgid "Control"
+msgstr "Control"
+
+#: Application/HotkeyControl.cpp:116
+msgid "Alt"
+msgstr "Alt"
+
+#: Application/HotkeyControl.cpp:122
+msgid "Shift"
+msgstr "Shift"
+
+#: Application/HotkeyControl.cpp:170
+msgid "Back"
+msgstr "Каялла"
+
+#: Application/HotkeyControl.cpp:172
+msgid "Tab"
+msgstr "Tab"
+
+#: Application/HotkeyControl.cpp:174
+msgid "Return"
+msgstr "Таврăн"
+
+#: Application/HotkeyControl.cpp:176
+msgid "Esc"
+msgstr "Esc"
+
+#: Application/HotkeyControl.cpp:178
+msgid "Space"
+msgstr "Пушă паллă"
+
+#: Application/HotkeyControl.cpp:180
+#: Application/ItemCalendar.cpp:231
+#: Application/res/event.cpp:4
+#: Application/res/event.cpp:41
+#: Application/res/event.cpp:42
+#: Application/res/manager.cpp:11
+#: Application/res/todo.cpp:4
+#: Application/res/todo.cpp:66
+#: Application/res/todo.cpp:67
+msgid "Delete"
+msgstr "Кăларса пăрах"
+
+#: Application/HotkeyControl.cpp:182
+msgid "Page Up"
+msgstr "Пит çӳллелле"
+
+#: Application/HotkeyControl.cpp:184
+msgid "Page Down"
+msgstr "Пит аялалла"
+
+#: Application/HotkeyControl.cpp:190
+msgid "Left"
+msgstr "Сулахай"
+
+#: Application/HotkeyControl.cpp:192
+msgid "Up"
+msgstr "Çӳллелле"
+
+#: Application/HotkeyControl.cpp:194
+msgid "Right"
+msgstr "Сылтăм"
+
+#: Application/HotkeyControl.cpp:196
+msgid "Down"
+msgstr "Аялалла"
+
+#: Application/HotkeyControl.cpp:198
+msgid "Insert"
+msgstr "Кĕрт"
+
+#: Application/HotkeyControl.cpp:232
+msgid "NumLock"
+msgstr "NumLock"
+
+#: Application/HotkeyControl.cpp:234
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+#: Application/ItemCalendar.cpp:219
+#, c-format
+msgid "Edit \"%s\""
+msgstr "\"%s\" тӳрлет"
+
+#: Application/ItemCalendar.cpp:225
+msgid "Delete all"
+msgstr "Пурне те кăларса пăрах"
+
+#: Application/ItemCalendar.cpp:233
+msgid "Events"
+msgstr "Пулăмсем"
+
+#: Application/ItemListAlarm.cpp:235
+msgid "hour"
+msgstr "сехет"
+
+#: Application/ItemListAlarm.cpp:235
+msgid "hours"
+msgstr "сехет"
+
+#: Application/ItemListAlarm.cpp:243
+msgid "minute"
+msgstr "минут"
+
+#: Application/ItemListAlarm.cpp:243
+msgid "minutes"
+msgstr "минут"
+
+#: Application/ItemListAlarm.cpp:252
+msgid "Snooze"
+msgstr "Snooze"
+
+#: Application/ItemListAlarm.cpp:253
+msgid "Dismiss"
+msgstr "Сур"
+
+#: Application/ItemListAlarm.cpp:257
+#: Application/ItemListAlarm.cpp:261
+msgid "Edit..."
+msgstr "Тӳрлет..."
+
+#: Application/ItemListEvent.cpp:371
+msgid "Today"
+msgstr "Паян"
+
+#: Application/ItemListEvent.cpp:375
+msgid "Tomorrow"
+msgstr "Ыран"
+
+#: Application/ItemListEvent.cpp:379
+msgid "Yesterday"
+msgstr "Ĕнер"
+
+# The %1 will be replaced with the day (e.g. Last Monday). This text is shown in the event list.
+#: Application/ItemListEvent.cpp:418
+#: Application/ItemListEvent.cpp:454
+msgid "Last %1"
+msgstr "Юлашки %1"
+
+#: Application/ItemListEvent.cpp:425
+#: Application/ItemListEvent.cpp:482
+msgid "%1 next week"
+msgstr "%1 çитес эрне"
+
+#: Application/ItemListEvent.cpp:430
+#: Application/ItemListEvent.cpp:462
+msgid "%1 last week"
+msgstr "%1 юлашки эрне"
+
+#: Application/ItemListEvent.cpp:435
+#: Application/ItemListEvent.cpp:468
+msgid "%1 %2 weeks ago"
+msgstr "%1 %2 эрне каялла"
+
+#: Application/ItemListEvent.cpp:442
+#: Application/ItemListEvent.cpp:487
+msgid "%1 in %2 weeks"
+msgstr "%1 %2 эрнерен"
+
+#: Application/ItemListEvent.cpp:598
+msgid "Edit event"
+msgstr "Пулăмне тӳрлет"
+
+#: Application/ItemListEvent.cpp:599
+msgid "Delete event"
+msgstr "Пулăмне кăларса пăрах"
+
+#: Application/ItemListEvent.cpp:608
+msgid "Event list"
+msgstr "Пулăмсен хăми"
+
+#: Application/ItemListTodo.cpp:137
+#, fuzzy, c-format
+msgid "[Due %x]"
+msgstr "[Due %x]"
+
+#: Application/ItemListTodo.cpp:514
+msgid "No location"
+msgstr "Вырнăçĕ паллă мар"
+
+#: Application/ItemListTodo.cpp:522
+msgid "No category"
+msgstr "Категори çук"
+
+#: Application/ItemListTodo.cpp:536
+msgid "Unknown"
+msgstr "Паллă мар"
+
+#: Application/ItemListTodo.cpp:564
+msgid "High Priority"
+msgstr "Çӳллĕ приоритет"
+
+#: Application/ItemListTodo.cpp:567
+msgid "Medium Priority"
+msgstr "Вăтам приоритет"
+
+#: Application/ItemListTodo.cpp:570
+msgid "Low Priority"
+msgstr "Аялти приоритет"
+
+#: Application/ItemListTodo.cpp:574
+msgid "No Priority"
+msgstr "Приоритет палăртман"
+
+#: Application/ItemListTodo.cpp:976
+#: Application/ItemListTodo.cpp:987
+msgid "Alphabetically"
+msgstr "Алфавит тăрăх"
+
+#: Application/ItemListTodo.cpp:977
+#: Application/ItemListTodo.cpp:988
+msgid "By Category"
+msgstr "Категори тăрăх"
+
+#: Application/ItemListTodo.cpp:978
+#: Application/ItemListTodo.cpp:989
+msgid "By Due Date"
+msgstr "Хăçан вĕçлемеллипе"
+
+#: Application/ItemListTodo.cpp:979
+#: Application/ItemListTodo.cpp:990
+msgid "By Start Date"
+msgstr "Хăçан пуçламаллипе"
+
+#: Application/ItemListTodo.cpp:980
+#: Application/ItemListTodo.cpp:991
+msgid "By Status"
+msgstr "Хал (статус) тăрăх"
+
+#: Application/ItemListTodo.cpp:981
+#: Application/ItemListTodo.cpp:992
+msgid "By Priority"
+msgstr "Приоритет тăрăх"
+
+#: Application/ItemListTodo.cpp:982
+#: Application/ItemListTodo.cpp:993
+msgid "By Location"
+msgstr "Вырăн тăрăх"
+
+#: Application/ItemListTodo.cpp:983
+#: Application/ItemListTodo.cpp:994
+msgid "By Calendar"
+msgstr "Календарь тăрăх"
+
+#: Application/ItemListTodo.cpp:984
+#: Application/ItemListTodo.cpp:995
+msgid "Custom"
+msgstr "Ятарлă"
+
+#: Application/ItemListTodo.cpp:1024
+msgid "Primary sort order"
+msgstr "Тĕп сортламалли йĕрке"
+
+#: Application/ItemListTodo.cpp:1025
+msgid "Secondary sort order"
+msgstr "Иккĕмĕш сортламалли йĕрке"
+
+#: Application/ItemListTodo.cpp:1086
+msgid "Edit task"
+msgstr "Тĕллевне тӳрлет"
+
+#: Application/ItemListTodo.cpp:1087
+msgid "Delete task"
+msgstr "Тĕллевне кăларса пăрах"
+
+#: Application/ItemListTodo.cpp:1097
+msgid "Hide completed tasks"
+msgstr "Пĕтĕмлетнĕ тĕллевсене пытар."
+
+#: Application/ItemListTodo.cpp:1102
+msgid "Hide upcoming tasks"
+msgstr "Çитес тĕллевсене пытар"
+
+#: Application/ItemListTodo.cpp:1108
+msgid "Todo list"
+msgstr "Тăвассăмсем"
+
+#: Application/ItemListTooltip.cpp:65
+msgid "No events today."
+msgstr "Паян пулăмсем çук."
+
+#: Application/ItemListTooltip.cpp:87
+msgid "Today's events:"
+msgstr "Паянхи пулăмсем:"
+
+#: Application/Rainlendar.cpp:126
+#, fuzzy
+msgid "allow multiple instances"
+msgstr "Расна инстанцисем пулччăр"
+
+#: Application/Rainlendar.cpp:127
+msgid "install a skin or a language"
+msgstr "кĕпене (тире) е чĕлхене ларт"
+
+#: Application/Rainlendar.cpp:128
+msgid "import the given file"
+msgstr "çак файла импортла"
+
+#: Application/Rainlendar.cpp:129
+msgid "path where the configuration file will be stored"
+msgstr "конфигураци файлне усрас вырăн"
+
+#: Application/Rainlendar.cpp:130
+msgid "execute the given function in a script"
+msgstr "çак функцине скриптра ĕçлеттер"
+
+#: Application/Rainlendar.cpp:131
+msgid "path where the log file will be stored"
+msgstr "log файлне усрас вырăн"
+
+#: Application/Rainlendar.cpp:132
+msgid "path where the backups will be stored"
+msgstr "backup'сем усрас вырăн"
+
+#: Application/Rainlendar.cpp:133
+msgid "add event or task to the calendar"
+msgstr "календаре пулăма е тĕллеве хуш"
+
+#: Application/Rainlendar.cpp:134
+msgid "enable verbose logging"
+msgstr "verbose log'ланине тапрат"
+
+#: Application/Rainlendar.cpp:135
+msgid "enable debug logging"
+msgstr "debug log' ланине тапрат"
+
+#: Application/Rainlendar.cpp:338
+#, c-format
+msgid ""
+"Unable to create configuration file:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that the folder has write permissions."
+msgstr ""
+"Конфигураци файлне тăвас çук:\n"
+"\n"
+"%s\n"
+"\n"
+"Каталог (папка) çырма ирĕк пуррипе çуккине тĕрĕсле."
+
+#: Application/Rainlendar.cpp:347
+#, c-format
+msgid ""
+"The configuration file is not writable:\n"
+"\n"
+"%s\n"
+"\n"
+"Make sure that it has correct permissions."
+msgstr ""
+"Конфигураци файлĕ çырăнаймакан:\n"
+"\n"
+"%s\n"
+"\n"
+"Ирĕксене тĕрĕсле."
+
+#: Application/Rainlendar.cpp:421
+#, c-format
+msgid ""
+"Unable to load resources from path:\n"
+"%s"
+msgstr ""
+"Вырăнтан ресурссене илес çук:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:651
+msgid ""
+"It looks like all the windows and the trayicon have been hidden.\n"
+"Was this your purpose?\n"
+"\n"
+"Click 'Yes' if you want to keep everything hidden and never see this dialog again.\n"
+"Click 'No' to make all windows visible again."
+msgstr ""
+"Пур чӳречесемпе trayiconсем пытарнă курăнать.\n"
+"Çакна тăвасшăнччĕ-и эсĕ?\n"
+"\n"
+"Пурне те пытарас килсен 'Çапла' çине пус.\n"
+"Пур чӳречесене курăнакан тăвас тесен 'Çук' çине пус."
+
+#: Application/Rainlendar.cpp:704
+msgid ""
+"Rainlendar was not able to refresh the settings correctly.\n"
+"Do you want to reset all settings and try again?\n"
+"(Select \"No\" to open Rainlendar with old settings)"
+msgstr ""
+"Rainlendar уйрăмлăхсене  корректлăн çĕнетес çук.\n"
+"Пĕтĕм уйрăмлăхсене кала тавăрса каллех тăрăшасшăн-и?\n"
+"(Юлашки ĕçлекен версине таврăнас тесен \"Çук\" çине пус)"
+
+#: Application/Rainlendar.cpp:723
+#, c-format
+msgid ""
+"There are no skins in path:\n"
+"%s"
+msgstr ""
+"Ку адресра кĕпесем пĕр те çук:\n"
+"%s"
+
+#: Application/Rainlendar.cpp:738
+msgid ""
+"Rainlendar was not able to load the selected skin.\n"
+"Do you want to use the default skin instead?"
+msgstr ""
+"Rainlendar'ăн суйланă кĕпене усă курас çук.\n"
+"По умолчене кĕпене усă курасшăн-и?"
+
+#: Application/Rainlendar.cpp:751
+msgid "Unable to load the skin. Check the log for more details."
+msgstr "Кĕпене лартма пулман. Тĕпленрех пĕлес тесен log файла уçса пăх."
+
+#: Application/Rainlendar.cpp:771
+msgid "True"
+msgstr "Тĕрĕс"
+
+#: Application/Rainlendar.cpp:771
+msgid "False"
+msgstr "Тĕрĕс мар"
+
+#: Application/Rainlendar.cpp:1028
+msgid ""
+"There seems to be something wrong with the license file.\n"
+"Please make sure that the download url is correct and try again."
+msgstr ""
+"Лицензи файлĕ йăнăшлă курăнать.\n"
+"Адресне тĕрĕсле те тата тăрăш."
+
+#: Application/Rainlendar.cpp:1357
+msgid ""
+"Found these old Rainlendar files:\n"
+"\n"
+msgstr ""
+"Ку кивĕ Rainlendar файлĕсен тупăнчĕç:\n"
+"\n"
+
+#: Application/Rainlendar.cpp:1364
+msgid "Do you want to import them?"
+msgstr "Вĕсене импортлас-и?"
+
+#: Application/Rainlendar.cpp:1386
+#, c-format
+msgid "Import failed with file: \"%s\""
+msgstr "Импортласси ăнăçсăрланă: \"%s\" "
+
+#: Application/SkinIni.cpp:288
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 0 to 11 for a specific month in the current year."
+msgstr "Хăш уйăха кăтартассине улăштараятăн. +1 суйласан çитес уйăх курăнĕ,  -1 - иртнĕ уйăх. 0-11 хушшинче хисепсем конкретлă уйăхсем валли."
+
+#: Application/SkinIni.cpp:502
+msgid "Defines the width of the event list."
+msgstr "Пулăмсен списокĕн сарлакăшне улăштараятăн."
+
+#: Application/SkinIni.cpp:503
+msgid "Defines the width of the todo list."
+msgstr "Тумаллисен списокне сарлакăшне улăштараятăн."
+
+#: Application/SkinManager.cpp:98
+msgid ""
+"Unable to find active skins.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Активлă кĕпесене тупас çук.\n"
+"Пĕрремĕш пур кĕпене усă курас тесен \"Юрĕ\" çине пус."
+
+#: Application/SkinManager.cpp:103
+msgid ""
+"The skin doesn't have any active windows.\n"
+"The default windows are used instead."
+msgstr ""
+"Кĕпен активлă чӳречисем пĕр те çук. \n"
+"Ун вырăнне по умолчене чӳречисем тапратнă."
+
+#: Application/SkinManager.cpp:108
+msgid ""
+"The skin doesn't exist.\n"
+"Click OK to load the first available skin."
+msgstr ""
+"Кĕпе çук.\n"
+"Пĕрремĕш пур кĕпене усă курас тесен \"Юрĕ\" çине пус."
+
+#: Application/Util.cpp:1128
+msgid "January"
+msgstr "Кăрлач"
+
+#: Application/Util.cpp:1130
+msgid "February"
+msgstr "Нарăс"
+
+#: Application/Util.cpp:1132
+msgid "March"
+msgstr "Пуш"
+
+#: Application/Util.cpp:1134
+msgid "April"
+msgstr "Ака"
+
+#: Application/Util.cpp:1136
+msgid "May"
+msgstr "Çу"
+
+#: Application/Util.cpp:1138
+msgid "June"
+msgstr "Çĕртме"
+
+#: Application/Util.cpp:1140
+msgid "July"
+msgstr "Утă"
+
+#: Application/Util.cpp:1142
+msgid "August"
+msgstr "Çурла"
+
+#: Application/Util.cpp:1144
+msgid "September"
+msgstr "Авăн"
+
+#: Application/Util.cpp:1146
+msgid "October"
+msgstr "Юпа"
+
+#: Application/Util.cpp:1148
+msgid "November"
+msgstr "Чÿк"
+
+#: Application/Util.cpp:1150
+msgid "December"
+msgstr "Раштав"
+
+#: Application/Util.cpp:2200
+#, c-format
+msgid "%ith"
+msgstr "%i-мĕш"
+
+# These are the the exceptions to the ordinal numbers. The numeric value in the exceptions is checked with the ordinal number and if the last numbers match the exception format is used instead of the normal format. For example "11th" will match with 11, 111, 211, 311, etc. The "1st" will match with 1, 21, 31, ..., 101, 121, 131, etc. Note that "1st" will not be used with 11, 111, 211, etc. because the "11th" was checked and matched first.
+#: Application/Util.cpp:2201
+msgid "11th;12th;13th;1st;2nd;3rd"
+msgstr "1-мĕш"
+
+#: Application/WizardCalendar.cpp:24
+#: Application/WizardCalendar.cpp:29
+msgid "Create a new calendar"
+msgstr "Çĕнĕ календарь ту"
+
+#: Application/WizardPageCalendar.cpp:40
+msgid "Please select the type of the calendar."
+msgstr "Календарь типне суйла тархасшăн."
+
+#: Application/WizardPageCalendar.cpp:49
+msgid "Type"
+msgstr "Пичет"
+
+#: Application/WizardPageCalendar.cpp:75
+msgid ""
+"The calendar type defines the format of the events\n"
+"and where they are stored."
+msgstr ""
+"Календарь типĕнче пулăмсен формачĕ мĕнли\n"
+"тата ăçта вĕсем усрасси тăрать."
+
+#: Application/WizardPageCalendar.cpp:104
+msgid "You need to select a calendar type!"
+msgstr "Календарь типне суйламалла санăн!"
+
+#: Application/WizardPageCalendar.cpp:191
+#: Application/res/alarm.cpp:3
+msgid "Browse..."
+msgstr "Тĕпче.."
+
+#: Application/WizardPageCalendar.cpp:270
+msgid "Only local files can be defined as the file name."
+msgstr "Вырăнти файлсем кăна файл ячĕ пек пулма пултараççĕ."
+
+#: Application/WizardPageCalendar.cpp:276
+msgid ""
+"It's not possible to use UNC paths as the file name.\n"
+"You need to map the network drive to be able to access the files on a server."
+msgstr ""
+"Файл ятĕнче UNC адресĕсене усă курас çук. \n"
+"Серверпа çыхăнас тесен, тетел дискне палăртмалла."
+
+#: Application/WizardPageCalendar.cpp:384
+msgid "Please choose a name for the the calendar."
+msgstr "Календарьшĕн ят суйла тархасшăн."
+
+#: Application/WizardPageCalendar.cpp:392
+msgid "Name"
+msgstr "Ят"
+
+#: Application/WizardPageCalendar.cpp:430
+msgid ""
+"The calendar with the same name already exists.\n"
+"Please use some other name."
+msgstr ""
+"Çак ятлă календарь пур ĕнтĕ. \n"
+"Тархасшăн урăх ят пар."
+
+#: Application/WizardPageCalendar.cpp:437
+msgid "You need to give some name for the calendar."
+msgstr "Календарь валли ят пама ан ман."
+
+#: Application/res/about.cpp:2
+#: Application/res/event.cpp:5
+#: Application/res/manager.cpp:8
+#: Application/res/manager.cpp:17
+#: Application/res/print.cpp:11
+#: Application/res/todo.cpp:5
+msgid "Close"
+msgstr "Хуп"
+
+#: Application/res/alarm.cpp:1
+msgid "Alarm sound"
+msgstr "Сигнал сасси"
+
+#: Application/res/alarm.cpp:2
+msgid "Select the sound file for the alarm"
+msgstr "Сигналшăн файла суйла"
+
+#: Application/res/event.cpp:2
+#: Application/res/manager.cpp:2
+#: Application/res/todo.cpp:2
+msgid "File"
+msgstr "Файл"
+
+#: Application/res/event.cpp:3
+#: Application/res/todo.cpp:3
+msgid "Save"
+msgstr "Сыхла"
+
+#: Application/res/event.cpp:8
+#: Application/res/todo.cpp:8
+msgid "Summary:"
+msgstr "Мĕн:"
+
+#: Application/res/event.cpp:9
+#: Application/res/todo.cpp:9
+msgid "Location:"
+msgstr "Ăçта:"
+
+#: Application/res/event.cpp:10
+#: Application/res/todo.cpp:10
+msgid "Private"
+msgstr "Приват"
+
+#: Application/res/event.cpp:11
+#: Application/res/todo.cpp:11
+msgid "Start time:"
+msgstr "Пуçламăш:"
+
+#: Application/res/event.cpp:12
+msgid "All day event"
+msgstr "Кунсеренхи пулăм"
+
+#: Application/res/event.cpp:13
+msgid "End time:"
+msgstr "Вĕçленет:"
+
+#: Application/res/event.cpp:15
+#: Application/res/event.cpp:16
+#: Application/res/todo.cpp:41
+msgid "Minutes"
+msgstr "Минут"
+
+#: Application/res/event.cpp:17
+#: Application/res/todo.cpp:42
+msgid "Hours"
+msgstr "Сехет"
+
+#: Application/res/event.cpp:18
+#: Application/res/event.cpp:24
+#: Application/res/todo.cpp:40
+#: Application/res/todo.cpp:43
+#: Application/res/todo.cpp:49
+msgid "Days"
+msgstr "Кунсем"
+
+#: Application/res/event.cpp:19
+msgid "before the event starts."
+msgstr "Пулăм пуçланиччен."
+
+#: Application/res/event.cpp:22
+#: Application/res/todo.cpp:47
+msgid "Recurrence"
+msgstr "Таврăну"
+
+#: Application/res/event.cpp:23
+#: Application/res/todo.cpp:48
+msgid "Repeat every"
+msgstr "Кашни ту"
+
+#: Application/res/event.cpp:25
+#: Application/res/todo.cpp:50
+msgid "Weeks"
+msgstr "Эрне"
+
+#: Application/res/event.cpp:26
+#: Application/res/todo.cpp:51
+msgid "Months"
+msgstr "Уйăхсем"
+
+#: Application/res/event.cpp:27
+#: Application/res/todo.cpp:52
+msgid "Years"
+msgstr "Çул"
+
+#: Application/res/event.cpp:28
+#: Application/res/todo.cpp:53
+msgid "Mon"
+msgstr "Тнт"
+
+#: Application/res/event.cpp:29
+#: Application/res/todo.cpp:54
+msgid "Tue"
+msgstr "Ыт"
+
+#: Application/res/event.cpp:30
+#: Application/res/todo.cpp:55
+msgid "Wed"
+msgstr "Юн"
+
+#: Application/res/event.cpp:31
+#: Application/res/todo.cpp:56
+msgid "Thu"
+msgstr "Кç"
+
+#: Application/res/event.cpp:32
+#: Application/res/todo.cpp:57
+msgid "Fri"
+msgstr "Эр"
+
+#: Application/res/event.cpp:33
+#: Application/res/todo.cpp:58
+msgid "Sat"
+msgstr "Шм"
+
+#: Application/res/event.cpp:34
+#: Application/res/todo.cpp:59
+msgid "Sun"
+msgstr "Врс"
+
+#: Application/res/event.cpp:35
+#: Application/res/todo.cpp:60
+msgid "Repeat"
+msgstr "Тепĕр хут"
+
+#: Application/res/event.cpp:36
+#: Application/res/todo.cpp:61
+msgid "Forever"
+msgstr "Ялан"
+
+#: Application/res/event.cpp:37
+#: Application/res/todo.cpp:62
+#, fuzzy
+msgid "Number of times"
+msgstr "Вăхăтсем мĕн чухлĕ"
+
+#: Application/res/event.cpp:38
+#: Application/res/todo.cpp:63
+msgid "Until"
+msgstr "Хăçанччен"
+
+#: Application/res/event.cpp:39
+#: Application/res/todo.cpp:64
+msgid "Exception dates"
+msgstr "Исключенисен датăсем"
+
+#: Application/res/event.cpp:40
+#: Application/res/options.cpp:26
+#: Application/res/todo.cpp:65
+msgid "Add"
+msgstr "Хушас"
+
+#: Application/res/manager.cpp:3
+msgid "Import"
+msgstr "импорт"
+
+#: Application/res/manager.cpp:4
+msgid "Export"
+msgstr "экспорт"
+
+#: Application/res/manager.cpp:5
+#: Application/res/print.cpp:9
+msgid "Print..."
+msgstr "Пичетле..."
+
+#: Application/res/manager.cpp:6
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:242
+msgid "Backup"
+msgstr "Backup"
+
+#: Application/res/manager.cpp:7
+msgid "Restore"
+msgstr "Каялла тавăр"
+
+#: Application/res/manager.cpp:9
+msgid "New"
+msgstr "Çĕнĕ"
+
+#: Application/res/manager.cpp:10
+msgid "Edit"
+msgstr "Тӳрлет"
+
+#: Application/res/manager.cpp:12
+msgid "Copy to..."
+msgstr "Копиле çак вырăна..."
+
+#: Application/res/manager.cpp:13
+msgid "Move to..."
+msgstr "Вырнăçтарса куçтар..."
+
+#: Application/res/manager.cpp:14
+msgid "Show events"
+msgstr "Пулăмсене кăтарт"
+
+#: Application/res/manager.cpp:15
+msgid "Show todo items"
+msgstr "Тĕллевсене кăтарт"
+
+#: Application/res/manager.cpp:16
+msgid "Search:"
+msgstr "Шыра:"
+
+#: Application/res/options.cpp:2
+msgid "Week's start day:"
+msgstr "Эрнен пĕрремĕш кăтартас кунĕ:"
+
+#: Application/res/options.cpp:3
+msgid "Show today's events on tray when Rainlendar is started"
+msgstr "Rainlendar тапратнă вăхăтра панель çинче Паянхи пулăмсене кăтарт"
+
+#: Application/res/options.cpp:4
+msgid "Add years to birthdays and anniversaries"
+msgstr "Çуралнă кунсемпе юбилейсем валли çулсене хуш."
+
+#: Application/res/options.cpp:5
+msgid "Hide windows if there are no items"
+msgstr "Япаласем çук пулсан, чӳречесене ан палăрччĕр."
+
+#: Application/res/options.cpp:6
+msgid "Click through (hold Shift-key down to deactivate)"
+msgstr "Shift пусса деактивизацилеме пулать"
+
+#: Application/res/options.cpp:7
+msgid "Lock windows in place"
+msgstr "Чӳречесене ăçтине усра."
+
+#: Application/res/options.cpp:8
+#, fuzzy
+msgid "Enable on startup"
+msgstr "Системăпа тапрат"
+
+#: Application/res/options.cpp:9
+msgid "Language:"
+msgstr "Чĕлхе:"
+
+#: Application/res/options.cpp:10
+msgid "Position"
+msgstr "Вырăнĕ"
+
+#: Application/res/options.cpp:11
+msgid "On Top"
+msgstr "Çӳлле"
+
+#: Application/res/options.cpp:12
+msgid "Normal"
+msgstr "Йĕркеллĕ"
+
+#: Application/res/options.cpp:13
+msgid "On Bottom"
+msgstr "Аялта"
+
+#: Application/res/options.cpp:14
+msgid "On Desktop"
+msgstr "Ĕç сĕтел çинче"
+
+#: Application/res/options.cpp:15
+msgid "Transparency"
+msgstr "Витĕр курăнмалла"
+
+#: Application/res/options.cpp:16
+msgid "Normal:"
+msgstr "Яланхи"
+
+#: Application/res/options.cpp:17
+msgid "Mouse over:"
+msgstr "Ун çинче шăшши чухне:"
+
+#: Application/res/options.cpp:19
+msgid "Add..."
+msgstr "Хуш..."
+
+#: Application/res/options.cpp:20
+#: Application/res/options.cpp:27
+msgid "Remove"
+msgstr "Кăларса пăрах"
+
+#: Application/res/options.cpp:23
+msgid "Action:"
+msgstr "Тăвасси:"
+
+# куна пăхмалла!
+#: Application/res/options.cpp:24
+msgid "Hotkey:"
+msgstr "Вĕри пускăч"
+
+#: Application/res/options.cpp:25
+msgid "Set"
+msgstr "Ларт"
+
+#: Application/res/options.cpp:28
+msgid "Available skins"
+msgstr "Вырăнти кĕпесем"
+
+#: Application/res/options.cpp:29
+msgid "-->"
+msgstr "-->"
+
+#: Application/res/options.cpp:30
+msgid "<--"
+msgstr "<--"
+
+#: Application/res/options.cpp:31
+msgid "Active skins"
+msgstr "Усă куракан кĕпесем"
+
+#: Application/res/options.cpp:32
+msgid "Settings..."
+msgstr "Ĕнерлевсем"
+
+#: Application/res/options.cpp:34
+msgid "Details"
+msgstr "Тĕплĕнрех"
+
+#: Application/res/print.cpp:1
+msgid "All items"
+msgstr "Пур япаласем"
+
+#: Application/res/print.cpp:2
+msgid "Selected items"
+msgstr "Суйласа илнĕ япаласем"
+
+#: Application/res/print.cpp:3
+#, fuzzy
+msgid "Day range"
+msgstr "Кун суйласа илни"
+
+#: Application/res/print.cpp:4
+msgid "Select days"
+msgstr "Кунсене суйла"
+
+#: Application/res/print.cpp:5
+msgid "From:"
+msgstr "Ăçтан:"
+
+#: Application/res/print.cpp:6
+msgid "To:"
+msgstr "Ăçталла:"
+
+#: Application/res/print.cpp:7
+msgid "Add title"
+msgstr "Ятне хуш"
+
+#: Application/res/print.cpp:8
+msgid "Preview..."
+msgstr "Малтанхи курăну..."
+
+#: Application/res/print.cpp:10
+msgid "Page Setup..."
+msgstr "Питне йĕркелесси..."
+
+#: Application/res/todo.cpp:12
+msgid "Due time:"
+msgstr "Вĕçĕ:"
+
+#: Application/res/todo.cpp:13
+msgid "Show in calendar"
+msgstr "Календарьте кăтарт"
+
+#: Application/res/todo.cpp:14
+msgid "Priority:"
+msgstr "Приоритет:"
+
+#: Application/res/todo.cpp:20
+msgid "Status:"
+msgstr "Статус:"
+
+#: Application/res/todo.cpp:21
+#: Application/res/todo.cpp:22
+msgid "Not Started"
+msgstr "Пуçламан"
+
+#: Application/res/todo.cpp:26
+msgid "Progress:"
+msgstr "Иртни:"
+
+#: Application/res/todo.cpp:27
+#: Application/res/todo.cpp:28
+msgid "0 %"
+msgstr "0 %"
+
+#: Application/res/todo.cpp:29
+msgid "10 %"
+msgstr "10 %"
+
+#: Application/res/todo.cpp:30
+msgid "20 %"
+msgstr "20 %"
+
+#: Application/res/todo.cpp:31
+msgid "30 %"
+msgstr "30 %"
+
+#: Application/res/todo.cpp:32
+msgid "40 %"
+msgstr "40 %"
+
+#: Application/res/todo.cpp:33
+msgid "50 %"
+msgstr "50 %"
+
+#: Application/res/todo.cpp:34
+msgid "60 %"
+msgstr "60 %"
+
+#: Application/res/todo.cpp:35
+msgid "70 %"
+msgstr "70 %"
+
+#: Application/res/todo.cpp:36
+msgid "80 %"
+msgstr "80 %"
+
+#: Application/res/todo.cpp:37
+msgid "90 %"
+msgstr "90 %"
+
+#: Application/res/todo.cpp:38
+msgid "100 %"
+msgstr "100 %"
+
+#: Application/res/todo.cpp:44
+msgid "before the task is due."
+msgstr "тĕллевĕ пуçламалличчен:"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:216
+#: Application/Resource.h:306
+msgid "Calendar"
+msgstr "Календарь"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:220
+msgid "Email"
+msgstr "Эл. çыру"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:224
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:234
+msgid "Password"
+msgstr "Пароль"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:228
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:238
+#: Plugins/OutlookPlugin/MapiHandler.cpp:402
+msgid "Poll frequency"
+msgstr "Суйлав тăтăшши"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:232
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:246
+msgid "Suppress errors"
+msgstr "Тытмалли йăнăшсем"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:236
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:250
+msgid "Keep offline copy"
+msgstr "Offline копине усра"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:240
+msgid "Use default Google Calendar alarms"
+msgstr "Google яланхи сигналсене усă кур"
+
+#: Plugins/GooglePlugin/GoogleHandler.cpp:276
+msgid ""
+"Choose the name of the calendar, email and password for your Google account.\n"
+"You can also leave the calendar field empty if you only have a one calendar."
+msgstr "Google шутун календарь ятне, эл. çырăвна, парольне суйла. /nСан пĕр календарь кăна пулсан, унта çырма кирлĕ мар."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:433
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to authenticate to Google.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google йăнăшĕ!\n"
+"Google'а кĕрес çук.\n"
+"Сервер терĕ: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:574
+#: Plugins/GooglePlugin/GoogleThread.cpp:1164
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to download the calendars.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google йăнăшĕ!\n"
+"Календарьсене уçласа илес çук.\n"
+"Сервер терĕ: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:653
+msgid ""
+"Google Error!\n"
+"Unable to parse the calendar url."
+msgstr ""
+"Google йăнăшĕ!\n"
+"Календарь адресне вулас çук."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:677
+msgid ""
+"Google Error!\n"
+"Unable to find the chosen calendar.\n"
+"\n"
+"Available calendars are:\n"
+msgstr ""
+"Google йăнăшĕ!\n"
+"Суйланă календаре тупас çук.\n"
+"Пур календарьсем:\n"
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:779
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to delete the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google йăнăшĕ!\n"
+"Пулăма кăларса пăрахас çук.\n"
+"Сервер терĕ: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:973
+#, c-format
+msgid ""
+"Google Error!\n"
+"Unable to upload the event.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Google йăнăшĕ!\n"
+"Пулăма кĕртес çук.\n"
+"Сервер терĕ: (%i) %i %s."
+
+#: Plugins/GooglePlugin/GoogleThread.cpp:1142
+msgid ""
+"Google Error!\n"
+"Unable to parse the events."
+msgstr ""
+"Google йăнăшĕ!\n"
+"Пулăмсене вулас çук."
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:587
+msgid "Filename"
+msgstr "Файл ячĕ"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:593
+#, fuzzy
+msgid "Monitor changes"
+msgstr "Монитор улшăнăвĕсем"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:640
+msgid ""
+"Choose a file for the calendar.\n"
+"\n"
+"You can select an existing ics-file or type a new path name in which case a new file will be created."
+msgstr "Календарь валли файла суйла. /n/nПур файла суйлаян, е çĕнĕ календарь тăвас тесен çĕнĕ адресне çыр."
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:226
+msgid "URL"
+msgstr "URL"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:230
+msgid "Username"
+msgstr "Усă куран ячĕ"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:254
+#, fuzzy
+msgid "Safe upload"
+msgstr "Хăрушăсăр кĕртесси"
+
+#: Plugins/NetworkPlugin/NetworkHandler.cpp:291
+msgid ""
+"Choose an URL, username and password for the calendar.\n"
+"\n"
+"The URL can use http, https or ftp protocols. The username and password fields can be left empty if they are not needed."
+msgstr "Адресне, усă куран ятне, парольне суйла. /n/nАдресĕ http, https е ftp протоколлă пулма пултараççĕ. Кирлĕ мар пулсан, ятпа пароль пушă юлтармалла."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:514
+msgid "Network Error!"
+msgstr "Тетел йăнăш!"
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:516
+#, c-format
+msgid ""
+"Unable to parse the file: %s\n"
+"The file might be corrupted."
+msgstr ""
+"Файла вулас çук: %s\n"
+"Файл йăнăшлă пулмалла пуль."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:621
+#, c-format
+msgid ""
+"Network Error!\n"
+"Error downloading the data from the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+"Тетел йăнăшĕ!\n"
+"Адресрен уçласа илнинче йăнăш:\n"
+"%s\n"
+"\n"
+"Сервер терĕ: %i %s."
+
+#: Plugins/NetworkPlugin/NetworkThread.cpp:897
+#, c-format
+msgid ""
+"Network Error!\n"
+"Error uploading the data to the url:\n"
+"%s\n"
+"\n"
+"Server returned result: %i %s."
+msgstr ""
+"Тетел йăнăшĕ!\n"
+"Кĕртнинче йăнăш:\n"
+"%s\n"
+"\n"
+"Сервер терĕ: %i %s."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:118
+msgid ""
+"Outlook Error!\n"
+"Unable to initialize the MAPI library."
+msgstr ""
+"Outlook йăнăшĕ!\n"
+"MAPI вулăвăшне тапратас çук."
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:317
+#: Plugins/OutlookPlugin/MapiHandler.cpp:475
+#: Plugins/OutlookPlugin/MapiHandler.cpp:489
+msgid "Application"
+msgstr "Программа"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:332
+#: Plugins/OutlookPlugin/MapiHandler.cpp:496
+msgid "Profile"
+msgstr "Профиль"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:347
+#: Plugins/OutlookPlugin/MapiHandler.cpp:502
+#, fuzzy
+msgid "MessageStore"
+msgstr "MessageStore "
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:362
+msgid "Folders"
+msgstr "Папкăсем"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:382
+msgid "Import Alarms"
+msgstr "Пĕлтерекен сигналсене импортла"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:387
+msgid "Use labels instead of categories"
+msgstr "Категорисем вырăнне лэйблсем усă кур"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:392
+msgid "Show edit links"
+msgstr "Тӳрлетмелли каçăсене кăтарт"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:397
+msgid "Keep MAPI connection alive"
+msgstr "MAPI çыхăнăвне чĕрĕ усра"
+
+#: Plugins/OutlookPlugin/MapiHandler.cpp:541
+msgid "Choose the Outlook message store which you want to see in Rainlendar."
+msgstr "Rainlendar'та Outlook'ăн хăш хыпара кăтартассине суйла."
+
+#: Plugins/OutlookPlugin/MapiItem.cpp:346
+#, c-format
+msgid " [[outlook:%s][edit]]"
+msgstr " [[outlook:%s][edit]]"
+
+#: Application/Resource.h:242
+msgid "Yes"
+msgstr "Çапла"
+
+#: Application/Resource.h:243
+msgid "No"
+msgstr "Çук"
+
+#: Application/Resource.h:247
+msgid "Make a selection:"
+msgstr "Суйла:"
+
+#: Application/Resource.h:249
+msgid "Hide Windows"
+msgstr "Чӳречене пытар"
+
+#: Application/Resource.h:250
+msgid "Show Windows"
+msgstr "Чӳречене кăтарт"
+
+#: Application/Resource.h:251
+msgid "Toggle Windows"
+msgstr "Чӳречесене улăштар"
+
+#: Application/Resource.h:252
+msgid "Next Month"
+msgstr "Çитес уйăх"
+
+#: Application/Resource.h:253
+msgid "Previous Month"
+msgstr "Юлашки уйăх"
+
+#: Application/Resource.h:254
+msgid "Current Month"
+msgstr "Хальхи уйăх"
+
+#: Application/Resource.h:256
+msgid "Create New Task"
+msgstr "Çĕнĕ тĕллев ту"
+
+#: Application/Resource.h:257
+msgid "Create New Event"
+msgstr "Çĕнĕ пулăм ту"
+
+#: Application/Resource.h:259
+msgid "Anniversary"
+msgstr "Юбилей"
+
+#: Application/Resource.h:260
+msgid "Birthday"
+msgstr "Çуралнă кун"
+
+#: Application/Resource.h:261
+msgid "Business"
+msgstr "Бизнес"
+
+#: Application/Resource.h:262
+msgid "Calls"
+msgstr "Шăнкăравсем"
+
+#: Application/Resource.h:263
+msgid "Clients"
+msgstr "Клиентсем"
+
+#: Application/Resource.h:264
+msgid "Competition"
+msgstr "Ăмăрту"
+
+#: Application/Resource.h:265
+msgid "Customer"
+msgstr "Туянакан"
+
+#: Application/Resource.h:266
+msgid "Exam"
+msgstr "Экзамен"
+
+#: Application/Resource.h:267
+msgid "Favorites"
+msgstr "Суйласа илнисем"
+
+#: Application/Resource.h:268
+msgid "Follow Up"
+msgstr "Follow Up - Çӳле кай (?)"
+
+#: Application/Resource.h:269
+msgid "Gifts"
+msgstr "Парнесем"
+
+#: Application/Resource.h:270
+msgid "Holidays"
+msgstr "Кану кунĕсем"
+
+#: Application/Resource.h:271
+msgid "Ideas"
+msgstr "Шухăшсем"
+
+#: Application/Resource.h:272
+msgid "Important"
+msgstr "Пĕлтерĕшлĕ"
+
+#: Application/Resource.h:273
+msgid "Issues"
+msgstr "Çăлкуçсем"
+
+#: Application/Resource.h:274
+msgid "Miscellaneous"
+msgstr "Расна"
+
+#: Application/Resource.h:275
+msgid "Personal"
+msgstr "Персоналлă"
+
+#: Application/Resource.h:276
+msgid "Projects"
+msgstr "Проектсем"
+
+#: Application/Resource.h:277
+msgid "Public Holiday"
+msgstr "Патшалăхри кану кунĕ"
+
+#: Application/Resource.h:279
+msgid "Suppliers"
+msgstr "Поставщиксем"
+
+#: Application/Resource.h:280
+msgid "Travel"
+msgstr "Çулçӳрев"
+
+#: Application/Resource.h:281
+msgid "Trip"
+msgstr "Çулçÿрев"
+
+#: Application/Resource.h:282
+msgid "TV"
+msgstr "Инçекурав"
+
+#: Application/Resource.h:283
+msgid "Vacation"
+msgstr "Кану вăхăчĕ"
+
+#: Application/Resource.h:284
+msgid "Work"
+msgstr "Ĕç"
+
+#: Application/Resource.h:285
+msgid "Medical"
+msgstr "Тухтăрлă"
+
+#: Application/Resource.h:287
+msgid "Urgent"
+msgstr "Кĕçех тумалла"
+
+#: Application/Resource.h:290
+msgid "Must Attend"
+msgstr "Кĕтмелле"
+
+#: Application/Resource.h:291
+msgid "Travel Required"
+msgstr "Çула кайма кирлĕ"
+
+#: Application/Resource.h:292
+msgid "Needs Preparation"
+msgstr "Хатĕрлеме кирлĕ"
+
+#: Application/Resource.h:293
+msgid "Phone Call"
+msgstr "Телефон шăнкăравĕ"
+
+#: Application/Resource.h:295
+msgid "iCalendar Format"
+msgstr "iCalendar Format"
+
+#: Application/Resource.h:296
+msgid "Network Shared Calendar"
+msgstr "Тетелте валеçекен календарь"
+
+#: Application/Resource.h:297
+msgid "Microsoft Outlook"
+msgstr "Microsoft Outlook"
+
+#: Application/Resource.h:298
+msgid "Rainlendar Ini Format"
+msgstr "Rainlendar Ini формачĕ"
+
+#: Application/Resource.h:299
+msgid "Google Calendar"
+msgstr "Google календарĕ"
+
+#: Application/Resource.h:301
+msgid "&Next >"
+msgstr "&Малалла >"
+
+#: Application/Resource.h:302
+msgid "< &Back"
+msgstr "< &Каялла"
+
+#: Application/Resource.h:303
+msgid "&Finish"
+msgstr "&Вĕçле"
+
+#: Application/Resource.h:305
+msgid "Vertical Calendar"
+msgstr "Вертикаллă календарь"
+
+#: Application/Resource.h:307
+msgid "Year Calendar"
+msgstr "Çул календарĕ"
+
+#: Application/Resource.h:308
+msgid "Sidebar"
+msgstr "Çийенчи хăми"
+
+#: Application/Resource.h:309
+msgid "DigiClock"
+msgstr "DigiClock"
+
+#: Application/Resource.h:310
+msgid "Dual Calendar"
+msgstr "Иккĕлле календарь"
+
+# список валли чăваш сăмахне тупас пулать
+#: Application/Resource.h:311
+msgid "Event List"
+msgstr "Пулăмсен списокĕ"
+
+#: Application/Resource.h:312
+msgid "Todo List"
+msgstr "Тумалли список"
+
+#: Application/Resource.h:314
+#: Application/Resource.h:323
+msgid "Visible month"
+msgstr "Курăнакан уйăх"
+
+#: Application/Resource.h:315
+msgid "Show buttons"
+msgstr "Пускăчсене кăтарт"
+
+#: Application/Resource.h:316
+msgid "Show adjacent days"
+msgstr "Çывăх кунсене кăтарт"
+
+#: Application/Resource.h:317
+msgid "Eventlist width"
+msgstr "Пулăмсен списокĕн сарлакăшĕ"
+
+#: Application/Resource.h:318
+msgid "Eventlist height"
+msgstr "Пулăмсен списокĕн çӳллĕшĕ"
+
+#: Application/Resource.h:319
+msgid "Todolist width"
+msgstr "тумалли списокĕн сарлакашĕ"
+
+#: Application/Resource.h:320
+msgid "Todolist height"
+msgstr "Тумалли списокĕн çӳллĕшĕ"
+
+#: Application/Resource.h:321
+msgid "Calendar list width"
+msgstr "Календарь список сарлакăшĕ"
+
+#: Application/Resource.h:322
+msgid "Calendar list height"
+msgstr "Календарь список çӳллĕшĕ"
+
+#: Application/Resource.h:324
+msgid "Width"
+msgstr "Сарлакашĕ"
+
+#: Application/Resource.h:325
+msgid "Show week numbers"
+msgstr "Эрне нуммĕрĕсене кăтарт"
+
+#: Application/Resource.h:326
+msgid "Format"
+msgstr "Формат"
+
+#: Application/Resource.h:327
+msgid "Timezone"
+msgstr "Вăхăт зони"
+
+#: Application/Resource.h:328
+msgid "Show 3rd month"
+msgstr "3-мĕш уйăха кăтарт"
+
+#: Application/Resource.h:329
+msgid "Show 4th month"
+msgstr "4-мĕш уйăха кăтарт"
+
+#: Application/Resource.h:330
+msgid "Show 5th month"
+msgstr "5-мĕш уйăха кăтарт"
+
+#: Application/Resource.h:331
+msgid "Show 6th month"
+msgstr "6-мĕш уйăха кăтарт"
+
+#: Application/Resource.h:332
+msgid "Show 7th month"
+msgstr "7-мĕш уйăха кăтарт"
+
+#: Application/Resource.h:333
+msgid "Show 8th month"
+msgstr "9-мĕш уйăха кăтарт"
+
+#: Application/Resource.h:334
+msgid "Color"
+msgstr "Тĕс"
+
+#: Application/Resource.h:335
+msgid "Analog Clock"
+msgstr "Аналог сехет"
+
+#: Application/Resource.h:336
+msgid "Calendar List"
+msgstr "Календарь списокĕ"
+
+#: Application/Resource.h:338
+msgid "Snooze All"
+msgstr "Пурне те Snooze ту"
+
+#: Application/Resource.h:339
+msgid "Dismiss All"
+msgstr "Пурне те сур"
+
+#: Application/Resource.h:341
+msgid "To do"
+msgstr "Тумалли"
+
+#: Application/Resource.h:344
+msgid "A sequel to the popular Shadow3-skin with some added features like visible days from the next and previous month and a skinned tooltip."
+msgstr "Юратнă Shadow3 кĕпен çĕнĕ верси."
+
+#: Application/Resource.h:345
+#: Application/Resource.h:353
+#: Application/Resource.h:378
+msgid "Defines the month that the calendar shows. Set to +1 for the next month, -1 for the previous month or a value from 1 to 12 for a specific month in the current year."
+msgstr "Мĕн уйăха календарь кăтартмаллине улăштараятăн. +1 кĕрт çитес уйăх кăтарттарас тесен. -1 иртнĕ уйăх. Е 1-12 хушшинчи хисепе çыр, конкретлă уйăх кăтартасса кĕтсен."
+
+#: Application/Resource.h:346
+msgid "Set to 0 to hide the next and previous buttons from the calendar."
+msgstr "0 кĕртсен календарьти çитеспе юлашки пускăчсене пытаратăн."
+
+#: Application/Resource.h:347
+msgid "Set to 0 to hide the days from the previous and next month."
+msgstr "0 кĕртсен, çитеспе итртнĕ уйăхăн кунсем курăнмĕç."
+
+#: Application/Resource.h:348
+msgid "Defines the width of the event list. The default value is 165 pixels."
+msgstr "Пулăм списокĕн сарлакашне улăштараятăн. 165 пиксель - по умолчани пекех."
+
+#: Application/Resource.h:349
+#: Application/Resource.h:380
+msgid "Defines the maximum height of the event list. The default value is 300 pixels."
+msgstr "Пулăм списокĕн максимум çӳллĕшне улăштараятăн. 300 пиксель - по умолчене. "
+
+#: Application/Resource.h:350
+msgid "Defines the width of the to do list. The default value is 165 pixels."
+msgstr "Тумалли списокăн сарлакăшне улăштараятăн. 165 пиксель - по умолчене."
+
+#: Application/Resource.h:351
+#: Application/Resource.h:381
+msgid "Defines the maximum height of the to do list. The default value is 300 pixels."
+msgstr "Тумаллисен списокĕн максимум çӳллĕшне улăштараятăн. 300 пиксель - по умолчене. "
+
+#: Application/Resource.h:352
+msgid "Defines the width of the calendar list. The default value is 165 pixels."
+msgstr "Календарь списокĕн сарлакăшне улăштараятăн. 165 пиксель - по умолчене."
+
+#: Application/Resource.h:354
+msgid "Defines the width of the window. The default value is 165 pixels."
+msgstr "Чӳречен сарлакашне улăштараятăн. Программа тин лартсан 165 пиксель сарлака."
+
+#: Application/Resource.h:355
+#: Application/Resource.h:356
+#: Application/Resource.h:357
+#: Application/Resource.h:358
+#: Application/Resource.h:359
+msgid "Set to 0 to hide the week numbers from the calendar."
+msgstr "Календарьте эрне нумерĕсене пытарттарас тесен 0 кĕрт"
+
+#: Application/Resource.h:360
+msgid "This defines the format of the clock. To get rid of the seconds use %H:%M or %#I:%M %p"
+msgstr "Сехет форматне улăштараятăн. Секкунтсене курас килсен суйла:  %H:%M е %#I:%M %p"
+
+#: Application/Resource.h:361
+msgid "Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . You can also use values like CET, EST, PST, A_CST, ..."
+msgstr "Вăхăт зонине определять тăвать. Хисепе суйла: ... -3, -2, -1, 0, +1, +2, +3,... . Е CET, EST, PST, A_CST пек вăхăт поясне кĕрт."
+
+#: Application/Resource.h:362
+#: Application/Resource.h:363
+#: Application/Resource.h:364
+#: Application/Resource.h:365
+#: Application/Resource.h:366
+#: Application/Resource.h:367
+msgid "Set to 1 to show the calendar."
+msgstr "Календарь кăтарттарас тесен 1 кĕрт."
+
+#: Application/Resource.h:370
+msgid "The skin contains multiple different color variations. You can change them either from the skin's settings or by clicking the down arrow on the calendar."
+msgstr "Кĕпен нумай тĕрлĕ тĕс вариацисем пур. Улăштарас тесен кĕпе ĕнерлевсене пăх е календарьти аялалла стрелкăна пус."
+
+#: Application/Resource.h:371
+msgid "Blue"
+msgstr "Кăвак"
+
+#: Application/Resource.h:372
+msgid "Cyan"
+msgstr "Cyan"
+
+#: Application/Resource.h:373
+msgid "Green"
+msgstr "Ешел"
+
+#: Application/Resource.h:374
+msgid "Brown"
+msgstr "Хăмăр"
+
+#: Application/Resource.h:375
+msgid "Red"
+msgstr "Хĕрлĕ"
+
+#: Application/Resource.h:376
+msgid "Yellow"
+msgstr "Сарă"
+
+#: Application/Resource.h:377
+msgid "Defines the color of the windows."
+msgstr "Чӳречен тĕсĕ мĕнле пулмалла."
+
+#: Application/Resource.h:379
+msgid "Defines the format for the dates on the event list headers."
+msgstr "Пулăмсен заголовокĕсен дата форматне определять тăвать."
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:45
+msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+msgstr "iCalendar файлĕсем (*.ics)|*.ics|vCalendar файлĕсем (*.vcs)|*.vcs"
+
+#: Plugins/iCalendarPlugin/iCalendarHandler.h:46
+msgid "iCalendar files (*.ics)|*.ics"
+msgstr "iCalendar файлĕсем (*.ics)|*.ics"
+
+#: Plugins/IniFormatPlugin/IniFormatHandler.h:22
+msgid "Rainlendar files (*.ini)|*.ini"
+msgstr "Rainlendar файлĕсем (*.ini)|*.ini"
+
