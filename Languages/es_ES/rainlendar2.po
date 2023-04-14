@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-04-14 10:23+0300\n"
 "PO-Revision-Date: 2021-10-01 21:44+0200\n"
 "Last-Translator: Raply <Raply@msn.com>\n"
 "Language-Team: Raply - Raply@msn.com\n"
@@ -488,12 +488,6 @@ msgstr "Usar encriptación de contraseña personalizada"
 msgid "Editor"
 msgstr "Editor"
 
-msgid "Allow multiple calendars"
-msgstr "Permitir múltiples calendarios"
-
-msgid "Allow multiple categories"
-msgstr "Permitir múltiples categorías"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Mantener abierto el editor hasta que la escritura sea correcta"
 
@@ -562,6 +556,21 @@ msgstr "Tipo de letra"
 
 msgid "Scaling quality"
 msgstr "Calidad de imagen"
+
+msgid "Tiny"
+msgstr "Minúsculo"
+
+msgid "Small"
+msgstr "Pequeño"
+
+msgid "Medium"
+msgstr "Media"
+
+msgid "Large"
+msgstr "Grande"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Tamaño de miniatura creado para los archivos adjuntos"
 
 msgid "Network"
 msgstr "Red"
@@ -901,6 +910,9 @@ msgstr "¿Abrir la ayuda\tCtrl+?"
 msgid "Help"
 msgstr "Ayuda"
 
+msgid "Events"
+msgstr "Eventos"
+
 msgid "About"
 msgstr "Acerca de"
 
@@ -1239,6 +1251,15 @@ msgstr "No se puede utilizar el carácter \"/\" en el nombre."
 msgid "A category called \"%s\" already exists."
 msgstr "Ya existe una categoría llamada \"%s\"."
 
+msgid "Additional"
+msgstr "Adicional"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "OK"
+msgstr "Aceptar"
+
 msgid "Link start and end dates"
 msgstr "Vincular fechas de inicio y finalización"
 
@@ -1353,12 +1374,6 @@ msgstr "Elija un archivo"
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "archivos de iCalendar (*.ics)|*.ics"
 
-msgid "Select the calendars:"
-msgstr "Seleccione los calendarios:"
-
-msgid "Select the categories:"
-msgstr "Seleccione las categorías:"
-
 msgid "before the event starts."
 msgstr "antes de que comience el evento."
 
@@ -1467,6 +1482,28 @@ msgstr "Seleccionar la plantilla predeterminada..."
 msgid "Template"
 msgstr "Plantilla"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr ""
+"No hay ningún calendario seleccionado que pueda recuperar el archivo adjunto."
+
+msgid "Operation failed."
+msgstr "Operación fallida."
+
+msgid "Open"
+msgstr "Abierto"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Failed to read the attachment."
+msgstr "Error al guardar el archivo adjunto."
+
+msgid "Save to a file"
+msgstr "Guardar al archivo"
+
+msgid "Failed to save the attachment."
+msgstr "Error al guardar el archivo adjunto."
+
 msgid "Select the day range"
 msgstr "Seleccione el rango de días"
 
@@ -1529,9 +1566,6 @@ msgstr "&No"
 msgid "Manager"
 msgstr "Organizador"
 
-msgid "Events"
-msgstr "Eventos"
-
 msgid "Tasks"
 msgstr "Tareas"
 
@@ -1549,9 +1583,6 @@ msgstr "Nuevo"
 
 msgid "Edit"
 msgstr "Editar"
-
-msgid "Delete"
-msgstr "Borrar"
 
 msgid "Copy to"
 msgstr "Copiar a"
@@ -1791,12 +1822,6 @@ msgstr "Restablecer copia sin conexión"
 msgid "Authenticate"
 msgstr "Identificación"
 
-msgid "OK"
-msgstr "Aceptar"
-
-msgid "Get more languages..."
-msgstr "Obtener más idiomas..."
-
 msgid "On Top"
 msgstr "Siempre visible"
 
@@ -1806,8 +1831,8 @@ msgstr "Debajo de todas las ventanas"
 msgid "On Desktop"
 msgstr "En el escritorio"
 
-msgid "Get more skins..."
-msgstr "Obtener más temas..."
+msgid "Select the categories:"
+msgstr "Seleccione las categorías:"
 
 msgid "TrayIcon"
 msgstr "Icono de bandeja de sistema"
@@ -2106,6 +2131,9 @@ msgstr "Local"
 msgid "Task"
 msgstr "Tarea"
 
+msgid "Date only"
+msgstr "Fecha solamente"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr ""
 "Es necesario establecer la fecha de vencimiento antes de que pueda definirse "
@@ -2301,11 +2329,17 @@ msgstr "Bloq Despl"
 msgid "Edit \"%s\""
 msgstr "Editar \"%s\""
 
-msgid "Delete all"
-msgstr "Eliminar todo"
+msgid "Move to next day"
+msgstr "Pasar al día siguiente"
 
 msgid "Dismiss alarm"
 msgstr "Descartar la alarma"
+
+msgid "Delete all"
+msgstr "Eliminar todo"
+
+msgid "Delete \"%s\""
+msgstr "Borrar %s"
 
 msgid "Tomorrow"
 msgstr "Mañana"
@@ -2367,9 +2401,6 @@ msgstr "Descartar"
 msgid "Edit..."
 msgstr "Editar..."
 
-msgid "Move to next day"
-msgstr "Pasar al día siguiente"
-
 msgid " (%i days)"
 msgstr " (%i días)"
 
@@ -2405,9 +2436,6 @@ msgstr "Prioridad baja"
 
 msgid "No Priority"
 msgstr "Sin prioridad"
-
-msgid "Medium"
-msgstr "Media"
 
 msgid "Expand"
 msgstr "Expandir"
@@ -2669,26 +2697,26 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"El archivo de licencia vacío"
-"Asegúrese de utilizar la URL completa al descargar el archivo de licencia"
+"El archivo de licencia vacíoAsegúrese de utilizar la URL completa al "
+"descargar el archivo de licencia"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"El archivo de licencia no es válido"
-"Ha excedido el número de veces que se puede descargar la licencia"
-"Póngase en contacto con el soporte de Rainlendar para obtener más detalles."
+"El archivo de licencia no es válidoHa excedido el número de veces que se "
+"puede descargar la licenciaPóngase en contacto con el soporte de Rainlendar "
+"para obtener más detalles."
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"El archivo de licencia no tiene un formato válido"
-"Asegúrese de que está utilizando el archivo de licencia correcto"
-"También puede intentar descargar el archivo de nuevo si el error persiste"
+"El archivo de licencia no tiene un formato válidoAsegúrese de que está "
+"utilizando el archivo de licencia correctoTambién puede intentar descargar "
+"el archivo de nuevo si el error persiste"
 
 msgid "Skin error!"
 msgstr "¡Error de Tema!"
@@ -3191,6 +3219,14 @@ msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr ""
 "Desmárquelo para ocultar los nombres de los días de las semana del "
 "calendario."
+
+msgid "Day background"
+msgstr "Fondo del día"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Compruebe para añadir fondo a los números de día para que sean más fáciles "
+"de hacer clic."
 
 msgid "Week View"
 msgstr "Vista semanal"
@@ -3894,9 +3930,6 @@ msgstr "Esta noche"
 msgid "Menu"
 msgstr "Menu"
 
-msgid "Large"
-msgstr "Grande"
-
 msgid "Use large images and more space between the items."
 msgstr "Usar imágenes grandes y más espacio entre los elementos."
 
@@ -4368,8 +4401,8 @@ msgstr "Hasta"
 msgid "Debug Window"
 msgstr "Ventana de depuración"
 
-msgid "Sensitivity:"
-msgstr "Sensibilidad:"
+msgid "Common Properties"
+msgstr "Propiedades comunes"
 
 msgid "All day event"
 msgstr "Evento para todo el día"
@@ -4380,8 +4413,29 @@ msgstr "Marcar tiempo como ocupado"
 msgid "Time zone:"
 msgstr "Zona horaria:"
 
+msgid "Misc"
+msgstr "Misc"
+
 msgid "Calendar:"
 msgstr "Calendario:"
+
+msgid "Additional Properties"
+msgstr "Para la mayoría de estos campos también hay consultas especiales."
+
+msgid "Sensitivity:"
+msgstr "Sensibilidad:"
+
+msgid "Attachment:"
+msgstr "Adjunto:"
+
+msgid "Remove attachment"
+msgstr "Quitar el adjunto"
+
+msgid "Alarms"
+msgstr "Alarmas"
+
+msgid "Add alarm:"
+msgstr "Agregar alarma"
 
 msgid "Mon"
 msgstr "Lun"
@@ -4418,6 +4472,9 @@ msgstr "Exceptuando las fechas"
 
 msgid "Add"
 msgstr "Añadir"
+
+msgid "Templates"
+msgstr "Plantillas"
 
 msgid "Show descriptions"
 msgstr "Mostrar descripciones"
@@ -4517,12 +4574,6 @@ msgstr "Previsualizar..."
 
 msgid "Page Setup..."
 msgstr "Configurar página..."
-
-msgid "Todo"
-msgstr "Tareas"
-
-msgid "Date only"
-msgstr "Fecha solamente"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Valores separados por comas (*.csv)|*.csv"
@@ -4946,8 +4997,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Introduzca su dirección de correo electrónico de su cuenta de Office 365, "
 "haga clic en el botón \"Seleccionar calendario\" y elija el calendario al "
@@ -5201,6 +5252,12 @@ msgstr ""
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr ""
 "archivos de iCalendar (*.ics)|*.ics|Archivos de vCalendar (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "El archivo de calendario no se puede almacenar en la carpeta Archivos de programa."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Debe mover el archivo, por ejemplo, a la carpeta Documentos."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

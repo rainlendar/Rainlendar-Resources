@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Railendar v2.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-04-14 10:23+0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Alvidas Balskus <alvidas@mail.com>\n"
 "Language-Team: \n"
@@ -485,12 +485,6 @@ msgstr "Naudoti pasirinktą slaptažodžio šifravimą"
 msgid "Editor"
 msgstr "Redaktorius"
 
-msgid "Allow multiple calendars"
-msgstr "Leisti kelis kalendorius"
-
-msgid "Allow multiple categories"
-msgstr "Leisti keletą kategorijų"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Laikykite redaktorių atidarytą, kol rašymas pasibaigs"
 
@@ -559,6 +553,21 @@ msgstr "Šriftas"
 
 msgid "Scaling quality"
 msgstr "Kokybės padala"
+
+msgid "Tiny"
+msgstr "Plonas"
+
+msgid "Small"
+msgstr "Mažas"
+
+msgid "Medium"
+msgstr "Vidutinis"
+
+msgid "Large"
+msgstr "Didelis"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Sukurtas miniatiūros dydis priedams"
 
 msgid "Network"
 msgstr "Tinklas"
@@ -898,6 +907,9 @@ msgstr "Atidaryti pagalbą\tCtrl+?"
 msgid "Help"
 msgstr "Pagalba"
 
+msgid "Events"
+msgstr "Įvykiai"
+
 msgid "About"
 msgstr "Apie Rainlendar"
 
@@ -1236,6 +1248,15 @@ msgstr "Simbolio '/'-pavadinime naudoti negalima."
 msgid "A category called \"%s\" already exists."
 msgstr "Kategorija su pavadinimu \"%s\" jau yra."
 
+msgid "Additional"
+msgstr "Additional"
+
+msgid "Delete"
+msgstr "Ištrinti"
+
+msgid "OK"
+msgstr "Gerai"
+
 msgid "Link start and end dates"
 msgstr "[PRADŽIOS IR PABAIGOS DATOS]"
 
@@ -1347,12 +1368,6 @@ msgstr "Pasirinkite bylą"
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "iCalendar failai (*.ics)|*.ics"
 
-msgid "Select the calendars:"
-msgstr "Pažymėkite kalendorius:"
-
-msgid "Select the categories:"
-msgstr "Pažymėkite kategorijas:"
-
 msgid "before the event starts."
 msgstr "prieš įvykiui prasidedant."
 
@@ -1459,6 +1474,27 @@ msgstr "Nustatyti numatytąjį ruošinį..."
 msgid "Template"
 msgstr "Ruošinys"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Nepasirinktas kalendorius, kuris galėtų gauti priedą."
+
+msgid "Operation failed."
+msgstr "Veiksmo atlikti nepavyko."
+
+msgid "Open"
+msgstr "Atverti"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "Failed to read the attachment."
+msgstr "Nepavyko perskaityti priedo."
+
+msgid "Save to a file"
+msgstr "Issaugoti faile."
+
+msgid "Failed to save the attachment."
+msgstr "Nepavyko įrašyti priedo."
+
 msgid "Select the day range"
 msgstr "Pasirinkti laikotarpį dienomis"
 
@@ -1520,9 +1556,6 @@ msgstr "&Ne"
 msgid "Manager"
 msgstr "Vadovas"
 
-msgid "Events"
-msgstr "Įvykiai"
-
 msgid "Tasks"
 msgstr "Užduotys"
 
@@ -1540,9 +1573,6 @@ msgstr "Naujas"
 
 msgid "Edit"
 msgstr "Redaguoti"
-
-msgid "Delete"
-msgstr "Ištrinti"
 
 msgid "Copy to"
 msgstr "Kopijuoti į"
@@ -1782,12 +1812,6 @@ msgstr "Atstatyti kopiją neprisijungus"
 msgid "Authenticate"
 msgstr "Autentifikuoti"
 
-msgid "OK"
-msgstr "Gerai"
-
-msgid "Get more languages..."
-msgstr "Atsisiųsti daugiau kalbų..."
-
 msgid "On Top"
 msgstr "Viršuje"
 
@@ -1797,8 +1821,8 @@ msgstr "Apačioje"
 msgid "On Desktop"
 msgstr "Ant darbastalio"
 
-msgid "Get more skins..."
-msgstr "Atsisiųsti  daugiau išvaizdų..."
+msgid "Select the categories:"
+msgstr "Pažymėkite kategorijas:"
 
 msgid "TrayIcon"
 msgstr "Skydelio ikona"
@@ -2094,6 +2118,9 @@ msgstr "Vietinis"
 msgid "Task"
 msgstr "Užduotis"
 
+msgid "Date only"
+msgstr "Tik data"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr ""
 "Sumos grąžinimo terminas turi būti nustatytas prieš apibrėžimo pasikartojimą."
@@ -2286,11 +2313,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "Redaguoti \"%s\""
 
-msgid "Delete all"
-msgstr "Ištrinti viską"
+msgid "Move to next day"
+msgstr "Pereiti į kitą dieną"
 
 msgid "Dismiss alarm"
 msgstr "Atmesti įspėjamąjį signalą"
+
+msgid "Delete all"
+msgstr "Ištrinti viską"
+
+msgid "Delete \"%s\""
+msgstr "Ištrinti %s"
 
 msgid "Tomorrow"
 msgstr "Rytoj"
@@ -2352,9 +2385,6 @@ msgstr "Atšaukti"
 msgid "Edit..."
 msgstr "Redaguoti..."
 
-msgid "Move to next day"
-msgstr "Pereiti į kitą dieną"
-
 msgid " (%i days)"
 msgstr " (%i dienų)"
 
@@ -2390,9 +2420,6 @@ msgstr "Žemas prioritetas"
 
 msgid "No Priority"
 msgstr "Be prioriteto"
-
-msgid "Medium"
-msgstr "Vidutinis"
 
 msgid "Expand"
 msgstr "Išplėsti"
@@ -2650,26 +2677,26 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Licencijos failas tuščias"
-"Atsisiunčiant licencijos failą būtinai naudokite visą URL"
+"Licencijos failas tuščiasAtsisiunčiant licencijos failą būtinai naudokite "
+"visą URL"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"Licencijos failas neleistinas"
-"Viršijote, kiek kartų galima atsisiųsti licenciją"
-"Dėl išsamesnės informacijos kreipkitės į Rainlendar palaikymo tarnybą"
+"Licencijos failas neleistinasViršijote, kiek kartų galima atsisiųsti "
+"licencijąDėl išsamesnės informacijos kreipkitės į Rainlendar palaikymo "
+"tarnybą"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Licencijos failas neturi tinkamo formato"
-"Įsitikinkite, kad naudojate teisingą licencijos failą"
-"Taip pat galite bandyti atsisiųsti failą dar kartą, jei klaida išlieka"
+"Licencijos failas neturi tinkamo formatoĮsitikinkite, kad naudojate teisingą "
+"licencijos failąTaip pat galite bandyti atsisiųsti failą dar kartą, jei "
+"klaida išlieka"
 
 msgid "Skin error!"
 msgstr "Apipavidalinimo klaida!"
@@ -2724,8 +2751,8 @@ msgid ""
 "Thank you for the support."
 msgstr ""
 "Tikiuosi, jums patiko Rainlendar per pastarąjį mėnesį. Norėtumėte pereiti "
-"prie papildomo funkcionalumo turinčios Pro versijos? Jei paspausite \"Buy Now"
-"\" nuorodą žemiau, galėsite įsigyti licenciją nurodyta kaina. Taip pat "
+"prie papildomo funkcionalumo turinčios Pro versijos? Jei paspausite \"Buy "
+"Now\" nuorodą žemiau, galėsite įsigyti licenciją nurodyta kaina. Taip pat "
 "galite paspausti \"No thanks\" mygtuką ir niekada nematysite šio pranešimo "
 "dar kartą.\n"
 "\n"
@@ -3171,6 +3198,14 @@ msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr ""
 "Nuimkite varnelę norėdami paslėpti savaitės dienų pavadinimai iš "
 "kalendoriaus."
+
+msgid "Day background"
+msgstr "Dienos fonas"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Pažymėkite, jei norite pridėti foną prie dienos numerių, kad juos būtų "
+"lengviau spustelėti."
 
 msgid "Week View"
 msgstr "Savaitės peržiūra"
@@ -3864,9 +3899,6 @@ msgstr "Šiąnakt"
 msgid "Menu"
 msgstr "Meniu"
 
-msgid "Large"
-msgstr "Didelis"
-
 msgid "Use large images and more space between the items."
 msgstr "Naudokite didelius vaizdus ir daugiau vietos tarp elementų."
 
@@ -4334,8 +4366,8 @@ msgstr "Iki"
 msgid "Debug Window"
 msgstr "Derinti Langą"
 
-msgid "Sensitivity:"
-msgstr "jautris:"
+msgid "Common Properties"
+msgstr "Bendrosios ypatybės"
 
 msgid "All day event"
 msgstr "Visos dienos įvykis"
@@ -4346,8 +4378,29 @@ msgstr "Žymėti laiką kaip užimtą"
 msgid "Time zone:"
 msgstr "Laiko juosta:"
 
+msgid "Misc"
+msgstr "Įvairūs"
+
 msgid "Calendar:"
 msgstr "Kalendorius:"
+
+msgid "Additional Properties"
+msgstr "Žymės savybės:"
+
+msgid "Sensitivity:"
+msgstr "jautris:"
+
+msgid "Attachment:"
+msgstr "Priedas:"
+
+msgid "Remove attachment"
+msgstr "Pašalinti Priedą"
+
+msgid "Alarms"
+msgstr "Aliarmai"
+
+msgid "Add alarm:"
+msgstr "Įtraukti žadintuvą"
 
 msgid "Mon"
 msgstr "Pir"
@@ -4384,6 +4437,9 @@ msgstr "Datos išimtys"
 
 msgid "Add"
 msgstr "Įterpti"
+
+msgid "Templates"
+msgstr "Šablonai"
 
 msgid "Show descriptions"
 msgstr "Rodyti aprašymus"
@@ -4483,12 +4539,6 @@ msgstr "Peržiūrėti..."
 
 msgid "Page Setup..."
 msgstr "Puslapio nustatymai..."
-
-msgid "Todo"
-msgstr "Užduotis"
-
-msgid "Date only"
-msgstr "Tik data"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Comma Separated Values  (*.csv)|*.csv"
@@ -4907,11 +4957,12 @@ msgid "Office 365"
 msgstr "\"Office 365\""
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
-"Įveskite „Office 365“ abonemento el. pašto adresą, spustelėkite mygtuką"
-"\\„Pasirinkti kalendorių\\“ ir pasirinkite kalendorių, kurį norite pasiekti"
+"Įveskite „Office 365“ abonemento el. pašto adresą, spustelėkite "
+"mygtuką\\„Pasirinkti kalendorių\\“ ir pasirinkite kalendorių, kurį norite "
+"pasiekti"
 
 msgid ""
 "Unable to authenticate to Office 365 account.\n"
@@ -5161,6 +5212,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "iCalendar failai (*.ics)|*.ics|vCalendar failai (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "Kalendoriaus failo negalima išsaugoti aplanke Program Files (Programų failai)."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Turėtumėte perkelti failą, pvz., į aplanką Dokumentai."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

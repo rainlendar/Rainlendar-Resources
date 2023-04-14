@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-04-14 10:23+0300\n"
 "PO-Revision-Date: 2015-03-30 11:33+0200\n"
 "Last-Translator: Anne Cojocarasu <cojocarasu.anne@gmail.com>\n"
 "Language-Team: Viorel Semeniuc <viorel.semeniuc@gmail.com>\n"
@@ -490,12 +490,6 @@ msgstr "Criptare parolă particularizată"
 msgid "Editor"
 msgstr "Editor"
 
-msgid "Allow multiple calendars"
-msgstr "Permite calendare multiple"
-
-msgid "Allow multiple categories"
-msgstr "Permite categorii multiple"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Menține editorul deschis până la finalizarea scrierii"
 
@@ -564,6 +558,21 @@ msgstr "Tip font"
 
 msgid "Scaling quality"
 msgstr "Calitatea scalării"
+
+msgid "Tiny"
+msgstr "Minuscul"
+
+msgid "Small"
+msgstr "Mică"
+
+msgid "Medium"
+msgstr "Medie"
+
+msgid "Large"
+msgstr "Mare"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Dimensiune miniatură creată pentru atașamente"
 
 msgid "Network"
 msgstr "Reţea"
@@ -903,6 +912,9 @@ msgstr "Deschide ajutor\tCtrl+?"
 msgid "Help"
 msgstr "Ajutor"
 
+msgid "Events"
+msgstr "Evenimente"
+
 msgid "About"
 msgstr "Despre"
 
@@ -1241,6 +1253,15 @@ msgstr "Caracterul '/' nu este permis in nume."
 msgid "A category called \"%s\" already exists."
 msgstr "O categorie numită \"%s\" există deja."
 
+msgid "Additional"
+msgstr "Straturi"
+
+msgid "Delete"
+msgstr "Șterge"
+
+msgid "OK"
+msgstr "OK"
+
 msgid "Link start and end dates"
 msgstr "[DATA ÎNCEPERII și DATA TERMINĂRII]"
 
@@ -1357,12 +1378,6 @@ msgstr "Selectaţi un fişier"
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "Fişiere iCalendar (*.ics)|*.ics"
 
-msgid "Select the calendars:"
-msgstr "Selectaţi calendarele:"
-
-msgid "Select the categories:"
-msgstr "Selectaţi categoriile:"
-
 msgid "before the event starts."
 msgstr "înainte de începerea evenimentului."
 
@@ -1470,6 +1485,27 @@ msgstr "Alegeți şablonul implicit..."
 msgid "Template"
 msgstr "Şablon"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Nu există niciun calendar selectat care să poată prelua atașamentul."
+
+msgid "Operation failed."
+msgstr "OperaÈie eÈuatÄ."
+
+msgid "Open"
+msgstr "Deschideți"
+
+msgid "Save"
+msgstr "Salvare"
+
+msgid "Failed to read the attachment."
+msgstr "Citirea atașamentului a eșuat."
+
+msgid "Save to a file"
+msgstr "Salvează URL-ul în fişier."
+
+msgid "Failed to save the attachment."
+msgstr "Salvarea atașamentului a eșuat."
+
 msgid "Select the day range"
 msgstr "Selectaţi perioada"
 
@@ -1533,9 +1569,6 @@ msgstr "&Nu"
 msgid "Manager"
 msgstr "Manager"
 
-msgid "Events"
-msgstr "Evenimente"
-
 msgid "Tasks"
 msgstr "Sarcini"
 
@@ -1553,9 +1586,6 @@ msgstr "Nou"
 
 msgid "Edit"
 msgstr "Editare"
-
-msgid "Delete"
-msgstr "Șterge"
 
 msgid "Copy to"
 msgstr "Copiază în..."
@@ -1795,12 +1825,6 @@ msgstr "Resetați copia offline"
 msgid "Authenticate"
 msgstr "Autentifica"
 
-msgid "OK"
-msgstr "OK"
-
-msgid "Get more languages..."
-msgstr "Descarcă traduceri..."
-
 msgid "On Top"
 msgstr "Deasupra"
 
@@ -1810,8 +1834,8 @@ msgstr "Dedesubt"
 msgid "On Desktop"
 msgstr "Pe Desktop"
 
-msgid "Get more skins..."
-msgstr "Descarcă interfețe"
+msgid "Select the categories:"
+msgstr "Selectaţi categoriile:"
 
 msgid "TrayIcon"
 msgstr "Iconiță"
@@ -2106,6 +2130,9 @@ msgstr "Local"
 msgid "Task"
 msgstr "Sarcină"
 
+msgid "Date only"
+msgstr "Doar data"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr ""
 "Termenul limită trebuie setat îaninte ca o recurență să poată fi definită."
@@ -2301,11 +2328,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "Editare \"%s\""
 
-msgid "Delete all"
-msgstr "Şterge tot"
+msgid "Move to next day"
+msgstr "Mută în ziua următoare"
 
 msgid "Dismiss alarm"
 msgstr "Renunță la alarmă"
+
+msgid "Delete all"
+msgstr "Şterge tot"
+
+msgid "Delete \"%s\""
+msgstr "Șterge %s"
 
 msgid "Tomorrow"
 msgstr "mâine"
@@ -2367,9 +2400,6 @@ msgstr "Revocă"
 msgid "Edit..."
 msgstr "Editare..."
 
-msgid "Move to next day"
-msgstr "Mută în ziua următoare"
-
 msgid " (%i days)"
 msgstr " (%i zile)"
 
@@ -2405,9 +2435,6 @@ msgstr "Prioritate mică"
 
 msgid "No Priority"
 msgstr "Prioritate nulă"
-
-msgid "Medium"
-msgstr "Medie"
 
 msgid "Expand"
 msgstr "Extinde"
@@ -2666,26 +2693,25 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Fișierul de licență gol"
-"Asigurați-vă că utilizați url-ul complet atunci când descărcați fișierul de licență"
+"Fișierul de licență golAsigurați-vă că utilizați url-ul complet atunci când "
+"descărcați fișierul de licență"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"Fișierul de licență nu este valid"
-"Ați depășit de câte ori poate fi descărcată licența"
-"Vă rugăm să contactați asistența Rainlendar pentru mai multe detalii"
+"Fișierul de licență nu este validAți depășit de câte ori poate fi descărcată "
+"licențaVă rugăm să contactați asistența Rainlendar pentru mai multe detalii"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Fișierul de licență nu are format valid"
-"Asigurați-vă că utilizați fișierul de licență corect"
-"De asemenea, puteți încerca să descărcați din nou fișierul dacă eroarea persistă"
+"Fișierul de licență nu are format validAsigurați-vă că utilizați fișierul de "
+"licență corectDe asemenea, puteți încerca să descărcați din nou fișierul "
+"dacă eroarea persistă"
 
 msgid "Skin error!"
 msgstr "Eroare a pielii!"
@@ -3186,6 +3212,14 @@ msgstr ""
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Deselectează pentru a ascunde numele zilelor săptămânii din calendar."
+
+msgid "Day background"
+msgstr "Fundal zi"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Bifați pentru a adăuga fundal la numerele de zi pentru a le face mai ușor de "
+"făcut clic."
 
 msgid "Week View"
 msgstr "Afișare săptămână"
@@ -3885,9 +3919,6 @@ msgstr "astă seară"
 msgid "Menu"
 msgstr "Meniu"
 
-msgid "Large"
-msgstr "Mare"
-
 msgid "Use large images and more space between the items."
 msgstr "Utilizați imagini mari și mai mult spațiu între elemente."
 
@@ -4359,8 +4390,8 @@ msgstr "Până la "
 msgid "Debug Window"
 msgstr "Fereastra de depanare"
 
-msgid "Sensitivity:"
-msgstr "Sensibilitate:"
+msgid "Common Properties"
+msgstr "Proprietăți comune"
 
 msgid "All day event"
 msgstr "Eveniment de zi întreagă"
@@ -4371,8 +4402,29 @@ msgstr "Marchează intervalul ca ocupat"
 msgid "Time zone:"
 msgstr "Fus orar"
 
+msgid "Misc"
+msgstr "Diverse"
+
 msgid "Calendar:"
 msgstr "Calendar:"
+
+msgid "Additional Properties"
+msgstr "Proprietăți suplimentare"
+
+msgid "Sensitivity:"
+msgstr "Sensibilitate:"
+
+msgid "Attachment:"
+msgstr "Atașament:"
+
+msgid "Remove attachment"
+msgstr "Sterge atasament"
+
+msgid "Alarms"
+msgstr "Alarme"
+
+msgid "Add alarm:"
+msgstr "Adăugare alarmă"
 
 msgid "Mon"
 msgstr "L"
@@ -4409,6 +4461,9 @@ msgstr "Excepţii"
 
 msgid "Add"
 msgstr "Adăugare"
+
+msgid "Templates"
+msgstr "Șabloane"
 
 msgid "Show descriptions"
 msgstr "Arată descrieri"
@@ -4509,12 +4564,6 @@ msgstr "Vizualizare..."
 
 msgid "Page Setup..."
 msgstr "Configuraţia paginii..."
-
-msgid "Todo"
-msgstr "Sarcină"
-
-msgid "Date only"
-msgstr "Doar data"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Valori separate de virgulă (*.csv)|*.csv"
@@ -4935,8 +4984,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Introduceți adresa de e-mail a contului dvs. Office 365 și faceți clic pe "
 "butonul\"Selectați calendarul\" și alegeți calendarul pe care doriți să îl "
@@ -5188,6 +5237,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "Fişiere iCalendar (*.ics)|*.ics|vCalendar fişiere (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "Fișierul calendar nu poate fi stocat în dosarul Program Files (Fișiere program)."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Ar trebui să mutați fișierul, de exemplu, în folderul Documente."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

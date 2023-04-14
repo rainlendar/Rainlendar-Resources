@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.17\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-04-14 10:23+0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Egyed Ferenc <efi99@freemail.hu>\n"
 "Language-Team: Kovács Tibor <ktibor33@t-online.hu>\n"
@@ -485,12 +485,6 @@ msgstr "Egyedi jelszótitkosítás használata"
 msgid "Editor"
 msgstr "Szerkesztő"
 
-msgid "Allow multiple calendars"
-msgstr "Több naptár engedélyezése"
-
-msgid "Allow multiple categories"
-msgstr "Több kategória engedélyezése"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "A szerkesztő maradjon nyitva, amíg az írás sikeresen meg nem történik"
 
@@ -559,6 +553,21 @@ msgstr "Betűtípus"
 
 msgid "Scaling quality"
 msgstr "Minőségi méretezés"
+
+msgid "Tiny"
+msgstr "Apró"
+
+msgid "Small"
+msgstr "Small (kicsi)"
+
+msgid "Medium"
+msgstr "Közepes"
+
+msgid "Large"
+msgstr "Nagy"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Csatolmányok miniatűrmérete létrehozva"
 
 msgid "Network"
 msgstr "Hálózat"
@@ -899,6 +908,9 @@ msgstr "Súgó megnyitása\tCtrl+?"
 msgid "Help"
 msgstr "Súgó"
 
+msgid "Events"
+msgstr "Események"
+
 msgid "About"
 msgstr "Névjegy"
 
@@ -1236,6 +1248,15 @@ msgstr "A '/' karakter nem használható a névben."
 msgid "A category called \"%s\" already exists."
 msgstr "Ezzel a névvel: \"%s\"  már létezik kategória."
 
+msgid "Additional"
+msgstr "További"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "OK"
+msgstr "OK"
+
 msgid "Link start and end dates"
 msgstr "Kezdés és befejezés dátumának kapcsolása"
 
@@ -1352,12 +1373,6 @@ msgstr "Fájl kiválasztása"
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "iCalendar fájlok (*.ics)|*.ics"
 
-msgid "Select the calendars:"
-msgstr "Naptárak kiválasztása:"
-
-msgid "Select the categories:"
-msgstr "Kategóriák kiválasztása:"
-
 msgid "before the event starts."
 msgstr "az esemény kezdete előtt."
 
@@ -1466,6 +1481,27 @@ msgstr "Alapértelmezett sablon beállítása..."
 msgid "Template"
 msgstr "Sablon"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Nincs olyan naptár kiválasztva, amely le tudja tölteni a mellékletet."
+
+msgid "Operation failed."
+msgstr "A művelet nem sikerült."
+
+msgid "Open"
+msgstr "Nyitás"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Failed to read the attachment."
+msgstr "Nem sikerült olvasni a mellékletet."
+
+msgid "Save to a file"
+msgstr "Link mentése fájlba."
+
+msgid "Failed to save the attachment."
+msgstr "Nem sikerült menteni a mellékletet."
+
 msgid "Select the day range"
 msgstr "Naptartomány kiválasztása"
 
@@ -1529,9 +1565,6 @@ msgstr "&Nem"
 msgid "Manager"
 msgstr "Naptáresemény-kezelő"
 
-msgid "Events"
-msgstr "Események"
-
 msgid "Tasks"
 msgstr "Feladatok"
 
@@ -1549,9 +1582,6 @@ msgstr "Új"
 
 msgid "Edit"
 msgstr "Szerkesztés"
-
-msgid "Delete"
-msgstr "Törlés"
 
 msgid "Copy to"
 msgstr "Másolás ide:"
@@ -1789,12 +1819,6 @@ msgstr "Helyi másolat visszaállítása"
 msgid "Authenticate"
 msgstr "Hitelesítse"
 
-msgid "OK"
-msgstr "OK"
-
-msgid "Get more languages..."
-msgstr "További nyelvek..."
-
 msgid "On Top"
 msgstr "Legfelül"
 
@@ -1804,8 +1828,8 @@ msgstr "Legalul"
 msgid "On Desktop"
 msgstr "Asztalon"
 
-msgid "Get more skins..."
-msgstr "További témák..."
+msgid "Select the categories:"
+msgstr "Kategóriák kiválasztása:"
 
 msgid "TrayIcon"
 msgstr "Tálcaikon"
@@ -2101,6 +2125,9 @@ msgstr "Hely"
 msgid "Task"
 msgstr "Feladat"
 
+msgid "Date only"
+msgstr "Csak dátum"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr ""
 "Az esedékesség időpontját be kell állítani, mielőtt az ismétlődését "
@@ -2295,11 +2322,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "Szerkesztés \"%s\""
 
-msgid "Delete all"
-msgstr "Összes törlése"
+msgid "Move to next day"
+msgstr "Áthelyés holnapra"
 
 msgid "Dismiss alarm"
 msgstr "Riasztás elvetése"
+
+msgid "Delete all"
+msgstr "Összes törlése"
+
+msgid "Delete \"%s\""
+msgstr "%s törlése"
 
 msgid "Tomorrow"
 msgstr "Holnap"
@@ -2361,9 +2394,6 @@ msgstr "Elutasít"
 msgid "Edit..."
 msgstr "Szerkesztés..."
 
-msgid "Move to next day"
-msgstr "Áthelyés holnapra"
-
 msgid " (%i days)"
 msgstr " (%i nap)"
 
@@ -2399,9 +2429,6 @@ msgstr "Alacsony prioritás"
 
 msgid "No Priority"
 msgstr "Nincs prioritás"
-
-msgid "Medium"
-msgstr "Közepes"
 
 msgid "Expand"
 msgstr "Kibont"
@@ -2663,26 +2690,25 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"A licencfájl üres"
-"Győződjön meg róla, hogy a teljes URL-címet használja a licencfájl letöltésekor"
+"A licencfájl üresGyőződjön meg róla, hogy a teljes URL-címet használja a "
+"licencfájl letöltésekor"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"A licencfájl érvénytelen"
-"Túllépte a licenc letöltésének számát"
-"További részletekért kérjük, vegye fel a kapcsolatot Rainlendar támogatásával."
+"A licencfájl érvénytelenTúllépte a licenc letöltésének számátTovábbi "
+"részletekért kérjük, vegye fel a kapcsolatot Rainlendar támogatásával."
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"A licencfájl formátuma nem érvényes"
-"Győződjön meg arról, hogy a megfelelő licencfájlt használja"
-"Ha a hiba továbbra is fennáll, megpróbálhatja újra letölteni a fájlt."
+"A licencfájl formátuma nem érvényesGyőződjön meg arról, hogy a megfelelő "
+"licencfájlt használjaHa a hiba továbbra is fennáll, megpróbálhatja újra "
+"letölteni a fájlt."
 
 msgid "Skin error!"
 msgstr "Téma hiba!"
@@ -3180,6 +3206,14 @@ msgstr "Megadja, hogy hány naptár jelenik meg függőlegesen az ablakban."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "A naptáron a hét napjai nevének elrejtéséhez vegye ki a pipát! "
+
+msgid "Day background"
+msgstr "Nap háttere"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Jelölje be, ha háttérszámot szeretne hozzáadni a napi számokhoz, hogy azok "
+"könnyebben kattinthatók legyenek."
 
 msgid "Week View"
 msgstr "Hét nézet"
@@ -3873,9 +3907,6 @@ msgstr "Éjszaka"
 msgid "Menu"
 msgstr "Menü"
 
-msgid "Large"
-msgstr "Nagy"
-
 msgid "Use large images and more space between the items."
 msgstr "Nagy képek és több hely használata az elemek között."
 
@@ -4344,8 +4375,8 @@ msgstr "Eddig"
 msgid "Debug Window"
 msgstr "Hibakeresés"
 
-msgid "Sensitivity:"
-msgstr "Típus:"
+msgid "Common Properties"
+msgstr "Általános tulajdonságok"
 
 msgid "All day event"
 msgstr "Egész napos esemény"
@@ -4356,8 +4387,29 @@ msgstr "Megjelölés elfoglaltként"
 msgid "Time zone:"
 msgstr "Időzóna:"
 
+msgid "Misc"
+msgstr "Egyéb"
+
 msgid "Calendar:"
 msgstr "Naptár:"
+
+msgid "Additional Properties"
+msgstr "Ãj altÃ­pus"
+
+msgid "Sensitivity:"
+msgstr "Típus:"
+
+msgid "Attachment:"
+msgstr "Csatolmány:"
+
+msgid "Remove attachment"
+msgstr "Csatolmány eltávolítása"
+
+msgid "Alarms"
+msgstr "Riasztások"
+
+msgid "Add alarm:"
+msgstr "Riasztás hozzáadása:"
 
 msgid "Mon"
 msgstr "Hé"
@@ -4394,6 +4446,9 @@ msgstr "Kizárt napok"
 
 msgid "Add"
 msgstr "Hozzáadás"
+
+msgid "Templates"
+msgstr "Sablonok"
 
 msgid "Show descriptions"
 msgstr "Jelenjen meg az elemek leírása"
@@ -4493,12 +4548,6 @@ msgstr "Előnézet..."
 
 msgid "Page Setup..."
 msgstr "Oldal beállítás..."
-
-msgid "Todo"
-msgstr "Feladat"
-
-msgid "Date only"
-msgstr "Csak dátum"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Vesszővel elválasztott értékek (CSV) fájl (*.csv)|*.csv"
@@ -4916,8 +4965,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Írja be Office 365-fiókjának e-mail címét, majd kattintson a \"Naptár "
 "kiválasztása\" gombra, és válassza ki a használni kívánt naptárat."
@@ -5166,6 +5215,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "iCalendar fájlok (*.ics)|*.ics|vCalendar fájlok (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "A naptárfájl nem tárolható a Programfájlok mappában."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Helyezze át a fájlt pl. a Dokumentumok mappába."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

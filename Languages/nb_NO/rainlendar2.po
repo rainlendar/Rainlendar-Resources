@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-04-14 10:23+0300\n"
 "PO-Revision-Date: 2021-08-24 21:55+0200\n"
 "Last-Translator: Øistein Rian <oistein@badtown.no>\n"
 "Language-Team: \n"
@@ -487,12 +487,6 @@ msgstr "Bruk egendefinert passordkryptering"
 msgid "Editor"
 msgstr "Redigerer"
 
-msgid "Allow multiple calendars"
-msgstr "Tillat flere forekomster"
-
-msgid "Allow multiple categories"
-msgstr "Tillat flere forekomster"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Hold redigerer åpen til etter vellykket skriving"
 
@@ -561,6 +555,21 @@ msgstr "Skrifttype"
 
 msgid "Scaling quality"
 msgstr "Skaleringskvalitet"
+
+msgid "Tiny"
+msgstr "Ørliten"
+
+msgid "Small"
+msgstr "Liten"
+
+msgid "Medium"
+msgstr "Middels"
+
+msgid "Large"
+msgstr "Stor"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Opprettet miniatyrstørrelse for vedlegg"
 
 msgid "Network"
 msgstr "Nettverk"
@@ -899,6 +908,9 @@ msgstr "Åpne hjelp\tCtrl+?"
 msgid "Help"
 msgstr "Hjelp"
 
+msgid "Events"
+msgstr "Hendelser"
+
 msgid "About"
 msgstr "Om"
 
@@ -1236,6 +1248,15 @@ msgstr "Det er ikke tillatt å bruke '/'-karakteren i navnet."
 msgid "A category called \"%s\" already exists."
 msgstr "En kategori med navn \"%s\" eksisterer allerede."
 
+msgid "Additional"
+msgstr "Ekstra"
+
+msgid "Delete"
+msgstr "Slett"
+
+msgid "OK"
+msgstr "OK"
+
 msgid "Link start and end dates"
 msgstr "Link start og stopp-datoer"
 
@@ -1349,12 +1370,6 @@ msgstr "Velg en fil"
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "iCalendar filer (*.ics)|*.ics"
 
-msgid "Select the calendars:"
-msgstr "Velg kalendere:"
-
-msgid "Select the categories:"
-msgstr "Velg kategorier:"
-
 msgid "before the event starts."
 msgstr "før hendelse starter."
 
@@ -1462,6 +1477,27 @@ msgstr "Sett standard mal..."
 msgid "Template"
 msgstr "Mal"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Det er ikke valgt noen kalender som kan hente vedlegget."
+
+msgid "Operation failed."
+msgstr "Operasjonen mislyktes."
+
+msgid "Open"
+msgstr "Åpen"
+
+msgid "Save"
+msgstr "Lagre"
+
+msgid "Failed to read the attachment."
+msgstr "Kunne ikke lese vedlegget."
+
+msgid "Save to a file"
+msgstr "Lagre linken til en fil."
+
+msgid "Failed to save the attachment."
+msgstr "Kunne ikke lagre vedlegg!"
+
 msgid "Select the day range"
 msgstr "Velg antall dager"
 
@@ -1525,9 +1561,6 @@ msgstr "&Nei"
 msgid "Manager"
 msgstr "Planlegger"
 
-msgid "Events"
-msgstr "Hendelser"
-
 msgid "Tasks"
 msgstr "Oppgaver"
 
@@ -1545,9 +1578,6 @@ msgstr "Ny"
 
 msgid "Edit"
 msgstr "Rediger"
-
-msgid "Delete"
-msgstr "Slett"
 
 msgid "Copy to"
 msgstr "Kopier til"
@@ -1785,12 +1815,6 @@ msgstr "Reset offline kopi"
 msgid "Authenticate"
 msgstr "Godkjennelse"
 
-msgid "OK"
-msgstr "OK"
-
-msgid "Get more languages..."
-msgstr "Hent flere språk"
-
 msgid "On Top"
 msgstr "På topp"
 
@@ -1800,8 +1824,8 @@ msgstr "I bunnen"
 msgid "On Desktop"
 msgstr "På skrivebord"
 
-msgid "Get more skins..."
-msgstr "Hent flere stiler..."
+msgid "Select the categories:"
+msgstr "Velg kategorier:"
 
 msgid "TrayIcon"
 msgstr "Skuffeikon"
@@ -2094,6 +2118,9 @@ msgstr "Lokalt"
 msgid "Task"
 msgstr "Oppgave"
 
+msgid "Date only"
+msgstr "Kun dato"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr "Forfallsdato må settes før gjentakelser kan defineres."
 
@@ -2284,11 +2311,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "Rediger \"%s\""
 
-msgid "Delete all"
-msgstr "Slett alle"
+msgid "Move to next day"
+msgstr "Flytt til neste dag"
 
 msgid "Dismiss alarm"
 msgstr "Avvis alarm"
+
+msgid "Delete all"
+msgstr "Slett alle"
+
+msgid "Delete \"%s\""
+msgstr "Slett %s"
 
 msgid "Tomorrow"
 msgstr "I morgen"
@@ -2350,9 +2383,6 @@ msgstr "Slå av"
 msgid "Edit..."
 msgstr "Rediger..."
 
-msgid "Move to next day"
-msgstr "Flytt til neste dag"
-
 msgid " (%i days)"
 msgstr "(%i dager)"
 
@@ -2388,9 +2418,6 @@ msgstr "Lav prioritet"
 
 msgid "No Priority"
 msgstr "Ingen prioritet"
-
-msgid "Medium"
-msgstr "Middels"
 
 msgid "Expand"
 msgstr "Ekspander"
@@ -2649,26 +2676,24 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Lisensfilen er tom"
-"Sørg for å bruke den fullstendige URL-adressen når du laster ned lisensfilen"
+"Lisensfilen er tomSørg for å bruke den fullstendige URL-adressen når du "
+"laster ned lisensfilen"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"Lisensfilen er ikke gyldig"
-"Du har overskredet antall ganger lisensen kan lastes ned"
-"Ta kontakt med Rainlendars støtte for mer informasjon"
+"Lisensfilen er ikke gyldigDu har overskredet antall ganger lisensen kan "
+"lastes nedTa kontakt med Rainlendars støtte for mer informasjon"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Lisensfilen har ikke gyldig format"
-"Kontroller at du bruker riktig lisensfil"
-"Du kan også prøve å laste ned filen på nytt hvis feilen vedvarer"
+"Lisensfilen har ikke gyldig formatKontroller at du bruker riktig lisensfilDu "
+"kan også prøve å laste ned filen på nytt hvis feilen vedvarer"
 
 msgid "Skin error!"
 msgstr "Skinn-feil!"
@@ -3137,8 +3162,8 @@ msgid ""
 "This defines the format of the clock. To get rid of the seconds use %H:%M or "
 "%#I:%M %p"
 msgstr ""
-"Dette definerer klokkens format. For å bli kvitt sekundene, bruk %H:%M eller"
-"%#I:%M %p "
+"Dette definerer klokkens format. For å bli kvitt sekundene, bruk %H:%M "
+"eller%#I:%M %p "
 
 msgid ""
 "Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
@@ -3164,6 +3189,13 @@ msgstr "Definerer hvor mange kalendere som vises vertikalt i vinduet."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Fra-velg for å skjule dagnavn  fra uke i kalenderen."
+
+msgid "Day background"
+msgstr "DAGSBAKGR"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Sjekk for å legge til bakgrunn til dagnumre for å gjøre dem enklere å klikke."
 
 msgid "Week View"
 msgstr "Ukevisning"
@@ -3852,9 +3884,6 @@ msgstr "I kveld"
 msgid "Menu"
 msgstr "Meny"
 
-msgid "Large"
-msgstr "Stor"
-
 msgid "Use large images and more space between the items."
 msgstr "Bruk store bilder og mer plass mellom elementene."
 
@@ -4322,8 +4351,8 @@ msgstr "Inntil"
 msgid "Debug Window"
 msgstr "Debug-vindu"
 
-msgid "Sensitivity:"
-msgstr "Sensitivitet:"
+msgid "Common Properties"
+msgstr "Vanlige egenskaper"
 
 msgid "All day event"
 msgstr "Hele dagen"
@@ -4334,8 +4363,29 @@ msgstr "Merk tid som opptatt"
 msgid "Time zone:"
 msgstr "Tidssone:"
 
+msgid "Misc"
+msgstr "Div"
+
 msgid "Calendar:"
 msgstr "Kalender:"
+
+msgid "Additional Properties"
+msgstr "Ytterligere egenskaper"
+
+msgid "Sensitivity:"
+msgstr "Sensitivitet:"
+
+msgid "Attachment:"
+msgstr "Vedlegg:"
+
+msgid "Remove attachment"
+msgstr "Fjern vedlegg"
+
+msgid "Alarms"
+msgstr "Alarmer"
+
+msgid "Add alarm:"
+msgstr "Legg til alarm"
 
 msgid "Mon"
 msgstr "Man"
@@ -4372,6 +4422,9 @@ msgstr "Unntatt dato"
 
 msgid "Add"
 msgstr "Legg til"
+
+msgid "Templates"
+msgstr "Maler"
 
 msgid "Show descriptions"
 msgstr "Vis beskrivelser"
@@ -4471,12 +4524,6 @@ msgstr "Forhåndsvisning..."
 
 msgid "Page Setup..."
 msgstr "Sideoppsett..."
-
-msgid "Todo"
-msgstr "Oppgave"
-
-msgid "Date only"
-msgstr "Kun dato"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Kommaseparerte verdier (*.csv)|*.csv"
@@ -4887,8 +4934,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Angi din epostadresse for kontoen på Office 365 og klikk knappen \"Velg "
 "kalender\" og velg kalenderen du vil bruke."
@@ -5135,6 +5182,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "iCalendar filer (*.ics)|*.ics|vCalendar filer (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "Kalenderfilen kan ikke lagres i mappen Programfiler."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Du bør flytte filen f.eks. til mappen Dokumenter."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

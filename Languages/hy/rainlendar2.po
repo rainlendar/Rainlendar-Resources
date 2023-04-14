@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-04-14 10:23+0300\n"
 "PO-Revision-Date: 2022-04-08 09:41+0300\n"
 "Last-Translator: Hrant Ohanyan <h.ohanyan@haysoft.org>\n"
 "Language-Team: Hrant Ohanyan <h.ohanyan@haysoft.org>\n"
@@ -488,12 +488,6 @@ msgstr "Օգտ. ընտրված գաղտնաբառը"
 msgid "Editor"
 msgstr "Խմբագիր"
 
-msgid "Allow multiple calendars"
-msgstr "Թույլատրեմ մի քանի օրացույցները"
-
-msgid "Allow multiple categories"
-msgstr "Թույլատրել մի քանի բաժինները"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Բաց պահել, մինչ կխմբագրվի"
 
@@ -562,6 +556,21 @@ msgstr "Տառատեսակի դեմք"
 
 msgid "Scaling quality"
 msgstr "Scaling որակը"
+
+msgid "Tiny"
+msgstr "Միկրորինգ"
+
+msgid "Small"
+msgstr "dictionary variant"
+
+msgid "Medium"
+msgstr "Միջին"
+
+msgid "Large"
+msgstr "dictionary variant"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Ստեղծվել է մանրապատկերների չափս ՝ կցորդների համար"
 
 msgid "Network"
 msgstr "Ցանցը"
@@ -900,6 +909,9 @@ msgstr "Բացել Օգնությունը\tCtrl+?"
 msgid "Help"
 msgstr "Օգնություն"
 
+msgid "Events"
+msgstr "Իրադարձություններ"
+
 msgid "About"
 msgstr "Մասին"
 
@@ -1235,6 +1247,15 @@ msgstr "Չեք կարող օգտագործել '/'-նշանը անվան մեջ�
 msgid "A category called \"%s\" already exists."
 msgstr "\"%s\" անունով բաժին արդեն առկա է։"
 
+msgid "Additional"
+msgstr "Լրացուցիչ"
+
+msgid "Delete"
+msgstr "Ջնջել"
+
+msgid "OK"
+msgstr "ԼԱՎ"
+
 msgid "Link start and end dates"
 msgstr "Կապեք մեկնարկի և ավարտի ամսաթվերը"
 
@@ -1348,12 +1369,6 @@ msgstr "Ընտրեք ֆայլը"
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "iCalendar-ի ֆայլեր (*.ics)|*.ics"
 
-msgid "Select the calendars:"
-msgstr "Ընտրեք օրացույցները."
-
-msgid "Select the categories:"
-msgstr "Ընտրեք բաժինները."
-
 msgid "before the event starts."
 msgstr "մինչ իրադարձությունը կսկսվի։"
 
@@ -1462,6 +1477,27 @@ msgstr "Նշել ծրագրային նմուշը..."
 msgid "Template"
 msgstr "Նմուշը"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Չկա ընտրված օրացույց, որը կարող է կցել կցորդը:"
+
+msgid "Operation failed."
+msgstr "Գործողությունը ձախողվեց:"
+
+msgid "Open"
+msgstr "Բաց"
+
+msgid "Save"
+msgstr "Պահպանել"
+
+msgid "Failed to read the attachment."
+msgstr "Չհաջողվեց կարդալ հավելվածը ։"
+
+msgid "Save to a file"
+msgstr "Պահել ֆայլում"
+
+msgid "Failed to save the attachment."
+msgstr "Չհաջողվեց պահել հավելվածը ։"
+
 msgid "Select the day range"
 msgstr "Նշել օրվա կարգը"
 
@@ -1523,9 +1559,6 @@ msgstr "&Ոչ"
 msgid "Manager"
 msgstr "Կառավարիչ"
 
-msgid "Events"
-msgstr "Իրադարձություններ"
-
 msgid "Tasks"
 msgstr "Առաջադրանքներ"
 
@@ -1543,9 +1576,6 @@ msgstr "Նոր"
 
 msgid "Edit"
 msgstr "Խմբագրել"
-
-msgid "Delete"
-msgstr "Ջնջել"
 
 msgid "Copy to"
 msgstr "Պատճենել՝"
@@ -1782,12 +1812,6 @@ msgstr "Վերակայել անցանց օրինակը"
 msgid "Authenticate"
 msgstr "Նույնականացում"
 
-msgid "OK"
-msgstr "ԼԱՎ"
-
-msgid "Get more languages..."
-msgstr "Լրացուցիչ լեզուներ..."
-
 msgid "On Top"
 msgstr "Առջևում"
 
@@ -1797,8 +1821,8 @@ msgstr "Հետևում"
 msgid "On Desktop"
 msgstr "Աշխատաշրջանում"
 
-msgid "Get more skins..."
-msgstr "Լրացուցիչ շապիկներ..."
+msgid "Select the categories:"
+msgstr "Ընտրեք բաժինները."
 
 msgid "TrayIcon"
 msgstr "Ներքևի պատկերը"
@@ -2090,6 +2114,9 @@ msgstr "Համակարգչային"
 msgid "Task"
 msgstr "Առաջադրանք"
 
+msgid "Date only"
+msgstr "Միայն ամսաթիվը"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr "Կատարելու ամսաթիվը կարիք ունի նշվելու, մինչ կրկնությունը որոշելը:"
 
@@ -2284,11 +2311,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "Խմբագրել \"%s\"-ը"
 
-msgid "Delete all"
-msgstr "Ջնջել բոլորը"
+msgid "Move to next day"
+msgstr "Տեղափոխվել հաջորդ օրը"
 
 msgid "Dismiss alarm"
 msgstr "Հրաժարվել ահազանգից"
+
+msgid "Delete all"
+msgstr "Ջնջել բոլորը"
+
+msgid "Delete \"%s\""
+msgstr "Ջնջել \" %s \""
 
 msgid "Tomorrow"
 msgstr "Վաղը"
@@ -2350,9 +2383,6 @@ msgstr "Բացել"
 msgid "Edit..."
 msgstr "Խմբագրել..."
 
-msgid "Move to next day"
-msgstr "Տեղափոխվել հաջորդ օրը"
-
 msgid " (%i days)"
 msgstr " (%i օր)"
 
@@ -2388,9 +2418,6 @@ msgstr "Ցածր առաջնահերթություն"
 
 msgid "No Priority"
 msgstr "Չկա առաջնահերթություն"
-
-msgid "Medium"
-msgstr "Միջին"
 
 msgid "Expand"
 msgstr "Տարածել"
@@ -2641,26 +2668,26 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Լիցենզիայի ֆայլը դատարկ է"
-"Համոզվեք, որ արտոնագրի ֆայլը բեռնելիս օգտագործեք ամբողջական url-ը"
+"Լիցենզիայի ֆայլը դատարկ էՀամոզվեք, որ արտոնագրի ֆայլը բեռնելիս օգտագործեք "
+"ամբողջական url-ը"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"Արտոնագրային ֆայլը վավեր չէ"
-"Դուք գերազանցել եք լիցենզիայի ներբեռնման համարը գերազանցող քանակը"
-"Լրացուցիչ մանրամասների համար խնդրում ենք կապ հաստատել Ռայնլենդարի աջակցության հետ"
+"Արտոնագրային ֆայլը վավեր չէԴուք գերազանցել եք լիցենզիայի ներբեռնման համարը "
+"գերազանցող քանակըԼրացուցիչ մանրամասների համար խնդրում ենք կապ հաստատել "
+"Ռայնլենդարի աջակցության հետ"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Արտոնագրային ֆայլը չունի վավեր ձեւանմուշ"
-"Համոզվեք, որ ճիշտ արտոնագրի ֆայլ եք օգտագործում"
-"Դուք կարող եք նաեւ փորձել կրկին բեռնել ֆայլը, եթե սխալը շարունակվում է"
+"Արտոնագրային ֆայլը չունի վավեր ձեւանմուշՀամոզվեք, որ ճիշտ արտոնագրի ֆայլ եք "
+"օգտագործումԴուք կարող եք նաեւ փորձել կրկին բեռնել ֆայլը, եթե սխալը "
+"շարունակվում է"
 
 msgid "Skin error!"
 msgstr "Մաշկի սխալ:"
@@ -3157,6 +3184,14 @@ msgstr "Որոշում է, թե քանի օրացույցներ կցուցադր
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Ապանշեք՝ թաքցնելու համար շաբաթվա օրերի անունները օրացույցից:"
+
+msgid "Day background"
+msgstr "Օրվա նախապատմություն"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Ստուգեք ՝ օրվա համարներին ֆոն ավելացնելու համար, որպեսզի դրանք ավելի հեշտ "
+"սեղմեք ։"
 
 msgid "Week View"
 msgstr "Շաբաթական դիտում"
@@ -3842,9 +3877,6 @@ msgstr "Այսօր երեկոյան"
 msgid "Menu"
 msgstr "Բաժիններ"
 
-msgid "Large"
-msgstr "dictionary variant"
-
 msgid "Use large images and more space between the items."
 msgstr "Օգտագործեք մեծ պատկերներ և ավելի շատ տարածություն իրերի միջև:"
 
@@ -4312,8 +4344,8 @@ msgstr "Մինչ"
 msgid "Debug Window"
 msgstr "Կարգավորել պատուհանը"
 
-msgid "Sensitivity:"
-msgstr "Զգայունություն:"
+msgid "Common Properties"
+msgstr "Ընդհանուր սեփականություններ"
 
 msgid "All day event"
 msgstr "Ամբողջ օրվա համար"
@@ -4324,8 +4356,29 @@ msgstr "Նշել ժամանակը զբաղված"
 msgid "Time zone:"
 msgstr "Ժամային գոտի"
 
+msgid "Misc"
+msgstr "Այլ"
+
 msgid "Calendar:"
 msgstr "Օրացույցը."
+
+msgid "Additional Properties"
+msgstr "Լրացուցիչ հատկություններ"
+
+msgid "Sensitivity:"
+msgstr "Զգայունություն:"
+
+msgid "Attachment:"
+msgstr "ReplyForward"
+
+msgid "Remove attachment"
+msgstr "Հեռացնել կցորդը"
+
+msgid "Alarms"
+msgstr "Ազդանշաններ"
+
+msgid "Add alarm:"
+msgstr "Ավելացնել ազդասարք ՝"
 
 msgid "Mon"
 msgstr "Երկ"
@@ -4362,6 +4415,9 @@ msgstr "Լրանալու ամսաթվերը"
 
 msgid "Add"
 msgstr "Ավելացնել"
+
+msgid "Templates"
+msgstr "Կաղապարներ"
 
 msgid "Show descriptions"
 msgstr "Ցույց տալ նկարագրությունները"
@@ -4461,12 +4517,6 @@ msgstr "Դիտել..."
 
 msgid "Page Setup..."
 msgstr "Էջի կարգավորում..."
-
-msgid "Todo"
-msgstr "Առաջադրանքներ"
-
-msgid "Date only"
-msgstr "Միայն ամսաթիվը"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Ստորակետով առանձնացված նշանակություններ (*.csv)|*.csv"
@@ -4870,8 +4920,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Մուտքագրեք ձեր Office 365 հաշվի էլփոստի հասցեն և սեղմեք «Ընտրել օրացույցը» "
 "կոճակը և ընտրեք այն օրացույցը, որն ուզում եք մուտք գործել"
@@ -5117,6 +5167,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "iCalendar-ի ֆայլեր (*.ics)|*.ics|vCalendar-ի ֆայլեր (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "Օրացույցի ֆայլը չի կարող պահվել Program Files պանակում:"
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Դուք պետք է տեղափոխեք ֆայլը, օրինակ ՝ Փաստաթղթեր թղթապանակը:"
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-04-14 10:23+0300\n"
 "PO-Revision-Date: 2020-11-26 02:35+0100\n"
 "Last-Translator: dkas <dkas01@gmail.com>\n"
 "Language-Team: Daniel Kasal <dkas01@gmail.com>\n"
@@ -484,12 +484,6 @@ msgstr "Použít vlastní šifrování hesla"
 msgid "Editor"
 msgstr "Editor"
 
-msgid "Allow multiple calendars"
-msgstr "Povolit více kalendářů"
-
-msgid "Allow multiple categories"
-msgstr "Povolit více kategorií"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Nechat editor otevřený až do úspěšného dopsání"
 
@@ -558,6 +552,21 @@ msgstr "Písmo vzhledu"
 
 msgid "Scaling quality"
 msgstr "Kvalita měřítka"
+
+msgid "Tiny"
+msgstr "Drobný"
+
+msgid "Small"
+msgstr "Malé"
+
+msgid "Medium"
+msgstr "Střední"
+
+msgid "Large"
+msgstr "Velké"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Vytvořena velikost miniatury pro přílohy"
 
 msgid "Network"
 msgstr "Síť"
@@ -895,6 +904,9 @@ msgstr "Otevřít nápovědu\tCtrl+?"
 
 msgid "Help"
 msgstr "Nápověda"
+
+msgid "Events"
+msgstr "Události"
 
 msgid "About"
 msgstr "O programu"
@@ -1234,6 +1246,15 @@ msgstr "Znak '/' není povolen v názvu."
 msgid "A category called \"%s\" already exists."
 msgstr "Kategorie nazvaná \"%s\" již existuje."
 
+msgid "Additional"
+msgstr "Dodatečné"
+
+msgid "Delete"
+msgstr "Smazat"
+
+msgid "OK"
+msgstr "OK"
+
 msgid "Link start and end dates"
 msgstr "Spojte data začátku a ukončení"
 
@@ -1345,12 +1366,6 @@ msgstr "Vybrat soubor"
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "Soubory iCalendar (*.ics)|*.ics"
 
-msgid "Select the calendars:"
-msgstr "Vybrat kalendáře:"
-
-msgid "Select the categories:"
-msgstr "Vybrat kategorie:"
-
 msgid "before the event starts."
 msgstr "do začátku události."
 
@@ -1457,6 +1472,27 @@ msgstr "Nastavit výchozí šablonu..."
 msgid "Template"
 msgstr "Šablona"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Není vybrán žádný kalendář, který by mohl načíst přílohu."
+
+msgid "Operation failed."
+msgstr "Operace se nezdařila"
+
+msgid "Open"
+msgstr "Otevřít"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Failed to read the attachment."
+msgstr "Nepodařilo se přečíst přílohu."
+
+msgid "Save to a file"
+msgstr "Uložit odkaz do souboru."
+
+msgid "Failed to save the attachment."
+msgstr "Nepodařilo se uložit přílohu."
+
 msgid "Select the day range"
 msgstr "Vybrat denní rozpětí"
 
@@ -1520,9 +1556,6 @@ msgstr "&Ne"
 msgid "Manager"
 msgstr "Správce"
 
-msgid "Events"
-msgstr "Události"
-
 msgid "Tasks"
 msgstr "Úkoly"
 
@@ -1540,9 +1573,6 @@ msgstr "Nový"
 
 msgid "Edit"
 msgstr "Upravit"
-
-msgid "Delete"
-msgstr "Smazat"
 
 msgid "Copy to"
 msgstr "Kopírovat do"
@@ -1779,12 +1809,6 @@ msgstr "Obnovit offline kopii"
 msgid "Authenticate"
 msgstr "Ověřit"
 
-msgid "OK"
-msgstr "OK"
-
-msgid "Get more languages..."
-msgstr "Stáhnout jiné jazyky..."
-
 msgid "On Top"
 msgstr "Nahoře"
 
@@ -1794,8 +1818,8 @@ msgstr "Dole"
 msgid "On Desktop"
 msgstr "Na ploše"
 
-msgid "Get more skins..."
-msgstr "Stáhnout jiné motivy..."
+msgid "Select the categories:"
+msgstr "Vybrat kategorie:"
 
 msgid "TrayIcon"
 msgstr "Ikona v tray"
@@ -2088,6 +2112,9 @@ msgstr "Lokální"
 msgid "Task"
 msgstr "Úkol"
 
+msgid "Date only"
+msgstr "Pouze datum"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr "Konečné datum musí být nastaveno před definováním opakování."
 
@@ -2279,11 +2306,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "Upravit \"%s\""
 
-msgid "Delete all"
-msgstr "Smazat vše"
+msgid "Move to next day"
+msgstr "Přesunout na další den"
 
 msgid "Dismiss alarm"
 msgstr "Zrušit alarm"
+
+msgid "Delete all"
+msgstr "Smazat vše"
+
+msgid "Delete \"%s\""
+msgstr "Odstranit %s"
 
 msgid "Tomorrow"
 msgstr "Zítra"
@@ -2345,9 +2378,6 @@ msgstr "Zastavit"
 msgid "Edit..."
 msgstr "Upravit..."
 
-msgid "Move to next day"
-msgstr "Přesunout na další den"
-
 msgid " (%i days)"
 msgstr " (%i dnů)"
 
@@ -2383,9 +2413,6 @@ msgstr "Nízká priorita"
 
 msgid "No Priority"
 msgstr "Bez priority"
-
-msgid "Medium"
-msgstr "Střední"
 
 msgid "Expand"
 msgstr "Rozbalit"
@@ -2640,26 +2667,24 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Licenční soubor je prázdný"
-"Při stahování licenčního souboru nezapomeňte použít úplnou adresu URL"
+"Licenční soubor je prázdnýPři stahování licenčního souboru nezapomeňte "
+"použít úplnou adresu URL"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"Licenční soubor není platný"
-"Překročili jste počet stažení licence"
-"Pro více informací prosím kontaktujte podporu Rainlendaru"
+"Licenční soubor není platnýPřekročili jste počet stažení licencePro více "
+"informací prosím kontaktujte podporu Rainlendaru"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Licenční soubor nemá platný formát"
-"Ujistěte se, že používáte správný licenční soubor"
-"Můžete se také pokusit stáhnout soubor znovu, pokud chyba přetrvává"
+"Licenční soubor nemá platný formátUjistěte se, že používáte správný licenční "
+"souborMůžete se také pokusit stáhnout soubor znovu, pokud chyba přetrvává"
 
 msgid "Skin error!"
 msgstr "Chyba skinu!"
@@ -2713,8 +2738,8 @@ msgid ""
 "Thank you for the support."
 msgstr ""
 "Doufám, že jste si Rainlendar během posledního měsíce užili. Chtěli byste "
-"provést upgrade na verzi Pro s přidanými funkcemi? Pokud použijete \"Buy Now"
-"\" odkaz níže, můžete koupit licenci za zvýhodněnou cenu. Můžete také "
+"provést upgrade na verzi Pro s přidanými funkcemi? Pokud použijete \"Buy "
+"Now\" odkaz níže, můžete koupit licenci za zvýhodněnou cenu. Můžete také "
 "stisknout tlačítko \"No thanks\" a nikdy více tuto zprávu nezobrazovat.\n"
 "\n"
 "Děkuji za podporu."
@@ -3155,6 +3180,14 @@ msgstr "Definuje, kolik kalendářů bude zobrazeno svisle v okně."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Zrušit zaškrtnutí políčka skrytí jmen dnů v týdnu v kalendáři."
+
+msgid "Day background"
+msgstr "Pozadí dne"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Zaškrtněte, chcete-li přidat pozadí k číslům dnů, aby bylo snadnější na ně "
+"kliknout."
 
 msgid "Week View"
 msgstr "Týdenní přehled "
@@ -3844,9 +3877,6 @@ msgstr "Dnes večer"
 msgid "Menu"
 msgstr "Menu"
 
-msgid "Large"
-msgstr "Velké"
-
 msgid "Use large images and more space between the items."
 msgstr "Použijte velké obrázky a větší místo mezi položkami."
 
@@ -4315,8 +4345,8 @@ msgstr "Do"
 msgid "Debug Window"
 msgstr "Okno ladění"
 
-msgid "Sensitivity:"
-msgstr "Citlivost:"
+msgid "Common Properties"
+msgstr "Společné vlastnosti"
 
 msgid "All day event"
 msgstr "Celodenní událost"
@@ -4327,8 +4357,29 @@ msgstr "Označit čas jako obsazený"
 msgid "Time zone:"
 msgstr "Časové pásmo:"
 
+msgid "Misc"
+msgstr "Různé"
+
 msgid "Calendar:"
 msgstr "Kalendář:"
+
+msgid "Additional Properties"
+msgstr "Další vlastnosti"
+
+msgid "Sensitivity:"
+msgstr "Citlivost:"
+
+msgid "Attachment:"
+msgstr "Příloha:"
+
+msgid "Remove attachment"
+msgstr "Odebrat přílohu"
+
+msgid "Alarms"
+msgstr "Alarmy"
+
+msgid "Add alarm:"
+msgstr "Přidat budík"
 
 msgid "Mon"
 msgstr "Po"
@@ -4365,6 +4416,9 @@ msgstr "Data vyjímek"
 
 msgid "Add"
 msgstr "Přídat"
+
+msgid "Templates"
+msgstr "Šablony"
 
 msgid "Show descriptions"
 msgstr "Zobrazit popisy"
@@ -4464,12 +4518,6 @@ msgstr "Náhled..."
 
 msgid "Page Setup..."
 msgstr "Nastavení stránky…"
-
-msgid "Todo"
-msgstr "Úkol"
-
-msgid "Date only"
-msgstr "Pouze datum"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Čárkou oddělené hodnoty (*.csv)|*.csv"
@@ -4881,8 +4929,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Zadejte e-mailovou adresu účtu Office 365, klikněte na tlačítko \"Vybrat "
 "kalendář\" a vyberte kalendář, ke kterému chcete přistupovat."
@@ -5129,6 +5177,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "Soubory iCalendar (*.ics)|*.ics|Soubory vCalendar (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "Soubor kalendáře nelze uložit do složky Program Files."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Soubor byste měli přesunout např. do složky Dokumenty."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

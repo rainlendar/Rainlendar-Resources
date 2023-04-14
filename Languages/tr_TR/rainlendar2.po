@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-04-14 10:23+0300\n"
 "PO-Revision-Date: 2022-03-21 15:50+0200\n"
 "Last-Translator: İbrahim Çelik <ibrahimcelik89@gmail.com>\n"
 "Language-Team: İbrahim Çelik <ibrahimcelik89@gmail.com>\n"
@@ -484,12 +484,6 @@ msgstr "Özel şifreleme kullan"
 msgid "Editor"
 msgstr "Editör"
 
-msgid "Allow multiple calendars"
-msgstr "Birden fazla takvime izin ver"
-
-msgid "Allow multiple categories"
-msgstr "Birden fazla kategoriye izin ver"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Yazma başarılı olana kadar düzenleyiciyi açık tut"
 
@@ -558,6 +552,21 @@ msgstr "Karakter yüzü"
 
 msgid "Scaling quality"
 msgstr "Ölçekleme kalitesi"
+
+msgid "Tiny"
+msgstr "Ufacık"
+
+msgid "Small"
+msgstr "Küçük"
+
+msgid "Medium"
+msgstr "Orta"
+
+msgid "Large"
+msgstr "Büyük"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Ekler için küçük resim boyutu oluşturuldu"
 
 msgid "Network"
 msgstr "Ağ"
@@ -897,6 +906,9 @@ msgstr "Yardım'ı aç\tCtrl+?"
 msgid "Help"
 msgstr "Yardım"
 
+msgid "Events"
+msgstr "Etkinlikler"
+
 msgid "About"
 msgstr "Hakkında"
 
@@ -1234,6 +1246,15 @@ msgstr "İsimde '/' karakteri kullanılamaz."
 msgid "A category called \"%s\" already exists."
 msgstr "\"%s\" adında bir kategori zaten mevcut."
 
+msgid "Additional"
+msgstr "Ek"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "OK"
+msgstr "Tamam"
+
 msgid "Link start and end dates"
 msgstr "Başlangıç ve Bitiş Tarihleri"
 
@@ -1347,12 +1368,6 @@ msgstr "Dosya seç"
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "iCalendar dosyaları (*.ics)|*.ics"
 
-msgid "Select the calendars:"
-msgstr "Takvim seç:"
-
-msgid "Select the categories:"
-msgstr "Kategori seç:"
-
 msgid "before the event starts."
 msgstr "etkinliğin başlamasına."
 
@@ -1459,6 +1474,27 @@ msgstr "Varsayılan şablonu belirle..."
 msgid "Template"
 msgstr "Şablon"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Eki getirebilecek seçili bir takvim yok."
+
+msgid "Operation failed."
+msgstr "İşlem başarısız."
+
+msgid "Open"
+msgstr "Açık"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Failed to read the attachment."
+msgstr "Ek okunamadı."
+
+msgid "Save to a file"
+msgstr "Bağlantıyı dosyaya kaydet."
+
+msgid "Failed to save the attachment."
+msgstr "Eklenti kaydedilemedi"
+
 msgid "Select the day range"
 msgstr "Gün aralığını seçin"
 
@@ -1521,9 +1557,6 @@ msgstr "&Hayır"
 msgid "Manager"
 msgstr "Yönetici"
 
-msgid "Events"
-msgstr "Etkinlikler"
-
 msgid "Tasks"
 msgstr "Görevler"
 
@@ -1541,9 +1574,6 @@ msgstr "Yeni"
 
 msgid "Edit"
 msgstr "Düzenle"
-
-msgid "Delete"
-msgstr "Sil"
 
 msgid "Copy to"
 msgstr "Kopyala:"
@@ -1780,12 +1810,6 @@ msgstr "Çevrimdışı kopyayı sıfırla"
 msgid "Authenticate"
 msgstr "Doğrula"
 
-msgid "OK"
-msgstr "Tamam"
-
-msgid "Get more languages..."
-msgstr "Daha fazla dil al..."
-
 msgid "On Top"
 msgstr "Üstte"
 
@@ -1795,8 +1819,8 @@ msgstr "Altta"
 msgid "On Desktop"
 msgstr "Masaüstünde"
 
-msgid "Get more skins..."
-msgstr "Daha fazla tema al..."
+msgid "Select the categories:"
+msgstr "Kategori seç:"
 
 msgid "TrayIcon"
 msgstr "KöşeSimgesi"
@@ -2093,6 +2117,9 @@ msgstr "Yerel"
 msgid "Task"
 msgstr "Görev"
 
+msgid "Date only"
+msgstr "Sadece tarih"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr "Tekrarlama tanımlanmadan önce bitiş zamanı belirlenmeli."
 
@@ -2282,11 +2309,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "\"%s\" düzenle"
 
-msgid "Delete all"
-msgstr "Tümünü sil"
+msgid "Move to next day"
+msgstr "Sonraki güne taşı"
 
 msgid "Dismiss alarm"
 msgstr "Alarmı kapat"
+
+msgid "Delete all"
+msgstr "Tümünü sil"
+
+msgid "Delete \"%s\""
+msgstr "Sil %s"
 
 msgid "Tomorrow"
 msgstr "Yarın"
@@ -2348,9 +2381,6 @@ msgstr "Yoksay"
 msgid "Edit..."
 msgstr "Düzenle..."
 
-msgid "Move to next day"
-msgstr "Sonraki güne taşı"
-
 msgid " (%i days)"
 msgstr " (%i gün)"
 
@@ -2386,9 +2416,6 @@ msgstr "Düşük öncelik"
 
 msgid "No Priority"
 msgstr "Öncelik yok"
-
-msgid "Medium"
-msgstr "Orta"
 
 msgid "Expand"
 msgstr "Genişlet"
@@ -2645,26 +2672,25 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Lisans dosyası boş"
-"Lisans dosyasını indirirken URL'nin tamamını kullandığınızdan emin olun"
+"Lisans dosyası boşLisans dosyasını indirirken URL'nin tamamını "
+"kullandığınızdan emin olun"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"Lisans anahtarı geçerli değil."
-"Lisansın indirilebilme sayısını aştınız"
-"Daha fazla ayrıntı için lütfen Rainlendar'ın destek ekibiyle iletişime geçin"
+"Lisans anahtarı geçerli değil.Lisansın indirilebilme sayısını aştınızDaha "
+"fazla ayrıntı için lütfen Rainlendar'ın destek ekibiyle iletişime geçin"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Lisans dosyası geçerli biçime sahip değil"
-"Doğru lisans dosyasını kullandığınızdan emin olun"
-"Hata devam ederse dosyayı yeniden indirmeyi de deneyebilirsiniz"
+"Lisans dosyası geçerli biçime sahip değilDoğru lisans dosyasını "
+"kullandığınızdan emin olunHata devam ederse dosyayı yeniden indirmeyi de "
+"deneyebilirsiniz"
 
 msgid "Skin error!"
 msgstr "Cilt hatası!"
@@ -3162,6 +3188,14 @@ msgstr "Pencerede kaç tane takvimin dikey olarak gösterileceğini tanımlar."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Haftanın günlerini takvimden gizlemek için işareti kaldırın."
+
+msgid "Day background"
+msgstr "Gün arkaplanı"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Tıklamaları daha kolay hale getirmek için gün numaralarına arka plan eklemek "
+"için işaretleyin."
 
 msgid "Week View"
 msgstr "Hafta Görünümü"
@@ -3864,9 +3898,6 @@ msgstr "Bu gece?"
 msgid "Menu"
 msgstr "Menü"
 
-msgid "Large"
-msgstr "Büyük"
-
 msgid "Use large images and more space between the items."
 msgstr "Büyük resimler ve öğeler arasında daha fazla alan kullanın."
 
@@ -4336,8 +4367,8 @@ msgstr "Tekrarlama bitişi"
 msgid "Debug Window"
 msgstr "Hata Ayıklama Penceresi"
 
-msgid "Sensitivity:"
-msgstr "Hassasiyet:"
+msgid "Common Properties"
+msgstr "Ortak Özellikler"
 
 msgid "All day event"
 msgstr "Tüm gün olayı"
@@ -4348,8 +4379,29 @@ msgstr "Zamanı meşgul olarak işaretle"
 msgid "Time zone:"
 msgstr "Zaman dilimi"
 
+msgid "Misc"
+msgstr "Çeşitli."
+
 msgid "Calendar:"
 msgstr "Takvim:"
+
+msgid "Additional Properties"
+msgstr "Ek özellikler"
+
+msgid "Sensitivity:"
+msgstr "Hassasiyet:"
+
+msgid "Attachment:"
+msgstr "Ek:"
+
+msgid "Remove attachment"
+msgstr "Eki kaldır"
+
+msgid "Alarms"
+msgstr "Alarmlar"
+
+msgid "Add alarm:"
+msgstr "Alarm ekle"
 
 msgid "Mon"
 msgstr "Pzt"
@@ -4386,6 +4438,9 @@ msgstr "İstisna tarihler"
 
 msgid "Add"
 msgstr "Ekle"
+
+msgid "Templates"
+msgstr "Şablonlar"
 
 msgid "Show descriptions"
 msgstr "Tanımlamaları göster"
@@ -4486,12 +4541,6 @@ msgstr "Önizleme..."
 
 msgid "Page Setup..."
 msgstr "Sayfa Özellikleri..."
-
-msgid "Todo"
-msgstr "Yapılacaklar"
-
-msgid "Date only"
-msgstr "Sadece tarih"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Virgülle Ayrılmış Değerler (*.csv)|*.csv"
@@ -4774,8 +4823,8 @@ msgid ""
 "Enter your Google account email address and click the \"Select task list\" "
 "button and choose the task list you want to access."
 msgstr ""
-"Google hesabınıza it e-posta adresinizi girin, \"Yapılacaklar listesini seç"
-"\"e tıklayın ve erişmek istediğiniz yapılacaklar listesini seçin."
+"Google hesabınıza it e-posta adresinizi girin, \"Yapılacaklar listesini "
+"seç\"e tıklayın ve erişmek istediğiniz yapılacaklar listesini seçin."
 
 msgid "Select task list"
 msgstr "Görev listesini seç"
@@ -4895,8 +4944,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Office 365 hesabınızın e - posta adresini girin ve \" Takvim seç \" "
 "düğmesini tıklayın ve erişmek istediğiniz takvimi seçin"
@@ -5141,6 +5190,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "iCalendar dosyaları (*.ics)|*.ics|vCalendar dosyaları (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "Takvim dosyası Program Dosyaları klasörüne kaydedilemiyor."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Dosyayı örneğin Belgeler klasörünüze taşımalısınız."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-04-14 10:23+0300\n"
 "PO-Revision-Date: 2021-09-26 14:45+0900\n"
 "Last-Translator: Kim YoungCheon <circcc@gmail.com>\n"
 "Language-Team: Realman <ishwang3@gmail.com>\n"
@@ -489,12 +489,6 @@ msgstr "사용자 지정 비밀번호 암호화 사용"
 msgid "Editor"
 msgstr "편집기"
 
-msgid "Allow multiple calendars"
-msgstr "다중 달력 허용"
-
-msgid "Allow multiple categories"
-msgstr "다중 범주 허용"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "쓰기가 성공할 때까지 편집기 열어놓기"
 
@@ -563,6 +557,21 @@ msgstr "글꼴"
 
 msgid "Scaling quality"
 msgstr "스케일링 품질"
+
+msgid "Tiny"
+msgstr "매우 작은"
+
+msgid "Small"
+msgstr "작게"
+
+msgid "Medium"
+msgstr "중간"
+
+msgid "Large"
+msgstr "크게"
+
+msgid "Created thumbnail size for attachments"
+msgstr "첨부 파일의 썸네일 크기를 만들었습니다."
 
 msgid "Network"
 msgstr "네트워크"
@@ -901,6 +910,9 @@ msgstr "도움말 열기\tCtrl+?"
 msgid "Help"
 msgstr "도움말"
 
+msgid "Events"
+msgstr "일정"
+
 msgid "About"
 msgstr "Rainlendar 정보"
 
@@ -1236,6 +1248,15 @@ msgstr "이름에 '/' 문자를 사용할 수 없습니다."
 msgid "A category called \"%s\" already exists."
 msgstr "\"%s\" 범주 이름은 이미 존재합니다."
 
+msgid "Additional"
+msgstr "추가"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "OK"
+msgstr "확인"
+
 msgid "Link start and end dates"
 msgstr "시작/종료 날짜 연결"
 
@@ -1346,12 +1367,6 @@ msgstr "파일 선택"
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "iCalendar 파일 (*.ics)|*.ics"
 
-msgid "Select the calendars:"
-msgstr "달력을 선택하십시오:"
-
-msgid "Select the categories:"
-msgstr "범주를 선택하십시오:"
-
 msgid "before the event starts."
 msgstr "전에 일정 시작을 알립니다."
 
@@ -1459,6 +1474,27 @@ msgstr "기본 서식으로 설정..."
 msgid "Template"
 msgstr "서식"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "첨부파일을 가져올 수 있는 캘린더가 선택되지 않았습니다."
+
+msgid "Operation failed."
+msgstr "작업이 실패되었습니다."
+
+msgid "Open"
+msgstr "열기"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Failed to read the attachment."
+msgstr "첨부 파일을 저장하지 못했습니다."
+
+msgid "Save to a file"
+msgstr "파일로 저장"
+
+msgid "Failed to save the attachment."
+msgstr "첨부 파일을 저장하지 못했습니다."
+
 msgid "Select the day range"
 msgstr "날의 범위를 선택하십시오"
 
@@ -1520,9 +1556,6 @@ msgstr "아니오(&N)"
 msgid "Manager"
 msgstr "관리자"
 
-msgid "Events"
-msgstr "일정"
-
 msgid "Tasks"
 msgstr "작업"
 
@@ -1540,9 +1573,6 @@ msgstr "새 항목"
 
 msgid "Edit"
 msgstr "편집"
-
-msgid "Delete"
-msgstr "삭제"
 
 msgid "Copy to"
 msgstr "복사"
@@ -1778,12 +1808,6 @@ msgstr "오프라인 복사 초기화"
 msgid "Authenticate"
 msgstr "인증"
 
-msgid "OK"
-msgstr "확인"
-
-msgid "Get more languages..."
-msgstr "다른 언어 받기..."
-
 msgid "On Top"
 msgstr "위"
 
@@ -1793,8 +1817,8 @@ msgstr "아래"
 msgid "On Desktop"
 msgstr "바탕화면"
 
-msgid "Get more skins..."
-msgstr "더 많은 스킨 받기..."
+msgid "Select the categories:"
+msgstr "범주를 선택하십시오:"
 
 msgid "TrayIcon"
 msgstr "트레이 아이콘"
@@ -2084,6 +2108,9 @@ msgstr "로컬"
 msgid "Task"
 msgstr "작업"
 
+msgid "Date only"
+msgstr "날짜만"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr "반복을 지정하기 전에 마감 날짜가 설정되어야 합니다."
 
@@ -2273,11 +2300,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "\"%s\" 편집"
 
-msgid "Delete all"
-msgstr "모두 삭제"
+msgid "Move to next day"
+msgstr "다음 날로 이동"
 
 msgid "Dismiss alarm"
 msgstr "시간 알림 해제"
+
+msgid "Delete all"
+msgstr "모두 삭제"
+
+msgid "Delete \"%s\""
+msgstr "%s 삭제하기"
 
 msgid "Tomorrow"
 msgstr "내일"
@@ -2339,9 +2372,6 @@ msgstr "해제"
 msgid "Edit..."
 msgstr "편집..."
 
-msgid "Move to next day"
-msgstr "다음 날로 이동"
-
 msgid " (%i days)"
 msgstr " (%i 일)"
 
@@ -2377,9 +2407,6 @@ msgstr "낮은 순위"
 
 msgid "No Priority"
 msgstr "순위 없음"
-
-msgid "Medium"
-msgstr "중간"
 
 msgid "Expand"
 msgstr "확장"
@@ -2636,26 +2663,24 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"라이센스 파일이 비어 있습니다."
-"라이센스 파일을 다운로드할 때 전체 URL을 사용해야 합니다."
+"라이센스 파일이 비어 있습니다.라이센스 파일을 다운로드할 때 전체 URL을 사용해"
+"야 합니다."
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"라이센스가 유효하지 않습니다."
-"라이선스를 다운로드할 수 있는 횟수를 초과했습니다."
-"자세한 내용은 Rainlendar의 지원에 문의하십시오."
+"라이센스가 유효하지 않습니다.라이선스를 다운로드할 수 있는 횟수를 초과했습니"
+"다.자세한 내용은 Rainlendar의 지원에 문의하십시오."
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"라이센스 파일의 형식이 올바르지 않습니다."
-"올바른 라이센스 파일을 사용하고 있는지 확인하십시오."
-"오류가 지속되면 파일을 다시 다운로드 할 수도 있습니다."
+"라이센스 파일의 형식이 올바르지 않습니다.올바른 라이센스 파일을 사용하고 있는"
+"지 확인하십시오.오류가 지속되면 파일을 다시 다운로드 할 수도 있습니다."
 
 msgid "Skin error!"
 msgstr "스킨 오류!"
@@ -3151,6 +3176,12 @@ msgstr "창에 수직으로 표시할 달력 수를 설정하십시오."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "달력에서 요일을 숨기려면 선택 해제하십시오."
+
+msgid "Day background"
+msgstr "요일 배경"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr "클릭하기 쉽도록 요일 번호에 배경을 추가하려면 선택하십시오."
 
 msgid "Week View"
 msgstr "주간 일정"
@@ -3832,9 +3863,6 @@ msgstr "오늘밤"
 msgid "Menu"
 msgstr "메뉴"
 
-msgid "Large"
-msgstr "크게"
-
 msgid "Use large images and more space between the items."
 msgstr "항목 사이에 큰 이미지와 더 많은 공간을 사용하십시오."
 
@@ -4300,8 +4328,8 @@ msgstr "종료일"
 msgid "Debug Window"
 msgstr "디버그 창"
 
-msgid "Sensitivity:"
-msgstr "민감도:"
+msgid "Common Properties"
+msgstr "일반 속성"
 
 msgid "All day event"
 msgstr "하루 종일"
@@ -4312,8 +4340,29 @@ msgstr "바쁨으로 시간 표시"
 msgid "Time zone:"
 msgstr "표준 시간대:"
 
+msgid "Misc"
+msgstr "기타"
+
 msgid "Calendar:"
 msgstr "달력:"
+
+msgid "Additional Properties"
+msgstr "추가 속성"
+
+msgid "Sensitivity:"
+msgstr "민감도:"
+
+msgid "Attachment:"
+msgstr "첨부 파일 :"
+
+msgid "Remove attachment"
+msgstr "첨부 파일 삭제"
+
+msgid "Alarms"
+msgstr "경보"
+
+msgid "Add alarm:"
+msgstr "알람 추가:"
 
 msgid "Mon"
 msgstr "월"
@@ -4350,6 +4399,9 @@ msgstr "제외할 날"
 
 msgid "Add"
 msgstr "추가"
+
+msgid "Templates"
+msgstr "템플릿"
 
 msgid "Show descriptions"
 msgstr "설명 표시"
@@ -4449,12 +4501,6 @@ msgstr "미리보기..."
 
 msgid "Page Setup..."
 msgstr "페이지 설정..."
-
-msgid "Todo"
-msgstr "할 일"
-
-msgid "Date only"
-msgstr "날짜만"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "반점 구분 값 (*.csv)|*.csv"
@@ -4860,8 +4906,8 @@ msgid "Office 365"
 msgstr "오피스 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "오피스 365 계정의 전자 메일 주소를 입력하고, \"달력 선택\" 단추를 누르고 접근"
 "하려는 달력을 선택하십시오."
@@ -5104,6 +5150,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "iCalendar 파일 (*.ics)|*.ics|vCalendar 파일 (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "캘린더 파일을 프로그램 파일 폴더에 저장할 수 없습니다."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "파일을 문서 폴더로 이동해야 합니다."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

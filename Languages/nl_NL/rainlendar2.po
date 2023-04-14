@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-04-14 10:23+0300\n"
 "PO-Revision-Date: 2021-10-18 21:34+0200\n"
 "Last-Translator: Fokke Post <editor@orcaplaza.nl>\n"
 "Language-Team: Alfred Spijker <http://xinbox.com/alfredspijker>\n"
@@ -487,12 +487,6 @@ msgstr "Aangepaste wachtwoordversleuteling gebruiken"
 msgid "Editor"
 msgstr "Editor"
 
-msgid "Allow multiple calendars"
-msgstr "Meerdere kalenders toestaan"
-
-msgid "Allow multiple categories"
-msgstr "Meerdere categorieën toestaan"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Editor open houden tot schrijven is geslaagd"
 
@@ -561,6 +555,21 @@ msgstr "Lettertype"
 
 msgid "Scaling quality"
 msgstr "Schalingskwaliteits"
+
+msgid "Tiny"
+msgstr "Heel klein"
+
+msgid "Small"
+msgstr "Klein"
+
+msgid "Medium"
+msgstr "Gemiddeld"
+
+msgid "Large"
+msgstr "Groot"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Miniatuurgrootte voor bijlagen gemaakt"
 
 msgid "Network"
 msgstr "Netwerk"
@@ -899,6 +908,9 @@ msgstr "Help openen\tCtrl+?"
 msgid "Help"
 msgstr "Help"
 
+msgid "Events"
+msgstr "Afspraken"
+
 msgid "About"
 msgstr "Over Rainlendar"
 
@@ -1194,8 +1206,8 @@ msgid ""
 "It's not possible to undo the operation so click \"Yes\" only if you are "
 "completely sure you know what you are doing."
 msgstr ""
-"Het is niet mogelijk deze bewerking ongedaan te maken dus klik alleen op \"Ja"
-"\" als u absoluut zeker weet wat u doet."
+"Het is niet mogelijk deze bewerking ongedaan te maken dus klik alleen op "
+"\"Ja\" als u absoluut zeker weet wat u doet."
 
 msgid ""
 "Note that changing the type between events and tasks will result to some "
@@ -1236,6 +1248,15 @@ msgstr "Het is niet toegestaan het '/'-teken in de naam te gebruiken."
 
 msgid "A category called \"%s\" already exists."
 msgstr "Een categorie met de naam \"%s\" bestaat al."
+
+msgid "Additional"
+msgstr "Aanvullend"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "OK"
+msgstr "OK"
 
 msgid "Link start and end dates"
 msgstr "Begin- en einddata koppelen"
@@ -1352,12 +1373,6 @@ msgstr "Een bestand selecteren"
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "iCalendar-bestanden (*.ics)|*.ics"
 
-msgid "Select the calendars:"
-msgstr "Selecteer de kalenders:"
-
-msgid "Select the categories:"
-msgstr "Selecteer de categorieën:"
-
 msgid "before the event starts."
 msgstr "voor de afspraak begint."
 
@@ -1466,6 +1481,27 @@ msgstr "Standaardsjabloon instellen..."
 msgid "Template"
 msgstr "Sjabloon"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Er is geen agenda geselecteerd die de bijlage kan ophalen."
+
+msgid "Operation failed."
+msgstr "De actie is mislukt."
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Failed to read the attachment."
+msgstr "Kan bijlage niet opslaan."
+
+msgid "Save to a file"
+msgstr "Sla de link op naar een bestand"
+
+msgid "Failed to save the attachment."
+msgstr "Kan bijlage niet opslaan."
+
 msgid "Select the day range"
 msgstr "Selecteer het dagbereik"
 
@@ -1529,9 +1565,6 @@ msgstr "&Nee"
 msgid "Manager"
 msgstr "Beheerder"
 
-msgid "Events"
-msgstr "Afspraken"
-
 msgid "Tasks"
 msgstr "Taken"
 
@@ -1549,9 +1582,6 @@ msgstr "Nieuw"
 
 msgid "Edit"
 msgstr "Bewerken"
-
-msgid "Delete"
-msgstr "Verwijderen"
 
 msgid "Copy to"
 msgstr "Kopiëren naar"
@@ -1793,12 +1823,6 @@ msgstr "Offline exemplaar resetten"
 msgid "Authenticate"
 msgstr "Authenticeren"
 
-msgid "OK"
-msgstr "OK"
-
-msgid "Get more languages..."
-msgstr "Meer talen..."
-
 msgid "On Top"
 msgstr "Op de voorgrond"
 
@@ -1808,8 +1832,8 @@ msgstr "Op de achtergrond"
 msgid "On Desktop"
 msgstr "Op het bureaublad"
 
-msgid "Get more skins..."
-msgstr "Meer thema's..."
+msgid "Select the categories:"
+msgstr "Selecteer de categorieën:"
 
 msgid "TrayIcon"
 msgstr "Systeemvakpictogram"
@@ -2109,6 +2133,9 @@ msgstr "Lokaal"
 msgid "Task"
 msgstr "Taak"
 
+msgid "Date only"
+msgstr "Alleen datum"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr ""
 "De vervaldatum moet ingesteld worden voordat een terugkerend item kan worden "
@@ -2308,11 +2335,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "\"%s\" bewerken"
 
-msgid "Delete all"
-msgstr "Alles verwijderen"
+msgid "Move to next day"
+msgstr "Verplaatsen naar de volgende dag"
 
 msgid "Dismiss alarm"
 msgstr "Alarm laten vervallen"
+
+msgid "Delete all"
+msgstr "Alles verwijderen"
+
+msgid "Delete \"%s\""
+msgstr "Verwijder %s"
 
 msgid "Tomorrow"
 msgstr "Morgen"
@@ -2374,9 +2407,6 @@ msgstr "Laten vervallen"
 msgid "Edit..."
 msgstr "Bewerken..."
 
-msgid "Move to next day"
-msgstr "Verplaatsen naar de volgende dag"
-
 msgid " (%i days)"
 msgstr " (%i dagen)"
 
@@ -2412,9 +2442,6 @@ msgstr "Lage prioriteit"
 
 msgid "No Priority"
 msgstr "Geen prioriteit"
-
-msgid "Medium"
-msgstr "Gemiddeld"
 
 msgid "Expand"
 msgstr "Uitvouwen"
@@ -2674,26 +2701,26 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Het licentiebestand leeg"
-"Zorg ervoor dat u de volledige URL gebruikt bij het downloaden van het licentiebestand"
+"Het licentiebestand leegZorg ervoor dat u de volledige URL gebruikt bij het "
+"downloaden van het licentiebestand"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"De licentie is niet geldig."
-"U hebt het aantal keren dat de licentie kan worden gedownload overschreden"
-"Neem contact op met de ondersteuning van Rainlendar voor meer informatie"
+"De licentie is niet geldig.U hebt het aantal keren dat de licentie kan "
+"worden gedownload overschredenNeem contact op met de ondersteuning van "
+"Rainlendar voor meer informatie"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Het licentiebestand heeft geen geldig formaat"
-"Zorg ervoor dat u het juiste licentiebestand gebruikt"
-"U kunt ook proberen het bestand opnieuw te downloaden als de fout aanhoudt"
+"Het licentiebestand heeft geen geldig formaatZorg ervoor dat u het juiste "
+"licentiebestand gebruiktU kunt ook proberen het bestand opnieuw te "
+"downloaden als de fout aanhoudt"
 
 msgid "Skin error!"
 msgstr "Themafout!"
@@ -3197,6 +3224,14 @@ msgstr ""
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Uitschakelen om de namen van de weekdagen in de kalender te verbergen."
+
+msgid "Day background"
+msgstr "Dagachtergrond"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Aanvinken om achtergrond toe te voegen aan dagnummers om ze gemakkelijker te "
+"maken om op te klikken."
 
 msgid "Week View"
 msgstr "Weekweergave"
@@ -3902,9 +3937,6 @@ msgstr "Vanavond"
 msgid "Menu"
 msgstr "Menu"
 
-msgid "Large"
-msgstr "Groot"
-
 msgid "Use large images and more space between the items."
 msgstr "Grote afbeeldingen en meer ruimte tussen de items gebruiken."
 
@@ -4376,8 +4408,8 @@ msgstr "Tot"
 msgid "Debug Window"
 msgstr "Foutopsporingsvenster"
 
-msgid "Sensitivity:"
-msgstr "Gevoeligheid:"
+msgid "Common Properties"
+msgstr "Grammatica"
 
 msgid "All day event"
 msgstr "Duurt gehele dag"
@@ -4388,8 +4420,29 @@ msgstr "Tijd als bezet markeren"
 msgid "Time zone:"
 msgstr "Tijdzone:"
 
+msgid "Misc"
+msgstr "Diversen"
+
 msgid "Calendar:"
 msgstr "Kalender:"
+
+msgid "Additional Properties"
+msgstr "Additionele eigenschappen"
+
+msgid "Sensitivity:"
+msgstr "Gevoeligheid:"
+
+msgid "Attachment:"
+msgstr "Bijlage:"
+
+msgid "Remove attachment"
+msgstr "Verwijder bijlage"
+
+msgid "Alarms"
+msgstr "Alarmen"
+
+msgid "Add alarm:"
+msgstr "Alarm toevoegen"
 
 msgid "Mon"
 msgstr "ma"
@@ -4426,6 +4479,9 @@ msgstr "Uitgezonderde data"
 
 msgid "Add"
 msgstr "Toevoegen"
+
+msgid "Templates"
+msgstr "Sjablonen"
 
 msgid "Show descriptions"
 msgstr "Omschrijvingen weergeven"
@@ -4527,12 +4583,6 @@ msgstr "Voorbeeld..."
 
 msgid "Page Setup..."
 msgstr "Pagina-instellingen..."
-
-msgid "Todo"
-msgstr "Taak"
-
-msgid "Date only"
-msgstr "Alleen datum"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Kommagescheiden waarden (*.csv)|*.csv"
@@ -4955,8 +5005,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Voer het e-mailadres van uw Office 365-account in en klik op de knop "
 "\"Kalender selecteren\" en kies de kalender die u wilt gebruiken."
@@ -5207,6 +5257,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "iCalendar-bestanden (*.ics)|*.ics|vCalendar-bestanden (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "Het agendabestand kan niet worden opgeslagen in de map Programmabestanden."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "U moet het bestand bijvoorbeeld verplaatsen naar uw map Documenten."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

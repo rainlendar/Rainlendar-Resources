@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-04-14 10:23+0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Evan Lo <evanade@hotmail.com>\n"
 "Language-Team: \n"
@@ -482,12 +482,6 @@ msgstr "使用系統加密演算法"
 msgid "Editor"
 msgstr "編輯器"
 
-msgid "Allow multiple calendars"
-msgstr "允許多個行事曆"
-
-msgid "Allow multiple categories"
-msgstr "允許多個分類"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "完成寫入前保持編輯器開啟"
 
@@ -556,6 +550,21 @@ msgstr "字型"
 
 msgid "Scaling quality"
 msgstr "反鋸齒品質"
+
+msgid "Tiny"
+msgstr "簡易風"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "Large"
+msgstr "大型"
+
+msgid "Created thumbnail size for attachments"
+msgstr "已建立附件的縮圖大小"
 
 msgid "Network"
 msgstr "網路"
@@ -894,6 +903,9 @@ msgstr "開啟說明\tCtrl+?"
 msgid "Help"
 msgstr "說明"
 
+msgid "Events"
+msgstr "事件"
+
 msgid "About"
 msgstr "關於"
 
@@ -1224,6 +1236,15 @@ msgstr "無法使用 '/' 符號命名。"
 msgid "A category called \"%s\" already exists."
 msgstr "分類  \"%s\" 已存在。"
 
+msgid "Additional"
+msgstr "額外"
+
+msgid "Delete"
+msgstr "刪除"
+
+msgid "OK"
+msgstr "確定"
+
 msgid "Link start and end dates"
 msgstr "連結開始和結束日期"
 
@@ -1333,12 +1354,6 @@ msgstr "選擇檔案"
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "iCalendar 檔案 (*.ics)|*.ics"
 
-msgid "Select the calendars:"
-msgstr "選擇行事曆："
-
-msgid "Select the categories:"
-msgstr "選擇分類："
-
 msgid "before the event starts."
 msgstr "在事件開始前。"
 
@@ -1445,6 +1460,27 @@ msgstr "設為預設範本 ..."
 msgid "Template"
 msgstr "範本"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "沒有選擇可以提取附件的日曆。"
+
+msgid "Operation failed."
+msgstr "操作失敗。"
+
+msgid "Open"
+msgstr "開啟"
+
+msgid "Save"
+msgstr "儲存"
+
+msgid "Failed to read the attachment."
+msgstr "無法儲存附件。"
+
+msgid "Save to a file"
+msgstr "存檔"
+
+msgid "Failed to save the attachment."
+msgstr "無法儲存附件。"
+
 msgid "Select the day range"
 msgstr "選擇日期範圍"
 
@@ -1506,9 +1542,6 @@ msgstr "否(&N)"
 msgid "Manager"
 msgstr "管理"
 
-msgid "Events"
-msgstr "事件"
-
 msgid "Tasks"
 msgstr "工作"
 
@@ -1526,9 +1559,6 @@ msgstr "新增"
 
 msgid "Edit"
 msgstr "編輯"
-
-msgid "Delete"
-msgstr "刪除"
 
 msgid "Copy to"
 msgstr "複製到"
@@ -1762,12 +1792,6 @@ msgstr "重設離線副本"
 msgid "Authenticate"
 msgstr "驗證"
 
-msgid "OK"
-msgstr "確定"
-
-msgid "Get more languages..."
-msgstr "取得更多語言 ..."
-
 msgid "On Top"
 msgstr "最上層"
 
@@ -1777,8 +1801,8 @@ msgstr "最底部"
 msgid "On Desktop"
 msgstr "桌面上"
 
-msgid "Get more skins..."
-msgstr "取得更多面板 ..."
+msgid "Select the categories:"
+msgstr "選擇分類："
 
 msgid "TrayIcon"
 msgstr "系統列圖示"
@@ -2067,6 +2091,9 @@ msgstr "本機"
 msgid "Task"
 msgstr "工作"
 
+msgid "Date only"
+msgstr "只使用日期"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr "使用循環事件功能前必須設定到期時間。"
 
@@ -2254,11 +2281,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "編輯 \"%s\""
 
-msgid "Delete all"
-msgstr "刪除全部"
+msgid "Move to next day"
+msgstr "移至下一頁"
 
 msgid "Dismiss alarm"
 msgstr "解除鬧鈴"
+
+msgid "Delete all"
+msgstr "刪除全部"
+
+msgid "Delete \"%s\""
+msgstr "Delete %s"
 
 msgid "Tomorrow"
 msgstr "明天"
@@ -2320,9 +2353,6 @@ msgstr "解除"
 msgid "Edit..."
 msgstr "編輯 ..."
 
-msgid "Move to next day"
-msgstr "移至下一頁"
-
 msgid " (%i days)"
 msgstr " (%i 天)"
 
@@ -2358,9 +2388,6 @@ msgstr "優先等級：低"
 
 msgid "No Priority"
 msgstr "優先等級：無"
-
-msgid "Medium"
-msgstr "中"
 
 msgid "Expand"
 msgstr "展開"
@@ -3116,6 +3143,12 @@ msgstr "設定垂直顯示的行事曆數量。"
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "取消勾選則隱藏星期顯示"
 
+msgid "Day background"
+msgstr "日背景"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr "勾選以將背景新增至日期號碼，讓它們更容易點擊。"
+
 msgid "Week View"
 msgstr "週計劃表"
 
@@ -3784,9 +3817,6 @@ msgstr "今晚"
 msgid "Menu"
 msgstr "選單"
 
-msgid "Large"
-msgstr "大型"
-
 msgid "Use large images and more space between the items."
 msgstr "使用大圖示並將各物件加大間距"
 
@@ -4248,8 +4278,8 @@ msgstr "直到"
 msgid "Debug Window"
 msgstr "除錯視窗"
 
-msgid "Sensitivity:"
-msgstr "通知標準"
+msgid "Common Properties"
+msgstr "通用房源"
 
 msgid "All day event"
 msgstr "全天事件"
@@ -4260,8 +4290,29 @@ msgstr "標記為忙碌時間"
 msgid "Time zone:"
 msgstr "時區："
 
+msgid "Misc"
+msgstr "雜項"
+
 msgid "Calendar:"
 msgstr "行事曆:"
+
+msgid "Additional Properties"
+msgstr "額外屬性"
+
+msgid "Sensitivity:"
+msgstr "通知標準"
+
+msgid "Attachment:"
+msgstr "附件："
+
+msgid "Remove attachment"
+msgstr "移除附件"
+
+msgid "Alarms"
+msgstr "鬧鐘"
+
+msgid "Add alarm:"
+msgstr "添加提醒："
 
 msgid "Mon"
 msgstr "一"
@@ -4298,6 +4349,9 @@ msgstr "例外日期"
 
 msgid "Add"
 msgstr "增加"
+
+msgid "Templates"
+msgstr "模板"
 
 msgid "Show descriptions"
 msgstr "顯示描述"
@@ -4397,12 +4451,6 @@ msgstr "預覽 ..."
 
 msgid "Page Setup..."
 msgstr "頁面設定 ..."
-
-msgid "Todo"
-msgstr "待辦事項"
-
-msgid "Date only"
-msgstr "只使用日期"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Comma Separated Values (CSV)檔案 (*.csv)|*.csv"
@@ -4800,8 +4848,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "輸入您Office 365帳戶的電子郵件地址，按下\"選擇行事曆\"按鈕選擇您要匯入的行事"
 "曆。"
@@ -5039,6 +5087,12 @@ msgstr ""
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "iCalendar 檔案 (*.ics)|*.ics|vCalendar 檔案 (*.vcs)|*.vcs"
 
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "行事曆檔案無法儲存到「程式檔案」資料夾。"
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "您應該移動檔案，例如到您的文件夾。"
+
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"
 ">Calendars and verify that the location of the file is correctly set."
@@ -5049,3 +5103,4 @@ msgstr "無法建立暫存檔案 \"%s\"。"
 
 msgid "Unable to replace the file \"%s\"."
 msgstr "無法取代檔案 \"%s\"。"
+
