@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Vietnamese\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-08-10 10:16+0300\n"
 "PO-Revision-Date: 2022-03-21 16:01+0200\n"
 "Last-Translator: Phạm Duy Tùng <pduu9661591@gmail.com>\n"
 "Language-Team: \n"
@@ -344,6 +344,9 @@ msgstr "Theo nhóm"
 msgid "Recurrence"
 msgstr "Lặp lại"
 
+msgid "Next alarm"
+msgstr "Cảnh báo tiếp theo"
+
 msgid "Off"
 msgstr "Tắt"
 
@@ -494,12 +497,6 @@ msgstr "Sử dụng mã hóa mật khẩu tùy chỉnh"
 msgid "Editor"
 msgstr "Định dạng thời gian"
 
-msgid "Allow multiple calendars"
-msgstr "cho phép nhiều minh dụ"
-
-msgid "Allow multiple categories"
-msgstr "cho phép nhiều minh dụ"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Giữ biên tập cho đến khi viết thành công"
 
@@ -509,8 +506,26 @@ msgstr "khoảng thời gian trong trình soạn thảo"
 msgid "Number of previous locations"
 msgstr "Chữ số của Tuần"
 
+msgid "Last used"
+msgstr "Sử dụng cuối"
+
+msgid "Frequency"
+msgstr "Tần suất"
+
+msgid "Alphabethical"
+msgstr "Bảng chữ cái"
+
+msgid "Previous location list order"
+msgstr "Thứ tự danh sách vị trí trước đó"
+
 msgid "Default event duration"
 msgstr "Mẫu Sự kiện mặc định"
+
+msgid "Customize event editor fields"
+msgstr "Tùy chỉnh các trường của trình chỉnh sửa sự kiện"
+
+msgid "Customize task editor fields"
+msgstr "Tùy chỉnh các trường của trình chỉnh sửa tác vụ"
 
 msgid "Windows"
 msgstr "Cửa sổ"
@@ -568,6 +583,21 @@ msgstr "bề mặt Font"
 
 msgid "Scaling quality"
 msgstr "Chất lượng mặt độ"
+
+msgid "Tiny"
+msgstr "Rất nhỏ"
+
+msgid "Small"
+msgstr "Nhỏ"
+
+msgid "Medium"
+msgstr "Trung bình"
+
+msgid "Large"
+msgstr "Lớn"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Đã tạo kích thước hình thu nhỏ cho tệp đính kèm"
 
 msgid "Network"
 msgstr "Mạng"
@@ -906,6 +936,9 @@ msgstr "Trợ giúp\tCtrl+?"
 msgid "Help"
 msgstr "Giúp đỡ"
 
+msgid "Events"
+msgstr "Các sự kiện"
+
 msgid "About"
 msgstr "Giới thiệu"
 
@@ -1124,6 +1157,12 @@ msgstr "Không thê ̉ di chuyê ̉ n mu ̣ c."
 msgid "Choose a directory"
 msgstr "Chọn một tập tin"
 
+msgid "Customize"
+msgstr "Tùy chỉnh"
+
+msgid "Click 'Customize' button"
+msgstr "Nhấp vào nút 'Tùy chỉnh'"
+
 msgid "Version"
 msgstr "Phiên bản"
 
@@ -1138,9 +1177,6 @@ msgstr "Dịch (%s) bởi"
 
 msgid "Licensed to"
 msgstr "Bản quyền cho"
-
-msgid "Plugins"
-msgstr "Tiện ích gắn thêm"
 
 msgid "Links"
 msgstr "Các liên kết"
@@ -1243,6 +1279,15 @@ msgstr "Không cho phép dùng ký tự '/'-để đặt tên."
 msgid "A category called \"%s\" already exists."
 msgstr "Mẫu với tên \"%s\" đã tồn tại."
 
+msgid "Additional"
+msgstr "Bổ Sung"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "OK"
+msgstr "OK"
+
 msgid "Link start and end dates"
 msgstr "Liên kết ngày bắt đầu và ngày kết thúc"
 
@@ -1308,6 +1353,12 @@ msgid "The original description is in HTML and cannot be edited."
 msgstr "Mô tả ban đầu ở dạng HTML và không thể chỉnh sửa."
 
 msgid ""
+"Tip: You can customize the editor from Options->Advanced->Customize event/"
+"task editor fields."
+msgstr ""
+"Mẹo: Bạn có thể tùy chỉnh trình chỉnh sửa từ Tùy chọn ->Nâng cao ->Tùy chỉnh các trường của trình chỉnh sửa sự kiện/tác vụ"
+
+msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
 "you want to store the item."
 msgstr ""
@@ -1346,8 +1397,14 @@ msgstr "&Huỷ"
 msgid "&Cancel"
 msgstr "&Hủy"
 
-msgid "Are you sure you want to delete this item?"
-msgstr "Bạn có chắc muốn xóa mục này"
+msgid "Are you sure you want to delete the task?"
+msgstr "Bạn chắc chắn muốn xóa tác vụ này?"
+
+msgid "Are you sure you want to delete the event?"
+msgstr "Bạn chắc chắn muốn xóa loại sự kiện này?"
+
+msgid "Note that all the recurring instances will be deleted."
+msgstr "Lưu ý rằng tất cả các trường hợp định kỳ sẽ bị xóa."
 
 msgid "Event"
 msgstr "Sự kiện"
@@ -1357,12 +1414,6 @@ msgstr "Chọn một tập tin"
 
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "iCalendar files (*.ics)|*.ics"
-
-msgid "Select the calendars:"
-msgstr "Chọn Lịch:"
-
-msgid "Select the categories:"
-msgstr "Chọn Nhóm:"
 
 msgid "before the event starts."
 msgstr "trước khi sự kiện bắt đầu."
@@ -1472,6 +1523,27 @@ msgstr "Thiết lập Mẫu mặc định"
 msgid "Template"
 msgstr "Mẫu"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Không có lịch nào được chọn có thể tìm nạp tệp đính kèm."
+
+msgid "Operation failed."
+msgstr "Thao tác thất bại."
+
+msgid "Open"
+msgstr "Mở"
+
+msgid "Save"
+msgstr "Lưu lại"
+
+msgid "Failed to read the attachment."
+msgstr "Không thể đọc tệp đính kèm."
+
+msgid "Save to a file"
+msgstr "Save to file"
+
+msgid "Failed to save the attachment."
+msgstr "Không thể lưu tệp đính kèm."
+
 msgid "Select the day range"
 msgstr "Chọn Lịch:"
 
@@ -1534,9 +1606,6 @@ msgstr "&Không"
 msgid "Manager"
 msgstr "Quản lý"
 
-msgid "Events"
-msgstr "Các sự kiện"
-
 msgid "Tasks"
 msgstr "Các Công Việc"
 
@@ -1554,9 +1623,6 @@ msgstr "Mới"
 
 msgid "Edit"
 msgstr "Sửa"
-
-msgid "Delete"
-msgstr "Delete"
 
 msgid "Copy to"
 msgstr "Sao chép đến..."
@@ -1798,12 +1864,6 @@ msgstr ""
 "Không thể xác thực tới Google.\n"
 "Kết quả máy chủ trả về: (%i) %i %s."
 
-msgid "OK"
-msgstr "OK"
-
-msgid "Get more languages..."
-msgstr "Tìm thêm ngôn ngữ..."
-
 msgid "On Top"
 msgstr "Nằm bên trên và đè lên các cửa sổ trong windows"
 
@@ -1813,8 +1873,8 @@ msgstr "Nằm bên dưới"
 msgid "On Desktop"
 msgstr "Trên màn hình Desktop"
 
-msgid "Get more skins..."
-msgstr "Tìm thêm Giao diện..."
+msgid "Select the categories:"
+msgstr "Chọn Nhóm:"
 
 msgid "TrayIcon"
 msgstr "Biểu tượng khay hệ thống"
@@ -2110,6 +2170,9 @@ msgstr "Địa điểm "
 msgid "Task"
 msgstr "Hiện tóm tắt đầy đủ Công việc"
 
+msgid "Date only"
+msgstr "Chỉ đọc"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr ""
 "Ngày đến hạn cần phải được thiết lập trước khi tái phát có thể được xác định."
@@ -2305,11 +2368,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "Sửa \"%s\""
 
-msgid "Delete all"
-msgstr "Xóa hết"
+msgid "Move to next day"
+msgstr "Chuyển sang ngày hôm sau"
 
 msgid "Dismiss alarm"
 msgstr "Bỏ cảnh báo"
+
+msgid "Delete all"
+msgstr "Xóa hết"
+
+msgid "Delete \"%s\""
+msgstr "Xóa %s"
 
 msgid "Tomorrow"
 msgstr "Ngày mai"
@@ -2371,9 +2440,6 @@ msgstr "Hủy bỏ"
 msgid "Edit..."
 msgstr "Sửa..."
 
-msgid "Move to next day"
-msgstr "Chuyển sang ngày hôm sau"
-
 msgid " (%i days)"
 msgstr "(%i ngày)"
 
@@ -2410,9 +2476,6 @@ msgstr "Ưu tiên thấp"
 msgid "No Priority"
 msgstr "Không có ưu tiên"
 
-msgid "Medium"
-msgstr "Trung bình"
-
 msgid "Expand"
 msgstr "Phát triển"
 
@@ -2439,25 +2502,6 @@ msgstr "Không có sự kiện hôm nay"
 
 msgid "Today's events:"
 msgstr "Các sự kiện hôm nay:"
-
-msgid "Invalid plugins found!"
-msgstr "Phát hiện các plugin không đúng!"
-
-msgid ""
-"The following files in Rainlendar's plugins\n"
-"folder are invalid and should be removed:\n"
-msgstr ""
-"Các tập tin sau trong thư mục plugin của\n"
-"Rainlendar không hoạt động và nên được xóa bỏ:\n"
-
-msgid ""
-"\n"
-"\n"
-"Make sure that all the plugins are from the same Rainlendar version."
-msgstr ""
-"\n"
-"\n"
-"Hãy chắc rằng tất cả plugins đều cùng một phiên bản Rainlendar."
 
 msgid "allow multiple instances"
 msgstr "cho phép nhiều minh dụ"
@@ -2678,26 +2722,24 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Tệp giấy phép trống"
-"Đảm bảo sử dụng url hoàn chỉnh khi tải xuống tệp giấy phép"
+"Tệp giấy phép trốngĐảm bảo sử dụng url hoàn chỉnh khi tải xuống tệp giấy phép"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"Tệp giấy phép không hợp lệ"
-"Bạn đã vượt quá số lần giấy phép có thể được tải xuống"
-"Vui lòng liên hệ với bộ phận hỗ trợ của Rainlendar để biết thêm chi tiết"
+"Tệp giấy phép không hợp lệBạn đã vượt quá số lần giấy phép có thể được tải "
+"xuốngVui lòng liên hệ với bộ phận hỗ trợ của Rainlendar để biết thêm chi tiết"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Tệp giấy phép không có định dạng hợp lệ"
-"Đảm bảo rằng bạn đang sử dụng đúng tệp giấy phép"
-"Bạn cũng có thể thử tải xuống tệp một lần nữa nếu lỗi vẫn tồn tại"
+"Tệp giấy phép không có định dạng hợp lệĐảm bảo rằng bạn đang sử dụng đúng "
+"tệp giấy phépBạn cũng có thể thử tải xuống tệp một lần nữa nếu lỗi vẫn tồn "
+"tại"
 
 msgid "Skin error!"
 msgstr "Lỗi da!"
@@ -3194,6 +3236,13 @@ msgstr "Xác định có bao nhiêu lịch được hiển thị theo chiều d�
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Đặt 0 để giấu tên của các ngày trong tuần từ lịch."
+
+msgid "Day background"
+msgstr "Nền ngày"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Kiểm tra để thêm nền vào số ngày để làm cho chúng dễ dàng hơn để nhấp vào."
 
 msgid "Week View"
 msgstr "Xem theo tuần"
@@ -3845,24 +3894,6 @@ msgstr "Thời tiết"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Nếu chọn thì nhiệt độ được hiện dạng độ C ."
 
-msgid "Bold blue"
-msgstr "[Xanh dương]"
-
-msgid "Turquoise"
-msgstr "ngọc lam"
-
-msgid "Bold green"
-msgstr "[Xanh lá]"
-
-msgid "Bold red"
-msgstr "[Đỏ]"
-
-msgid "Purple"
-msgstr "Tím"
-
-msgid "Gray"
-msgstr "Xám"
-
 msgid "No events today"
 msgstr "Không có sự kiện hôm nay"
 
@@ -3901,9 +3932,6 @@ msgstr "Tối nay"
 
 msgid "Menu"
 msgstr "Biểu tượng menu"
-
-msgid "Large"
-msgstr "Lớn"
 
 msgid "Use large images and more space between the items."
 msgstr "Sử dụng hình ảnh lớn và nhiều không gian hơn giữa các mục."
@@ -4369,11 +4397,29 @@ msgstr "Số lần"
 msgid "Until"
 msgstr "Cho đến khi"
 
-msgid "Debug Window"
-msgstr "Xem bản ghi chú sửa lỗi"
+msgid "Field pages"
+msgstr "Trang trường"
+
+msgid "Start and end:"
+msgstr "Bắt đầu và kết thúc:"
 
 msgid "Sensitivity:"
 msgstr "Mức Nhạy Cảm:"
+
+msgid "Attachment:"
+msgstr "Tệp tin đính kèm:"
+
+msgid "Alarms:"
+msgstr "Các cảnh báo:"
+
+msgid "Debug Window"
+msgstr "Xem bản ghi chú sửa lỗi"
+
+msgid "Common Properties"
+msgstr "Tài sản chung"
+
+msgid "Remove attachment"
+msgstr "Xóa tệp đính kèm"
 
 msgid "All day event"
 msgstr "Tất cả các ngày trong sự kiện"
@@ -4384,8 +4430,20 @@ msgstr "Đánh dấu như thời gian bận rộn"
 msgid "Time zone:"
 msgstr "Giờ:"
 
+msgid "Alarms"
+msgstr "Báo động"
+
+msgid "Add alarm:"
+msgstr "Thêm cảnh báo:"
+
+msgid "Misc"
+msgstr "Các mục khác"
+
 msgid "Calendar:"
 msgstr "Lịch"
+
+msgid "Additional Properties"
+msgstr "Thuộc tính bổ sung"
 
 msgid "Mon"
 msgstr "T2"
@@ -4422,6 +4480,9 @@ msgstr "Ngoại trừ các ngày"
 
 msgid "Add"
 msgstr "Thêm"
+
+msgid "Templates"
+msgstr "Mẫu"
 
 msgid "Show descriptions"
 msgstr "Hiển thị mô tả lịch"
@@ -4521,12 +4582,6 @@ msgstr "Xem trước..."
 
 msgid "Page Setup..."
 msgstr "Thiết lập trang..."
-
-msgid "Todo"
-msgstr "Công việc"
-
-msgid "Date only"
-msgstr "Chỉ đọc"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Comma Separated Values (*.csv)|*.csv"
@@ -4652,15 +4707,8 @@ msgstr ""
 msgid ""
 "Verify also that you are using application specific password for Rainlendar."
 msgstr ""
-"Xa ́ c minh ră ̀ ng ba ̣ n cu ̃ ng đang sư ̉ du ̣ ng mâ ̣ t khâ ̉ u cu ̣ thê ̉ ư ́ ng du"
-" ̣ ng cho Rainlendar."
-
-msgid ""
-"Unable to connect to the server. Make sure your network connection is "
-"working."
-msgstr ""
-"Không thể kết nối đến máy chủ . Hãy chắc chắn rằng kết nối mạng của bạn đang "
-"làm việc."
+"Xa ́ c minh ră ̀ ng ba ̣ n cu ̃ ng đang sư ̉ du ̣ ng mâ ̣ t khâ ̉ u cu ̣ thê ̉ ư ́ ng "
+"du ̣ ng cho Rainlendar."
 
 msgid "The url \"%s\" does not contain any calendars."
 msgstr "Địa chỉ \"%s\"không chứa bất kỳ lịch nào ."
@@ -4693,6 +4741,39 @@ msgstr "kết nối an toàn ( SSL ) đến máy chủ thất bại."
 
 msgid "FALSE"
 msgstr "Lỗi"
+
+msgid "Blueberry"
+msgstr "Việt quất"
+
+msgid "Lavender"
+msgstr "Hoa oải hương"
+
+msgid "Peacock"
+msgstr "Công"
+
+msgid "Sage"
+msgstr "Thánh"
+
+msgid "Basil"
+msgstr "Húng quế"
+
+msgid "Banana"
+msgstr "Quả chuối"
+
+msgid "Tagnerine"
+msgstr "Tagnerine"
+
+msgid "Flamingo"
+msgstr "Hồng hạc"
+
+msgid "Tomato"
+msgstr "Cà chua"
+
+msgid "Grape"
+msgstr "Nho"
+
+msgid "Graphite"
+msgstr "Graphit"
 
 msgid "UID"
 msgstr "UID"
@@ -4974,8 +5055,8 @@ msgid "Office 365"
 msgstr "Microsoft Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Nhập địa chỉ email tài khoản Office 365 của bạn và nhấp vào nút\"Chọn lịch\" "
 "và chọn lịch bạn muốn truy cập"
@@ -5220,6 +5301,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "Không thê ̉ lưu tê ̣ p li ̣ ch va ̀ o thư mu ̣ c Tê ̣ p Chương tri ̀ nh."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Bạn nên di chuyển các tập tin ví dụ như vào thư mục Documents của bạn."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

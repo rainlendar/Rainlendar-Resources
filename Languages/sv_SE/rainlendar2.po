@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-08-10 10:16+0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Johan Palsson <johan@oxyl.net>\n"
 "Language-Team: \n"
@@ -340,6 +340,9 @@ msgstr "Kategori"
 msgid "Recurrence"
 msgstr "Återkommande"
 
+msgid "Next alarm"
+msgstr "Nästa larm"
+
 msgid "Off"
 msgstr "Av"
 
@@ -484,12 +487,6 @@ msgstr "Använd egen kryptering av lösenord"
 msgid "Editor"
 msgstr "Redigeraren"
 
-msgid "Allow multiple calendars"
-msgstr "Tillåt flera kalendrar"
-
-msgid "Allow multiple categories"
-msgstr "Tillåt flera kategorier"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Behåll redigeraren öppen tills skrivning lyckas"
 
@@ -499,8 +496,26 @@ msgstr "Tidsspann i redigeraren"
 msgid "Number of previous locations"
 msgstr "Antal tidigare platser"
 
+msgid "Last used"
+msgstr "Senast använd"
+
+msgid "Frequency"
+msgstr "Frekvens"
+
+msgid "Alphabethical"
+msgstr "Alfabetisk"
+
+msgid "Previous location list order"
+msgstr "Föregående platslistordning"
+
 msgid "Default event duration"
 msgstr "Förvald varaktighet för händelse"
+
+msgid "Customize event editor fields"
+msgstr "Anpassa evenemangsredigeringsfält"
+
+msgid "Customize task editor fields"
+msgstr "Anpassa uppgiftsredigeringsfält"
 
 msgid "Windows"
 msgstr "Fönster"
@@ -558,6 +573,21 @@ msgstr "Teckensnitt"
 
 msgid "Scaling quality"
 msgstr "Skalningskvalitet"
+
+msgid "Tiny"
+msgstr "Liten"
+
+msgid "Small"
+msgstr "Liten"
+
+msgid "Medium"
+msgstr "Normal"
+
+msgid "Large"
+msgstr "Stora"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Skapad miniatyrstorlek för bilagor"
 
 msgid "Network"
 msgstr "Nätverk"
@@ -896,6 +926,9 @@ msgstr "Öppna hjälpmenyn\tCtrl+?"
 msgid "Help"
 msgstr "Hjälp ..."
 
+msgid "Events"
+msgstr "Händelser"
+
 msgid "About"
 msgstr "Om ..."
 
@@ -1115,6 +1148,12 @@ msgstr "Det gick inte att flytta objektet."
 msgid "Choose a directory"
 msgstr "Välj en mapp"
 
+msgid "Customize"
+msgstr "Anpassa"
+
+msgid "Click 'Customize' button"
+msgstr "Klicka på knappen \"Anpassa\""
+
 msgid "Version"
 msgstr "Version:"
 
@@ -1129,9 +1168,6 @@ msgstr "Översättning (%s) av:"
 
 msgid "Licensed to"
 msgstr "Licensierad till:"
-
-msgid "Plugins"
-msgstr "Tillägg:"
 
 msgid "Links"
 msgstr "Länkar:"
@@ -1234,6 +1270,15 @@ msgstr "Du får inte använda snedstreck - / -  i namnet."
 msgid "A category called \"%s\" already exists."
 msgstr "Det finns redan en kategori som heter \"%s\"."
 
+msgid "Additional"
+msgstr "Mer information"
+
+msgid "Delete"
+msgstr "Ta bort"
+
+msgid "OK"
+msgstr "OK"
+
 msgid "Link start and end dates"
 msgstr "Start datum och slut datum"
 
@@ -1300,6 +1345,12 @@ msgid "The original description is in HTML and cannot be edited."
 msgstr "Originalbeskrivningen är i HTML och kan inte redigeras."
 
 msgid ""
+"Tip: You can customize the editor from Options->Advanced->Customize event/"
+"task editor fields."
+msgstr ""
+"Tips: Du kan anpassa redigeraren från Alternativ->Avancerat->Anpassa fält för händelse-/uppgiftsredigerare"
+
+msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
 "you want to store the item."
 msgstr ""
@@ -1336,8 +1387,14 @@ msgstr "Spara &inte"
 msgid "&Cancel"
 msgstr "Avbryt"
 
-msgid "Are you sure you want to delete this item?"
-msgstr "Är det säkert att du vill ta bort denna post?"
+msgid "Are you sure you want to delete the task?"
+msgstr "Är du säker på att du vill radera"
+
+msgid "Are you sure you want to delete the event?"
+msgstr "Är du säker på att du vill radera detta evenemang?"
+
+msgid "Note that all the recurring instances will be deleted."
+msgstr "Observera att alla återkommande instanser kommer att raderas."
 
 msgid "Event"
 msgstr "Händelse"
@@ -1347,12 +1404,6 @@ msgstr "Välj en fil"
 
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "iCalendar-filer (*.ics)|*.ics"
-
-msgid "Select the calendars:"
-msgstr "Välj kalendrar:"
-
-msgid "Select the categories:"
-msgstr "Välj kategori(er):"
 
 msgid "before the event starts."
 msgstr "innan händelsen startar"
@@ -1460,6 +1511,27 @@ msgstr "Välj standardmall ..."
 msgid "Template"
 msgstr "Mall"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Det finns ingen kalender vald som kan hämta bilagan."
+
+msgid "Operation failed."
+msgstr "Åtgärden misslyckades."
+
+msgid "Open"
+msgstr "Öppen"
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Failed to read the attachment."
+msgstr "Det gick inte att spara bilagan."
+
+msgid "Save to a file"
+msgstr "Spara länk till fil"
+
+msgid "Failed to save the attachment."
+msgstr "Det gick inte att spara bilagan."
+
 msgid "Select the day range"
 msgstr "Välj tidsintervall"
 
@@ -1522,9 +1594,6 @@ msgstr "&Nej"
 msgid "Manager"
 msgstr "Ordna händelser och uppgifter"
 
-msgid "Events"
-msgstr "Händelser"
-
 msgid "Tasks"
 msgstr "Att göra"
 
@@ -1542,9 +1611,6 @@ msgstr "Nytt"
 
 msgid "Edit"
 msgstr "Redigera"
-
-msgid "Delete"
-msgstr "Ta bort"
 
 msgid "Copy to"
 msgstr "Kopiera till ..."
@@ -1784,12 +1850,6 @@ msgstr "Återställ lokal kopia"
 msgid "Authenticate"
 msgstr "Autentisera"
 
-msgid "OK"
-msgstr "OK"
-
-msgid "Get more languages..."
-msgstr "Hämta fler språk ..."
-
 msgid "On Top"
 msgstr "Överst"
 
@@ -1799,8 +1859,8 @@ msgstr "Underst"
 msgid "On Desktop"
 msgstr "På Skrivbordet"
 
-msgid "Get more skins..."
-msgstr "Hämta fler skal ..."
+msgid "Select the categories:"
+msgstr "Välj kategori(er):"
 
 msgid "TrayIcon"
 msgstr "Ikon"
@@ -2092,6 +2152,9 @@ msgstr "Lokal"
 msgid "Task"
 msgstr "Att göra"
 
+msgid "Date only"
+msgstr "Endast datum"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr "Förfallodatum måste anges innan återkommande kan definieras."
 
@@ -2283,11 +2346,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "Redigera \"%s\""
 
-msgid "Delete all"
-msgstr "Ta bort alla"
+msgid "Move to next day"
+msgstr "Flytta till nästa dag"
 
 msgid "Dismiss alarm"
 msgstr "avfärda larmet"
+
+msgid "Delete all"
+msgstr "Ta bort alla"
+
+msgid "Delete \"%s\""
+msgstr "Radera %s"
 
 msgid "Tomorrow"
 msgstr "I morgon"
@@ -2349,9 +2418,6 @@ msgstr "Avvisa"
 msgid "Edit..."
 msgstr "Redigera ..."
 
-msgid "Move to next day"
-msgstr "Flytta till nästa dag"
-
 msgid " (%i days)"
 msgstr " (%i dagar)"
 
@@ -2388,9 +2454,6 @@ msgstr "Låg prioritet"
 msgid "No Priority"
 msgstr "Ingen prioritet"
 
-msgid "Medium"
-msgstr "Normal"
-
 msgid "Expand"
 msgstr "Expandera"
 
@@ -2417,25 +2480,6 @@ msgstr "Inga händelser i dag."
 
 msgid "Today's events:"
 msgstr "Dagens händelser:"
-
-msgid "Invalid plugins found!"
-msgstr "Ogiltiga tillägg funna!"
-
-msgid ""
-"The following files in Rainlendar's plugins\n"
-"folder are invalid and should be removed:\n"
-msgstr ""
-"Följande tillägg i Rainlendars tilläggs-\n"
-"mapp är ogiltiga och bör tas bort:\n"
-
-msgid ""
-"\n"
-"\n"
-"Make sure that all the plugins are from the same Rainlendar version."
-msgstr ""
-"\n"
-"\n"
-"Se till att samtliga tillägg är till för samma Rainlendarversion."
 
 msgid "allow multiple instances"
 msgstr "tillåt flera instanser"
@@ -2645,26 +2689,24 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Licensfilen tom"
-"Se till att använda den fullständiga url:en när du laddar ned licensfilen"
+"Licensfilen tomSe till att använda den fullständiga url:en när du laddar ned "
+"licensfilen"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"Licensen är inte giltig!"
-"Du har överskridit antalet gånger licensen kan laddas ner"
-"Kontakta Rainlendars support för mer information"
+"Licensen är inte giltig!Du har överskridit antalet gånger licensen kan "
+"laddas nerKontakta Rainlendars support för mer information"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Licensfilen har inte giltigt format"
-"Kontrollera att du använder rätt licensfil"
-"Du kan också försöka hämta filen igen om felet kvarstår"
+"Licensfilen har inte giltigt formatKontrollera att du använder rätt "
+"licensfilDu kan också försöka hämta filen igen om felet kvarstår"
 
 msgid "Skin error!"
 msgstr "Hudfel!"
@@ -3162,6 +3204,14 @@ msgstr "Bestämmer hur många kalendrar som visas vertikalt i fönstret."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Avmarkera för att dölja dagarnas namn i kalendern."
+
+msgid "Day background"
+msgstr "Dag bakgrund"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Markera för att lägga till bakgrund till dagnummer för att göra dem lättare "
+"att klicka på."
 
 msgid "Week View"
 msgstr "Veckokalender"
@@ -3794,24 +3844,6 @@ msgstr "Väder Celsius"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Om markerad så visas temperaturen i Celsius."
 
-msgid "Bold blue"
-msgstr "Blå fet"
-
-msgid "Turquoise"
-msgstr "Turkos"
-
-msgid "Bold green"
-msgstr "Grön fet"
-
-msgid "Bold red"
-msgstr "Röd fet"
-
-msgid "Purple"
-msgstr "Lila"
-
-msgid "Gray"
-msgstr "Grå"
-
 msgid "No events today"
 msgstr "Inga händelser i dag."
 
@@ -3849,9 +3881,6 @@ msgstr "Ikväll"
 
 msgid "Menu"
 msgstr "Meny"
-
-msgid "Large"
-msgstr "Stora"
 
 msgid "Use large images and more space between the items."
 msgstr "Använd stora bilder och mer utrymme mellan objekten."
@@ -4318,11 +4347,29 @@ msgstr "Antal gånger"
 msgid "Until"
 msgstr "Till"
 
-msgid "Debug Window"
-msgstr "Debug fönster"
+msgid "Field pages"
+msgstr "Fältsidor"
+
+msgid "Start and end:"
+msgstr "Byt start- och slut"
 
 msgid "Sensitivity:"
 msgstr "Känslighet:"
+
+msgid "Attachment:"
+msgstr "Bifogade filer:"
+
+msgid "Alarms:"
+msgstr "Larm:"
+
+msgid "Debug Window"
+msgstr "Debug fönster"
+
+msgid "Common Properties"
+msgstr "Gemensamma egenskaper"
+
+msgid "Remove attachment"
+msgstr "Ta bort bifogad fil"
 
 msgid "All day event"
 msgstr "Heldagshändelse"
@@ -4333,8 +4380,20 @@ msgstr "Visa som upptagen"
 msgid "Time zone:"
 msgstr "Tidszon:"
 
+msgid "Alarms"
+msgstr "Larm"
+
+msgid "Add alarm:"
+msgstr "Lägg till alarm"
+
+msgid "Misc"
+msgstr "Övrigt"
+
 msgid "Calendar:"
 msgstr "Kalender:"
+
+msgid "Additional Properties"
+msgstr "Ytterligare information"
 
 msgid "Mon"
 msgstr "Mån"
@@ -4371,6 +4430,9 @@ msgstr "Undantagna datum"
 
 msgid "Add"
 msgstr "Lägg till"
+
+msgid "Templates"
+msgstr "Sparade svar"
 
 msgid "Show descriptions"
 msgstr "Visa beskrivningar"
@@ -4470,12 +4532,6 @@ msgstr "Förhandsgranska ..."
 
 msgid "Page Setup..."
 msgstr "Utskriftsinställningar ..."
-
-msgid "Todo"
-msgstr "Att göra"
-
-msgid "Date only"
-msgstr "Endast datum"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Kommaseparerade värden (*.csv)|*.csv"
@@ -4589,12 +4645,6 @@ msgid ""
 msgstr ""
 "Kontrollera också att du använder programspecifikt lösenord för Rainlendar."
 
-msgid ""
-"Unable to connect to the server. Make sure your network connection is "
-"working."
-msgstr ""
-"Kan inte ansluta till servern. Kolla att din nätverksanslutning fungerar."
-
 msgid "The url \"%s\" does not contain any calendars."
 msgstr "URL:en \"%s\" innehåller inga kalendrar."
 
@@ -4628,6 +4678,39 @@ msgstr "Säker anslutning (SSL) till servern misslyckades."
 
 msgid "FALSE"
 msgstr "FALSK"
+
+msgid "Blueberry"
+msgstr "Blåbär"
+
+msgid "Lavender"
+msgstr "Lavendel"
+
+msgid "Peacock"
+msgstr "Påfågel"
+
+msgid "Sage"
+msgstr "Salvia"
+
+msgid "Basil"
+msgstr "Basilika"
+
+msgid "Banana"
+msgstr "Banan"
+
+msgid "Tagnerine"
+msgstr "Tagnerin"
+
+msgid "Flamingo"
+msgstr "Flamingo"
+
+msgid "Tomato"
+msgstr "Tomat"
+
+msgid "Grape"
+msgstr "Druva"
+
+msgid "Graphite"
+msgstr "Grafit"
 
 msgid "UID"
 msgstr "UID"
@@ -4893,8 +4976,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Ange e-postadressen för ditt Office 365-konto och klicka på knappen \"Välj "
 "kalender\" och välj den kalender du vill komma åt"
@@ -5141,6 +5224,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "iCalendar-filer (*.ics)|*.ics|vCalender-filer (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "Kalenderfilen kan inte lagras i mappen Programfiler."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Du bör flytta filen t.ex. till mappen Dokument."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

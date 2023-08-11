@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar v2.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-08-10 10:16+0300\n"
 "PO-Revision-Date: 2022-03-18 12:56+0200\n"
 "Last-Translator: Fatur <faturslime@gmail.com>\n"
 "Language-Team: art <art8558>\n"
@@ -340,6 +340,9 @@ msgstr "Kategori"
 msgid "Recurrence"
 msgstr "Pengulangan"
 
+msgid "Next alarm"
+msgstr "Alarm berikutnya"
+
 msgid "Off"
 msgstr "Mati"
 
@@ -484,12 +487,6 @@ msgstr "Gunakan penyandian kata sandi kustom"
 msgid "Editor"
 msgstr "Penyunting"
 
-msgid "Allow multiple calendars"
-msgstr "Izinkan banyak kalender"
-
-msgid "Allow multiple categories"
-msgstr "Izinkan banyak kategori"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Tetap buka editor sampai penulisan berhasil"
 
@@ -499,8 +496,26 @@ msgstr "Rentang waktu pada penyunting"
 msgid "Number of previous locations"
 msgstr "Jumlah dari lokasi sebelumnya"
 
+msgid "Last used"
+msgstr "Terakhir digunakan"
+
+msgid "Frequency"
+msgstr "Frekuensi"
+
+msgid "Alphabethical"
+msgstr "Alfabetis"
+
+msgid "Previous location list order"
+msgstr "Urutan daftar lokasi sebelumnya"
+
 msgid "Default event duration"
 msgstr "Durasi acara default"
+
+msgid "Customize event editor fields"
+msgstr "Sesuaikan bidang penyunting acara"
+
+msgid "Customize task editor fields"
+msgstr "Sesuaikan bidang editor tugas"
 
 msgid "Windows"
 msgstr "Jendela"
@@ -558,6 +573,21 @@ msgstr "Wajah Font"
 
 msgid "Scaling quality"
 msgstr "Kualitas penskalaan"
+
+msgid "Tiny"
+msgstr "Kecil Sekali"
+
+msgid "Small"
+msgstr "Kecil"
+
+msgid "Medium"
+msgstr "Sedang"
+
+msgid "Large"
+msgstr "Besar"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Membuat ukuran thumbnail untuk lampiran"
 
 msgid "Network"
 msgstr "Jaringan"
@@ -897,6 +927,9 @@ msgstr "Buka pertolongan\tCtrl+?"
 msgid "Help"
 msgstr "Bantuan"
 
+msgid "Events"
+msgstr "Acara"
+
 msgid "About"
 msgstr "Tentang"
 
@@ -1116,6 +1149,12 @@ msgstr "Tidak dapat memindahkan item."
 msgid "Choose a directory"
 msgstr "Pilih direktori"
 
+msgid "Customize"
+msgstr "Sesuaikan"
+
+msgid "Click 'Customize' button"
+msgstr "Klik tombol 'Sesuaikan'"
+
 msgid "Version"
 msgstr "Versi"
 
@@ -1130,9 +1169,6 @@ msgstr "Diterjemahkan (%s) oleh"
 
 msgid "Licensed to"
 msgstr "Lisensi diberikan kepada"
-
-msgid "Plugins"
-msgstr "Plugin"
 
 msgid "Links"
 msgstr "Tautan"
@@ -1235,6 +1271,15 @@ msgstr "Tidak diizinkan menggunakan  karakter '/' pada nama."
 msgid "A category called \"%s\" already exists."
 msgstr "Kategori bernama \"%s\" sudah ada."
 
+msgid "Additional"
+msgstr "Tambahan"
+
+msgid "Delete"
+msgstr "Hapus"
+
+msgid "OK"
+msgstr "OK"
+
 msgid "Link start and end dates"
 msgstr "Tautkan tanggal awal dan akhir"
 
@@ -1301,6 +1346,13 @@ msgid "The original description is in HTML and cannot be edited."
 msgstr "Deskripsi asli dalam HTML dan tidak dapat diedit."
 
 msgid ""
+"Tip: You can customize the editor from Options->Advanced->Customize event/"
+"task editor fields."
+msgstr ""
+"Kiat: Anda dapat menyesuaikan editor dari Opsi->Lanjutan->Sesuaikan bidang "
+"editor acara/tugas"
+
+msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
 "you want to store the item."
 msgstr ""
@@ -1337,8 +1389,14 @@ msgstr "&Abaikan"
 msgid "&Cancel"
 msgstr "&Batal"
 
-msgid "Are you sure you want to delete this item?"
-msgstr "Anda yakin ingin menghapus item ini?"
+msgid "Are you sure you want to delete the task?"
+msgstr "Anda yakin ingin menghapus tag?"
+
+msgid "Are you sure you want to delete the event?"
+msgstr "Anda yakin ingin menghapus tag?"
+
+msgid "Note that all the recurring instances will be deleted."
+msgstr "Perhatikan bahwa semua kejadian berulang akan dihapus."
 
 msgid "Event"
 msgstr "Acara"
@@ -1348,12 +1406,6 @@ msgstr "Pilih berkas"
 
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "berkas iCalendar (*.ics)|*.ics"
-
-msgid "Select the calendars:"
-msgstr "Pilih kalender:"
-
-msgid "Select the categories:"
-msgstr "Pilih kategori:"
 
 msgid "before the event starts."
 msgstr "sebelum acara dimulai."
@@ -1462,6 +1514,27 @@ msgstr "Tetapkan template bawaan..."
 msgid "Template"
 msgstr "Template"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Tidak ada kalender yang dipilih yang dapat mengambil lampiran."
+
+msgid "Operation failed."
+msgstr "Operasi gagal"
+
+msgid "Open"
+msgstr "Buka"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "Failed to read the attachment."
+msgstr "Gagal membaca lampiran."
+
+msgid "Save to a file"
+msgstr "Simpan ke berkas"
+
+msgid "Failed to save the attachment."
+msgstr "Gagal menyimpan lampiran."
+
 msgid "Select the day range"
 msgstr "Pilih rentang hari"
 
@@ -1525,9 +1598,6 @@ msgstr "&Tidak"
 msgid "Manager"
 msgstr "Menejer"
 
-msgid "Events"
-msgstr "Acara"
-
 msgid "Tasks"
 msgstr "Tugas"
 
@@ -1545,9 +1615,6 @@ msgstr "Baru"
 
 msgid "Edit"
 msgstr "Sunting"
-
-msgid "Delete"
-msgstr "Hapus"
 
 msgid "Copy to"
 msgstr "Tembusan Kepada:"
@@ -1788,12 +1855,6 @@ msgstr "Atur ulang salinan luring"
 msgid "Authenticate"
 msgstr "Autentikasi"
 
-msgid "OK"
-msgstr "OK"
-
-msgid "Get more languages..."
-msgstr "Dapatkan bahasa lainnya..."
-
 msgid "On Top"
 msgstr "Didepan"
 
@@ -1803,8 +1864,8 @@ msgstr "Dibelakang"
 msgid "On Desktop"
 msgstr "Di Desktop"
 
-msgid "Get more skins..."
-msgstr "Dapatkan tampilan lainnya..."
+msgid "Select the categories:"
+msgstr "Pilih kategori:"
 
 msgid "TrayIcon"
 msgstr "TrayIcon"
@@ -2100,6 +2161,9 @@ msgstr "Lokal"
 msgid "Task"
 msgstr "Tugas"
 
+msgid "Date only"
+msgstr "Hanya tanggal"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr "Tanggal tenggat harus disetel sebelum mengatur perulangan."
 
@@ -2292,11 +2356,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "Sunting \"%s\""
 
-msgid "Delete all"
-msgstr "Hapus semua"
+msgid "Move to next day"
+msgstr "Pindah ke hari berikutnya"
 
 msgid "Dismiss alarm"
 msgstr "Abaikan alarm"
+
+msgid "Delete all"
+msgstr "Hapus semua"
+
+msgid "Delete \"%s\""
+msgstr "Hapus %s"
 
 msgid "Tomorrow"
 msgstr "Besok"
@@ -2358,9 +2428,6 @@ msgstr "Hentikan"
 msgid "Edit..."
 msgstr "Sunting..."
 
-msgid "Move to next day"
-msgstr "Pindah ke hari berikutnya"
-
 msgid " (%i days)"
 msgstr " (%i hari)"
 
@@ -2397,9 +2464,6 @@ msgstr "Prioritas Rendah"
 msgid "No Priority"
 msgstr "Tanpa Prioritas"
 
-msgid "Medium"
-msgstr "Sedang"
-
 msgid "Expand"
 msgstr "Tampilkan"
 
@@ -2426,25 +2490,6 @@ msgstr "Tidak ada acara hari ini."
 
 msgid "Today's events:"
 msgstr "Acara hari ini:"
-
-msgid "Invalid plugins found!"
-msgstr "Plugin tidak sah!"
-
-msgid ""
-"The following files in Rainlendar's plugins\n"
-"folder are invalid and should be removed:\n"
-msgstr ""
-"Berkas berikut dalam map plugin Rainlendar\n"
-"tak sah dan mesti disingkirkan:\n"
-
-msgid ""
-"\n"
-"\n"
-"Make sure that all the plugins are from the same Rainlendar version."
-msgstr ""
-"\n"
-"\n"
-"Pastikan semua plugin dari versi Rainlendar yang sama."
 
 msgid "allow multiple instances"
 msgstr "boleh lebih dari satu salinan"
@@ -2654,26 +2699,25 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Berkas lisensi kosong"
-"Pastikan untuk menggunakan url lengkap saat mengunduh file lisensi"
+"Berkas lisensi kosongPastikan untuk menggunakan url lengkap saat mengunduh "
+"file lisensi"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"File informasi lisensi tidak valid."
-"Anda telah melebihi berapa kali lisensi dapat diunduh"
-"Silakan hubungi dukungan Rainlendar untuk detail lebih lanjut"
+"File informasi lisensi tidak valid.Anda telah melebihi berapa kali lisensi "
+"dapat diunduhSilakan hubungi dukungan Rainlendar untuk detail lebih lanjut"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Berkas lisensi tidak memiliki format yang valid"
-"Pastikan Anda menggunakan file lisensi yang benar"
-"Anda juga dapat mencoba mengunduh file lagi jika kesalahan berlanjut"
+"Berkas lisensi tidak memiliki format yang validPastikan Anda menggunakan "
+"file lisensi yang benarAnda juga dapat mencoba mengunduh file lagi jika "
+"kesalahan berlanjut"
 
 msgid "Skin error!"
 msgstr "Kesalahan kulit!"
@@ -3175,6 +3219,14 @@ msgstr "Tetapkan banyak kalendar yang ditampilkan vertikal pada jendela."
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr ""
 "Buang centang untuk sembunyikan nama hari dalam seminggu dari kalender."
+
+msgid "Day background"
+msgstr "Latar belakang hari"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Periksa untuk menambahkan latar belakang ke nomor hari agar lebih mudah "
+"diklik."
 
 msgid "Week View"
 msgstr "Tampilan Mingguan"
@@ -3807,24 +3859,6 @@ msgstr "Cuaca Celcius"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Jika dicek suhunya ditunjukkan dalam celcius."
 
-msgid "Bold blue"
-msgstr "Biru tebal"
-
-msgid "Turquoise"
-msgstr "Turquoise"
-
-msgid "Bold green"
-msgstr "Hijau tebal"
-
-msgid "Bold red"
-msgstr "Merah tebal"
-
-msgid "Purple"
-msgstr "Ungu"
-
-msgid "Gray"
-msgstr "Kelabu"
-
 msgid "No events today"
 msgstr "Tidak ada acara hari ini"
 
@@ -3862,9 +3896,6 @@ msgstr "malam ini."
 
 msgid "Menu"
 msgstr "Menu"
-
-msgid "Large"
-msgstr "Besar"
 
 msgid "Use large images and more space between the items."
 msgstr "Gunakan gambar besar dan lebih banyak ruang di antara item."
@@ -4330,11 +4361,29 @@ msgstr "Beberapa Kali"
 msgid "Until"
 msgstr "Sampai"
 
-msgid "Debug Window"
-msgstr "Jendela Debug"
+msgid "Field pages"
+msgstr "Halaman bidang"
+
+msgid "Start and end:"
+msgstr "Awal dan akhir:"
 
 msgid "Sensitivity:"
 msgstr "Sensitivitas"
+
+msgid "Attachment:"
+msgstr "Lampiran"
+
+msgid "Alarms:"
+msgstr "Alarm"
+
+msgid "Debug Window"
+msgstr "Jendela Debug"
+
+msgid "Common Properties"
+msgstr "Properti Umum"
+
+msgid "Remove attachment"
+msgstr "Hapus lampiran"
 
 msgid "All day event"
 msgstr "Acara sepanjang hari"
@@ -4345,8 +4394,20 @@ msgstr "Tandai waktu sebagai sibuk"
 msgid "Time zone:"
 msgstr "Zona waktu:"
 
+msgid "Alarms"
+msgstr "Alarm"
+
+msgid "Add alarm:"
+msgstr "Tambahkan alarm:"
+
+msgid "Misc"
+msgstr "Lain-lain"
+
 msgid "Calendar:"
 msgstr "Kalender:"
+
+msgid "Additional Properties"
+msgstr "Properti Tambahan"
 
 msgid "Mon"
 msgstr "Sen"
@@ -4383,6 +4444,9 @@ msgstr "Tanggal pengecualian"
 
 msgid "Add"
 msgstr "Tambah"
+
+msgid "Templates"
+msgstr "Templat"
 
 msgid "Show descriptions"
 msgstr "Tampilkan deskripsi"
@@ -4483,12 +4547,6 @@ msgstr "Pratinjau..."
 
 msgid "Page Setup..."
 msgstr "Set Halaman..."
-
-msgid "Todo"
-msgstr "Tugas"
-
-msgid "Date only"
-msgstr "Hanya tanggal"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Comma Separated Values (*.csv)|*.csv"
@@ -4603,12 +4661,6 @@ msgstr ""
 "Verifikasi juga bahwa Anda menggunakan kata sandi khusus aplikasi untuk "
 "Rainlendar."
 
-msgid ""
-"Unable to connect to the server. Make sure your network connection is "
-"working."
-msgstr ""
-"unable to connect to the serverPastikan koneksi jaringan Anda berfungsi"
-
 msgid "The url \"%s\" does not contain any calendars."
 msgstr "Url \" %s \" tidak berisi kalender apa pun."
 
@@ -4639,6 +4691,39 @@ msgstr "Koneksi aman (SSL) ke server gagal."
 
 msgid "FALSE"
 msgstr "SALAH"
+
+msgid "Blueberry"
+msgstr "Blueberry"
+
+msgid "Lavender"
+msgstr "Lavender"
+
+msgid "Peacock"
+msgstr "Peacock"
+
+msgid "Sage"
+msgstr "Sage"
+
+msgid "Basil"
+msgstr "Basil"
+
+msgid "Banana"
+msgstr "Pisang"
+
+msgid "Tagnerine"
+msgstr "Tagnerine"
+
+msgid "Flamingo"
+msgstr "Burung Flamingo"
+
+msgid "Tomato"
+msgstr "Tomat"
+
+msgid "Grape"
+msgstr "Anggur"
+
+msgid "Graphite"
+msgstr "Grafit"
 
 msgid "UID"
 msgstr "UID"
@@ -4899,8 +4984,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Masukkan alamat email akun Office 365 Anda dan klik tombol \" Pilih kalender "
 "\" dan pilih kalender yang ingin Anda akses"
@@ -5145,6 +5230,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "berkas iCalendar (*.ics)|*.ics|Berkas vCalendar (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "File kalender tidak dapat disimpan ke folder Program Files."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Anda harus memindahkan file misalnya ke folder Dokumen Anda."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

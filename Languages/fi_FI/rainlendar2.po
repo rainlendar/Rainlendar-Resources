@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
-"PO-Revision-Date: 2021-09-18 18:00+0300\n"
+"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"PO-Revision-Date: 2023-08-10 10:34+0300\n"
 "Last-Translator: Kimmo Pekkola <rainy@rainlendar.net>\n"
 "Language-Team: Rainy <rainy@iki.fi>\n"
 "Language: fi_FI\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
 "X-Poedit-Basepath: D:/Projects/Rainlendar2.1\n"
-"X-Generator: Poedit 2.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 "X-Poedit-SearchPath-0: Application\n"
 "X-Poedit-SearchPath-1: Plugins\n"
 "X-Poedit-SearchPath-2: Testbench/Debug/resources\n"
@@ -345,6 +345,9 @@ msgstr "Kategoria"
 msgid "Recurrence"
 msgstr "Toisto"
 
+msgid "Next alarm"
+msgstr "Seuraava hälytys"
+
 msgid "Off"
 msgstr "Pois päältä"
 
@@ -489,12 +492,6 @@ msgstr "Käytä omaa salasanan salausta"
 msgid "Editor"
 msgstr "Editori"
 
-msgid "Allow multiple calendars"
-msgstr "Salli useat kalenterit"
-
-msgid "Allow multiple categories"
-msgstr "Salli useat kategoriat"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Pidä editori avoinna kunnes tallennus on onnistunut"
 
@@ -504,8 +501,26 @@ msgstr "Aikaväli editorissa"
 msgid "Number of previous locations"
 msgstr "Edellisten sijaintien lukumäärä"
 
+msgid "Last used"
+msgstr "Viimeksi käytetty"
+
+msgid "Frequency"
+msgstr "Taajuus"
+
+msgid "Alphabethical"
+msgstr "Aakkosellinen"
+
+msgid "Previous location list order"
+msgstr "Sijaintiluettelon järjestys"
+
 msgid "Default event duration"
 msgstr "Tapahtumien oletuspituus"
+
+msgid "Customize event editor fields"
+msgstr "Muokkaa tapahtumaeditorin kenttiä"
+
+msgid "Customize task editor fields"
+msgstr "Muokkaa tehtäväeditorin kenttiä"
 
 msgid "Windows"
 msgstr "Ikkunat"
@@ -563,6 +578,21 @@ msgstr "Kirjaisin"
 
 msgid "Scaling quality"
 msgstr "Skaaluksen laatu"
+
+msgid "Tiny"
+msgstr "Todella pieni"
+
+msgid "Small"
+msgstr "Pieni"
+
+msgid "Medium"
+msgstr "Keski"
+
+msgid "Large"
+msgstr "Suuri"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Pienoiskuvan koko liitetiedostoille"
 
 msgid "Network"
 msgstr "Verkkoyhteys"
@@ -902,6 +932,9 @@ msgstr "Avaa ohje\tCtrl+?"
 msgid "Help"
 msgstr "Ohjeet"
 
+msgid "Events"
+msgstr "Tapahtumat"
+
 msgid "About"
 msgstr "Tiedot"
 
@@ -1121,6 +1154,12 @@ msgstr "Tapahtuman siirto epäonnistui."
 msgid "Choose a directory"
 msgstr "Valitse hakemisto"
 
+msgid "Customize"
+msgstr "Mukautus"
+
+msgid "Click 'Customize' button"
+msgstr "Napsauta Mukauta-painiketta."
+
 msgid "Version"
 msgstr "Versio"
 
@@ -1135,9 +1174,6 @@ msgstr "Käännös (%s):"
 
 msgid "Licensed to"
 msgstr "Lisensoitu"
-
-msgid "Plugins"
-msgstr "Laajennukset"
 
 msgid "Links"
 msgstr "Linkit"
@@ -1240,6 +1276,15 @@ msgstr "'/'-merkin käyttäminen nimessä on kiellettyä."
 msgid "A category called \"%s\" already exists."
 msgstr "Kategoria \"%s\" on jo olemassa."
 
+msgid "Additional"
+msgstr "Lisätiedot"
+
+msgid "Delete"
+msgstr "Poista"
+
+msgid "OK"
+msgstr "OK"
+
 msgid "Link start and end dates"
 msgstr "Lukitse alku- ja loppupäivämäärät"
 
@@ -1304,6 +1349,13 @@ msgid "The original description is in HTML and cannot be edited."
 msgstr "Alkuperäinen teksti on HTML muodossa eikä sitä voi editoida."
 
 msgid ""
+"Tip: You can customize the editor from Options->Advanced->Customize event/"
+"task editor fields."
+msgstr ""
+"Vinkki: Voit muokata editoria kohdasta Asetukset-> Lisäasetukset- >Muokkaa "
+"tapahtuma-/tehtäväeditorikenttiä"
+
+msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
 "you want to store the item."
 msgstr ""
@@ -1340,8 +1392,14 @@ msgstr "&Poista"
 msgid "&Cancel"
 msgstr "&Peruuta"
 
-msgid "Are you sure you want to delete this item?"
-msgstr "Haluatko poistaa tämän tapahtuman?"
+msgid "Are you sure you want to delete the task?"
+msgstr "Haluatko varmasti poistaa tapahtuman?"
+
+msgid "Are you sure you want to delete the event?"
+msgstr "Haluatko varmasti poistaa tämän tapahtuman?"
+
+msgid "Note that all the recurring instances will be deleted."
+msgstr "Huomaa, että kaikki toistuvat esiintymät poistetaan."
 
 msgid "Event"
 msgstr "Tapahtuma"
@@ -1351,12 +1409,6 @@ msgstr "Valitse tiedosto"
 
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "iCalendar tiedostot (*.ics)|*.ics"
-
-msgid "Select the calendars:"
-msgstr "Valitse kalenterit:"
-
-msgid "Select the categories:"
-msgstr "Valitse kategoriat:"
 
 msgid "before the event starts."
 msgstr "ennen tapahtumaa."
@@ -1465,6 +1517,27 @@ msgstr "Aseta oletus malliksi..."
 msgid "Template"
 msgstr "Mallit"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Ei ole valittua kalenteria, joka voisi noutaa liitteen."
+
+msgid "Operation failed."
+msgstr "Toiminto epäonnistui."
+
+msgid "Open"
+msgstr "Julkaistu"
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Failed to read the attachment."
+msgstr "Liitteen lukeminen epäonnistui."
+
+msgid "Save to a file"
+msgstr "Tallenna tiedostoon"
+
+msgid "Failed to save the attachment."
+msgstr "Liitteen tallennus epäonnistui."
+
 msgid "Select the day range"
 msgstr "Valitse ajanjakso"
 
@@ -1527,9 +1600,6 @@ msgstr "&Ei"
 msgid "Manager"
 msgstr "Hallinta"
 
-msgid "Events"
-msgstr "Tapahtumat"
-
 msgid "Tasks"
 msgstr "Tehtävät"
 
@@ -1547,9 +1617,6 @@ msgstr "Uusi"
 
 msgid "Edit"
 msgstr "Editoi"
-
-msgid "Delete"
-msgstr "Poista"
 
 msgid "Copy to"
 msgstr "Kopioi"
@@ -1788,12 +1855,6 @@ msgstr "Alusta paikallinen kopio"
 msgid "Authenticate"
 msgstr "Tunnistus"
 
-msgid "OK"
-msgstr "OK"
-
-msgid "Get more languages..."
-msgstr "Hae lisää kieliä..."
-
 msgid "On Top"
 msgstr "Päällimmäinen"
 
@@ -1803,8 +1864,8 @@ msgstr "Pohjimmainen"
 msgid "On Desktop"
 msgstr "Työpöydällä"
 
-msgid "Get more skins..."
-msgstr "Hae lisää skinejä..."
+msgid "Select the categories:"
+msgstr "Valitse kategoriat:"
 
 msgid "TrayIcon"
 msgstr "Ilmoitusalueen kuvake"
@@ -2101,6 +2162,9 @@ msgstr "Paikallinen"
 msgid "Task"
 msgstr "Tehtävä"
 
+msgid "Date only"
+msgstr "Vain päivämäärä"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr "Erääntymispäivä pitää määritellä ennen kuin toisto on mahdollinen."
 
@@ -2293,11 +2357,17 @@ msgstr "Vierityslukko"
 msgid "Edit \"%s\""
 msgstr "Editoi \"%s\""
 
-msgid "Delete all"
-msgstr "Poista kaikki"
+msgid "Move to next day"
+msgstr "Siirrä seuraavalle päivälle"
 
 msgid "Dismiss alarm"
 msgstr "Kuittaa hälytys"
+
+msgid "Delete all"
+msgstr "Poista kaikki"
+
+msgid "Delete \"%s\""
+msgstr "Poista %s"
 
 msgid "Tomorrow"
 msgstr "Huomenna"
@@ -2359,9 +2429,6 @@ msgstr "Kuittaa"
 msgid "Edit..."
 msgstr "Editoi..."
 
-msgid "Move to next day"
-msgstr "Siirrä seuraavalle päivälle"
-
 msgid " (%i days)"
 msgstr " (%i päivää)"
 
@@ -2398,9 +2465,6 @@ msgstr "Alhainen prioriteetti"
 msgid "No Priority"
 msgstr "Ei prioriteettia"
 
-msgid "Medium"
-msgstr "Keski"
-
 msgid "Expand"
 msgstr "Laajenna"
 
@@ -2427,25 +2491,6 @@ msgstr "Ei tapahtumia tänään."
 
 msgid "Today's events:"
 msgstr "Tapahtumat tänään:"
-
-msgid "Invalid plugins found!"
-msgstr "Virheellisiä laajennuksia löytyi!"
-
-msgid ""
-"The following files in Rainlendar's plugins\n"
-"folder are invalid and should be removed:\n"
-msgstr ""
-"Seuraavat tiedostot Rainlendarin plugins-hakemistossa\n"
-"ovat virheellisiä ja ne tulisi poistaa:\n"
-
-msgid ""
-"\n"
-"\n"
-"Make sure that all the plugins are from the same Rainlendar version."
-msgstr ""
-"\n"
-"\n"
-"Varmista että kaikki laajennukset ovat samasta Rainlendarin versiosta."
 
 msgid "allow multiple instances"
 msgstr "salli useat instanssit"
@@ -3175,6 +3220,12 @@ msgstr "Määrittele kuinka monta kalenteria näytetään pystysuoraan."
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Poista valinta piilottaaksesi viikonpäivien nimet kalenterista."
 
+msgid "Day background"
+msgstr "Päivätausta"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr "Lisää taustaa päivien numeroihin, jotta niitä on helpompi napsauttaa."
+
 msgid "Week View"
 msgstr "Viikkonäkymä"
 
@@ -3808,24 +3859,6 @@ msgstr "Näytä celsius asteina"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Jos valittu niin lämpötila näytetään Celsius asteina."
 
-msgid "Bold blue"
-msgstr "Tummansininen"
-
-msgid "Turquoise"
-msgstr "Turkoosi"
-
-msgid "Bold green"
-msgstr "Tummanvihreä"
-
-msgid "Bold red"
-msgstr "Tummanpunainen"
-
-msgid "Purple"
-msgstr "Purppura"
-
-msgid "Gray"
-msgstr "Harmaa"
-
 msgid "No events today"
 msgstr "Ei tapahtumia tänään"
 
@@ -3864,9 +3897,6 @@ msgstr "Tänään"
 
 msgid "Menu"
 msgstr "Menu"
-
-msgid "Large"
-msgstr "Suuri"
 
 msgid "Use large images and more space between the items."
 msgstr "Käytä suuria kuvia ja lisää välejä elementtien välille."
@@ -4331,11 +4361,29 @@ msgstr "Kertojen määrä"
 msgid "Until"
 msgstr "Asti"
 
-msgid "Debug Window"
-msgstr "Debuggaus ikkuna"
+msgid "Field pages"
+msgstr "Kentät"
+
+msgid "Start and end:"
+msgstr "Alku ja loppu:"
 
 msgid "Sensitivity:"
 msgstr "Näkyvyys:"
+
+msgid "Attachment:"
+msgstr "Liitetiedostot:"
+
+msgid "Alarms:"
+msgstr "Hälytykset:"
+
+msgid "Debug Window"
+msgstr "Debuggaus ikkuna"
+
+msgid "Common Properties"
+msgstr "Yleiset asetukset"
+
+msgid "Remove attachment"
+msgstr "Poista liite"
 
 msgid "All day event"
 msgstr "Kokopäiväinen"
@@ -4346,8 +4394,20 @@ msgstr "Merkkaa aika varatuksi"
 msgid "Time zone:"
 msgstr "Aikavyöhyke:"
 
+msgid "Alarms"
+msgstr "Hälytykset"
+
+msgid "Add alarm:"
+msgstr "Lisää hälytys:"
+
+msgid "Misc"
+msgstr "Sekal"
+
 msgid "Calendar:"
 msgstr "Kalenteri:"
+
+msgid "Additional Properties"
+msgstr "Lisäominaisuudet"
 
 msgid "Mon"
 msgstr "Ma"
@@ -4384,6 +4444,9 @@ msgstr "Poikkeukset"
 
 msgid "Add"
 msgstr "Lisää"
+
+msgid "Templates"
+msgstr "Mallit"
 
 msgid "Show descriptions"
 msgstr "Näytä yksityiskohdat"
@@ -4484,12 +4547,6 @@ msgstr "Esikatselu..."
 msgid "Page Setup..."
 msgstr "Sivun asetukset..."
 
-msgid "Todo"
-msgstr "Tehtävä"
-
-msgid "Date only"
-msgstr "Vain päivämäärä"
-
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Pilkulla erotetut arvot (*.csv)|*.csv"
 
@@ -4541,8 +4598,8 @@ msgid ""
 "\n"
 "The username and password fields can be left empty if they are not needed."
 msgstr ""
-"Valitse URL, käyttäjä ja salasana kalenterille ja paina \"valitse kalenteri"
-"\" nappia.\n"
+"Valitse URL, käyttäjä ja salasana kalenterille ja paina \"valitse "
+"kalenteri\" nappia.\n"
 "\n"
 "Käyttäjän ja salasanan voi jättää tyhjäksi jos niitä ei tarvita."
 
@@ -4600,12 +4657,6 @@ msgid ""
 "Verify also that you are using application specific password for Rainlendar."
 msgstr "Varmista että käytät sovelluskohtaista salasanaa Rainlendarin kanssa."
 
-msgid ""
-"Unable to connect to the server. Make sure your network connection is "
-"working."
-msgstr ""
-"Yhteydenotto palvelimeen epäonnistui. Varmista että yhteytesi on toiminnassa."
-
 msgid "The url \"%s\" does not contain any calendars."
 msgstr "Osoitteessa \"%s\" ei ole kalentereita."
 
@@ -4640,6 +4691,39 @@ msgstr "Varmennettu (SSL) yhteydenotto palvelimelle epäonnistui."
 
 msgid "FALSE"
 msgstr "FALSE"
+
+msgid "Blueberry"
+msgstr "Mustikka"
+
+msgid "Lavender"
+msgstr "Laventeli"
+
+msgid "Peacock"
+msgstr "Peacockstar name"
+
+msgid "Sage"
+msgstr "Salvia"
+
+msgid "Basil"
+msgstr "Basilika"
+
+msgid "Banana"
+msgstr "Banaani"
+
+msgid "Tagnerine"
+msgstr "Tagneriini"
+
+msgid "Flamingo"
+msgstr "Viestinhallinta"
+
+msgid "Tomato"
+msgstr "Tomaatti"
+
+msgid "Grape"
+msgstr "Viinirypäle"
+
+msgid "Graphite"
+msgstr "Grafiitti"
 
 msgid "UID"
 msgstr "UID"
@@ -4900,8 +4984,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Anna Office365 tilisi sähköpostiosoitteesi ja paina \"Valitse kalenteri\" "
 "nappia ja valitse haluamasi kalenteri."
@@ -5150,6 +5234,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "iCalendar tiedostot (*.ics)|*.ics|vCalendar tiedostot (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "Kalenteritiedostoa ei voi tallentaa Ohjelmatiedostot-kansioon."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Siirrä tiedosto esim. Asiakirjat-kansioon."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

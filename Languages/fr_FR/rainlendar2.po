@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
-"PO-Revision-Date: 2021-09-29 18:44+0200\n"
+"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"PO-Revision-Date: 2023-08-10 10:38+0300\n"
 "Last-Translator: Lou <loulou8@free.fr>\n"
 "Language-Team: Lou <loulou8@free.fr>\n"
 "Language: fr_FR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Basepath: C:/Projects/Rainlendar2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgid ""
 "Rainlendar is unable to start the HTTP server to receive the OAuth response. "
@@ -343,6 +343,9 @@ msgstr "Catégorie"
 msgid "Recurrence"
 msgstr "Répétition"
 
+msgid "Next alarm"
+msgstr "Alarme suivante"
+
 msgid "Off"
 msgstr "Désactivée"
 
@@ -487,12 +490,6 @@ msgstr "Utilisez le cryptage personnalisé du mot de passe"
 msgid "Editor"
 msgstr "Editeur"
 
-msgid "Allow multiple calendars"
-msgstr "Permettre plusieurs calendriers"
-
-msgid "Allow multiple categories"
-msgstr "Autoriser plusieurs catégories"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Garder l'éditeur ouvert jusqu'à succès de l'écriture"
 
@@ -502,8 +499,26 @@ msgstr "Délai dans l'éditeur"
 msgid "Number of previous locations"
 msgstr "Nombre d'emplacements précédents"
 
+msgid "Last used"
+msgstr "Dernières utilisées"
+
+msgid "Frequency"
+msgstr "Fréquence"
+
+msgid "Alphabethical"
+msgstr "Alphabethical"
+
+msgid "Previous location list order"
+msgstr "Ordre de la liste d'emplacements précédente"
+
 msgid "Default event duration"
 msgstr "Durée de l'événement par défaut"
+
+msgid "Customize event editor fields"
+msgstr "Personnaliser les champs événement"
+
+msgid "Customize task editor fields"
+msgstr "Personnaliser les champs de l'éditeur de tâches"
 
 msgid "Windows"
 msgstr "Fenêtres"
@@ -561,6 +576,21 @@ msgstr "Police utiliser"
 
 msgid "Scaling quality"
 msgstr "Qualité Mise à l'échelle (Scaling)"
+
+msgid "Tiny"
+msgstr "Petit"
+
+msgid "Small"
+msgstr "Petit"
+
+msgid "Medium"
+msgstr "Moyenne"
+
+msgid "Large"
+msgstr "Grand"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Taille de vignette créée pour les pièces jointes"
 
 msgid "Network"
 msgstr "Réseau"
@@ -899,6 +929,9 @@ msgstr "Ouvrir l'aide\tCtrl+?"
 msgid "Help"
 msgstr "Aide"
 
+msgid "Events"
+msgstr "Évènements"
+
 msgid "About"
 msgstr "À propos"
 
@@ -1118,6 +1151,12 @@ msgstr "Impossible de déplacer l'élément."
 msgid "Choose a directory"
 msgstr "Choisir un répertoire"
 
+msgid "Customize"
+msgstr "Personnaliser"
+
+msgid "Click 'Customize' button"
+msgstr "Cliquez sur le bouton Personnaliser ."
+
 msgid "Version"
 msgstr "Version"
 
@@ -1132,9 +1171,6 @@ msgstr "(%s) Traduit par :"
 
 msgid "Licensed to"
 msgstr "Licence accordée à :"
-
-msgid "Plugins"
-msgstr "Plugins (Module d'extension) :"
 
 msgid "Links"
 msgstr "Liens :"
@@ -1237,6 +1273,15 @@ msgstr "Vous ne pouvez pas utiliser le caractère '/' dans le nom de fichier."
 msgid "A category called \"%s\" already exists."
 msgstr "Une catégorie nommée \"%s\" existe déjà."
 
+msgid "Additional"
+msgstr "Autres"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "OK"
+msgstr "OK"
+
 msgid "Link start and end dates"
 msgstr "Lier les dates de début et de fin"
 
@@ -1305,6 +1350,13 @@ msgid "The original description is in HTML and cannot be edited."
 msgstr "La description originale est en HTML et ne peut pas être modifiée."
 
 msgid ""
+"Tip: You can customize the editor from Options->Advanced->Customize event/"
+"task editor fields."
+msgstr ""
+"Conseil : Vous pouvez personnaliser l'éditeur à partir des champs Options-"
+">Avancé->Personnaliser l'éditeur d'événements/tâches"
+
+msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
 "you want to store the item."
 msgstr ""
@@ -1342,8 +1394,14 @@ msgstr "&Ignorer"
 msgid "&Cancel"
 msgstr "&Annuler"
 
-msgid "Are you sure you want to delete this item?"
-msgstr "Voulez-vous vraiment supprimer cet élément ?"
+msgid "Are you sure you want to delete the task?"
+msgstr "Êtes-vous sûr de vouloir supprimer?"
+
+msgid "Are you sure you want to delete the event?"
+msgstr "Voulez-vous vraiment supprimer l’événement ?"
+
+msgid "Note that all the recurring instances will be deleted."
+msgstr "Notez que toutes les instances récurrentes seront supprimées."
 
 msgid "Event"
 msgstr "Évènement"
@@ -1353,12 +1411,6 @@ msgstr "Choisir un fichier"
 
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "Fichiers iCalendar (*.ics)|*.ics"
-
-msgid "Select the calendars:"
-msgstr "Sélectionner les calendriers :"
-
-msgid "Select the categories:"
-msgstr "Sélectionner les catégories :"
 
 msgid "before the event starts."
 msgstr "avant le début de l'évènement."
@@ -1468,6 +1520,28 @@ msgstr "Sélectionner le modèle par défaut..."
 msgid "Template"
 msgstr "Modèle"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr ""
+"Il n'y a pas de calendrier sélectionné qui peut récupérer la pièce jointe."
+
+msgid "Operation failed."
+msgstr "Opération échouée."
+
+msgid "Open"
+msgstr "Ouvrir"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Failed to read the attachment."
+msgstr "Échec de l'enregistrement de la pièce jointe."
+
+msgid "Save to a file"
+msgstr "Les sauvegarder dans un fichier"
+
+msgid "Failed to save the attachment."
+msgstr "Échec de l'enregistrement de la pièce jointe."
+
 msgid "Select the day range"
 msgstr "Choisir la plage journalière"
 
@@ -1531,9 +1605,6 @@ msgstr "&Non"
 msgid "Manager"
 msgstr "Gestionnaire"
 
-msgid "Events"
-msgstr "Évènements"
-
 msgid "Tasks"
 msgstr "Tâche"
 
@@ -1551,9 +1622,6 @@ msgstr "Nouveau"
 
 msgid "Edit"
 msgstr "Modifier"
-
-msgid "Delete"
-msgstr "Supprimer"
 
 msgid "Copy to"
 msgstr "Copier"
@@ -1793,12 +1861,6 @@ msgstr "Réinitialiser copie hors connexion"
 msgid "Authenticate"
 msgstr "Authentification"
 
-msgid "OK"
-msgstr "OK"
-
-msgid "Get more languages..."
-msgstr "Obtenir plus de langues..."
-
 msgid "On Top"
 msgstr "Au-dessus"
 
@@ -1808,8 +1870,8 @@ msgstr "En-dessous"
 msgid "On Desktop"
 msgstr "Sur le bureau"
 
-msgid "Get more skins..."
-msgstr "Obtenir plus d'habillages (Skins)..."
+msgid "Select the categories:"
+msgstr "Sélectionner les catégories :"
 
 msgid "TrayIcon"
 msgstr "Icône de notification"
@@ -2109,6 +2171,9 @@ msgstr "Local"
 msgid "Task"
 msgstr "Tâche"
 
+msgid "Date only"
+msgstr "Seulement la date"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr ""
 "La date d'expiration doit être mise avant que la répétition ne peut être "
@@ -2307,11 +2372,17 @@ msgstr "Arrêt Défil"
 msgid "Edit \"%s\""
 msgstr "Modifier \"%s\""
 
-msgid "Delete all"
-msgstr "Tout supprimer"
+msgid "Move to next day"
+msgstr "Déplacer vers lendemain"
 
 msgid "Dismiss alarm"
 msgstr "Rejeter alarme"
+
+msgid "Delete all"
+msgstr "Tout supprimer"
+
+msgid "Delete \"%s\""
+msgstr "Supprimer %s"
 
 msgid "Tomorrow"
 msgstr "Demain"
@@ -2373,9 +2444,6 @@ msgstr "Arréter"
 msgid "Edit..."
 msgstr "Modifier..."
 
-msgid "Move to next day"
-msgstr "Déplacer vers lendemain"
-
 msgid " (%i days)"
 msgstr " (%i jours)"
 
@@ -2412,9 +2480,6 @@ msgstr "Basse priorité"
 msgid "No Priority"
 msgstr "Pas de priorité"
 
-msgid "Medium"
-msgstr "Moyenne"
-
 msgid "Expand"
 msgstr "Augmenter"
 
@@ -2441,26 +2506,6 @@ msgstr "Pas d'évènement aujourd'hui."
 
 msgid "Today's events:"
 msgstr "Évènements du jour :"
-
-msgid "Invalid plugins found!"
-msgstr "Plugiciels invalides trouvés !"
-
-msgid ""
-"The following files in Rainlendar's plugins\n"
-"folder are invalid and should be removed:\n"
-msgstr ""
-"Les fichiers suivants dans le répertoire de plugiciels de\n"
-"Rainlendar sont invalides et doivent être supprimés.\n"
-
-msgid ""
-"\n"
-"\n"
-"Make sure that all the plugins are from the same Rainlendar version."
-msgstr ""
-"\n"
-"\n"
-"Assurez-vous que tous les plugiciels correspondent bien à la même version de "
-"Rainlendar."
 
 msgid "allow multiple instances"
 msgstr "permettre plusieurs instances"
@@ -2677,26 +2722,26 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Le fichier de licence vide"
-"Assurez-vous d’utiliser l’URL complète lors du téléchargement du fichier de licence"
+"Le fichier de licence videAssurez-vous d’utiliser l’URL complète lors du "
+"téléchargement du fichier de licence"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"La licence n’est pas valide."
-"Vous avez dépassé le nombre de fois que la licence peut être téléchargée"
-"Veuillez contacter le support de Rainlendar pour plus de détails"
+"La licence n’est pas valide.Vous avez dépassé le nombre de fois que la "
+"licence peut être téléchargéeVeuillez contacter le support de Rainlendar "
+"pour plus de détails"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Le fichier de licence n’a pas de format valide"
-"Assurez-vous que vous utilisez le bon fichier de licence"
-"Vous pouvez également réessayer de télécharger le fichier si l’erreur persiste"
+"Le fichier de licence n’a pas de format valideAssurez-vous que vous utilisez "
+"le bon fichier de licenceVous pouvez également réessayer de télécharger le "
+"fichier si l’erreur persiste"
 
 msgid "Skin error!"
 msgstr "Erreur de la peau !"
@@ -3199,6 +3244,14 @@ msgstr ""
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Décocher pour cacher les noms des jours de semaine dans le calendrier."
+
+msgid "Day background"
+msgstr "Contexte de la journée"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Cochez pour ajouter l'arrière-plan aux numéros de jour pour les rendre plus "
+"faciles à cliquer."
 
 msgid "Week View"
 msgstr "Vue hebdomadaire"
@@ -3847,24 +3900,6 @@ msgstr "Météo celsius"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Si coché la température est affichée en degrés Celsius."
 
-msgid "Bold blue"
-msgstr "Bleu azur"
-
-msgid "Turquoise"
-msgstr "Turquoise"
-
-msgid "Bold green"
-msgstr "Vert vif"
-
-msgid "Bold red"
-msgstr "Rouge vif"
-
-msgid "Purple"
-msgstr "Violet"
-
-msgid "Gray"
-msgstr "Gris"
-
 msgid "No events today"
 msgstr "Pas d'évènement aujourd'hui"
 
@@ -3902,9 +3937,6 @@ msgstr "Ce soir"
 
 msgid "Menu"
 msgstr "Menu"
-
-msgid "Large"
-msgstr "Grand"
 
 msgid "Use large images and more space between the items."
 msgstr "Utilisez de grandes images et plus d'espace entre les éléments."
@@ -4376,11 +4408,29 @@ msgstr "Nombre de fois"
 msgid "Until"
 msgstr "Jusqu'à"
 
-msgid "Debug Window"
-msgstr "Fenêtre de débogage"
+msgid "Field pages"
+msgstr "Pages de champ"
+
+msgid "Start and end:"
+msgstr "Début et fin:"
 
 msgid "Sensitivity:"
 msgstr "Tact :"
+
+msgid "Attachment:"
+msgstr "Pièce Jointe:"
+
+msgid "Alarms:"
+msgstr "Alarmes:"
+
+msgid "Debug Window"
+msgstr "Fenêtre de débogage"
+
+msgid "Common Properties"
+msgstr "Propriétés communes"
+
+msgid "Remove attachment"
+msgstr "Retirer le média"
 
 msgid "All day event"
 msgstr "Evénements de ce jour"
@@ -4391,8 +4441,20 @@ msgstr "Marquer comme occupé"
 msgid "Time zone:"
 msgstr "Fuseau horaire :"
 
+msgid "Alarms"
+msgstr "Alarmes"
+
+msgid "Add alarm:"
+msgstr "Ajouter une alarme"
+
+msgid "Misc"
+msgstr "Divers"
+
 msgid "Calendar:"
 msgstr "Calendrier :"
+
+msgid "Additional Properties"
+msgstr "Propriétés supplémentaires"
 
 msgid "Mon"
 msgstr "Lun"
@@ -4429,6 +4491,9 @@ msgstr "Dates d'exceptions"
 
 msgid "Add"
 msgstr "Ajouter"
+
+msgid "Templates"
+msgstr "Modèles"
 
 msgid "Show descriptions"
 msgstr "Afficher la description"
@@ -4528,12 +4593,6 @@ msgstr "Aperçu..."
 
 msgid "Page Setup..."
 msgstr "Mise en page..."
-
-msgid "Todo"
-msgstr "Tâche"
-
-msgid "Date only"
-msgstr "Seulement la date"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Valeurs séparées par des virgules (*.csv)|*.csv"
@@ -4649,13 +4708,6 @@ msgstr ""
 "Vérifiez également que vous utilisez un mot de passe spécifique à "
 "l'application pour Rainlendar."
 
-msgid ""
-"Unable to connect to the server. Make sure your network connection is "
-"working."
-msgstr ""
-"Incapable de se connecter au serveur. Assurez-vous que votre connexion "
-"réseau est active."
-
 msgid "The url \"%s\" does not contain any calendars."
 msgstr "L'url \"%s\" ne contient pas de calendriers."
 
@@ -4690,6 +4742,39 @@ msgstr "Connexion sécurisée (SSL) au serveur a échoué."
 
 msgid "FALSE"
 msgstr "FAUX"
+
+msgid "Blueberry"
+msgstr "Myrtille"
+
+msgid "Lavender"
+msgstr "Lavande"
+
+msgid "Peacock"
+msgstr "Paon"
+
+msgid "Sage"
+msgstr "Sauge"
+
+msgid "Basil"
+msgstr "Basilic"
+
+msgid "Banana"
+msgstr "Banane"
+
+msgid "Tagnerine"
+msgstr "Tagnérine"
+
+msgid "Flamingo"
+msgstr "Flamant rose"
+
+msgid "Tomato"
+msgstr "Tomate"
+
+msgid "Grape"
+msgstr "Cépage"
+
+msgid "Graphite"
+msgstr "Graphite"
 
 msgid "UID"
 msgstr "Utilisateur IDentifiant (UID)"
@@ -4956,8 +5041,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Entrez votre adresse e-mail du compte Office 365 et cliquez sur le bouton "
 "\"Sélectionnez le calendrier\" et choisissez le calendrier que vous "
@@ -5118,9 +5203,9 @@ msgid ""
 "Your default web browser will open automatically when you click the OK "
 "button."
 msgstr ""
-"Vous devez autoriser Rainlendar à accéder à votre compte \"Remember The Milk"
-"\". Merci de vous authentifier sur le site \"Remember The Milk\" et de lui "
-"donner les permissions d'accès à votre compte.\n"
+"Vous devez autoriser Rainlendar à accéder à votre compte \"Remember The "
+"Milk\". Merci de vous authentifier sur le site \"Remember The Milk\" et de "
+"lui donner les permissions d'accès à votre compte.\n"
 "\n"
 "Votre navigateur par défaut démarrera dès que vous cliquerez sur OK."
 
@@ -5212,6 +5297,15 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "Fichiers iCalendar (*.ics)|*.ics|Fichiers vCalendar (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr ""
+"Le fichier de calendrier ne peut pas être stocké dans le dossier Program "
+"Files."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr ""
+"Vous devez déplacer le fichier, par exemple dans votre dossier Documents."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.17-ru\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-08-10 10:16+0300\n"
 "PO-Revision-Date: 2021-09-23 14:54+0800\n"
 "Last-Translator: Andrey Vertexx <mortbass@gmail.com>\n"
 "Language-Team: Andrey Vertexx <mortbass@gmail.com>\n"
@@ -341,6 +341,9 @@ msgstr "Категория"
 msgid "Recurrence"
 msgstr "Повторение"
 
+msgid "Next alarm"
+msgstr "Следующий сигнал тревоги"
+
 msgid "Off"
 msgstr "Выкл."
 
@@ -485,12 +488,6 @@ msgstr "Использовать пользовательский пароль �
 msgid "Editor"
 msgstr "Редактор"
 
-msgid "Allow multiple calendars"
-msgstr "Разрешить несколько календарей"
-
-msgid "Allow multiple categories"
-msgstr "Разрешить несколько категорий"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Не закрывать редактор до окончания ввода"
 
@@ -500,8 +497,26 @@ msgstr "Временной диапазон в редакторе"
 msgid "Number of previous locations"
 msgstr "Количество предыдущих расположений"
 
+msgid "Last used"
+msgstr "Последнее использованное"
+
+msgid "Frequency"
+msgstr "Скорость"
+
+msgid "Alphabethical"
+msgstr "Alphabethical"
+
+msgid "Previous location list order"
+msgstr "Порядок списка предыдущего местоположения"
+
 msgid "Default event duration"
 msgstr "Продолжительность события по умолчанию"
+
+msgid "Customize event editor fields"
+msgstr "Настройка пользовательских полей "
+
+msgid "Customize task editor fields"
+msgstr "Настройка полей редактора задач"
 
 msgid "Windows"
 msgstr "Окна"
@@ -559,6 +574,21 @@ msgstr "Основной шрифт"
 
 msgid "Scaling quality"
 msgstr "Качество масштабирования"
+
+msgid "Tiny"
+msgstr "Мелкий"
+
+msgid "Small"
+msgstr "Маленький"
+
+msgid "Medium"
+msgstr "Средний"
+
+msgid "Large"
+msgstr "Большой размер"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Создан размер миниатюры для вложений"
 
 msgid "Network"
 msgstr "Сеть"
@@ -897,6 +927,9 @@ msgstr "Открыть справку\tCtrl+?"
 msgid "Help"
 msgstr "Руководство"
 
+msgid "Events"
+msgstr "События"
+
 msgid "About"
 msgstr "О программе"
 
@@ -1118,6 +1151,12 @@ msgstr "Невозможно переместить элемент."
 msgid "Choose a directory"
 msgstr "Выберите директорию"
 
+msgid "Customize"
+msgstr "Настроить"
+
+msgid "Click 'Customize' button"
+msgstr "Нажмите кнопку «Настроить»."
+
 msgid "Version"
 msgstr "Версия"
 
@@ -1132,9 +1171,6 @@ msgstr "Переводчики (%s)"
 
 msgid "Licensed to"
 msgstr "Лицензия зарегистрирована на"
-
-msgid "Plugins"
-msgstr "Плагины"
 
 msgid "Links"
 msgstr "Ссылки"
@@ -1237,6 +1273,15 @@ msgstr "Имя не может содержать символ '/'."
 msgid "A category called \"%s\" already exists."
 msgstr "Категория \"%s\" уже существует."
 
+msgid "Additional"
+msgstr "Дополнительно"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "OK"
+msgstr "OK"
+
 msgid "Link start and end dates"
 msgstr "Связать даты начала и окончания"
 
@@ -1302,6 +1347,12 @@ msgid "The original description is in HTML and cannot be edited."
 msgstr "Исходное описание имеет формат HTML и не доступно для редактирования."
 
 msgid ""
+"Tip: You can customize the editor from Options->Advanced->Customize event/"
+"task editor fields."
+msgstr ""
+"Совет. Вы можете настроить редактор в разделе «Параметры» -> «Дополнительно» - > «Настройка полей редактора событий/задач»."
+
+msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
 "you want to store the item."
 msgstr ""
@@ -1337,8 +1388,14 @@ msgstr "С&брос"
 msgid "&Cancel"
 msgstr "О&тмена"
 
-msgid "Are you sure you want to delete this item?"
-msgstr "Вы хотите удалить этот элемент?"
+msgid "Are you sure you want to delete the task?"
+msgstr "Вы уверены, что хотите удалить "
+
+msgid "Are you sure you want to delete the event?"
+msgstr "Действительно удалить комбинированное событие?"
+
+msgid "Note that all the recurring instances will be deleted."
+msgstr "Обратите внимание, что все повторяющиеся экземпляры будут удалены."
 
 msgid "Event"
 msgstr "Событие"
@@ -1348,12 +1405,6 @@ msgstr "Выберите файл"
 
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "Файлы iCalendar (*.ics)|*.ics"
-
-msgid "Select the calendars:"
-msgstr "Выбрать календари:"
-
-msgid "Select the categories:"
-msgstr "Выбрать категории:"
 
 msgid "before the event starts."
 msgstr "до начала события."
@@ -1462,6 +1513,27 @@ msgstr "Установить шаблон по умолчанию..."
 msgid "Template"
 msgstr "Шаблон"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Нет выбранного календаря, который может получить вложение."
+
+msgid "Operation failed."
+msgstr "Сбой операции."
+
+msgid "Open"
+msgstr "Открыть тему"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Failed to read the attachment."
+msgstr "Не удалось сохранить вложение."
+
+msgid "Save to a file"
+msgstr "Save data to a file - сохранить данные в файле на сервере"
+
+msgid "Failed to save the attachment."
+msgstr "Не удалось сохранить вложение."
+
 msgid "Select the day range"
 msgstr "Выбрать диапазон дней"
 
@@ -1524,9 +1596,6 @@ msgstr "&Нет"
 msgid "Manager"
 msgstr "Менеджер"
 
-msgid "Events"
-msgstr "События"
-
 msgid "Tasks"
 msgstr "Задачи"
 
@@ -1544,9 +1613,6 @@ msgstr "Новый"
 
 msgid "Edit"
 msgstr "Изменить"
-
-msgid "Delete"
-msgstr "Удалить"
 
 msgid "Copy to"
 msgstr "Копировать"
@@ -1787,12 +1853,6 @@ msgstr "Сбросить сохраненную копию"
 msgid "Authenticate"
 msgstr "Аутентификация"
 
-msgid "OK"
-msgstr "OK"
-
-msgid "Get more languages..."
-msgstr "Все языки..."
-
 msgid "On Top"
 msgstr "Сверху"
 
@@ -1802,8 +1862,8 @@ msgstr "Снизу"
 msgid "On Desktop"
 msgstr "На рабочем столе"
 
-msgid "Get more skins..."
-msgstr "Все обложки..."
+msgid "Select the categories:"
+msgstr "Выбрать категории:"
 
 msgid "TrayIcon"
 msgstr "Значок в трее"
@@ -2099,6 +2159,9 @@ msgstr "Локальный"
 msgid "Task"
 msgstr "Задача"
 
+msgid "Date only"
+msgstr "Только дата"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr "Продолжительность должна быть установлена для назначения повторов."
 
@@ -2291,11 +2354,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "Редактировать \"%s\""
 
-msgid "Delete all"
-msgstr "Удалить всё"
+msgid "Move to next day"
+msgstr "Перейти на следующий день"
 
 msgid "Dismiss alarm"
 msgstr "Отменить сигнал"
+
+msgid "Delete all"
+msgstr "Удалить всё"
+
+msgid "Delete \"%s\""
+msgstr "Удалить %s"
 
 msgid "Tomorrow"
 msgstr "Завтра"
@@ -2357,9 +2426,6 @@ msgstr "Отключить"
 msgid "Edit..."
 msgstr "Правка..."
 
-msgid "Move to next day"
-msgstr "Перейти на следующий день"
-
 msgid " (%i days)"
 msgstr " (%i дней)"
 
@@ -2396,9 +2462,6 @@ msgstr "Низкий Приоритет"
 msgid "No Priority"
 msgstr "Нет приоритета"
 
-msgid "Medium"
-msgstr "Средний"
-
 msgid "Expand"
 msgstr "Развернуть"
 
@@ -2425,25 +2488,6 @@ msgstr "Сегодня событий нет."
 
 msgid "Today's events:"
 msgstr "Сегодняшние события:"
-
-msgid "Invalid plugins found!"
-msgstr "Обнаружены повреждённые плагины!"
-
-msgid ""
-"The following files in Rainlendar's plugins\n"
-"folder are invalid and should be removed:\n"
-msgstr ""
-"Следующие файлы в папке плагинов Rainlendar\n"
-"повреждены и должны быть удалены:\n"
-
-msgid ""
-"\n"
-"\n"
-"Make sure that all the plugins are from the same Rainlendar version."
-msgstr ""
-"\n"
-"\n"
-"Убедитесь, что все плагины соответствуют версии Rainlendar."
 
 msgid "allow multiple instances"
 msgstr "разрешить несколько экземпляров"
@@ -2652,26 +2696,26 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Файл лицензии пуст"
-"Убедитесь, что при загрузке файла лицензии используется полный URL-адрес"
+"Файл лицензии пустУбедитесь, что при загрузке файла лицензии используется "
+"полный URL-адрес"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"Недопустимый файл лицензии"
-"Вы превысили количество загрузок лицензии"
-"Пожалуйста, свяжитесь со службой поддержки Rainlendar для получения более подробной информации"
+"Недопустимый файл лицензииВы превысили количество загрузок "
+"лицензииПожалуйста, свяжитесь со службой поддержки Rainlendar для получения "
+"более подробной информации"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Файл лицензии не имеет допустимого формата"
-"Убедитесь, что используется правильный файл лицензии"
-"Можно также попытаться загрузить файл еще раз, если ошибка сохраняется"
+"Файл лицензии не имеет допустимого форматаУбедитесь, что используется "
+"правильный файл лицензииМожно также попытаться загрузить файл еще раз, если "
+"ошибка сохраняется"
 
 msgid "Skin error!"
 msgstr "Ошибка скина!"
@@ -3167,6 +3211,14 @@ msgstr "Количество календарей на одно окно по в
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Отключите, чтобы скрыть названия дней недели в календаре."
+
+msgid "Day background"
+msgstr "Фон дня"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Установите флажок, чтобы добавить фон к номерам дней, чтобы сделать их более "
+"легкими для нажатия."
 
 msgid "Week View"
 msgstr "Вид недели"
@@ -3796,24 +3848,6 @@ msgstr "Погода по Цельсию"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Если отмечено, температура отображается в градусах Цельсия."
 
-msgid "Bold blue"
-msgstr "Полужирный синий"
-
-msgid "Turquoise"
-msgstr "Бирюзовый"
-
-msgid "Bold green"
-msgstr "Полужирный зелёный"
-
-msgid "Bold red"
-msgstr "Полужирный красный"
-
-msgid "Purple"
-msgstr "Пурпурный"
-
-msgid "Gray"
-msgstr "Серый"
-
 msgid "No events today"
 msgstr "На сегодня событий нет"
 
@@ -3850,9 +3884,6 @@ msgstr "Ночью"
 
 msgid "Menu"
 msgstr "Меню"
-
-msgid "Large"
-msgstr "Большой размер"
 
 msgid "Use large images and more space between the items."
 msgstr ""
@@ -4321,11 +4352,29 @@ msgstr "Количество раз"
 msgid "Until"
 msgstr "До"
 
-msgid "Debug Window"
-msgstr "Окно отладки"
+msgid "Field pages"
+msgstr "Страницы полей"
+
+msgid "Start and end:"
+msgstr "Начальное и конечное"
 
 msgid "Sensitivity:"
 msgstr "Видимость:"
+
+msgid "Attachment:"
+msgstr "Приложение:"
+
+msgid "Alarms:"
+msgstr "Аварийные сигналы:"
+
+msgid "Debug Window"
+msgstr "Окно отладки"
+
+msgid "Common Properties"
+msgstr "Общие свойства"
+
+msgid "Remove attachment"
+msgstr "Удалить  вложение"
 
 msgid "All day event"
 msgstr "Событие на весь день"
@@ -4336,8 +4385,20 @@ msgstr "Отметить время как занятое"
 msgid "Time zone:"
 msgstr "Часовой пояс:"
 
+msgid "Alarms"
+msgstr "Сигналы тревоги"
+
+msgid "Add alarm:"
+msgstr "Добавить сигнализацию"
+
+msgid "Misc"
+msgstr "Разное"
+
 msgid "Calendar:"
 msgstr "Календарь:"
+
+msgid "Additional Properties"
+msgstr "Дополнительные свойства"
 
 msgid "Mon"
 msgstr "Пн"
@@ -4374,6 +4435,9 @@ msgstr "Исключая даты"
 
 msgid "Add"
 msgstr "Добавить"
+
+msgid "Templates"
+msgstr "Шаблоны"
 
 msgid "Show descriptions"
 msgstr "Показать описания"
@@ -4473,12 +4537,6 @@ msgstr "Просмотр..."
 
 msgid "Page Setup..."
 msgstr "Параметры страницы..."
-
-msgid "Todo"
-msgstr "Задачи"
-
-msgid "Date only"
-msgstr "Только дата"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Значения, разделённые запятыми (*.csv)|*.csv"
@@ -4591,13 +4649,6 @@ msgid ""
 "Verify also that you are using application specific password for Rainlendar."
 msgstr "Подтверждать использование пароля приложения."
 
-msgid ""
-"Unable to connect to the server. Make sure your network connection is "
-"working."
-msgstr ""
-"Не удается подключиться к серверу. Убедитесь, что у вас работает сетевое "
-"подключение."
-
 msgid "The url \"%s\" does not contain any calendars."
 msgstr "Этот url \"%s\" не содержит никаких календарей."
 
@@ -4632,6 +4683,39 @@ msgstr "Не удалось установить безопасное соеди
 
 msgid "FALSE"
 msgstr "Не верно"
+
+msgid "Blueberry"
+msgstr "Черника"
+
+msgid "Lavender"
+msgstr "Лиловый"
+
+msgid "Peacock"
+msgstr "Peacock"
+
+msgid "Sage"
+msgstr "Шалфей"
+
+msgid "Basil"
+msgstr "Basil"
+
+msgid "Banana"
+msgstr "Банан"
+
+msgid "Tagnerine"
+msgstr "Тагнерин"
+
+msgid "Flamingo"
+msgstr "Заявки"
+
+msgid "Tomato"
+msgstr "Помидор"
+
+msgid "Grape"
+msgstr "Виноград"
+
+msgid "Graphite"
+msgstr "Графит"
 
 msgid "UID"
 msgstr "UID"
@@ -4893,8 +4977,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Введите адрес электронной почты для учётной записи Office 365, нажмите "
 "кнопку \"Выбрать календарь\" и укажите нужный календарь."
@@ -5139,6 +5223,14 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "Файлы iCalendar (*.ics)|*.ics|Файлы vCalendar (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr ""
+"Файл календаря не может быть сохранен в папке Program Files (Файлы "
+"программы)."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Переместите файл, например, в папку Documents (Документы)."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
-"PO-Revision-Date: 2022-03-18 12:29+0200\n"
+"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"PO-Revision-Date: 2023-08-10 10:39+0300\n"
 "Last-Translator: Abhi Avi <abhiavi114@gmail.com>\n"
 "Language-Team: \n"
 "Language: hi_IN\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Basepath: D:/Projects/Rainlendar2\n"
-"X-Generator: Poedit 2.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 "X-Poedit-SearchPath-0: Application\n"
 "X-Poedit-SearchPath-1: Plugins\n"
 "X-Poedit-SearchPath-2: Testbench/Debug/resources\n"
@@ -343,6 +343,9 @@ msgstr "वर्ग"
 msgid "Recurrence"
 msgstr "पुनरावृत्ति"
 
+msgid "Next alarm"
+msgstr "अगला अलार्म"
+
 msgid "Off"
 msgstr "बंद"
 
@@ -487,12 +490,6 @@ msgstr "वपराशकर्ता द्वारा बनाया पा
 msgid "Editor"
 msgstr "संपादक"
 
-msgid "Allow multiple calendars"
-msgstr "एकाधिक केलेन्डर की अनुमति"
-
-msgid "Allow multiple categories"
-msgstr "एकाधिक वर्गों की अनुमति"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "लिखने में सफलता मिलने तक एडीटर को खूला रखें"
 
@@ -502,8 +499,26 @@ msgstr "एडीटर में समयावधि "
 msgid "Number of previous locations"
 msgstr "पीछले स्थानों की संख्या"
 
+msgid "Last used"
+msgstr "पिछला इस्तेमाल किया"
+
+msgid "Frequency"
+msgstr "बारंबारता"
+
+msgid "Alphabethical"
+msgstr "वर्णमाला"
+
+msgid "Previous location list order"
+msgstr "पिछला लोकेशन लिस्ट ऑर्डर"
+
 msgid "Default event duration"
 msgstr "तयशुदा घटना अवधि"
+
+msgid "Customize event editor fields"
+msgstr "इवेंट एडिटर फ़ील्ड कस्टमाइज़ करें"
+
+msgid "Customize task editor fields"
+msgstr "टास्क एडिटर फ़ील्ड कस्टमाइज़ करें"
 
 msgid "Windows"
 msgstr "विन्डोझ"
@@ -561,6 +576,21 @@ msgstr "फ़ॉन्ट चेहरा"
 
 msgid "Scaling quality"
 msgstr "स्केलिंग गुणवत्ता"
+
+msgid "Tiny"
+msgstr "नन्हा"
+
+msgid "Small"
+msgstr "छोटा"
+
+msgid "Medium"
+msgstr "मध्यम"
+
+msgid "Large"
+msgstr "बड़ा"
+
+msgid "Created thumbnail size for attachments"
+msgstr "संलग्नक के लिए लघुछवि आकार बनाया"
 
 msgid "Network"
 msgstr "संजाल"
@@ -899,6 +929,9 @@ msgstr "मदद दिखाएं\tCtrl+?"
 msgid "Help"
 msgstr "मदद"
 
+msgid "Events"
+msgstr "घटनाएं"
+
 msgid "About"
 msgstr "प्रोग्राम विवरण"
 
@@ -1116,6 +1149,12 @@ msgstr "वस्तु को खिसकाने में अक्षम."
 msgid "Choose a directory"
 msgstr "डिरेक्टरी चयन करें"
 
+msgid "Customize"
+msgstr "कस्टमाइज़"
+
+msgid "Click 'Customize' button"
+msgstr "'कस्टमाइज़ करें' बटन पर क्लिक करें"
+
 msgid "Version"
 msgstr "संस्करण"
 
@@ -1130,9 +1169,6 @@ msgstr "(%s) अनुवाद"
 
 msgid "Licensed to"
 msgstr "पंजीकरण"
-
-msgid "Plugins"
-msgstr "प्लगिन्स"
 
 msgid "Links"
 msgstr "लिंक्स"
@@ -1234,6 +1270,15 @@ msgstr "नाम में '/' का उपयोग वर्ज्य है
 msgid "A category called \"%s\" already exists."
 msgstr "\"%s\" नाम से वर्ग पहले से उपलब्ध है।"
 
+msgid "Additional"
+msgstr "एड़ीशनल टेक्स्ट"
+
+msgid "Delete"
+msgstr "मिटाएं"
+
+msgid "OK"
+msgstr "ठीक"
+
 msgid "Link start and end dates"
 msgstr "शुरूआत और खत्म होने की तारीख"
 
@@ -1297,6 +1342,13 @@ msgid "The original description is in HTML and cannot be edited."
 msgstr "मूल विवरण HTML में है और संपादित नहीं किया जा सकता है।"
 
 msgid ""
+"Tip: You can customize the editor from Options->Advanced->Customize event/"
+"task editor fields."
+msgstr ""
+"सुझाव: आप विकल्प -> एडवांस्ड -> कस्टमाइज़ इवेंट/टास्क एडिटर फ़ील्ड से एडिटर को कस्टमाइज़ "
+"कर सकते हैं"
+
+msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
 "you want to store the item."
 msgstr ""
@@ -1331,8 +1383,14 @@ msgstr "&रद्द"
 msgid "&Cancel"
 msgstr "&रद्द करें"
 
-msgid "Are you sure you want to delete this item?"
-msgstr "क्यां आप इस चीज को मिटाना चाहते हो?"
+msgid "Are you sure you want to delete the task?"
+msgstr "क्या आप निश्चित हैं कि आप '{0}' कार्य को मिटाना चाहते हैं?"
+
+msgid "Are you sure you want to delete the event?"
+msgstr "क्या आप निश्चित हैं कि आप पोस्ट हटाना चाहते हैं?"
+
+msgid "Note that all the recurring instances will be deleted."
+msgstr "ध्यान दें कि सभी आवर्ती उदाहरण हटा दिए जाएंगे।"
 
 msgid "Event"
 msgstr "घटना"
@@ -1342,12 +1400,6 @@ msgstr "नत्थी चुनें"
 
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "इ-केलेंडर नत्थी (*.ics)|*.ics"
-
-msgid "Select the calendars:"
-msgstr "केलेन्डर चयन करें:"
-
-msgid "Select the categories:"
-msgstr "वर्गीकरण चयन करें:"
 
 msgid "before the event starts."
 msgstr "धटना शुरु होने से पहेले."
@@ -1457,6 +1509,27 @@ msgstr "प्रवर्तमान टेम्प्लेट..."
 msgid "Template"
 msgstr "टेम्प्लेट"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "कोई चयनित पंचांग नहीं है जो अनुलग्नक ला सकता है."
+
+msgid "Operation failed."
+msgstr "ऑपरेशन असफल."
+
+msgid "Open"
+msgstr "खुला"
+
+msgid "Save"
+msgstr "सेव करें"
+
+msgid "Failed to read the attachment."
+msgstr "संलग्नक पढ़ने में असफल."
+
+msgid "Save to a file"
+msgstr "फ़ाइल में सहेजें"
+
+msgid "Failed to save the attachment."
+msgstr "अनुलग्नक सहेजने में विफल."
+
 msgid "Select the day range"
 msgstr "दिन मर्यादा चयन करें"
 
@@ -1518,9 +1591,6 @@ msgstr "नहीं"
 msgid "Manager"
 msgstr "व्यवस्थापन"
 
-msgid "Events"
-msgstr "घटनाएं"
-
 msgid "Tasks"
 msgstr "कार्य"
 
@@ -1538,9 +1608,6 @@ msgstr "नया"
 
 msgid "Edit"
 msgstr "संपादन"
-
-msgid "Delete"
-msgstr "मिटाएं"
 
 msgid "Copy to"
 msgstr "इस में कोपी करें"
@@ -1778,12 +1845,6 @@ msgstr "ऑफ़लाइन रीसेट करें कॉपी बन�
 msgid "Authenticate"
 msgstr "प्रमाणीकरण"
 
-msgid "OK"
-msgstr "ठीक"
-
-msgid "Get more languages..."
-msgstr "नयी भाषाएं पाएं..."
-
 msgid "On Top"
 msgstr "शीर्ष पर"
 
@@ -1793,8 +1854,8 @@ msgstr "तल पर"
 msgid "On Desktop"
 msgstr "डेस्कटॉप पर"
 
-msgid "Get more skins..."
-msgstr "नयी स्किन पाएं..."
+msgid "Select the categories:"
+msgstr "वर्गीकरण चयन करें:"
 
 msgid "TrayIcon"
 msgstr "थाल आइकन"
@@ -2086,6 +2147,9 @@ msgstr "स्थानिक"
 msgid "Task"
 msgstr "कार्य"
 
+msgid "Date only"
+msgstr "सिर्फ- तारीख़"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr "पुनरावृत्ति निश्चित करने से पहले देय-तारिख निश्चित करना आवश्यक है।"
 
@@ -2274,11 +2338,17 @@ msgstr "स्क्रोल लोक"
 msgid "Edit \"%s\""
 msgstr "संपादित करें \"%s\""
 
-msgid "Delete all"
-msgstr "सब मिटाएं"
+msgid "Move to next day"
+msgstr "अगले दिन पर जाएँ"
 
 msgid "Dismiss alarm"
 msgstr "अलार्म खारिज करें "
+
+msgid "Delete all"
+msgstr "सब मिटाएं"
+
+msgid "Delete \"%s\""
+msgstr "\" %s \" हटाएँ"
 
 msgid "Tomorrow"
 msgstr "आनेवाला कल"
@@ -2340,9 +2410,6 @@ msgstr "खारिज"
 msgid "Edit..."
 msgstr "संपादित करें..."
 
-msgid "Move to next day"
-msgstr "अगले दिन पर जाएँ"
-
 msgid " (%i days)"
 msgstr " (%i दिन)"
 
@@ -2379,9 +2446,6 @@ msgstr "मिम्न प्राथमिकता"
 msgid "No Priority"
 msgstr "प्राथमिकता रहीत"
 
-msgid "Medium"
-msgstr "मध्यम"
-
 msgid "Expand"
 msgstr "विस्तार"
 
@@ -2408,25 +2472,6 @@ msgstr "आज कोई धटना नहीं हैं।"
 
 msgid "Today's events:"
 msgstr "आज की धटनाएं:"
-
-msgid "Invalid plugins found!"
-msgstr "अमान्य प्लग-इन मीला!"
-
-msgid ""
-"The following files in Rainlendar's plugins\n"
-"folder are invalid and should be removed:\n"
-msgstr ""
-"रेइनलेन्डर प्लग-इन फोल्डर में स्थित नीचे लिखी फाइलें\n"
-"अमान्य है। इसे निकालना आवश्यक हैः\n"
-
-msgid ""
-"\n"
-"\n"
-"Make sure that all the plugins are from the same Rainlendar version."
-msgstr ""
-"\n"
-"\n"
-"सभी प्लग-इन का समान रेइनलेंडर संस्करण का होना आवश्यक है।"
 
 msgid "allow multiple instances"
 msgstr "एकाधिक बार चलाएं"
@@ -2635,26 +2680,23 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"लायसेंस फ़ाइल रिक्त है"
-"लायसेंस फ़ाइल डाउनलोड करते समय पूर्ण URL का उपयोग करना सुनिश्चित करें"
+"लायसेंस फ़ाइल रिक्त हैलायसेंस फ़ाइल डाउनलोड करते समय पूर्ण URL का उपयोग करना सुनिश्चित करें"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"लायसेंस फ़ाइल मान्य नहीं है"
-"आपने लायसेंस डाउनलोड किए जाने की संख्या को पार कर लिया है"
-"अधिक जानकारी के लिए Rainlendar के समर्थन से संपर्क करें"
+"लायसेंस फ़ाइल मान्य नहीं हैआपने लायसेंस डाउनलोड किए जाने की संख्या को पार कर लिया हैअधिक "
+"जानकारी के लिए Rainlendar के समर्थन से संपर्क करें"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"लायसेंस फ़ाइल में मान्य स्वरूप नहीं है"
-"सुनिश्चित करें कि आप सही लायसेंस फ़ाइल का उपयोग कर रहे हैं"
-"यदि त्रुटि बनी रहती है, तो आप फ़ाइल को पुन: डाउनलोड करने का प्रयास भी कर सकते हैं"
+"लायसेंस फ़ाइल में मान्य स्वरूप नहीं हैसुनिश्चित करें कि आप सही लायसेंस फ़ाइल का उपयोग कर रहे "
+"हैंयदि त्रुटि बनी रहती है, तो आप फ़ाइल को पुन: डाउनलोड करने का प्रयास भी कर सकते हैं"
 
 msgid "Skin error!"
 msgstr "त्वचा की गलती!"
@@ -3148,6 +3190,14 @@ msgstr "विन्डो में खडी दिशा में केल�
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "केलेन्डर से सप्ताह के दिनों के नाम छुपाने के लिए अनचेक करें।"
+
+msgid "Day background"
+msgstr "दिन की पृष्ठभूमि"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"उन्हें क्लिक करने के लिए और अधिक आसान बनाने के लिए दिन की संख्या में पृष्ठभूमि जोड़ने के लिए "
+"जाँच करें।"
 
 msgid "Week View"
 msgstr "सप्ताह दृश्य"
@@ -3772,24 +3822,6 @@ msgstr "मौसम सेल्सियस"
 msgid "If checked the temperature is shown in celsius."
 msgstr "अगर चेक किया जाए तो तापमान को सेल्सियस में दिखाया जाता है।"
 
-msgid "Bold blue"
-msgstr "बोल्ड ब्लू"
-
-msgid "Turquoise"
-msgstr "color"
-
-msgid "Bold green"
-msgstr "बोल्ड ग्रीन"
-
-msgid "Bold red"
-msgstr "बोल्ड लाल"
-
-msgid "Purple"
-msgstr "बैंगनी"
-
-msgid "Gray"
-msgstr "सलेटी"
-
 msgid "No events today"
 msgstr "आज कोई घटना नहीं"
 
@@ -3827,9 +3859,6 @@ msgstr "आज रात।"
 
 msgid "Menu"
 msgstr "मेन्यू"
-
-msgid "Large"
-msgstr "बड़ा"
 
 msgid "Use large images and more space between the items."
 msgstr "बड़ी छवियों और आइटम के बीच अधिक जगह का उपयोग करें।"
@@ -4295,11 +4324,29 @@ msgstr "इतनी बार"
 msgid "Until"
 msgstr "यहां तक"
 
-msgid "Debug Window"
-msgstr "डिबग विंडो"
+msgid "Field pages"
+msgstr "फ़ील्ड पेज"
+
+msgid "Start and end:"
+msgstr "शुरू और अंत:"
 
 msgid "Sensitivity:"
 msgstr "संवेदनशीलता (आइएसओ):"
+
+msgid "Attachment:"
+msgstr "संलग्नकmsg status"
+
+msgid "Alarms:"
+msgstr "अलार्म्स"
+
+msgid "Debug Window"
+msgstr "डिबग विंडो"
+
+msgid "Common Properties"
+msgstr "साझेदारी गुण"
+
+msgid "Remove attachment"
+msgstr "अनुलग्नक निकालें"
 
 msgid "All day event"
 msgstr "धटना पूरा दिन चलेगी"
@@ -4310,8 +4357,20 @@ msgstr "इस समय पर व्यस्त का चिह्न लग
 msgid "Time zone:"
 msgstr "समय क्षेत्र: "
 
+msgid "Alarms"
+msgstr "अलार्म्स"
+
+msgid "Add alarm:"
+msgstr "अलार्म जोड़ें: @ info: whatsthis"
+
+msgid "Misc"
+msgstr "विभिन्न"
+
 msgid "Calendar:"
 msgstr "केलेन्डरः"
+
+msgid "Additional Properties"
+msgstr "अतिरिक्त गुण"
 
 msgid "Mon"
 msgstr "सोम"
@@ -4348,6 +4407,9 @@ msgstr "अपवाद रूप तारिखः"
 
 msgid "Add"
 msgstr "जोड़ें"
+
+msgid "Templates"
+msgstr "प्रारूप"
 
 msgid "Show descriptions"
 msgstr "विवरण दिखाएँ"
@@ -4447,12 +4509,6 @@ msgstr "पूर्वदर्शन..."
 
 msgid "Page Setup..."
 msgstr "पृष्ट सेटअप"
-
-msgid "Todo"
-msgstr "कार्य सूची"
-
-msgid "Date only"
-msgstr "सिर्फ- तारीख़"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "कोमा-विभाजित मूल्य (*.csv)|*.csv"
@@ -4564,11 +4620,6 @@ msgstr ""
 "यह भी सत्यापित करें कि आप Rainlendar के लिए एप्लिकेशन विशिष्ट पासवर्ड का उपयोग कर रहे "
 "हैं।"
 
-msgid ""
-"Unable to connect to the server. Make sure your network connection is "
-"working."
-msgstr "सर्वर से संपर्क असफल। यह जांच ले की आपका नेटवर्क ठीक से काम कर रहा है।"
-
 msgid "The url \"%s\" does not contain any calendars."
 msgstr "यह यूआरएल \"%s\" पर कोई केलेन्डर उपलब्ध नहीं है।"
 
@@ -4601,6 +4652,39 @@ msgstr "सर्वर से सुरक्षित कनेक्शन (�
 
 msgid "FALSE"
 msgstr "गलत"
+
+msgid "Blueberry"
+msgstr "ब्लूबेरी"
+
+msgid "Lavender"
+msgstr "लैवेंडर"
+
+msgid "Peacock"
+msgstr "हैंकाक"
+
+msgid "Sage"
+msgstr "Comment"
+
+msgid "Basil"
+msgstr "तुलसी"
+
+msgid "Banana"
+msgstr "केला"
+
+msgid "Tagnerine"
+msgstr "टैगनेरिन"
+
+msgid "Flamingo"
+msgstr "राजहंस"
+
+msgid "Tomato"
+msgstr "टमाटर"
+
+msgid "Grape"
+msgstr "अंगूर"
+
+msgid "Graphite"
+msgstr "ग्रेफाइट"
 
 msgid "UID"
 msgstr "यूआईडी"
@@ -4860,8 +4944,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "अपना Office 365 खाता ईमेल पता दर्ज करें और \" कैलेंडर का चयन करें \" बटन पर क्लिक करें "
 "और उस कैलेंडर का चयन करें जिसे आप एक्सेस करना चाहते हैं"
@@ -5100,6 +5184,12 @@ msgstr ""
 
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "इ-केलेंडर नत्थी (*.ics)|*.ics|वि-केलेंडर नत्थी (*.vcs)|*.vcs"
+
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "पंचांग फ़ाइल को प्रोग्राम फ़ाइल फ़ोल्डर में भंडारित नहीं किया जा सकता है."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "आपको फ़ाइल उदा. को अपने दस्तावेज़ फ़ोल्डर में ले जाना चाहिए."
 
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"

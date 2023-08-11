@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
-"PO-Revision-Date: 2021-11-14 08:48+0100\n"
-"Last-Translator: Igor Dobrača <idobraca@rovinj.net>\n"
+"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"PO-Revision-Date: 2023-08-10 10:39+0300\n"
+"Last-Translator: Igor Dobrača <igor.dobraca@gmail.com>\n"
 "Language-Team: Igor Dobrača <idobraca@rovinj.net>\n"
 "Language: hr_HR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgid ""
 "Rainlendar is unable to start the HTTP server to receive the OAuth response. "
@@ -339,6 +339,9 @@ msgstr "Kategorija"
 msgid "Recurrence"
 msgstr "Ponavljanje"
 
+msgid "Next alarm"
+msgstr "Sljedeći alarm"
+
 msgid "Off"
 msgstr "Isključeno"
 
@@ -483,12 +486,6 @@ msgstr "Koristite šifriranje prilagođene lozinke"
 msgid "Editor"
 msgstr "Uređivač"
 
-msgid "Allow multiple calendars"
-msgstr "Dozvoli više kalendara"
-
-msgid "Allow multiple categories"
-msgstr "Dopusti više kategorija"
-
 msgid "Keep editor open until writing succeeds"
 msgstr "Ostavi otvoren uređivač dok pisanje ne uspije"
 
@@ -498,8 +495,26 @@ msgstr "Vremenski raspon u uređivaču"
 msgid "Number of previous locations"
 msgstr "Broj prethodnih lokacija"
 
+msgid "Last used"
+msgstr "Zadnje korištena"
+
+msgid "Frequency"
+msgstr "Frekvencija"
+
+msgid "Alphabethical"
+msgstr "Abecedno"
+
+msgid "Previous location list order"
+msgstr "Prethodni redoslijed popisa lokacija"
+
 msgid "Default event duration"
 msgstr "Zadano trajanje događaja"
+
+msgid "Customize event editor fields"
+msgstr "Prilagodite polja uređivača događaja"
+
+msgid "Customize task editor fields"
+msgstr "Prilagodite polja uređivača zadataka"
 
 msgid "Windows"
 msgstr "Prozori"
@@ -557,6 +572,21 @@ msgstr "Font"
 
 msgid "Scaling quality"
 msgstr "Kvaliteta skaliranja"
+
+msgid "Tiny"
+msgstr "Sitna"
+
+msgid "Small"
+msgstr "Mala"
+
+msgid "Medium"
+msgstr "Srednje"
+
+msgid "Large"
+msgstr "Velika"
+
+msgid "Created thumbnail size for attachments"
+msgstr "Veličina minijature za privitke"
 
 msgid "Network"
 msgstr "Mreža"
@@ -896,6 +926,9 @@ msgstr "Otvori pomoć\tCtrl+?"
 msgid "Help"
 msgstr "Pomoć"
 
+msgid "Events"
+msgstr "Događaji"
+
 msgid "About"
 msgstr "O programu"
 
@@ -1092,9 +1125,9 @@ msgid ""
 msgstr ""
 "Ovo je ponavljajuća stavka:\n"
 "\n"
-"% s\n"
+"%s\n"
 "\n"
-"Možete izbrisati samo ovu instancu (% s), sve sljedeće događaje ili cijeli "
+"Možete izbrisati samo ovu instancu (%s), sve sljedeće događaje ili cijeli "
 "ponavljajući događaj."
 
 msgid "The item is read only and cannot be deleted."
@@ -1115,6 +1148,12 @@ msgstr "Ne mogu premjestiti stavku."
 msgid "Choose a directory"
 msgstr "Izaberite direktorij"
 
+msgid "Customize"
+msgstr "Prilagodi"
+
+msgid "Click 'Customize' button"
+msgstr "Klikni gumb „Prilagodi”."
+
 msgid "Version"
 msgstr "Verzija"
 
@@ -1129,9 +1168,6 @@ msgstr "Preveo (%s)"
 
 msgid "Licensed to"
 msgstr "Licencirano za"
-
-msgid "Plugins"
-msgstr "Dodaci"
 
 msgid "Links"
 msgstr "Linkovi"
@@ -1185,7 +1221,7 @@ msgid "Are you sure you want to do this?"
 msgstr "Želiš li to doista učiniti?"
 
 msgid "The selected fields will be changed to %i items."
-msgstr "Odabrana polja bit će promijenjena u% i stavki."
+msgstr "Odabrana polja bit će promijenjena u%i stavki."
 
 msgid ""
 "It's not possible to undo the operation so click \"Yes\" only if you are "
@@ -1233,6 +1269,15 @@ msgstr "Ne možeš koristiti znak '/' u nazivu."
 
 msgid "A category called \"%s\" already exists."
 msgstr "Kategorija s nazivom \"%s\" već postoji."
+
+msgid "Additional"
+msgstr "Dodatno"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "OK"
+msgstr "OK"
 
 msgid "Link start and end dates"
 msgstr "Povežite datume početka i završetka"
@@ -1299,6 +1344,13 @@ msgid "The original description is in HTML and cannot be edited."
 msgstr "Izvorni opis je u HTML-u i ne može se uređivati."
 
 msgid ""
+"Tip: You can customize the editor from Options->Advanced->Customize event/"
+"task editor fields."
+msgstr ""
+"Savjet: uređivač možete prilagoditi u poljima Opcije- >Napredno->Prilagodba "
+"uređivača događaja/zadataka"
+
+msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
 "you want to store the item."
 msgstr ""
@@ -1335,8 +1387,14 @@ msgstr "O&dbaci"
 msgid "&Cancel"
 msgstr "&Odustani"
 
-msgid "Are you sure you want to delete this item?"
-msgstr "Jesi li siguran da želiš izbrisati ovu stavku?"
+msgid "Are you sure you want to delete the task?"
+msgstr "Jeste li sigurni da želite obrisati zadatak?"
+
+msgid "Are you sure you want to delete the event?"
+msgstr "Sigurno želite obrisati ovaj događaj?"
+
+msgid "Note that all the recurring instances will be deleted."
+msgstr "Imajte na umu da će sve ponavljajuće instance biti izbrisane."
 
 msgid "Event"
 msgstr "Događaj"
@@ -1346,12 +1404,6 @@ msgstr "Odaberi datoteku"
 
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr "iCalendar (*.ics)|*.ics"
-
-msgid "Select the calendars:"
-msgstr "Odaberi kalendare:"
-
-msgid "Select the categories:"
-msgstr "Odaberi kategorije:"
 
 msgid "before the event starts."
 msgstr "prije početka događaja."
@@ -1459,6 +1511,27 @@ msgstr "Postavi predefinirani predložak..."
 msgid "Template"
 msgstr "Predložak"
 
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr "Nije odabran nijedan kalendar koji može dohvatiti privitak."
+
+msgid "Operation failed."
+msgstr "Operacija nije uspjela."
+
+msgid "Open"
+msgstr "Otvori"
+
+msgid "Save"
+msgstr "Snimi"
+
+msgid "Failed to read the attachment."
+msgstr "Nije moguće pročitati privitak."
+
+msgid "Save to a file"
+msgstr "Snimi u datoteku"
+
+msgid "Failed to save the attachment."
+msgstr "Ne mogu spremiti privitak."
+
 msgid "Select the day range"
 msgstr "Odaberi rang datuma"
 
@@ -1521,9 +1594,6 @@ msgstr "&Ne"
 msgid "Manager"
 msgstr "Menadžer"
 
-msgid "Events"
-msgstr "Događaji"
-
 msgid "Tasks"
 msgstr "Zadaci"
 
@@ -1541,9 +1611,6 @@ msgstr "Novi"
 
 msgid "Edit"
 msgstr "Promijeni"
-
-msgid "Delete"
-msgstr "Delete"
 
 msgid "Copy to"
 msgstr "Kopiraj u"
@@ -1648,7 +1715,7 @@ msgid "Reverse sorting"
 msgstr "Obrnuto sortiranje"
 
 msgid "Total: %i (Selected: %i)"
-msgstr "Ukupno:% i (Odabrano:% i)"
+msgstr "Ukupno:%i (Odabrano:%i)"
 
 msgid ""
 "Opening a lot of items for editing can take a long time. Are you sure you "
@@ -1661,13 +1728,13 @@ msgid "Do you want to delete the selected item?"
 msgstr "Želite li izbrisati odabranu stavku?"
 
 msgid "Do you want to delete the selected %i items?"
-msgstr "Želite li izbrisati odabrane% i stavke?"
+msgstr "Želite li izbrisati odabrane%i stavke?"
 
 msgid "The selected item is read only and cannot be deleted."
 msgstr "Odabrana stavka samo je za čitanje i ne može se izbrisati."
 
 msgid "There were %i read only items which were not deleted."
-msgstr "Bilo je% i stavki samo za čitanje koje nisu izbrisane."
+msgstr "Bilo je%i stavki samo za čitanje koje nisu izbrisane."
 
 msgid "Unable to delete some items."
 msgstr "Neke stavke nije moguće izbrisati."
@@ -1783,12 +1850,6 @@ msgstr "Poništi izvanmrežnu kopiju"
 msgid "Authenticate"
 msgstr "Autentičnost"
 
-msgid "OK"
-msgstr "OK"
-
-msgid "Get more languages..."
-msgstr "Više jezika..."
-
 msgid "On Top"
 msgstr "Na vrhu"
 
@@ -1798,8 +1859,8 @@ msgstr "Na dnu"
 msgid "On Desktop"
 msgstr "Na radnoj površini"
 
-msgid "Get more skins..."
-msgstr "Još predložaka..."
+msgid "Select the categories:"
+msgstr "Odaberi kategorije:"
 
 msgid "TrayIcon"
 msgstr "Tray Ikona"
@@ -2093,6 +2154,9 @@ msgstr "Lokalno"
 msgid "Task"
 msgstr "Zadatak"
 
+msgid "Date only"
+msgstr "Samo datum"
+
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr "Treba odrediti datum dospijeća da bi se moglo definirati ponavljanje."
 
@@ -2215,7 +2279,7 @@ msgstr "Neusklađenost verzije!"
 msgid ""
 "This skin addon is for version %s of the skin. The installed version is %s."
 msgstr ""
-"Ovaj dodatak predloška je za verziju% s predloška. Instalirana verzija je% s."
+"Ovaj dodatak predloška je za verziju%s predloška. Instalirana verzija je%s."
 
 msgid "Do you want to continue? (The skin might get broken)"
 msgstr "Želite li nastaviti? (Predložak može postati neupotrebljiv)"
@@ -2284,11 +2348,17 @@ msgstr "ScrollLock"
 msgid "Edit \"%s\""
 msgstr "Promjeni \"%s\""
 
-msgid "Delete all"
-msgstr "Izbriši sve"
+msgid "Move to next day"
+msgstr "Premjesti u sljedeći dan"
 
 msgid "Dismiss alarm"
 msgstr "Odbaci alarm"
+
+msgid "Delete all"
+msgstr "Izbriši sve"
+
+msgid "Delete \"%s\""
+msgstr "Izbriši \"%s\""
 
 msgid "Tomorrow"
 msgstr "Sutra"
@@ -2350,9 +2420,6 @@ msgstr "Odbaci"
 msgid "Edit..."
 msgstr "Uredi..."
 
-msgid "Move to next day"
-msgstr "Premjesti u sljedeći dan"
-
 msgid " (%i days)"
 msgstr " (%i dana)"
 
@@ -2389,9 +2456,6 @@ msgstr "Niži prioritet"
 msgid "No Priority"
 msgstr "Bez prioriteta"
 
-msgid "Medium"
-msgstr "Srednje"
-
 msgid "Expand"
 msgstr "Raširi"
 
@@ -2418,25 +2482,6 @@ msgstr "Danas nemate događaja."
 
 msgid "Today's events:"
 msgstr "Današnji događaji:"
-
-msgid "Invalid plugins found!"
-msgstr "Neispravan dodatak pronađen!"
-
-msgid ""
-"The following files in Rainlendar's plugins\n"
-"folder are invalid and should be removed:\n"
-msgstr ""
-"Slijedeće datoteke u direktoriju Rainlendar\n"
-"dodataka su neispravni i treba ih ukloniti:\n"
-
-msgid ""
-"\n"
-"\n"
-"Make sure that all the plugins are from the same Rainlendar version."
-msgstr ""
-"\n"
-"\n"
-"Provjerite jesu li dodaci iz iste verzije Rainlendara."
 
 msgid "allow multiple instances"
 msgstr "dozvoli više instance"
@@ -2647,26 +2692,25 @@ msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
-"Datoteka licence je prazna"
-"Prilikom preuzimanja datoteke licence obavezno koristite cijeli URL"
+"Datoteka licence je prazna. Prilikom preuzimanja datoteke licence obavezno "
+"koristite potpun URL."
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"Datoteka licence nije valjana"
-"Premašili ste broj preuzimanja licence"
-"Za više detalja obratite se Rainlendarovoj podršci"
+"Datoteka licence nije valjana. Premašili ste broj preuzimanja licence. Za "
+"više detalja obratite se Rainlendarovoj podršci."
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"Datoteka licence nema valjani oblik"
-"Provjerite koristite li ispravnu datoteku licence"
-"Također možete pokušati ponovno preuzeti datoteku ako se pogreška nastavi"
+"Datoteka licence nema valjani oblik. Provjerite koristite li ispravnu "
+"datoteku licence. Također možete pokušati ponovno preuzeti datoteku ako se "
+"pogreška nastavi."
 
 msgid "Skin error!"
 msgstr "Greška predloška!"
@@ -3166,6 +3210,14 @@ msgstr "Broj kalendara prikazanih u prozoru okomito."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Poništite odabir da biste sakrili imena dana u tjednu iz kalendara."
+
+msgid "Day background"
+msgstr "Dnevna pozadinu"
+
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+"Označite da biste dodali pozadinu brojevima dana kako biste ih lakše "
+"kliknuli."
 
 msgid "Week View"
 msgstr "Tjedni prikaz"
@@ -3806,24 +3858,6 @@ msgstr "Vrijeme celzijus"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Ako je označeno, temperatura je prikazana u Celzijusima."
 
-msgid "Bold blue"
-msgstr "Podebljana plava"
-
-msgid "Turquoise"
-msgstr "Tirkizna"
-
-msgid "Bold green"
-msgstr "Podebljana zelena"
-
-msgid "Bold red"
-msgstr "Podebljana crvena"
-
-msgid "Purple"
-msgstr "Ljubičasta"
-
-msgid "Gray"
-msgstr "Siva"
-
 msgid "No events today"
 msgstr "Danas nemate događaja"
 
@@ -3861,9 +3895,6 @@ msgstr "Noćas"
 
 msgid "Menu"
 msgstr "Izbornik"
-
-msgid "Large"
-msgstr "Velika"
 
 msgid "Use large images and more space between the items."
 msgstr "Koristite velike slike i više prostora između predmeta."
@@ -4328,11 +4359,29 @@ msgstr "Broj puta"
 msgid "Until"
 msgstr "Do"
 
-msgid "Debug Window"
-msgstr "Debug Window"
+msgid "Field pages"
+msgstr "Stranice polja"
+
+msgid "Start and end:"
+msgstr "Vrijeme početka i završetka"
 
 msgid "Sensitivity:"
 msgstr "Osjetljivosti:"
+
+msgid "Attachment:"
+msgstr "Privitak:"
+
+msgid "Alarms:"
+msgstr "Alarmi"
+
+msgid "Debug Window"
+msgstr "Debug Window"
+
+msgid "Common Properties"
+msgstr "Opće postavke"
+
+msgid "Remove attachment"
+msgstr "Ukloni privitak"
 
 msgid "All day event"
 msgstr "Cjelodnevni događaj"
@@ -4343,8 +4392,20 @@ msgstr "Označi vrijeme kao zauzeto"
 msgid "Time zone:"
 msgstr "Vremenska zona:"
 
+msgid "Alarms"
+msgstr "Alarmi"
+
+msgid "Add alarm:"
+msgstr "Dodaj novi alarm:"
+
+msgid "Misc"
+msgstr "Razno"
+
 msgid "Calendar:"
 msgstr "Kalendar:"
+
+msgid "Additional Properties"
+msgstr "Dodatne postavke"
 
 msgid "Mon"
 msgstr "Pon"
@@ -4381,6 +4442,9 @@ msgstr "Samo ovi datumi"
 
 msgid "Add"
 msgstr "Dodaj"
+
+msgid "Templates"
+msgstr "Predlošci"
 
 msgid "Show descriptions"
 msgstr "Prikaži opise"
@@ -4481,12 +4545,6 @@ msgstr "Pregled..."
 msgid "Page Setup..."
 msgstr "Postavke stranice..."
 
-msgid "Todo"
-msgstr "Zadaci"
-
-msgid "Date only"
-msgstr "Samo datum"
-
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Vrijednosti odijeljene zarezom (*.csv)|*.csv"
 
@@ -4556,12 +4614,12 @@ msgid ""
 "Server returned result: (%i) %i %s."
 msgstr ""
 "Pogreška pri prijenosu podataka na url:\n"
-"% s\n"
+"%s\n"
 "\n"
-"Server je vratio rezultat: (% i)% i% s."
+"Server je vratio rezultat: (%i) %i %s."
 
 msgid "Google Error (%s)!"
-msgstr "Google greška (% s)!"
+msgstr "Google greška (%s)!"
 
 msgid "Unable to delete the event."
 msgstr "Nije moguće izbrisati događaj."
@@ -4580,7 +4638,7 @@ msgid ""
 "\n"
 "Available calendars are:\n"
 msgstr ""
-"Nije moguće pronaći odabrani kalendar (% s).\n"
+"Nije moguće pronaći odabrani kalendar (%s).\n"
 "\n"
 "Dostupni kalendari su:\n"
 
@@ -4599,21 +4657,15 @@ msgid ""
 msgstr ""
 "Također provjerite koristite li posebnu lozinku za aplikaciju Rainlendar."
 
-msgid ""
-"Unable to connect to the server. Make sure your network connection is "
-"working."
-msgstr ""
-"Povezivanje s poslužiteljem nije uspjelo. Provjerite radi li mrežna veza."
-
 msgid "The url \"%s\" does not contain any calendars."
-msgstr "URL \"% s\" ne sadrži kalendare."
+msgstr "URL \"%s\" ne sadrži kalendare."
 
 msgid ""
 "Error downloading the data from the url:\n"
 "%s"
 msgstr ""
 "Pogreška pri preuzimanju podataka s URL-a:\n"
-"% s"
+"%s"
 
 msgid ""
 "Make sure that your network is working and that your firewall is not "
@@ -4635,6 +4687,39 @@ msgstr "Nije uspjela sigurna veza (SSL) s poslužiteljem."
 
 msgid "FALSE"
 msgstr "LAŽ"
+
+msgid "Blueberry"
+msgstr "Borovnica"
+
+msgid "Lavender"
+msgstr "Lavanda"
+
+msgid "Peacock"
+msgstr "Peacockstar name"
+
+msgid "Sage"
+msgstr "Kadulja"
+
+msgid "Basil"
+msgstr "Bosiljak"
+
+msgid "Banana"
+msgstr "Banana"
+
+msgid "Tagnerine"
+msgstr "Tagnerin"
+
+msgid "Flamingo"
+msgstr "Plamenci"
+
+msgid "Tomato"
+msgstr "Rajčica"
+
+msgid "Grape"
+msgstr "Grožđe "
+
+msgid "Graphite"
+msgstr "Grafit"
 
 msgid "UID"
 msgstr "UID"
@@ -4679,8 +4764,8 @@ msgid ""
 "Enter your Google account email address and click the \"Select calendar\" "
 "button and choose the calendar you want to access."
 msgstr ""
-"Unesite adresu e-pošte svog Google računa, kliknite gumb \"Odaberi kalendar"
-"\" i odaberite kalendar kojem želite pristupiti."
+"Unesite adresu e-pošte svog Google računa, kliknite gumb \"Odaberi "
+"kalendar\" i odaberite kalendar kojem želite pristupiti."
 
 msgid "Select calendar"
 msgstr "Odaberi kalendar"
@@ -4705,7 +4790,7 @@ msgid ""
 msgstr "Događaj nije moguće prenijeti jer ciljni kalendar nije definiran."
 
 msgid "Google Calendar Error (%s)!"
-msgstr "Pogreška Google kalendara (% s)!"
+msgstr "Pogreška Google kalendara (%s)!"
 
 msgid ""
 "Unable to authenticate to Google. The 2-step verification is enabled for "
@@ -4731,14 +4816,14 @@ msgid ""
 "Server returned result: (%i) %i %s."
 msgstr ""
 "Autentifikacija za Google nije moguća.\n"
-"Server je vratio rezultat: (% i)% i% s."
+"Server je vratio rezultat: (%i)%i %s."
 
 msgid ""
 "Unable to download the calendars.\n"
 "Server returned result: (%i) %i %s."
 msgstr ""
 "Nije moguće preuzeti kalendare.\n"
-"Server je vratio rezultat: (% i)% i% s."
+"Server je vratio rezultat: (%i)%i %s."
 
 msgid "Unable to parse the calendar url."
 msgstr "Nije moguće raščlaniti url kalendara."
@@ -4788,7 +4873,7 @@ msgstr ""
 "Zadatak se ne može prenijeti jer popis ciljanih zadataka nije definiran."
 
 msgid "Google Tasks Error (%s)!"
-msgstr "Pogreška Google zadataka (% s)!"
+msgstr "Pogreška Google zadataka (%s)!"
 
 msgid ""
 "Unable to authenticate to Google. Rainlendar's access to the Google Task "
@@ -4804,7 +4889,7 @@ msgid ""
 "Server returned result: (%i) %i %s."
 msgstr ""
 "Nije moguće preuzeti popise zadataka.\n"
-"Server je vratio rezultat: (% i)% i% s."
+"Server je vratio rezultat: (%i) %i %s."
 
 msgid "Unable to parse the task list url."
 msgstr "Nije moguće raščlaniti URL popisa zadataka."
@@ -4885,9 +4970,9 @@ msgid ""
 "Server returned result: (%i) %i %s."
 msgstr ""
 "Pogreška pri preuzimanju podataka s URL-a:\n"
-"% s\n"
+"%s\n"
 "\n"
-"Server je vratio rezultat: (% i)% i% s."
+"Server je vratio rezultat: (%i) %i %s."
 
 msgid "Downloaded event count"
 msgstr "Broj preuzetih događaja"
@@ -4896,8 +4981,8 @@ msgid "Office 365"
 msgstr "Office 365"
 
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 "Unesite adresu e-pošte svog računa za Office 365 i kliknite gumb \"Odaberi "
 "kalendar\" i odaberite kalendar kojem želite pristupiti."
@@ -5113,7 +5198,7 @@ msgstr ""
 "Dostupne su mape:"
 
 msgid "Toodledo Error (%s)!"
-msgstr "Toodledo pogreška (% s)!"
+msgstr "Toodledo pogreška (%s)!"
 
 msgid "Folder"
 msgstr "Mapa"
@@ -5147,11 +5232,17 @@ msgstr ""
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr "iCalendar (*.ics)|*.ics|vCalendar (*.vcs)|*.vcs"
 
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr "Kalendarska datoteka ne može se pohraniti u mapu Programske datoteke."
+
+msgid "You should move the file e.g. to your Documents folder."
+msgstr "Datoteku biste trebali premjestiti, npr. u mapu Dokumenti."
+
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"
 ">Calendars and verify that the location of the file is correctly set."
 msgstr ""
-"Put do datoteke kalendara \"% s\" ne izlazi. Idite na Opcije-> Kalendari i "
+"Put do datoteke kalendara \"%s\" ne izlazi. Idite na Opcije-> Kalendari i "
 "provjerite je li mjesto datoteke ispravno postavljeno."
 
 msgid "Unable to make a temporary copy of the file \"%s\"."

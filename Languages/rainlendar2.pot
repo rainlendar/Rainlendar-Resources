@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-08 09:58+0300\n"
+"POT-Creation-Date: 2023-08-10 10:16+0300\n"
 "PO-Revision-Date: 2017-03-31 15:22+0200\n"
 "Last-Translator: Kimmo Pekkola <rainy@rainlendar.net>\n"
 "Language-Team: \n"
@@ -11,9 +11,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Basepath: ..\n"
-"X-Generator: Poedit 2.1.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.2.2\n"
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-SearchPath-0: Plugins\n"
 "X-Poedit-SearchPath-1: Testbench/Debug/resources\n"
@@ -35,33 +35,33 @@ msgstr ""
 msgid "Failed to start HTTP server"
 msgstr ""
 
-#: Application/API.cpp:3148 Application/API.cpp:3193
-#: Application/DialogNewManager.cpp:1461 Application/DialogNewManager.cpp:1517
+#: Application/API.cpp:3146 Application/API.cpp:3191
+#: Application/DialogNewManager.cpp:1484 Application/DialogNewManager.cpp:1540
 msgid "Choose the backup path"
 msgstr ""
 
-#: Application/API.cpp:3148 Application/API.cpp:3192
-#: Application/DialogNewManager.cpp:1461 Application/DialogNewManager.cpp:1518
+#: Application/API.cpp:3146 Application/API.cpp:3190
+#: Application/DialogNewManager.cpp:1484 Application/DialogNewManager.cpp:1541
 msgid "Archive (*.zip)|*.zip"
 msgstr ""
 
-#: Application/Authenticate.cpp:78
+#: Application/Authenticate.cpp:76
 msgid "Authentication failed!"
 msgstr ""
 
-#: Application/Authenticate.cpp:79
+#: Application/Authenticate.cpp:77
 msgid "Make sure that you finish the authentication process"
 msgstr ""
 
-#: Application/Authenticate.cpp:80
+#: Application/Authenticate.cpp:78
 msgid "and give Rainlendar permission to access your calendar."
 msgstr ""
 
-#: Application/Authenticate.cpp:84
+#: Application/Authenticate.cpp:82
 msgid "Authentication succeeded!"
 msgstr ""
 
-#: Application/Authenticate.cpp:85
+#: Application/Authenticate.cpp:83
 msgid "You may close the browser window now."
 msgstr ""
 
@@ -69,8 +69,8 @@ msgstr ""
 msgid "Choose the backup file:"
 msgstr ""
 
-#: Application/BackupHelper.cpp:162 Application/DialogComponent.cpp:3076
-#: Application/DialogComponent.cpp:3093 Application/res/bulkchange.cpp:65
+#: Application/BackupHelper.cpp:162 Application/DialogComponent.cpp:3184
+#: Application/DialogComponent.cpp:3341 Application/res/bulkchange.cpp:65
 msgid "Select"
 msgstr ""
 
@@ -90,33 +90,33 @@ msgstr ""
 msgid "The selected backup file doesn't contain the settings file."
 msgstr ""
 
-#: Application/BackupHelper.cpp:389
+#: Application/BackupHelper.cpp:414
 msgid "The file already exists:"
 msgstr ""
 
-#: Application/BackupHelper.cpp:392
+#: Application/BackupHelper.cpp:417
 msgid "Do you want to overwrite the file?"
 msgstr ""
 
-#: Application/BackupHelper.cpp:405
+#: Application/BackupHelper.cpp:430
 msgid "Unable to overwrite file:"
 msgstr ""
 
-#: Application/BackupHelper.cpp:407 Application/DialogNewManager.cpp:1498
-#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:310
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:158
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:168
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:189
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:345
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:355
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:405
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:427
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:491
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:499
+#: Application/BackupHelper.cpp:432 Application/DialogNewManager.cpp:1521
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:324
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:181
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:198
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:219
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:391
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:401
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:451
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:474
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:540
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:548
 msgid "Write error!"
 msgstr ""
 
-#: Application/BackupHelper.cpp:418
+#: Application/BackupHelper.cpp:443
 #, c-format
 msgid ""
 "Unable to restore the file:\n"
@@ -125,1072 +125,1122 @@ msgid ""
 "You need to extract the file manually from the backup archive."
 msgstr ""
 
-#: Application/BackupHelper.cpp:419
+#: Application/BackupHelper.cpp:444
 msgid "Restore error!"
 msgstr ""
 
-#: Application/CalendarManager.cpp:2578 Application/CalendarManager.cpp:2582
+#: Application/CalendarManager.cpp:2597 Application/CalendarManager.cpp:2601
 #: Application/DialogSkinSettings.cpp:310
 msgid "[None]"
 msgstr ""
 
-#: Application/CalendarManager.cpp:2625 Application/DialogComponent.cpp:639
-#: Application/DialogComponent.cpp:1650
+#: Application/CalendarManager.cpp:2644 Application/DialogComponent.cpp:760
 msgid "<Hidden>"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:625
+#: Application/ComponentListBox.cpp:666
 msgid "all"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:629
+#: Application/ComponentListBox.cpp:670
 msgid "active"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:639
+#: Application/ComponentListBox.cpp:680
 msgid "dismissed"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:643
+#: Application/ComponentListBox.cpp:684
 msgid "snoozed"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:799
+#: Application/ComponentListBox.cpp:855
 msgid "Show only needs action"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:800
+#: Application/ComponentListBox.cpp:856
 msgid "Show only in progress"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:801
+#: Application/ComponentListBox.cpp:857
 msgid "Show only completed"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:802
+#: Application/ComponentListBox.cpp:858
 msgid "Show only cancelled"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:803
+#: Application/ComponentListBox.cpp:859
 msgid "Hide needs action"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:804
+#: Application/ComponentListBox.cpp:860
 msgid "Hide in progress"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:805
+#: Application/ComponentListBox.cpp:861
 msgid "Hide completed"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:806
+#: Application/ComponentListBox.cpp:862
 msgid "Hide cancelled"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:811
+#: Application/ComponentListBox.cpp:867
 msgid "Reset completed time"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:823
+#: Application/ComponentListBox.cpp:879
 msgid "Show only no priority"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:824
+#: Application/ComponentListBox.cpp:880
 msgid "Show only high priority"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:825
+#: Application/ComponentListBox.cpp:881
 msgid "Show only normal priority"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:826
+#: Application/ComponentListBox.cpp:882
 msgid "Show only low priority"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:827
+#: Application/ComponentListBox.cpp:883
 msgid "Hide no priority"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:828
+#: Application/ComponentListBox.cpp:884
 msgid "Hide high priority"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:829
+#: Application/ComponentListBox.cpp:885
 msgid "Hide normal priority"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:830
+#: Application/ComponentListBox.cpp:886
 msgid "Hide low priority"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:845
+#: Application/ComponentListBox.cpp:901
 msgid "Show only alarms"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:846
+#: Application/ComponentListBox.cpp:902
 msgid "Show only active"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:847
+#: Application/ComponentListBox.cpp:903
 msgid "Show only snoozed"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:848
+#: Application/ComponentListBox.cpp:904
 msgid "Show only dismissed"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:849
+#: Application/ComponentListBox.cpp:905
 msgid "Hide alarms"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:850
+#: Application/ComponentListBox.cpp:906
 msgid "Hide active"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:851
+#: Application/ComponentListBox.cpp:907
 msgid "Hide snoozed"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:852
+#: Application/ComponentListBox.cpp:908
 msgid "Hide dismissed"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:858
+#: Application/ComponentListBox.cpp:914
 msgid "Reset dismiss time"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:862
+#: Application/ComponentListBox.cpp:918
 msgid "Reset snooze time"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:873
+#: Application/ComponentListBox.cpp:929
 msgid "Dismiss next alarm"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:978
+#: Application/ComponentListBox.cpp:1034
 msgid "Duration:"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:982
+#: Application/ComponentListBox.cpp:1038 Application/WindowTooltip.cpp:690
 msgid "Next alarm:"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:989
+#: Application/ComponentListBox.cpp:1045
 msgid "Dismissed:"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:995
+#: Application/ComponentListBox.cpp:1051
 msgid "Snoozed until:"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1056 Application/ComponentListBox.cpp:1068
-#: Application/ComponentListBox.cpp:1716 Application/ComponentListBox.cpp:1718
+#: Application/ComponentListBox.cpp:1117 Application/ComponentListBox.cpp:1129
+#: Application/ComponentListBox.cpp:1787 Application/ComponentListBox.cpp:1789
 #: Application/ItemListTodo.cpp:888 Application/ItemListTodo.cpp:1131
 #: Application/ItemListTodo.cpp:1585 Application/ItemListTodo.cpp:1589
-#: Application/res/bulkchange.cpp:43 Application/res/todo.cpp:27
+#: Application/res/bulkchange.cpp:43 Application/res/editors.cpp:13
+#: Application/res/editors.cpp:61
 msgid "In Progress"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1059 Application/ComponentListBox.cpp:1071
-#: Application/ComponentListBox.cpp:1707 Application/ComponentListBox.cpp:1711
+#: Application/ComponentListBox.cpp:1120 Application/ComponentListBox.cpp:1132
+#: Application/ComponentListBox.cpp:1778 Application/ComponentListBox.cpp:1782
 #: Application/ItemListTodo.cpp:891 Application/ItemListTodo.cpp:1125
 #: Application/ItemListTodo.cpp:1592 Application/res/bulkchange.cpp:44
-#: Application/res/todo.cpp:28
+#: Application/res/editors.cpp:14 Application/res/editors.cpp:62
 msgid "Completed"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1062 Application/ComponentListBox.cpp:1074
-#: Application/ComponentListBox.cpp:1701 Application/ItemListTodo.cpp:885
+#: Application/ComponentListBox.cpp:1123 Application/ComponentListBox.cpp:1135
+#: Application/ComponentListBox.cpp:1772 Application/ItemListTodo.cpp:885
 #: Application/ItemListTodo.cpp:1134 Application/ItemListTodo.cpp:1564
 msgid "Needs Action"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1065 Application/ComponentListBox.cpp:1077
-#: Application/ComponentListBox.cpp:1703 Application/ItemListTodo.cpp:894
+#: Application/ComponentListBox.cpp:1126 Application/ComponentListBox.cpp:1138
+#: Application/ComponentListBox.cpp:1774 Application/ItemListTodo.cpp:894
 #: Application/ItemListTodo.cpp:1128 Application/ItemListTodo.cpp:1609
-#: Application/res/bulkchange.cpp:45 Application/res/todo.cpp:29
+#: Application/res/bulkchange.cpp:45 Application/res/editors.cpp:15
+#: Application/res/editors.cpp:63
 msgid "Cancelled"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1081 Application/ComponentListBox.cpp:1093
-#: Application/ComponentListBox.cpp:1699 Application/ComponentListBox.cpp:1758
+#: Application/ComponentListBox.cpp:1142 Application/ComponentListBox.cpp:1154
+#: Application/ComponentListBox.cpp:1770 Application/ComponentListBox.cpp:1829
 #: Application/DialogSkinSettings.cpp:412 Application/ItemListTodo.cpp:897
 #: Application/ItemListTodo.cpp:1104 Application/ItemListTodo.cpp:1142
-#: Application/ItemListTodo.cpp:1563 Application/Resource.h:517
+#: Application/ItemListTodo.cpp:1563 Application/Resource.h:530
 #: Application/res/bulkchange.cpp:36 Application/res/bulkchange.cpp:41
-#: Application/res/todo.cpp:18 Application/res/todo.cpp:19
-#: Application/res/todo.cpp:25
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:370
+#: Application/res/editors.cpp:11 Application/res/editors.cpp:30
+#: Application/res/editors.cpp:31 Application/res/editors.cpp:59
+#: Application/res/editors.cpp:78 Application/res/editors.cpp:79
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:382
 msgid "None"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1084 Application/ComponentListBox.cpp:1096
-#: Application/ComponentListBox.cpp:1774 Application/Config.cpp:1168
+#: Application/ComponentListBox.cpp:1145 Application/ComponentListBox.cpp:1157
+#: Application/ComponentListBox.cpp:1845 Application/Config.cpp:1209
 #: Application/ItemListTodo.cpp:1108 Application/res/bulkchange.cpp:39
-#: Application/res/todo.cpp:22
+#: Application/res/editors.cpp:34 Application/res/editors.cpp:82
 msgid "High"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1087 Application/ComponentListBox.cpp:1099
-#: Application/ComponentListBox.cpp:1766 Application/Config.cpp:1007
+#: Application/ComponentListBox.cpp:1148 Application/ComponentListBox.cpp:1160
+#: Application/ComponentListBox.cpp:1837 Application/Config.cpp:1030
 #: Application/DialogOptions.cpp:467 Application/DialogSkinSettings.cpp:280
 msgid "Normal"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1090 Application/ComponentListBox.cpp:1102
-#: Application/ComponentListBox.cpp:1782 Application/Config.cpp:1167
+#: Application/ComponentListBox.cpp:1151 Application/ComponentListBox.cpp:1163
+#: Application/ComponentListBox.cpp:1853 Application/Config.cpp:1208
 #: Application/ItemListTodo.cpp:1116 Application/res/bulkchange.cpp:37
-#: Application/res/todo.cpp:20
+#: Application/res/editors.cpp:32 Application/res/editors.cpp:80
 msgid "Low"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1106 Application/ComponentListBox.cpp:1118
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:367
+#: Application/ComponentListBox.cpp:1167 Application/ComponentListBox.cpp:1179
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:379
 msgid "All"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1109 Application/ComponentListBox.cpp:1121
+#: Application/ComponentListBox.cpp:1170 Application/ComponentListBox.cpp:1182
 msgid "Active"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1112 Application/ComponentListBox.cpp:1124
+#: Application/ComponentListBox.cpp:1173 Application/ComponentListBox.cpp:1185
 msgid "Dismissed"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1115 Application/ComponentListBox.cpp:1127
+#: Application/ComponentListBox.cpp:1176 Application/ComponentListBox.cpp:1188
 msgid "Snoozed"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1679 Application/WindowTooltip.cpp:607
+#: Application/ComponentListBox.cpp:1750 Application/WindowTooltip.cpp:655
 msgid "Daily"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1681 Application/WindowTooltip.cpp:610
+#: Application/ComponentListBox.cpp:1752 Application/WindowTooltip.cpp:658
 msgid "Weekly"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1683 Application/WindowTooltip.cpp:613
+#: Application/ComponentListBox.cpp:1754 Application/WindowTooltip.cpp:661
 msgid "Monthly"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1685 Application/WindowTooltip.cpp:616
+#: Application/ComponentListBox.cpp:1756 Application/WindowTooltip.cpp:664
 msgid "Yearly"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1734 Application/res/bulkchange.cpp:10
-#: Application/res/event.cpp:9 Application/res/todo.cpp:9
+#: Application/ComponentListBox.cpp:1805 Application/res/bulkchange.cpp:10
+#: Application/res/editors.cpp:7 Application/res/editors.cpp:55
 msgid "Private"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1736 Application/res/bulkchange.cpp:11
-#: Application/res/event.cpp:10 Application/res/todo.cpp:10
+#: Application/ComponentListBox.cpp:1807 Application/res/bulkchange.cpp:11
+#: Application/res/editors.cpp:8 Application/res/editors.cpp:56
 msgid "Public"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1738
+#: Application/ComponentListBox.cpp:1809
 msgid "Confidential"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1740 Application/Config.cpp:955
-#: Application/Config.cpp:1018 Application/Config.cpp:1025
-#: Application/Config.cpp:1031 Application/Config.cpp:1039
-#: Application/Config.cpp:1066 Application/Config.cpp:1216
-#: Application/Config.cpp:1262 Application/Config.cpp:1275
-#: Application/Config.cpp:1303 Application/Config.cpp:1316
-#: Application/Config.cpp:1934 Application/DialogOptions.cpp:584
+#: Application/ComponentListBox.cpp:1811 Application/Config.cpp:976
+#: Application/Config.cpp:1041 Application/Config.cpp:1048
+#: Application/Config.cpp:1054 Application/Config.cpp:1062
+#: Application/Config.cpp:1089 Application/Config.cpp:1265
+#: Application/Config.cpp:1311 Application/Config.cpp:1324
+#: Application/Config.cpp:1352 Application/Config.cpp:1365
+#: Application/Config.cpp:1986 Application/DialogOptions.cpp:584
 #: Application/DialogSkinSettings.cpp:278
 #: Application/DialogSkinSettings.cpp:293
-#: Application/DialogSkinSettings.cpp:390 Application/ItemList.cpp:758
-#: Application/Rainlendar.cpp:2151 Application/Rainlendar.cpp:2162
-#: Application/Rainlendar.cpp:2298 Application/Resource.h:490
+#: Application/DialogSkinSettings.cpp:390 Application/ItemList.cpp:765
+#: Application/Rainlendar.cpp:2149 Application/Rainlendar.cpp:2160
+#: Application/Rainlendar.cpp:2296 Application/Resource.h:503
 #: Application/Skin.cpp:363 Application/Skin.cpp:371 Application/Util.cpp:429
 #: Application/Util.cpp:585 Application/res/bulkchange.cpp:9
-#: Application/res/event.cpp:8 Application/res/todo.cpp:8
+#: Application/res/editors.cpp:6 Application/res/editors.cpp:54
 #: Plugins/CalDAVPlugin/CalDAVThread.cpp:759
 #: Plugins/OutlookPlugin/MapiHandler.cpp:762
 msgid "Default"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1760
+#: Application/ComponentListBox.cpp:1831
 msgid "No priority"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1768
+#: Application/ComponentListBox.cpp:1839
 msgid "Normal priority"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1776
+#: Application/ComponentListBox.cpp:1847
 msgid "High priority"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1784
+#: Application/ComponentListBox.cpp:1855
 msgid "Low priority"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1856
+#: Application/ComponentListBox.cpp:1927
 msgid "Created: "
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1865 Application/ComponentListBox.cpp:1884
+#: Application/ComponentListBox.cpp:1936 Application/ComponentListBox.cpp:1955
 msgid "Unknown"
 msgstr ""
 
-#: Application/ComponentListBox.cpp:1875
+#: Application/ComponentListBox.cpp:1946
 msgid "Modified: "
 msgstr ""
 
-#: Application/Config.cpp:961 Application/DialogOptions.cpp:2150
+#: Application/Config.cpp:982 Application/DialogOptions.cpp:2155
 msgid "Copy"
 msgstr ""
 
-#: Application/Config.cpp:966
+#: Application/Config.cpp:987
 msgid "Region"
 msgstr ""
 
-#: Application/Config.cpp:971
+#: Application/Config.cpp:992
 msgid "Native"
 msgstr ""
 
-#: Application/Config.cpp:976
+#: Application/Config.cpp:997
 msgid "Sunday"
 msgstr ""
 
-#: Application/Config.cpp:977
+#: Application/Config.cpp:998
 msgid "Monday"
 msgstr ""
 
-#: Application/Config.cpp:978
+#: Application/Config.cpp:999
 msgid "Tuesday"
 msgstr ""
 
-#: Application/Config.cpp:979
+#: Application/Config.cpp:1000
 msgid "Wednesday"
 msgstr ""
 
-#: Application/Config.cpp:980
+#: Application/Config.cpp:1001
 msgid "Thursday"
 msgstr ""
 
-#: Application/Config.cpp:981
+#: Application/Config.cpp:1002
 msgid "Friday"
 msgstr ""
 
-#: Application/Config.cpp:982
+#: Application/Config.cpp:1003
 msgid "Saturday"
 msgstr ""
 
-#: Application/Config.cpp:983
+#: Application/Config.cpp:1004
 msgid "Every second Saturday"
 msgstr ""
 
-#: Application/Config.cpp:986 Application/DialogPrint.cpp:393
+#: Application/Config.cpp:1007 Application/DialogPrint.cpp:393
 #: Application/WindowTooltip.cpp:317
 msgid "Start"
 msgstr ""
 
-#: Application/Config.cpp:987 Application/DialogPrint.cpp:421
+#: Application/Config.cpp:1008 Application/DialogPrint.cpp:421
 #: Application/WindowTooltip.cpp:337
 msgid "Due"
 msgstr ""
 
-#: Application/Config.cpp:988 Application/DialogNewManager.cpp:810
-#: Application/Resource.h:823 Application/WindowTooltip.cpp:355
+#: Application/Config.cpp:1009 Application/DialogNewManager.cpp:830
+#: Application/Resource.h:838 Application/WindowTooltip.cpp:355
 msgid "Priority"
 msgstr ""
 
-#: Application/Config.cpp:989 Application/DialogNewManager.cpp:812
-#: Application/Resource.h:482 Application/WindowTooltip.cpp:370
+#: Application/Config.cpp:1010 Application/DialogNewManager.cpp:832
+#: Application/Resource.h:495 Application/WindowTooltip.cpp:370
 msgid "Status"
 msgstr ""
 
-#: Application/Config.cpp:990 Application/Config.cpp:994
-#: Application/DialogNewManager.cpp:801 Application/WindowTooltip.cpp:589
+#: Application/Config.cpp:1011 Application/Config.cpp:1016
+#: Application/DialogNewManager.cpp:821 Application/WindowTooltip.cpp:637
 msgid "Category"
 msgstr ""
 
-#: Application/Config.cpp:991 Application/Config.cpp:995
-#: Application/DialogNewManager.cpp:805 Application/WindowTooltip.cpp:624
-#: Application/res/event.cpp:21 Application/res/todo.cpp:47
+#: Application/Config.cpp:1012 Application/Config.cpp:1017
+#: Application/DialogComponent.cpp:274 Application/DialogNewManager.cpp:825
+#: Application/WindowTooltip.cpp:672 Application/res/editors.cpp:94
 msgid "Recurrence"
 msgstr ""
 
-#: Application/Config.cpp:1006
+#: Application/Config.cpp:1013 Application/Config.cpp:1018
+msgid "Next alarm"
+msgstr ""
+
+#: Application/Config.cpp:1029
 msgid "Off"
 msgstr ""
 
-#: Application/Config.cpp:1008
+#: Application/Config.cpp:1031
 msgid "Beta"
 msgstr ""
 
-#: Application/Config.cpp:1015 Application/DialogOptions.cpp:152
-#: Application/DialogSkinSettings.cpp:266 Application/res/options.cpp:1
+#: Application/Config.cpp:1038 Application/DialogComponent.cpp:270
+#: Application/DialogOptions.cpp:152 Application/DialogSkinSettings.cpp:266
+#: Application/res/customize.cpp:4 Application/res/customize.cpp:7
+#: Application/res/customize.cpp:10 Application/res/customize.cpp:13
+#: Application/res/customize.cpp:16 Application/res/customize.cpp:19
+#: Application/res/customize.cpp:22 Application/res/customize.cpp:25
+#: Application/res/customize.cpp:28 Application/res/customize.cpp:31
+#: Application/res/options.cpp:1
 msgid "General"
 msgstr ""
 
-#: Application/Config.cpp:1019
+#: Application/Config.cpp:1042
 msgid "%H:%M (e.g. \"15:42\")"
 msgstr ""
 
-#: Application/Config.cpp:1020
+#: Application/Config.cpp:1043
 msgid "%#H:%M (e.g. \"7:42\")"
 msgstr ""
 
-#: Application/Config.cpp:1021
+#: Application/Config.cpp:1044
 msgid "%I:%M %p (e.g. \"01:42 pm\")"
 msgstr ""
 
-#: Application/Config.cpp:1022
+#: Application/Config.cpp:1045
 msgid "%#I:%M %p (e.g. \"3:42 pm\")"
 msgstr ""
 
-#: Application/Config.cpp:1028 Application/Resource.h:833
+#: Application/Config.cpp:1051 Application/Resource.h:848
 msgid "Time format"
 msgstr ""
 
-#: Application/Config.cpp:1032 Application/Config.cpp:1263
-#: Application/Config.cpp:1304
+#: Application/Config.cpp:1055 Application/Config.cpp:1312
+#: Application/Config.cpp:1353
 msgid "%d.%#m.%Y (e.g. \"21.4.2012\")"
 msgstr ""
 
-#: Application/Config.cpp:1033 Application/Config.cpp:1264
-#: Application/Config.cpp:1305
+#: Application/Config.cpp:1056 Application/Config.cpp:1313
+#: Application/Config.cpp:1354
 msgid "%d.%m.%Y (e.g. \"21.04.2012\")"
 msgstr ""
 
-#: Application/Config.cpp:1034 Application/Config.cpp:1265
-#: Application/Config.cpp:1306
+#: Application/Config.cpp:1057 Application/Config.cpp:1314
+#: Application/Config.cpp:1355
 msgid "%Y-%m-%d (e.g. \"2012-04-21\")"
 msgstr ""
 
-#: Application/Config.cpp:1035 Application/Config.cpp:1266
-#: Application/Config.cpp:1307
+#: Application/Config.cpp:1058 Application/Config.cpp:1315
+#: Application/Config.cpp:1356
 msgid "%#m/%d/%Y (e.g. \"4/21/2012\")"
 msgstr ""
 
-#: Application/Config.cpp:1036 Application/Config.cpp:1267
-#: Application/Config.cpp:1308
+#: Application/Config.cpp:1059 Application/Config.cpp:1316
+#: Application/Config.cpp:1357
 msgid "%m/%d/%Y (e.g. \"04/21/2012\")"
 msgstr ""
 
-#: Application/Config.cpp:1042 Application/Resource.h:835
+#: Application/Config.cpp:1065 Application/Resource.h:850
 msgid "Date format"
 msgstr ""
 
-#: Application/Config.cpp:1043
+#: Application/Config.cpp:1066
 msgid "Use 'Today' and 'Tomorrow'"
 msgstr ""
 
-#: Application/Config.cpp:1045
+#: Application/Config.cpp:1068
 msgid "Weekend days"
 msgstr ""
 
-#: Application/Config.cpp:1046
+#: Application/Config.cpp:1069
 msgid "Week number delta"
 msgstr ""
 
-#: Application/Config.cpp:1049 Application/Config.cpp:1051
+#: Application/Config.cpp:1072 Application/Config.cpp:1074
 msgid "Default categories"
 msgstr ""
 
-#: Application/Config.cpp:1054
+#: Application/Config.cpp:1077
 msgid "Show categories from the skin"
 msgstr ""
 
-#: Application/Config.cpp:1056
+#: Application/Config.cpp:1079
 msgid "Show tray icon"
 msgstr ""
 
-#: Application/Config.cpp:1057
+#: Application/Config.cpp:1080
 msgid "Show tray status icons"
 msgstr ""
 
-#: Application/Config.cpp:1060
+#: Application/Config.cpp:1083
 msgid "Day number"
 msgstr ""
 
-#: Application/Config.cpp:1061
+#: Application/Config.cpp:1084
 msgid "Week number"
 msgstr ""
 
-#: Application/Config.cpp:1063
+#: Application/Config.cpp:1086
 msgid "Number in tray"
 msgstr ""
 
-#: Application/Config.cpp:1067 Application/Config.cpp:1092
-#: Application/Config.cpp:1231
+#: Application/Config.cpp:1090 Application/Config.cpp:1115
+#: Application/Config.cpp:1280
 msgid "Always"
 msgstr ""
 
-#: Application/Config.cpp:1068 Application/Config.cpp:1233
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:332
+#: Application/Config.cpp:1091 Application/Config.cpp:1282
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:344
 #: Plugins/GoogleTasksPlugin/GoogleTasksHandler.cpp:290
 #: Plugins/Office365Plugin/Office365Handler.cpp:292
 #: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:229
 msgid "Never"
 msgstr ""
 
-#: Application/Config.cpp:1070
+#: Application/Config.cpp:1093
 msgid "Show full menus"
 msgstr ""
 
-#: Application/Config.cpp:1071
+#: Application/Config.cpp:1094
 msgid "Disable keyboard shortcuts"
 msgstr ""
 
-#: Application/Config.cpp:1072
+#: Application/Config.cpp:1095
 msgid "List wheel scroll"
 msgstr ""
 
-#: Application/Config.cpp:1077
+#: Application/Config.cpp:1100
 msgid "Skin language"
 msgstr ""
 
-#: Application/Config.cpp:1079
+#: Application/Config.cpp:1102
 msgid "Number of stored backups"
 msgstr ""
 
-#: Application/Config.cpp:1080
+#: Application/Config.cpp:1103
 msgid "Show delete confirmations"
 msgstr ""
 
-#: Application/Config.cpp:1081
+#: Application/Config.cpp:1104
 msgid "Disable text formatting"
 msgstr ""
 
-#: Application/Config.cpp:1082
+#: Application/Config.cpp:1105
 msgid "Show empty list text"
 msgstr ""
 
-#: Application/Config.cpp:1085
+#: Application/Config.cpp:1108
 msgid "Check for updates"
 msgstr ""
 
-#: Application/Config.cpp:1086
+#: Application/Config.cpp:1109
 msgid "Show url icons"
 msgstr ""
 
-#: Application/Config.cpp:1087
+#: Application/Config.cpp:1110
 msgid "Simultaneous transfers"
 msgstr ""
 
-#: Application/Config.cpp:1090
+#: Application/Config.cpp:1113
 msgid "Only uncategorized"
 msgstr ""
 
-#: Application/Config.cpp:1091
+#: Application/Config.cpp:1114
 msgid "Icon from events"
 msgstr ""
 
-#: Application/Config.cpp:1094
+#: Application/Config.cpp:1117
 msgid "Visual category overwrite"
 msgstr ""
 
-#: Application/Config.cpp:1096
+#: Application/Config.cpp:1119
 msgid "Store English category names"
 msgstr ""
 
-#: Application/Config.cpp:1097
+#: Application/Config.cpp:1120
 msgid "Custom category icon path"
 msgstr ""
 
-#: Application/Config.cpp:1100
+#: Application/Config.cpp:1123
 msgid "Use antialiased fonts"
 msgstr ""
 
-#: Application/Config.cpp:1104
+#: Application/Config.cpp:1127
 msgid "Count"
 msgstr ""
 
-#: Application/Config.cpp:1105
+#: Application/Config.cpp:1128
 msgid "Ordinal"
 msgstr ""
 
-#: Application/Config.cpp:1107
+#: Application/Config.cpp:1130
 msgid "Type of year to add for categories"
 msgstr ""
 
-#: Application/Config.cpp:1109
+#: Application/Config.cpp:1132
 msgid "Use custom password encrypting"
 msgstr ""
 
-#: Application/Config.cpp:1115
+#: Application/Config.cpp:1138
 msgid "Editor"
 msgstr ""
 
-#: Application/Config.cpp:1117
-msgid "Allow multiple calendars"
-msgstr ""
-
-#: Application/Config.cpp:1118
-msgid "Allow multiple categories"
-msgstr ""
-
-#: Application/Config.cpp:1119
+#: Application/Config.cpp:1140
 msgid "Keep editor open until writing succeeds"
 msgstr ""
 
-#: Application/Config.cpp:1120
+#: Application/Config.cpp:1141
 msgid "Time span in the editor"
 msgstr ""
 
-#: Application/Config.cpp:1121
+#: Application/Config.cpp:1142
 msgid "Number of previous locations"
 msgstr ""
 
-#: Application/Config.cpp:1122
-msgid "Default event duration"
-msgstr ""
-
-#: Application/Config.cpp:1128 Application/ControlWindow.cpp:929
-#: Application/DialogOptions.cpp:869
-msgid "Windows"
-msgstr ""
-
-#: Application/Config.cpp:1130
-msgid "Use window names"
-msgstr ""
-
-#: Application/Config.cpp:1132
-msgid "Hide on Aero peek"
-msgstr ""
-
-#: Application/Config.cpp:1136
-msgid "Transparency type"
-msgstr ""
-
-#: Application/Config.cpp:1138
-msgid "Copy transparency sleep time"
-msgstr ""
-
-#: Application/Config.cpp:1139
-msgid "Fade delay (ms)"
-msgstr ""
-
-#: Application/Config.cpp:1143
-msgid "Fade duration (ms)"
+#: Application/Config.cpp:1145
+msgid "Last used"
 msgstr ""
 
 #: Application/Config.cpp:1146
-msgid "Allow window fading"
+msgid "Frequency"
 msgstr ""
 
-#: Application/Config.cpp:1148
-msgid "Keep on screen"
+#: Application/Config.cpp:1147
+msgid "Alphabethical"
 msgstr ""
 
 #: Application/Config.cpp:1149
-msgid "Bring all windows on top when clicked"
+msgid "Previous location list order"
 msgstr ""
 
-#: Application/Config.cpp:1152
-msgid "Show in all desktops"
-msgstr ""
-
-#: Application/Config.cpp:1154
-msgid "Snap distance"
+#: Application/Config.cpp:1151
+msgid "Default event duration"
 msgstr ""
 
 #: Application/Config.cpp:1155
-msgid "Snap center"
+msgid "Customize event editor fields"
 msgstr ""
 
-#: Application/Config.cpp:1158
-msgid "Don't save"
+#: Application/Config.cpp:1161
+msgid "Customize task editor fields"
 msgstr ""
 
-#: Application/Config.cpp:1159
-msgid "Per resolution"
+#: Application/Config.cpp:1169 Application/ControlWindow.cpp:929
+#: Application/DialogOptions.cpp:874
+msgid "Windows"
 msgstr ""
 
-#: Application/Config.cpp:1160
-msgid "Single value"
+#: Application/Config.cpp:1171
+msgid "Use window names"
 msgstr ""
 
-#: Application/Config.cpp:1162
-msgid "Save window position"
+#: Application/Config.cpp:1173
+msgid "Hide on Aero peek"
 msgstr ""
 
-#: Application/Config.cpp:1164
-msgid "Font face"
-msgstr ""
-
-#: Application/Config.cpp:1170
-msgid "Scaling quality"
-msgstr ""
-
-#: Application/Config.cpp:1176
-msgid "Network"
-msgstr ""
-
-#: Application/Config.cpp:1178
-msgid "Reload delay after resume (s)"
+#: Application/Config.cpp:1177
+msgid "Transparency type"
 msgstr ""
 
 #: Application/Config.cpp:1179
-msgid "Network access delay after startup (s)"
+msgid "Copy transparency sleep time"
 msgstr ""
 
-#: Application/Config.cpp:1182
-msgid "Proxy server"
+#: Application/Config.cpp:1180
+msgid "Fade delay (ms)"
 msgstr ""
 
-#: Application/Config.cpp:1183
-msgid "Proxy user"
+#: Application/Config.cpp:1184
+msgid "Fade duration (ms)"
 msgstr ""
 
 #: Application/Config.cpp:1187
-msgid "Proxy password"
+msgid "Allow window fading"
 msgstr ""
 
-#: Application/Config.cpp:1191
-msgid "HTTP"
+#: Application/Config.cpp:1189
+msgid "Keep on screen"
 msgstr ""
 
-#: Application/Config.cpp:1192
-msgid "SOCKS4"
+#: Application/Config.cpp:1190
+msgid "Bring all windows on top when clicked"
 msgstr ""
 
 #: Application/Config.cpp:1193
-msgid "SOCKS5"
+msgid "Show in all desktops"
 msgstr ""
 
 #: Application/Config.cpp:1195
-msgid "Proxy type"
+msgid "Snap distance"
 msgstr ""
 
 #: Application/Config.cpp:1196
-msgid "Try direct connection if proxy fails"
+msgid "Snap center"
 msgstr ""
 
-#: Application/Config.cpp:1202 Application/DialogNewManager.cpp:799
-#: Application/DialogNewManager.cpp:1209 Application/DropTarget.cpp:419
-#: Application/Resource.h:538
-msgid "Calendar"
+#: Application/Config.cpp:1199
+msgid "Don't save"
+msgstr ""
+
+#: Application/Config.cpp:1200
+msgid "Per resolution"
+msgstr ""
+
+#: Application/Config.cpp:1201
+msgid "Single value"
+msgstr ""
+
+#: Application/Config.cpp:1203
+msgid "Save window position"
 msgstr ""
 
 #: Application/Config.cpp:1205
-msgid "Show all icons"
+msgid "Font face"
 msgstr ""
 
-#: Application/Config.cpp:1206
-msgid "Show one icon per type"
+#: Application/Config.cpp:1211
+msgid "Scaling quality"
 msgstr ""
 
-#: Application/Config.cpp:1207
-msgid "Show only one icon"
+#: Application/Config.cpp:1214
+msgid "Tiny"
 msgstr ""
 
-#: Application/Config.cpp:1208
-msgid "Show no icons"
+#: Application/Config.cpp:1215
+msgid "Small"
 msgstr ""
 
-#: Application/Config.cpp:1210
-msgid "Combine icons in the calendar"
+#: Application/Config.cpp:1216 Application/ItemListTodo.cpp:1112
+#: Application/res/bulkchange.cpp:38 Application/res/editors.cpp:33
+#: Application/res/editors.cpp:81
+msgid "Medium"
 msgstr ""
 
-#: Application/Config.cpp:1212
-msgid "Calendar wheel scroll"
-msgstr ""
-
-#: Application/Config.cpp:1213
-msgid "Show tasks in calendar"
-msgstr ""
-
-#: Application/Config.cpp:1217
-msgid "Always show menu"
-msgstr ""
-
-#: Application/Config.cpp:1218
-msgid "Always create new event"
+#: Application/Config.cpp:1217 Application/Resource.h:882
+msgid "Large"
 msgstr ""
 
 #: Application/Config.cpp:1219
-msgid "Do nothing"
+msgid "Created thumbnail size for attachments"
 msgstr ""
 
-#: Application/Config.cpp:1221
-msgid "Double click action"
+#: Application/Config.cpp:1225
+msgid "Network"
 msgstr ""
 
-#: Application/Config.cpp:1227 Application/DialogOptions.cpp:867
-#: Application/DialogOptions.cpp:1167 Application/DialogOptions.cpp:1296
-msgid "Tooltip"
+#: Application/Config.cpp:1227
+msgid "Reload delay after resume (s)"
 msgstr ""
 
 #: Application/Config.cpp:1228
-msgid "Show tooltips"
+msgid "Network access delay after startup (s)"
+msgstr ""
+
+#: Application/Config.cpp:1231
+msgid "Proxy server"
 msgstr ""
 
 #: Application/Config.cpp:1232
-msgid "Only on days with events"
+msgid "Proxy user"
 msgstr ""
 
-#: Application/Config.cpp:1235
-msgid "Show tooltip in tray"
-msgstr ""
-
-#: Application/Config.cpp:1237
-msgid "Max tooltip window width"
-msgstr ""
-
-#: Application/Config.cpp:1238
-msgid "Show description in tooltip"
-msgstr ""
-
-#: Application/Config.cpp:1239
-msgid "Task fields in tooltip"
+#: Application/Config.cpp:1236
+msgid "Proxy password"
 msgstr ""
 
 #: Application/Config.cpp:1240
-msgid "Event fields in tooltip"
+msgid "HTTP"
 msgstr ""
 
 #: Application/Config.cpp:1241
-msgid "Traytip show duration (s)"
+msgid "SOCKS4"
+msgstr ""
+
+#: Application/Config.cpp:1242
+msgid "SOCKS5"
 msgstr ""
 
 #: Application/Config.cpp:1244
-msgid "Tooltip fade duration (ms)"
+msgid "Proxy type"
 msgstr ""
 
-#: Application/Config.cpp:1246
-msgid "Tooltip show delay (ms)"
+#: Application/Config.cpp:1245
+msgid "Try direct connection if proxy fails"
 msgstr ""
 
-#: Application/Config.cpp:1247
-msgid "Tooltip format"
-msgstr ""
-
-#: Application/Config.cpp:1253
-msgid "Task List"
+#: Application/Config.cpp:1251 Application/DialogNewManager.cpp:819
+#: Application/DialogNewManager.cpp:1232 Application/DropTarget.cpp:419
+#: Application/Resource.h:551
+msgid "Calendar"
 msgstr ""
 
 #: Application/Config.cpp:1254
-msgid "Show full task summary"
+msgid "Show all icons"
 msgstr ""
 
 #: Application/Config.cpp:1255
-msgid "Show task due time"
+msgid "Show one icon per type"
 msgstr ""
 
 #: Application/Config.cpp:1256
-msgid "Show task location"
+msgid "Show only one icon"
 msgstr ""
 
 #: Application/Config.cpp:1257
-msgid "Show task calendar"
-msgstr ""
-
-#: Application/Config.cpp:1258
-msgid "Number of days the list shows (0 = show all)"
+msgid "Show no icons"
 msgstr ""
 
 #: Application/Config.cpp:1259
-msgid "Show task time when arranged by start or due date"
+msgid "Combine icons in the calendar"
 msgstr ""
 
-#: Application/Config.cpp:1268 Application/Config.cpp:1309
-msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+#: Application/Config.cpp:1261
+msgid "Calendar wheel scroll"
 msgstr ""
 
-#: Application/Config.cpp:1269 Application/Config.cpp:1310
-msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+#: Application/Config.cpp:1262
+msgid "Show tasks in calendar"
 msgstr ""
 
-#: Application/Config.cpp:1270 Application/Config.cpp:1311
-msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+#: Application/Config.cpp:1266
+msgid "Always show menu"
 msgstr ""
 
-#: Application/Config.cpp:1271 Application/Config.cpp:1312
-msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+#: Application/Config.cpp:1267
+msgid "Always create new event"
 msgstr ""
 
-#: Application/Config.cpp:1272 Application/Config.cpp:1313
-msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+#: Application/Config.cpp:1268
+msgid "Do nothing"
 msgstr ""
 
-#: Application/Config.cpp:1278
-msgid "Task list header format"
+#: Application/Config.cpp:1270
+msgid "Double click action"
 msgstr ""
 
-#: Application/Config.cpp:1281 Application/Config.cpp:1322
-#: Application/DialogComponent.cpp:3091 Application/DialogComponent.cpp:3097
-msgid "<None>"
+#: Application/Config.cpp:1276 Application/DialogOptions.cpp:872
+#: Application/DialogOptions.cpp:1172 Application/DialogOptions.cpp:1301
+msgid "Tooltip"
+msgstr ""
+
+#: Application/Config.cpp:1277
+msgid "Show tooltips"
+msgstr ""
+
+#: Application/Config.cpp:1281
+msgid "Only on days with events"
 msgstr ""
 
 #: Application/Config.cpp:1284
-msgid "Default task template"
+msgid "Show tooltip in tray"
 msgstr ""
 
-#: Application/Config.cpp:1290 Application/Resource.h:543
-msgid "Event List"
+#: Application/Config.cpp:1286
+msgid "Max tooltip window width"
 msgstr ""
 
-#: Application/Config.cpp:1291
-msgid "Show full event summary"
+#: Application/Config.cpp:1287
+msgid "Show description in tooltip"
 msgstr ""
 
-#: Application/Config.cpp:1292
-msgid "Show event start time"
+#: Application/Config.cpp:1288
+msgid "Task fields in tooltip"
+msgstr ""
+
+#: Application/Config.cpp:1289
+msgid "Event fields in tooltip"
+msgstr ""
+
+#: Application/Config.cpp:1290
+msgid "Traytip show duration (s)"
 msgstr ""
 
 #: Application/Config.cpp:1293
-msgid "Show event end time"
-msgstr ""
-
-#: Application/Config.cpp:1294
-msgid "Show event location"
+msgid "Tooltip fade duration (ms)"
 msgstr ""
 
 #: Application/Config.cpp:1295
+msgid "Tooltip show delay (ms)"
+msgstr ""
+
+#: Application/Config.cpp:1296
+msgid "Tooltip format"
+msgstr ""
+
+#: Application/Config.cpp:1302
+msgid "Task List"
+msgstr ""
+
+#: Application/Config.cpp:1303
+msgid "Show full task summary"
+msgstr ""
+
+#: Application/Config.cpp:1304
+msgid "Show task due time"
+msgstr ""
+
+#: Application/Config.cpp:1305
+msgid "Show task location"
+msgstr ""
+
+#: Application/Config.cpp:1306
+msgid "Show task calendar"
+msgstr ""
+
+#: Application/Config.cpp:1307
+msgid "Number of days the list shows (0 = show all)"
+msgstr ""
+
+#: Application/Config.cpp:1308
+msgid "Show task time when arranged by start or due date"
+msgstr ""
+
+#: Application/Config.cpp:1317 Application/Config.cpp:1358
+msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
+msgstr ""
+
+#: Application/Config.cpp:1318 Application/Config.cpp:1359
+msgid "%A %d.%m.%Y (e.g. \"Monday 21.04.2012\")"
+msgstr ""
+
+#: Application/Config.cpp:1319 Application/Config.cpp:1360
+msgid "%A %Y-%m-%d (e.g. \"Monday 2012-04-21\")"
+msgstr ""
+
+#: Application/Config.cpp:1320 Application/Config.cpp:1361
+msgid "%A %#m/%d/%Y (e.g. \"Monday 4/21/2012\")"
+msgstr ""
+
+#: Application/Config.cpp:1321 Application/Config.cpp:1362
+msgid "%A %m/%d/%Y (e.g. \"Monday 04/21/2012\")"
+msgstr ""
+
+#: Application/Config.cpp:1327
+msgid "Task list header format"
+msgstr ""
+
+#: Application/Config.cpp:1330 Application/Config.cpp:1371
+#: Application/DialogComponent.cpp:3339 Application/DialogComponent.cpp:3345
+msgid "<None>"
+msgstr ""
+
+#: Application/Config.cpp:1333
+msgid "Default task template"
+msgstr ""
+
+#: Application/Config.cpp:1339 Application/Resource.h:556
+msgid "Event List"
+msgstr ""
+
+#: Application/Config.cpp:1340
+msgid "Show full event summary"
+msgstr ""
+
+#: Application/Config.cpp:1341
+msgid "Show event start time"
+msgstr ""
+
+#: Application/Config.cpp:1342
+msgid "Show event end time"
+msgstr ""
+
+#: Application/Config.cpp:1343
+msgid "Show event location"
+msgstr ""
+
+#: Application/Config.cpp:1344
 msgid "Show event calendar"
 msgstr ""
 
-#: Application/Config.cpp:1296 Application/DialogSkinSettings.cpp:369
+#: Application/Config.cpp:1345 Application/DialogSkinSettings.cpp:369
 #: Application/DialogSkinSettings.cpp:576 Application/ItemListEvent.cpp:787
 msgid "Hide dismissed events"
 msgstr ""
 
-#: Application/Config.cpp:1297 Application/DialogSkinSettings.cpp:370
+#: Application/Config.cpp:1346 Application/DialogSkinSettings.cpp:370
 #: Application/DialogSkinSettings.cpp:575 Application/ItemListEvent.cpp:792
 msgid "Hide past events"
 msgstr ""
 
-#: Application/Config.cpp:1298
+#: Application/Config.cpp:1347
 msgid "Number of future days the list shows"
 msgstr ""
 
-#: Application/Config.cpp:1299
+#: Application/Config.cpp:1348
 msgid "Number of past days the list shows"
 msgstr ""
 
-#: Application/Config.cpp:1300
+#: Application/Config.cpp:1349
 msgid "Age from start of the week"
 msgstr ""
 
-#: Application/Config.cpp:1319
+#: Application/Config.cpp:1368
 msgid "Event list header format"
 msgstr ""
 
-#: Application/Config.cpp:1325
+#: Application/Config.cpp:1374
 msgid "Default event template"
 msgstr ""
 
-#: Application/Config.cpp:1328
+#: Application/Config.cpp:1377
 msgid "No grouping"
 msgstr ""
 
-#: Application/Config.cpp:1329
+#: Application/Config.cpp:1378
 msgid "Start and end dates"
 msgstr ""
 
-#: Application/Config.cpp:1330
+#: Application/Config.cpp:1379
 msgid "Start date and duration"
 msgstr ""
 
-#: Application/Config.cpp:1332
+#: Application/Config.cpp:1381
 msgid "Group multiday events"
 msgstr ""
 
-#: Application/Config.cpp:1338 Application/ItemScheduleEvent.cpp:203
+#: Application/Config.cpp:1387 Application/ItemScheduleEvent.cpp:203
 msgid "Schedule"
 msgstr ""
 
-#: Application/Config.cpp:1339
+#: Application/Config.cpp:1388
 msgid "Show schedule descriptions"
 msgstr ""
 
-#: Application/Config.cpp:1340
+#: Application/Config.cpp:1389
 msgid "Show schedule start time"
 msgstr ""
 
-#: Application/Config.cpp:1341
+#: Application/Config.cpp:1390
 msgid "Show schedule end time"
 msgstr ""
 
-#: Application/Config.cpp:1342
+#: Application/Config.cpp:1391
 msgid "Show schedule location"
 msgstr ""
 
-#: Application/Config.cpp:1343
+#: Application/Config.cpp:1392
 msgid "Show schedule calendar"
 msgstr ""
 
-#: Application/Config.cpp:1344
+#: Application/Config.cpp:1393
 msgid "Create, move and resize events with mouse"
 msgstr ""
 
-#: Application/Config.cpp:1345
+#: Application/Config.cpp:1394
 msgid "First shown hour"
 msgstr ""
 
-#: Application/Config.cpp:1346
+#: Application/Config.cpp:1395
 msgid "Last shown hour"
 msgstr ""
 
-#: Application/Config.cpp:1352 Application/DialogComponent.cpp:1773
-#: Application/DialogOptions.cpp:865 Application/DialogOptions.cpp:1155
-#: Application/DialogOptions.cpp:1296 Application/ItemListAlarm.cpp:455
+#: Application/Config.cpp:1401 Application/DialogComponent.cpp:1873
+#: Application/DialogOptions.cpp:870 Application/DialogOptions.cpp:1160
+#: Application/DialogOptions.cpp:1301 Application/ItemListAlarm.cpp:455
 msgid "Alarm"
 msgstr ""
 
-#: Application/Config.cpp:1353
+#: Application/Config.cpp:1402
 msgid "Show alarm start time"
 msgstr ""
 
-#: Application/Config.cpp:1354
+#: Application/Config.cpp:1403
 msgid "Show alarm end time"
 msgstr ""
 
-#: Application/Config.cpp:1355
+#: Application/Config.cpp:1404
 msgid "Show alarm location"
 msgstr ""
 
-#: Application/Config.cpp:1356
+#: Application/Config.cpp:1405
 msgid "Show alarm calendar"
 msgstr ""
 
-#: Application/Config.cpp:1357
+#: Application/Config.cpp:1406
 msgid "Show due to the event"
 msgstr ""
 
-#: Application/Config.cpp:1358
+#: Application/Config.cpp:1407
 msgid "Support Mozilla alarms"
 msgstr ""
 
-#: Application/Config.cpp:1360
+#: Application/Config.cpp:1409
 msgid "Keep alarm always on top"
 msgstr ""
 
-#: Application/Config.cpp:1361
+#: Application/Config.cpp:1410
 msgid "Default snooze time (secs)"
 msgstr ""
 
-#: Application/Config.cpp:1362
+#: Application/Config.cpp:1411
 msgid "Max alarm window width"
 msgstr ""
 
-#: Application/Config.cpp:1363
+#: Application/Config.cpp:1412
 msgid "Hide from alarm after days"
 msgstr ""
 
-#: Application/Config.cpp:1364
+#: Application/Config.cpp:1413
 msgid "Default alarm time (mins)"
 msgstr ""
 
-#: Application/Config.cpp:1365
+#: Application/Config.cpp:1414
 msgid "Default alarm file"
 msgstr ""
 
-#: Application/Config.cpp:1367
+#: Application/Config.cpp:1416
 msgid "Don't show alarm over a fullscreen window"
 msgstr ""
 
-#: Application/Config.cpp:1371
+#: Application/Config.cpp:1420
 msgid "Loop the alarm sound (secs)"
 msgstr ""
 
-#: Application/Config.cpp:1375 Application/Config.cpp:1377
+#: Application/Config.cpp:1424 Application/Config.cpp:1426
 msgid "Snooze times (mins)"
 msgstr ""
 
@@ -1230,19 +1280,19 @@ msgid "You have the most recent version of Rainlendar."
 msgstr ""
 
 #: Application/ControlWindow.cpp:823 Application/ControlWindow.cpp:925
-#: Application/ItemCalendar.cpp:773 Application/ItemListEvent.cpp:768
+#: Application/ItemCalendar.cpp:805 Application/ItemListEvent.cpp:768
 #: Application/ItemScheduleEvent.cpp:189
 msgid "New event"
 msgstr ""
 
 #: Application/ControlWindow.cpp:824 Application/ControlWindow.cpp:926
-#: Application/ItemCalendar.cpp:774 Application/ItemListTodo.cpp:1429
+#: Application/ItemCalendar.cpp:806 Application/ItemListTodo.cpp:1429
 #: Application/ItemScheduleEvent.cpp:173
 msgid "New task"
 msgstr ""
 
 #: Application/ControlWindow.cpp:826 Application/ControlWindow.cpp:942
-#: Application/Resource.h:457
+#: Application/Resource.h:470
 msgid "Refresh"
 msgstr ""
 
@@ -1258,8 +1308,8 @@ msgstr ""
 msgid "Exit"
 msgstr ""
 
-#: Application/ControlWindow.cpp:832 Application/res/event.cpp:2
-#: Application/res/newmanager.cpp:3 Application/res/todo.cpp:2
+#: Application/ControlWindow.cpp:832 Application/res/editors.cpp:115
+#: Application/res/newmanager.cpp:3
 msgid "File"
 msgstr ""
 
@@ -1280,13 +1330,17 @@ msgstr ""
 msgid "Help"
 msgstr ""
 
-#: Application/ControlWindow.cpp:921 Application/DialogAbout.cpp:207
+#: Application/ControlWindow.cpp:896 Application/DialogNewManager.cpp:138
+#: Plugins/CalDAVPlugin/CalDAVHandler.cpp:274
+msgid "Events"
+msgstr ""
+
+#: Application/ControlWindow.cpp:921 Application/DialogAbout.cpp:186
 msgid "About"
 msgstr ""
 
-#: Application/ControlWindow.cpp:930 Application/DialogComponent.cpp:1589
-#: Application/DialogOptions.cpp:154 Application/res/event.cpp:18
-#: Application/res/options.cpp:20 Application/res/todo.cpp:44
+#: Application/ControlWindow.cpp:930 Application/DialogOptions.cpp:154
+#: Application/res/options.cpp:20
 msgid "Calendars"
 msgstr ""
 
@@ -1340,17 +1394,17 @@ msgid "Previous Week"
 msgstr ""
 
 #: Application/ControlWindow.cpp:1070 Application/ControlWindow.cpp:1085
-#: Application/ControlWindow.cpp:1091 Application/Resource.h:454
+#: Application/ControlWindow.cpp:1091 Application/Resource.h:467
 msgid "Next Month"
 msgstr ""
 
 #: Application/ControlWindow.cpp:1071 Application/ControlWindow.cpp:1086
-#: Application/ControlWindow.cpp:1092 Application/Resource.h:455
+#: Application/ControlWindow.cpp:1092 Application/Resource.h:468
 msgid "Previous Month"
 msgstr ""
 
 #: Application/ControlWindow.cpp:1084 Application/ControlWindow.cpp:1090
-#: Application/Resource.h:456
+#: Application/Resource.h:469
 msgid "Current Month"
 msgstr ""
 
@@ -1362,7 +1416,7 @@ msgstr ""
 msgid "Previous Year"
 msgstr ""
 
-#: Application/ControlWindow.cpp:1090 Application/DialogAbout.cpp:159
+#: Application/ControlWindow.cpp:1090 Application/DialogAbout.cpp:138
 #: Application/HotkeyControl.cpp:188
 msgid "Home"
 msgstr ""
@@ -1490,9 +1544,9 @@ msgstr ""
 msgid "More settings..."
 msgstr ""
 
-#: Application/ControlWindow.cpp:1126 Application/DialogOptions.cpp:866
-#: Application/DialogOptions.cpp:1161 Application/DialogOptions.cpp:1302
-#: Application/ItemList.cpp:632 Application/Resource.h:875
+#: Application/ControlWindow.cpp:1126 Application/DialogOptions.cpp:871
+#: Application/DialogOptions.cpp:1166 Application/DialogOptions.cpp:1307
+#: Application/ItemList.cpp:639 Application/Resource.h:878
 msgid "Today"
 msgstr ""
 
@@ -1518,14 +1572,14 @@ msgid "Choose the license file"
 msgstr ""
 
 #: Application/ControlWindow.cpp:2163 Application/ControlWindow.cpp:2270
-#: Application/ControlWindow.cpp:2312 Application/ItemCalendar.cpp:753
-#: Application/WindowTooltip.cpp:265
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1168
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1454
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:881
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1212
-#: Plugins/Office365Plugin/Office365Thread.cpp:846
-#: Plugins/Office365Plugin/Office365Thread.cpp:1095
+#: Application/ControlWindow.cpp:2312 Application/ItemCalendar.cpp:752
+#: Application/ItemCalendar.cpp:782 Application/WindowTooltip.cpp:265
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1166
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1452
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:879
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1210
+#: Plugins/Office365Plugin/Office365Thread.cpp:844
+#: Plugins/Office365Plugin/Office365Thread.cpp:1093
 msgid "*Empty*"
 msgstr ""
 
@@ -1541,7 +1595,8 @@ msgstr ""
 msgid "All following"
 msgstr ""
 
-#: Application/ControlWindow.cpp:2169 Application/DialogOptions.cpp:215
+#: Application/ControlWindow.cpp:2169 Application/DialogComponent.cpp:311
+#: Application/DialogOptions.cpp:215
 msgid "Cancel"
 msgstr ""
 
@@ -1580,64 +1635,69 @@ msgstr ""
 msgid "Unable to move the item."
 msgstr ""
 
-#: Application/CustomPropertyEditors.cpp:19
+#: Application/CustomPropertyEditors.cpp:20
 msgid "Choose a directory"
 msgstr ""
 
-#: Application/DialogAbout.cpp:91 Application/DialogOptions.cpp:1021
+#: Application/CustomPropertyEditors.cpp:186 Application/DialogCustomize.cpp:32
+#: Application/res/customize.cpp:1
+msgid "Customize"
+msgstr ""
+
+#: Application/CustomPropertyEditors.cpp:234
+msgid "Click 'Customize' button"
+msgstr ""
+
+#: Application/DialogAbout.cpp:76 Application/DialogOptions.cpp:1026
 msgid "Version"
 msgstr ""
 
-#: Application/DialogAbout.cpp:109
+#: Application/DialogAbout.cpp:94
 msgid "Built on"
 msgstr ""
 
-#: Application/DialogAbout.cpp:114
+#: Application/DialogAbout.cpp:99
 msgid "Developed by"
 msgstr ""
 
-#: Application/DialogAbout.cpp:134
+#: Application/DialogAbout.cpp:119
 #, c-format
 msgid "Translated (%s) by"
 msgstr ""
 
-#: Application/DialogAbout.cpp:145
+#: Application/DialogAbout.cpp:129
 msgid "Licensed to"
 msgstr ""
 
-#: Application/DialogAbout.cpp:152
-msgid "Plugins"
-msgstr ""
-
-#: Application/DialogAbout.cpp:157
+#: Application/DialogAbout.cpp:136
 msgid "Links"
 msgstr ""
 
-#: Application/DialogAbout.cpp:162
+#: Application/DialogAbout.cpp:141
 msgid "FAQ"
 msgstr ""
 
-#: Application/DialogAbout.cpp:165
+#: Application/DialogAbout.cpp:144
 msgid "Forum"
 msgstr ""
 
-#: Application/DialogAbout.cpp:171
+#: Application/DialogAbout.cpp:150
 msgid "Menu icons by"
 msgstr ""
 
-#: Application/DialogAbout.cpp:175
+#: Application/DialogAbout.cpp:154
 msgid "Application icon by"
 msgstr ""
 
-#: Application/DialogAbout.cpp:185
+#: Application/DialogAbout.cpp:164
 msgid "Copyrights"
 msgstr ""
 
-#: Application/DialogAbout.cpp:226
+#: Application/DialogAbout.cpp:205
 msgid "Please wait..."
 msgstr ""
 
-#: Application/DialogAbout.cpp:250 Application/res/about.cpp:1
+#: Application/DialogAbout.cpp:229 Application/res/about.cpp:1
 msgid "Check for update"
 msgstr ""
 
@@ -1645,7 +1705,7 @@ msgstr ""
 msgid "Choose Alarm"
 msgstr ""
 
-#: Application/DialogAlarm.cpp:90
+#: Application/DialogAlarm.cpp:90 Application/DialogComponent.cpp:4018
 msgid "All files (*.*)|*.*"
 msgstr ""
 
@@ -1664,47 +1724,46 @@ msgid "%i tasks selected"
 msgstr ""
 
 #: Application/DialogBulkChange.cpp:112 Application/res/bulkchange.cpp:24
-#: Application/res/event.cpp:14
+#: Application/res/editors.cpp:39 Application/res/editors.cpp:87
 msgid "End time:"
 msgstr ""
 
-#: Application/DialogBulkChange.cpp:112 Application/res/todo.cpp:14
+#: Application/DialogBulkChange.cpp:112 Application/DialogTodo.cpp:131
 msgid "Due time:"
 msgstr ""
 
-#: Application/DialogBulkChange.cpp:298 Application/DialogComponent.cpp:280
+#: Application/DialogBulkChange.cpp:295 Application/DialogComponent.cpp:427
 msgid "Add new alarm"
 msgstr ""
 
-#: Application/DialogBulkChange.cpp:1023 Application/DialogNewManager.cpp:1256
+#: Application/DialogBulkChange.cpp:1008 Application/DialogNewManager.cpp:1279
 msgid "Are you sure you want to do this?"
 msgstr ""
 
-#: Application/DialogBulkChange.cpp:1024
+#: Application/DialogBulkChange.cpp:1009
 #, c-format
 msgid "The selected fields will be changed to %i items."
 msgstr ""
 
-#: Application/DialogBulkChange.cpp:1026
+#: Application/DialogBulkChange.cpp:1011
 msgid ""
 "It's not possible to undo the operation so click \"Yes\" only if you are "
 "completely sure you know what you are doing."
 msgstr ""
 
-#: Application/DialogBulkChange.cpp:1031
+#: Application/DialogBulkChange.cpp:1016
 msgid ""
 "Note that changing the type between events and tasks will result to some "
 "loss of data."
 msgstr ""
 
 #: Application/DialogCategories.cpp:49 Application/DialogCategories.cpp:78
-#: Application/DialogComponent.cpp:1652 Application/DialogOptions.cpp:506
-#: Application/DialogOptions.cpp:1470 Application/res/event.cpp:20
-#: Application/res/todo.cpp:46
+#: Application/DialogOptions.cpp:506 Application/DialogOptions.cpp:1475
 msgid "Categories"
 msgstr ""
 
-#: Application/DialogCategories.cpp:87 Application/res/options.cpp:21
+#: Application/DialogCategories.cpp:87 Application/DialogComponent.cpp:697
+#: Application/DialogComponent.cpp:3943 Application/res/options.cpp:21
 msgid "Add..."
 msgstr ""
 
@@ -1726,8 +1785,8 @@ msgstr ""
 msgid "Please give a name for the category"
 msgstr ""
 
-#: Application/DialogCategories.cpp:457 Application/DialogComponent.cpp:3041
-#: Application/DialogOptions.cpp:2643 Application/Resource.h:758
+#: Application/DialogCategories.cpp:457 Application/DialogComponent.cpp:3149
+#: Application/DialogOptions.cpp:2654 Application/Resource.h:773
 msgid "Enter text"
 msgstr ""
 
@@ -1740,7 +1799,7 @@ msgstr ""
 msgid "You must give a name for the category."
 msgstr ""
 
-#: Application/DialogCategories.cpp:465 Application/DialogComponent.cpp:3048
+#: Application/DialogCategories.cpp:465 Application/DialogComponent.cpp:3156
 msgid "It's not allowed to use the '/'-character in the name."
 msgstr ""
 
@@ -1749,313 +1808,367 @@ msgstr ""
 msgid "A category called \"%s\" already exists."
 msgstr ""
 
-#: Application/DialogComponent.cpp:296
+#: Application/DialogComponent.cpp:272 Application/res/customize.cpp:5
+#: Application/res/customize.cpp:8 Application/res/customize.cpp:11
+#: Application/res/customize.cpp:14 Application/res/customize.cpp:17
+#: Application/res/customize.cpp:20 Application/res/customize.cpp:23
+#: Application/res/customize.cpp:26 Application/res/customize.cpp:29
+#: Application/res/customize.cpp:32
+msgid "Additional"
+msgstr ""
+
+#: Application/DialogComponent.cpp:298 Application/DialogNewManager.cpp:246
+#: Application/DialogNewManager.cpp:329 Application/DialogNewManager.cpp:1775
+#: Application/DialogOptions.cpp:1255 Application/HotkeyControl.cpp:180
+#: Application/ItemCalendar.cpp:791 Application/ItemListAlarm.cpp:439
+#: Application/ItemListAlarm.cpp:452 Application/res/editors.cpp:114
+msgid "Delete"
+msgstr ""
+
+#: Application/DialogComponent.cpp:308 Application/DialogOptions.cpp:212
+msgid "OK"
+msgstr ""
+
+#: Application/DialogComponent.cpp:443
 msgid "Link start and end dates"
 msgstr ""
 
-#: Application/DialogComponent.cpp:369
+#: Application/DialogComponent.cpp:508
 msgid "Save\tCtrl+S"
 msgstr ""
 
-#: Application/DialogComponent.cpp:370
+#: Application/DialogComponent.cpp:509
 msgid "Save As New\tShift+Ctrl+S"
 msgstr ""
 
-#: Application/DialogComponent.cpp:371
+#: Application/DialogComponent.cpp:510
 msgid "Save To File...\tAlt+Ctrl+S"
 msgstr ""
 
-#: Application/DialogComponent.cpp:372
+#: Application/DialogComponent.cpp:511
 msgid "Print...\tCtrl+P"
 msgstr ""
 
-#: Application/DialogComponent.cpp:373
+#: Application/DialogComponent.cpp:512
 msgid "Delete\tCtrl+Delete"
 msgstr ""
 
-#: Application/DialogComponent.cpp:375
+#: Application/DialogComponent.cpp:514
 msgid "Close && Accept\tCtrl+Enter"
 msgstr ""
 
-#: Application/DialogComponent.cpp:378
+#: Application/DialogComponent.cpp:517
 msgid "Close\tCtrl+W"
 msgstr ""
 
-#: Application/DialogComponent.cpp:380
+#: Application/DialogComponent.cpp:519
 msgid "Close\tAlt-F4"
 msgstr ""
 
-#: Application/DialogComponent.cpp:973 Application/DialogTodo.cpp:587
+#: Application/DialogComponent.cpp:1111 Application/DialogTodo.cpp:576
 msgid "The selected calendar does not support recurrence."
 msgstr ""
 
-#: Application/DialogComponent.cpp:982
+#: Application/DialogComponent.cpp:1120
 msgid ""
 "The alarm won't be shown since the calendar has ignore alarms setting "
 "enabled."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1000
+#: Application/DialogComponent.cpp:1138
 msgid "The alarm won't be shown since skin doesn't have an alarm window."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1009
+#: Application/DialogComponent.cpp:1147
 msgid "The task is read-only and the modifications cannot be saved."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1013
+#: Application/DialogComponent.cpp:1151
 msgid "The event is read-only and the modifications cannot be saved."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1020
+#: Application/DialogComponent.cpp:1158
 msgid "The task is from a read-only calendar."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1024
+#: Application/DialogComponent.cpp:1162
 msgid "The event is from a read-only calendar."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1031
+#: Application/DialogComponent.cpp:1169
 msgid "There are no calendars available which can store tasks."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1035
+#: Application/DialogComponent.cpp:1173
 msgid "There are no calendars available which can store events."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1040
+#: Application/DialogComponent.cpp:1178
 msgid "No target calendar has been selected."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1044
+#: Application/DialogComponent.cpp:1182
 msgid "The original description is in HTML and cannot be edited."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1273
+#: Application/DialogComponent.cpp:1186
+msgid ""
+"Tip: You can customize the editor from Options->Advanced->Customize event/"
+"task editor fields."
+msgstr ""
+
+#: Application/DialogComponent.cpp:1440
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
 "you want to store the item."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1277
+#: Application/DialogComponent.cpp:1444
 msgid ""
 "There are no valid calendars where the item can be saved. You need to go to "
 "the options and create a new calendar for the item. Note that some calendars "
 "do not support both events and tasks."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1280
+#: Application/DialogComponent.cpp:1447
 msgid "Unable to save the item."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1311
+#: Application/DialogComponent.cpp:1481
 msgid "Updating"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1384
+#: Application/DialogComponent.cpp:1551
 msgid "Do you want to save the changes?"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1385
+#: Application/DialogComponent.cpp:1552
 msgid "You have made some changes to the fields."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1390
+#: Application/DialogComponent.cpp:1557
 msgid "&Save"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1391
+#: Application/DialogComponent.cpp:1558
 msgid "&Discard"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1392 Application/DialogMessage.cpp:348
-#: Application/DialogMessage.cpp:380 Application/DialogOptions.cpp:1631
-#: Application/DropTarget.cpp:89 Application/Resource.h:443
+#: Application/DialogComponent.cpp:1559 Application/DialogMessage.cpp:359
+#: Application/DialogMessage.cpp:391 Application/DialogOptions.cpp:1636
+#: Application/DropTarget.cpp:89 Application/Resource.h:456
 #: Application/res/alarm.cpp:10 Application/res/bulkchange.cpp:77
-#: Application/res/event.cpp:44 Application/res/todo.cpp:70
+#: Application/res/customize.cpp:34
 msgid "&Cancel"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1407
-msgid "Are you sure you want to delete this item?"
+#: Application/DialogComponent.cpp:1574
+msgid "Are you sure you want to delete the task?"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1520 Application/DialogEvent.cpp:100
-#: Application/res/bulkchange.cpp:3 Application/res/event.cpp:1
-#: Application/res/event.cpp:4
+#: Application/DialogComponent.cpp:1574
+msgid "Are you sure you want to delete the event?"
+msgstr ""
+
+#: Application/DialogComponent.cpp:1575
+msgid "Note that all the recurring instances will be deleted."
+msgstr ""
+
+#: Application/DialogComponent.cpp:1742 Application/DialogEvent.cpp:100
+#: Application/res/bulkchange.cpp:3
 msgid "Event"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1523 Application/DialogNewManager.cpp:1638
-#: Application/DialogNewManager.cpp:1678
+#: Application/DialogComponent.cpp:1745 Application/DialogComponent.cpp:4018
+#: Application/DialogNewManager.cpp:1661 Application/DialogNewManager.cpp:1701
 msgid "Choose a file"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1523
+#: Application/DialogComponent.cpp:1745
 #: Plugins/iCalendarPlugin/iCalendarHandler.h:43
 msgid "iCalendar files (*.ics)|*.ics"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1589
-msgid "Select the calendars:"
-msgstr ""
-
-#: Application/DialogComponent.cpp:1652 Application/DialogOptions.cpp:506
-msgid "Select the categories:"
-msgstr ""
-
-#: Application/DialogComponent.cpp:1757
+#: Application/DialogComponent.cpp:1857
 msgid "before the event starts."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1760
+#: Application/DialogComponent.cpp:1860
 msgid "before the task is due."
 msgstr ""
 
-#: Application/DialogComponent.cpp:1784 Application/DialogComponent.cpp:1955
+#: Application/DialogComponent.cpp:1884 Application/DialogComponent.cpp:2046
 msgid "Set alarm sound"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1788 Application/DialogComponent.cpp:1959
+#: Application/DialogComponent.cpp:1888 Application/DialogComponent.cpp:2050
 msgid "Current alarm: "
 msgstr ""
 
-#: Application/DialogComponent.cpp:1790
+#: Application/DialogComponent.cpp:1890
 msgid "Remove alarm"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1792 Application/res/bulkchange.cpp:18
+#: Application/DialogComponent.cpp:1892 Application/res/bulkchange.cpp:18
 #: Application/res/bulkchange.cpp:27
 msgid "Minutes"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1793 Application/res/bulkchange.cpp:19
+#: Application/DialogComponent.cpp:1893 Application/res/bulkchange.cpp:19
 #: Application/res/bulkchange.cpp:28
 msgid "Hours"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1794 Application/res/bulkchange.cpp:20
+#: Application/DialogComponent.cpp:1894 Application/res/bulkchange.cpp:20
 #: Application/res/bulkchange.cpp:29 Application/res/bulkchange.cpp:68
-#: Application/res/event.cpp:23 Application/res/todo.cpp:49
+#: Application/res/editors.cpp:96
 msgid "Days"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1797
+#: Application/DialogComponent.cpp:1897
 msgid "Alert"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1798
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:323
+#: Application/DialogComponent.cpp:1898
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:335
 #: Plugins/GoogleTasksPlugin/GoogleTasksHandler.cpp:281
 #: Plugins/Office365Plugin/Office365Handler.cpp:279
 #: Plugins/ToodledoPlugin/ToodledoHandler.cpp:237
 msgid "Email"
 msgstr ""
 
-#: Application/DialogComponent.cpp:1799
+#: Application/DialogComponent.cpp:1899
 msgid "SMS"
 msgstr ""
 
-#: Application/DialogComponent.cpp:2112
+#: Application/DialogComponent.cpp:2224
 msgid ""
 "Unable to find any calendar handlers for the event. The event was not saved."
 msgstr ""
 
-#: Application/DialogComponent.cpp:2444
+#: Application/DialogComponent.cpp:2556
 #, c-format
 msgid "On the %s day of the month"
 msgstr ""
 
-#: Application/DialogComponent.cpp:2452
+#: Application/DialogComponent.cpp:2564
 msgid "first"
 msgstr ""
 
-#: Application/DialogComponent.cpp:2456
+#: Application/DialogComponent.cpp:2568
 msgid "second"
 msgstr ""
 
-#: Application/DialogComponent.cpp:2460
+#: Application/DialogComponent.cpp:2572
 msgid "third"
 msgstr ""
 
-#: Application/DialogComponent.cpp:2464
+#: Application/DialogComponent.cpp:2576
 msgid "fourth"
 msgstr ""
 
-#: Application/DialogComponent.cpp:2468
+#: Application/DialogComponent.cpp:2580
 msgid "fifth"
 msgstr ""
 
-#: Application/DialogComponent.cpp:2472
+#: Application/DialogComponent.cpp:2584
 #, c-format
 msgid "On the %s %s of the month"
 msgstr ""
 
-#: Application/DialogComponent.cpp:2480
+#: Application/DialogComponent.cpp:2592
 #, c-format
 msgid "On the last %s of the month"
 msgstr ""
 
-#: Application/DialogComponent.cpp:2489
+#: Application/DialogComponent.cpp:2601
 msgid "On the first weekday of the month"
 msgstr ""
 
-#: Application/DialogComponent.cpp:2498
+#: Application/DialogComponent.cpp:2610
 msgid "On the last weekday of the month"
 msgstr ""
 
-#: Application/DialogComponent.cpp:2505
+#: Application/DialogComponent.cpp:2617
 msgid "On the last day of the month"
 msgstr ""
 
-#: Application/DialogComponent.cpp:3041
+#: Application/DialogComponent.cpp:3149
 msgid "Please give a name for the template"
 msgstr ""
 
-#: Application/DialogComponent.cpp:3044 Application/DialogComponent.cpp:3048
+#: Application/DialogComponent.cpp:3152 Application/DialogComponent.cpp:3156
 msgid "Unable to create the template!"
 msgstr ""
 
-#: Application/DialogComponent.cpp:3044
+#: Application/DialogComponent.cpp:3152
 msgid "You must give a name for the template."
 msgstr ""
 
-#: Application/DialogComponent.cpp:3057
+#: Application/DialogComponent.cpp:3165
 #, c-format
 msgid "A template called \"%s\" already exists."
 msgstr ""
 
-#: Application/DialogComponent.cpp:3058
+#: Application/DialogComponent.cpp:3166
 msgid "Do you want to overwrite the template?"
 msgstr ""
 
-#: Application/DialogComponent.cpp:3076
+#: Application/DialogComponent.cpp:3184
 msgid "Choose the template to delete:"
 msgstr ""
 
-#: Application/DialogComponent.cpp:3092
+#: Application/DialogComponent.cpp:3340
 msgid "Choose the template which is used for new tasks:"
 msgstr ""
 
-#: Application/DialogComponent.cpp:3092
+#: Application/DialogComponent.cpp:3340
 msgid "Choose the template which is used for new events:"
 msgstr ""
 
-#: Application/DialogComponent.cpp:3132
+#: Application/DialogComponent.cpp:3380
 msgid "Save as template..."
 msgstr ""
 
-#: Application/DialogComponent.cpp:3133
+#: Application/DialogComponent.cpp:3381
 msgid "Delete template..."
 msgstr ""
 
-#: Application/DialogComponent.cpp:3134
+#: Application/DialogComponent.cpp:3382
 msgid "Set the default template..."
 msgstr ""
 
-#: Application/DialogComponent.cpp:3142 Application/res/event.cpp:3
-#: Application/res/todo.cpp:3
+#: Application/DialogComponent.cpp:3390
 msgid "Template"
+msgstr ""
+
+#: Application/DialogComponent.cpp:3969
+msgid "There is no calendar selected which can fetch the attachment."
+msgstr ""
+
+#: Application/DialogComponent.cpp:3970 Application/DialogComponent.cpp:4007
+#: Application/DialogComponent.cpp:4032
+msgid "Operation failed."
+msgstr ""
+
+#: Application/DialogComponent.cpp:3976
+msgid "Open"
+msgstr ""
+
+#: Application/DialogComponent.cpp:3977
+msgid "Save"
+msgstr ""
+
+#: Application/DialogComponent.cpp:4006
+msgid "Failed to read the attachment."
+msgstr ""
+
+#: Application/DialogComponent.cpp:4018
+msgid "Save to a file"
+msgstr ""
+
+#: Application/DialogComponent.cpp:4031
+msgid "Failed to save the attachment."
 msgstr ""
 
 #: Application/DialogDayRange.cpp:31
@@ -2077,300 +2190,286 @@ msgstr ""
 msgid "To:"
 msgstr ""
 
-#: Application/DialogEvent.cpp:342
+#: Application/DialogEvent.cpp:339
 msgid "The end time cannot be earlier than the start time."
 msgstr ""
 
-#: Application/DialogEvent.cpp:410 Application/Resource.h:464
+#: Application/DialogEvent.cpp:400 Application/Resource.h:477
 msgid "Birthday"
 msgstr ""
 
-#: Application/DialogEvent.cpp:410 Application/Resource.h:463
+#: Application/DialogEvent.cpp:400 Application/Resource.h:476
 msgid "Anniversary"
 msgstr ""
 
-#: Application/DialogEvent.cpp:412
+#: Application/DialogEvent.cpp:402
 msgid ""
 "You have created a birthday or anniversary but didn't define any "
 "recurrence.\n"
 "Do you want to make the event repeat every year?"
 msgstr ""
 
-#: Application/DialogMessage.cpp:167
+#: Application/DialogMessage.cpp:171
 msgid "Error"
 msgstr ""
 
-#: Application/DialogMessage.cpp:171
+#: Application/DialogMessage.cpp:175
 msgid "Warning"
 msgstr ""
 
-#: Application/DialogMessage.cpp:175
+#: Application/DialogMessage.cpp:179
 msgid "Question"
 msgstr ""
 
-#: Application/DialogMessage.cpp:179
+#: Application/DialogMessage.cpp:183
 msgid "Information"
 msgstr ""
 
-#: Application/DialogMessage.cpp:226
+#: Application/DialogMessage.cpp:230
 msgid "Do not show this again"
 msgstr ""
 
-#: Application/DialogMessage.cpp:314 Application/DialogMessage.cpp:322
-#: Application/DialogMessage.cpp:339 Application/DialogMessage.cpp:347
-#: Application/DialogMessage.cpp:376 Application/Resource.h:444
+#: Application/DialogMessage.cpp:325 Application/DialogMessage.cpp:333
+#: Application/DialogMessage.cpp:350 Application/DialogMessage.cpp:358
+#: Application/DialogMessage.cpp:387 Application/Resource.h:457
 #: Application/res/alarm.cpp:9 Application/res/bulkchange.cpp:76
-#: Application/res/event.cpp:43 Application/res/todo.cpp:69
+#: Application/res/customize.cpp:33
 msgid "&OK"
 msgstr ""
 
-#: Application/DialogMessage.cpp:330 Application/DialogMessage.cpp:368
+#: Application/DialogMessage.cpp:341 Application/DialogMessage.cpp:379
 msgid "&Yes"
 msgstr ""
 
-#: Application/DialogMessage.cpp:331 Application/DialogMessage.cpp:372
+#: Application/DialogMessage.cpp:342 Application/DialogMessage.cpp:383
 msgid "&No"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:95 Application/res/newmanager.cpp:1
+#: Application/DialogNewManager.cpp:96 Application/res/newmanager.cpp:1
 msgid "Manager"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:137 Application/ItemCalendar.cpp:792
-#: Plugins/CalDAVPlugin/CalDAVHandler.cpp:274
-msgid "Events"
-msgstr ""
-
-#: Application/DialogNewManager.cpp:139
+#: Application/DialogNewManager.cpp:140
 #: Plugins/CalDAVPlugin/CalDAVHandler.cpp:275
 msgid "Tasks"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:216
+#: Application/DialogNewManager.cpp:218
 msgid "Show original"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:219
+#: Application/DialogNewManager.cpp:222
 msgid "Show current"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:222
+#: Application/DialogNewManager.cpp:226
 msgid "Show upcoming"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:233 Application/DialogNewManager.cpp:317
-#: Application/DialogNewManager.cpp:1750
+#: Application/DialogNewManager.cpp:238 Application/DialogNewManager.cpp:327
+#: Application/DialogNewManager.cpp:1773
 msgid "New"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:236 Application/DialogNewManager.cpp:318
-#: Application/DialogNewManager.cpp:1751 Application/res/newmanager.cpp:4
+#: Application/DialogNewManager.cpp:242 Application/DialogNewManager.cpp:328
+#: Application/DialogNewManager.cpp:1774 Application/res/newmanager.cpp:4
 msgid "Edit"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:239 Application/DialogNewManager.cpp:319
-#: Application/DialogNewManager.cpp:1752 Application/DialogOptions.cpp:1250
-#: Application/HotkeyControl.cpp:180 Application/ItemCalendar.cpp:790
-#: Application/ItemListAlarm.cpp:439 Application/ItemListAlarm.cpp:452
-#: Application/res/event.cpp:41 Application/res/event.cpp:42
-#: Application/res/todo.cpp:67 Application/res/todo.cpp:68
-msgid "Delete"
-msgstr ""
-
-#: Application/DialogNewManager.cpp:242 Application/DialogNewManager.cpp:321
-#: Application/DialogNewManager.cpp:1754
+#: Application/DialogNewManager.cpp:250 Application/DialogNewManager.cpp:331
+#: Application/DialogNewManager.cpp:1777
 msgid "Copy to"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:245 Application/DialogNewManager.cpp:322
-#: Application/DialogNewManager.cpp:1755
+#: Application/DialogNewManager.cpp:254 Application/DialogNewManager.cpp:332
+#: Application/DialogNewManager.cpp:1778
 msgid "Move to"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:248 Application/DialogNewManager.cpp:323
-#: Application/DialogNewManager.cpp:1756
+#: Application/DialogNewManager.cpp:258 Application/DialogNewManager.cpp:333
+#: Application/DialogNewManager.cpp:1779
 msgid "Change fields"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:301
+#: Application/DialogNewManager.cpp:311
 msgid "Import"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:302
+#: Application/DialogNewManager.cpp:312
 msgid "Export"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:305 Application/res/print.cpp:9
+#: Application/DialogNewManager.cpp:315 Application/res/print.cpp:9
 msgid "Print..."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:307
+#: Application/DialogNewManager.cpp:317
 #: Plugins/NetworkPlugin/NetworkHandler.cpp:240
 msgid "Backup"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:308
+#: Application/DialogNewManager.cpp:318
 msgid "Restore"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:310 Application/res/about.cpp:2
+#: Application/DialogNewManager.cpp:320 Application/res/about.cpp:2
 #: Application/res/debugwindow.cpp:2 Application/res/newmanager.cpp:2
 #: Application/res/print.cpp:11
 msgid "Close"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:325
+#: Application/DialogNewManager.cpp:335
 msgid "Select all"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:326
+#: Application/DialogNewManager.cpp:336
 msgid "Select none"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:327
+#: Application/DialogNewManager.cpp:337
 msgid "Toggle selection"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:328
+#: Application/DialogNewManager.cpp:338
 msgid "Select duplicates"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:734
+#: Application/DialogNewManager.cpp:754
 msgid "Sort by due time"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:738
+#: Application/DialogNewManager.cpp:758
 msgid "Sort by end time"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:742
+#: Application/DialogNewManager.cpp:762
 msgid "Sort by summary"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:745
+#: Application/DialogNewManager.cpp:765
 msgid "Sort by location"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:748
+#: Application/DialogNewManager.cpp:768
 msgid "Sort by calendar"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:751
+#: Application/DialogNewManager.cpp:771
 msgid "Sort by category"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:754
+#: Application/DialogNewManager.cpp:774
 msgid "Sort by url"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:757
+#: Application/DialogNewManager.cpp:777
 msgid "Sort by repeat"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:760
+#: Application/DialogNewManager.cpp:780
 msgid "Sort by priority"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:763
+#: Application/DialogNewManager.cpp:783
 msgid "Sort by status"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:766
+#: Application/DialogNewManager.cpp:786
 msgid "Sort by create time"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:769
+#: Application/DialogNewManager.cpp:789
 msgid "Sort by modify time"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:773
+#: Application/DialogNewManager.cpp:793
 msgid "Sort by start time"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:791
+#: Application/DialogNewManager.cpp:811
 msgid "Start time"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:793
+#: Application/DialogNewManager.cpp:813
 msgid "End time"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:795 Application/Resource.h:788
+#: Application/DialogNewManager.cpp:815 Application/Resource.h:803
 msgid "Summary"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:797 Application/DialogPrint.cpp:432
+#: Application/DialogNewManager.cpp:817 Application/DialogPrint.cpp:432
 msgid "Location"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:803 Application/DialogPrint.cpp:441
+#: Application/DialogNewManager.cpp:823 Application/DialogPrint.cpp:441
 msgid "Url"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:816
+#: Application/DialogNewManager.cpp:836
 msgid "Create time"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:818
+#: Application/DialogNewManager.cpp:838
 msgid "Modify time"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:821 Application/DialogSkinSettings.cpp:371
+#: Application/DialogNewManager.cpp:841 Application/DialogSkinSettings.cpp:371
 #: Application/DialogSkinSettings.cpp:577 Application/ItemListEvent.cpp:799
 #: Application/ItemListTodo.cpp:1492 Application/ItemListTodo.cpp:1515
 msgid "Reverse sorting"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:917
+#: Application/DialogNewManager.cpp:937
 #, c-format
 msgid "Total: %i (Selected: %i)"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1088
+#: Application/DialogNewManager.cpp:1108
 msgid ""
 "Opening a lot of items for editing can take a long time. Are you sure you "
 "want to do this?"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1116
+#: Application/DialogNewManager.cpp:1136
 msgid "Do you want to delete the selected item?"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1120
+#: Application/DialogNewManager.cpp:1140
 #, c-format
 msgid "Do you want to delete the selected %i items?"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1141
+#: Application/DialogNewManager.cpp:1163
 msgid "The selected item is read only and cannot be deleted."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1145
+#: Application/DialogNewManager.cpp:1167
 #, c-format
 msgid "There were %i read only items which were not deleted."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1148
+#: Application/DialogNewManager.cpp:1170
 msgid "Unable to delete some items."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1202
+#: Application/DialogNewManager.cpp:1225
 msgid "Select the calendar where the items should be copied to:"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1206
+#: Application/DialogNewManager.cpp:1229
 msgid "Select the calendar where the items should be moved to:"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1225 Application/DialogNewManager.cpp:1332
+#: Application/DialogNewManager.cpp:1248 Application/DialogNewManager.cpp:1355
 msgid "Operation failed!"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1225
+#: Application/DialogNewManager.cpp:1248
 msgid "There are no calendars available that are able to store the items."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1257
+#: Application/DialogNewManager.cpp:1280
 msgid ""
 "Moving items to an online calendar is not safe. If the destination calendar "
 "doesn't accept the items because of network problems or for some other "
@@ -2380,80 +2479,80 @@ msgid ""
 "doing."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1306
+#: Application/DialogNewManager.cpp:1329
 #, c-format
 msgid "Moved %i items to these calendars:\n"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1310
+#: Application/DialogNewManager.cpp:1333
 #, c-format
 msgid "Copied %i items to these calendars:\n"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1315
+#: Application/DialogNewManager.cpp:1338
 msgid ""
 "\n"
 "Important! Copying items to an online calendar takes some time so they won't "
 "be available until after a while."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1321
+#: Application/DialogNewManager.cpp:1344
 msgid "Some items were set as read-only and were copied instead moved."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1324
+#: Application/DialogNewManager.cpp:1347
 msgid "Operation finished!"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1332
+#: Application/DialogNewManager.cpp:1355
 msgid "You need to select at least one calendar for the events."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1470
+#: Application/DialogNewManager.cpp:1493
 msgid "Backup was successful."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1471
+#: Application/DialogNewManager.cpp:1494
 msgid "The backup contains these files:"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1490
+#: Application/DialogNewManager.cpp:1513
 msgid ""
 "Warning! The backup file does not contain any iCalendar files. If you have "
 "any locally stored events or tasks you need to back up them manually."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1498
+#: Application/DialogNewManager.cpp:1521
 msgid "Unable to create the backup file."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1531
+#: Application/DialogNewManager.cpp:1554
 msgid "The archive contains unknown files:\n"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1538
+#: Application/DialogNewManager.cpp:1561
 msgid "Restore was successful."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1542
+#: Application/DialogNewManager.cpp:1565
 msgid "There were problems during the restore."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1646
+#: Application/DialogNewManager.cpp:1669
 #, c-format
 msgid "Exported %i events successfully."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1650
+#: Application/DialogNewManager.cpp:1673
 #, c-format
 msgid "Exported %i todo items successfully."
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1657
+#: Application/DialogNewManager.cpp:1680
 msgid "Export failed!"
 msgstr ""
 
-#: Application/DialogNewManager.cpp:1688
+#: Application/DialogNewManager.cpp:1711
 msgid "Import failed!"
 msgstr ""
 
@@ -2485,14 +2584,6 @@ msgstr ""
 msgid "Authenticate"
 msgstr ""
 
-#: Application/DialogOptions.cpp:212
-msgid "OK"
-msgstr ""
-
-#: Application/DialogOptions.cpp:365
-msgid "Get more languages..."
-msgstr ""
-
 #: Application/DialogOptions.cpp:466 Application/DialogSkinSettings.cpp:279
 msgid "On Top"
 msgstr ""
@@ -2505,192 +2596,192 @@ msgstr ""
 msgid "On Desktop"
 msgstr ""
 
-#: Application/DialogOptions.cpp:732
-msgid "Get more skins..."
+#: Application/DialogOptions.cpp:506
+msgid "Select the categories:"
 msgstr ""
 
-#: Application/DialogOptions.cpp:868 Application/DialogOptions.cpp:1173
-#: Application/DialogOptions.cpp:1292 Application/DialogSkinSettings.cpp:386
+#: Application/DialogOptions.cpp:873 Application/DialogOptions.cpp:1178
+#: Application/DialogOptions.cpp:1297 Application/DialogSkinSettings.cpp:386
 msgid "TrayIcon"
 msgstr ""
 
-#: Application/DialogOptions.cpp:1031
+#: Application/DialogOptions.cpp:1036
 msgid "Author"
 msgstr ""
 
-#: Application/DialogOptions.cpp:1046
+#: Application/DialogOptions.cpp:1051
 msgid "Homepage"
 msgstr ""
 
-#: Application/DialogOptions.cpp:1054
+#: Application/DialogOptions.cpp:1059
 msgid "Addons"
 msgstr ""
 
-#: Application/DialogOptions.cpp:1069
+#: Application/DialogOptions.cpp:1074
 msgid "Version history"
 msgstr ""
 
-#: Application/DialogOptions.cpp:1089
+#: Application/DialogOptions.cpp:1094
 msgid ""
 "This is an old Rainlendar skin. Some of the features might not be supported."
 msgstr ""
 
-#: Application/DialogOptions.cpp:1118 Application/res/options.cpp:35
+#: Application/DialogOptions.cpp:1123 Application/res/options.cpp:35
 msgid "Advanced >>>"
 msgstr ""
 
-#: Application/DialogOptions.cpp:1122
+#: Application/DialogOptions.cpp:1127
 msgid "<<< Simple"
 msgstr ""
 
-#: Application/DialogOptions.cpp:1249
+#: Application/DialogOptions.cpp:1254
 msgid "Open containing folder"
 msgstr ""
 
-#: Application/DialogOptions.cpp:1488
+#: Application/DialogOptions.cpp:1493
 msgid "Custom categories are not supported."
 msgstr ""
 
-#: Application/DialogOptions.cpp:1488
+#: Application/DialogOptions.cpp:1493
 #, c-format
 msgid ""
 "The skin \"%s\" doesn't support custom category appearances so it's not "
 "possible to edit them."
 msgstr ""
 
-#: Application/DialogOptions.cpp:1623
+#: Application/DialogOptions.cpp:1628
 msgid "Activate only default windows?"
 msgstr ""
 
-#: Application/DialogOptions.cpp:1624
+#: Application/DialogOptions.cpp:1629
 msgid "Do you want to activate only the default windows or all windows?"
 msgstr ""
 
-#: Application/DialogOptions.cpp:1626
+#: Application/DialogOptions.cpp:1631
 msgid "Note that activating all windows can decrease the performance."
 msgstr ""
 
-#: Application/DialogOptions.cpp:1629
+#: Application/DialogOptions.cpp:1634
 msgid "&Default"
 msgstr ""
 
-#: Application/DialogOptions.cpp:1630
+#: Application/DialogOptions.cpp:1635
 msgid "&All"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2033
+#: Application/DialogOptions.cpp:2038
 msgid ""
 "Activate the edit field and press the hotkey combination. Note that the "
 "hotkeys are global and will affect other applications too so don't make them "
 "too simple."
 msgstr ""
 
-#: Application/DialogOptions.cpp:2042
+#: Application/DialogOptions.cpp:2047
 msgid "Hotkey"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2043
+#: Application/DialogOptions.cpp:2048
 msgid "Function"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2127
+#: Application/DialogOptions.cpp:2132
 msgid "Search:"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2228 Application/Rainlendar.cpp:772
+#: Application/DialogOptions.cpp:2235 Application/Rainlendar.cpp:766
 msgid "Do you want to reset all settings?"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2229
+#: Application/DialogOptions.cpp:2236
 msgid ""
 "This will reset all settings to default values. The default settings are "
 "applied immediately. Do you want to continue?"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2352
+#: Application/DialogOptions.cpp:2359
 msgid "Common"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2353 Application/DialogOptions.cpp:2848
+#: Application/DialogOptions.cpp:2360 Application/DialogOptions.cpp:2859
 #: Application/DialogSkinSettings.cpp:294
 msgid "Enabled"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2354 Application/DialogOptions.cpp:2852
+#: Application/DialogOptions.cpp:2361 Application/DialogOptions.cpp:2863
 msgid "Read only"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2355 Application/DialogOptions.cpp:2856
+#: Application/DialogOptions.cpp:2362 Application/DialogOptions.cpp:2867
 msgid "Ignore alarms"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2356 Application/DialogOptions.cpp:2860
+#: Application/DialogOptions.cpp:2363 Application/DialogOptions.cpp:2871
 msgid "Default alarm (minutes)"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2368 Application/DialogOptions.cpp:2864
+#: Application/DialogOptions.cpp:2375 Application/DialogOptions.cpp:2875
 msgid "Visual category"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2370 Application/DialogOptions.cpp:2876
+#: Application/DialogOptions.cpp:2377 Application/DialogOptions.cpp:2887
 msgid "Time offset (mins)"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2375 Application/DialogOptions.cpp:2880
+#: Application/DialogOptions.cpp:2382 Application/DialogOptions.cpp:2891
 msgid "Time zone"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2639
+#: Application/DialogOptions.cpp:2650
 #, c-format
 msgid "Copy of %s"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2643 Application/WizardPageCalendar.cpp:779
+#: Application/DialogOptions.cpp:2654 Application/WizardPageCalendar.cpp:779
 msgid "Please enter a name for the calendar."
 msgstr ""
 
-#: Application/DialogOptions.cpp:2653 Application/WizardPageCalendar.cpp:891
+#: Application/DialogOptions.cpp:2664 Application/WizardPageCalendar.cpp:891
 msgid "Illegal character!"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2654 Application/WizardPageCalendar.cpp:892
+#: Application/DialogOptions.cpp:2665 Application/WizardPageCalendar.cpp:892
 msgid "It's not allowed to use the '/' or ';' characters in the name."
 msgstr ""
 
-#: Application/DialogOptions.cpp:2673
+#: Application/DialogOptions.cpp:2684
 #, c-format
 msgid "A calendar called \"%s\" already exists."
 msgstr ""
 
-#: Application/DialogOptions.cpp:2674
+#: Application/DialogOptions.cpp:2685
 msgid "Choose another name."
 msgstr ""
 
-#: Application/DialogOptions.cpp:2804 Application/WizardPageCalendar.cpp:495
+#: Application/DialogOptions.cpp:2815 Application/WizardPageCalendar.cpp:495
 msgid "Authentication failure"
 msgstr ""
 
-#: Application/DialogOptions.cpp:2805 Application/WizardPageCalendar.cpp:496
+#: Application/DialogOptions.cpp:2816 Application/WizardPageCalendar.cpp:496
 msgid ""
 "The OAuth process failed. Rainlendar is unable to access your calendar data."
 msgstr ""
 
-#: Application/DialogOptions.cpp:3356
+#: Application/DialogOptions.cpp:3367
 msgid "Do you want to delete the skin?"
 msgstr ""
 
-#: Application/DialogOptions.cpp:3357
+#: Application/DialogOptions.cpp:3368
 #, c-format
 msgid ""
 "If you select yes the skin \"%s\"\n"
 "will be permanently deleted."
 msgstr ""
 
-#: Application/DialogOptions.cpp:3363
+#: Application/DialogOptions.cpp:3374
 msgid "Delete failed!"
 msgstr ""
 
-#: Application/DialogOptions.cpp:3364
+#: Application/DialogOptions.cpp:3375
 msgid "Unable to delete the skin."
 msgstr ""
 
@@ -2914,24 +3005,28 @@ msgstr ""
 msgid "Local"
 msgstr ""
 
-#: Application/DialogTodo.cpp:88 Application/DialogTodo.cpp:458
+#: Application/DialogTodo.cpp:96 Application/DialogTodo.cpp:447
 #: Application/res/bulkchange.cpp:4
 msgid "Task"
 msgstr ""
 
-#: Application/DialogTodo.cpp:595
+#: Application/DialogTodo.cpp:126
+msgid "Date only"
+msgstr ""
+
+#: Application/DialogTodo.cpp:584
 msgid "The due date needs to be set before recurrence can be defined."
 msgstr ""
 
-#: Application/DialogTodo.cpp:605
+#: Application/DialogTodo.cpp:594
 msgid "The due time cannot be earlier than the start time."
 msgstr ""
 
-#: Application/DialogTodo.cpp:624
+#: Application/DialogTodo.cpp:613
 msgid "Unable to add new alarm!"
 msgstr ""
 
-#: Application/DialogTodo.cpp:625
+#: Application/DialogTodo.cpp:614
 msgid ""
 "The due date needs to be specified for the task before it can have alarms."
 msgstr ""
@@ -2987,7 +3082,7 @@ msgstr ""
 msgid "Unable to install the file \"%s\"."
 msgstr ""
 
-#: Application/DropTarget.cpp:167 Application/Util.cpp:2480
+#: Application/DropTarget.cpp:167 Application/Util.cpp:2472
 msgid "The folder does not have write permissions."
 msgstr ""
 
@@ -3157,44 +3252,56 @@ msgstr ""
 msgid "ScrollLock"
 msgstr ""
 
-#: Application/ItemCalendar.cpp:755
+#: Application/ItemCalendar.cpp:754
 #, c-format
 msgid "Edit \"%s\""
 msgstr ""
 
-#: Application/ItemCalendar.cpp:766
-msgid "Delete all"
+#: Application/ItemCalendar.cpp:764 Application/ItemListAlarm.cpp:436
+#: Application/ItemListAlarm.cpp:449 Application/ItemListEvent.cpp:772
+#: Application/ItemListTodo.cpp:1442 Application/ItemScheduleEvent.cpp:177
+#: Application/ItemScheduleEvent.cpp:193
+msgid "Move to next day"
 msgstr ""
 
-#: Application/ItemCalendar.cpp:783 Application/ItemListEvent.cpp:782
+#: Application/ItemCalendar.cpp:771 Application/ItemListEvent.cpp:782
 msgid "Dismiss alarm"
 msgstr ""
 
-#: Application/ItemList.cpp:636
+#: Application/ItemCalendar.cpp:788
+msgid "Delete all"
+msgstr ""
+
+#: Application/ItemCalendar.cpp:797
+#, c-format
+msgid "Delete \"%s\""
+msgstr ""
+
+#: Application/ItemList.cpp:643
 msgid "Tomorrow"
 msgstr ""
 
-#: Application/ItemList.cpp:640
+#: Application/ItemList.cpp:647
 msgid "Yesterday"
 msgstr ""
 
-#: Application/ItemList.cpp:680 Application/ItemList.cpp:720
+#: Application/ItemList.cpp:687 Application/ItemList.cpp:727
 msgid "Last %1"
 msgstr ""
 
-#: Application/ItemList.cpp:689 Application/ItemList.cpp:747
+#: Application/ItemList.cpp:696 Application/ItemList.cpp:754
 msgid "%1 next week"
 msgstr ""
 
-#: Application/ItemList.cpp:697 Application/ItemList.cpp:728
+#: Application/ItemList.cpp:704 Application/ItemList.cpp:735
 msgid "%1 last week"
 msgstr ""
 
-#: Application/ItemList.cpp:703 Application/ItemList.cpp:734
+#: Application/ItemList.cpp:710 Application/ItemList.cpp:741
 msgid "%1 %2 weeks ago"
 msgstr ""
 
-#: Application/ItemList.cpp:709 Application/ItemList.cpp:752
+#: Application/ItemList.cpp:716 Application/ItemList.cpp:759
 msgid "%1 in %2 weeks"
 msgstr ""
 
@@ -3209,28 +3316,28 @@ msgid " (Overdue %s)"
 msgstr ""
 
 #: Application/ItemListAlarm.cpp:254 Application/ItemListAlarm.cpp:289
-#: Application/Util.cpp:1684
+#: Application/Util.cpp:1676
 msgid "day"
 msgstr ""
 
 #: Application/ItemListAlarm.cpp:254 Application/ItemListAlarm.cpp:289
-#: Application/Util.cpp:1684
+#: Application/Util.cpp:1676
 msgid "days"
 msgstr ""
 
-#: Application/ItemListAlarm.cpp:258 Application/Util.cpp:1692
+#: Application/ItemListAlarm.cpp:258 Application/Util.cpp:1684
 msgid "hour"
 msgstr ""
 
-#: Application/ItemListAlarm.cpp:258 Application/Util.cpp:1692
+#: Application/ItemListAlarm.cpp:258 Application/Util.cpp:1684
 msgid "hours"
 msgstr ""
 
-#: Application/ItemListAlarm.cpp:262 Application/Util.cpp:1700
+#: Application/ItemListAlarm.cpp:262 Application/Util.cpp:1692
 msgid "minute"
 msgstr ""
 
-#: Application/ItemListAlarm.cpp:262 Application/Util.cpp:1700
+#: Application/ItemListAlarm.cpp:262 Application/Util.cpp:1692
 msgid "minutes"
 msgstr ""
 
@@ -3242,22 +3349,16 @@ msgstr ""
 msgid "before target"
 msgstr ""
 
-#: Application/ItemListAlarm.cpp:420 Application/Resource.h:573
+#: Application/ItemListAlarm.cpp:420 Application/Resource.h:586
 msgid "Snooze"
 msgstr ""
 
-#: Application/ItemListAlarm.cpp:428 Application/Resource.h:574
+#: Application/ItemListAlarm.cpp:428 Application/Resource.h:587
 msgid "Dismiss"
 msgstr ""
 
 #: Application/ItemListAlarm.cpp:433 Application/ItemListAlarm.cpp:446
 msgid "Edit..."
-msgstr ""
-
-#: Application/ItemListAlarm.cpp:436 Application/ItemListAlarm.cpp:449
-#: Application/ItemListEvent.cpp:772 Application/ItemListTodo.cpp:1442
-#: Application/ItemScheduleEvent.cpp:177 Application/ItemScheduleEvent.cpp:193
-msgid "Move to next day"
 msgstr ""
 
 #: Application/ItemListEvent.cpp:613
@@ -3310,11 +3411,6 @@ msgstr ""
 msgid "No Priority"
 msgstr ""
 
-#: Application/ItemListTodo.cpp:1112 Application/res/bulkchange.cpp:38
-#: Application/res/todo.cpp:21
-msgid "Medium"
-msgstr ""
-
 #: Application/ItemListTodo.cpp:1414
 msgid "Expand"
 msgstr ""
@@ -3349,23 +3445,6 @@ msgstr ""
 
 #: Application/ItemListTooltip.cpp:86
 msgid "Today's events:"
-msgstr ""
-
-#: Application/PluginManager.cpp:181
-msgid "Invalid plugins found!"
-msgstr ""
-
-#: Application/PluginManager.cpp:182
-msgid ""
-"The following files in Rainlendar's plugins\n"
-"folder are invalid and should be removed:\n"
-msgstr ""
-
-#: Application/PluginManager.cpp:191
-msgid ""
-"\n"
-"\n"
-"Make sure that all the plugins are from the same Rainlendar version."
 msgstr ""
 
 #: Application/Rainlendar.cpp:219
@@ -3416,17 +3495,17 @@ msgstr ""
 msgid "don't show the messagebox after importing and installing files"
 msgstr ""
 
-#: Application/Rainlendar.cpp:563
+#: Application/Rainlendar.cpp:557
 msgid "Do you want to start another instance?"
 msgstr ""
 
-#: Application/Rainlendar.cpp:564
+#: Application/Rainlendar.cpp:558
 msgid ""
 "Rainlendar seems to be already running. You can start another instance by "
 "selecting 'Yes'."
 msgstr ""
 
-#: Application/Rainlendar.cpp:567
+#: Application/Rainlendar.cpp:561
 msgid ""
 "\n"
 "\n"
@@ -3434,24 +3513,24 @@ msgid ""
 "Rainlendar please remove this file:\n"
 msgstr ""
 
-#: Application/Rainlendar.cpp:687
+#: Application/Rainlendar.cpp:681
 #, c-format
 msgid ""
 "Unable to load resources from path:\n"
 "%s"
 msgstr ""
 
-#: Application/Rainlendar.cpp:774
+#: Application/Rainlendar.cpp:768
 msgid "Note that your events and tasks will be left untouched."
 msgstr ""
 
-#: Application/Rainlendar.cpp:792
+#: Application/Rainlendar.cpp:786
 msgid ""
 "The settings file is missing or empty.\n"
 "Do you want to restore it from the latest back up file?"
 msgstr ""
 
-#: Application/Rainlendar.cpp:808
+#: Application/Rainlendar.cpp:802
 #, c-format
 msgid ""
 "Unable to create configuration file:\n"
@@ -3461,7 +3540,7 @@ msgid ""
 "Make sure that the folder has write permissions."
 msgstr ""
 
-#: Application/Rainlendar.cpp:825
+#: Application/Rainlendar.cpp:819
 #, c-format
 msgid ""
 "The configuration file is not writable:\n"
@@ -3471,15 +3550,15 @@ msgid ""
 "Make sure that it has correct permissions."
 msgstr ""
 
-#: Application/Rainlendar.cpp:827
+#: Application/Rainlendar.cpp:821
 msgid "You won't be able to store any settings permanently."
 msgstr ""
 
-#: Application/Rainlendar.cpp:840
+#: Application/Rainlendar.cpp:834
 msgid "This is a BETA version."
 msgstr ""
 
-#: Application/Rainlendar.cpp:841
+#: Application/Rainlendar.cpp:835
 msgid ""
 "You are using a BETA version of Rainlendar. It means that the software has "
 "not been tested and not suitable for daily use.\n"
@@ -3490,22 +3569,22 @@ msgid ""
 "(This message is shown only once)"
 msgstr ""
 
-#: Application/Rainlendar.cpp:879
+#: Application/Rainlendar.cpp:873
 msgid "Google Calendar support has been changed"
 msgstr ""
 
-#: Application/Rainlendar.cpp:880
+#: Application/Rainlendar.cpp:874
 msgid ""
 "The Google Calender support uses now a different calendar type. To show the "
 "Google events again you need to create a new calendar and choose 'Google "
 "Calendar (v3)' as the calendar type."
 msgstr ""
 
-#: Application/Rainlendar.cpp:985
+#: Application/Rainlendar.cpp:979
 msgid "Everything is hidden."
 msgstr ""
 
-#: Application/Rainlendar.cpp:986
+#: Application/Rainlendar.cpp:980
 msgid ""
 "It looks like all the windows and the trayicon have been hidden. Was this "
 "your purpose?\n"
@@ -3514,135 +3593,135 @@ msgid ""
 "again. Click 'No' to make all windows visible again."
 msgstr ""
 
-#: Application/Rainlendar.cpp:1200 Application/Rainlendar.cpp:1278
+#: Application/Rainlendar.cpp:1194 Application/Rainlendar.cpp:1272
 msgid "Startup error!"
 msgstr ""
 
-#: Application/Rainlendar.cpp:1201
+#: Application/Rainlendar.cpp:1195
 msgid ""
 "Rainlendar was not able to refresh the settings correctly. Do you want to "
 "reset all settings and try again or use one of the backed up versions?"
 msgstr ""
 
-#: Application/Rainlendar.cpp:1204
+#: Application/Rainlendar.cpp:1198
 msgid "&Reset"
 msgstr ""
 
-#: Application/Rainlendar.cpp:1205
+#: Application/Rainlendar.cpp:1199
 msgid "&Use backup"
 msgstr ""
 
-#: Application/Rainlendar.cpp:1206
+#: Application/Rainlendar.cpp:1200
 msgid "&Keep"
 msgstr ""
 
-#: Application/Rainlendar.cpp:1264
+#: Application/Rainlendar.cpp:1258
 #, c-format
 msgid ""
 "There are no skins in path:\n"
 "%s"
 msgstr ""
 
-#: Application/Rainlendar.cpp:1279
+#: Application/Rainlendar.cpp:1273
 msgid ""
 "Rainlendar was not able to load the selected skin. Do you want to use the "
 "default skin instead?"
 msgstr ""
 
-#: Application/Rainlendar.cpp:1297
+#: Application/Rainlendar.cpp:1291
 msgid "Unable to load the skin!"
 msgstr ""
 
-#: Application/Rainlendar.cpp:1298
+#: Application/Rainlendar.cpp:1292
 msgid ""
 "The selected skin could not be loaded. You can find more details from the "
 "Rainlendar's log."
 msgstr ""
 
-#: Application/Rainlendar.cpp:1301
+#: Application/Rainlendar.cpp:1295
 msgid "&Ok"
 msgstr ""
 
-#: Application/Rainlendar.cpp:1302
+#: Application/Rainlendar.cpp:1296
 msgid "&Show log"
 msgstr ""
 
-#: Application/Rainlendar.cpp:1336 Application/Resource.h:441
+#: Application/Rainlendar.cpp:1330 Application/Resource.h:454
 msgid "Yes"
 msgstr ""
 
-#: Application/Rainlendar.cpp:1336 Application/Resource.h:442
+#: Application/Rainlendar.cpp:1330 Application/Resource.h:455
 msgid "No"
 msgstr ""
 
-#: Application/Rainlendar.cpp:1686
+#: Application/Rainlendar.cpp:1684
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
 msgstr ""
 
-#: Application/Rainlendar.cpp:1704
+#: Application/Rainlendar.cpp:1702
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
 
-#: Application/Rainlendar.cpp:1709
+#: Application/Rainlendar.cpp:1707
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
 
-#: Application/Rainlendar.cpp:2105
+#: Application/Rainlendar.cpp:2103
 msgid "Skin error!"
 msgstr ""
 
-#: Application/Rainlendar.cpp:2106
+#: Application/Rainlendar.cpp:2104
 msgid ""
 "The 'Large Calendar' skin window in Shadow4 has been replaced with a 'Large' "
 "option for the default 'Calendar' window. Click OK to reset the skin."
 msgstr ""
 
-#: Application/Rainlendar.cpp:2123
+#: Application/Rainlendar.cpp:2121
 msgid "Use large default skin?"
 msgstr ""
 
-#: Application/Rainlendar.cpp:2124
+#: Application/Rainlendar.cpp:2122
 msgid ""
 "The default values might be too small for your screen resolution. Do you "
 "want to use larger fonts and windows?"
 msgstr ""
 
-#: Application/Rainlendar.cpp:2127
+#: Application/Rainlendar.cpp:2125
 msgid "&Large"
 msgstr ""
 
-#: Application/Rainlendar.cpp:2128
+#: Application/Rainlendar.cpp:2126
 msgid "&Small"
 msgstr ""
 
-#: Application/Rainlendar.cpp:2287
+#: Application/Rainlendar.cpp:2285
 msgid ""
 "Found these old Rainlendar files:\n"
 "\n"
 msgstr ""
 
-#: Application/Rainlendar.cpp:2294
+#: Application/Rainlendar.cpp:2292
 msgid "Do you want to import them?"
 msgstr ""
 
-#: Application/Rainlendar.cpp:2316
+#: Application/Rainlendar.cpp:2314
 #, c-format
 msgid "Import failed with file: \"%s\""
 msgstr ""
 
-#: Application/Rainlendar.cpp:2446
+#: Application/Rainlendar.cpp:2445
 msgid "Purchase Rainlendar2 Pro?"
 msgstr ""
 
-#: Application/Rainlendar.cpp:2447
+#: Application/Rainlendar.cpp:2446
 msgid ""
 "I hope you've enjoyed using Rainlendar for the past month. Would you like to "
 "upgrade to the Pro version with additional functionality? If you use the "
@@ -3653,593 +3732,600 @@ msgid ""
 "Thank you for the support."
 msgstr ""
 
-#: Application/Rainlendar.cpp:2450
+#: Application/Rainlendar.cpp:2449
 msgid "&Buy Now"
 msgstr ""
 
-#: Application/Rainlendar.cpp:2451
+#: Application/Rainlendar.cpp:2450
 msgid "&Remind later"
 msgstr ""
 
-#: Application/Rainlendar.cpp:2452
+#: Application/Rainlendar.cpp:2451
 msgid "&No Thanks"
 msgstr ""
 
-#: Application/Resource.h:445
+#: Application/Resource.h:458
 msgid "Ok"
 msgstr ""
 
-#: Application/Resource.h:446
+#: Application/Resource.h:459
 msgid "Update"
 msgstr ""
 
-#: Application/Resource.h:448
+#: Application/Resource.h:461
 msgid "Make a selection:"
 msgstr ""
 
-#: Application/Resource.h:450
+#: Application/Resource.h:463
 msgid "Hide Windows"
 msgstr ""
 
-#: Application/Resource.h:451
+#: Application/Resource.h:464
 msgid "Show Windows"
 msgstr ""
 
-#: Application/Resource.h:452
+#: Application/Resource.h:465
 msgid "Toggle Windows"
 msgstr ""
 
-#: Application/Resource.h:453
+#: Application/Resource.h:466
 msgid "Toggle Today Window"
 msgstr ""
 
-#: Application/Resource.h:458
+#: Application/Resource.h:471
 msgid "Create New Task"
 msgstr ""
 
-#: Application/Resource.h:459
+#: Application/Resource.h:472
 msgid "Create New Event"
 msgstr ""
 
-#: Application/Resource.h:460
+#: Application/Resource.h:473
 msgid "Create new event or task"
 msgstr ""
 
-#: Application/Resource.h:461
+#: Application/Resource.h:474
 msgid "Quit Application"
 msgstr ""
 
-#: Application/Resource.h:465
+#: Application/Resource.h:478
 msgid "Business"
 msgstr ""
 
-#: Application/Resource.h:466
+#: Application/Resource.h:479
 msgid "Calls"
 msgstr ""
 
-#: Application/Resource.h:467
+#: Application/Resource.h:480
 msgid "Clients"
 msgstr ""
 
-#: Application/Resource.h:468
+#: Application/Resource.h:481
 msgid "Competition"
 msgstr ""
 
-#: Application/Resource.h:469
+#: Application/Resource.h:482
 msgid "Customer"
 msgstr ""
 
-#: Application/Resource.h:470
+#: Application/Resource.h:483
 msgid "Exam"
 msgstr ""
 
-#: Application/Resource.h:471
+#: Application/Resource.h:484
 msgid "Favorites"
 msgstr ""
 
-#: Application/Resource.h:472
+#: Application/Resource.h:485
 msgid "Follow Up"
 msgstr ""
 
-#: Application/Resource.h:473
+#: Application/Resource.h:486
 msgid "Gifts"
 msgstr ""
 
-#: Application/Resource.h:474
+#: Application/Resource.h:487
 msgid "Holidays"
 msgstr ""
 
-#: Application/Resource.h:475
+#: Application/Resource.h:488
 msgid "Ideas"
 msgstr ""
 
-#: Application/Resource.h:476
+#: Application/Resource.h:489
 msgid "Important"
 msgstr ""
 
-#: Application/Resource.h:477
+#: Application/Resource.h:490
 msgid "Issues"
 msgstr ""
 
-#: Application/Resource.h:478
+#: Application/Resource.h:491
 msgid "Miscellaneous"
 msgstr ""
 
-#: Application/Resource.h:479
+#: Application/Resource.h:492
 msgid "Personal"
 msgstr ""
 
-#: Application/Resource.h:480
+#: Application/Resource.h:493
 msgid "Projects"
 msgstr ""
 
-#: Application/Resource.h:481
+#: Application/Resource.h:494
 msgid "Public Holiday"
 msgstr ""
 
-#: Application/Resource.h:483
+#: Application/Resource.h:496
 msgid "Suppliers"
 msgstr ""
 
-#: Application/Resource.h:484
+#: Application/Resource.h:497
 msgid "Travel"
 msgstr ""
 
-#: Application/Resource.h:485
+#: Application/Resource.h:498
 msgid "Trip"
 msgstr ""
 
-#: Application/Resource.h:486 Application/Resource.h:727
+#: Application/Resource.h:499 Application/Resource.h:742
 msgid "TV"
 msgstr ""
 
-#: Application/Resource.h:487
+#: Application/Resource.h:500
 msgid "Vacation"
 msgstr ""
 
-#: Application/Resource.h:488
+#: Application/Resource.h:501
 msgid "Work"
 msgstr ""
 
-#: Application/Resource.h:489
+#: Application/Resource.h:502
 msgid "Medical"
 msgstr ""
 
-#: Application/Resource.h:491
+#: Application/Resource.h:504
 msgid "Urgent"
 msgstr ""
 
-#: Application/Resource.h:492
+#: Application/Resource.h:505
 msgid "Health"
 msgstr ""
 
-#: Application/Resource.h:493
+#: Application/Resource.h:506
 msgid "Sport"
 msgstr ""
 
-#: Application/Resource.h:494
+#: Application/Resource.h:507
 msgid "Game"
 msgstr ""
 
-#: Application/Resource.h:495
+#: Application/Resource.h:508
 msgid "School"
 msgstr ""
 
-#: Application/Resource.h:496
+#: Application/Resource.h:509
 msgid "Party"
 msgstr ""
 
-#: Application/Resource.h:497
+#: Application/Resource.h:510
 msgid "Movie"
 msgstr ""
 
-#: Application/Resource.h:498
+#: Application/Resource.h:511
 msgid "Car"
 msgstr ""
 
-#: Application/Resource.h:499
+#: Application/Resource.h:512
 msgid "Payments"
 msgstr ""
 
-#: Application/Resource.h:500
+#: Application/Resource.h:513
 msgid "Money"
 msgstr ""
 
-#: Application/Resource.h:501
+#: Application/Resource.h:514
 msgid "Pets"
 msgstr ""
 
-#: Application/Resource.h:502
+#: Application/Resource.h:515
 msgid "Theatre"
 msgstr ""
 
-#: Application/Resource.h:503
+#: Application/Resource.h:516
 msgid "Music"
 msgstr ""
 
-#: Application/Resource.h:505
+#: Application/Resource.h:518
 msgid "[Black]"
 msgstr ""
 
-#: Application/Resource.h:506
+#: Application/Resource.h:519
 msgid "[Blue]"
 msgstr ""
 
-#: Application/Resource.h:507
+#: Application/Resource.h:520
 msgid "[Brown]"
 msgstr ""
 
-#: Application/Resource.h:508
+#: Application/Resource.h:521
 msgid "[Cyan]"
 msgstr ""
 
-#: Application/Resource.h:509
+#: Application/Resource.h:522
 msgid "[Green]"
 msgstr ""
 
-#: Application/Resource.h:510
+#: Application/Resource.h:523
 msgid "[Grey]"
 msgstr ""
 
-#: Application/Resource.h:511
+#: Application/Resource.h:524
 msgid "[Magenta]"
 msgstr ""
 
-#: Application/Resource.h:512
+#: Application/Resource.h:525
 msgid "[Pink]"
 msgstr ""
 
-#: Application/Resource.h:513
+#: Application/Resource.h:526
 msgid "[Red]"
 msgstr ""
 
-#: Application/Resource.h:514
+#: Application/Resource.h:527
 msgid "[Yellow]"
 msgstr ""
 
-#: Application/Resource.h:515
+#: Application/Resource.h:528
 msgid "[Orange]"
 msgstr ""
 
-#: Application/Resource.h:518
+#: Application/Resource.h:531
 msgid "Must Attend"
 msgstr ""
 
-#: Application/Resource.h:519
+#: Application/Resource.h:532
 msgid "Travel Required"
 msgstr ""
 
-#: Application/Resource.h:520
+#: Application/Resource.h:533
 msgid "Needs Preparation"
 msgstr ""
 
-#: Application/Resource.h:521
+#: Application/Resource.h:534
 msgid "Phone Call"
 msgstr ""
 
-#: Application/Resource.h:523
+#: Application/Resource.h:536
 msgid "iCalendar Format"
 msgstr ""
 
-#: Application/Resource.h:524
+#: Application/Resource.h:537
 msgid "Network Shared Calendar"
 msgstr ""
 
-#: Application/Resource.h:525
+#: Application/Resource.h:538
 msgid "Microsoft Outlook"
 msgstr ""
 
-#: Application/Resource.h:526
+#: Application/Resource.h:539
 msgid "Rainlendar Ini Format"
 msgstr ""
 
-#: Application/Resource.h:527
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:494
+#: Application/Resource.h:540
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:506
 msgid "Google Calendar"
 msgstr ""
 
-#: Application/Resource.h:528
+#: Application/Resource.h:541
 msgid "CalDAV Calendar"
 msgstr ""
 
-#: Application/Resource.h:529
+#: Application/Resource.h:542
 msgid "Google Calendar (v3)"
 msgstr ""
 
-#: Application/Resource.h:530
+#: Application/Resource.h:543
 #: Plugins/GoogleTasksPlugin/GoogleTasksHandler.cpp:343
 msgid "Google Tasks"
 msgstr ""
 
-#: Application/Resource.h:531
+#: Application/Resource.h:544
 msgid "Comma Separated Values"
 msgstr ""
 
-#: Application/Resource.h:533
+#: Application/Resource.h:546
 msgid "&Next >"
 msgstr ""
 
-#: Application/Resource.h:534
+#: Application/Resource.h:547
 msgid "< &Back"
 msgstr ""
 
-#: Application/Resource.h:535
+#: Application/Resource.h:548
 msgid "&Finish"
 msgstr ""
 
-#: Application/Resource.h:537
+#: Application/Resource.h:550
 msgid "Vertical Calendar"
 msgstr ""
 
-#: Application/Resource.h:539
+#: Application/Resource.h:552
 msgid "Year Calendar"
 msgstr ""
 
-#: Application/Resource.h:540
+#: Application/Resource.h:553
 msgid "Sidebar"
 msgstr ""
 
-#: Application/Resource.h:541
+#: Application/Resource.h:554
 msgid "DigiClock"
 msgstr ""
 
-#: Application/Resource.h:542
+#: Application/Resource.h:555
 msgid "Dual Calendar"
 msgstr ""
 
-#: Application/Resource.h:544
+#: Application/Resource.h:557
 msgid "Todo List"
 msgstr ""
 
-#: Application/Resource.h:545
+#: Application/Resource.h:558
 msgid "Grid Calendar"
 msgstr ""
 
-#: Application/Resource.h:546
+#: Application/Resource.h:559
 msgid "Vertical Line Calendar"
 msgstr ""
 
-#: Application/Resource.h:547
+#: Application/Resource.h:560
 msgid "Horizontal Line Calendar"
 msgstr ""
 
-#: Application/Resource.h:549 Application/Resource.h:554
+#: Application/Resource.h:562 Application/Resource.h:567
 msgid "Visible month"
 msgstr ""
 
-#: Application/Resource.h:550
+#: Application/Resource.h:563
 msgid "Show buttons"
 msgstr ""
 
-#: Application/Resource.h:551
+#: Application/Resource.h:564
 msgid "Show adjacent days"
 msgstr ""
 
-#: Application/Resource.h:552
+#: Application/Resource.h:565
 msgid "Eventlist max height"
 msgstr ""
 
-#: Application/Resource.h:553
+#: Application/Resource.h:566
 msgid "Todolist max height"
 msgstr ""
 
-#: Application/Resource.h:555
+#: Application/Resource.h:568
 msgid "Show week numbers"
 msgstr ""
 
-#: Application/Resource.h:556
+#: Application/Resource.h:569
 msgid "Format"
 msgstr ""
 
-#: Application/Resource.h:557 Plugins/Office365Plugin/Office365Handler.cpp:302
+#: Application/Resource.h:570 Plugins/Office365Plugin/Office365Handler.cpp:302
 msgid "Timezone"
 msgstr ""
 
-#: Application/Resource.h:558
+#: Application/Resource.h:571
 msgid "Label"
 msgstr ""
 
-#: Application/Resource.h:559
+#: Application/Resource.h:572
 msgid "Show 3rd month"
 msgstr ""
 
-#: Application/Resource.h:560
+#: Application/Resource.h:573
 msgid "Show 4th month"
 msgstr ""
 
-#: Application/Resource.h:561
+#: Application/Resource.h:574
 msgid "Show 5th month"
 msgstr ""
 
-#: Application/Resource.h:562
+#: Application/Resource.h:575
 msgid "Show 6th month"
 msgstr ""
 
-#: Application/Resource.h:563
+#: Application/Resource.h:576
 msgid "Show 7th month"
 msgstr ""
 
-#: Application/Resource.h:564
+#: Application/Resource.h:577
 msgid "Show 8th month"
 msgstr ""
 
-#: Application/Resource.h:565
+#: Application/Resource.h:578
 msgid "Color"
 msgstr ""
 
-#: Application/Resource.h:566
+#: Application/Resource.h:579
 msgid "Analog Clock"
 msgstr ""
 
-#: Application/Resource.h:567
+#: Application/Resource.h:580
 msgid "Calendar List"
 msgstr ""
 
-#: Application/Resource.h:568
+#: Application/Resource.h:581
 msgid "X count"
 msgstr ""
 
-#: Application/Resource.h:569
+#: Application/Resource.h:582
 msgid "Y count"
 msgstr ""
 
-#: Application/Resource.h:571
+#: Application/Resource.h:584
 msgid "Snooze All"
 msgstr ""
 
-#: Application/Resource.h:572
+#: Application/Resource.h:585
 msgid "Dismiss All"
 msgstr ""
 
-#: Application/Resource.h:576
+#: Application/Resource.h:589
 msgid "To do"
 msgstr ""
 
-#: Application/Resource.h:579
+#: Application/Resource.h:592
 msgid "Today color"
 msgstr ""
 
-#: Application/Resource.h:580
+#: Application/Resource.h:593
 msgid "Today shape"
 msgstr ""
 
-#: Application/Resource.h:581
+#: Application/Resource.h:594
 msgid "Circle"
 msgstr ""
 
-#: Application/Resource.h:582
+#: Application/Resource.h:595
 msgid "Rectangle"
 msgstr ""
 
-#: Application/Resource.h:583
+#: Application/Resource.h:596
 msgid "Slim circle"
 msgstr ""
 
-#: Application/Resource.h:584
+#: Application/Resource.h:597
 msgid "Slim rectangle"
 msgstr ""
 
-#: Application/Resource.h:585 Application/Resource.h:657
-#: Application/Resource.h:798 Application/Resource.h:857
+#: Application/Resource.h:598 Application/Resource.h:672
+#: Application/Resource.h:813
 msgid "Red"
 msgstr ""
 
-#: Application/Resource.h:586 Application/Resource.h:592
-#: Application/Resource.h:856
+#: Application/Resource.h:599 Application/Resource.h:605
 msgid "Orange"
 msgstr ""
 
-#: Application/Resource.h:587 Application/Resource.h:658
-#: Application/Resource.h:799 Application/Resource.h:855
+#: Application/Resource.h:600 Application/Resource.h:673
+#: Application/Resource.h:814
 msgid "Yellow"
 msgstr ""
 
-#: Application/Resource.h:588 Application/Resource.h:655
-#: Application/Resource.h:800 Application/Resource.h:853
+#: Application/Resource.h:601 Application/Resource.h:670
+#: Application/Resource.h:815
 msgid "Green"
 msgstr ""
 
-#: Application/Resource.h:589 Application/Resource.h:654
-#: Application/Resource.h:807
+#: Application/Resource.h:602 Application/Resource.h:669
+#: Application/Resource.h:822
 msgid "Cyan"
 msgstr ""
 
-#: Application/Resource.h:590 Application/Resource.h:653
-#: Application/Resource.h:797 Application/Resource.h:851
+#: Application/Resource.h:603 Application/Resource.h:668
+#: Application/Resource.h:812
 msgid "Blue"
 msgstr ""
 
-#: Application/Resource.h:591 Application/Resource.h:801
+#: Application/Resource.h:604 Application/Resource.h:816
 msgid "Magenta"
 msgstr ""
 
-#: Application/Resource.h:593
+#: Application/Resource.h:606
 msgid ""
 "A sequel to the popular Shadow3-skin with some added features like visible "
 "days from the next and previous month and a skinned tooltip."
 msgstr ""
 
-#: Application/Resource.h:594 Application/Resource.h:601
-#: Application/Resource.h:662
+#: Application/Resource.h:607 Application/Resource.h:614
+#: Application/Resource.h:677
 msgid ""
 "Defines the month that the calendar shows. Set to +1 for the next month, -1 "
 "for the previous month or a value from 1 to 12 for a specific month in the "
 "current year."
 msgstr ""
 
-#: Application/Resource.h:595
+#: Application/Resource.h:608
 msgid "Uncheck to hide the next and previous buttons from the calendar."
 msgstr ""
 
-#: Application/Resource.h:596
+#: Application/Resource.h:609
 msgid "Uncheck to hide the days from the previous and next month."
 msgstr ""
 
-#: Application/Resource.h:597
+#: Application/Resource.h:610
 msgid "Defines the maximum height of the alarm."
 msgstr ""
 
-#: Application/Resource.h:598
+#: Application/Resource.h:611
 msgid "Defines the maximum height of the event list."
 msgstr ""
 
-#: Application/Resource.h:599
+#: Application/Resource.h:612
 msgid "Defines the maximum height of the to do list."
 msgstr ""
 
-#: Application/Resource.h:600
+#: Application/Resource.h:613
 msgid "Defines the width of the calendar list."
 msgstr ""
 
-#: Application/Resource.h:602
+#: Application/Resource.h:615
 msgid "Uncheck to hide the week numbers from the calendar."
 msgstr ""
 
-#: Application/Resource.h:603
+#: Application/Resource.h:616
 msgid ""
 "This defines the format of the clock. To get rid of the seconds use %H:%M or "
 "%#I:%M %p"
 msgstr ""
 
-#: Application/Resource.h:604
+#: Application/Resource.h:617
 msgid ""
 "Defines the timezone. Set to a number: ... -3, -2, -1, 0, +1, +2, +3, ... . "
 "You can also use values like CET, EST, PST, A_CST, ..."
 msgstr ""
 
-#: Application/Resource.h:605
+#: Application/Resource.h:618
 msgid "Adds a label for the clock."
 msgstr ""
 
-#: Application/Resource.h:606
+#: Application/Resource.h:619
 msgid "Defines the color of the today marker."
 msgstr ""
 
-#: Application/Resource.h:607
+#: Application/Resource.h:620
 msgid "Defines the shape of the today marker."
 msgstr ""
 
-#: Application/Resource.h:608
+#: Application/Resource.h:621
 msgid "Defines how many calendars are shown horizontally in the window."
 msgstr ""
 
-#: Application/Resource.h:609
+#: Application/Resource.h:622
 msgid "Defines how many calendars are shown vertically in the window."
 msgstr ""
 
-#: Application/Resource.h:610 Application/Resource.h:634
+#: Application/Resource.h:623 Application/Resource.h:649
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr ""
 
-#: Application/Resource.h:612
+#: Application/Resource.h:624
+msgid "Day background"
+msgstr ""
+
+#: Application/Resource.h:625
+msgid "Check to add background to day numbers to make them more easy to click."
+msgstr ""
+
+#: Application/Resource.h:627
 msgid "Week View"
 msgstr ""
 
-#: Application/Resource.h:613
+#: Application/Resource.h:628
 msgid "Today position"
 msgstr ""
 
-#: Application/Resource.h:614
+#: Application/Resource.h:629
 msgid ""
 "Defines the position where today is located. If set to 0 (the default) the "
 "week view shows a full calendar week and the today's position changes. If "
@@ -4247,905 +4333,878 @@ msgid ""
 "changed accordingly."
 msgstr ""
 
-#: Application/Resource.h:615
+#: Application/Resource.h:630
 msgid "Autoscroll"
 msgstr ""
 
-#: Application/Resource.h:616
+#: Application/Resource.h:631
 msgid "Uncheck to disable the autoscroll."
 msgstr ""
 
-#: Application/Resource.h:617
+#: Application/Resource.h:632
 msgid "Week view date format"
 msgstr ""
 
-#: Application/Resource.h:618
+#: Application/Resource.h:633
 #, c-format
 msgid ""
 "This defines the format of the date in the schedule. The default is %#d.%#m."
 msgstr ""
 
-#: Application/Resource.h:619
+#: Application/Resource.h:634
 msgid "Week view time format"
 msgstr ""
 
-#: Application/Resource.h:620
+#: Application/Resource.h:635
 msgid ""
 "This defines the format of the time in the schedule. The default is %H:%M. "
 "For AM/PM format use %#I %p"
 msgstr ""
 
-#: Application/Resource.h:621
+#: Application/Resource.h:636
 msgid "Time item height"
 msgstr ""
 
-#: Application/Resource.h:622
+#: Application/Resource.h:637
 msgid ""
 "Defines the height of one time item in the view. The default value is 30 "
 "pixels."
 msgstr ""
 
-#: Application/Resource.h:623
+#: Application/Resource.h:638
 msgid "Time item duration"
 msgstr ""
 
-#: Application/Resource.h:624
+#: Application/Resource.h:639
 msgid "60 Minutes"
 msgstr ""
 
-#: Application/Resource.h:625
+#: Application/Resource.h:640
 msgid "30 Minutes"
 msgstr ""
 
-#: Application/Resource.h:626
+#: Application/Resource.h:641
 msgid "15 Minutes"
 msgstr ""
 
-#: Application/Resource.h:627
+#: Application/Resource.h:642
 msgid ""
 "Defines the duration of one time item in the view. The default value is 60 "
 "minutes."
 msgstr ""
 
-#: Application/Resource.h:628
+#: Application/Resource.h:643
 msgid "All day max height"
 msgstr ""
 
-#: Application/Resource.h:629
+#: Application/Resource.h:644
 msgid ""
 "The maximum height of the all day event area. A scrollbar is shown after the "
 "events don't fit anymore inside this area."
 msgstr ""
 
-#: Application/Resource.h:630
+#: Application/Resource.h:645
 msgid "Event min height"
 msgstr ""
 
-#: Application/Resource.h:631
+#: Application/Resource.h:646
 msgid "The minimum height of the event."
 msgstr ""
 
-#: Application/Resource.h:632
+#: Application/Resource.h:647
 msgid "Uncheck to hide the week numbers from the view."
 msgstr ""
 
-#: Application/Resource.h:633
+#: Application/Resource.h:648
 msgid "Show weekdays"
 msgstr ""
 
-#: Application/Resource.h:636
+#: Application/Resource.h:651
 msgid "Day View"
 msgstr ""
 
-#: Application/Resource.h:637
+#: Application/Resource.h:652
 msgid "Day view time format"
 msgstr ""
 
-#: Application/Resource.h:638
+#: Application/Resource.h:653
 msgid "Day view date format"
 msgstr ""
 
-#: Application/Resource.h:640
+#: Application/Resource.h:655
 msgid "Month View"
 msgstr ""
 
-#: Application/Resource.h:641
+#: Application/Resource.h:656
 msgid "Show background"
 msgstr ""
 
-#: Application/Resource.h:642
+#: Application/Resource.h:657
 msgid "Uncheck to make the background transparent."
 msgstr ""
 
-#: Application/Resource.h:644
+#: Application/Resource.h:659
 msgid "Large Calendar"
 msgstr ""
 
-#: Application/Resource.h:646
+#: Application/Resource.h:661
 msgid "Today window max height"
 msgstr ""
 
-#: Application/Resource.h:647
+#: Application/Resource.h:662
 msgid "Defines the maximum height of the today window."
 msgstr ""
 
-#: Application/Resource.h:648
+#: Application/Resource.h:663
 msgid "Today show tasks"
 msgstr ""
 
-#: Application/Resource.h:649
+#: Application/Resource.h:664
 msgid "Defines if the tasks should be shown in the today window."
 msgstr ""
 
-#: Application/Resource.h:652
+#: Application/Resource.h:667
 msgid ""
 "The skin contains multiple different color variations. You can change them "
 "either from the skin's settings or by clicking the down arrow on the "
 "calendar."
 msgstr ""
 
-#: Application/Resource.h:656 Application/Resource.h:806
+#: Application/Resource.h:671 Application/Resource.h:821
 msgid "Brown"
 msgstr ""
 
-#: Application/Resource.h:659
+#: Application/Resource.h:674
 msgid "Dark"
 msgstr ""
 
-#: Application/Resource.h:660
+#: Application/Resource.h:675
 msgid "Colorless"
 msgstr ""
 
-#: Application/Resource.h:661
+#: Application/Resource.h:676
 msgid "Defines the color of the windows."
 msgstr ""
 
-#: Application/Resource.h:663
+#: Application/Resource.h:678
 msgid "Defines the format for the dates on the event list headers."
 msgstr ""
 
-#: Application/Resource.h:664
+#: Application/Resource.h:679
 msgid ""
 "Defines the maximum height of the event list. The default value is 300 "
 "pixels."
 msgstr ""
 
-#: Application/Resource.h:665
+#: Application/Resource.h:680
 msgid ""
 "Defines the maximum height of the to do list. The default value is 300 "
 "pixels."
 msgstr ""
 
-#: Application/Resource.h:666
+#: Application/Resource.h:681
 msgid "Removes the color from the windows."
 msgstr ""
 
-#: Application/Resource.h:667
+#: Application/Resource.h:682
 msgid "Creates darker version of the windows."
 msgstr ""
 
-#: Application/Resource.h:668 Application/res/bulkchange.cpp:14
+#: Application/Resource.h:683 Application/res/bulkchange.cpp:14
 msgid "All day"
 msgstr ""
 
-#: Application/Resource.h:670
+#: Application/Resource.h:685
 msgid "Day bar show day"
 msgstr ""
 
-#: Application/Resource.h:671
+#: Application/Resource.h:686
 msgid "Defines if the day number and name are shown in the day bar."
 msgstr ""
 
-#: Application/Resource.h:672
+#: Application/Resource.h:687
 msgid "Day bar am-pm"
 msgstr ""
 
-#: Application/Resource.h:673
+#: Application/Resource.h:688
 msgid "Check to show the times with 12-hour clock."
 msgstr ""
 
-#: Application/Resource.h:675
+#: Application/Resource.h:690
 msgid "Bar event"
 msgstr ""
 
-#: Application/Resource.h:676
+#: Application/Resource.h:691
 msgid "The event color for the bars."
 msgstr ""
 
-#: Application/Resource.h:679
+#: Application/Resource.h:694
 msgid "Conditions: "
 msgstr ""
 
-#: Application/Resource.h:680
+#: Application/Resource.h:695
 msgid "Temperature: "
 msgstr ""
 
-#: Application/Resource.h:681
+#: Application/Resource.h:696
 msgid "Humidity: "
 msgstr ""
 
-#: Application/Resource.h:682
+#: Application/Resource.h:697
 msgid "Winds: "
 msgstr ""
 
-#: Application/Resource.h:683
+#: Application/Resource.h:698
 msgid "Time: "
 msgstr ""
 
-#: Application/Resource.h:684
+#: Application/Resource.h:699
 msgid "Refreshing..."
 msgstr ""
 
-#: Application/Resource.h:685
+#: Application/Resource.h:700
 msgid "Downloading: "
 msgstr ""
 
-#: Application/Resource.h:686 Application/Resource.h:691
+#: Application/Resource.h:701 Application/Resource.h:706
 msgid "Download failed!"
 msgstr ""
 
-#: Application/Resource.h:687
+#: Application/Resource.h:702
 msgid "Loading..."
 msgstr ""
 
-#: Application/Resource.h:688
+#: Application/Resource.h:703
 msgid "Unknown result!"
 msgstr ""
 
-#: Application/Resource.h:689
+#: Application/Resource.h:704
 msgid "Upcoming programs:"
 msgstr ""
 
-#: Application/Resource.h:690
+#: Application/Resource.h:705
 msgid "Parsing failed!"
 msgstr ""
 
-#: Application/Resource.h:692
+#: Application/Resource.h:707
 msgid " DAYS     HOURS  MINS   SECS"
 msgstr ""
 
-#: Application/Resource.h:693
+#: Application/Resource.h:708
 msgid "Loading feed..."
 msgstr ""
 
-#: Application/Resource.h:694
+#: Application/Resource.h:709
 msgid "Lo: "
 msgstr ""
 
-#: Application/Resource.h:695
+#: Application/Resource.h:710
 msgid "Hi: "
 msgstr ""
 
-#: Application/Resource.h:696
+#: Application/Resource.h:711
 msgid "Min:"
 msgstr ""
 
-#: Application/Resource.h:697
+#: Application/Resource.h:712
 msgid "Max:"
 msgstr ""
 
-#: Application/Resource.h:698
+#: Application/Resource.h:713
 msgid "Chance of precipitation: "
 msgstr ""
 
-#: Application/Resource.h:699
+#: Application/Resource.h:714
 msgid "New moon"
 msgstr ""
 
-#: Application/Resource.h:700
+#: Application/Resource.h:715
 msgid "Waxing crescent"
 msgstr ""
 
-#: Application/Resource.h:701
+#: Application/Resource.h:716
 msgid "First quarter"
 msgstr ""
 
-#: Application/Resource.h:702
+#: Application/Resource.h:717
 msgid "Waxing gibbous"
 msgstr ""
 
-#: Application/Resource.h:703
+#: Application/Resource.h:718
 msgid "Full moon"
 msgstr ""
 
-#: Application/Resource.h:704
+#: Application/Resource.h:719
 msgid "Waning gibbous"
 msgstr ""
 
-#: Application/Resource.h:705
+#: Application/Resource.h:720
 msgid "Last quarter"
 msgstr ""
 
-#: Application/Resource.h:706
+#: Application/Resource.h:721
 msgid "Waning crescent"
 msgstr ""
 
-#: Application/Resource.h:707
+#: Application/Resource.h:722
 msgid "Southern hemisphere"
 msgstr ""
 
-#: Application/Resource.h:708
+#: Application/Resource.h:723
 msgid "Set to 1 to change the phases as seen from southern hemisphere."
 msgstr ""
 
-#: Application/Resource.h:710
+#: Application/Resource.h:725
 msgid "World Time"
 msgstr ""
 
-#: Application/Resource.h:711
+#: Application/Resource.h:726
 msgid "World time format"
 msgstr ""
 
-#: Application/Resource.h:712
+#: Application/Resource.h:727
 msgid ""
 "This defines the format of the time. The default is %H:%M. For AM/PM format "
 "use %#I:%M %p"
 msgstr ""
 
-#: Application/Resource.h:713
+#: Application/Resource.h:728
 msgid "World time location 1"
 msgstr ""
 
-#: Application/Resource.h:714
+#: Application/Resource.h:729
 msgid "Defines the title for the time."
 msgstr ""
 
-#: Application/Resource.h:715
+#: Application/Resource.h:730
 msgid "World time timezone 1"
 msgstr ""
 
-#: Application/Resource.h:716
+#: Application/Resource.h:731
 msgid "World time location 2"
 msgstr ""
 
-#: Application/Resource.h:717
+#: Application/Resource.h:732
 msgid "World time timezone 2"
 msgstr ""
 
-#: Application/Resource.h:718
+#: Application/Resource.h:733
 msgid "World time location 3"
 msgstr ""
 
-#: Application/Resource.h:719
+#: Application/Resource.h:734
 msgid "World time timezone 3"
 msgstr ""
 
-#: Application/Resource.h:720
+#: Application/Resource.h:735
 msgid "World time location 4"
 msgstr ""
 
-#: Application/Resource.h:721
+#: Application/Resource.h:736
 msgid "World time timezone 4"
 msgstr ""
 
-#: Application/Resource.h:723
+#: Application/Resource.h:738
 msgid "Photos"
 msgstr ""
 
-#: Application/Resource.h:724
+#: Application/Resource.h:739
 msgid "Weather"
 msgstr ""
 
-#: Application/Resource.h:725
+#: Application/Resource.h:740
 msgid "Countdown"
 msgstr ""
 
-#: Application/Resource.h:726
+#: Application/Resource.h:741
 msgid "RSS"
 msgstr ""
 
-#: Application/Resource.h:728
+#: Application/Resource.h:743
 msgid "Create New"
 msgstr ""
 
-#: Application/Resource.h:729
+#: Application/Resource.h:744
 msgid "Moon Phase"
 msgstr ""
 
-#: Application/Resource.h:730
+#: Application/Resource.h:745
 msgid "QuickAdd"
 msgstr ""
 
-#: Application/Resource.h:731
+#: Application/Resource.h:746
 msgid "Translate"
 msgstr ""
 
-#: Application/Resource.h:732
+#: Application/Resource.h:747
 msgid "Text File"
 msgstr ""
 
-#: Application/Resource.h:734
+#: Application/Resource.h:749
 msgid "RSS height"
 msgstr ""
 
-#: Application/Resource.h:735 Application/Resource.h:757
-#: Application/Resource.h:767
+#: Application/Resource.h:750 Application/Resource.h:772
+#: Application/Resource.h:782
 msgid "Defines the maximum height of the list."
 msgstr ""
 
-#: Application/Resource.h:736
+#: Application/Resource.h:751
 msgid "RSS location"
 msgstr ""
 
-#: Application/Resource.h:737
+#: Application/Resource.h:752
 msgid "Location of the RSS feed."
 msgstr ""
 
-#: Application/Resource.h:738
+#: Application/Resource.h:753
 msgid "Weather location"
 msgstr ""
 
-#: Application/Resource.h:739
+#: Application/Resource.h:754
 msgid "Location of the weather feed."
 msgstr ""
 
-#: Application/Resource.h:740
+#: Application/Resource.h:755
 msgid "Weather city"
 msgstr ""
 
-#: Application/Resource.h:741
+#: Application/Resource.h:756
 msgid "The city for the weather."
 msgstr ""
 
-#: Application/Resource.h:742
+#: Application/Resource.h:757
 msgid "Weather language"
 msgstr ""
 
-#: Application/Resource.h:743
+#: Application/Resource.h:758
 msgid ""
 "The weather language. Use language abbreviation like en, fi, ru, zh-cn, ..."
 msgstr ""
 
-#: Application/Resource.h:744
+#: Application/Resource.h:759
 msgid "Photos random"
 msgstr ""
 
-#: Application/Resource.h:745
+#: Application/Resource.h:760
 msgid "Uncheck to show the images in sequel. Check shows them in random order."
 msgstr ""
 
-#: Application/Resource.h:746
+#: Application/Resource.h:761
 msgid "Photos update"
 msgstr ""
 
-#: Application/Resource.h:747
+#: Application/Resource.h:762
 msgid "Defines how often the image is updated. The value is in minutes."
 msgstr ""
 
-#: Application/Resource.h:748
+#: Application/Resource.h:763
 msgid "Photos folder"
 msgstr ""
 
-#: Application/Resource.h:749
+#: Application/Resource.h:764
 msgid ""
 "Defines the local folder which is scanned for photos. If this is left empty "
 "the photos are downloaded from Flickr."
 msgstr ""
 
-#: Application/Resource.h:750
+#: Application/Resource.h:765
 msgid "Countdown event"
 msgstr ""
 
-#: Application/Resource.h:751
+#: Application/Resource.h:766
 msgid "The description of the event."
 msgstr ""
 
-#: Application/Resource.h:752
+#: Application/Resource.h:767
 msgid "Countdown time"
 msgstr ""
 
-#: Application/Resource.h:753
+#: Application/Resource.h:768
 msgid "The time of the event. Use format HH:MM:SS."
 msgstr ""
 
-#: Application/Resource.h:754
+#: Application/Resource.h:769
 msgid "Countdown date"
 msgstr ""
 
-#: Application/Resource.h:755
+#: Application/Resource.h:770
 msgid "The date of the event. Use format YYYY-MM-DD."
 msgstr ""
 
-#: Application/Resource.h:756
+#: Application/Resource.h:771
 msgid "TV height"
 msgstr ""
 
-#: Application/Resource.h:759
+#: Application/Resource.h:774
 msgid "Copy to clipboard"
 msgstr ""
 
-#: Application/Resource.h:760
+#: Application/Resource.h:775
 msgid "File path"
 msgstr ""
 
-#: Application/Resource.h:761
+#: Application/Resource.h:776
 msgid "Defines the name and path to the file which is displayed in the window."
 msgstr ""
 
-#: Application/Resource.h:762
+#: Application/Resource.h:777
 msgid "No file given"
 msgstr ""
 
-#: Application/Resource.h:763
+#: Application/Resource.h:778
 msgid "Go to the window's settings and point the path variable to a text file."
 msgstr ""
 
-#: Application/Resource.h:764
+#: Application/Resource.h:779
 msgid "File window full rows"
 msgstr ""
 
-#: Application/Resource.h:765
+#: Application/Resource.h:780
 msgid "Check to show full rows. Uncheck cuts the lines."
 msgstr ""
 
-#: Application/Resource.h:766
+#: Application/Resource.h:781
 msgid "File window width"
 msgstr ""
 
-#: Application/Resource.h:769
+#: Application/Resource.h:784
 msgid "The width of the calendar window."
 msgstr ""
 
-#: Application/Resource.h:770
+#: Application/Resource.h:785
 msgid "The height of the calendar window."
 msgstr ""
 
-#: Application/Resource.h:771 Application/SkinINI.cpp:597
+#: Application/Resource.h:786 Application/SkinIni.cpp:597
 msgid "Defines the width of the event list."
 msgstr ""
 
-#: Application/Resource.h:772 Application/SkinINI.cpp:598
+#: Application/Resource.h:787 Application/SkinIni.cpp:598
 msgid "Defines the width of the to do list."
 msgstr ""
 
-#: Application/Resource.h:773
+#: Application/Resource.h:788
 msgid "Defines the width of the quickadd window."
 msgstr ""
 
-#: Application/Resource.h:774
+#: Application/Resource.h:789
 msgid "Defines the width of the day view window."
 msgstr ""
 
-#: Application/Resource.h:775
+#: Application/Resource.h:790
 msgid "Defines the height of the day view window."
 msgstr ""
 
-#: Application/Resource.h:776
+#: Application/Resource.h:791
 msgid "Defines the width of the week view window."
 msgstr ""
 
-#: Application/Resource.h:777
+#: Application/Resource.h:792
 msgid "Defines the height of the week view window."
 msgstr ""
 
-#: Application/Resource.h:778
+#: Application/Resource.h:793
 msgid "Defines the width of the calendar window."
 msgstr ""
 
-#: Application/Resource.h:779
+#: Application/Resource.h:794
 msgid "Defines the height of the calendar window."
 msgstr ""
 
-#: Application/Resource.h:781
+#: Application/Resource.h:796
 msgid "ctrl"
 msgstr ""
 
-#: Application/Resource.h:782
+#: Application/Resource.h:797
 msgid "alt"
 msgstr ""
 
-#: Application/Resource.h:783
+#: Application/Resource.h:798
 msgid "shift"
 msgstr ""
 
-#: Application/Resource.h:785
+#: Application/Resource.h:800
 msgid "Mark as completed"
 msgstr ""
 
-#: Application/Resource.h:786
+#: Application/Resource.h:801
 msgid "Mark as needs action"
 msgstr ""
 
-#: Application/Resource.h:789
+#: Application/Resource.h:804
 msgid "Recurring"
 msgstr ""
 
-#: Application/Resource.h:790
+#: Application/Resource.h:805 Application/res/editors.cpp:43
+#: Application/res/editors.cpp:91
 msgid "Description"
 msgstr ""
 
-#: Application/Resource.h:793 Application/Resource.h:821
+#: Application/Resource.h:808 Application/Resource.h:836
 msgid "Text color"
 msgstr ""
 
-#: Application/Resource.h:794
+#: Application/Resource.h:809
 msgid "Tooltip color"
 msgstr ""
 
-#: Application/Resource.h:795
+#: Application/Resource.h:810
 msgid "Black"
 msgstr ""
 
-#: Application/Resource.h:796
+#: Application/Resource.h:811
 msgid "White"
 msgstr ""
 
-#: Application/Resource.h:802
+#: Application/Resource.h:817
 msgid "Light grey"
 msgstr ""
 
-#: Application/Resource.h:803
+#: Application/Resource.h:818
 msgid "Light pink"
 msgstr ""
 
-#: Application/Resource.h:804
+#: Application/Resource.h:819
 msgid "Grey"
 msgstr ""
 
-#: Application/Resource.h:805
+#: Application/Resource.h:820
 msgid "Pink"
 msgstr ""
 
-#: Application/Resource.h:808
+#: Application/Resource.h:823
 msgid "Schedule background"
 msgstr ""
 
-#: Application/Resource.h:809
+#: Application/Resource.h:824
 msgid "The background color for the day, week and month views."
 msgstr ""
 
-#: Application/Resource.h:810
+#: Application/Resource.h:825
 msgid "Schedule text color"
 msgstr ""
 
-#: Application/Resource.h:811
+#: Application/Resource.h:826
 msgid "The text color for the day, week and month views."
 msgstr ""
 
-#: Application/Resource.h:812
+#: Application/Resource.h:827
 msgid "Calendar day color"
 msgstr ""
 
-#: Application/Resource.h:813
+#: Application/Resource.h:828
 msgid "Large calendar day color"
 msgstr ""
 
-#: Application/Resource.h:814
+#: Application/Resource.h:829
 msgid "The color for the days in the calendar."
 msgstr ""
 
-#: Application/Resource.h:815
+#: Application/Resource.h:830
 msgid "Calendar day text color"
 msgstr ""
 
-#: Application/Resource.h:816
+#: Application/Resource.h:831
 msgid "The color for the day numbers in the calendar."
 msgstr ""
 
-#: Application/Resource.h:817
+#: Application/Resource.h:832
 msgid "Small icon"
 msgstr ""
 
-#: Application/Resource.h:818
+#: Application/Resource.h:833
 msgid "The icon which is shown in the calendar."
 msgstr ""
 
-#: Application/Resource.h:819
+#: Application/Resource.h:834
 msgid "Large icon"
 msgstr ""
 
-#: Application/Resource.h:820
+#: Application/Resource.h:835
 msgid "The icon which is shown in the event and to do lists."
 msgstr ""
 
-#: Application/Resource.h:822
+#: Application/Resource.h:837
 msgid "The color of the text in the lists and tooltip."
 msgstr ""
 
-#: Application/Resource.h:824
+#: Application/Resource.h:839
 msgid ""
 "The priority defines which category is shown when there are multiple on the "
 "same day."
 msgstr ""
 
-#: Application/Resource.h:825
+#: Application/Resource.h:840
 msgid "Schedule text shadow color"
 msgstr ""
 
-#: Application/Resource.h:826
+#: Application/Resource.h:841
 msgid "The text shadow color for the day, week and month views."
 msgstr ""
 
-#: Application/Resource.h:827
+#: Application/Resource.h:842
 msgid "Calendar day text shadow color"
 msgstr ""
 
-#: Application/Resource.h:828
+#: Application/Resource.h:843
 msgid "The color for the day numbers' shadow in the calendar."
 msgstr ""
 
-#: Application/Resource.h:829
+#: Application/Resource.h:844
 msgid "Text shadow color"
 msgstr ""
 
-#: Application/Resource.h:830
+#: Application/Resource.h:845
 msgid "The color of the text shadow in the lists and tooltip."
 msgstr ""
 
-#: Application/Resource.h:831
+#: Application/Resource.h:846
 msgid "Show date"
 msgstr ""
 
-#: Application/Resource.h:832
+#: Application/Resource.h:847
 msgid "Check to show also the current date."
 msgstr ""
 
-#: Application/Resource.h:834
+#: Application/Resource.h:849
 msgid "This defines the format of the time."
 msgstr ""
 
-#: Application/Resource.h:836
+#: Application/Resource.h:851
 msgid "This defines the format of the date."
 msgstr ""
 
-#: Application/Resource.h:837
+#: Application/Resource.h:852
 msgid "Search"
 msgstr ""
 
-#: Application/Resource.h:838
+#: Application/Resource.h:853
 msgid "Search engine"
 msgstr ""
 
-#: Application/Resource.h:839
+#: Application/Resource.h:854
 msgid "Choose the search engine"
 msgstr ""
 
-#: Application/Resource.h:840
+#: Application/Resource.h:855
 msgid "Enter search text"
 msgstr ""
 
-#: Application/Resource.h:841
+#: Application/Resource.h:856
 msgid "Show title"
 msgstr ""
 
-#: Application/Resource.h:842
+#: Application/Resource.h:857
 msgid "Check to show a title text."
 msgstr ""
 
-#: Application/Resource.h:843
+#: Application/Resource.h:858
 msgid "Title text"
 msgstr ""
 
-#: Application/Resource.h:844
+#: Application/Resource.h:859
 msgid "This defines a title text that is shown above the time."
 msgstr ""
 
-#: Application/Resource.h:845
+#: Application/Resource.h:860
 msgid "Weather woeid"
 msgstr ""
 
-#: Application/Resource.h:846
+#: Application/Resource.h:861
 msgid "The Yahoo WOEID for the weather location."
 msgstr ""
 
-#: Application/Resource.h:847
+#: Application/Resource.h:862
 msgid "Weather celsius"
 msgstr ""
 
-#: Application/Resource.h:848
+#: Application/Resource.h:863
 msgid "If checked the temperature is shown in celsius."
 msgstr ""
 
-#: Application/Resource.h:850
-msgid "Bold blue"
-msgstr ""
-
-#: Application/Resource.h:852
-msgid "Turquoise"
-msgstr ""
-
-#: Application/Resource.h:854
-msgid "Bold green"
-msgstr ""
-
-#: Application/Resource.h:858
-msgid "Bold red"
-msgstr ""
-
-#: Application/Resource.h:859
-msgid "Purple"
-msgstr ""
-
-#: Application/Resource.h:860
-msgid "Gray"
-msgstr ""
-
-#: Application/Resource.h:862
+#: Application/Resource.h:865
 msgid "No events today"
 msgstr ""
 
-#: Application/Resource.h:863
+#: Application/Resource.h:866
 msgid "No tasks today"
 msgstr ""
 
-#: Application/Resource.h:865
+#: Application/Resource.h:868
 msgid "Background opacity"
 msgstr ""
 
-#: Application/Resource.h:866
+#: Application/Resource.h:869
 msgid ""
 "Defines the opacity of the window backgrounds. Use values between 0 and 100."
 msgstr ""
 
-#: Application/Resource.h:868
+#: Application/Resource.h:871
 msgid "Snooze menu"
 msgstr ""
 
-#: Application/Resource.h:870
+#: Application/Resource.h:873
 msgid "Pressure: "
 msgstr ""
 
-#: Application/Resource.h:871
+#: Application/Resource.h:874
 msgid "UV index: "
 msgstr ""
 
-#: Application/Resource.h:872
+#: Application/Resource.h:875
 msgid "Feels like: "
 msgstr ""
 
-#: Application/Resource.h:873
+#: Application/Resource.h:876
 msgid "Sunrise: "
 msgstr ""
 
-#: Application/Resource.h:874
+#: Application/Resource.h:877
 msgid "Sunset: "
 msgstr ""
 
-#: Application/Resource.h:876
+#: Application/Resource.h:879
 msgid "Tonight"
 msgstr ""
 
-#: Application/Resource.h:877
+#: Application/Resource.h:880
 msgid "Menu"
 msgstr ""
 
-#: Application/Resource.h:879
-msgid "Large"
-msgstr ""
-
-#: Application/Resource.h:880
+#: Application/Resource.h:883
 msgid "Use large images and more space between the items."
 msgstr ""
 
-#: Application/Resource.h:881
+#: Application/Resource.h:884
 msgid "Alarm max height"
 msgstr ""
 
-#: Application/Resource.h:882
+#: Application/Resource.h:885
 msgid "Horizontal Day Bar"
 msgstr ""
 
-#: Application/Resource.h:883
+#: Application/Resource.h:886
 msgid "Vertical Day Bar"
 msgstr ""
 
-#: Application/Resource.h:884
+#: Application/Resource.h:887
 msgid "Day bar show text"
 msgstr ""
 
-#: Application/Resource.h:885
+#: Application/Resource.h:888
 msgid "Uncheck to hide the texts from the events."
 msgstr ""
 
-#: Application/SkinINI.cpp:228
+#: Application/SkinIni.cpp:228
 msgid "The color of the text in calendar and in the lists."
 msgstr ""
 
-#: Application/SkinINI.cpp:235
+#: Application/SkinIni.cpp:235
 msgid "The color of the text in the tooltip."
 msgstr ""
 
-#: Application/SkinINI.cpp:342
+#: Application/SkinIni.cpp:342
 msgid ""
 "Defines the month that the calendar shows. Set to +1 for the next month, -1 "
 "for the previous month or a value from 0 to 11 for a specific month in the "
@@ -5246,48 +5305,48 @@ msgstr ""
 msgid "Dec"
 msgstr ""
 
-#: Application/Util.cpp:1966
+#: Application/Util.cpp:1958
 #, c-format
 msgid "%ith"
 msgstr ""
 
-#: Application/Util.cpp:1967
+#: Application/Util.cpp:1959
 msgid "11th;12th;13th;1st;2nd;3rd"
 msgstr ""
 
-#: Application/Util.cpp:2282
+#: Application/Util.cpp:2274
 msgid "edit"
 msgstr ""
 
-#: Application/Util.cpp:2469
+#: Application/Util.cpp:2461
 msgid "Do you want to create the file?"
 msgstr ""
 
-#: Application/Util.cpp:2470
+#: Application/Util.cpp:2462
 #, c-format
 msgid ""
 "The file does not exist:\n"
 "%s"
 msgstr ""
 
-#: Application/Util.cpp:2479
+#: Application/Util.cpp:2471
 #, c-format
 msgid "Unable to create the file \"%s\"."
 msgstr ""
 
-#: Application/Util.cpp:2732
+#: Application/Util.cpp:2724
 msgid "This is a read only event."
 msgstr ""
 
-#: Application/Util.cpp:2732
+#: Application/Util.cpp:2724
 msgid "It's not possible to edit this event with Rainlendar."
 msgstr ""
 
-#: Application/Util.cpp:2736
+#: Application/Util.cpp:2728
 msgid "This is a read only task."
 msgstr ""
 
-#: Application/Util.cpp:2736
+#: Application/Util.cpp:2728
 msgid "It's not possible to edit this task with Rainlendar."
 msgstr ""
 
@@ -5296,23 +5355,23 @@ msgstr ""
 msgid "URL"
 msgstr ""
 
-#: Application/WindowTooltip.cpp:500
+#: Application/WindowTooltip.cpp:528
 msgid "Organizer"
 msgstr ""
 
-#: Application/WindowTooltip.cpp:506
+#: Application/WindowTooltip.cpp:534
 msgid "Accepted"
 msgstr ""
 
-#: Application/WindowTooltip.cpp:510
+#: Application/WindowTooltip.cpp:538
 msgid "Declined"
 msgstr ""
 
-#: Application/WindowTooltip.cpp:514
+#: Application/WindowTooltip.cpp:542
 msgid "Tentative"
 msgstr ""
 
-#: Application/WindowTooltip.cpp:518
+#: Application/WindowTooltip.cpp:546
 msgid "Needs action"
 msgstr ""
 
@@ -5527,18 +5586,18 @@ msgstr ""
 msgid "Type:"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:5 Application/res/event.cpp:5
-#: Application/res/todo.cpp:5
+#: Application/res/bulkchange.cpp:5 Application/res/customize.cpp:3
+#: Application/res/editors.cpp:2 Application/res/editors.cpp:50
 msgid "Summary:"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:6 Application/res/event.cpp:6
-#: Application/res/todo.cpp:6
+#: Application/res/bulkchange.cpp:6 Application/res/customize.cpp:12
+#: Application/res/editors.cpp:3 Application/res/editors.cpp:51
 msgid "Location:"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:7 Application/res/event.cpp:11
-#: Application/res/todo.cpp:11
+#: Application/res/bulkchange.cpp:7 Application/res/customize.cpp:15
+#: Application/res/editors.cpp:4 Application/res/editors.cpp:52
 msgid "Url:"
 msgstr ""
 
@@ -5554,8 +5613,8 @@ msgstr ""
 msgid "With time"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:15 Application/res/event.cpp:12
-#: Application/res/todo.cpp:12
+#: Application/res/bulkchange.cpp:15 Application/res/editors.cpp:37
+#: Application/res/editors.cpp:85
 msgid "Start time:"
 msgstr ""
 
@@ -5568,14 +5627,12 @@ msgid "Relative"
 msgstr ""
 
 #: Application/res/bulkchange.cpp:21 Application/res/bulkchange.cpp:30
-#: Application/res/bulkchange.cpp:70 Application/res/event.cpp:25
-#: Application/res/todo.cpp:51
+#: Application/res/bulkchange.cpp:70 Application/res/editors.cpp:98
 msgid "Months"
 msgstr ""
 
 #: Application/res/bulkchange.cpp:22 Application/res/bulkchange.cpp:31
-#: Application/res/bulkchange.cpp:71 Application/res/event.cpp:26
-#: Application/res/todo.cpp:52
+#: Application/res/bulkchange.cpp:71 Application/res/editors.cpp:99
 msgid "Years"
 msgstr ""
 
@@ -5583,69 +5640,85 @@ msgstr ""
 msgid "Visibility:"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:34 Application/res/todo.cpp:15
+#: Application/res/bulkchange.cpp:34 Application/res/editors.cpp:41
+#: Application/res/editors.cpp:89
 msgid "Show in calendar"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:35 Application/res/todo.cpp:17
+#: Application/res/bulkchange.cpp:35 Application/res/customize.cpp:30
+#: Application/res/editors.cpp:29 Application/res/editors.cpp:77
 msgid "Priority:"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:40 Application/res/todo.cpp:23
+#: Application/res/bulkchange.cpp:40 Application/res/customize.cpp:27
+#: Application/res/editors.cpp:9 Application/res/editors.cpp:57
 msgid "Status:"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:42 Application/res/todo.cpp:24
-#: Application/res/todo.cpp:26
+#: Application/res/bulkchange.cpp:42 Application/res/editors.cpp:10
+#: Application/res/editors.cpp:12 Application/res/editors.cpp:58
+#: Application/res/editors.cpp:60
 msgid "Not Started"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:46 Application/res/todo.cpp:30
+#: Application/res/bulkchange.cpp:46 Application/res/editors.cpp:16
+#: Application/res/editors.cpp:64
 msgid "Progress:"
 msgstr ""
 
 #: Application/res/bulkchange.cpp:47 Application/res/bulkchange.cpp:48
-#: Application/res/todo.cpp:31 Application/res/todo.cpp:32
+#: Application/res/editors.cpp:17 Application/res/editors.cpp:18
+#: Application/res/editors.cpp:65 Application/res/editors.cpp:66
 msgid "0 %"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:49 Application/res/todo.cpp:33
+#: Application/res/bulkchange.cpp:49 Application/res/editors.cpp:19
+#: Application/res/editors.cpp:67
 msgid "10 %"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:50 Application/res/todo.cpp:34
+#: Application/res/bulkchange.cpp:50 Application/res/editors.cpp:20
+#: Application/res/editors.cpp:68
 msgid "20 %"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:51 Application/res/todo.cpp:35
+#: Application/res/bulkchange.cpp:51 Application/res/editors.cpp:21
+#: Application/res/editors.cpp:69
 msgid "30 %"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:52 Application/res/todo.cpp:36
+#: Application/res/bulkchange.cpp:52 Application/res/editors.cpp:22
+#: Application/res/editors.cpp:70
 msgid "40 %"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:53 Application/res/todo.cpp:37
+#: Application/res/bulkchange.cpp:53 Application/res/editors.cpp:23
+#: Application/res/editors.cpp:71
 msgid "50 %"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:54 Application/res/todo.cpp:38
+#: Application/res/bulkchange.cpp:54 Application/res/editors.cpp:24
+#: Application/res/editors.cpp:72
 msgid "60 %"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:55 Application/res/todo.cpp:39
+#: Application/res/bulkchange.cpp:55 Application/res/editors.cpp:25
+#: Application/res/editors.cpp:73
 msgid "70 %"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:56 Application/res/todo.cpp:40
+#: Application/res/bulkchange.cpp:56 Application/res/editors.cpp:26
+#: Application/res/editors.cpp:74
 msgid "80 %"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:57 Application/res/todo.cpp:41
+#: Application/res/bulkchange.cpp:57 Application/res/editors.cpp:27
+#: Application/res/editors.cpp:75
 msgid "90 %"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:58 Application/res/todo.cpp:42
+#: Application/res/bulkchange.cpp:58 Application/res/editors.cpp:28
+#: Application/res/editors.cpp:76
 msgid "100 %"
 msgstr ""
 
@@ -5661,7 +5734,7 @@ msgstr ""
 msgid "Busy"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:62
+#: Application/res/bulkchange.cpp:62 Application/res/customize.cpp:9
 msgid "Description:"
 msgstr ""
 
@@ -5669,8 +5742,7 @@ msgstr ""
 msgid "Alarm:"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:64 Application/res/event.cpp:19
-#: Application/res/todo.cpp:45
+#: Application/res/bulkchange.cpp:64 Application/res/editors.cpp:48
 msgid "Category:"
 msgstr ""
 
@@ -5678,13 +5750,11 @@ msgstr ""
 msgid "Recurrence:"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:67 Application/res/event.cpp:22
-#: Application/res/todo.cpp:48
+#: Application/res/bulkchange.cpp:67 Application/res/editors.cpp:95
 msgid "Repeat every"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:69 Application/res/event.cpp:24
-#: Application/res/todo.cpp:50
+#: Application/res/bulkchange.cpp:69 Application/res/editors.cpp:97
 msgid "Weeks"
 msgstr ""
 
@@ -5692,8 +5762,7 @@ msgstr ""
 msgid "Repeat ending"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:73 Application/res/event.cpp:35
-#: Application/res/todo.cpp:61
+#: Application/res/bulkchange.cpp:73 Application/res/editors.cpp:108
 msgid "Forever"
 msgstr ""
 
@@ -5701,82 +5770,126 @@ msgstr ""
 msgid "Number of times"
 msgstr ""
 
-#: Application/res/bulkchange.cpp:75 Application/res/event.cpp:38
-#: Application/res/todo.cpp:64
+#: Application/res/bulkchange.cpp:75 Application/res/editors.cpp:111
 msgid "Until"
+msgstr ""
+
+#: Application/res/customize.cpp:2
+msgid "Field pages"
+msgstr ""
+
+#: Application/res/customize.cpp:6
+msgid "Start and end:"
+msgstr ""
+
+#: Application/res/customize.cpp:18 Application/res/editors.cpp:5
+#: Application/res/editors.cpp:53
+msgid "Sensitivity:"
+msgstr ""
+
+#: Application/res/customize.cpp:21 Application/res/editors.cpp:35
+#: Application/res/editors.cpp:83
+msgid "Attachment:"
+msgstr ""
+
+#: Application/res/customize.cpp:24
+msgid "Alarms:"
 msgstr ""
 
 #: Application/res/debugwindow.cpp:1
 msgid "Debug Window"
 msgstr ""
 
-#: Application/res/event.cpp:7 Application/res/todo.cpp:7
-msgid "Sensitivity:"
+#: Application/res/editors.cpp:1
+msgid "Common Properties"
 msgstr ""
 
-#: Application/res/event.cpp:13
+#: Application/res/editors.cpp:36 Application/res/editors.cpp:84
+msgid "Remove attachment"
+msgstr ""
+
+#: Application/res/editors.cpp:38 Application/res/editors.cpp:86
 msgid "All day event"
 msgstr ""
 
-#: Application/res/event.cpp:15
+#: Application/res/editors.cpp:40 Application/res/editors.cpp:88
 msgid "Mark time as busy"
 msgstr ""
 
-#: Application/res/event.cpp:16 Application/res/todo.cpp:16
+#: Application/res/editors.cpp:42 Application/res/editors.cpp:90
 msgid "Time zone:"
 msgstr ""
 
-#: Application/res/event.cpp:17 Application/res/todo.cpp:43
+#: Application/res/editors.cpp:44 Application/res/editors.cpp:92
+msgid "Alarms"
+msgstr ""
+
+#: Application/res/editors.cpp:45 Application/res/editors.cpp:93
+msgid "Add alarm:"
+msgstr ""
+
+#: Application/res/editors.cpp:46
+msgid "Misc"
+msgstr ""
+
+#: Application/res/editors.cpp:47
 msgid "Calendar:"
 msgstr ""
 
-#: Application/res/event.cpp:27 Application/res/todo.cpp:53
+#: Application/res/editors.cpp:49
+msgid "Additional Properties"
+msgstr ""
+
+#: Application/res/editors.cpp:100
 msgid "Mon"
 msgstr ""
 
-#: Application/res/event.cpp:28 Application/res/todo.cpp:54
+#: Application/res/editors.cpp:101
 msgid "Tue"
 msgstr ""
 
-#: Application/res/event.cpp:29 Application/res/todo.cpp:55
+#: Application/res/editors.cpp:102
 msgid "Wed"
 msgstr ""
 
-#: Application/res/event.cpp:30 Application/res/todo.cpp:56
+#: Application/res/editors.cpp:103
 msgid "Thu"
 msgstr ""
 
-#: Application/res/event.cpp:31 Application/res/todo.cpp:57
+#: Application/res/editors.cpp:104
 msgid "Fri"
 msgstr ""
 
-#: Application/res/event.cpp:32 Application/res/todo.cpp:58
+#: Application/res/editors.cpp:105
 msgid "Sat"
 msgstr ""
 
-#: Application/res/event.cpp:33 Application/res/todo.cpp:59
+#: Application/res/editors.cpp:106
 msgid "Sun"
 msgstr ""
 
-#: Application/res/event.cpp:34 Application/res/todo.cpp:60
+#: Application/res/editors.cpp:107
 msgid "Repeat"
 msgstr ""
 
-#: Application/res/event.cpp:36 Application/res/todo.cpp:62
+#: Application/res/editors.cpp:109
 msgid "End after"
 msgstr ""
 
-#: Application/res/event.cpp:37 Application/res/todo.cpp:63
+#: Application/res/editors.cpp:110
 msgid "occurrences"
 msgstr ""
 
-#: Application/res/event.cpp:39 Application/res/todo.cpp:65
+#: Application/res/editors.cpp:112
 msgid "Exception dates"
 msgstr ""
 
-#: Application/res/event.cpp:40 Application/res/options.cpp:29
-#: Application/res/todo.cpp:66
+#: Application/res/editors.cpp:113 Application/res/options.cpp:29
 msgid "Add"
+msgstr ""
+
+#: Application/res/editors.cpp:116
+msgid "Templates"
 msgstr ""
 
 #: Application/res/newmanager.cpp:6
@@ -5911,14 +6024,6 @@ msgstr ""
 msgid "Page Setup..."
 msgstr ""
 
-#: Application/res/todo.cpp:1 Application/res/todo.cpp:4
-msgid "Todo"
-msgstr ""
-
-#: Application/res/todo.cpp:13
-msgid "Date only"
-msgstr ""
-
 #: Plugins/CSVPlugin/CSVHandler.h:33 Plugins/CSVPlugin/CSVHandler.h:34
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr ""
@@ -5935,13 +6040,13 @@ msgid "Password"
 msgstr ""
 
 #: Plugins/CalDAVPlugin/CalDAVHandler.cpp:245
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:315
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:327
 #: Plugins/Office365Plugin/Office365Handler.cpp:275
 msgid "Calendar name"
 msgstr ""
 
 #: Plugins/CalDAVPlugin/CalDAVHandler.cpp:249
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:327
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:339
 #: Plugins/GoogleTasksPlugin/GoogleTasksHandler.cpp:285
 #: Plugins/NetworkPlugin/NetworkHandler.cpp:236
 #: Plugins/Office365Plugin/Office365Handler.cpp:287
@@ -5951,20 +6056,20 @@ msgid "Poll frequency (mins)"
 msgstr ""
 
 #: Plugins/CalDAVPlugin/CalDAVHandler.cpp:253
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:341
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:353
 #: Plugins/GoogleTasksPlugin/GoogleTasksHandler.cpp:300
 #: Plugins/NetworkPlugin/NetworkHandler.cpp:244
-#: Plugins/Office365Plugin/Office365Handler.cpp:317
+#: Plugins/Office365Plugin/Office365Handler.cpp:318
 #: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:239
 #: Plugins/ToodledoPlugin/ToodledoHandler.cpp:258
 msgid "Suppress errors"
 msgstr ""
 
 #: Plugins/CalDAVPlugin/CalDAVHandler.cpp:257
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:345
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:357
 #: Plugins/GoogleTasksPlugin/GoogleTasksHandler.cpp:304
 #: Plugins/NetworkPlugin/NetworkHandler.cpp:248
-#: Plugins/Office365Plugin/Office365Handler.cpp:322
+#: Plugins/Office365Plugin/Office365Handler.cpp:323
 #: Plugins/RememberTheMilkPlugin/RTMHandler.cpp:243
 #: Plugins/ToodledoPlugin/ToodledoHandler.cpp:262
 msgid "Keep offline copy"
@@ -6023,14 +6128,14 @@ msgstr ""
 #: Plugins/CalDAVPlugin/CalDAVThread.cpp:862
 #: Plugins/CalDAVPlugin/CalDAVThread.cpp:898
 #: Plugins/CalDAVPlugin/CalDAVThread.cpp:922
-#: Plugins/CalDAVPlugin/CalDAVThread.cpp:1211
-#: Plugins/CalDAVPlugin/CalDAVThread.cpp:1436
+#: Plugins/CalDAVPlugin/CalDAVThread.cpp:1210
+#: Plugins/CalDAVPlugin/CalDAVThread.cpp:1435
 #, c-format
 msgid "CalDAV Error (%s)!"
 msgstr ""
 
 #: Plugins/CalDAVPlugin/CalDAVThread.cpp:295
-#: Plugins/NetworkPlugin/NetworkThread.cpp:925
+#: Plugins/NetworkPlugin/NetworkThread.cpp:923
 #, c-format
 msgid ""
 "Error uploading the data to the url:\n"
@@ -6049,14 +6154,14 @@ msgid "Unable to delete the event."
 msgstr ""
 
 #: Plugins/CalDAVPlugin/CalDAVThread.cpp:436
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1176
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1462
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:889
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1220
-#: Plugins/Office365Plugin/Office365Thread.cpp:854
-#: Plugins/Office365Plugin/Office365Thread.cpp:1103
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1226
-#: Plugins/ToodledoPlugin/ToodledoAPI.cpp:795
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1174
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1460
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:887
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1218
+#: Plugins/Office365Plugin/Office365Thread.cpp:852
+#: Plugins/Office365Plugin/Office365Thread.cpp:1101
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1220
+#: Plugins/ToodledoPlugin/ToodledoAPI.cpp:779
 #, c-format
 msgid "Server returned result: (%i) %i %s."
 msgstr ""
@@ -6071,8 +6176,8 @@ msgid "Unable to authenticate to the server."
 msgstr ""
 
 #: Plugins/CalDAVPlugin/CalDAVThread.cpp:864
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:760
-#: Plugins/Office365Plugin/Office365Thread.cpp:672
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:758
+#: Plugins/Office365Plugin/Office365Thread.cpp:670
 #, c-format
 msgid ""
 "Unable to find the chosen calendar (%s).\n"
@@ -6096,18 +6201,12 @@ msgid ""
 msgstr ""
 
 #: Plugins/CalDAVPlugin/CalDAVThread.cpp:937
-msgid ""
-"Unable to connect to the server. Make sure your network connection is "
-"working."
-msgstr ""
-
-#: Plugins/CalDAVPlugin/CalDAVThread.cpp:941
 #, c-format
 msgid "The url \"%s\" does not contain any calendars."
 msgstr ""
 
-#: Plugins/CalDAVPlugin/CalDAVThread.cpp:1213
-#: Plugins/CalDAVPlugin/CalDAVThread.cpp:1438
+#: Plugins/CalDAVPlugin/CalDAVThread.cpp:1212
+#: Plugins/CalDAVPlugin/CalDAVThread.cpp:1437
 #, c-format
 msgid ""
 "Error downloading the data from the url:\n"
@@ -6142,62 +6241,106 @@ msgstr ""
 msgid "FALSE"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:319
-#: Plugins/Office365Plugin/Office365Handler.cpp:327
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:26
+msgid "Blueberry"
+msgstr ""
+
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:27
+msgid "Lavender"
+msgstr ""
+
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:28
+msgid "Peacock"
+msgstr ""
+
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:29
+msgid "Sage"
+msgstr ""
+
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:30
+msgid "Basil"
+msgstr ""
+
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:31
+msgid "Banana"
+msgstr ""
+
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:32
+msgid "Tagnerine"
+msgstr ""
+
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:33
+msgid "Flamingo"
+msgstr ""
+
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:34
+msgid "Tomato"
+msgstr ""
+
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:35
+msgid "Grape"
+msgstr ""
+
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:36
+msgid "Graphite"
+msgstr ""
+
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:331
+#: Plugins/Office365Plugin/Office365Handler.cpp:328
 msgid "UID"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:349
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:361
 msgid "Ignore private events"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:353
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:365
 #: Plugins/OutlookPlugin/MapiHandler.cpp:523
 msgid "Import limit"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:356
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:368
 #: Plugins/OutlookPlugin/MapiHandler.cpp:525
 msgid "Everything"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:357
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:369
 msgid "Future only"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:358
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:370
 msgid "Past month"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:359
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:371
 msgid "Past 6 months"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:360
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:372
 msgid "Past year"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:361
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:373
 msgid "Past 2 years"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:364
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:376
 msgid "Delete notifications"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:368
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:380
 msgid "External Only"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:369
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:381
 msgid "Future Only"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:374
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:386
 msgid "Color mapping"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:499
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarHandler.cpp:511
 msgid ""
 "Enter your Google account email address and click the \"Select calendar\" "
 "button and choose the calendar you want to access."
@@ -6208,47 +6351,47 @@ msgstr ""
 msgid "Select calendar"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:129
-#: Plugins/Office365Plugin/Office365Thread.cpp:112
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:127
+#: Plugins/Office365Plugin/Office365Thread.cpp:110
 msgid "Unable to read the calendars."
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:134
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:128
-#: Plugins/Office365Plugin/Office365Thread.cpp:117
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:132
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:126
+#: Plugins/Office365Plugin/Office365Thread.cpp:115
 msgid "Authentication failed."
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:139
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:133
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:137
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:131
 msgid ""
 "Unable to authenticate to Google.\n"
 "Please verify that your email\n"
 "and password are correct."
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:189
-#: Plugins/Office365Plugin/Office365Thread.cpp:172
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:187
+#: Plugins/Office365Plugin/Office365Thread.cpp:170
 msgid ""
 "The event cannot be uploaded because the target calendar hasn't been defined."
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:210
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:385
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:671
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:705
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:752
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1172
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1354
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1399
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1458
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1768
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:208
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:383
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:669
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:703
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:750
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1170
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1352
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1397
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1456
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1762
 #, c-format
 msgid "Google Calendar Error (%s)!"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:390
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:385
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:388
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:383
 msgid ""
 "Unable to authenticate to Google. The 2-step verification is enabled for "
 "your account so you need to create an application specific password for "
@@ -6256,63 +6399,63 @@ msgid ""
 "step verification\"."
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:394
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:392
 msgid ""
 "Unable to authenticate to Google. Rainlendar's access to the Google Calendar "
 "might have been revoked. Please go to Options->Calendars and run the "
 "authentication again for the calendar."
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:408
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:403
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:406
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:401
 #, c-format
 msgid ""
 "Unable to authenticate to Google.\n"
 "Server returned result: (%i) %i %s."
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:673
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1770
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1497
-#: Plugins/Office365Plugin/Office365Thread.cpp:586
-#: Plugins/Office365Plugin/Office365Thread.cpp:1351
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:671
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1764
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1488
+#: Plugins/Office365Plugin/Office365Thread.cpp:584
+#: Plugins/Office365Plugin/Office365Thread.cpp:1345
 #, c-format
 msgid ""
 "Unable to download the calendars.\n"
 "Server returned result: (%i) %i %s."
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:707
-#: Plugins/Office365Plugin/Office365Thread.cpp:619
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:705
+#: Plugins/Office365Plugin/Office365Thread.cpp:617
 msgid "Unable to parse the calendar url."
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:756
-#: Plugins/Office365Plugin/Office365Thread.cpp:668
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:754
+#: Plugins/Office365Plugin/Office365Thread.cpp:666
 msgid ""
 "It seems that you have entered a URL as the calendar name.\n"
 "You need to use one of the names below instead:\n"
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1174
-#: Plugins/Office365Plugin/Office365Thread.cpp:852
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1172
+#: Plugins/Office365Plugin/Office365Thread.cpp:850
 msgid "Unable to delete the event: "
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1356
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1354
 msgid ""
 "The event cannot be uploaded to the Google Calendar due to a conflict. The "
 "updated event will be reloaded from the Google Calendar."
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1401
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1159
-#: Plugins/Office365Plugin/Office365Thread.cpp:1042
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1399
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1157
+#: Plugins/Office365Plugin/Office365Thread.cpp:1040
 msgid "Unable to parse the events."
 msgstr ""
 
-#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1460
-#: Plugins/Office365Plugin/Office365Thread.cpp:1101
+#: Plugins/GoogleCalendarPlugin/GoogleCalendarThread.cpp:1458
+#: Plugins/Office365Plugin/Office365Thread.cpp:1099
 msgid "Unable to upload the event: "
 msgstr ""
 
@@ -6330,54 +6473,54 @@ msgstr ""
 msgid "Select task list"
 msgstr ""
 
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:123
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:121
 msgid "Unable to read the task lists."
 msgstr ""
 
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:183
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:181
 msgid ""
 "The task cannot be uploaded because the target task list hasn't been defined."
 msgstr ""
 
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:204
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:380
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:637
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:671
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:697
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:885
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1113
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1157
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1216
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1495
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:202
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:378
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:635
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:669
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:695
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:883
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1111
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1155
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1214
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1486
 #, c-format
 msgid "Google Tasks Error (%s)!"
 msgstr ""
 
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:389
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:387
 msgid ""
 "Unable to authenticate to Google. Rainlendar's access to the Google Task "
 "list might have been revoked. Please refresh the calendar and authenticate "
 "Rainlendar again to your Google account."
 msgstr ""
 
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:639
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:637
 #, c-format
 msgid ""
 "Unable to download the task lists.\n"
 "Server returned result: (%i) %i %s."
 msgstr ""
 
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:673
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:671
 msgid "Unable to parse the task list url."
 msgstr ""
 
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:701
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:699
 msgid ""
 "It seems that you have entered a URL as the task list name.\n"
 "You need to use one of the names below instead:\n"
 msgstr ""
 
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:705
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:703
 #, c-format
 msgid ""
 "Unable to find the chosen task list (%s).\n"
@@ -6385,17 +6528,17 @@ msgid ""
 "Available lists are:\n"
 msgstr ""
 
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:887
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:885
 msgid "Unable to delete the task: "
 msgstr ""
 
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1115
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1113
 msgid ""
 "The task cannot be uploaded to the Google Tasks due to a conflict. The "
 "updated task will be reloaded from the Google Tasks."
 msgstr ""
 
-#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1218
+#: Plugins/GoogleTasksPlugin/GoogleTasksThread.cpp:1216
 msgid "Unable to upload the task: "
 msgstr ""
 
@@ -6415,38 +6558,38 @@ msgid ""
 "fields can be left empty if they are not needed."
 msgstr ""
 
-#: Plugins/NetworkPlugin/NetworkThread.cpp:195
-#: Plugins/NetworkPlugin/NetworkThread.cpp:217
-#: Plugins/NetworkPlugin/NetworkThread.cpp:400
-#: Plugins/NetworkPlugin/NetworkThread.cpp:450
-#: Plugins/NetworkPlugin/NetworkThread.cpp:490
-#: Plugins/NetworkPlugin/NetworkThread.cpp:923
+#: Plugins/NetworkPlugin/NetworkThread.cpp:193
+#: Plugins/NetworkPlugin/NetworkThread.cpp:215
+#: Plugins/NetworkPlugin/NetworkThread.cpp:398
+#: Plugins/NetworkPlugin/NetworkThread.cpp:448
+#: Plugins/NetworkPlugin/NetworkThread.cpp:488
+#: Plugins/NetworkPlugin/NetworkThread.cpp:921
 #, c-format
 msgid "Network Error (%s)!"
 msgstr ""
 
-#: Plugins/NetworkPlugin/NetworkThread.cpp:197
+#: Plugins/NetworkPlugin/NetworkThread.cpp:195
 msgid "Unable to add the item to the online calendar."
 msgstr ""
 
-#: Plugins/NetworkPlugin/NetworkThread.cpp:219
+#: Plugins/NetworkPlugin/NetworkThread.cpp:217
 msgid "Unable to remove the item from the online calendar."
 msgstr ""
 
-#: Plugins/NetworkPlugin/NetworkThread.cpp:402
+#: Plugins/NetworkPlugin/NetworkThread.cpp:400
 #, c-format
 msgid ""
 "Unable to parse the file: %s\n"
 "The file might be corrupted."
 msgstr ""
 
-#: Plugins/NetworkPlugin/NetworkThread.cpp:452
+#: Plugins/NetworkPlugin/NetworkThread.cpp:450
 msgid ""
 "The server returned an empty result. Make sure that the calendar url points "
 "to a file and not to a folder."
 msgstr ""
 
-#: Plugins/NetworkPlugin/NetworkThread.cpp:492
+#: Plugins/NetworkPlugin/NetworkThread.cpp:490
 #, c-format
 msgid ""
 "Error downloading the data from the url:\n"
@@ -6459,52 +6602,52 @@ msgstr ""
 msgid "Downloaded event count"
 msgstr ""
 
-#: Plugins/Office365Plugin/Office365Handler.cpp:393
+#: Plugins/Office365Plugin/Office365Handler.cpp:394
 msgid "Office 365"
 msgstr ""
 
-#: Plugins/Office365Plugin/Office365Handler.cpp:398
+#: Plugins/Office365Plugin/Office365Handler.cpp:399
 msgid ""
-"Enter your Office 365 account email address and click the \"Select calendar"
-"\" button and choose the calendar you want to access."
+"Enter your Office 365 account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
 msgstr ""
 
-#: Plugins/Office365Plugin/Office365Thread.cpp:122
+#: Plugins/Office365Plugin/Office365Thread.cpp:120
 msgid ""
 "Unable to authenticate to Office 365 account.\n"
 "Please verify that your email\n"
 "and password are correct."
 msgstr ""
 
-#: Plugins/Office365Plugin/Office365Thread.cpp:193
-#: Plugins/Office365Plugin/Office365Thread.cpp:379
-#: Plugins/Office365Plugin/Office365Thread.cpp:584
-#: Plugins/Office365Plugin/Office365Thread.cpp:617
-#: Plugins/Office365Plugin/Office365Thread.cpp:664
-#: Plugins/Office365Plugin/Office365Thread.cpp:850
-#: Plugins/Office365Plugin/Office365Thread.cpp:995
-#: Plugins/Office365Plugin/Office365Thread.cpp:1040
-#: Plugins/Office365Plugin/Office365Thread.cpp:1099
-#: Plugins/Office365Plugin/Office365Thread.cpp:1349
+#: Plugins/Office365Plugin/Office365Thread.cpp:191
+#: Plugins/Office365Plugin/Office365Thread.cpp:377
+#: Plugins/Office365Plugin/Office365Thread.cpp:582
+#: Plugins/Office365Plugin/Office365Thread.cpp:615
+#: Plugins/Office365Plugin/Office365Thread.cpp:662
+#: Plugins/Office365Plugin/Office365Thread.cpp:848
+#: Plugins/Office365Plugin/Office365Thread.cpp:993
+#: Plugins/Office365Plugin/Office365Thread.cpp:1038
+#: Plugins/Office365Plugin/Office365Thread.cpp:1097
+#: Plugins/Office365Plugin/Office365Thread.cpp:1343
 #, c-format
 msgid "Office365 Error (%s)!"
 msgstr ""
 
-#: Plugins/Office365Plugin/Office365Thread.cpp:384
+#: Plugins/Office365Plugin/Office365Thread.cpp:382
 msgid ""
 "Unable to authenticate to Office 365 account. Rainlendar's access to the "
 "Office 365 calendar might have been revoked. Please refresh the calendar and "
 "authenticate Rainlendar again to your Office 365 account."
 msgstr ""
 
-#: Plugins/Office365Plugin/Office365Thread.cpp:398
+#: Plugins/Office365Plugin/Office365Thread.cpp:396
 #, c-format
 msgid ""
 "Unable to authenticate to Office 365 account.\n"
 "Server returned result: (%i) %i %s."
 msgstr ""
 
-#: Plugins/Office365Plugin/Office365Thread.cpp:997
+#: Plugins/Office365Plugin/Office365Thread.cpp:995
 msgid ""
 "The event cannot be uploaded due to a conflict. The updated event will be "
 "reloaded from the server."
@@ -6582,8 +6725,8 @@ msgstr ""
 msgid "Choose the Outlook message store which you want to see in Rainlendar."
 msgstr ""
 
-#: Plugins/OutlookPlugin/MapiItem.cpp:636
-#: Plugins/OutlookPlugin/MapiItem.cpp:650
+#: Plugins/OutlookPlugin/MapiItem.cpp:634
+#: Plugins/OutlookPlugin/MapiItem.cpp:648
 #, c-format
 msgid " [[outlook:%s][edit]]"
 msgstr ""
@@ -6618,43 +6761,43 @@ msgstr ""
 msgid "Unable to delete the item. Error code 0x%p"
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:76
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:74
 msgid "Unable to find the Remember The Milk task list!"
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:78
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:76
 #, c-format
 msgid "The list \"%s\" could not be found. Available lists are:"
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:83
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:81
 msgid "Please write the name exactly like it is in the above list."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:335
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:583
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:329
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:577
 msgid "Unable to parse the ID from the task."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:625
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:619
 msgid "Unable to create the task."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:631
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:678
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:625
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:672
 msgid "Unable to parse the timeline."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:889
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:899
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:883
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:893
 msgid "The service is temporarily unavailable."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1046
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1040
 msgid "Please log in to Remember The Milk."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1048
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1042
 msgid ""
 "You need to authorize Rainlendar to access your Remember The Milk account. "
 "Please log in to the Remember The Milk web site and give Rainlendar access "
@@ -6664,40 +6807,40 @@ msgid ""
 "button."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1054
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1048
 msgid "Continue after authorization."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1056
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1050
 msgid "Click the OK button to continue after you have authorized Rainlendar."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1090
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1084
 msgid "Unable to parse the output."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1171
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1165
 #, c-format
 msgid "Unknown response for call \"%s\"."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1189
-#: Plugins/ToodledoPlugin/ToodledoAPI.cpp:760
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1183
+#: Plugins/ToodledoPlugin/ToodledoAPI.cpp:744
 #, c-format
 msgid ""
 "Call \"%s\" failed:\n"
 "%s"
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1205
-#: Plugins/ToodledoPlugin/ToodledoAPI.cpp:647
-#: Plugins/ToodledoPlugin/ToodledoAPI.cpp:773
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1199
+#: Plugins/ToodledoPlugin/ToodledoAPI.cpp:631
+#: Plugins/ToodledoPlugin/ToodledoAPI.cpp:757
 #, c-format
 msgid "Call to method \"%s\" failed."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1215
-#: Plugins/RememberTheMilkPlugin/RTMThread.cpp:78
+#: Plugins/RememberTheMilkPlugin/RTMAPI.cpp:1209
+#: Plugins/RememberTheMilkPlugin/RTMThread.cpp:76
 #, c-format
 msgid "Remember The Milk Error (%s)!"
 msgstr ""
@@ -6712,13 +6855,13 @@ msgid ""
 "leave the field empty if you want to get all your lists."
 msgstr ""
 
-#: Plugins/RememberTheMilkPlugin/RTMThread.cpp:80
+#: Plugins/RememberTheMilkPlugin/RTMThread.cpp:78
 msgid ""
 "Authentication token is missing. You need to give Rainlendar access to your "
 "Remember The Milk account."
 msgstr ""
 
-#: Plugins/ToodledoPlugin/ToodledoAPI.cpp:194
+#: Plugins/ToodledoPlugin/ToodledoAPI.cpp:190
 #, c-format
 msgid ""
 "Unable to find folder \"%s\".\n"
@@ -6726,7 +6869,7 @@ msgid ""
 "The available folders are:"
 msgstr ""
 
-#: Plugins/ToodledoPlugin/ToodledoAPI.cpp:784
+#: Plugins/ToodledoPlugin/ToodledoAPI.cpp:768
 #, c-format
 msgid "Toodledo Error (%s)!"
 msgstr ""
@@ -6743,22 +6886,22 @@ msgstr ""
 msgid "Please enter your email address and password for Toodledo."
 msgstr ""
 
-#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:310
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:158
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:405
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:324
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:181
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:451
 #, c-format
 msgid "Unable to open file \"%s\" for writing."
 msgstr ""
 
-#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:446
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:479
 msgid "Filename"
 msgstr ""
 
-#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:451
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:484
 msgid "Monitor changes"
 msgstr ""
 
-#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:491
+#: Plugins/iCalendarPlugin/iCalendarHandler.cpp:524
 msgid ""
 "Choose a file for the calendar.\n"
 "\n"
@@ -6770,23 +6913,31 @@ msgstr ""
 msgid "iCalendar files (*.ics)|*.ics|vCalendar files (*.vcs)|*.vcs"
 msgstr ""
 
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:168
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:185
+msgid "The calendar file cannot be stored to the Program Files folder."
+msgstr ""
+
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:187
+msgid "You should move the file e.g. to your Documents folder."
+msgstr ""
+
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:198
 #, c-format
 msgid ""
 "The path to the calendar file \"%s\" does not exits. Go to Options-"
 ">Calendars and verify that the location of the file is correctly set."
 msgstr ""
 
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:189
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:427
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:219
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:474
 #, c-format
 msgid "Unable to make a temporary copy of the file \"%s\"."
 msgstr ""
 
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:345
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:355
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:491
-#: Plugins/iCalendarPlugin/iCalendarThread.cpp:499
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:391
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:401
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:540
+#: Plugins/iCalendarPlugin/iCalendarThread.cpp:548
 #, c-format
 msgid "Unable to replace the file \"%s\"."
 msgstr ""
