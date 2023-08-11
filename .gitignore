@@ -2,3 +2,4 @@
 *.mo
 **/.DS_Store
 
+*.po~
