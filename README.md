@@ -2,6 +2,10 @@
 
 - Website: https://www.rainlendar.net
 
+## Self-host
+
+- The folder contains a script which installs Radicale CalDAV server on a Linux VM that can be used to store the events and tasks.
+
 ## Languages
 
 - You can make corrections to the translations by supplying a pull request to this repository. The changes will be included in the next Rainlendar release.
