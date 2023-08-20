@@ -44,7 +44,7 @@ check_prequisites() {
   fi
 
   log_text "Checking public IP"
-  IP=$(curl -s ifconfig.co)
+  IP=$(curl -4 icanhazip.com)
 }
 
 install_software() {
@@ -63,11 +63,12 @@ install_software() {
 }
 
 configure_radicale() {
+  echo
   log_text "Creating users file"
 
   USERNAME=""
   while [ -z "${USERNAME}" ]; do
-    read -r -p "Please give the user name: " USERNAME
+    read -r -p "Please give the user name for the CalDAV account: " USERNAME
 
     if ! [[ "$USERNAME" =~ ^[a-z_]([a-z0-9_-]{0,31}|[a-z0-9_-]{0,30}\$)$ ]]; then
       echo "Invalid username (${USERNAME}). Please use only lower case letters and no spaces."
@@ -75,7 +76,7 @@ configure_radicale() {
     fi
   done
 
-  PASSWORD=$(pwgen -s 24 1)
+  PASSWORD=$(pwgen -s 16 1)
 
   htpasswd -cBb /etc/radicale/users $USERNAME $PASSWORD
 
