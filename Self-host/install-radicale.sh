@@ -49,6 +49,7 @@ check_prequisites() {
 
 install_software() {
   log_text "Installing required software"
+  export DEBIAN_FRONTEND=noninteractive
   apt install -qq -y python3-pip apache2-utils pwgen nginx unattended-upgrades fail2ban
   dpkg-reconfigure -f noninteractive unattended-upgrades
 
@@ -66,6 +67,8 @@ configure_radicale() {
   echo
   log_text "Creating users file"
 
+  mkdir -p /etc/radicale
+
   USERNAME=""
   while [ -z "${USERNAME}" ]; do
     read -r -p "Please give the user name for the CalDAV account: " USERNAME
@@ -82,7 +85,6 @@ configure_radicale() {
 
   log_text "Creating radical config file"
 
-  mkdir -p /etc/radicale
   cat <<EOT > /etc/radicale/config
 [server]
 hosts = 127.0.0.1:5232
