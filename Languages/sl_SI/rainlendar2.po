@@ -741,7 +741,7 @@ msgid "Task list header format"
 msgstr "Oblika naslova seznama opravil"
 
 msgid "<None>"
-msgstr "[Nič]"
+msgstr "<Nič>"
 
 msgid "Default task template"
 msgstr "Privzeta predloga opravila"
