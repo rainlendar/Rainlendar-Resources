@@ -2250,7 +2250,7 @@ msgid "The installation was successful!"
 msgstr "Namestitev je bila uspešna!"
 
 msgid "The file \"%s\" was installed successfully.."
-msgstr "Datteka \"%s\" je bila uspešno nameščena.."
+msgstr "Datoteka \"%s\" je bila uspešno nameščena.."
 
 msgid "Please refresh Rainlendar to see the changes."
 msgstr "Če želite videti spremembe, osvežite Rainlendar."
