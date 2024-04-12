@@ -651,7 +651,7 @@ msgid "Calendar wheel scroll"
 msgstr "Pomikanje koleščka koledarja"
 
 msgid "Show tasks in calendar"
-msgstr "Prikaži naloge v koledarju"
+msgstr "Prikaži opravila v koledarju"
 
 msgid "Always show menu"
 msgstr "Vedno prikaži meni"
@@ -684,7 +684,7 @@ msgid "Show description in tooltip"
 msgstr "Prikaži opis v orodni vrstici"
 
 msgid "Task fields in tooltip"
-msgstr "Naloga v orodni vrstici"
+msgstr "Opravila v orodni vrstici"
 
 msgid "Event fields in tooltip"
 msgstr "Polja dogodkov v orodni vrstici"
@@ -708,7 +708,7 @@ msgid "Show full task summary"
 msgstr "Prikaži celoten povzetek opravila"
 
 msgid "Show task due time"
-msgstr "Pokažite nalogo pravočasno"
+msgstr "Pokažite opravilo pravočasno"
 
 msgid "Show task location"
 msgstr "Pokaži lokacijo opravila"
@@ -720,7 +720,7 @@ msgid "Number of days the list shows (0 = show all)"
 msgstr "Število dni, ki so prikazani na seznamu (0 = prikaži vse)"
 
 msgid "Show task time when arranged by start or due date"
-msgstr "Pokažite čas naloge, če je urejen po datumu začetka ali zapadlosti"
+msgstr "Pokažite čas opravila, če je urejen po datumu začetka ali zapadlosti"
 
 msgid "%A %d.%#m.%Y (e.g. \"Monday 21.4.2012\")"
 msgstr "%A %d.%#m.%L (npr. \"Ponedeljek 21.4.2012\")"
@@ -741,10 +741,10 @@ msgid "Task list header format"
 msgstr "Oblika naslova seznama opravil"
 
 msgid "<None>"
-msgstr "[Nič]"
+msgstr "<Nič>"
 
 msgid "Default task template"
-msgstr "Privzeta predloga naloge"
+msgstr "Privzeta predloga opravila"
 
 msgid "Event List"
 msgstr "Seznam dogodkov"
@@ -904,7 +904,7 @@ msgid "New event"
 msgstr "Nov dogodek"
 
 msgid "New task"
-msgstr "Nova naloga"
+msgstr "Novo opravilo"
 
 msgid "Refresh"
 msgstr "Osveži"
@@ -1240,7 +1240,7 @@ msgid ""
 "Note that changing the type between events and tasks will result to some "
 "loss of data."
 msgstr ""
-"Upoštevajte, da bo sprememba vrste med dogodki in nalogami povzročila izgubo "
+"Upoštevajte, da bo sprememba vrste med dogodki in opravili povzročila izgubo "
 "podatkov."
 
 msgid "Categories"
@@ -1324,13 +1324,13 @@ msgid "The alarm won't be shown since skin doesn't have an alarm window."
 msgstr "Alarm ne bo prikazan, ker preobleka nima alarmnega okna."
 
 msgid "The task is read-only and the modifications cannot be saved."
-msgstr "Naloga je samo za branje in sprememb ni mogoče shraniti."
+msgstr "Opravilo je samo za branje in sprememb ni mogoče shraniti."
 
 msgid "The event is read-only and the modifications cannot be saved."
 msgstr "Dogodek je samo za branje in spremembe ni mogoče shraniti."
 
 msgid "The task is from a read-only calendar."
-msgstr "Naloga je iz koledarja, koledarja, ki je samo za branje."
+msgstr "Opravilo je iz koledarja, koledarja, ki je samo za branje."
 
 msgid "The event is from a read-only calendar."
 msgstr "Dogodek je iz koledarja, koledarja, ki je samo za branje."
@@ -1367,7 +1367,7 @@ msgid ""
 msgstr ""
 "Ni veljavnih koledarjev, kjer je mogoče shraniti postavko. Pojdite na "
 "možnosti in ustvarite nov koledar za element. Upoštevajte, da nekateri "
-"koledarji ne podpirajo dogodkov in nalog."
+"koledarji ne podpirajo dogodkov in opravil."
 
 msgid "Unable to save the item."
 msgstr "Elementa ni mogoče shraniti."
@@ -1412,7 +1412,7 @@ msgid "before the event starts."
 msgstr "preden se dogodek začne."
 
 msgid "before the task is due."
-msgstr "preden je naloga zapadla."
+msgstr "preden je opravilo zapadlo."
 
 msgid "Set alarm sound"
 msgstr "Nastavite zvok alarma"
@@ -1498,7 +1498,7 @@ msgid "Choose the template to delete:"
 msgstr "Izberite predlogo za brisanje:"
 
 msgid "Choose the template which is used for new tasks:"
-msgstr "Izberite predlogo, ki se uporablja za nove naloge:"
+msgstr "Izberite predlogo, ki se uporablja za nova opravila:"
 
 msgid "Choose the template which is used for new events:"
 msgstr "Izberite predlogo, ki se uporablja za nove dogodke:"
@@ -2172,7 +2172,7 @@ msgstr "Ni mogoče dodati novega alarma!"
 
 msgid ""
 "The due date needs to be specified for the task before it can have alarms."
-msgstr "Za to nalogo je treba določiti rok, preden lahko pride do alarmov."
+msgstr "Za to opravilo je treba določiti rok, preden lahko pride do alarmov."
 
 msgid "Upgrade to Pro version before installing the license."
 msgstr "Pred namestitvijo licence nadgradite na različico Pro."
@@ -2250,7 +2250,7 @@ msgid "The installation was successful!"
 msgstr "Namestitev je bila uspešna!"
 
 msgid "The file \"%s\" was installed successfully.."
-msgstr "Datteka \"%s\" je bila uspešno nameščena.."
+msgstr "Datoteka \"%s\" je bila uspešno nameščena.."
 
 msgid "Please refresh Rainlendar to see the changes."
 msgstr "Če želite videti spremembe, osvežite Rainlendar."
@@ -2467,7 +2467,7 @@ msgid "Collapse"
 msgstr "Strni"
 
 msgid "New subtask"
-msgstr "Nova podnaloga"
+msgstr "Novo podopravilo"
 
 msgid "Edit task"
 msgstr "Uredi opravilo"
@@ -2806,13 +2806,13 @@ msgid "Toggle Today Window"
 msgstr "Preklopi Okno Danes"
 
 msgid "Create New Task"
-msgstr "Ustvari Novo Nalogo"
+msgstr "Ustvari Novo Opravilo"
 
 msgid "Create New Event"
 msgstr "Ustvari Nov Dogodek"
 
 msgid "Create new event or task"
-msgstr "Ustvari nov dogodek ali nalogo"
+msgstr "Ustvari nov dogodek ali opravilo"
 
 msgid "Quit Application"
 msgstr "Zaprite Aplikacijo"
@@ -4135,7 +4135,7 @@ msgid ""
 "the events and tasks will be stored."
 msgstr ""
 "Polje za ime datoteke ne morete pustiti praznega. Določiti morate datoteko, "
-"v kateri bodo shranjeni dogodki in naloge."
+"v kateri bodo shranjeni dogodki in opravila."
 
 msgid "The file name is missing."
 msgstr "Ime datoteke manjka."
@@ -4155,7 +4155,7 @@ msgid ""
 "events and tasks will be stored."
 msgstr ""
 "Polja za spletni naslov ne morete pustiti praznega. Določiti morate "
-"datoteko, v kateri bodo shranjeni dogodki in naloge."
+"datoteko, v kateri bodo shranjeni dogodki in opravila."
 
 msgid "The protocol is missing!"
 msgstr "Manjka protokol!"
@@ -4920,7 +4920,7 @@ msgid ""
 "updated task will be reloaded from the Google Tasks."
 msgstr ""
 "Tega opravila zaradi konflikta ni mogoče prenesti v Google Opravila. "
-"Posodobljena naloga bo ponovno naložena iz Google Opravila."
+"Posodobljeno opravilo bo ponovno naloženo iz Google Opravila."
 
 msgid "Unable to upload the task: "
 msgstr "Tega opravila ni mogoče naložiti: "
