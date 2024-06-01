@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.13\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2022-03-21 16:02+0200\n"
 "Last-Translator: cus08 <yhyx49@yahoo.com.cn>\n"
 "Language-Team: JOYSUM <jinhong@pobaby.com>\n"
@@ -1339,8 +1339,7 @@ msgstr "原始说明在 HTML 中，无法编辑。"
 msgid ""
 "Tip: You can customize the editor from Options->Advanced->Customize event/"
 "task editor fields."
-msgstr ""
-"提示：您可以从选项- >高级- >自定义事件/任务编辑器字段自定义编辑器"
+msgstr "提示：您可以从选项- >高级- >自定义事件/任务编辑器字段自定义编辑器"
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1991,9 +1990,6 @@ msgstr "打印"
 msgid "Print items"
 msgstr "打印记录"
 
-msgid "End"
-msgstr "结束"
-
 msgid "Settings"
 msgstr "设置"
 
@@ -2306,6 +2302,9 @@ msgstr "向上翻页"
 
 msgid "Page Down"
 msgstr "向下翻页"
+
+msgid "End"
+msgstr "结束"
 
 msgid "Insert"
 msgstr "Insert"
@@ -4012,9 +4011,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "购买Pro版授权"
 
-msgid "See differences"
-msgstr "查看差异"
-
 msgid "No calendar selected!"
 msgstr "未选择任何日历！"
 
@@ -4433,26 +4429,23 @@ msgstr "当前皮肤"
 msgid "Settings..."
 msgstr "设置…"
 
+msgid "Select printed items"
+msgstr "选择打印项目"
+
 msgid "All items"
 msgstr "所有记录"
 
 msgid "Selected items"
 msgstr "已选记录"
 
-msgid "Day range"
-msgstr "日期范围"
+msgid "Month"
+msgstr "1个月"
 
-msgid "Select days"
-msgstr "选择日期"
+msgid "Select month"
+msgstr "选择月份"
 
-msgid "Add title"
-msgstr "添加标题"
-
-msgid "Preview..."
-msgstr "预览…"
-
-msgid "Page Setup..."
-msgstr "页面设置…"
+msgid "Month:"
+msgstr "月:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "逗号分隔文件 (*.csv)|*.csv"
@@ -4827,6 +4820,46 @@ msgstr "无法上传任务："
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Rainlendar 文件 (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "下载的事件计数"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft待办事项"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"输入你的Microsoft To Do帐户电子邮件地址，然后单击“选择日历”按钮并选择要访问的"
+"日历"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr "无法对Office 365帐户进行身份验证\\ n请验证您的电子邮件和密码是否正确"
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Microsoft To Do错误(%s) ！"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"无法对Office 365帐户进行身份验证Rainlendar对Office 365日历的访问权限可能已被"
+"撤销请刷新日历，然后再次将雨历验证到Office 365帐户"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr "无法对Office 365帐户进行身份验证\\ n服务器返回的结果: (% i) % i %s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr "由于冲突，无法上传事件更新的事件将从服务器重新加载"
+
 msgid "Safe upload"
 msgstr "安全上传"
 
@@ -4874,9 +4907,6 @@ msgstr ""
 "\n"
 "伺服器传回讯息: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "下载的事件计数"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -4887,32 +4917,13 @@ msgstr ""
 "输入 Office 365 帐户电子邮件地址，然后单击\"选择日历\"按钮，然后选择要访问的"
 "日历。"
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr "无法对Office 365帐户进行身份验证\\ n请验证您的电子邮件和密码是否正确"
-
 msgid "Office365 Error (%s)!"
 msgstr "Office365 错误 (%s)"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
-msgstr ""
-"无法对Office 365帐户进行身份验证Rainlendar对Office 365日历的访问权限可能已被"
-"撤销请刷新日历，然后再次将雨历验证到Office 365帐户"
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr "无法对Office 365帐户进行身份验证\\ n服务器返回的结果: (% i) % i %s"
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr "由于冲突，无法上传事件更新的事件将从服务器重新加载"
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr "身份验证已过期请前往「选项」- >「日历」，然后再次对日历进行身份验证"
 
 msgid ""
 "Outlook Error!\n"
@@ -4955,9 +4966,6 @@ msgstr "显示编辑链接"
 
 msgid "Keep MAPI connection alive"
 msgstr "保持 MAPI 连接"
-
-msgid "Month"
-msgstr "1个月"
 
 msgid "6 months"
 msgstr "6个月"

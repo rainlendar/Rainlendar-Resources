@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Evan Lo <evanade@hotmail.com>\n"
 "Language-Team: \n"
@@ -10,7 +10,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgid ""
 "Rainlendar is unable to start the HTTP server to receive the OAuth response. "
@@ -1989,9 +1989,6 @@ msgstr "列印"
 msgid "Print items"
 msgstr "列印項目"
 
-msgid "End"
-msgstr "結束"
-
 msgid "Settings"
 msgstr "設定"
 
@@ -2304,6 +2301,9 @@ msgstr "Page Up"
 
 msgid "Page Down"
 msgstr "Page Down"
+
+msgid "End"
+msgstr "結束"
 
 msgid "Insert"
 msgstr "Insert"
@@ -4017,9 +4017,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "購買授權"
 
-msgid "See differences"
-msgstr "查看版本差異"
-
 msgid "No calendar selected!"
 msgstr "沒有選擇行事曆！"
 
@@ -4439,26 +4436,23 @@ msgstr "使用中的面板"
 msgid "Settings..."
 msgstr "設定 ..."
 
+msgid "Select printed items"
+msgstr "選擇列印項目"
+
 msgid "All items"
 msgstr "所有項目"
 
 msgid "Selected items"
 msgstr "已選項目"
 
-msgid "Day range"
-msgstr "日期範圍"
+msgid "Month"
+msgstr "1個月"
 
-msgid "Select days"
-msgstr "選擇日期"
+msgid "Select month"
+msgstr "選擇月份"
 
-msgid "Add title"
-msgstr "增加標題"
-
-msgid "Preview..."
-msgstr "預覽 ..."
-
-msgid "Page Setup..."
-msgstr "頁面設定 ..."
+msgid "Month:"
+msgstr "月:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Comma Separated Values (CSV)檔案 (*.csv)|*.csv"
@@ -4831,6 +4825,51 @@ msgstr "無法上傳工作："
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Rainlendar 檔案 (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "已下載事件數"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"輸入您的Microsoft To Do帳戶電子郵件地址，然後按一下 \"選擇行事曆\"按鈕，然後"
+"選擇您要存取的行事曆"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"無法驗證Office 365帳戶\n"
+"請確認您的電子郵件\n"
+"以及密碼是否正確。"
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Microsoft待辦事項錯誤(%s) ！"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"無法驗證Office 365帳戶。Rainlendar使用 Office 365 的授權可能已遭到撤銷。請重"
+"新讀取行事曆並重新驗證您的 Office 365 帳戶。"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"無法驗證Office 365帳戶。\n"
+"伺服器傳回訊息: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr "由於發生衝突，所以這個事件無法上傳。更新後的事件將從伺服器重新讀取。"
+
 msgid "Safe upload"
 msgstr "安全上傳"
 
@@ -4877,9 +4916,6 @@ msgstr ""
 "\n"
 "伺服器傳回訊息: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "已下載事件數"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -4890,37 +4926,13 @@ msgstr ""
 "輸入您Office 365帳戶的電子郵件地址，按下\"選擇行事曆\"按鈕選擇您要匯入的行事"
 "曆。"
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"無法驗證Office 365帳戶\n"
-"請確認您的電子郵件\n"
-"以及密碼是否正確。"
-
 msgid "Office365 Error (%s)!"
 msgstr "Office 365 錯誤 (%s)！"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
-msgstr ""
-"無法驗證Office 365帳戶。Rainlendar使用 Office 365 的授權可能已遭到撤銷。請重"
-"新讀取行事曆並重新驗證您的 Office 365 帳戶。"
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"無法驗證Office 365帳戶。\n"
-"伺服器傳回訊息: (%i) %i %s."
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr "由於發生衝突，所以這個事件無法上傳。更新後的事件將從伺服器重新讀取。"
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
+msgstr "身份驗證已過期請前往「選項」- >「行事曆」，然後再次為行事曆進行驗證"
 
 msgid ""
 "Outlook Error!\n"
@@ -4963,9 +4975,6 @@ msgstr "顯示編輯連結"
 
 msgid "Keep MAPI connection alive"
 msgstr "保持 MAPI 連接"
-
-msgid "Month"
-msgstr "1個月"
 
 msgid "6 months"
 msgstr "6個月"

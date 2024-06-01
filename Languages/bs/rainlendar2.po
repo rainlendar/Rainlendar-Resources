@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar V2.13\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2023-08-10 10:23+0300\n"
 "Last-Translator: Samir Gutic <amicussamir@gmail.com>\n"
 "Language-Team: Samir Gutic - Amicus <amicussamir@gmail.com>\n"
@@ -2023,9 +2023,6 @@ msgstr "Printaj"
 msgid "Print items"
 msgstr "Printaj stavke"
 
-msgid "End"
-msgstr "Kraj"
-
 msgid "Settings"
 msgstr "Podešenja"
 
@@ -2341,6 +2338,9 @@ msgstr "Page Up"
 
 msgid "Page Down"
 msgstr "Page Down"
+
+msgid "End"
+msgstr "Kraj"
 
 msgid "Insert"
 msgstr "Insert"
@@ -4106,9 +4106,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "Kupi licencu"
 
-msgid "See differences"
-msgstr "Pogledaj razlike"
-
 msgid "No calendar selected!"
 msgstr "Nije selektovan nijedan kalendar!"
 
@@ -4534,26 +4531,23 @@ msgstr "Aktivne maske"
 msgid "Settings..."
 msgstr "Podešenja..."
 
+msgid "Select printed items"
+msgstr "Odaberite odštampane stavke"
+
 msgid "All items"
 msgstr "Sve stavke"
 
 msgid "Selected items"
 msgstr "Selektovane stavke"
 
-msgid "Day range"
-msgstr "Raspon dana"
+msgid "Month"
+msgstr "Mjesec"
 
-msgid "Select days"
-msgstr "Selektuj dane"
+msgid "Select month"
+msgstr "Odaberite mesec"
 
-msgid "Add title"
-msgstr "Dodaj naslov"
-
-msgid "Preview..."
-msgstr "Pregled..."
-
-msgid "Page Setup..."
-msgstr "Podešenje Stranice..."
+msgid "Month:"
+msgstr "Mesec"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Vrijednosti Razdvojeni Zarezom (*.csv)|*.csv"
@@ -4938,6 +4932,53 @@ msgstr "Nije moguće upload-ovati zadatak:"
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Rainlendar dokumenti (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "Broj preuzetih događaja"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Unesite svoju Microsoft To Do adresu e-pošte računa i kliknite na "
+"dugme\"Odaberi kalendar\" i odaberite kalendar kojem želite pristupiti"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Nije moguće potvrditi autentičnost na Office 365 račun\n"
+"Provjerite jesu li vaša e-pošta i lozinka ispravni"
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Microsoft To Do greška (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Nije moguće potvrditi autentičnost na Office 365 računRainlendarov pristup "
+"Office 365 kalendaru je možda ukinutOsvježite kalendar i ponovo "
+"autentificirajte Rainlendar na svoj Office 365 račun"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Nije moguće potvrditi autentičnost na Office 365 račun\n"
+"Rezultat vraćanja servera: (%i) %i %s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Događaj se ne može učitati zbog sukobaAžurirani događaj će se ponovo učitati "
+"sa servera"
+
 msgid "Safe upload"
 msgstr "Sigurno slanje"
 
@@ -4986,9 +5027,6 @@ msgstr ""
 "\n"
 "Server je vratio rezultat: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "Broj preuzetih događaja"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -4999,39 +5037,15 @@ msgstr ""
 "Unesite e-mail adresu računa sustava Office 365 i kliknite na "
 "gumb\"Odaberite kalendar\" te odaberite kalendar kojem želite pristupiti."
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Nije moguće potvrditi autentičnost na Office 365 račun\n"
-"Provjerite jesu li vaša e-pošta i lozinka ispravni"
-
 msgid "Office365 Error (%s)!"
 msgstr "Office365 Greška (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Nije moguće potvrditi autentičnost na Office 365 računRainlendarov pristup "
-"Office 365 kalendaru je možda ukinutOsvježite kalendar i ponovo "
-"autentificirajte Rainlendar na svoj Office 365 račun"
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Nije moguće potvrditi autentičnost na Office 365 račun\n"
-"Rezultat vraćanja servera: (%i) %i %s"
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"Događaj se ne može učitati zbog sukobaAžurirani događaj će se ponovo učitati "
-"sa servera"
+"Provjera autentičnosti je zastarjelaIdite na Opcije- >Kalendari i ponovo "
+"pokrenite provjeru autentičnosti kalendara"
 
 msgid ""
 "Outlook Error!\n"
@@ -5075,9 +5089,6 @@ msgstr "Prikaži linkove za izmjenu"
 
 msgid "Keep MAPI connection alive"
 msgstr "Održavaj MAPI konekciju aktivnom"
-
-msgid "Month"
-msgstr "Mjesec"
 
 msgid "6 months"
 msgstr "6 mjeseci"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2015-03-30 11:33+0200\n"
 "Last-Translator: Anne Cojocarasu <cojocarasu.anne@gmail.com>\n"
 "Language-Team: Viorel Semeniuc <viorel.semeniuc@gmail.com>\n"
@@ -1356,7 +1356,8 @@ msgid ""
 "Tip: You can customize the editor from Options->Advanced->Customize event/"
 "task editor fields."
 msgstr ""
-"Sfat: poți personaliza editorul din câmpurile Opțiuni->Avansat->Personalizează editorul de evenimente/sarcini"
+"Sfat: poți personaliza editorul din câmpurile Opțiuni->Avansat-"
+">Personalizează editorul de evenimente/sarcini"
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -2028,9 +2029,6 @@ msgstr "Tipărire"
 msgid "Print items"
 msgstr "Articole de tipărit"
 
-msgid "End"
-msgstr "Final"
-
 msgid "Settings"
 msgstr "Configurare"
 
@@ -2351,6 +2349,9 @@ msgstr "Page Up"
 
 msgid "Page Down"
 msgstr "Page Down"
+
+msgid "End"
+msgstr "Final"
 
 msgid "Insert"
 msgstr "Insert"
@@ -4122,9 +4123,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "Cumpără licență"
 
-msgid "See differences"
-msgstr "Vezi diferenţele"
-
 msgid "No calendar selected!"
 msgstr "Niciun calendar selectat!"
 
@@ -4552,26 +4550,23 @@ msgstr "Interfeţe active"
 msgid "Settings..."
 msgstr "Configurare..."
 
+msgid "Select printed items"
+msgstr "Selectați articolele tipărite"
+
 msgid "All items"
 msgstr "Toate articolele"
 
 msgid "Selected items"
 msgstr "Articolele selectate"
 
-msgid "Day range"
-msgstr "Perioada"
+msgid "Month"
+msgstr "Lună"
 
-msgid "Select days"
-msgstr "Alegeţi zilele"
+msgid "Select month"
+msgstr "Selectează Luna"
 
-msgid "Add title"
-msgstr "Adăugare titlu"
-
-msgid "Preview..."
-msgstr "Vizualizare..."
-
-msgid "Page Setup..."
-msgstr "Configuraţia paginii..."
+msgid "Month:"
+msgstr "Luna:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Valori separate de virgulă (*.csv)|*.csv"
@@ -4963,6 +4958,56 @@ msgstr "Nu se poate încărca sarcina:"
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Fişiere Rainlendar (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "Numărul de evenimente descărcate"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Introduceți adresa de e-mail a contului Microsoft To Do și faceți clic pe "
+"butonul\"Selectați calendarul\" și alegeți calendarul pe care doriți să îl "
+"accesați"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Imposibil de autentificat în contul Office 365\n"
+"Verificați dacă adresa dvs. de e-mail\n"
+"și parola sunt corecte"
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Eroare Microsoft To Do (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Imposibil de autentificat în contul Office 365Este posibil ca accesul "
+"Rainlendar la calendarul Office 365 să fi fost revocatVă rugăm să "
+"reîmprospătați calendarul și să vă autentificați din nou Rainlendar în "
+"contul dvs. Office 365"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Imposibil de autentificat în contul Office 365\n"
+"Serverul a returnat rezultatul: (%i) %i %s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Evenimentul nu poate fi încărcat din cauza unui conflictEvenimentul "
+"actualizat va fi reîncărcat de pe server"
+
 msgid "Safe upload"
 msgstr "Upload sigur"
 
@@ -5011,9 +5056,6 @@ msgstr ""
 "\n"
 "Serverul a returnat următorul rezultat: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "Numărul de evenimente descărcate"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -5025,41 +5067,15 @@ msgstr ""
 "butonul\"Selectați calendarul\" și alegeți calendarul pe care doriți să îl "
 "accesați"
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Imposibil de autentificat în contul Office 365\n"
-"Verificați dacă adresa dvs. de e-mail\n"
-"și parola sunt corecte"
-
 msgid "Office365 Error (%s)!"
 msgstr "Eroare Office365 (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Imposibil de autentificat în contul Office 365Este posibil ca accesul "
-"Rainlendar la calendarul Office 365 să fi fost revocatVă rugăm să "
-"reîmprospătați calendarul și să vă autentificați din nou Rainlendar în "
-"contul dvs. Office 365"
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Imposibil de autentificat în contul Office 365\n"
-"Serverul a returnat rezultatul: (%i) %i %s"
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"Evenimentul nu poate fi încărcat din cauza unui conflictEvenimentul "
-"actualizat va fi reîncărcat de pe server"
+"Autentificarea este învechităAccesați Opțiuni->Calendare și rulați din nou "
+"autentificarea pentru calendar"
 
 msgid ""
 "Outlook Error!\n"
@@ -5103,9 +5119,6 @@ msgstr "Afişare link-uri de editare"
 
 msgid "Keep MAPI connection alive"
 msgstr "Susţine conexiunea MAPI"
-
-msgid "Month"
-msgstr "Lună"
 
 msgid "6 months"
 msgstr "6 luni"

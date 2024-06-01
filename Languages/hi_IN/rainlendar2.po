@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2023-08-10 10:39+0300\n"
 "Last-Translator: Abhi Avi <abhiavi114@gmail.com>\n"
 "Language-Team: \n"
@@ -2009,9 +2009,6 @@ msgstr "मुद्रण"
 msgid "Print items"
 msgstr "चीज मुद्रित करें"
 
-msgid "End"
-msgstr "अंत"
-
 msgid "Settings"
 msgstr "सेटिंग्स"
 
@@ -2325,6 +2322,9 @@ msgstr "पेज अप"
 
 msgid "Page Down"
 msgstr "पेज डाउन"
+
+msgid "End"
+msgstr "अंत"
 
 msgid "Insert"
 msgstr "बीच में जोडें"
@@ -4061,9 +4061,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "अनुज्ञापत्र खरीदें"
 
-msgid "See differences"
-msgstr "अंतर जांचें"
-
 msgid "No calendar selected!"
 msgstr "कोई केलेन्डर चयन नहीं किया है।"
 
@@ -4489,26 +4486,23 @@ msgstr "वर्तमान स्किन"
 msgid "Settings..."
 msgstr "सेटिंग्स.."
 
+msgid "Select printed items"
+msgstr "प्रिंटेड आइटम चुनें"
+
 msgid "All items"
 msgstr "सभी चीजे"
 
 msgid "Selected items"
 msgstr "चुनिंदा चीजें"
 
-msgid "Day range"
-msgstr "दिन सीमा"
+msgid "Month"
+msgstr "महिना"
 
-msgid "Select days"
-msgstr "दिन चुनें"
+msgid "Select month"
+msgstr "महीना चुनिए"
 
-msgid "Add title"
-msgstr "शीर्षक जोड़ें"
-
-msgid "Preview..."
-msgstr "पूर्वदर्शन..."
-
-msgid "Page Setup..."
-msgstr "पृष्ट सेटअप"
+msgid "Month:"
+msgstr "महीना:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "कोमा-विभाजित मूल्य (*.csv)|*.csv"
@@ -4889,6 +4883,51 @@ msgstr "कार्य अपलोड में असफलः"
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "रेइनलेंडर नत्थी (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "डाउनलोड की गई ईवेंट गिनती"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"अपना Microsoft To Do अकाउंट ईमेल पता डालें और \" कैलेंडर चुनें \" बटन पर क्लिक करें और उस "
+"कैलेंडर को चुनें जिसे आप एक्सेस करना चाहते हैं"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Office 365 खाते को सत्यापित करने में असमर्थ\\ nकृपया पुष्टि करें कि आपका ईमेल\\ nऔर "
+"पासवर्ड सही है"
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Microsoft को करने के लिए गड़बड़ी (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Office 365 खाते को सत्यापित करने में असमर्थOffice 365 कैलेंडर में Rainlendar की पहुँच रद्द "
+"की जा सकती हैकृपया कैलेंडर को रिफ्रेश करें और Rainlendar को फिर से अपने Office 365 खाते "
+"में प्रमाणित करें"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Office 365 खाते को सत्यापित करने में असमर्थ\\ nसर्वर ने परिणाम लौटाया: (% i )% i %s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"विरोध के कारण घटना अपलोड नहीं की जा सकतीअद्यतन घटना को सर्वर से पुनः लोड किया जाएगा"
+
 msgid "Safe upload"
 msgstr "सुरक्षित अपलोड"
 
@@ -4937,9 +4976,6 @@ msgstr ""
 "\n"
 "रस्वर की तरफ से परिणाम: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "डाउनलोड की गई ईवेंट गिनती"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -4950,37 +4986,15 @@ msgstr ""
 "अपना Office 365 खाता ईमेल पता दर्ज करें और \" कैलेंडर का चयन करें \" बटन पर क्लिक करें "
 "और उस कैलेंडर का चयन करें जिसे आप एक्सेस करना चाहते हैं"
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Office 365 खाते को सत्यापित करने में असमर्थ\\ nकृपया पुष्टि करें कि आपका ईमेल\\ nऔर "
-"पासवर्ड सही है"
-
 msgid "Office365 Error (%s)!"
 msgstr "Office365 त्रुटि (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Office 365 खाते को सत्यापित करने में असमर्थOffice 365 कैलेंडर में Rainlendar की पहुँच रद्द "
-"की जा सकती हैकृपया कैलेंडर को रिफ्रेश करें और Rainlendar को फिर से अपने Office 365 खाते "
-"में प्रमाणित करें"
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Office 365 खाते को सत्यापित करने में असमर्थ\\ nसर्वर ने परिणाम लौटाया: (% i )% i %s"
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"विरोध के कारण घटना अपलोड नहीं की जा सकतीअद्यतन घटना को सर्वर से पुनः लोड किया जाएगा"
+"प्रमाणीकरण पुराना हो गया हैकृपया विकल्प->कैलेंडर पर जाएँ और कैलेंडर के लिए प्रमाणीकरण फिर "
+"से चलाएँ"
 
 msgid ""
 "Outlook Error!\n"
@@ -5024,9 +5038,6 @@ msgstr "संपादन लिंक्स को दिखाएं"
 
 msgid "Keep MAPI connection alive"
 msgstr "मापी संपर्क बनाए रखें।"
-
-msgid "Month"
-msgstr "महिना"
 
 msgid "6 months"
 msgstr "6 महिना"

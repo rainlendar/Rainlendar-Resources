@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2023-08-10 10:46+0300\n"
 "Last-Translator: Fokke Post <editor@orcaplaza.nl>\n"
 "Language-Team: Alfred Spijker <http://xinbox.com/alfredspijker>\n"
@@ -2032,9 +2032,6 @@ msgstr "Afdrukken"
 msgid "Print items"
 msgstr "Items afdrukken"
 
-msgid "End"
-msgstr "Einde"
-
 msgid "Settings"
 msgstr "Instellingen"
 
@@ -2360,6 +2357,9 @@ msgstr "Page Up"
 
 msgid "Page Down"
 msgstr "Page Down"
+
+msgid "End"
+msgstr "Einde"
 
 msgid "Insert"
 msgstr "Insert"
@@ -4142,9 +4142,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "Licentie kopen"
 
-msgid "See differences"
-msgstr "De verschillen bekijken"
-
 msgid "No calendar selected!"
 msgstr "Geen kalender geselecteerd!"
 
@@ -4573,26 +4570,23 @@ msgstr "Actieve thema's"
 msgid "Settings..."
 msgstr "Instellingen..."
 
+msgid "Select printed items"
+msgstr "Afgedrukte items selecteren"
+
 msgid "All items"
 msgstr "Alle items"
 
 msgid "Selected items"
 msgstr "Geselecteerde items"
 
-msgid "Day range"
-msgstr "Dagbereik"
+msgid "Month"
+msgstr "maand"
 
-msgid "Select days"
-msgstr "Selecteer de dagen"
+msgid "Select month"
+msgstr "Selecteer maand"
 
-msgid "Add title"
-msgstr "Titel toevoegen"
-
-msgid "Preview..."
-msgstr "Voorbeeld..."
-
-msgid "Page Setup..."
-msgstr "Pagina-instellingen..."
+msgid "Month:"
+msgstr "Maand:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Kommagescheiden waarden (*.csv)|*.csv"
@@ -4985,6 +4979,54 @@ msgstr "Kon deze taak niet uploaden: "
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Rainlendar-bestanden (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "Aantal gedownloade afspraken"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To-Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Voer het e-mailadres van uw Microsoft To Do-account in en klik op de "
+"knop\"Agenda selecteren\" en kies de agenda die u wilt openen"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Kon niet authenticeren bij het Office 365-account.\n"
+"Controleer of uw e-mailadres\n"
+"en wachtwoord juist zijn."
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Microsoft To Do-fout (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Er kon niet bij het Office 365-account geauthenticeerd worden. De toegang "
+"van Rainlendar bij de Office 365-agenda is misschien ingetrokken. Vernieuw "
+"de kalender en authenticeer Rainlendar opnieuw bij uw Office 365-account."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Er kon niet bij het Office 365-account geauthenticeerd worden.\n"
+"Antwoord van de server: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"De afspraak kan niet geüpload worden vanwege een conflict. De bijgewerkte "
+"afspraak zal opnieuw van de server geladen worden."
+
 msgid "Safe upload"
 msgstr "Veilige upload"
 
@@ -5034,9 +5076,6 @@ msgstr ""
 "\n"
 "Antwoord van de server: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "Aantal gedownloade afspraken"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -5047,40 +5086,15 @@ msgstr ""
 "Voer het e-mailadres van uw Office 365-account in en klik op de knop "
 "\"Kalender selecteren\" en kies de kalender die u wilt gebruiken."
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Kon niet authenticeren bij het Office 365-account.\n"
-"Controleer of uw e-mailadres\n"
-"en wachtwoord juist zijn."
-
 msgid "Office365 Error (%s)!"
 msgstr "Office 365-fout (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Er kon niet bij het Office 365-account geauthenticeerd worden. De toegang "
-"van Rainlendar bij de Office 365-agenda is misschien ingetrokken. Vernieuw "
-"de kalender en authenticeer Rainlendar opnieuw bij uw Office 365-account."
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Er kon niet bij het Office 365-account geauthenticeerd worden.\n"
-"Antwoord van de server: (%i) %i %s."
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"De afspraak kan niet geüpload worden vanwege een conflict. De bijgewerkte "
-"afspraak zal opnieuw van de server geladen worden."
+"De authenticatie is verouderdGa naar Opties->Agenda 's en voer de "
+"verificatie opnieuw uit voor de agenda"
 
 msgid ""
 "Outlook Error!\n"
@@ -5124,9 +5138,6 @@ msgstr "Koppelingen om te bewerken weergeven"
 
 msgid "Keep MAPI connection alive"
 msgstr "MAPI-verbinding actief houden"
-
-msgid "Month"
-msgstr "maand"
 
 msgid "6 months"
 msgstr "6 maanden"

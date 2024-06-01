@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2023-08-10 10:27+0300\n"
 "Last-Translator: Lektor <lektor@4x4.gr>\n"
 "Language-Team: \n"
@@ -2046,9 +2046,6 @@ msgstr "Εκτύπωση"
 msgid "Print items"
 msgstr "Εκτύπωση στοιχείων"
 
-msgid "End"
-msgstr "Τέλος"
-
 msgid "Settings"
 msgstr "Ρυθμίσεις"
 
@@ -2379,6 +2376,9 @@ msgstr "Page Up"
 
 msgid "Page Down"
 msgstr "Page Down"
+
+msgid "End"
+msgstr "Τέλος"
 
 msgid "Insert"
 msgstr "Insert"
@@ -4181,9 +4181,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "Αγοράστε άδεια"
 
-msgid "See differences"
-msgstr "Δείτε τις διαφορές"
-
 msgid "No calendar selected!"
 msgstr "Δεν έχει επιλεγεί ημερολόγιο!"
 
@@ -4614,26 +4611,23 @@ msgstr "Ενεργές εμφανίσεις"
 msgid "Settings..."
 msgstr "Ρυθμίσεις..."
 
+msgid "Select printed items"
+msgstr "Επιλογή εκτυπωμένων στοιχείων"
+
 msgid "All items"
 msgstr "Όλα τα στοιχεία"
 
 msgid "Selected items"
 msgstr "Επιλεγμένα στοιχεία"
 
-msgid "Day range"
-msgstr "Εύρος ημερών"
+msgid "Month"
+msgstr "Μήνας"
 
-msgid "Select days"
-msgstr "Επέλεξε ημέρες"
+msgid "Select month"
+msgstr "Επιλέξτε μήνα"
 
-msgid "Add title"
-msgstr "Προσθήκη τίτλου"
-
-msgid "Preview..."
-msgstr "Προεπισκόπιση..."
-
-msgid "Page Setup..."
-msgstr "Διαμόρφωση σελίδας..."
+msgid "Month:"
+msgstr "Λιγότερο από ένα μήνα"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Τιμές διαχωρισμένες με κόμμα (*.csv) | *.csv"
@@ -5030,6 +5024,56 @@ msgstr "Δεν είναι δυνατή η αποστολή της εργασία
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Αρχεία Rainlendar (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "Πλήθος συμβάντων που κατεβάσατε"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To Do. "
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Εισαγάγετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου του λογαριασμού Microsoft "
+"To Do και κάντε κλικ στο κουμπί\"Επιλογή ημερολογίου\" και επιλέξτε το "
+"ημερολόγιο στο οποίο θέλετε να αποκτήσετε πρόσβαση"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Δεν είναι δυνατός ο έλεγχος ταυτότητας στο λογαριασμό Office 365.\n"
+"Επιβεβαιώστε ότι το email σας\n"
+"και ο κωδικός πρόσβασης είναι σωστοί."
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Σφάλμα Microsoft To Do (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Δεν είναι δυνατός ο έλεγχος ταυτότητας στο λογαριασμό Office 365. Η πρόσβαση "
+"του Rainlendar στο ημερολόγιο του Office 365 μπορεί να έχει ανακληθεί. "
+"Ανανεώστε το ημερολόγιο και ελέγξτε ξανά τον έλεγχο της υπηρεσίας στο "
+"λογαριασμό σας στο Office 365."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Δεν είναι δυνατός ο έλεγχος ταυτότητας στο λογαριασμό Office 365.\n"
+"Ο διακομιστής επέστρεψε αποτέλεσμα: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Δεν είναι δυνατή η αποστολή του συμβάντος λόγω διένεξης. Το ενημερωμένο "
+"συμβάν θα επαναφορτωθεί από το διακομιστή."
+
 msgid "Safe upload"
 msgstr "Ασφαλής αποστολή"
 
@@ -5081,9 +5125,6 @@ msgstr ""
 "\n"
 "Ο διακομιστής επέστρεψε αποτέλεσμα:(%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "Πλήθος συμβάντων που κατεβάσατε"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -5095,41 +5136,15 @@ msgstr ""
 "365 και κάντε κλικ στο κουμπί \"επιλογή ημερολογίου\" και επιλέξτε το "
 "ημερολόγιο στο οποίο θέλετε να αποκτήσετε πρόσβαση."
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Δεν είναι δυνατός ο έλεγχος ταυτότητας στο λογαριασμό Office 365.\n"
-"Επιβεβαιώστε ότι το email σας\n"
-"και ο κωδικός πρόσβασης είναι σωστοί."
-
 msgid "Office365 Error (%s)!"
 msgstr "Office365 σφάλμα (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Δεν είναι δυνατός ο έλεγχος ταυτότητας στο λογαριασμό Office 365. Η πρόσβαση "
-"του Rainlendar στο ημερολόγιο του Office 365 μπορεί να έχει ανακληθεί. "
-"Ανανεώστε το ημερολόγιο και ελέγξτε ξανά τον έλεγχο της υπηρεσίας στο "
-"λογαριασμό σας στο Office 365."
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Δεν είναι δυνατός ο έλεγχος ταυτότητας στο λογαριασμό Office 365.\n"
-"Ο διακομιστής επέστρεψε αποτέλεσμα: (%i) %i %s."
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"Δεν είναι δυνατή η αποστολή του συμβάντος λόγω διένεξης. Το ενημερωμένο "
-"συμβάν θα επαναφορτωθεί από το διακομιστή."
+"Ο έλεγχος ταυτότητας είναι παρωχημένοςΜεταβείτε στις Επιλογές->Ημερολόγια "
+"και εκτελέστε ξανά τον έλεγχο ταυτότητας για το ημερολόγιο"
 
 msgid ""
 "Outlook Error!\n"
@@ -5173,9 +5188,6 @@ msgstr "Εμφάνισε δεσμούς επεξεργασίας"
 
 msgid "Keep MAPI connection alive"
 msgstr "Διατήρησε την σύνδεση ΜΑΡΙ ενεργή"
-
-msgid "Month"
-msgstr "Μήνας"
 
 msgid "6 months"
 msgstr "6 μήνες"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.17-ru\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2021-09-23 14:54+0800\n"
 "Last-Translator: Andrey Vertexx <mortbass@gmail.com>\n"
 "Language-Team: Andrey Vertexx <mortbass@gmail.com>\n"
@@ -1350,7 +1350,8 @@ msgid ""
 "Tip: You can customize the editor from Options->Advanced->Customize event/"
 "task editor fields."
 msgstr ""
-"Совет. Вы можете настроить редактор в разделе «Параметры» -> «Дополнительно» - > «Настройка полей редактора событий/задач»."
+"Совет. Вы можете настроить редактор в разделе «Параметры» -> «Дополнительно» "
+"- > «Настройка полей редактора событий/задач»."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -2021,9 +2022,6 @@ msgstr "Печать"
 msgid "Print items"
 msgstr "Напечатать элементы"
 
-msgid "End"
-msgstr "Окончание"
-
 msgid "Settings"
 msgstr "Настройки"
 
@@ -2341,6 +2339,9 @@ msgstr "Страницу Вверх"
 
 msgid "Page Down"
 msgstr "Страницу Вниз"
+
+msgid "End"
+msgstr "Окончание"
 
 msgid "Insert"
 msgstr "Вставить"
@@ -4089,9 +4090,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "Купить лицензию"
 
-msgid "See differences"
-msgstr "Указать различия"
-
 msgid "No calendar selected!"
 msgstr "Не выбран календарь!"
 
@@ -4517,26 +4515,23 @@ msgstr "Активные обложки"
 msgid "Settings..."
 msgstr "Настройки..."
 
+msgid "Select printed items"
+msgstr "Выберите распечатанные элементы"
+
 msgid "All items"
 msgstr "Все элементы"
 
 msgid "Selected items"
 msgstr "Выбранные элементы"
 
-msgid "Day range"
-msgstr "Период"
+msgid "Month"
+msgstr "Месяц"
 
-msgid "Select days"
-msgstr "Выбрать дни"
+msgid "Select month"
+msgstr "Выбрать месяц "
 
-msgid "Add title"
-msgstr "Добавить название"
-
-msgid "Preview..."
-msgstr "Просмотр..."
-
-msgid "Page Setup..."
-msgstr "Параметры страницы..."
+msgid "Month:"
+msgstr "Месяц:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Значения, разделённые запятыми (*.csv)|*.csv"
@@ -4922,6 +4917,54 @@ msgstr "Невозможно загрузить задачу:"
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Файлы Rainlendar (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "Число скачанных событий"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Введите адрес электронной почты учетной записи Microsoft To Do, нажмите "
+"кнопку \"Выбрать календарь\" и выберите календарь, к которому вы хотите "
+"получить доступ."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Невозможно войти в аккаунт Office 365.\n"
+"Проверьте, правильно ли указаны\n"
+"электронная почта и пароль."
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Ошибка Microsoft To Do (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Невозможно войти в аккаунт Office 365. Возможно доступ программы к календарю "
+"Office 365 мог быть отклонен. Обновите календарь и попробуйте войти снова."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Невозможно войти в аккаунт Office 365.\n"
+"Сервер вернул результат: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Конфликт при отправке события. Обновлённое событие будет повторно загружено "
+"с сервера."
+
 msgid "Safe upload"
 msgstr "Безопасная отправка"
 
@@ -4970,9 +5013,6 @@ msgstr ""
 "\n"
 "Сервер вернул результат: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "Число скачанных событий"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -4983,39 +5023,15 @@ msgstr ""
 "Введите адрес электронной почты для учётной записи Office 365, нажмите "
 "кнопку \"Выбрать календарь\" и укажите нужный календарь."
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Невозможно войти в аккаунт Office 365.\n"
-"Проверьте, правильно ли указаны\n"
-"электронная почта и пароль."
-
 msgid "Office365 Error (%s)!"
 msgstr "Ошибка Office 365 (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Невозможно войти в аккаунт Office 365. Возможно доступ программы к календарю "
-"Office 365 мог быть отклонен. Обновите календарь и попробуйте войти снова."
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Невозможно войти в аккаунт Office 365.\n"
-"Сервер вернул результат: (%i) %i %s."
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"Конфликт при отправке события. Обновлённое событие будет повторно загружено "
-"с сервера."
+"Аутентификация устарелаПерейдите в раздел «Настройки» -> «Календари» и снова "
+"запустите аутентификацию для календаря."
 
 msgid ""
 "Outlook Error!\n"
@@ -5059,9 +5075,6 @@ msgstr "Показать связи редактирования"
 
 msgid "Keep MAPI connection alive"
 msgstr "Поддерживать MAPI-связь"
-
-msgid "Month"
-msgstr "Месяц"
 
 msgid "6 months"
 msgstr "6 мес."

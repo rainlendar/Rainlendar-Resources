@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2022-03-21 15:40+0200\n"
 "Last-Translator: Yuki Shira <shirayuking@gmail.com>\n"
 "Language-Team: Yuki Shira\n"
@@ -2012,9 +2012,6 @@ msgstr "印刷"
 msgid "Print items"
 msgstr "項目を印刷"
 
-msgid "End"
-msgstr "終了"
-
 msgid "Settings"
 msgstr "設定"
 
@@ -2332,6 +2329,9 @@ msgstr "Page Up"
 
 msgid "Page Down"
 msgstr "Page Down"
+
+msgid "End"
+msgstr "終了"
 
 msgid "Insert"
 msgstr "Insert"
@@ -4079,9 +4079,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "ライセンスを購入"
 
-msgid "See differences"
-msgstr "違いを見る"
-
 msgid "No calendar selected!"
 msgstr "カレンダーが選択されていません!"
 
@@ -4507,26 +4504,23 @@ msgstr "使用中のスキン"
 msgid "Settings..."
 msgstr "設定..."
 
+msgid "Select printed items"
+msgstr "印刷されたアイテムを選択"
+
 msgid "All items"
 msgstr "すべての項目"
 
 msgid "Selected items"
 msgstr "選択された項目"
 
-msgid "Day range"
-msgstr "日付の範囲"
+msgid "Month"
+msgstr "月"
 
-msgid "Select days"
-msgstr "日付を選択"
+msgid "Select month"
+msgstr "月を選択"
 
-msgid "Add title"
-msgstr "タイトルを追加"
-
-msgid "Preview..."
-msgstr "プレビュー..."
-
-msgid "Page Setup..."
-msgstr "ページ設定..."
+msgid "Month:"
+msgstr "月:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "CSV (カンマ区切り) (*.csv)|*.csv"
@@ -4914,6 +4908,53 @@ msgstr "タスクをアップロードできません:"
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Rainlendar ファイル (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "ダウンロードされたイベント数"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To-Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Microsoft To Doアカウントのメールアドレスを入力し、\"カレンダーを選択\"ボタン"
+"をクリックして、アクセスするカレンダーを選択します"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Office 365アカウントに認証できません\\ nメールアドレスとパスワードが正しいこ"
+"とを確認してください。\\ n"
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Microsoft To Doエラー（ %s ） ！"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Office 365アカウントに認証できませんRainlendarのOffice 365カレンダーへのアク"
+"セスが取り消された可能性がありますカレンダーを更新し、RainlendarをOffice 365"
+"アカウントで再度認証してください"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Office 365アカウントに認証できません\\ nサーバが結果を返しました: (% i) % i "
+"%s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"競合のためイベントをアップロードできません更新されたイベントはサーバーから再"
+"読み込みされます"
+
 msgid "Safe upload"
 msgstr "安全アップロード"
 
@@ -4962,9 +5003,6 @@ msgstr ""
 "\n"
 "サーバーが返した結果: (%i) %i %s"
 
-msgid "Downloaded event count"
-msgstr "ダウンロードされたイベント数"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -4975,39 +5013,15 @@ msgstr ""
 "Office 365アカウントのメールアドレスを入力し、\"カレンダーを選択\"ボタンをク"
 "リックして、アクセスするカレンダーを選択します。"
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Office 365アカウントに認証できません\\ nメールアドレスとパスワードが正しいこ"
-"とを確認してください。\\ n"
-
 msgid "Office365 Error (%s)!"
 msgstr "Office 365エラー(%s)"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Office 365アカウントに認証できませんRainlendarのOffice 365カレンダーへのアク"
-"セスが取り消された可能性がありますカレンダーを更新し、RainlendarをOffice 365"
-"アカウントで再度認証してください"
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Office 365アカウントに認証できません\\ nサーバが結果を返しました: (% i) % i "
-"%s"
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"競合のためイベントをアップロードできません更新されたイベントはサーバーから再"
-"読み込みされます"
+"認証が古くなっています「オプション」->「カレンダー」に移動し、カレンダーの認"
+"証を再度実行してください"
 
 msgid ""
 "Outlook Error!\n"
@@ -5051,9 +5065,6 @@ msgstr "編集リンクを表示"
 
 msgid "Keep MAPI connection alive"
 msgstr "MAPI 接続を維持"
-
-msgid "Month"
-msgstr "月"
 
 msgid "6 months"
 msgstr "6 か月"

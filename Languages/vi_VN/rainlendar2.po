@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Vietnamese\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2022-03-21 16:01+0200\n"
 "Last-Translator: Phạm Duy Tùng <pduu9661591@gmail.com>\n"
 "Language-Team: \n"
@@ -1356,7 +1356,8 @@ msgid ""
 "Tip: You can customize the editor from Options->Advanced->Customize event/"
 "task editor fields."
 msgstr ""
-"Mẹo: Bạn có thể tùy chỉnh trình chỉnh sửa từ Tùy chọn ->Nâng cao ->Tùy chỉnh các trường của trình chỉnh sửa sự kiện/tác vụ"
+"Mẹo: Bạn có thể tùy chỉnh trình chỉnh sửa từ Tùy chọn ->Nâng cao ->Tùy chỉnh "
+"các trường của trình chỉnh sửa sự kiện/tác vụ"
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -2032,9 +2033,6 @@ msgstr "In"
 msgid "Print items"
 msgstr "In các mục"
 
-msgid "End"
-msgstr "Kết thúc"
-
 msgid "Settings"
 msgstr "Các thiết lập"
 
@@ -2355,6 +2353,9 @@ msgstr "Page Up"
 
 msgid "Page Down"
 msgstr "Page Down"
+
+msgid "End"
+msgstr "Kết thúc"
 
 msgid "Insert"
 msgstr "Insert"
@@ -4134,9 +4135,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "License  files (*.ics)|*.ics"
 
-msgid "See differences"
-msgstr "thấy sự khác biệt"
-
 msgid "No calendar selected!"
 msgstr "Không có lịch được chọn!"
 
@@ -4562,26 +4560,23 @@ msgstr "Kích hoạt giao diện"
 msgid "Settings..."
 msgstr "Cấu hình..."
 
+msgid "Select printed items"
+msgstr "Chọn các mục đã in"
+
 msgid "All items"
 msgstr "Tất cả các mục"
 
 msgid "Selected items"
 msgstr "Tất cả các mục chọn"
 
-msgid "Day range"
-msgstr "Chuỗi ngày"
+msgid "Month"
+msgstr "Tháng"
 
-msgid "Select days"
-msgstr "Chọn các ngày"
+msgid "Select month"
+msgstr "Chọn tháng"
 
-msgid "Add title"
-msgstr "Thêm tiêu đề"
-
-msgid "Preview..."
-msgstr "Xem trước..."
-
-msgid "Page Setup..."
-msgstr "Thiết lập trang..."
+msgid "Month:"
+msgstr "Tháng:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Comma Separated Values (*.csv)|*.csv"
@@ -5000,6 +4995,53 @@ msgstr "Không thể tạo nhiệm vụ."
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Rainlendar files (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "Số sự kiện đã tải xuống"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Nhập địa chỉ email tài khoản Microsoft To Do của bạn và nhấp vào nút\"Chọn "
+"lịch\" và chọn lịch bạn muốn truy cập"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Không thê ̉ xa ́ c thư ̣ c va ̀ o ta ̀ i khoa ̉ n Office 365\n"
+"Vui lòng xác minh rằng email và mật khẩu của bạn là chính xác"
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Lỗi Microsoft To Do (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Không thê ̉ xa ́ c thư ̣ c va ̀ o ta ̀ i khoa ̉ n Office 365Quyền truy cập của "
+"Rainlendar vào lịch Office 365 có thể đã bị thu hồiVui lòng làm mới lịch và "
+"xác thực lại Rainlendar vào tài khoản Office 365 của bạn"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Không thê ̉ xa ́ c thư ̣ c va ̀ o ta ̀ i khoa ̉ n Office 365\n"
+"Kết quả trả về máy chủ: (%i) %i %s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Không thể tải sự kiện lên do xung độtSự kiện cập nhật sẽ được tải lại từ máy "
+"chủ"
+
 msgid "Safe upload"
 msgstr "Tải lên an toàn"
 
@@ -5048,9 +5090,6 @@ msgstr ""
 "%s\n"
 " Kết quả máy chủ trả về:(%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "Số sự kiện đã tải xuống"
-
 msgid "Office 365"
 msgstr "Microsoft Office 365"
 
@@ -5061,39 +5100,15 @@ msgstr ""
 "Nhập địa chỉ email tài khoản Office 365 của bạn và nhấp vào nút\"Chọn lịch\" "
 "và chọn lịch bạn muốn truy cập"
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Không thê ̉ xa ́ c thư ̣ c va ̀ o ta ̀ i khoa ̉ n Office 365\n"
-"Vui lòng xác minh rằng email và mật khẩu của bạn là chính xác"
-
 msgid "Office365 Error (%s)!"
 msgstr "Lỗi Office365 (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Không thê ̉ xa ́ c thư ̣ c va ̀ o ta ̀ i khoa ̉ n Office 365Quyền truy cập của "
-"Rainlendar vào lịch Office 365 có thể đã bị thu hồiVui lòng làm mới lịch và "
-"xác thực lại Rainlendar vào tài khoản Office 365 của bạn"
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Không thê ̉ xa ́ c thư ̣ c va ̀ o ta ̀ i khoa ̉ n Office 365\n"
-"Kết quả trả về máy chủ: (%i) %i %s"
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"Không thể tải sự kiện lên do xung độtSự kiện cập nhật sẽ được tải lại từ máy "
-"chủ"
+"Xác thực đã lỗi thờiVui lòng truy cập Tùy chọn->Lịch và chạy lại xác thực "
+"cho lịch"
 
 msgid ""
 "Outlook Error!\n"
@@ -5136,9 +5151,6 @@ msgstr "Hiện đường dẫn sửa đổi"
 
 msgid "Keep MAPI connection alive"
 msgstr "Giữ thông kết nối MAPI"
-
-msgid "Month"
-msgstr "Tháng"
 
 msgid "6 months"
 msgstr "6 tháng"

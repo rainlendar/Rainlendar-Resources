@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2022-03-21 15:50+0200\n"
 "Last-Translator: İbrahim Çelik <ibrahimcelik89@gmail.com>\n"
 "Language-Team: İbrahim Çelik <ibrahimcelik89@gmail.com>\n"
@@ -1347,7 +1347,8 @@ msgid ""
 "Tip: You can customize the editor from Options->Advanced->Customize event/"
 "task editor fields."
 msgstr ""
-"İpucu: Düzenleyiciyi Seçenekler -> Gelişmiş-> Etkinlik/görev düzenleyicisini özelleştir alanlarından özelleştirebilirsiniz"
+"İpucu: Düzenleyiciyi Seçenekler -> Gelişmiş-> Etkinlik/görev düzenleyicisini "
+"özelleştir alanlarından özelleştirebilirsiniz"
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -2015,9 +2016,6 @@ msgstr "Yazdır"
 msgid "Print items"
 msgstr "Öğeleri yazdır"
 
-msgid "End"
-msgstr "Son"
-
 msgid "Settings"
 msgstr "Ayarlar"
 
@@ -2332,6 +2330,9 @@ msgstr "Page Up"
 
 msgid "Page Down"
 msgstr "Page Down"
+
+msgid "End"
+msgstr "Son"
 
 msgid "Insert"
 msgstr "Insert"
@@ -4099,9 +4100,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "Lisans satın al"
 
-msgid "See differences"
-msgstr "Farkları gör"
-
 msgid "No calendar selected!"
 msgstr "Takvim seçili değil!"
 
@@ -4529,26 +4527,23 @@ msgstr "Aktif temalar"
 msgid "Settings..."
 msgstr "Ayarlar..."
 
+msgid "Select printed items"
+msgstr "Basılı öğeleri seç"
+
 msgid "All items"
 msgstr "Tüm öğeler"
 
 msgid "Selected items"
 msgstr "Seçilen öğeler"
 
-msgid "Day range"
-msgstr "Gün aralığı"
+msgid "Month"
+msgstr "Ay"
 
-msgid "Select days"
-msgstr "Günleri seç"
+msgid "Select month"
+msgstr "Ay seçin"
 
-msgid "Add title"
-msgstr "Başlık ekle"
-
-msgid "Preview..."
-msgstr "Önizleme..."
-
-msgid "Page Setup..."
-msgstr "Sayfa Özellikleri..."
+msgid "Month:"
+msgstr "Ay: "
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Virgülle Ayrılmış Değerler (*.csv)|*.csv"
@@ -4926,6 +4921,54 @@ msgstr "Görev yüklenemiyor:"
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Rainlendar dosyaları (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "İndirilen etkinlik sayısı"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To-Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Microsoft To Do hesabınızın e - posta adresini girin ve \" Takvim seç \" "
+"düğmesine tıklayın ve erişmek istediğiniz takvimi seçin"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Office 365 hesabına kimlik doğrulaması yapılamıyor\n"
+"Lütfen e - posta\n"
+"ve şifrenizin doğru olduğunu doğrulayın"
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Microsoft To Do Hatası (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Office 365 hesabına kimlik doğrulaması yapılamıyorRainlendar'ın Office 365 "
+"takvimine erişimi iptal edilmiş olabilirLütfen takvimi yenileyin ve "
+"Rainlendar'ı Office 365 hesabınıza tekrar doğrulayın"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Office 365 hesabına kimlik doğrulaması yapılamıyor\n"
+"Sunucu sonuç döndürdü: (%i) %i %s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Bir çakışma nedeniyle etkinlik yüklenemiyorGüncellenen etkinlik sunucudan "
+"yeniden yüklenecek"
+
 msgid "Safe upload"
 msgstr "Güvenli yükleme"
 
@@ -4973,9 +5016,6 @@ msgstr ""
 "%s\n"
 "Sunucudan dönen sonuç: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "İndirilen etkinlik sayısı"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -4986,40 +5026,15 @@ msgstr ""
 "Office 365 hesabınızın e - posta adresini girin ve \" Takvim seç \" "
 "düğmesini tıklayın ve erişmek istediğiniz takvimi seçin"
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Office 365 hesabına kimlik doğrulaması yapılamıyor\n"
-"Lütfen e - posta\n"
-"ve şifrenizin doğru olduğunu doğrulayın"
-
 msgid "Office365 Error (%s)!"
 msgstr "Office365 Hatası (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Office 365 hesabına kimlik doğrulaması yapılamıyorRainlendar'ın Office 365 "
-"takvimine erişimi iptal edilmiş olabilirLütfen takvimi yenileyin ve "
-"Rainlendar'ı Office 365 hesabınıza tekrar doğrulayın"
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Office 365 hesabına kimlik doğrulaması yapılamıyor\n"
-"Sunucu sonuç döndürdü: (%i) %i %s"
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"Bir çakışma nedeniyle etkinlik yüklenemiyorGüncellenen etkinlik sunucudan "
-"yeniden yüklenecek"
+"Kimlik doğrulamasının tarihi geçmişLütfen Seçenekler->Takvimler'e gidin ve "
+"takvim için kimlik doğrulamayı tekrar çalıştırın"
 
 msgid ""
 "Outlook Error!\n"
@@ -5063,9 +5078,6 @@ msgstr "Düzenleme bağlantılarını göster"
 
 msgid "Keep MAPI connection alive"
 msgstr "MAPI bağlantısını canlı tut."
-
-msgid "Month"
-msgstr "Ay"
 
 msgid "6 months"
 msgstr "6 ay"

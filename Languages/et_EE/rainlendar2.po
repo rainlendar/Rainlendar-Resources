@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2021-09-29 20:19+0300\n"
 "Last-Translator: Omega <omega@email.ee>\n"
 "Language-Team: \n"
@@ -2013,9 +2013,6 @@ msgstr "Prindi"
 msgid "Print items"
 msgstr "Prindi üksused"
 
-msgid "End"
-msgstr "Lõpp"
-
 msgid "Settings"
 msgstr "Sätted"
 
@@ -2330,6 +2327,9 @@ msgstr "Page Up"
 
 msgid "Page Down"
 msgstr "Page Down"
+
+msgid "End"
+msgstr "Lõpp"
 
 msgid "Insert"
 msgstr "Insert"
@@ -4081,9 +4081,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "Osta litsents"
 
-msgid "See differences"
-msgstr "Vaata erinevusi"
-
 msgid "No calendar selected!"
 msgstr "Ühtegi kalendrit pole valitud!"
 
@@ -4509,26 +4506,23 @@ msgstr "Aktiivsed välimused"
 msgid "Settings..."
 msgstr "Sätted..."
 
+msgid "Select printed items"
+msgstr "Vali trükitud esemed"
+
 msgid "All items"
 msgstr "Kõik üksused"
 
 msgid "Selected items"
 msgstr "Valitud üksused"
 
-msgid "Day range"
-msgstr "Päeva ulatus"
+msgid "Month"
+msgstr "Kuu"
 
-msgid "Select days"
-msgstr "Vali päevad"
+msgid "Select month"
+msgstr "Valida kuu"
 
-msgid "Add title"
-msgstr "Lisa pealkiri"
-
-msgid "Preview..."
-msgstr "Eelvaade..."
-
-msgid "Page Setup..."
-msgstr "Lehekülje seadistus..."
+msgid "Month:"
+msgstr "Month:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Komaga eraldatud väärtused  (*.csv)|*.csv"
@@ -4913,6 +4907,54 @@ msgstr "Ei saa ülesse laadida ülesannet: "
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Rainlendar'i failid (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "Allalaadimisi loendatud"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Sisesta oma Microsofti To Do konto e-posti aadress, klõpsa nuppu \"Vali "
+"kalender\" ja vali kalender, millele soovid juurde pääseda"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Office 365 kontoga sisselogimine nurjus.\n"
+"Kontrolli, et e-posti aadress\n"
+"ja parool oleks õiged."
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Microsoft To Do Error (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Office 365 kontoga sisselogimine nurjus. Rainlendari ligipääs Office 365 "
+"kalendrile võib olla tühistatud. Värskenda kalendrit ja tuvasta Rainlendar "
+"uuesti oma Office 365 konto juures."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Office 365 kontoga sisselogimine nurjus.\n"
+"Server vastas: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Sündmust ei saa konflikti tõttu ülesse laadida. Uuendatud sündmus "
+"taaslaetakse serverist."
+
 msgid "Safe upload"
 msgstr "Turvaline üleslaadimine"
 
@@ -4961,9 +5003,6 @@ msgstr ""
 "\n"
 "Server vastas: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "Allalaadimisi loendatud"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -4974,40 +5013,15 @@ msgstr ""
 "Sisesta oma Office 365 konto e-posti aadress ja klõpsa \"Vali kalender\" "
 "nuppu ning vali kalender, millele soovid ligipääsu."
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Office 365 kontoga sisselogimine nurjus.\n"
-"Kontrolli, et e-posti aadress\n"
-"ja parool oleks õiged."
-
 msgid "Office365 Error (%s)!"
 msgstr "Office 365 viga (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Office 365 kontoga sisselogimine nurjus. Rainlendari ligipääs Office 365 "
-"kalendrile võib olla tühistatud. Värskenda kalendrit ja tuvasta Rainlendar "
-"uuesti oma Office 365 konto juures."
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Office 365 kontoga sisselogimine nurjus.\n"
-"Server vastas: (%i) %i %s."
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"Sündmust ei saa konflikti tõttu ülesse laadida. Uuendatud sündmus "
-"taaslaetakse serverist."
+"Autentimine on aegunudAva Valikud- >Kalendrid ja käivita kalendri "
+"autentimine uuesti"
 
 msgid ""
 "Outlook Error!\n"
@@ -5050,9 +5064,6 @@ msgstr "Näita viidete muutmist"
 
 msgid "Keep MAPI connection alive"
 msgstr "Hoia MAPI ühendust lahti"
-
-msgid "Month"
-msgstr "Kuu"
 
 msgid "6 months"
 msgstr "6 kuud"

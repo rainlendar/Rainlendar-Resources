@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2022-03-18 12:23+0200\n"
 "Last-Translator: Maxareuos <max5@bezeqint.net>\n"
 "Language-Team: Maxareuos <max5@bezeqint.net>\n"
@@ -2007,9 +2007,6 @@ msgstr "הדפס"
 msgid "Print items"
 msgstr "הדפס פריטים"
 
-msgid "End"
-msgstr "סיום"
-
 msgid "Settings"
 msgstr "הגדרות"
 
@@ -2331,6 +2328,9 @@ msgstr "Page Up מקש"
 
 msgid "Page Down"
 msgstr "Page Down מקש"
+
+msgid "End"
+msgstr "סיום"
 
 msgid "Insert"
 msgstr "Insert מקש"
@@ -4066,9 +4066,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "רישיון"
 
-msgid "See differences"
-msgstr "ראה הבדלים"
-
 msgid "No calendar selected!"
 msgstr "אף יומן לא נבחר!"
 
@@ -4495,26 +4492,23 @@ msgstr "סקינים פעילים"
 msgid "Settings..."
 msgstr "...הגדרות"
 
+msgid "Select printed items"
+msgstr "בחירת פריטים מודפסים"
+
 msgid "All items"
 msgstr "כל הפריטים"
 
 msgid "Selected items"
 msgstr "פריטים נבחרים"
 
-msgid "Day range"
-msgstr "אירוע לכל היום"
+msgid "Month"
+msgstr "חודש"
 
-msgid "Select days"
-msgstr "בחר ימים"
+msgid "Select month"
+msgstr "בחירת חודש"
 
-msgid "Add title"
-msgstr "הוסף כותרת"
-
-msgid "Preview..."
-msgstr "תצוגה מקדימה..."
-
-msgid "Page Setup..."
-msgstr "הגדרת דף"
+msgid "Month:"
+msgstr "חודש:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "קבצי iCalendar (*.ics)|*.ics"
@@ -4893,6 +4887,51 @@ msgstr "לא מצליח להעלות את המשימה."
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "קבצי Rainlendar (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "מספר אירועים שהורדו"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"הזן את כתובת הדוא\"ל שלך ב - Microsoft To Do ולחץ על הלחצן \" בחר לוח שנה \" "
+"ובחר את לוח השנה שאליו ברצונך לגשת"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"אין אפשרות לאמת לחשבון Office 365\n"
+"אנא ודא כי הדוא\"ל והסיסמה שלך נכונים"
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Microsoft To Do Error (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"אין אפשרות לאמת לחשבון Office 365ייתכן שהגישה של יומן הגשם ללוח השנה של "
+"Office 365 בוטלהיש לרענן את לוח השנה ולאמת שוב את לוח השנה לחשבון Office 365 "
+"שלך"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"אין אפשרות לאמת לחשבון Office 365\n"
+"שרת החזיר תוצאה: (%i )%i %s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr "לא ניתן להעלות את האירוע עקב התנגשותהאירוע המעודכן יטען מחדש מהשרת"
+
 msgid "Safe upload"
 msgstr "העלאה בטוחה"
 
@@ -4939,9 +4978,6 @@ msgstr ""
 "\n"
 "Server returned result: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "מספר אירועים שהורדו"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -4952,37 +4988,15 @@ msgstr ""
 "הזן את כתובת הדוא\"ל של חשבון Office 365 ולחץ על הלחצן \" בחר לוח שנה \" "
 "ובחר את לוח השנה שאליו ברצונך לגשת"
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"אין אפשרות לאמת לחשבון Office 365\n"
-"אנא ודא כי הדוא\"ל והסיסמה שלך נכונים"
-
 msgid "Office365 Error (%s)!"
 msgstr "שגיאה Office365 (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"אין אפשרות לאמת לחשבון Office 365ייתכן שהגישה של יומן הגשם ללוח השנה של "
-"Office 365 בוטלהיש לרענן את לוח השנה ולאמת שוב את לוח השנה לחשבון Office 365 "
-"שלך"
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"אין אפשרות לאמת לחשבון Office 365\n"
-"שרת החזיר תוצאה: (%i )%i %s"
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr "לא ניתן להעלות את האירוע עקב התנגשותהאירוע המעודכן יטען מחדש מהשרת"
+"האימות מיושןיש לעבור אל אפשרויות->לוחות שנה ולהפעיל את האימות שוב עבור לוח "
+"השנה"
 
 msgid ""
 "Outlook Error!\n"
@@ -5025,9 +5039,6 @@ msgstr "הצג מיקום הארוע"
 
 msgid "Keep MAPI connection alive"
 msgstr "השאר חיבור MAPI בחיים"
-
-msgid "Month"
-msgstr "חודש"
 
 msgid "6 months"
 msgstr "6 חודשים"

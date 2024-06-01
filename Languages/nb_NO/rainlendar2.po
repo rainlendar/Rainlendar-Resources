@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2023-08-10 10:46+0300\n"
 "Last-Translator: Øistein Rian <oistein@badtown.no>\n"
 "Language-Team: \n"
@@ -2017,9 +2017,6 @@ msgstr "Skriv ut"
 msgid "Print items"
 msgstr "Skriv ut objekt"
 
-msgid "End"
-msgstr "Slutt"
-
 msgid "Settings"
 msgstr "Innstillinger"
 
@@ -2335,6 +2332,9 @@ msgstr "Side opp"
 
 msgid "Page Down"
 msgstr "Side ned"
+
+msgid "End"
+msgstr "Slutt"
 
 msgid "Insert"
 msgstr "Innsett"
@@ -4085,9 +4085,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "Kjøp lisens"
 
-msgid "See differences"
-msgstr "Se forskjeller"
-
 msgid "No calendar selected!"
 msgstr "Ingen kalender valgt!"
 
@@ -4513,26 +4510,23 @@ msgstr "Aktiv stil"
 msgid "Settings..."
 msgstr "Innstillinger..."
 
+msgid "Select printed items"
+msgstr "Velg utskrevne elementer"
+
 msgid "All items"
 msgstr "Alle objekter"
 
 msgid "Selected items"
 msgstr "Valgte objekter"
 
-msgid "Day range"
-msgstr "Døgnintervall"
+msgid "Month"
+msgstr "Måned"
 
-msgid "Select days"
-msgstr "Velg dager"
+msgid "Select month"
+msgstr "Velg måned"
 
-msgid "Add title"
-msgstr "Legg til tittel"
-
-msgid "Preview..."
-msgstr "Forhåndsvisning..."
-
-msgid "Page Setup..."
-msgstr "Sideoppsett..."
+msgid "Month:"
+msgstr "Måned:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Kommaseparerte verdier (*.csv)|*.csv"
@@ -4915,6 +4909,54 @@ msgstr "Klarer ikke å laste opp oppgave:"
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Rainlendar filer (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "Nedlastet hendelses-teller"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft å gjøre"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Skriv inn e-postadressen for Microsoft To Do-kontoen din, klikk på \"Velg "
+"kalender\" -knappen og velg kalenderen du vil ha tilgang til"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Kan ikke få godkjenning fra kontoen på Office 365.\n"
+"Kontroller at epostadresse\n"
+"og passord er korrekt."
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Feil ved Microsofts gjøremål (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Får ikke godkjennelse fra Office 365. Rainlendars tilgang til Office 365 kan "
+"være tilbakekalt. Vennligst gjenoppfrisk kalenderen go autentiser Rainlendar "
+"igjen mot din konto på Office 365."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Får ikke godkjenning fra konto på Office 365.\n"
+"Server returnerte svar: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Hendelsen kan ikke lastes opp grunnet en konflikt. Oppdatert hendelse vil "
+"lastes på nytt fra serveren."
+
 msgid "Safe upload"
 msgstr "Sikker opplasting"
 
@@ -4963,9 +5005,6 @@ msgstr ""
 "\n"
 "Server returnerte resultat: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "Nedlastet hendelses-teller"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -4976,40 +5015,15 @@ msgstr ""
 "Angi din epostadresse for kontoen på Office 365 og klikk knappen \"Velg "
 "kalender\" og velg kalenderen du vil bruke."
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Kan ikke få godkjenning fra kontoen på Office 365.\n"
-"Kontroller at epostadresse\n"
-"og passord er korrekt."
-
 msgid "Office365 Error (%s)!"
 msgstr "Office365 feil (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Får ikke godkjennelse fra Office 365. Rainlendars tilgang til Office 365 kan "
-"være tilbakekalt. Vennligst gjenoppfrisk kalenderen go autentiser Rainlendar "
-"igjen mot din konto på Office 365."
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Får ikke godkjenning fra konto på Office 365.\n"
-"Server returnerte svar: (%i) %i %s."
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"Hendelsen kan ikke lastes opp grunnet en konflikt. Oppdatert hendelse vil "
-"lastes på nytt fra serveren."
+"Autentiseringen er utdatertGå til Alternativer->Kalendere og kjør "
+"godkjenningen på nytt for kalenderen"
 
 msgid ""
 "Outlook Error!\n"
@@ -5053,9 +5067,6 @@ msgstr "Vis rediger lenker"
 
 msgid "Keep MAPI connection alive"
 msgstr "Hold MAPI kopling i live"
-
-msgid "Month"
-msgstr "Måned"
 
 msgid "6 months"
 msgstr "6 måneder"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
-"PO-Revision-Date: 2023-08-10 10:22+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"PO-Revision-Date: 2024-05-31 12:45+0300\n"
 "Last-Translator: Anton Angov <ant0nski@abv.bg>\n"
 "Language-Team: \n"
 "Language: bg_BG\n"
@@ -2024,9 +2024,6 @@ msgstr "Отпечатай"
 msgid "Print items"
 msgstr "Отпечатай обектите"
 
-msgid "End"
-msgstr "Край"
-
 msgid "Settings"
 msgstr "Настройки"
 
@@ -2350,6 +2347,9 @@ msgstr "Page Up"
 
 msgid "Page Down"
 msgstr "Page Down"
+
+msgid "End"
+msgstr "Край"
 
 msgid "Insert"
 msgstr "Insert"
@@ -4123,9 +4123,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "Купете лиценз"
 
-msgid "See differences"
-msgstr "Вижте разликите"
-
 msgid "No calendar selected!"
 msgstr "Не е избран календар!"
 
@@ -4554,26 +4551,23 @@ msgstr "Активни облици"
 msgid "Settings..."
 msgstr "Конфигурации..."
 
+msgid "Select printed items"
+msgstr "Избор на печатни елементи"
+
 msgid "All items"
 msgstr "Всички обекти"
 
 msgid "Selected items"
 msgstr "Избрани обекти"
 
-msgid "Day range"
-msgstr "Обхват на деня"
+msgid "Month"
+msgstr "Месец"
 
-msgid "Select days"
-msgstr "Избери дни"
+msgid "Select month"
+msgstr "Избери на месец"
 
-msgid "Add title"
-msgstr "Добави заглавие"
-
-msgid "Preview..."
-msgstr "Преглед..."
-
-msgid "Page Setup..."
-msgstr "Настройки на страницата..."
+msgid "Month:"
+msgstr "Месец:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Стойности, разделени със запетая (*.csv)|*.csv"
@@ -4966,6 +4960,54 @@ msgstr "Не може да се качи задачата: "
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Rainlendar файлове (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "Брой изтеглени събития"
+
+msgid "Microsoft To Do"
+msgstr "Да се направи от Microsoft"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Въведете имейл адреса на акаунта си в Microsoft To Do и щракнете върху "
+"бутона \" Избор на календар\" и изберете календара, до който искате да "
+"получите достъп"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Неуспешно удостоверяване на акаунта в Office 365.\n"
+"Потвърдете, че имейлът и паролата ви са правилни"
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Грешка на Microsoft да направи (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Неуспешно удостоверяване на акаунта в Office 365Достъпът на Rainlendar до "
+"календара на Office 365 може да е бил отмененМоля, опреснете календара и "
+"удостоверете отново Rainlendar в акаунта си в Office 365"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Неуспешно удостоверяване на акаунта в Office 365\n"
+"Сървърът върна резултат: (%i) %i %s"
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Събитието не може да бъде качено поради конфликтАктуализираното събитие ще "
+"бъде презаредено от сървъра"
+
 msgid "Safe upload"
 msgstr "Обезопасен трансфер"
 
@@ -5015,9 +5057,6 @@ msgstr ""
 "\n"
 "Сървърът върна резултат: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "Брой изтеглени събития"
-
 msgid "Office 365"
 msgstr "Офис 365"
 
@@ -5029,39 +5068,15 @@ msgstr ""
 "бутона„Изберете календар“ и изберете календара, до който искате да получите "
 "достъп"
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Неуспешно удостоверяване на акаунта в Office 365.\n"
-"Потвърдете, че имейлът и паролата ви са правилни"
-
 msgid "Office365 Error (%s)!"
 msgstr "Грешка в Office365 (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Неуспешно удостоверяване на акаунта в Office 365Достъпът на Rainlendar до "
-"календара на Office 365 може да е бил отмененМоля, опреснете календара и "
-"удостоверете отново Rainlendar в акаунта си в Office 365"
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Неуспешно удостоверяване на акаунта в Office 365\n"
-"Сървърът върна резултат: (%i) %i %s"
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"Събитието не може да бъде качено поради конфликтАктуализираното събитие ще "
-"бъде презаредено от сървъра"
+"Удостоверяването е остарялоОтворете Опции->Календари и стартирайте "
+"удостоверяването отново за календара"
 
 msgid ""
 "Outlook Error!\n"
@@ -5105,9 +5120,6 @@ msgstr "Покажи редактиране на връзки"
 
 msgid "Keep MAPI connection alive"
 msgstr "Пази MAPI връзката жива"
-
-msgid "Month"
-msgstr "Месец"
 
 msgid "6 months"
 msgstr "6 месеца"

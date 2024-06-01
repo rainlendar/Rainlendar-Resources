@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.15\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2019-12-31 16:42+0100\n"
 "Last-Translator: Regmos <kursusigenigen@yahoo.dk>\n"
 "Language-Team: Regmos <kursusigenigen@yahoo.dk>\n"
@@ -2007,9 +2007,6 @@ msgstr "Udskriv"
 msgid "Print items"
 msgstr "Udskriv emner"
 
-msgid "End"
-msgstr "Slut"
-
 msgid "Settings"
 msgstr "Indstillinger"
 
@@ -2324,6 +2321,9 @@ msgstr "Side op"
 
 msgid "Page Down"
 msgstr "Side ned"
+
+msgid "End"
+msgstr "Slut"
 
 msgid "Insert"
 msgstr "Indsæt"
@@ -4065,9 +4065,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "Køb licens"
 
-msgid "See differences"
-msgstr "Pro vs Free"
-
 msgid "No calendar selected!"
 msgstr "Ingen kalender valgt!"
 
@@ -4491,26 +4488,23 @@ msgstr "Aktive udseender"
 msgid "Settings..."
 msgstr "Indstillinger..."
 
+msgid "Select printed items"
+msgstr "Vælg trykte varer"
+
 msgid "All items"
 msgstr "Alle poster"
 
 msgid "Selected items"
 msgstr "Valgte poster"
 
-msgid "Day range"
-msgstr "Datointerval"
+msgid "Month"
+msgstr "Måned"
 
-msgid "Select days"
-msgstr "Vælg dage"
+msgid "Select month"
+msgstr "Vælg måned"
 
-msgid "Add title"
-msgstr "Tilføj titel"
-
-msgid "Preview..."
-msgstr "Vis udskrift..."
-
-msgid "Page Setup..."
-msgstr "Sideopsætning..."
+msgid "Month:"
+msgstr "Måned:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Kommaopdelte værdier (*.csv)|*.csv"
@@ -4891,6 +4885,55 @@ msgstr "Kunne ikke oploade opgaven: "
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Rainlendar filer (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "Antal hentede begivenheder"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Indtast din e-mailadresse til din Microsoft To Do-konto, og klik på knappen "
+"\"Vælg kalender\", og vælg den kalender, du vil have adgang til"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Kunne ikke godkendes af Office 365.\n"
+"Kontroller at din email\n"
+"og adgangskode er korrekt."
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Microsoft To Do-fejl (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Kan ikke opnå Microsoft godkendelse. Rainlendars adgang til Outlook.com er "
+"muligvis tilbagekaldt. Genindlæs kalenderen og godkend rainlendars adgang "
+"til din Microsoft konto igen."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Kan ikke godkendes af Office 365.\n"
+"\n"
+"Serveren svarede: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Begivenheden kan ikke uploades på grund af en konflikt. Den opdaterede "
+"begivenhed hentes fra serveren."
+
 msgid "Safe upload"
 msgstr "Sikker upload"
 
@@ -4939,9 +4982,6 @@ msgstr ""
 "\n"
 "Serveren svarede: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "Antal hentede begivenheder"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -4952,41 +4992,15 @@ msgstr ""
 "Indtast email og til din Office 365 konto, klik på \"Vælg kalender\" og vælg "
 "den kalender du vil hente."
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Kunne ikke godkendes af Office 365.\n"
-"Kontroller at din email\n"
-"og adgangskode er korrekt."
-
 msgid "Office365 Error (%s)!"
 msgstr "Office365 fejl (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Kan ikke opnå Microsoft godkendelse. Rainlendars adgang til Outlook.com er "
-"muligvis tilbagekaldt. Genindlæs kalenderen og godkend rainlendars adgang "
-"til din Microsoft konto igen."
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Kan ikke godkendes af Office 365.\n"
-"\n"
-"Serveren svarede: (%i) %i %s."
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"Begivenheden kan ikke uploades på grund af en konflikt. Den opdaterede "
-"begivenhed hentes fra serveren."
+"Godkendelsen er forældetGå til Indstillinger->Kalendere, og kør godkendelsen "
+"igen for kalenderen"
 
 msgid ""
 "Outlook Error!\n"
@@ -5030,9 +5044,6 @@ msgstr "Vis redigeringslink"
 
 msgid "Keep MAPI connection alive"
 msgstr "Hold MAPI forbindelse åben"
-
-msgid "Month"
-msgstr "Måned"
 
 msgid "6 months"
 msgstr "6 måneder"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2020-11-26 02:35+0100\n"
 "Last-Translator: dkas <dkas01@gmail.com>\n"
 "Language-Team: Daniel Kasal <dkas01@gmail.com>\n"
@@ -2011,9 +2011,6 @@ msgstr "Vytisknout..."
 msgid "Print items"
 msgstr "Tisknout položky"
 
-msgid "End"
-msgstr "Konec"
-
 msgid "Settings"
 msgstr "Nastavení"
 
@@ -2330,6 +2327,9 @@ msgstr "Page Up"
 
 msgid "Page Down"
 msgstr "Page Down"
+
+msgid "End"
+msgstr "Konec"
 
 msgid "Insert"
 msgstr "Insert"
@@ -4079,9 +4079,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "Koupit licenci"
 
-msgid "See differences"
-msgstr "Viz rozdíly"
-
 msgid "No calendar selected!"
 msgstr "Není vybrán kalendář!"
 
@@ -4507,26 +4504,23 @@ msgstr "Aktivní motivy"
 msgid "Settings..."
 msgstr "Nastavení..."
 
+msgid "Select printed items"
+msgstr "Vybrat vytištěné položky"
+
 msgid "All items"
 msgstr "Všechny položky"
 
 msgid "Selected items"
 msgstr "Vybrané položky"
 
-msgid "Day range"
-msgstr "Rozsah dnů"
+msgid "Month"
+msgstr "Měsíc"
 
-msgid "Select days"
-msgstr "Vybrat dny"
+msgid "Select month"
+msgstr "Vyberte měsíc"
 
-msgid "Add title"
-msgstr "Přidat titulek"
-
-msgid "Preview..."
-msgstr "Náhled..."
-
-msgid "Page Setup..."
-msgstr "Nastavení stránky…"
+msgid "Month:"
+msgstr "Měsíc:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Čárkou oddělené hodnoty (*.csv)|*.csv"
@@ -4910,6 +4904,54 @@ msgstr "Nelze nahrát tento úkol:"
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Soubory Rainlendar (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "Počet stažených událostí"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Zadejte e-mailovou adresu účtu Microsoft To Do, klikněte na tlačítko\"Vybrat "
+"kalendář\" a vyberte kalendář, ke kterému chcete přistupovat"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Nelze se připojit k účtu Office 365.\n"
+"Zkontrolujte prosím svůj e-mail\n"
+"a heslo jsou-li správné."
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Chyba Microsoft To Do (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Nelze se připojit k účtu Office 365. Možná byl zrušen přístup Rainlendar ke "
+"kalendáři Office 365. Obnovte prosím kalendář a znovu ověřte Rainlendar ke "
+"svému účtu Office 365."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Nelze se připojit k účtu Office 365.\n"
+"Server vrátil výsledek: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Událost nelze zaznamenat kvůli konfliktu. Aktualizovaná událost bude znovu "
+"načtena ze serveru."
+
 msgid "Safe upload"
 msgstr "Bezepečné nahrání"
 
@@ -4958,9 +5000,6 @@ msgstr ""
 "\n"
 "Server vrátil výsledek:  (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "Počet stažených událostí"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -4971,40 +5010,15 @@ msgstr ""
 "Zadejte e-mailovou adresu účtu Office 365, klikněte na tlačítko \"Vybrat "
 "kalendář\" a vyberte kalendář, ke kterému chcete přistupovat."
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Nelze se připojit k účtu Office 365.\n"
-"Zkontrolujte prosím svůj e-mail\n"
-"a heslo jsou-li správné."
-
 msgid "Office365 Error (%s)!"
 msgstr "Chyba Office365 (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Nelze se připojit k účtu Office 365. Možná byl zrušen přístup Rainlendar ke "
-"kalendáři Office 365. Obnovte prosím kalendář a znovu ověřte Rainlendar ke "
-"svému účtu Office 365."
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Nelze se připojit k účtu Office 365.\n"
-"Server vrátil výsledek: (%i) %i %s."
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"Událost nelze zaznamenat kvůli konfliktu. Aktualizovaná událost bude znovu "
-"načtena ze serveru."
+"Ověření je zastaraléPřejděte prosím na Možnosti->Kalendáře a spusťte ověření "
+"znovu pro kalendář"
 
 msgid ""
 "Outlook Error!\n"
@@ -5048,9 +5062,6 @@ msgstr "Zobrazit odkazy k upravení"
 
 msgid "Keep MAPI connection alive"
 msgstr "Udržovat MAPI spojení naživu"
-
-msgid "Month"
-msgstr "Měsíc"
 
 msgid "6 months"
 msgstr "6 měsíců"

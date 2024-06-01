@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.17 Polish translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:16+0300\n"
+"POT-Creation-Date: 2024-05-31 12:38+0300\n"
 "PO-Revision-Date: 2023-08-10 10:51+0300\n"
 "Last-Translator: Lukasz SEWERYN\n"
 "Language-Team: Lukasz SEWERYN (kontynuacja) <lukasz.seweryn@poczta.onet.pl>\n"
@@ -2032,9 +2032,6 @@ msgstr "Drukuj"
 msgid "Print items"
 msgstr "Wydrukuj pozycje"
 
-msgid "End"
-msgstr "Koniec"
-
 msgid "Settings"
 msgstr "Ustawienia"
 
@@ -2354,6 +2351,9 @@ msgstr "Strona w górę"
 
 msgid "Page Down"
 msgstr "Strona w dół"
+
+msgid "End"
+msgstr "Koniec"
 
 msgid "Insert"
 msgstr "Wstaw"
@@ -4111,9 +4111,6 @@ msgstr ""
 msgid "Buy license"
 msgstr "Kup licencje"
 
-msgid "See differences"
-msgstr "Pokaż różnice"
-
 msgid "No calendar selected!"
 msgstr "Nie wybrano kalendarza!"
 
@@ -4539,26 +4536,23 @@ msgstr "Aktywne skórki"
 msgid "Settings..."
 msgstr "Ustawienia..."
 
+msgid "Select printed items"
+msgstr "Wybierz drukowane elementy"
+
 msgid "All items"
 msgstr "Wszystkie pozycje"
 
 msgid "Selected items"
 msgstr "Wybrane pozycje"
 
-msgid "Day range"
-msgstr "Zakres dni"
+msgid "Month"
+msgstr "Miesiące"
 
-msgid "Select days"
-msgstr "Wybierz dni"
+msgid "Select month"
+msgstr "Wybierz miesiąc"
 
-msgid "Add title"
-msgstr "Dodaj tytuł"
-
-msgid "Preview..."
-msgstr "Podgląd..."
-
-msgid "Page Setup..."
-msgstr "Ustawienia strony..."
+msgid "Month:"
+msgstr "Miesiąc:"
 
 msgid "Comma Separated Values (*.csv)|*.csv"
 msgstr "Wartości oddzielone przecinkami (*.csv)|*.csv"
@@ -4958,6 +4952,54 @@ msgstr "Nie można przesłać zadania: "
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Pliki Rainlendar'a (*.ini)|*.ini"
 
+msgid "Downloaded event count"
+msgstr "Pobrana liczba zdarzeń"
+
+msgid "Microsoft To Do"
+msgstr "Microsoft To Do"
+
+msgid ""
+"Enter your Microsoft To Do account email address and click the \"Select "
+"calendar\" button and choose the calendar you want to access."
+msgstr ""
+"Wprowadź adres e-mail swojego konta Microsoft To Do i kliknij przycisk "
+"\"Wybierz kalendarz\" i wybierz kalendarz, do którego chcesz uzyskać dostęp"
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Brak uwierzytelnienia do konta Office 365.\n"
+"Proszę zweryfikować poprawność\n"
+"adresu e-mail oraz hasła."
+
+msgid "Microsoft To Do Error (%s)!"
+msgstr "Błąd Microsoft To Do (%s)!"
+
+msgid ""
+"Unable to authenticate to Office 365 account. Rainlendar's access to the "
+"Office 365 calendar might have been revoked. Please refresh the calendar and "
+"authenticate Rainlendar again to your Office 365 account."
+msgstr ""
+"Brak uwierzytelnienia do konta Office 365. Dostęp do Office 365 może zostać "
+"wstrzymany. Proszę odśwież kalendarz i uwierzytelnij Rainlendar ponownie w "
+"koncie Office 365."
+
+msgid ""
+"Unable to authenticate to Office 365 account.\n"
+"Server returned result: (%i) %i %s."
+msgstr ""
+"Brak uwierzytelnienia do konta Office 365.\n"
+"Odpowiedź serwera: (%i) %i %s."
+
+msgid ""
+"The event cannot be uploaded due to a conflict. The updated event will be "
+"reloaded from the server."
+msgstr ""
+"Zdarzenie nie może zostać załadowane z powodu konfliktu. Uaktualnione "
+"zdarzenie zostanie ponownie załadowane z serwera."
+
 msgid "Safe upload"
 msgstr "Bezpieczne ładowanie"
 
@@ -5007,9 +5049,6 @@ msgstr ""
 "\n"
 "Serwer zwrócił komunikat: (%i) %i %s."
 
-msgid "Downloaded event count"
-msgstr "Pobrana liczba zdarzeń"
-
 msgid "Office 365"
 msgstr "Office 365"
 
@@ -5020,40 +5059,15 @@ msgstr ""
 "Wprowadź adres email Twojego konta Office 365, kliknij na \"Wybierz "
 "kalendarz\" i wybierz kalendarz, do któego chcesz uzyskać dostęp."
 
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Please verify that your email\n"
-"and password are correct."
-msgstr ""
-"Brak uwierzytelnienia do konta Office 365.\n"
-"Proszę zweryfikować poprawność\n"
-"adresu e-mail oraz hasła."
-
 msgid "Office365 Error (%s)!"
 msgstr "Błąd Office365 (%s)!"
 
 msgid ""
-"Unable to authenticate to Office 365 account. Rainlendar's access to the "
-"Office 365 calendar might have been revoked. Please refresh the calendar and "
-"authenticate Rainlendar again to your Office 365 account."
+"The authentication is outdated. Please go to Options->Calendars and run the "
+"authentication again for the calendar."
 msgstr ""
-"Brak uwierzytelnienia do konta Office 365. Dostęp do Office 365 może zostać "
-"wstrzymany. Proszę odśwież kalendarz i uwierzytelnij Rainlendar ponownie w "
-"koncie Office 365."
-
-msgid ""
-"Unable to authenticate to Office 365 account.\n"
-"Server returned result: (%i) %i %s."
-msgstr ""
-"Brak uwierzytelnienia do konta Office 365.\n"
-"Odpowiedź serwera: (%i) %i %s."
-
-msgid ""
-"The event cannot be uploaded due to a conflict. The updated event will be "
-"reloaded from the server."
-msgstr ""
-"Zdarzenie nie może zostać załadowane z powodu konfliktu. Uaktualnione "
-"zdarzenie zostanie ponownie załadowane z serwera."
+"Uwierzytelnienie jest nieaktualnePrzejdź do opcji ->Kalendarze i ponownie "
+"uruchom uwierzytelnianie kalendarza"
 
 msgid ""
 "Outlook Error!\n"
@@ -5097,9 +5111,6 @@ msgstr "Pokaż edycję skrótów"
 
 msgid "Keep MAPI connection alive"
 msgstr "Utrzymuj połączenie MAPI"
-
-msgid "Month"
-msgstr "Miesiące"
 
 msgid "6 months"
 msgstr "6 miesięcy"
