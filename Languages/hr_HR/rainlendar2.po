@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2023-08-10 10:39+0300\n"
 "Last-Translator: Igor Dobrača <igor.dobraca@gmail.com>\n"
 "Language-Team: Igor Dobrača <idobraca@rovinj.net>\n"
@@ -468,9 +468,6 @@ msgstr "Spremi engleska imena kategorija"
 msgid "Custom category icon path"
 msgstr "Putanja ikone korisničke kategorije"
 
-msgid "Use antialiased fonts"
-msgstr "Koristite antialiased fontove"
-
 msgid "Count"
 msgstr "Prebroji"
 
@@ -569,6 +566,18 @@ msgstr "Zapamti mjesto prozora"
 
 msgid "Font face"
 msgstr "Font"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Uređaj za iscrtavanje fontova"
 
 msgid "Scaling quality"
 msgstr "Kvaliteta skaliranja"
@@ -1154,6 +1163,9 @@ msgstr "Prilagodi"
 msgid "Click 'Customize' button"
 msgstr "Klikni gumb „Prilagodi”."
 
+msgid "No events today"
+msgstr "Danas nemate događaja"
+
 msgid "Version"
 msgstr "Verzija"
 
@@ -1349,6 +1361,9 @@ msgid ""
 msgstr ""
 "Savjet: uređivač možete prilagoditi u poljima Opcije- >Napredno->Prilagodba "
 "uređivača događaja/zadataka"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "Promjene događaja koji se ponavljaju primijenit će se na sve instance."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1584,6 +1599,18 @@ msgstr "Ne prikazuj ovo opet"
 
 msgid "&OK"
 msgstr "&OK"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "Yes to All"
+msgstr "Da za sve"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No to All"
+msgstr "Ne za sve"
 
 msgid "&Yes"
 msgstr "&Da"
@@ -2015,6 +2042,9 @@ msgstr "Ispiši"
 
 msgid "Print items"
 msgstr "Ispiši stavke"
+
+msgid "Not Started"
+msgstr "Nije početo"
 
 msgid "Settings"
 msgstr "Postavke"
@@ -2682,12 +2712,6 @@ msgstr "&U redu"
 msgid "&Show log"
 msgstr "&Prikaži log"
 
-msgid "Yes"
-msgstr "Da"
-
-msgid "No"
-msgstr "Ne"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3210,14 +3234,6 @@ msgstr "Broj kalendara prikazanih u prozoru okomito."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Poništite odabir da biste sakrili imena dana u tjednu iz kalendara."
-
-msgid "Day background"
-msgstr "Dnevna pozadinu"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Označite da biste dodali pozadinu brojevima dana kako biste ih lakše "
-"kliknuli."
 
 msgid "Week View"
 msgstr "Tjedni prikaz"
@@ -3858,9 +3874,6 @@ msgstr "Vrijeme celzijus"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Ako je označeno, temperatura je prikazana u Celzijusima."
 
-msgid "No events today"
-msgstr "Danas nemate događaja"
-
 msgid "No tasks today"
 msgstr "Danas nemate zadataka"
 
@@ -3914,6 +3927,9 @@ msgstr "Tekst emisije dnevne trake"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Poništite odabir da biste sakrili tekstove iz događaja."
 
+msgid "Background"
+msgstr "Pozadina"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Boja teksta u kalendaru i listi."
 
@@ -3957,6 +3973,21 @@ msgstr "Nema događaja"
 
 msgid "No tasks"
 msgstr "Nema zadataka"
+
+msgid "1 hour"
+msgstr "1 sat"
+
+msgid "%i hours"
+msgstr "%i sati"
+
+msgid "Now"
+msgstr "Sada"
+
+msgid "1 min"
+msgstr "1 min."
+
+msgid "%i mins"
+msgstr "%i min."
 
 msgid "Synchronizing"
 msgstr "Sinkroniziram"
@@ -4278,9 +4309,6 @@ msgstr "Prioritet:"
 msgid "Status:"
 msgstr "Status:"
 
-msgid "Not Started"
-msgstr "Nije početo"
-
 msgid "Progress:"
 msgstr "Napredak:"
 
@@ -4446,8 +4474,8 @@ msgstr "Predlošci"
 msgid "Show descriptions"
 msgstr "Prikaži opise"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Pokaži događaje dana pri pokretanje Rainlendar-a"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Prikaži današnje događaje kada se pokrene Rainlendar"
 
 msgid "Hide list windows if there are no items"
 msgstr "Sakrij prozore kad nemaju stavaka"
@@ -4750,6 +4778,9 @@ msgstr "Samo vanjski"
 
 msgid "Future Only"
 msgstr "Samo budućnost"
+
+msgid "Don't import birthdays"
+msgstr "Nemoj uvoziti rođendane"
 
 msgid "Color mapping"
 msgstr "Mapiranje u boji"
@@ -5217,8 +5248,28 @@ msgstr "Mapa"
 msgid "Poll for changes"
 msgstr "Anketa za promjene"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Unesite svoju adresu e-pošte i lozinku za Toodledo."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Unesite adresu e-pošte svog Toodledo računa i kliknite gumb \"Odaberi mapu\" "
+"i odaberite popis kojem želite pristupiti"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Ovjera uspješna\n"
+"Kliknite „Sljedeće” za nastavak"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Provjera autentičnosti za Toodledo nije uspjela\n"
+"Provjerite jesu li vaša e-pošta\n"
+"i lozinka točni"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Ne mogu otvoriti datoteku \"%s\" za zapisivanje."

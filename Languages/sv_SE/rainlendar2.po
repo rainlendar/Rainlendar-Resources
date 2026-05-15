@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Johan Palsson <johan@oxyl.net>\n"
 "Language-Team: \n"
@@ -18,13 +18,13 @@ msgid ""
 "application's from starting servers and that there are no other services "
 "running in the same port."
 msgstr ""
-"Rainlendar kan inte starta HTTP-servern för att ta emot svaret från "
-"OAuthKontrollera att du inte har någon säkerhetsprogramvara som hindrar "
+"Rainlendar kan inte starta HTTP-servern för att ta emot svaret från OAuth. "
+"Kontrollera att du inte har någon säkerhetsprogramvara som hindrar "
 "programmets från att starta servrar och att det inte finns några andra "
 "tjänster som körs i samma port"
 
 msgid "Server Port: "
-msgstr "Serverport"
+msgstr "Serverport: "
 
 msgid "Failed to start HTTP server"
 msgstr "Det gick inte att starta HTTP-servern"
@@ -110,7 +110,7 @@ msgid "dismissed"
 msgstr "avvisade"
 
 msgid "snoozed"
-msgstr "snoozad"
+msgstr "pausad"
 
 msgid "Show only needs action"
 msgstr "Visa endast Kräver åtgärd"
@@ -122,13 +122,13 @@ msgid "Show only completed"
 msgstr "Visa endast klara"
 
 msgid "Show only cancelled"
-msgstr "Visa endast Avbrutna"
+msgstr "Visa endast avbrutna"
 
 msgid "Hide needs action"
-msgstr "Behöver åtgärd@ item event, to- do or journal accepted"
+msgstr "Dölj behöver åtgärd"
 
 msgid "Hide in progress"
-msgstr "Pågående"
+msgstr "Dölj pågående"
 
 msgid "Hide completed"
 msgstr "Dölj slutförda"
@@ -152,25 +152,25 @@ msgid "Show only low priority"
 msgstr "Visa endast Låg prioritet"
 
 msgid "Hide no priority"
-msgstr "Ingen prioritet"
+msgstr "Dölj ingen prioritet"
 
 msgid "Hide high priority"
-msgstr "Hög prioritet"
+msgstr "Dölj hög prioritet"
 
 msgid "Hide normal priority"
-msgstr "Normal prioritet"
+msgstr "Dölj normal prioritet"
 
 msgid "Hide low priority"
-msgstr "Låg prioritet"
+msgstr "Dölj låg prioritet"
 
 msgid "Show only alarms"
-msgstr "Visa endast Larm"
+msgstr "Visa endast larm"
 
 msgid "Show only active"
 msgstr "Visa endast aktiva"
 
 msgid "Show only snoozed"
-msgstr "Visa endast snoozade"
+msgstr "Visa endast pausade"
 
 msgid "Show only dismissed"
 msgstr "Visa endast Avvisade"
@@ -206,7 +206,7 @@ msgid "Dismissed:"
 msgstr "Avvisade:"
 
 msgid "Snoozed until:"
-msgstr "Snooza tills:"
+msgstr "Pausad tills:"
 
 msgid "In Progress"
 msgstr "Pågår"
@@ -239,10 +239,10 @@ msgid "Active"
 msgstr "Aktiv"
 
 msgid "Dismissed"
-msgstr "avvisade"
+msgstr "Avvisade"
 
 msgid "Snoozed"
-msgstr "Snoozade"
+msgstr "Pausade"
 
 msgid "Daily"
 msgstr "Varje dag"
@@ -281,13 +281,13 @@ msgid "Low priority"
 msgstr "Låg prioritet"
 
 msgid "Created: "
-msgstr "Skapad:"
+msgstr "Skapad: "
 
 msgid "Unknown"
 msgstr "Okänd"
 
 msgid "Modified: "
-msgstr "Ändrat:"
+msgstr "Ändrad: "
 
 msgid "Copy"
 msgstr "Kopia"
@@ -469,9 +469,6 @@ msgstr "Spara kategorinamnen på engelska"
 msgid "Custom category icon path"
 msgstr "Sökväg till ikon för egen kategori"
 
-msgid "Use antialiased fonts"
-msgstr "Använd kantutjämnat teckensnitt"
-
 msgid "Count"
 msgstr "Antal"
 
@@ -570,6 +567,18 @@ msgstr "Spara fönstrens positioner"
 
 msgid "Font face"
 msgstr "Teckensnitt"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Teckensnittsrenderare"
 
 msgid "Scaling quality"
 msgstr "Skalningskvalitet"
@@ -1154,23 +1163,26 @@ msgstr "Anpassa"
 msgid "Click 'Customize' button"
 msgstr "Klicka på knappen \"Anpassa\""
 
+msgid "No events today"
+msgstr "Inga händelser i dag."
+
 msgid "Version"
-msgstr "Version:"
+msgstr "Version"
 
 msgid "Built on"
 msgstr "Byggt på"
 
 msgid "Developed by"
-msgstr "Utvecklad av:"
+msgstr "Utvecklad av"
 
 msgid "Translated (%s) by"
-msgstr "Översättning (%s) av:"
+msgstr "Översättning (%s) av"
 
 msgid "Licensed to"
-msgstr "Licensierad till:"
+msgstr "Licensierad till"
 
 msgid "Links"
-msgstr "Länkar:"
+msgstr "Länkar"
 
 msgid "FAQ"
 msgstr "Frågor och svar"
@@ -1179,13 +1191,13 @@ msgid "Forum"
 msgstr "Forum"
 
 msgid "Menu icons by"
-msgstr "Menyikoner av:"
+msgstr "Menyikoner av"
 
 msgid "Application icon by"
 msgstr "Programikon av"
 
 msgid "Copyrights"
-msgstr "Copyright:"
+msgstr "Copyright"
 
 msgid "Please wait..."
 msgstr "Vänta ..."
@@ -1351,6 +1363,10 @@ msgstr ""
 "Tips: Du kan anpassa redigeraren från Alternativ->Avancerat->Anpassa fält "
 "för händelse-/uppgiftsredigerare"
 
+msgid "Changes to recurring event will apply to all instances."
+msgstr ""
+"Ändringar av återkommande evenemang kommer att gälla för alla instanser."
+
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
 "you want to store the item."
@@ -1416,19 +1432,19 @@ msgid "Set alarm sound"
 msgstr "Ange påminnelseljud"
 
 msgid "Current alarm: "
-msgstr "Aktuellt larm:"
+msgstr "Aktuellt larm: "
 
 msgid "Remove alarm"
 msgstr "Ta bort påminnelse"
 
 msgid "Minutes"
-msgstr "minuter"
+msgstr "Minuter"
 
 msgid "Hours"
-msgstr "timmar"
+msgstr "Timmar"
 
 msgid "Days"
-msgstr "dagar"
+msgstr "Dagar"
 
 msgid "Alert"
 msgstr "Varning"
@@ -1477,7 +1493,7 @@ msgid "On the last day of the month"
 msgstr "Den sista dagen i månaden"
 
 msgid "Please give a name for the template"
-msgstr "Ge mallen ett namn:"
+msgstr "Ge mallen ett namn"
 
 msgid "Unable to create the template!"
 msgstr "Kan inte skapa mallen!"
@@ -1585,6 +1601,18 @@ msgstr "Visa inte detta nästa gång"
 
 msgid "&OK"
 msgstr "OK"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Yes to All"
+msgstr "Ja, alla"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "No to All"
+msgstr "Nej till alla"
 
 msgid "&Yes"
 msgstr "&Ja"
@@ -1971,7 +1999,7 @@ msgid "Copy of %s"
 msgstr "Kopia av %s"
 
 msgid "Please enter a name for the calendar."
-msgstr "Ge kalendern ett namn:"
+msgstr "Ge kalendern ett namn."
 
 msgid "Illegal character!"
 msgstr "Ogiltigt tecken!"
@@ -2015,6 +2043,9 @@ msgstr "Skriv ut ..."
 msgid "Print items"
 msgstr "Skriv ut poster"
 
+msgid "Not Started"
+msgstr "Inte påbörjad"
+
 msgid "Settings"
 msgstr "Inställningar"
 
@@ -2043,7 +2074,7 @@ msgid "Disabled"
 msgstr "Inaktiverad"
 
 msgid "Click through"
-msgstr "klickfrekvens"
+msgstr "Klickfrekvens"
 
 msgid "Scale"
 msgstr "Storlek (%)"
@@ -2207,7 +2238,7 @@ msgid "Unable to copy the file. The source is the same as the destination."
 msgstr "Kan inte kopiera filen. Källfilen är identisk med destinationsfilen."
 
 msgid "Unable to install the file \"%s\"."
-msgstr " Kan inte installera filen \"%s\". "
+msgstr "Kan inte installera filen \"%s\"."
 
 msgid "The folder does not have write permissions."
 msgstr "Mappen är inte skrivbar."
@@ -2222,7 +2253,7 @@ msgid ""
 "The file \"%s\" already exists.\n"
 "Do you want to replace it?"
 msgstr ""
-"\"%s\" finns redan.\n"
+"Filen \"%s\" finns redan.\n"
 "Vill du ersätta den?"
 
 msgid "The above file already exists. Do you want to overwrite it?"
@@ -2287,7 +2318,7 @@ msgid "Ca&ncel"
 msgstr "Avbryt"
 
 msgid "Failed to install \"%s\"."
-msgstr " Kan inte installera \"%s\". "
+msgstr "Misslyckades med att installera \"%s\"."
 
 msgid ""
 "The skin addon has been already applied to the skin.\n"
@@ -2351,7 +2382,7 @@ msgid "Move to next day"
 msgstr "Flytta till nästa dag"
 
 msgid "Dismiss alarm"
-msgstr "avfärda larmet"
+msgstr "Avfärda larmet"
 
 msgid "Delete all"
 msgstr "Ta bort alla"
@@ -2489,7 +2520,7 @@ msgid "install a skin or a language"
 msgstr "installera ett skal eller ett språk"
 
 msgid "import the given file"
-msgstr "Importera angiven fil"
+msgstr "importera angiven fil"
 
 msgid "path where the configuration file will be stored"
 msgstr "sökväg till konfigurationsfilen"
@@ -2679,12 +2710,6 @@ msgstr "OK"
 
 msgid "&Show log"
 msgstr "Visa &avlusningslogg"
-
-msgid "Yes"
-msgstr "Ja"
-
-msgid "No"
-msgstr "Nej"
 
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
@@ -3206,14 +3231,6 @@ msgstr "Bestämmer hur många kalendrar som visas vertikalt i fönstret."
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Avmarkera för att dölja dagarnas namn i kalendern."
 
-msgid "Day background"
-msgstr "Dag bakgrund"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Markera för att lägga till bakgrund till dagnummer för att göra dem lättare "
-"att klicka på."
-
 msgid "Week View"
 msgstr "Veckokalender"
 
@@ -3267,13 +3284,13 @@ msgid "Time item duration"
 msgstr "Längd på tidsintervall"
 
 msgid "60 Minutes"
-msgstr "60 minuter"
+msgstr "60 Minuter"
 
 msgid "30 Minutes"
-msgstr "30 minuter"
+msgstr "30 Minuter"
 
 msgid "15 Minutes"
-msgstr "15 minuter"
+msgstr "15 Minuter"
 
 msgid ""
 "Defines the duration of one time item in the view. The default value is 60 "
@@ -3399,25 +3416,25 @@ msgid "The event color for the bars."
 msgstr "Händelsefärgen för staplarna."
 
 msgid "Conditions: "
-msgstr "Förhållanden:"
+msgstr "Förhållanden: "
 
 msgid "Temperature: "
-msgstr "Temperatur:"
+msgstr "Temperatur: "
 
 msgid "Humidity: "
-msgstr "Luftfuktighet:"
+msgstr "Luftfuktighet: "
 
 msgid "Winds: "
-msgstr "Vind:"
+msgstr "Vind: "
 
 msgid "Time: "
-msgstr "Tid:"
+msgstr "Tid: "
 
 msgid "Refreshing..."
 msgstr "Uppdaterar ..."
 
 msgid "Downloading: "
-msgstr "Hämtar:"
+msgstr "Hämtar: "
 
 msgid "Download failed!"
 msgstr "Hämtningen misslyckades!"
@@ -3441,10 +3458,10 @@ msgid "Loading feed..."
 msgstr "Hämtar flöde ..."
 
 msgid "Lo: "
-msgstr "Min.:"
+msgstr "Min.: "
 
 msgid "Hi: "
-msgstr "Max.:"
+msgstr "Max.: "
 
 msgid "Min:"
 msgstr "Min.:"
@@ -3453,7 +3470,7 @@ msgid "Max:"
 msgstr "Max.:"
 
 msgid "Chance of precipitation: "
-msgstr "Chans för nederbörd:"
+msgstr "Chans för nederbörd: "
 
 msgid "New moon"
 msgstr "Nymåne"
@@ -3845,9 +3862,6 @@ msgstr "Väder Celsius"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Om markerad så visas temperaturen i Celsius."
 
-msgid "No events today"
-msgstr "Inga händelser i dag."
-
 msgid "No tasks today"
 msgstr "Inga uppgifter i dag."
 
@@ -3863,19 +3877,19 @@ msgid "Snooze menu"
 msgstr "Snooze-meny"
 
 msgid "Pressure: "
-msgstr "Tryck:"
+msgstr "Tryck: "
 
 msgid "UV index: "
 msgstr "UV index: "
 
 msgid "Feels like: "
-msgstr "Känns som:"
+msgstr "Känns som: "
 
 msgid "Sunrise: "
-msgstr "Soluppgång:"
+msgstr "Soluppgång: "
 
 msgid "Sunset: "
-msgstr "Solnedgång:"
+msgstr "Solnedgång: "
 
 msgid "Tonight"
 msgstr "Ikväll"
@@ -3900,6 +3914,9 @@ msgstr "Dagsradens text"
 
 msgid "Uncheck to hide the texts from the events."
 msgstr "Avmarkera för att dölja texterna från händelserna."
+
+msgid "Background"
+msgstr "Bakgrund"
 
 msgid "The color of the text in calendar and in the lists."
 msgstr "Textfärg i kalender och listor."
@@ -3945,6 +3962,21 @@ msgstr "Inga händelser"
 
 msgid "No tasks"
 msgstr "Inga uppgifter"
+
+msgid "1 hour"
+msgstr "1 timme"
+
+msgid "%i hours"
+msgstr "%i timmar"
+
+msgid "Now"
+msgstr "Idag (eller klicka för att välja datum)"
+
+msgid "1 min"
+msgstr "1 min"
+
+msgid "%i mins"
+msgstr "%i minuter"
 
 msgid "Synchronizing"
 msgstr "Synkroniserar"
@@ -4057,7 +4089,7 @@ msgid ""
 msgstr "Kalendertypen definierar formatet på händelserna och var de sparas."
 
 msgid "local"
-msgstr "Lokal"
+msgstr "lokal"
 
 msgid "deprecated"
 msgstr "undvik"
@@ -4250,10 +4282,10 @@ msgid "Relative"
 msgstr "Relativ"
 
 msgid "Months"
-msgstr "månad"
+msgstr "Månader"
 
 msgid "Years"
-msgstr "år"
+msgstr "År"
 
 msgid "Visibility:"
 msgstr "Synlighet:"
@@ -4266,9 +4298,6 @@ msgstr "Prioritet:"
 
 msgid "Status:"
 msgstr "Status:"
-
-msgid "Not Started"
-msgstr "Inte påbörjad"
 
 msgid "Progress:"
 msgstr "Förlopp:"
@@ -4331,7 +4360,7 @@ msgid "Repeat every"
 msgstr "Upprepa var"
 
 msgid "Weeks"
-msgstr "vecka"
+msgstr "Veckor"
 
 msgid "Repeat ending"
 msgstr "Upprepa"
@@ -4349,7 +4378,7 @@ msgid "Field pages"
 msgstr "Fältsidor"
 
 msgid "Start and end:"
-msgstr "Byt start- och slut"
+msgstr "Start och slut:"
 
 msgid "Sensitivity:"
 msgstr "Känslighet:"
@@ -4382,7 +4411,7 @@ msgid "Alarms"
 msgstr "Larm"
 
 msgid "Add alarm:"
-msgstr "Lägg till alarm"
+msgstr "Lägg till alarm:"
 
 msgid "Misc"
 msgstr "Övrigt"
@@ -4435,8 +4464,8 @@ msgstr "Sparade svar"
 msgid "Show descriptions"
 msgstr "Visa beskrivningar"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Visa dagens händelser i Meddelandefältet när Rainlendar startar"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Visa dagens händelser när Rainlendar startas"
 
 msgid "Hide list windows if there are no items"
 msgstr "Dölj listfönster som saknar  poster"
@@ -4520,7 +4549,7 @@ msgid "Selected items"
 msgstr "Markerade poster"
 
 msgid "Month"
-msgstr "månad"
+msgstr "Månad"
 
 msgid "Select month"
 msgstr "Välj månad"
@@ -4585,7 +4614,7 @@ msgstr ""
 "Användarnamn- och lösenordsfälten kan lämnas tomma om de inte behövs."
 
 msgid "Select Calendar"
-msgstr "Välj kalender:"
+msgstr "Välj kalender"
 
 msgid "CalDAV Error (%s)!"
 msgstr "CalDAV-fel (%s)!"
@@ -4743,6 +4772,9 @@ msgstr "Endast extern"
 msgid "Future Only"
 msgstr "Endast framtida"
 
+msgid "Don't import birthdays"
+msgstr "Importera inte födelsedagar"
+
 msgid "Color mapping"
 msgstr "Färgmappning"
 
@@ -4825,7 +4857,7 @@ msgstr ""
 "Använd ett av nedanstående namn i stället:\n"
 
 msgid "Unable to delete the event: "
-msgstr "Kan inte ta bort händelsen:"
+msgstr "Kan inte ta bort händelsen: "
 
 msgid ""
 "The event cannot be uploaded to the Google Calendar due to a conflict. The "
@@ -4838,7 +4870,7 @@ msgid "Unable to parse the events."
 msgstr "Kan inte tolka händelserna."
 
 msgid "Unable to upload the event: "
-msgstr "Kan inte ladda upp händelsen:"
+msgstr "Kan inte ladda upp händelsen: "
 
 msgid "Task list name"
 msgstr "Namn på Att göra-lista"
@@ -4901,7 +4933,7 @@ msgstr ""
 "Tillgängliga listor är:\n"
 
 msgid "Unable to delete the task: "
-msgstr "Kan inte ta bort uppgiften:"
+msgstr "Kan inte ta bort uppgiften: "
 
 msgid ""
 "The task cannot be uploaded to the Google Tasks due to a conflict. The "
@@ -4911,7 +4943,7 @@ msgstr ""
 "uppdaterade uppgiften kommer att laddas om från Google Tasks."
 
 msgid "Unable to upload the task: "
-msgstr "Kan inte ladda upp uppgiften!"
+msgstr "Kan inte ladda upp uppgiften: "
 
 msgid "Rainlendar files (*.ini)|*.ini"
 msgstr "Rainlendar-filer (*.ini)|*.ini"
@@ -5079,7 +5111,7 @@ msgid "6 months"
 msgstr "6 månader"
 
 msgid "Year"
-msgstr "år"
+msgstr "År"
 
 msgid "2 years"
 msgstr "2 år"
@@ -5211,8 +5243,28 @@ msgstr "Mapp"
 msgid "Poll for changes"
 msgstr "Övervaka förändringar"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Skriv in din e-postadress och ditt lösenord till Toodledo."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Ange din e-postadress för Toodledo-kontot och klicka på knappen \"Välj "
+"mapp\" och välj den lista du vill komma åt"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Autentisering lyckades\n"
+"Klicka på \"Nästa\" för att fortsätta"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Det går inte att autentisera till Toodledo\n"
+"Kontrollera att din e-postadress\n"
+"och ditt lösenord är korrekta"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Kan inte öppna filen \"%s\" för skrivning."

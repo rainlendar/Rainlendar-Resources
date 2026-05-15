@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2015-03-30 11:33+0200\n"
 "Last-Translator: Anne Cojocarasu <cojocarasu.anne@gmail.com>\n"
 "Language-Team: Viorel Semeniuc <viorel.semeniuc@gmail.com>\n"
@@ -475,9 +475,6 @@ msgstr "Reţine numele de categorii în limba engleză"
 msgid "Custom category icon path"
 msgstr "Cale iconițe pentru categorii personalizate"
 
-msgid "Use antialiased fonts"
-msgstr "Folosește fonturi antialiased"
-
 msgid "Count"
 msgstr "Total"
 
@@ -576,6 +573,18 @@ msgstr "Salvează poziţia ferestrei"
 
 msgid "Font face"
 msgstr "Tip font"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Redare fonturi"
 
 msgid "Scaling quality"
 msgstr "Calitatea scalării"
@@ -1161,6 +1170,9 @@ msgstr "Personalizare"
 msgid "Click 'Customize' button"
 msgstr "Dă clic pe butonul „Personalizează”."
 
+msgid "No events today"
+msgstr "Nici un eveniment azi"
+
 msgid "Version"
 msgstr "Versiune"
 
@@ -1358,6 +1370,10 @@ msgid ""
 msgstr ""
 "Sfat: poți personaliza editorul din câmpurile Opțiuni->Avansat-"
 ">Personalizează editorul de evenimente/sarcini"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr ""
+"Modificările aduse evenimentului recurent se vor aplica tuturor instanțelor."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1596,6 +1612,18 @@ msgstr "Nu mai afișa altă dată"
 
 msgid "&OK"
 msgstr "&OK"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "Yes to All"
+msgstr "Da la toate"
+
+msgid "No"
+msgstr "Nu"
+
+msgid "No to All"
+msgstr "Nu la toate"
 
 msgid "&Yes"
 msgstr "&Da"
@@ -2028,6 +2056,9 @@ msgstr "Tipărire"
 
 msgid "Print items"
 msgstr "Articole de tipărit"
+
+msgid "Not Started"
+msgstr "nepornită"
 
 msgid "Settings"
 msgstr "Configurare"
@@ -2701,12 +2732,6 @@ msgstr "&Ok"
 msgid "&Show log"
 msgstr "&Afişează jurnalul"
 
-msgid "Yes"
-msgstr "Da"
-
-msgid "No"
-msgstr "Nu"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3230,14 +3255,6 @@ msgstr ""
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Deselectează pentru a ascunde numele zilelor săptămânii din calendar."
-
-msgid "Day background"
-msgstr "Fundal zi"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Bifați pentru a adăuga fundal la numerele de zi pentru a le face mai ușor de "
-"făcut clic."
 
 msgid "Week View"
 msgstr "Afișare săptămână"
@@ -3882,9 +3899,6 @@ msgstr "Vremea Ceslius"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Dacă e bifat temperatura este afișată în celsius"
 
-msgid "No events today"
-msgstr "Nici un eveniment azi"
-
 msgid "No tasks today"
 msgstr "Nici o sarcina pe azi"
 
@@ -3937,6 +3951,9 @@ msgstr "Afișare text bară de zi"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Debifați pentru a ascunde textele de la evenimente."
 
+msgid "Background"
+msgstr "Fundal"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Culoarea textului în calendar și în liste"
 
@@ -3981,6 +3998,21 @@ msgstr "Nici un eveniment"
 
 msgid "No tasks"
 msgstr "Nici o sarcină"
+
+msgid "1 hour"
+msgstr "1 oră"
+
+msgid "%i hours"
+msgstr "%i ore"
+
+msgid "Now"
+msgstr "Acum"
+
+msgid "1 min"
+msgstr "1 min"
+
+msgid "%i mins"
+msgstr "%i minute"
 
 msgid "Synchronizing"
 msgstr "Sincronizare"
@@ -4306,9 +4338,6 @@ msgstr "Prioritate:"
 msgid "Status:"
 msgstr "Stare:"
 
-msgid "Not Started"
-msgstr "nepornită"
-
 msgid "Progress:"
 msgstr "Progres:"
 
@@ -4474,8 +4503,8 @@ msgstr "Șabloane"
 msgid "Show descriptions"
 msgstr "Arată descrieri"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "La startul Rainlendar arată în tray evenimentele de azi"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Afișați evenimentele de astăzi când Rainlendar este pornit"
 
 msgid "Hide list windows if there are no items"
 msgstr "Ascunde ferestrele cu liste dacă nu există articole"
@@ -4783,6 +4812,9 @@ msgstr "Numai extern"
 
 msgid "Future Only"
 msgstr "Numai în viitor"
+
+msgid "Don't import birthdays"
+msgstr "Nu importați zile de naștere"
 
 msgid "Color mapping"
 msgstr "Mapare pe culori"
@@ -5259,8 +5291,28 @@ msgstr "Director"
 msgid "Poll for changes"
 msgstr "Monitorizează modificările"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Introduceți adresa de email și parola pentru Toodledo."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Introduceți adresa de e-mail a contului dvs. Toodledo și faceți clic pe "
+"butonul\"Selectați folderul\" și alegeți lista pe care doriți să o accesați"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Autentificarea a avut succes\n"
+"Faceți clic pe „Înainte” pentru a continua"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Nu se poate autentifica la Toodledo\n"
+"Verificați dacă adresa dvs. de e-mail\n"
+"și parola sunt corecte"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Nu se poate deschide fişierul \"%s\" pentru scriere."

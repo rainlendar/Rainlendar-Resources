@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.15.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2023-01-25 16:12+0200\n"
 "Last-Translator: Ralf Nerlich <clone@gmx.info>\n"
 "Language-Team: Thorsten Gutsche\n"
@@ -471,9 +471,6 @@ msgstr "Englische Kategorienamen speichern"
 msgid "Custom category icon path"
 msgstr "Benutzerdefinierter Pfad für Kategorie-Symbol"
 
-msgid "Use antialiased fonts"
-msgstr "Schriftartenglättung verwenden"
-
 msgid "Count"
 msgstr "Anzahl"
 
@@ -572,6 +569,18 @@ msgstr "Fensterposition speichern"
 
 msgid "Font face"
 msgstr "Schriftart"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Schriftarten-Renderer"
 
 msgid "Scaling quality"
 msgstr "Qualität der Skalierung"
@@ -1158,6 +1167,9 @@ msgstr "Anpassen"
 msgid "Click 'Customize' button"
 msgstr "Klicken Sie auf die Schaltfläche „Anpassen“"
 
+msgid "No events today"
+msgstr "Heute keine Termine"
+
 msgid "Version"
 msgstr "Version"
 
@@ -1359,6 +1371,9 @@ msgid ""
 msgstr ""
 "Tipp: Sie können den Editor über Optionen->Erweitert-> Ereignis-/Aufgaben-"
 "Editor-Felder anpassen"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "Änderungen an wiederkehrenden Ereignissen gelten für alle Instanzen."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1597,6 +1612,18 @@ msgstr "Nicht noch einmal anzeigen"
 
 msgid "&OK"
 msgstr "OK"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Yes to All"
+msgstr "Ja zu allem"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "No to All"
+msgstr "Nein zu allem"
 
 msgid "&Yes"
 msgstr "Ja"
@@ -2038,6 +2065,9 @@ msgstr "Drucken"
 
 msgid "Print items"
 msgstr "Einträge drucken"
+
+msgid "Not Started"
+msgstr "Nicht begonnen"
 
 msgid "Settings"
 msgstr "Einstellungen"
@@ -2720,12 +2750,6 @@ msgstr "&Ok"
 msgid "&Show log"
 msgstr "&Protokoll zeigen"
 
-msgid "Yes"
-msgstr "Ja"
-
-msgid "No"
-msgstr "Nein"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3248,14 +3272,6 @@ msgstr "Legt die Anzahl der vertikal im Fenster angezeigten Kalender fest."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Abwählen, um die Namen der Wochentage im Kalender auszublenden."
-
-msgid "Day background"
-msgstr "Tag Hintergrund"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Aktivieren Sie dieses Kontrollkästchen, um den Hintergrund zu den "
-"Tageszahlen hinzuzufügen, damit sie leichter anzuklicken sind."
 
 msgid "Week View"
 msgstr "Wochenansicht"
@@ -3897,9 +3913,6 @@ msgstr "Temperatur in Celsius"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Temperaturanzeige in Celcius, wenn gewählt. Ansonsten in Fahrenheit."
 
-msgid "No events today"
-msgstr "Heute keine Termine"
-
 msgid "No tasks today"
 msgstr "Heute keine Aufgaben"
 
@@ -3953,6 +3966,9 @@ msgstr "Tag-Zeitleiste zeige Text"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Abwählen, um die Texte in der Ereignisansicht auszublenden."
 
+msgid "Background"
+msgstr "Hintergrund"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Textfarbe von Kalender und Listen."
 
@@ -3996,6 +4012,21 @@ msgstr "Keine Termine"
 
 msgid "No tasks"
 msgstr "Keine Aufgaben"
+
+msgid "1 hour"
+msgstr "1 Stunde"
+
+msgid "%i hours"
+msgstr "%i Stunden"
+
+msgid "Now"
+msgstr "Gegenwärtig"
+
+msgid "1 min"
+msgstr "1 Min."
+
+msgid "%i mins"
+msgstr "%i Min."
 
 msgid "Synchronizing"
 msgstr "Synchronisierung"
@@ -4122,7 +4153,7 @@ msgid ""
 "3rd party calendars and task lists directly from the desktop."
 msgstr ""
 "Rainlendar Pro ermöglicht die Integration verschiedener Online-Kalender, wie "
-"z.B. Microsoft Outlook, Google Kalender und weitere./n Verwalten Sie diese "
+"z.B. Microsoft Outlook, Google Kalender und weitere. Verwalten Sie diese "
 "Kalender und Aufgaben direkt über Ihren Desktop."
 
 msgid ""
@@ -4130,7 +4161,7 @@ msgid ""
 "calendars and task lists directly from the desktop."
 msgstr ""
 "Rainlendar Pro ermöglicht die Integration verschiedener Online-Kalender, wie "
-"z.B. Microsoft Outlook, Google Kalender und weitere./nVerwalten Sie diese "
+"z.B. Microsoft Outlook, Google Kalender und weitere. Verwalten Sie diese "
 "Kalender und Aufgaben direkt über Ihren Desktop."
 
 msgid "Buy license"
@@ -4318,9 +4349,6 @@ msgstr "Priorität:"
 msgid "Status:"
 msgstr "Status:"
 
-msgid "Not Started"
-msgstr "Nicht begonnen"
-
 msgid "Progress:"
 msgstr "Fortschritt:"
 
@@ -4486,8 +4514,8 @@ msgstr "Vorlagen"
 msgid "Show descriptions"
 msgstr "Beschreibung anzeigen"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Zeige heutige Termine und Aufgaben bei Programmstart im Systemtray an"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Heutige Ereignisse anzeigen, wenn Rainlendar gestartet wird"
 
 msgid "Hide list windows if there are no items"
 msgstr "Listenfenster ausblenden, wenn keine Einträge vorhanden sind"
@@ -4791,6 +4819,9 @@ msgstr "Nur Externe"
 
 msgid "Future Only"
 msgstr "Nur Zukünftige"
+
+msgid "Don't import birthdays"
+msgstr "Geburtstage nicht importieren"
 
 msgid "Color mapping"
 msgstr "Zuordnung der Farben"
@@ -5272,8 +5303,29 @@ msgstr "Ordner"
 msgid "Poll for changes"
 msgstr "Änderungen überwachen"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Bitte geben Sie Ihre Email-Adresse und Passwort für Toodledo ein."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Geben Sie die E-Mail-Adresse Ihres Toodledo-Kontos ein, klicken Sie auf die "
+"Schaltfläche\"Ordner auswählen\" und wählen Sie die Liste aus, auf die Sie "
+"zugreifen möchten"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Anmeldung erfolgreich\n"
+"Klicke auf „Weiter“, um fortzufahren"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Authentifizierung bei Toodledo nicht möglich\n"
+"Bitte vergewissern Sie sich, dass Ihre E-Mail-Adresse\n"
+"und Ihr Passwort korrekt sind"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Die Datei \"%s\" konnte nicht zum Schreiben geöffnet werden."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2023-08-10 10:55+0300\n"
 "Last-Translator: Carlos Almeida <carlos.almeida.2010@live.com.pt>\n"
 "Language-Team: Carlos Almeida\n"
@@ -476,9 +476,6 @@ msgstr "Armazena nomes de categorias Inglesas"
 msgid "Custom category icon path"
 msgstr "Caminho personalizado da categoria de icon"
 
-msgid "Use antialiased fonts"
-msgstr "Usar tipos de letra suavizadas"
-
 msgid "Count"
 msgstr "Contagem"
 
@@ -577,6 +574,18 @@ msgstr "Salvar posição da janela"
 
 msgid "Font face"
 msgstr "Tipo de letra"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Renderizador de fontes"
 
 msgid "Scaling quality"
 msgstr "Qualidade do dimensionamento"
@@ -1161,6 +1170,9 @@ msgstr "Personalizar"
 msgid "Click 'Customize' button"
 msgstr "Clique no botão \"Personalizar\""
 
+msgid "No events today"
+msgstr "Sem eventos hoje"
+
 msgid "Version"
 msgstr "Versão"
 
@@ -1359,6 +1371,10 @@ msgid ""
 msgstr ""
 "Dica: você pode personalizar o editor em Opções->Avançado->Personalizar "
 "campos do editor de eventos/tarefas"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr ""
+"As alterações no evento recorrente serão aplicadas a todas as instâncias."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1596,6 +1612,18 @@ msgstr "Não mostrar isto novamente"
 
 msgid "&OK"
 msgstr "&OK"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "Yes to All"
+msgstr "Sim a TUDO"
+
+msgid "No"
+msgstr "Não"
+
+msgid "No to All"
+msgstr "Não para todos"
 
 msgid "&Yes"
 msgstr "&Sim"
@@ -2028,6 +2056,9 @@ msgstr "Imprimir"
 
 msgid "Print items"
 msgstr "Imprimir itens"
+
+msgid "Not Started"
+msgstr "Não iniciado"
 
 msgid "Settings"
 msgstr "Configurações"
@@ -2701,12 +2732,6 @@ msgstr "&Ok"
 msgid "&Show log"
 msgstr "&Mostrar histórico"
 
-msgid "Yes"
-msgstr "Sim"
-
-msgid "No"
-msgstr "Não"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3230,14 +3255,6 @@ msgstr "Defina quantos calendários são visíveis verticalmente na janela."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Deseleccione para esconder do calendário os nomes dos dias da semana."
-
-msgid "Day background"
-msgstr "Plano de fundo do dia"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Marque para adicionar fundo aos números do dia para torná-los mais fáceis de "
-"clicar."
 
 msgid "Week View"
 msgstr "Vista semanal"
@@ -3873,9 +3890,6 @@ msgstr "Temperatura Celsius"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Se marcada, a temperatura é mostrada em graus Celsius."
 
-msgid "No events today"
-msgstr "Sem eventos hoje"
-
 msgid "No tasks today"
 msgstr "Sem tarefas hoje"
 
@@ -3929,6 +3943,9 @@ msgstr "Barra do dia mostra texto"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Desmarque para ocultar os textos dos eventos."
 
+msgid "Background"
+msgstr "Contexto"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Cor do texto no calendário e nas listas."
 
@@ -3973,6 +3990,21 @@ msgstr "Sem eventos"
 
 msgid "No tasks"
 msgstr "Sem tarefas"
+
+msgid "1 hour"
+msgstr "1 hora"
+
+msgid "%i hours"
+msgstr "%i horas"
+
+msgid "Now"
+msgstr "Agora"
+
+msgid "1 min"
+msgstr "1 min"
+
+msgid "%i mins"
+msgstr "%i minutos"
 
 msgid "Synchronizing"
 msgstr "A sincronizar"
@@ -4299,9 +4331,6 @@ msgstr "Prioridade:"
 msgid "Status:"
 msgstr "Estado:"
 
-msgid "Not Started"
-msgstr "Não iniciado"
-
 msgid "Progress:"
 msgstr "Progresso:"
 
@@ -4467,8 +4496,8 @@ msgstr "Modelos"
 msgid "Show descriptions"
 msgstr "Mostrar descrições"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Mostrar os eventos de hoje no tray quando o Rainlendar inicia"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Mostrar os eventos de hoje quando o Rainlendar é iniciado"
 
 msgid "Hide list windows if there are no items"
 msgstr "Esconder janelas se não exisitirem itens"
@@ -4777,6 +4806,9 @@ msgstr "SOMENTE EXTERNO"
 
 msgid "Future Only"
 msgstr "Apenas futuros"
+
+msgid "Don't import birthdays"
+msgstr "Não importar aniversários"
 
 msgid "Color mapping"
 msgstr "Mapeamento de cores"
@@ -5248,9 +5280,28 @@ msgstr "Pasta"
 msgid "Poll for changes"
 msgstr "Apurar alterações"
 
-msgid "Please enter your email address and password for Toodledo."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
 msgstr ""
-"Por favor insira o seu endereço de email e palavra-passe para o Toodledo."
+"Introduza o endereço de e-mail da sua conta Toodledo e clique no "
+"botão\"Selecionar pasta\" e escolha a lista a que deseja aceder"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Autenticação bem sucedida\n"
+"Clique em \"Avançar\" para continuar"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Não foi possível autenticar no Toodledo\n"
+"Verifique se o seu e-mail\n"
+"e palavra-passe estão corretos"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Não foi possível abrir o ficheiro \"%s\" para escrita."

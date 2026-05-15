@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2024-05-31 12:48+0300\n"
 "Last-Translator: Kim YoungCheon <circcc@gmail.com>\n"
 "Language-Team: Realman <ishwang3@gmail.com>\n"
@@ -474,9 +474,6 @@ msgstr "영어 범주명 저장"
 msgid "Custom category icon path"
 msgstr "사용자 지정 범주 아이콘 경로"
 
-msgid "Use antialiased fonts"
-msgstr "부드러운 글꼴 사용"
-
 msgid "Count"
 msgstr "서수"
 
@@ -575,6 +572,18 @@ msgstr "창 위치 저장"
 
 msgid "Font face"
 msgstr "글꼴"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "글꼴 렌더러"
 
 msgid "Scaling quality"
 msgstr "스케일링 품질"
@@ -1159,6 +1168,9 @@ msgstr "사용자 정의하기"
 msgid "Click 'Customize' button"
 msgstr "'사용자 지정' 버튼 클릭"
 
+msgid "No events today"
+msgstr "오늘 일정 없음"
+
 msgid "Version"
 msgstr "버전"
 
@@ -1351,6 +1363,9 @@ msgid ""
 msgstr ""
 "도움말: 옵션 - > 고급 - > 이벤트/작업 편집기 사용자 지정 필드에서 편집기를 사"
 "용자 지정할 수 있습니다."
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "반복 이벤트에 대한 변경 사항은 모든 인스턴스에 적용됩니다."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1583,6 +1598,18 @@ msgstr "다시 표시하지 않음"
 
 msgid "&OK"
 msgstr "확인(&O)"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "Yes to All"
+msgstr "모두 예"
+
+msgid "No"
+msgstr "아니오"
+
+msgid "No to All"
+msgstr "모두 아니오"
 
 msgid "&Yes"
 msgstr "예(&Y)"
@@ -2006,6 +2033,9 @@ msgstr "인쇄"
 
 msgid "Print items"
 msgstr "항목 인쇄"
+
+msgid "Not Started"
+msgstr "시작 안 됨"
 
 msgid "Settings"
 msgstr "설정"
@@ -2671,12 +2701,6 @@ msgstr "확인(&O)"
 msgid "&Show log"
 msgstr "로그 보기(&S)"
 
-msgid "Yes"
-msgstr "예"
-
-msgid "No"
-msgstr "아니오"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3194,12 +3218,6 @@ msgstr "창에 수직으로 표시할 달력 수를 설정하십시오."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "달력에서 요일을 숨기려면 선택 해제하십시오."
-
-msgid "Day background"
-msgstr "요일 배경"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr "클릭하기 쉽도록 요일 번호에 배경을 추가하려면 선택하십시오."
 
 msgid "Week View"
 msgstr "주간 일정"
@@ -3826,9 +3844,6 @@ msgstr "날씨 섭씨 온도"
 msgid "If checked the temperature is shown in celsius."
 msgstr "표시하면 기온을 섭씨로 표시합니다."
 
-msgid "No events today"
-msgstr "오늘 일정 없음"
-
 msgid "No tasks today"
 msgstr "오늘 작업 없음"
 
@@ -3881,6 +3896,9 @@ msgstr "날짜 막대에 글 표시"
 msgid "Uncheck to hide the texts from the events."
 msgstr "일정에서 글을 숨기려면 선택 해제하십시오."
 
+msgid "Background"
+msgstr "배경"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "달력과 목록의 글자 색입니다."
 
@@ -3924,6 +3942,21 @@ msgstr "일정 없음"
 
 msgid "No tasks"
 msgstr "작업 없음"
+
+msgid "1 hour"
+msgstr "1시간"
+
+msgid "%i hours"
+msgstr "%i 시간"
+
+msgid "Now"
+msgstr "현재"
+
+msgid "1 min"
+msgstr "1분"
+
+msgid "%i mins"
+msgstr "%i 분"
 
 msgid "Synchronizing"
 msgstr "동기화 중"
@@ -4244,9 +4277,6 @@ msgstr "우선순위:"
 msgid "Status:"
 msgstr "상태:"
 
-msgid "Not Started"
-msgstr "시작 안 됨"
-
 msgid "Progress:"
 msgstr "진행률:"
 
@@ -4412,8 +4442,8 @@ msgstr "템플릿"
 msgid "Show descriptions"
 msgstr "설명 표시"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Rainlendar를 시작할 때 트레이에 오늘의 일정 표시"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Rainlendar가 시작될 때 오늘의 이벤트 표시"
 
 msgid "Hide list windows if there are no items"
 msgstr "항목이 없으면 목록 창 숨기기"
@@ -4713,6 +4743,9 @@ msgstr "외부만"
 
 msgid "Future Only"
 msgstr "미래 일정만"
+
+msgid "Don't import birthdays"
+msgstr "생일 가져오기 안 함"
 
 msgid "Color mapping"
 msgstr "색상 매핑"
@@ -5173,8 +5206,28 @@ msgstr "폴더"
 msgid "Poll for changes"
 msgstr "변경 반영하기"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Toodledo 이메일 주소와 비밀번호를 입력하십시오."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Toodledo 계정 이메일 주소를 입력하고 \"폴더 선택\" 버튼을 클릭하고 액세스하려"
+"는 목록을 선택합니다."
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"인증 성공\n"
+"계속하려면 '다음' 을 클릭하세요"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Toodledo로 인증할 수 없습니다\n"
+"이메일과 비밀번호가 올바른지\n"
+"확인해주세요."
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "파일 \"%s\" 을 쓰기용으로 열 수 없습니다."

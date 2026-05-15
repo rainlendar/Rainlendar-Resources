@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2021-09-29 20:19+0300\n"
 "Last-Translator: Omega <omega@email.ee>\n"
 "Language-Team: \n"
@@ -472,9 +472,6 @@ msgstr "Säilita kategooriate ingliskeelsed nimed"
 msgid "Custom category icon path"
 msgstr "Kohandatud kategooria ikooni asukoht"
 
-msgid "Use antialiased fonts"
-msgstr "Kasuta antialiased fonte"
-
 msgid "Count"
 msgstr "Lugem"
 
@@ -573,6 +570,18 @@ msgstr "Salvesta akna asukoht"
 
 msgid "Font face"
 msgstr "Kirja stiil (font)"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Fondirenderdaja"
 
 msgid "Scaling quality"
 msgstr "Skaleerimise kvaliteet"
@@ -1157,6 +1166,9 @@ msgstr "Kohanda"
 msgid "Click 'Customize' button"
 msgstr "Klõpsa nupul „Kohanda“"
 
+msgid "No events today"
+msgstr "Tänaseks pole sündmusi"
+
 msgid "Version"
 msgstr "Versioon"
 
@@ -1350,6 +1362,9 @@ msgid ""
 msgstr ""
 "Nõuanne: saate redaktorit kohandada menüüst Valikud - >Täpsemad->Kohanda "
 "sündmuste/ülesannete redaktori välju"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "Korduva sündmuse muudatused rakenduvad kõigile eksemplaridele."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1584,6 +1599,18 @@ msgstr "Ära rohkem seda näita"
 
 msgid "&OK"
 msgstr "&OK"
+
+msgid "Yes"
+msgstr "Jah"
+
+msgid "Yes to All"
+msgstr "Jah kÃµigile"
+
+msgid "No"
+msgstr "Ei"
+
+msgid "No to All"
+msgstr "Ei kÃµigile"
 
 msgid "&Yes"
 msgstr "&Jah"
@@ -2012,6 +2039,9 @@ msgstr "Prindi"
 
 msgid "Print items"
 msgstr "Prindi üksused"
+
+msgid "Not Started"
+msgstr "Pole alustatud"
 
 msgid "Settings"
 msgstr "Sätted"
@@ -2677,12 +2707,6 @@ msgstr "&Ok"
 msgid "&Show log"
 msgstr "Näita logi"
 
-msgid "Yes"
-msgstr "Jah"
-
-msgid "No"
-msgstr "Ei"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3203,13 +3227,6 @@ msgstr "Määrab, mitut kalendrit näidatakse aknas vertikaalselt."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Eemalda märgistus, kui soovid peita kalendris nädalapäevade nimed."
-
-msgid "Day background"
-msgstr "Päeva taust"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Märkige, et lisada päevanumbritele taust, et neid oleks lihtsam klõpsata."
 
 msgid "Week View"
 msgstr "Nädala vaade"
@@ -3842,9 +3859,6 @@ msgstr "Temp. Celsiuses"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Valiku korral näitatakse temperatuuri Celsiuse kraadides."
 
-msgid "No events today"
-msgstr "Tänaseks pole sündmusi"
-
 msgid "No tasks today"
 msgstr "Tänaseks pole töid"
 
@@ -3897,6 +3911,9 @@ msgstr "Päeva riba näitab teksti"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Eemalda märgistus, kui soovid peita sündmustest tekstid."
 
+msgid "Background"
+msgstr "Taust"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Tekstivärv kalendris ja nimekirjades."
 
@@ -3940,6 +3957,21 @@ msgstr "Sündmused puuduvad"
 
 msgid "No tasks"
 msgstr "Ülesanded puuduvad"
+
+msgid "1 hour"
+msgstr "1 tund"
+
+msgid "%i hours"
+msgstr "%i tundi"
+
+msgid "Now"
+msgstr "Kohe"
+
+msgid "1 min"
+msgstr "1 min"
+
+msgid "%i mins"
+msgstr "%i minutit"
 
 msgid "Synchronizing"
 msgstr "Sünkroniseerin"
@@ -4262,9 +4294,6 @@ msgstr "Tähtsus:"
 msgid "Status:"
 msgstr "Olek:"
 
-msgid "Not Started"
-msgstr "Pole alustatud"
-
 msgid "Progress:"
 msgstr "Edenemine:"
 
@@ -4430,9 +4459,8 @@ msgstr "Mallid"
 msgid "Show descriptions"
 msgstr "Näita kirjeldusi"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr ""
-"Näita Rainlendar'i käivitamisel tänaseid sündmusi ja töid süsteemisalves"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Kuva tänased sündmused, kui Rainlendar on alanud"
 
 msgid "Hide list windows if there are no items"
 msgstr "Peida nimekirja aknad, kui nendes puuduvad üksused"
@@ -4736,6 +4764,9 @@ msgstr "Ainult väline"
 
 msgid "Future Only"
 msgstr "Ainult tulevikus"
+
+msgid "Don't import birthdays"
+msgstr "Ära impordi sünnipäevi"
 
 msgid "Color mapping"
 msgstr "Värvide vastavus"
@@ -5199,8 +5230,28 @@ msgstr "Kaust"
 msgid "Poll for changes"
 msgstr "Jälgi muutusi"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Palun sisesta oma e-posti aadress ja parool Toodledo jaoks."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Sisesta oma Toodledo konto e-posti aadress, klõpsa nuppu \"Vali kaust\" ja "
+"vali loend, millele soovid juurde pääseda"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Autentimine õnnestus\n"
+"Jätkamiseks klõpsa nuppu „Järgmine“"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Toodledole ei saa autentida\n"
+"Veendu, et sinu e-posti aadress\n"
+"ja parool on õiged"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Faili  \"%s\" ei saa avada kirjutamiseks."

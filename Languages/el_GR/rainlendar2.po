@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2023-08-10 10:27+0300\n"
 "Last-Translator: Lektor <lektor@4x4.gr>\n"
 "Language-Team: \n"
@@ -473,9 +473,6 @@ msgstr "Αποθήκευση  Αγγλικών ονομάτων κατηγορι
 msgid "Custom category icon path"
 msgstr "Διαδρομή εικονιδίου προσαρμοσμένης κατηγορίας"
 
-msgid "Use antialiased fonts"
-msgstr "Χρήση αντιλυθέντων γραμματοσειρών"
-
 msgid "Count"
 msgstr "Μέτρηση"
 
@@ -574,6 +571,18 @@ msgstr "Αποθήκευση θέσης παραθύρου"
 
 msgid "Font face"
 msgstr "Επιλογή γραμματοσειράς"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Αποτυπωτής γραμματοσειρών"
 
 msgid "Scaling quality"
 msgstr "Ποιότητα κλιμάκωσης"
@@ -1161,6 +1170,9 @@ msgstr "Εμφάνιση"
 msgid "Click 'Customize' button"
 msgstr "Κάντε κλικ στο κουμπί «Προσαρμογή»"
 
+msgid "No events today"
+msgstr "Δεν υπάρχουν γεγονότα σήμερα"
+
 msgid "Version"
 msgstr "Έκδοση"
 
@@ -1365,6 +1377,10 @@ msgstr ""
 "Συμβουλή: Μπορείτε να προσαρμόσετε το πρόγραμμα επεξεργασίας από τις "
 "Επιλογές->Γιαπροχωρημένους- >Προσαρμογή πεδίων επεξεργασίας συμβάντων/"
 "εργασιών"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr ""
+"Οι αλλαγές στο επαναλαμβανόμενο συμβάν θα ισχύουν για όλες τις περιστάσεις."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1604,6 +1620,18 @@ msgstr "Να μην εμφανιστεί ξανά αυτό το"
 
 msgid "&OK"
 msgstr "&OK"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "Yes to All"
+msgstr "Ναι σε όλα"
+
+msgid "No"
+msgstr "Όχι"
+
+msgid "No to All"
+msgstr "Όχι σε όλους"
 
 msgid "&Yes"
 msgstr "&Ναι"
@@ -2045,6 +2073,9 @@ msgstr "Εκτύπωση"
 
 msgid "Print items"
 msgstr "Εκτύπωση στοιχείων"
+
+msgid "Not Started"
+msgstr "Δεν ξεκίνησε"
 
 msgid "Settings"
 msgstr "Ρυθμίσεις"
@@ -2732,12 +2763,6 @@ msgstr "&Ok"
 msgid "&Show log"
 msgstr "Εμφάνιση αρχείου καταγραφής"
 
-msgid "Yes"
-msgstr "Ναι"
-
-msgid "No"
-msgstr "Όχι"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3274,14 +3299,6 @@ msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr ""
 "Καταργήστε την επιλογή για να αποκρύψετε τα ονόματα των ημερών της εβδομάδας "
 "από το ημερολόγιο."
-
-msgid "Day background"
-msgstr "Φόντο ημέρας"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Επιλέξτε για να προσθέσετε φόντο στους αριθμούς ημέρας για να τους κάνετε "
-"πιο εύκολο το κλικ."
 
 msgid "Week View"
 msgstr "Προβολή Εβδομάδας"
@@ -3935,9 +3952,6 @@ msgstr "Καιρός σε Κελσίου"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Εάν ελεγχθεί η θερμοκρασία εμφανίζεται σε βαθμούς Κελσίου."
 
-msgid "No events today"
-msgstr "Δεν υπάρχουν γεγονότα σήμερα"
-
 msgid "No tasks today"
 msgstr "Δεν υπάρχουν εργασίες σήμερα"
 
@@ -3993,6 +4007,9 @@ msgstr "Η γραμμή ημέρας εμφανίζει κείμενο"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Καταργήστε την επιλογή για να αποκρύψετε τα κείμενα από τα συμβάντα."
 
+msgid "Background"
+msgstr "Φόντο"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Το χρώμα του κειμένου στο ημερολόγιο και στις λίστες."
 
@@ -4037,6 +4054,21 @@ msgstr "Δεν υπάρχουν γεγονότα"
 
 msgid "No tasks"
 msgstr "Δεν υπάρχουν εργασίες"
+
+msgid "1 hour"
+msgstr "1 ώρα"
+
+msgid "%i hours"
+msgstr "%i ώρες"
+
+msgid "Now"
+msgstr "Τώρα"
+
+msgid "1 min"
+msgstr "1 λεπτό"
+
+msgid "%i mins"
+msgstr "%i λεπτά"
 
 msgid "Synchronizing"
 msgstr "Συγχρονίζει"
@@ -4367,9 +4399,6 @@ msgstr "Προτεραιότητα:"
 msgid "Status:"
 msgstr "Κατάσταση:"
 
-msgid "Not Started"
-msgstr "Δεν ξεκίνησε"
-
 msgid "Progress:"
 msgstr "Πρόοδος:"
 
@@ -4535,9 +4564,8 @@ msgstr "Πρότυπα"
 msgid "Show descriptions"
 msgstr "Εμφάνιση περιγραφών"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr ""
-"Εμφάνιση σημερινών γεγονότων στην γραμμή εργασιών όταν ξεκινάει το Rainlendar"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Εμφάνιση των σημερινών εκδηλώσεων κατά την εκκίνηση του Rainlendar"
 
 msgid "Hide list windows if there are no items"
 msgstr "Απόκρυψη παραθύρων λίστας, εάν δεν υπάρχουν στοιχεία"
@@ -4846,6 +4874,9 @@ msgstr "Μόνο εξωτερικά"
 
 msgid "Future Only"
 msgstr "Μόνο για το μέλλον"
+
+msgid "Don't import birthdays"
+msgstr "Μην εισάγετε γενέθλια"
 
 msgid "Color mapping"
 msgstr "Αντιστοίχιση χρωμάτων"
@@ -5333,10 +5364,29 @@ msgstr "Φάκελος"
 msgid "Poll for changes"
 msgstr "Σφυγμομέτρηση για αλλαγές"
 
-msgid "Please enter your email address and password for Toodledo."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
 msgstr ""
-"Παρακαλώ εισάγετε τη διεύθυνση email και τον κωδικό πρόσβασής σας για το "
-"Toodledo."
+"Εισαγάγετε τη διεύθυνση email του λογαριασμού σας στο Toodledo και κάντε "
+"κλικ στο κουμπί\"Επιλογή φακέλου\" και επιλέξτε τη λίστα στην οποία θέλετε "
+"να αποκτήσετε πρόσβαση"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Ο έλεγχος ταυτότητας ήταν επιτυχής\n"
+"Κάντε κλικ στο «Επόμενο» για να συνεχίσετε"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Δεν είναι δυνατός ο έλεγχος ταυτότητας στο ToodledonΕπαληθεύστε ότι το "
+"email\n"
+"και ο κωδικός πρόσβασής σας είναι σωστά"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Δεν είναι δυνατό το άνοιγμα του αρχείου \"%s\" για εγγραφή."

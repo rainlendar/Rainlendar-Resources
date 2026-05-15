@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2020-11-26 02:35+0100\n"
 "Last-Translator: dkas <dkas01@gmail.com>\n"
 "Language-Team: Daniel Kasal <dkas01@gmail.com>\n"
@@ -469,9 +469,6 @@ msgstr "Záloha Anglických názvů kategorií"
 msgid "Custom category icon path"
 msgstr "Vlastní cesta kategorie ikony"
 
-msgid "Use antialiased fonts"
-msgstr "Použití vyhlazených fontů"
-
 msgid "Count"
 msgstr "Počítat"
 
@@ -570,6 +567,18 @@ msgstr "Uložit pozici okna"
 
 msgid "Font face"
 msgstr "Písmo vzhledu"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Vykreslovač písem"
 
 msgid "Scaling quality"
 msgstr "Kvalita měřítka"
@@ -1154,6 +1163,9 @@ msgstr "Vzhled"
 msgid "Click 'Customize' button"
 msgstr "Klikněte na tlačítko „Přizpůsobit“"
 
+msgid "No events today"
+msgstr "Dnes žádné události"
+
 msgid "Version"
 msgstr "Verze"
 
@@ -1347,6 +1359,9 @@ msgid ""
 msgstr ""
 "Tip: Editor můžete přizpůsobit z Možnosti-> Pokročilé->Přizpůsobit pole "
 "editoru událostí/úkolů"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "Změny opakující se události se budou vztahovat na všechny instance."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1583,6 +1598,18 @@ msgstr "Nezobrazovat znovu"
 
 msgid "&OK"
 msgstr "&OK"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "Yes to All"
+msgstr "Ano všem"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No to All"
+msgstr "Ne všem"
 
 msgid "&Yes"
 msgstr "&Ano"
@@ -2010,6 +2037,9 @@ msgstr "Vytisknout..."
 
 msgid "Print items"
 msgstr "Tisknout položky"
+
+msgid "Not Started"
+msgstr "Nezahájeno"
 
 msgid "Settings"
 msgstr "Nastavení"
@@ -2675,12 +2705,6 @@ msgstr "&Ok"
 msgid "&Show log"
 msgstr "&Zobrazit log"
 
-msgid "Yes"
-msgstr "Ano"
-
-msgid "No"
-msgstr "Ne"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3198,14 +3222,6 @@ msgstr "Definuje, kolik kalendářů bude zobrazeno svisle v okně."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Zrušit zaškrtnutí políčka skrytí jmen dnů v týdnu v kalendáři."
-
-msgid "Day background"
-msgstr "Pozadí dne"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Zaškrtněte, chcete-li přidat pozadí k číslům dnů, aby bylo snadnější na ně "
-"kliknout."
 
 msgid "Week View"
 msgstr "Týdenní přehled "
@@ -3840,9 +3856,6 @@ msgstr "Počasí Celsia"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Pokud je zaškrtnuto, teplota se zobrazuje ve stupních Celsia."
 
-msgid "No events today"
-msgstr "Dnes žádné události"
-
 msgid "No tasks today"
 msgstr "Dnes žádné úkoly"
 
@@ -3895,6 +3908,9 @@ msgstr "Zobrazení textu Denní lišty"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Zrušením zaškrtnutí skryjete text z událostí."
 
+msgid "Background"
+msgstr "Pozadí"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Barva textu v kalendáři a v seznamech."
 
@@ -3939,6 +3955,21 @@ msgstr "Žádné události"
 
 msgid "No tasks"
 msgstr "Žádné úkoly"
+
+msgid "1 hour"
+msgstr "1 hour"
+
+msgid "%i hours"
+msgstr "%i hodin"
+
+msgid "Now"
+msgstr "Nyní"
+
+msgid "1 min"
+msgstr "1 minuta"
+
+msgid "%i mins"
+msgstr "%i minut"
 
 msgid "Synchronizing"
 msgstr "Synchronizace"
@@ -4261,9 +4292,6 @@ msgstr "Priorita:"
 msgid "Status:"
 msgstr "Stav:"
 
-msgid "Not Started"
-msgstr "Nezahájeno"
-
 msgid "Progress:"
 msgstr "Průběh:"
 
@@ -4429,8 +4457,8 @@ msgstr "Šablony"
 msgid "Show descriptions"
 msgstr "Zobrazit popisy"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Zobrazit dnešní události v tray při spuštění"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Zobrazit dnešní události při spuštění aplikace Rainlendar"
 
 msgid "Hide list windows if there are no items"
 msgstr "Skrýt seznam oken, pokud v nich nejsou žádné položky"
@@ -4735,6 +4763,9 @@ msgstr "Pouze externí"
 
 msgid "Future Only"
 msgstr "Pouze budoucnost"
+
+msgid "Don't import birthdays"
+msgstr "Neimportovat narozeniny"
 
 msgid "Color mapping"
 msgstr "Mapování barvy"
@@ -5199,8 +5230,28 @@ msgstr "Složka"
 msgid "Poll for changes"
 msgstr "Anketa pro změny"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Prosím zadejte svoji e-mailovou adresu a heslo pro Toodledo."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Zadejte e-mailovou adresu účtu Toodledo a klikněte na tlačítko\"Vybrat "
+"složku\" a vyberte seznam, ke kterému chcete přistupovat"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Ověření bylo úspěšné\n"
+"Kliknutím na tlačítko „Další“ pokračujte"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Nepodařilo se ověřit Toodledo\n"
+"Ověřte, zda je váš e-mail\n"
+"a heslo správné"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Nelze otevřít soubor \"%s\" pro psaní."

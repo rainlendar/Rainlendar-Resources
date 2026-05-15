@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2022-03-18 12:23+0200\n"
 "Last-Translator: Maxareuos <max5@bezeqint.net>\n"
 "Language-Team: Maxareuos <max5@bezeqint.net>\n"
@@ -470,9 +470,6 @@ msgstr "שמור שמות קטגוריה אנגליים"
 msgid "Custom category icon path"
 msgstr "כתובת לסמל קטגוריה מותאם אישית"
 
-msgid "Use antialiased fonts"
-msgstr "השתמש בהחלקת שינון בפונטים"
-
 msgid "Count"
 msgstr "ספירה"
 
@@ -571,6 +568,18 @@ msgstr "שמור מיקום החלון"
 
 msgid "Font face"
 msgstr "פני גופן"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "פונט רינדרר"
 
 msgid "Scaling quality"
 msgstr "איכות קנה מידה"
@@ -1154,6 +1163,9 @@ msgstr "התאם אישית"
 msgid "Click 'Customize' button"
 msgstr "לחץ על הלחצן 'התאמה אישית'"
 
+msgid "No events today"
+msgstr "אין אירועים היום"
+
 msgid "Version"
 msgstr "גרסה"
 
@@ -1346,6 +1358,9 @@ msgid ""
 msgstr ""
 "טיפ: ניתן להתאים אישית את העורך מתוך אפשרויות -> מתקדם->התאמה אישית של שדות "
 "אירוע/עורך משימות"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "שינויים באירוע החוזר על עצמו יחולו על כל המופעים."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1579,6 +1594,18 @@ msgstr "אל תעשה את זה שוב"
 
 msgid "&OK"
 msgstr "&אישור"
+
+msgid "Yes"
+msgstr "כן"
+
+msgid "Yes to All"
+msgstr "כן לכל"
+
+msgid "No"
+msgstr "לא"
+
+msgid "No to All"
+msgstr "לא לכל"
 
 msgid "&Yes"
 msgstr "&כן"
@@ -2006,6 +2033,9 @@ msgstr "הדפס"
 
 msgid "Print items"
 msgstr "הדפס פריטים"
+
+msgid "Not Started"
+msgstr "בהמתנה"
 
 msgid "Settings"
 msgstr "הגדרות"
@@ -2676,12 +2706,6 @@ msgstr "&אישור"
 msgid "&Show log"
 msgstr "&הראה יומן מעקב"
 
-msgid "Yes"
-msgstr "כן"
-
-msgid "No"
-msgstr "לא"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3196,12 +3220,6 @@ msgstr "מגדיר כמה יומנים מוצגים אופקית בחלון."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "הסר סימון בשביל להסתיר את שמות הימים של השבוע ביומן."
-
-msgid "Day background"
-msgstr "רקע יומי"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr "סמן כדי להוסיף רקע למספרי יום כדי להפוך אותם לקלים יותר ללחיצה."
 
 msgid "Week View"
 msgstr "תצוגה השבוע"
@@ -3828,9 +3846,6 @@ msgstr "מזג אוויר צלזיוס"
 msgid "If checked the temperature is shown in celsius."
 msgstr "אם מסומן, הטמפרטורה מוצגת בטמפרטורה של צלזיוס."
 
-msgid "No events today"
-msgstr "אין אירועים היום"
-
 msgid "No tasks today"
 msgstr "אין משימות היום"
 
@@ -3883,6 +3898,9 @@ msgstr "טקסט לתצוגה בסרגל היום"
 msgid "Uncheck to hide the texts from the events."
 msgstr "בטל את הסימון כדי להסתיר את הטקסטים מהאירועים."
 
+msgid "Background"
+msgstr "רקע"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "צבע הטקסט ביומן וברשימות."
 
@@ -3924,6 +3942,21 @@ msgstr "אין אירועים"
 
 msgid "No tasks"
 msgstr "16 סיביות"
+
+msgid "1 hour"
+msgstr "שעה"
+
+msgid "%i hours"
+msgstr "%i שעות"
+
+msgid "Now"
+msgstr "עכשיו"
+
+msgid "1 min"
+msgstr "1 דקות"
+
+msgid "%i mins"
+msgstr "%i דקות"
 
 msgid "Synchronizing"
 msgstr "מסתכרן"
@@ -4247,9 +4280,6 @@ msgstr "עדיפות:"
 msgid "Status:"
 msgstr "סטטוס:"
 
-msgid "Not Started"
-msgstr "בהמתנה"
-
 msgid "Progress:"
 msgstr "התקדמות:"
 
@@ -4415,8 +4445,8 @@ msgstr "תבניות"
 msgid "Show descriptions"
 msgstr "הצג תיאורים"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "הצג את אירועי היום לאחר עליית התוכנה"
+msgid "Show today's events when Rainlendar is started"
+msgstr "הצג את האירועים של היום כאשר Rainlendar מופעל"
 
 msgid "Hide list windows if there are no items"
 msgstr "הסתר חלונות רשימה אם אין בהם פריטים"
@@ -4717,6 +4747,9 @@ msgstr "חיצוני בלבד"
 
 msgid "Future Only"
 msgstr "עתיד בלבד"
+
+msgid "Don't import birthdays"
+msgstr "אל תייבא ימי הולדת"
 
 msgid "Color mapping"
 msgstr "מיפוי צבעים"
@@ -5172,8 +5205,27 @@ msgstr "תיקייה"
 msgid "Poll for changes"
 msgstr "עקוב אחרי שינויים"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "הכנס את כתובת הדואר האלקטרוני שלך ואת הסיסמא לToodledo בבקשה."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"הזן את כתובת הדוא\"ל של חשבון Toodledo ולחץ על הלחצן \" בחר תיקייה \" ובחר "
+"את הרשימה שאליה ברצונך לגשת"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"האימות בוצע בהצלחה\n"
+"לחץ על 'הבא' כדי להמשיך"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"לא ניתן לבצע אימות ל - Toodledo\n"
+"יש לוודא שכתובת הדוא לוהסיסמה שלך נכונות"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "לא מסוגל לפתוח את הקובץ \"%s\" לכתיבה."

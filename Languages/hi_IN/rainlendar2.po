@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2023-08-10 10:39+0300\n"
 "Last-Translator: Abhi Avi <abhiavi114@gmail.com>\n"
 "Language-Team: \n"
@@ -472,9 +472,6 @@ msgstr "अंग्रेजी वर्गीकरण नाम को स�
 msgid "Custom category icon path"
 msgstr "वपराश्कर्ता द्वारा बनाए वर्गीकरण आइकन का पाथ"
 
-msgid "Use antialiased fonts"
-msgstr "एन्टीएलिआस्ड फोन्ट का उपयोग करें"
-
 msgid "Count"
 msgstr "गिनती"
 
@@ -573,6 +570,18 @@ msgstr "विन्डो स्थान सेव करें"
 
 msgid "Font face"
 msgstr "फ़ॉन्ट चेहरा"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "फ़ॉन्ट रेंडरर"
 
 msgid "Scaling quality"
 msgstr "स्केलिंग गुणवत्ता"
@@ -1155,6 +1164,9 @@ msgstr "कस्टमाइज़"
 msgid "Click 'Customize' button"
 msgstr "'कस्टमाइज़ करें' बटन पर क्लिक करें"
 
+msgid "No events today"
+msgstr "आज कोई घटना नहीं"
+
 msgid "Version"
 msgstr "संस्करण"
 
@@ -1347,6 +1359,9 @@ msgid ""
 msgstr ""
 "सुझाव: आप विकल्प -> एडवांस्ड -> कस्टमाइज़ इवेंट/टास्क एडिटर फ़ील्ड से एडिटर को कस्टमाइज़ "
 "कर सकते हैं"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "आवर्ती ईवेंट में परिवर्तन सभी उदाहरणों पर लागू होंगे।"
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1581,6 +1596,18 @@ msgstr "इसे दोबारा न दिखाएं"
 
 msgid "&OK"
 msgstr "ठीक"
+
+msgid "Yes"
+msgstr "हां"
+
+msgid "Yes to All"
+msgstr "सभी के लिए हाँ"
+
+msgid "No"
+msgstr "नहीं"
+
+msgid "No to All"
+msgstr "सभी को नहीं"
 
 msgid "&Yes"
 msgstr "हां"
@@ -2008,6 +2035,9 @@ msgstr "मुद्रण"
 
 msgid "Print items"
 msgstr "चीज मुद्रित करें"
+
+msgid "Not Started"
+msgstr "अभी शुरू नहीं हुआ है"
 
 msgid "Settings"
 msgstr "सेटिंग्स"
@@ -2670,12 +2700,6 @@ msgstr "ठीक"
 msgid "&Show log"
 msgstr "लोग दिखाएं"
 
-msgid "Yes"
-msgstr "हां"
-
-msgid "No"
-msgstr "नहीं"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3190,14 +3214,6 @@ msgstr "विन्डो में खडी दिशा में केल�
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "केलेन्डर से सप्ताह के दिनों के नाम छुपाने के लिए अनचेक करें।"
-
-msgid "Day background"
-msgstr "दिन की पृष्ठभूमि"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"उन्हें क्लिक करने के लिए और अधिक आसान बनाने के लिए दिन की संख्या में पृष्ठभूमि जोड़ने के लिए "
-"जाँच करें।"
 
 msgid "Week View"
 msgstr "सप्ताह दृश्य"
@@ -3822,9 +3838,6 @@ msgstr "मौसम सेल्सियस"
 msgid "If checked the temperature is shown in celsius."
 msgstr "अगर चेक किया जाए तो तापमान को सेल्सियस में दिखाया जाता है।"
 
-msgid "No events today"
-msgstr "आज कोई घटना नहीं"
-
 msgid "No tasks today"
 msgstr "आज कोई कार्य नहीं"
 
@@ -3878,6 +3891,9 @@ msgstr "डे बार शो टेक्स्ट"
 msgid "Uncheck to hide the texts from the events."
 msgstr "घटनाओं से ग्रंथों को छिपाने के लिए अनचेक करें।"
 
+msgid "Background"
+msgstr "पृष्ठभूमि"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "केलेन्डर तथा सूची में पाठ का रंग"
 
@@ -3921,6 +3937,21 @@ msgstr "कोई इवेंट नहीं!"
 
 msgid "No tasks"
 msgstr "16 बिट्स"
+
+msgid "1 hour"
+msgstr "1 घंटा"
+
+msgid "%i hours"
+msgstr "%i घंटें"
+
+msgid "Now"
+msgstr "अब"
+
+msgid "1 min"
+msgstr "1 मिनट"
+
+msgid "%i mins"
+msgstr "%i मिनटें"
 
 msgid "Synchronizing"
 msgstr "साथ - साथ होना"
@@ -4243,9 +4274,6 @@ msgstr "प्राघान्य"
 msgid "Status:"
 msgstr "स्थिति:"
 
-msgid "Not Started"
-msgstr "अभी शुरू नहीं हुआ है"
-
 msgid "Progress:"
 msgstr "प्रगति:"
 
@@ -4411,8 +4439,8 @@ msgstr "प्रारूप"
 msgid "Show descriptions"
 msgstr "विवरण दिखाएँ"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "रेइनलेन्डर शुरु होने पर आज की घटनाएं थाल में दिखाएं।"
+msgid "Show today's events when Rainlendar is started"
+msgstr "रेनलेंडर शुरू होने पर आज के इवेंट दिखाएँ"
 
 msgid "Hide list windows if there are no items"
 msgstr "कोई चीज न होने पर विन्डो छिपाएं।"
@@ -4715,6 +4743,9 @@ msgstr "केवल बाहरी"
 
 msgid "Future Only"
 msgstr "केवल भविष्य"
+
+msgid "Don't import birthdays"
+msgstr "जन्मदिन इम्पोर्ट न करें"
 
 msgid "Color mapping"
 msgstr "रंग मानचित्रण"
@@ -5170,8 +5201,28 @@ msgstr "फोल्डर"
 msgid "Poll for changes"
 msgstr "बदलाव के लिए मतदान"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "तोडलेडो के लिए आपका इ-मेईल एड्रेस एवं पासवर्ड एंटर करें।"
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"अपना Toodledo अकाउंट का ईमेल पता डालें और \" फ़ोल्डर चुनें \" बटन पर क्लिक करें और वह "
+"लिस्ट चुनें, जिसे आप ऐक्सेस करना चाहते हैं"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"ऑथेंटिकेशन हो गया\n"
+"जारी रखने के लिए 'आगे बढ़ें' पर क्लिक करें"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Toodledo को ऑथेंटिकेट नहीं किया जा सका\n"
+"कृपया पुष्टि करें कि आपका ईमेल\n"
+"और पासवर्ड सही है"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "नत्थी \"%s\" लिखने के लिए खोलने में असफल।"

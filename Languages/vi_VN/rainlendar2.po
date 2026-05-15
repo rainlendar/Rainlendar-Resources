@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Vietnamese\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2022-03-21 16:01+0200\n"
 "Last-Translator: Phạm Duy Tùng <pduu9661591@gmail.com>\n"
 "Language-Team: \n"
@@ -479,9 +479,6 @@ msgstr "Lưu trữ thể loại tên Tiếng Anh"
 msgid "Custom category icon path"
 msgstr "Tuỳ chỉnh path biểu tượng hạng mục"
 
-msgid "Use antialiased fonts"
-msgstr "Sử dụng tên cửa sổ"
-
 msgid "Count"
 msgstr "Đếm"
 
@@ -580,6 +577,18 @@ msgstr "Ghi nhớ vị trí cửa sổ"
 
 msgid "Font face"
 msgstr "bề mặt Font"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Công cụ kết xuất phông chữ"
 
 msgid "Scaling quality"
 msgstr "Chất lượng mặt độ"
@@ -1163,6 +1172,9 @@ msgstr "Tùy chỉnh"
 msgid "Click 'Customize' button"
 msgstr "Nhấp vào nút 'Tùy chỉnh'"
 
+msgid "No events today"
+msgstr "Không có sự kiện hôm nay"
+
 msgid "Version"
 msgstr "Phiên bản"
 
@@ -1358,6 +1370,9 @@ msgid ""
 msgstr ""
 "Mẹo: Bạn có thể tùy chỉnh trình chỉnh sửa từ Tùy chọn ->Nâng cao ->Tùy chỉnh "
 "các trường của trình chỉnh sửa sự kiện/tác vụ"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "Thay đổi đối với sự kiện định kỳ sẽ áp dụng cho tất cả các trường hợp."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1597,6 +1612,18 @@ msgstr "Không hiển thị lại sau này"
 
 msgid "&OK"
 msgstr "OK"
+
+msgid "Yes"
+msgstr "Đồng ý"
+
+msgid "Yes to All"
+msgstr "Có cho tất cả"
+
+msgid "No"
+msgstr "Không"
+
+msgid "No to All"
+msgstr "Không cho tất cả"
 
 msgid "&Yes"
 msgstr "Đồng ý"
@@ -2032,6 +2059,9 @@ msgstr "In"
 
 msgid "Print items"
 msgstr "In các mục"
+
+msgid "Not Started"
+msgstr "Chưa bắt đầu"
 
 msgid "Settings"
 msgstr "Các thiết lập"
@@ -2713,12 +2743,6 @@ msgstr " OK"
 msgid "&Show log"
 msgstr "Xem bản ghi chú sửa lỗi"
 
-msgid "Yes"
-msgstr "Đồng ý"
-
-msgid "No"
-msgstr "Không"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3237,13 +3261,6 @@ msgstr "Xác định có bao nhiêu lịch được hiển thị theo chiều d�
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Đặt 0 để giấu tên của các ngày trong tuần từ lịch."
-
-msgid "Day background"
-msgstr "Nền ngày"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Kiểm tra để thêm nền vào số ngày để làm cho chúng dễ dàng hơn để nhấp vào."
 
 msgid "Week View"
 msgstr "Xem theo tuần"
@@ -3895,9 +3912,6 @@ msgstr "Thời tiết"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Nếu chọn thì nhiệt độ được hiện dạng độ C ."
 
-msgid "No events today"
-msgstr "Không có sự kiện hôm nay"
-
 msgid "No tasks today"
 msgstr "Không có công việc nào hôm nay"
 
@@ -3952,6 +3966,9 @@ msgstr "Thanh ngày hiển thị văn bản"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Bỏ chọn để ẩn các văn bản khỏi các sự kiện."
 
+msgid "Background"
+msgstr "Lý lịch"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Các màu sắc của văn bản trong lịch và trong danh sách."
 
@@ -3996,6 +4013,21 @@ msgstr "Không có sự kiện"
 
 msgid "No tasks"
 msgstr "Không có công việc"
+
+msgid "1 hour"
+msgstr "1 giờ"
+
+msgid "%i hours"
+msgstr "%i giờ"
+
+msgid "Now"
+msgstr "Ngay bây giờ"
+
+msgid "1 min"
+msgstr "1 phút"
+
+msgid "%i mins"
+msgstr "%i phút"
 
 msgid "Synchronizing"
 msgstr "Đồng bộ"
@@ -4317,9 +4349,6 @@ msgstr "Độ ưu tiên:"
 msgid "Status:"
 msgstr "Hiện trạng:"
 
-msgid "Not Started"
-msgstr "Chưa bắt đầu"
-
 msgid "Progress:"
 msgstr "Tiến trình"
 
@@ -4485,8 +4514,8 @@ msgstr "Mẫu"
 msgid "Show descriptions"
 msgstr "Hiển thị mô tả lịch"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Hiển thị các sự kiện hôm nay trên khay khi Rainlendar được bắt đầu"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Hiển thị các sự kiện của ngày hôm nay khi Rainlendar được bắt đầu"
 
 msgid "Hide list windows if there are no items"
 msgstr "Ẩn cửa sổ nếu không có mục nào"
@@ -4805,6 +4834,9 @@ msgstr "Chỉ bên ngoài"
 
 msgid "Future Only"
 msgstr "Chỉ trong tương lai"
+
+msgid "Don't import birthdays"
+msgstr "Không nhập ngày sinh nhật"
 
 msgid "Color mapping"
 msgstr "Màu sắc vẽ bản đồ"
@@ -5288,8 +5320,27 @@ msgstr "Thư mục ảnh"
 msgid "Poll for changes"
 msgstr "Theo dõi các thay đổi"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Vui lòng nhập địa chỉ email và mật khẩu của bạn cho Toodledo."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Nhập địa chỉ email tài khoản Toodledo của bạn và nhấp vào nút\"Chọn thư "
+"mục\" và chọn danh sách bạn muốn truy cập"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Xác thực thành công.\n"
+"Nhấp vào 'Tiếp theo' để tiếp tục"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Không thể xác thực với Toodledo\n"
+"Vui lòng xác minh rằng email và mật khẩu của bạn là chính xác"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Không thể cài file \"%s\"."

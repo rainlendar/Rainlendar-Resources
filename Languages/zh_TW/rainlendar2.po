@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Evan Lo <evanade@hotmail.com>\n"
 "Language-Team: \n"
@@ -18,11 +18,11 @@ msgid ""
 "application's from starting servers and that there are no other services "
 "running in the same port."
 msgstr ""
-"Rainlendar無法啟動HTTP伺服器以接收OAuth回應驗證您沒有任何阻止應用程式啟動伺服"
-"器的安全軟體，且沒有其他服務在同一端口中運行"
+"Rainlendar無法啟動HTTP伺服器以接收OAuth回應驗證。確認您沒有任何阻止應用程式啟"
+"動伺服器的安全軟體，且沒有其他服務使用相同的連接埠。"
 
 msgid "Server Port: "
-msgstr "服務器端口"
+msgstr "伺服器連接埠"
 
 msgid "Failed to start HTTP server"
 msgstr "無法啟動HTTP伺服器"
@@ -279,7 +279,7 @@ msgid "Low priority"
 msgstr "優先等級：低"
 
 msgid "Created: "
-msgstr "創建："
+msgstr "新建："
 
 msgid "Unknown"
 msgstr "未知"
@@ -467,9 +467,6 @@ msgstr "儲存英文分類名稱"
 msgid "Custom category icon path"
 msgstr "自訂分類圖示檔案路徑"
 
-msgid "Use antialiased fonts"
-msgstr "使用反鋸齒字型"
-
 msgid "Count"
 msgstr "計數"
 
@@ -501,7 +498,7 @@ msgid "Frequency"
 msgstr "頻率"
 
 msgid "Alphabethical"
-msgstr "Alphabethical"
+msgstr "字母順序"
 
 msgid "Previous location list order"
 msgstr "上一個位置清單順序"
@@ -510,10 +507,10 @@ msgid "Default event duration"
 msgstr "預設事件時間"
 
 msgid "Customize event editor fields"
-msgstr "自訂活動編輯器欄位"
+msgstr "自訂事件編輯器欄位"
 
 msgid "Customize task editor fields"
-msgstr "自訂任務編輯器欄位"
+msgstr "自訂工作編輯器欄位"
 
 msgid "Windows"
 msgstr "視窗"
@@ -569,11 +566,23 @@ msgstr "儲存視窗位置"
 msgid "Font face"
 msgstr "字型"
 
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "字體渲染器"
+
 msgid "Scaling quality"
 msgstr "反鋸齒品質"
 
 msgid "Tiny"
-msgstr "簡易風"
+msgstr "迷你"
 
 msgid "Small"
 msgstr "小"
@@ -582,10 +591,10 @@ msgid "Medium"
 msgstr "中"
 
 msgid "Large"
-msgstr "大型"
+msgstr "大"
 
 msgid "Created thumbnail size for attachments"
-msgstr "已建立附件的縮圖大小"
+msgstr "附件的縮圖大小"
 
 msgid "Network"
 msgstr "網路"
@@ -940,7 +949,7 @@ msgid "Choose month"
 msgstr "選擇月份"
 
 msgid "Install license..."
-msgstr "安裝許可證..."
+msgstr "安裝授權..."
 
 msgid "Show debug log"
 msgstr "顯示除錯紀錄"
@@ -1134,19 +1143,22 @@ msgid "Do you want to delete these items?"
 msgstr "您確定要刪除這些項目嗎？"
 
 msgid "The item is read only and cannot be moved."
-msgstr "此項目為讀取式，無法移動。"
+msgstr "唯讀項目，無法移動。"
 
 msgid "Unable to move the item."
 msgstr "無法移動項目。"
 
 msgid "Choose a directory"
-msgstr "選擇一個路徑"
+msgstr "選擇路徑"
 
 msgid "Customize"
 msgstr "自訂"
 
 msgid "Click 'Customize' button"
 msgstr "按一下「自訂」按鈕"
+
+msgid "No events today"
+msgstr "今天沒有任何事件"
 
 msgid "Version"
 msgstr "版本"
@@ -1320,10 +1332,10 @@ msgid "The event is from a read-only calendar."
 msgstr "此事件來自一個唯獨的行事曆。"
 
 msgid "There are no calendars available which can store tasks."
-msgstr "沒有可用於儲存任務的日曆。"
+msgstr "沒有可用於儲存工作的日曆。"
 
 msgid "There are no calendars available which can store events."
-msgstr "沒有可用於儲存活動的日曆。"
+msgstr "沒有可用於儲存事件的日曆。"
 
 msgid "No target calendar has been selected."
 msgstr "沒有選擇目標行事曆。"
@@ -1335,7 +1347,10 @@ msgid ""
 "Tip: You can customize the editor from Options->Advanced->Customize event/"
 "task editor fields."
 msgstr ""
-"提示：您可以從「選項」- >「進階」- >「自訂活動/任務編輯器」欄位自訂編輯器"
+"提示：您可以從「選項」->「進階」->「自訂事件/工作編輯器」欄位自訂編輯器。"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "週期性活動的變更將適用於所有場次。"
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1376,7 +1391,7 @@ msgid "Are you sure you want to delete the task?"
 msgstr "您是否確定要刪除"
 
 msgid "Are you sure you want to delete the event?"
-msgstr "是否確實要刪除此活動？"
+msgstr "是否確實要刪除此事件？"
 
 msgid "Note that all the recurring instances will be deleted."
 msgstr "請注意，所有重複執行個體都將被刪除。"
@@ -1509,10 +1524,10 @@ msgid "Save"
 msgstr "儲存"
 
 msgid "Failed to read the attachment."
-msgstr "無法儲存附件。"
+msgstr "無法讀取附件。"
 
 msgid "Save to a file"
-msgstr "存檔"
+msgstr "儲存檔案"
 
 msgid "Failed to save the attachment."
 msgstr "無法儲存附件。"
@@ -1569,6 +1584,18 @@ msgstr "不再顯示此訊息"
 msgid "&OK"
 msgstr "確定(&O)"
 
+msgid "Yes"
+msgstr "是"
+
+msgid "Yes to All"
+msgstr "&全部是"
+
+msgid "No"
+msgstr "否"
+
+msgid "No to All"
+msgstr "全部否"
+
 msgid "&Yes"
 msgstr "是(&Y)"
 
@@ -1582,13 +1609,13 @@ msgid "Tasks"
 msgstr "工作"
 
 msgid "Show original"
-msgstr "顯示最初的"
+msgstr "循環起始時間"
 
 msgid "Show current"
-msgstr "顯示當期的"
+msgstr "當下循環事件"
 
 msgid "Show upcoming"
-msgstr "顯示即將到來"
+msgstr "未來循環事件"
 
 msgid "New"
 msgstr "新增"
@@ -1603,7 +1630,7 @@ msgid "Move to"
 msgstr "移動到"
 
 msgid "Change fields"
-msgstr "變更欄位"
+msgstr "編輯欄位"
 
 msgid "Import"
 msgstr "匯入"
@@ -1989,6 +2016,9 @@ msgstr "列印"
 msgid "Print items"
 msgstr "列印項目"
 
+msgid "Not Started"
+msgstr "尚未開始"
+
 msgid "Settings"
 msgstr "設定"
 
@@ -2147,11 +2177,11 @@ msgid ""
 "You are still using the Lite version which doesn't include the Pro features. "
 "You need to go to the Rainlendar's download page and get the Pro version."
 msgstr ""
-"您仍在使用的 Lite 版不包含專業版的功能，若需要專業版則請到 Rainlendar 下載頁"
-"面下載。"
+"您使用的 Lite 版並不包含專業版的功能，若需要專業版請到 Rainlendar 下載頁面下"
+"載。"
 
 msgid "&Get Pro"
-msgstr "升級(&G)"
+msgstr "取得專業版(&G)"
 
 msgid "&Ignore"
 msgstr "忽略(&I)"
@@ -2163,7 +2193,7 @@ msgid ""
 msgstr ""
 "如果您下載了 .r2skin 或是 .r2lang 檔案。\n"
 "但是您的瀏覽器下載時變更了檔案格式為 .zip 時。\n"
-"您可以變更檔案的附檔名或是重新下載。"
+"您可以變更檔案的副檔名後再重新匯入。"
 
 msgid "Zip archives cannot be imported to Rainlendar."
 msgstr "Zip 檔案無法匯入到 Rainlendar。"
@@ -2303,7 +2333,7 @@ msgid "Page Down"
 msgstr "Page Down"
 
 msgid "End"
-msgstr "結束"
+msgstr "End"
 
 msgid "Insert"
 msgstr "Insert"
@@ -2318,7 +2348,7 @@ msgid "Edit \"%s\""
 msgstr "編輯 \"%s\""
 
 msgid "Move to next day"
-msgstr "移至下一頁"
+msgstr "移到隔日"
 
 msgid "Dismiss alarm"
 msgstr "解除鬧鈴"
@@ -2642,31 +2672,26 @@ msgstr "確定(&O)"
 msgid "&Show log"
 msgstr "顯示除錯紀錄(&S)"
 
-msgid "Yes"
-msgstr "是"
-
-msgid "No"
-msgstr "否"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
-msgstr "空白檔案一定要使用稅務部 web 輪胎。"
+msgstr "授權檔案無內容。請確認下載授權檔案時的連結是完整的。"
 
 msgid ""
 "The license file is not valid. You have exceeded the number of times the "
 "license can be downloaded. Please contact Rainlendar's support for more "
 "details."
 msgstr ""
-"你的註冊碼無效子商品允許下載的時間。不符合結帳條件，請聯繫支援人員了解詳情。"
+"無效的授權檔案。授權檔案已超過下載次數限制，請聯絡Rainlendar's support了解詳"
+"情。"
 
 msgid ""
 "The license file does not have valid format. Make sure that you are using "
 "correct license file. You can also try to download the file again if the "
 "error persists."
 msgstr ""
-"許可證文件不包含有效的序列號。確保您使用的是正確的裝置。如果您認為輸入的信用"
-"卡信息有誤，可以選擇再次提交訂單。"
+"授權檔案格式錯誤。請確認是否使用正確的授權檔案。如果問題持續發生可以嘗試重新"
+"下載授權檔案。"
 
 msgid "Skin error!"
 msgstr "面板錯誤！"
@@ -2948,7 +2973,7 @@ msgid "Google Tasks"
 msgstr "Google工作表"
 
 msgid "Comma Separated Values"
-msgstr "逗號分隔型取值 (CSV)"
+msgstr "逗號分隔值 (CSV)"
 
 msgid "&Next >"
 msgstr "下一步(&N) >"
@@ -3159,12 +3184,6 @@ msgstr "設定垂直顯示的行事曆數量。"
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "取消勾選則隱藏星期顯示"
-
-msgid "Day background"
-msgstr "日背景"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr "勾選以將背景新增至日期號碼，讓它們更容易點擊。"
 
 msgid "Week View"
 msgstr "週計劃表"
@@ -3779,9 +3798,6 @@ msgstr "攝氏溫標"
 msgid "If checked the temperature is shown in celsius."
 msgstr "勾選以顯示攝氏溫標"
 
-msgid "No events today"
-msgstr "今天沒有任何事件"
-
 msgid "No tasks today"
 msgstr "今天沒有任何工作"
 
@@ -3834,6 +3850,9 @@ msgstr "Day Bar顯示文字"
 msgid "Uncheck to hide the texts from the events."
 msgstr "取消勾選則為隱藏事件文字。"
 
+msgid "Background"
+msgstr "背景"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "行事曆以及清單的文字顏色"
 
@@ -3877,6 +3896,21 @@ msgstr "無事件"
 
 msgid "No tasks"
 msgstr "無工作"
+
+msgid "1 hour"
+msgstr "1 小時"
+
+msgid "%i hours"
+msgstr "%i 時"
+
+msgid "Now"
+msgstr "現在"
+
+msgid "1 min"
+msgstr "1分鐘"
+
+msgid "%i mins"
+msgstr "%i 分"
 
 msgid "Synchronizing"
 msgstr "同步中"
@@ -4044,8 +4078,7 @@ msgstr "沒有允許的 UNC 路徑！"
 msgid ""
 "It's not possible to use UNC paths as the file name. You need to map the "
 "network drive to be able to access the files on a server."
-msgstr ""
-"無法使用 UNC 路徑為檔案名稱。您需要對應網路磁碟機能夠從一個伺服器存取檔案。"
+msgstr "無法使用 UNC 路徑為檔案名稱。您需要可存取伺服器檔案的對應網路磁碟機。"
 
 msgid "No filename defined!"
 msgstr "沒有定義檔案名稱！"
@@ -4193,9 +4226,6 @@ msgstr "優先級："
 msgid "Status:"
 msgstr "狀態："
 
-msgid "Not Started"
-msgstr "尚未開始"
-
 msgid "Progress:"
 msgstr "進度："
 
@@ -4278,13 +4308,13 @@ msgid "Start and end:"
 msgstr "開始和結束日期"
 
 msgid "Sensitivity:"
-msgstr "通知標準"
+msgstr "敏感度"
 
 msgid "Attachment:"
 msgstr "附件："
 
 msgid "Alarms:"
-msgstr "警示："
+msgstr "鬧鈴："
 
 msgid "Debug Window"
 msgstr "除錯視窗"
@@ -4308,7 +4338,7 @@ msgid "Alarms"
 msgstr "鬧鐘"
 
 msgid "Add alarm:"
-msgstr "添加提醒："
+msgstr "增加鬧鈴："
 
 msgid "Misc"
 msgstr "雜項"
@@ -4361,8 +4391,8 @@ msgstr "模板"
 msgid "Show descriptions"
 msgstr "顯示描述"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "當 Rainlendar 啟動時在系統列顯示今日事件"
+msgid "Show today's events when Rainlendar is started"
+msgstr "啟動Rainlendar時顯示今天的活動"
 
 msgid "Hide list windows if there are no items"
 msgstr "若無任何項目則隱藏視窗。"
@@ -4560,7 +4590,7 @@ msgstr "驗證失敗。請確認是否輸入正確的使用者名稱及密碼。
 
 msgid ""
 "Verify also that you are using application specific password for Rainlendar."
-msgstr "確認使用在Rainlendar上的應用程式密碼"
+msgstr "確認使用在Rainlendar上的應用程式密碼。"
 
 msgid "The url \"%s\" does not contain any calendars."
 msgstr "連結 \"%s\" 沒有任何行事曆。"
@@ -4594,37 +4624,37 @@ msgid "FALSE"
 msgstr "失敗"
 
 msgid "Blueberry"
-msgstr "藍莓"
+msgstr "藍莓色"
 
 msgid "Lavender"
 msgstr "薰衣草"
 
 msgid "Peacock"
-msgstr "孔雀"
+msgstr "孔雀藍"
 
 msgid "Sage"
-msgstr "Sage"
+msgstr "鼠尾草綠"
 
 msgid "Basil"
-msgstr "羅勒"
+msgstr "羅勒綠"
 
 msgid "Banana"
-msgstr "香蕉"
+msgstr "香蕉黃"
 
 msgid "Tagnerine"
-msgstr "Tagnerine"
+msgstr "橙橘色"
 
 msgid "Flamingo"
-msgstr "火烈鳥"
+msgstr "紅鶴色"
 
 msgid "Tomato"
-msgstr "番茄"
+msgstr "番茄紅"
 
 msgid "Grape"
-msgstr "葡萄"
+msgstr "葡萄紫"
 
 msgid "Graphite"
-msgstr "石墨"
+msgstr "石墨黑"
 
 msgid "UID"
 msgstr "UID"
@@ -4662,6 +4692,9 @@ msgstr "僅限外部"
 msgid "Future Only"
 msgstr "僅限未來"
 
+msgid "Don't import birthdays"
+msgstr "不要匯入生日"
+
 msgid "Color mapping"
 msgstr "活動顏色對應分類"
 
@@ -4675,10 +4708,10 @@ msgid "Select calendar"
 msgstr "選擇行事曆"
 
 msgid "Unable to read the calendars."
-msgstr "無法讀取行事曆"
+msgstr "無法讀取行事曆。"
 
 msgid "Authentication failed."
-msgstr "驗證失敗"
+msgstr "驗證失敗。"
 
 msgid ""
 "Unable to authenticate to Google.\n"
@@ -4728,7 +4761,7 @@ msgstr ""
 "伺服器傳回訊息: (%i) %i %s."
 
 msgid "Unable to parse the calendar url."
-msgstr "無法解析行事曆網址，"
+msgstr "無法解析行事曆網址。"
 
 msgid ""
 "It seems that you have entered a URL as the calendar name.\n"
@@ -4836,7 +4869,7 @@ msgid ""
 "calendar\" button and choose the calendar you want to access."
 msgstr ""
 "輸入您的Microsoft To Do帳戶電子郵件地址，然後按一下 \"選擇行事曆\"按鈕，然後"
-"選擇您要存取的行事曆"
+"選擇您要存取的行事曆。"
 
 msgid ""
 "Unable to authenticate to Office 365 account.\n"
@@ -4932,7 +4965,7 @@ msgstr "Office 365 錯誤 (%s)！"
 msgid ""
 "The authentication is outdated. Please go to Options->Calendars and run the "
 "authentication again for the calendar."
-msgstr "身份驗證已過期請前往「選項」- >「行事曆」，然後再次為行事曆進行驗證"
+msgstr "身份驗證已過期請前往「選項」- >「行事曆」，然後再次為行事曆進行驗證。"
 
 msgid ""
 "Outlook Error!\n"
@@ -5107,8 +5140,28 @@ msgstr "資料夾"
 msgid "Poll for changes"
 msgstr "監視變更"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "請輸入您Toodledo的電子郵件地址及密碼"
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"輸入您的Toodledo帳戶電子郵件地址，然後點擊「選擇資料夾」按鈕，然後選擇您要存"
+"取的清單"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"驗證成功\n"
+"按一下「下一步」繼續"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"無法向Toodledo驗證\n"
+"請確認您的電子郵件\n"
+"和密碼正確無誤"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "無法開啟 \"%s\" 檔案進行寫入。"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2022-03-21 15:50+0200\n"
 "Last-Translator: İbrahim Çelik <ibrahimcelik89@gmail.com>\n"
 "Language-Team: İbrahim Çelik <ibrahimcelik89@gmail.com>\n"
@@ -469,9 +469,6 @@ msgstr "İngilizce kategori isimlerini sakla"
 msgid "Custom category icon path"
 msgstr "Özel kategori simge konumu"
 
-msgid "Use antialiased fonts"
-msgstr "Düzeltilmiş yazıtipi kullan"
-
 msgid "Count"
 msgstr "Sayma Sayısı"
 
@@ -570,6 +567,18 @@ msgstr "Pencere konumunu kaydet"
 
 msgid "Font face"
 msgstr "Karakter yüzü"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Yazı Tipi Oluşturucu"
 
 msgid "Scaling quality"
 msgstr "Ölçekleme kalitesi"
@@ -1154,6 +1163,9 @@ msgstr "Özelleştir"
 msgid "Click 'Customize' button"
 msgstr "'Özelleştir' düğmesine tıklayın"
 
+msgid "No events today"
+msgstr "Bugün etkinlik yok"
+
 msgid "Version"
 msgstr "Sürüm"
 
@@ -1349,6 +1361,11 @@ msgid ""
 msgstr ""
 "İpucu: Düzenleyiciyi Seçenekler -> Gelişmiş-> Etkinlik/görev düzenleyicisini "
 "özelleştir alanlarından özelleştirebilirsiniz"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr ""
+"Yinelenen etkinlikte yapılan değişiklikler tüm örnekler için geçerli "
+"olacaktır."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1584,6 +1601,18 @@ msgstr "Bunu tekrar gösterme"
 
 msgid "&OK"
 msgstr "&Tamam"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "Yes to All"
+msgstr "Tümüne Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "No to All"
+msgstr "Herkese hayır"
 
 msgid "&Yes"
 msgstr "&Evet"
@@ -2015,6 +2044,9 @@ msgstr "Yazdır"
 
 msgid "Print items"
 msgstr "Öğeleri yazdır"
+
+msgid "Not Started"
+msgstr "Başlamadı"
 
 msgid "Settings"
 msgstr "Ayarlar"
@@ -2680,12 +2712,6 @@ msgstr "&Tamam"
 msgid "&Show log"
 msgstr "&Kaydı göster"
 
-msgid "Yes"
-msgstr "Evet"
-
-msgid "No"
-msgstr "Hayır"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3206,14 +3232,6 @@ msgstr "Pencerede kaç tane takvimin dikey olarak gösterileceğini tanımlar."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Haftanın günlerini takvimden gizlemek için işareti kaldırın."
-
-msgid "Day background"
-msgstr "Gün arkaplanı"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Tıklamaları daha kolay hale getirmek için gün numaralarına arka plan eklemek "
-"için işaretleyin."
 
 msgid "Week View"
 msgstr "Hafta Görünümü"
@@ -3859,9 +3877,6 @@ msgstr "Hava Celsius'u"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Seçilmişse sıcaklık Celsius olarak gösterilir."
 
-msgid "No events today"
-msgstr "Bugün etkinlik yok"
-
 msgid "No tasks today"
 msgstr "Bugün görev yok"
 
@@ -3916,6 +3931,9 @@ msgstr "Gün bar gösterisi metni"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Etkinliklerdeki metinleri gizlemek için işareti kaldırın."
 
+msgid "Background"
+msgstr "Arka plan"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Takvimdeki ve listelerdeki metin rengi."
 
@@ -3959,6 +3977,21 @@ msgstr "Etkinlik yok"
 
 msgid "No tasks"
 msgstr "Yapılacak yok"
+
+msgid "1 hour"
+msgstr "1 saat"
+
+msgid "%i hours"
+msgstr "%i saat"
+
+msgid "Now"
+msgstr "Şimdi"
+
+msgid "1 min"
+msgstr "1 dk"
+
+msgid "%i mins"
+msgstr "%i dakika"
 
 msgid "Synchronizing"
 msgstr "Eşitleniyor"
@@ -4283,9 +4316,6 @@ msgstr "Öncelik:"
 msgid "Status:"
 msgstr "Durum:"
 
-msgid "Not Started"
-msgstr "Başlamadı"
-
 msgid "Progress:"
 msgstr "Tamamlanma:"
 
@@ -4451,8 +4481,8 @@ msgstr "Şablonlar"
 msgid "Show descriptions"
 msgstr "Tanımlamaları göster"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Rainlendar başladığında günün etkinliklerini sistem simgesinde göster"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Rainlendar başladığında bugünün etkinliklerini göster"
 
 msgid "Hide list windows if there are no items"
 msgstr "Öğe yoksa liste pencerelerini gizle"
@@ -4755,6 +4785,9 @@ msgstr "Sadece Harici"
 
 msgid "Future Only"
 msgstr "Sadece Gelecek"
+
+msgid "Don't import birthdays"
+msgstr "Doğum günlerini içe aktarma"
 
 msgid "Color mapping"
 msgstr "Renkli haritalandırma"
@@ -5214,8 +5247,28 @@ msgstr "Klasör"
 msgid "Poll for changes"
 msgstr "Değişiklikler için anket"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Lütfen Toodledo için e-posta adresinizi ve şifrenizi girin."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Toodledo hesabınızın e - posta adresini girin ve \" Klasör seç \" düğmesine "
+"tıklayın ve erişmek istediğiniz listeyi seçin"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Kimlik doğrulama başarılı\n"
+"Devam etmek için 'İleri'ye tıklayın"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Toodledo'ya kimlik doğrulaması yapılamıyor\n"
+"Lütfen e - postanızın\n"
+"ve şifrenizin doğru olduğunu doğrulayın"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Yazma için \"%s\" açılamıyor."

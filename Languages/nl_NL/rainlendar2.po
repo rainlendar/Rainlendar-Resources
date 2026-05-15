@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2023-08-10 10:46+0300\n"
 "Last-Translator: Fokke Post <editor@orcaplaza.nl>\n"
 "Language-Team: Alfred Spijker <http://xinbox.com/alfredspijker>\n"
@@ -472,9 +472,6 @@ msgstr "Engelse categorienamen bewaren"
 msgid "Custom category icon path"
 msgstr "Pad van het aangepaste categoriepictogram"
 
-msgid "Use antialiased fonts"
-msgstr "Lettertypes met antialiasing gebruiken"
-
 msgid "Count"
 msgstr "Aantal"
 
@@ -573,6 +570,18 @@ msgstr "Vensterpositie onthouden"
 
 msgid "Font face"
 msgstr "Lettertype"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Font Renderer"
 
 msgid "Scaling quality"
 msgstr "Schalingskwaliteits"
@@ -1157,6 +1166,9 @@ msgstr "Opmaak"
 msgid "Click 'Customize' button"
 msgstr "Klik op de knop 'Aanpassen'"
 
+msgid "No events today"
+msgstr "Er zijn vandaag geen afspraken"
+
 msgid "Version"
 msgstr "Versie"
 
@@ -1354,6 +1366,11 @@ msgid ""
 msgstr ""
 "Tip: u kunt de editor aanpassen vanuit de velden Opties->Geavanceerd-> "
 "Gebeurtenis-/taakeditor aanpassen"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr ""
+"Wijzigingen in terugkerende gebeurtenissen zijn van toepassing op alle "
+"gevallen."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1593,6 +1610,18 @@ msgstr "Dit niet meer weergeven"
 
 msgid "&OK"
 msgstr "&OK"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Yes to All"
+msgstr "Ja op alles"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "No to All"
+msgstr "Nee op alles"
 
 msgid "&Yes"
 msgstr "&Ja"
@@ -2031,6 +2060,9 @@ msgstr "Afdrukken"
 
 msgid "Print items"
 msgstr "Items afdrukken"
+
+msgid "Not Started"
+msgstr "Niet gestart"
 
 msgid "Settings"
 msgstr "Instellingen"
@@ -2710,12 +2742,6 @@ msgstr "&OK"
 msgid "&Show log"
 msgstr "&Logbestand weergeven"
 
-msgid "Yes"
-msgstr "Ja"
-
-msgid "No"
-msgstr "Nee"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3243,14 +3269,6 @@ msgstr ""
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Uitschakelen om de namen van de weekdagen in de kalender te verbergen."
-
-msgid "Day background"
-msgstr "Dagachtergrond"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Aanvinken om achtergrond toe te voegen aan dagnummers om ze gemakkelijker te "
-"maken om op te klikken."
 
 msgid "Week View"
 msgstr "Weekweergave"
@@ -3899,9 +3917,6 @@ msgstr "Weer Celsius"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Als ingeschakeld dan wordt de temperatuur in Celsius weergegeven."
 
-msgid "No events today"
-msgstr "Er zijn vandaag geen afspraken"
-
 msgid "No tasks today"
 msgstr "Er zijn vandaag geen taken"
 
@@ -3956,6 +3971,9 @@ msgstr "Tekst in dagbalk weergeven"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Uitschakelen om de teksten van de afspraken te verbergen."
 
+msgid "Background"
+msgstr "Aanleiding"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "De tekstkleur in de kalender en de lijsten."
 
@@ -4000,6 +4018,21 @@ msgstr "Geen afspraken"
 
 msgid "No tasks"
 msgstr "Geen taken"
+
+msgid "1 hour"
+msgstr "1 uur"
+
+msgid "%i hours"
+msgstr "%i uur"
+
+msgid "Now"
+msgstr "Nu"
+
+msgid "1 min"
+msgstr "1 min"
+
+msgid "%i mins"
+msgstr "%i minuten"
 
 msgid "Synchronizing"
 msgstr "Bezig met synchroniseren"
@@ -4325,9 +4358,6 @@ msgstr "Prioriteit:"
 msgid "Status:"
 msgstr "Status:"
 
-msgid "Not Started"
-msgstr "Niet gestart"
-
 msgid "Progress:"
 msgstr "Voortgang:"
 
@@ -4493,8 +4523,8 @@ msgstr "Sjablonen"
 msgid "Show descriptions"
 msgstr "Omschrijvingen weergeven"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "De afspraken van vandaag weergeven als Rainlendar wordt gestart"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Toon de evenementen van vandaag wanneer Rainlendar wordt gestart"
 
 msgid "Hide list windows if there are no items"
 msgstr "Lijstvensters verbergen als er geen items zijn"
@@ -4804,6 +4834,9 @@ msgstr "Alleen extern"
 
 msgid "Future Only"
 msgstr "Alleen in de toekomst"
+
+msgid "Don't import birthdays"
+msgstr "Verjaardagen niet importeren"
 
 msgid "Color mapping"
 msgstr "Kleurentoewijzing"
@@ -5279,8 +5312,28 @@ msgstr "Map"
 msgid "Poll for changes"
 msgstr "Op wijzigingen controleren"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Voer uw e-mailadres en wachtwoord voor Toodledo in."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Voer het e-mailadres van uw Toodledo-account in en klik op de knop\"Map "
+"selecteren\" en kies de lijst die u wilt openen"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Authenticatie geslaagd\n"
+"Klik op 'Volgende' om door te gaan"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Kan niet authenticeren bij Toodledo\n"
+"Verifieer of uw e-mailadres\n"
+"en wachtwoord correct zijn"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Kon het bestand \"%s\" niet openen om te schrijven."

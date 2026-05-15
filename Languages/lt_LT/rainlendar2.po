@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Railendar v2.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Alvidas Balskus <alvidas@mail.com>\n"
 "Language-Team: \n"
@@ -470,9 +470,6 @@ msgstr "Palikti angliškus kategorijų pavadinimus"
 msgid "Custom category icon path"
 msgstr "Individualios kategorijos ikonos kelias"
 
-msgid "Use antialiased fonts"
-msgstr "Naudoti glodintus šriftus"
-
 msgid "Count"
 msgstr "Skaičiuoti"
 
@@ -571,6 +568,18 @@ msgstr "Išsaugoti lango poziciją"
 
 msgid "Font face"
 msgstr "Šriftas"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Šriftų generatorius"
 
 msgid "Scaling quality"
 msgstr "Kokybės padala"
@@ -1156,6 +1165,9 @@ msgstr "Tinkinti"
 msgid "Click 'Customize' button"
 msgstr "Spustelėkite mygtuką „Tinkinti“"
 
+msgid "No events today"
+msgstr "Šiandien įvykių nėra"
+
 msgid "Version"
 msgstr "Versija"
 
@@ -1349,6 +1361,9 @@ msgid ""
 msgstr ""
 "Patarimas: Redaktorių galite tinkinti iš Parinktys- >Išplėstinės->Tinkinti "
 "įvykių/užduočių redaktoriaus laukus"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "Pasikartojančio įvykio pakeitimai bus taikomi visiems atvejams."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1583,6 +1598,18 @@ msgstr "Daugiau nerodyti"
 
 msgid "&OK"
 msgstr "&Gerai"
+
+msgid "Yes"
+msgstr "Taip"
+
+msgid "Yes to All"
+msgstr "Į viską - 'taip'"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No to All"
+msgstr "Ne viskam"
 
 msgid "&Yes"
 msgstr "&Taip"
@@ -2016,6 +2043,9 @@ msgstr "Spausdinti"
 
 msgid "Print items"
 msgstr "Spausdinti bylą"
+
+msgid "Not Started"
+msgstr "Nepradėta"
 
 msgid "Settings"
 msgstr "Parametrai"
@@ -2685,12 +2715,6 @@ msgstr "&Gerai"
 msgid "&Show log"
 msgstr "&Rodyti žurnalą"
 
-msgid "Yes"
-msgstr "Taip"
-
-msgid "No"
-msgstr "Ne"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3216,14 +3240,6 @@ msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr ""
 "Nuimkite varnelę norėdami paslėpti savaitės dienų pavadinimai iš "
 "kalendoriaus."
-
-msgid "Day background"
-msgstr "Dienos fonas"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Pažymėkite, jei norite pridėti foną prie dienos numerių, kad juos būtų "
-"lengviau spustelėti."
 
 msgid "Week View"
 msgstr "Savaitės peržiūra"
@@ -3862,9 +3878,6 @@ msgstr "Orai pagal celsijų"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Jei pažymėta, temperatūra rodoma Celsijaus skalėje."
 
-msgid "No events today"
-msgstr "Šiandien įvykių nėra"
-
 msgid "No tasks today"
 msgstr "Šiandien užduočių nėra"
 
@@ -3917,6 +3930,9 @@ msgstr "Dienos juostos rodymo tekstas"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Panaikinkite žymėjimą, jei norite paslėpti tekstus nuo įvykių."
 
+msgid "Background"
+msgstr "Fonas"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Teksto spalva kalendoriuje ir sąraše."
 
@@ -3960,6 +3976,21 @@ msgstr "Nėra įvykių"
 
 msgid "No tasks"
 msgstr "Nėra užduočių"
+
+msgid "1 hour"
+msgstr "1 valanda"
+
+msgid "%i hours"
+msgstr "%i valandų"
+
+msgid "Now"
+msgstr "Dabar"
+
+msgid "1 min"
+msgstr "1 min"
+
+msgid "%i mins"
+msgstr "%i minučių"
 
 msgid "Synchronizing"
 msgstr "Sinchronizuojama"
@@ -4282,9 +4313,6 @@ msgstr "Prioritetas:"
 msgid "Status:"
 msgstr "Būsena:"
 
-msgid "Not Started"
-msgstr "Nepradėta"
-
 msgid "Progress:"
 msgstr "Progresas:"
 
@@ -4450,8 +4478,8 @@ msgstr "Šablonai"
 msgid "Show descriptions"
 msgstr "Rodyti aprašymus"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Rodyti šios dienos įvykius dėkle, kai paleidžiamas lietus"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Rodyti šiandienos įvykius, kai paleidžiamas „Rainlendar“"
 
 msgid "Hide list windows if there are no items"
 msgstr "Paslėpti sąrašo langą, jei jame nėra jokių elementų"
@@ -4758,6 +4786,9 @@ msgstr "Tik išorinis"
 
 msgid "Future Only"
 msgstr "Tik ateitis"
+
+msgid "Don't import birthdays"
+msgstr "Neimportuoti gimtadienių"
 
 msgid "Color mapping"
 msgstr "Spalvų žemėlapis"
@@ -5234,8 +5265,28 @@ msgstr "Katalogas"
 msgid "Poll for changes"
 msgstr "Pakeitimų apklausa"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Prašome įvesti savo elektroninio pašto adresą ir slaptažodį Toodledo."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Įveskite Toodledo paskyros el. pašto adresą, spustelėkite "
+"mygtuką\"Pasirinkti aplanką\" ir pasirinkite sąrašą, kurį norite pasiekti"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Autentifikavimas sėkmingas\n"
+"Norėdami tęsti, spustelėkite „Toliau“"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Nepavyko autentifikuoti „Toodledo“\n"
+"Patikrinkite, ar el. pašto adresas\n"
+"ir slaptažodis teisingi"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Nepavyko atidaryto failo \"%s\" įrašymui."

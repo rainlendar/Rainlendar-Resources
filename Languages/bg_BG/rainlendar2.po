@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2024-05-31 12:45+0300\n"
 "Last-Translator: Anton Angov <ant0nski@abv.bg>\n"
 "Language-Team: \n"
@@ -471,9 +471,6 @@ msgstr "Запазвай категории с имена на английск�
 msgid "Custom category icon path"
 msgstr "Път към иконата на персонализирана категория"
 
-msgid "Use antialiased fonts"
-msgstr "Използвай загладени шрифтове"
-
 msgid "Count"
 msgstr "Брой"
 
@@ -572,6 +569,18 @@ msgstr "Запази позицията на прозореца"
 
 msgid "Font face"
 msgstr "Лице на шрифта"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Изобразяване на шрифтове"
 
 msgid "Scaling quality"
 msgstr "Качество на мащабирането"
@@ -1157,6 +1166,9 @@ msgstr "Настройки"
 msgid "Click 'Customize' button"
 msgstr "Щракнете върху бутона „Персонализиране“"
 
+msgid "No events today"
+msgstr "Няма събития за днес"
+
 msgid "Version"
 msgstr "Версия"
 
@@ -1352,6 +1364,9 @@ msgid ""
 msgstr ""
 "Съвет: Можете да персонализирате редактора от Опции ->Разширени -"
 ">Персонализиране на полета за редактор на събития/задачи"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "Промените в повтарящото се събитие ще важат за всички случаи."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1587,6 +1602,18 @@ msgstr "Не показвай това повече"
 
 msgid "&OK"
 msgstr "OK"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Yes to All"
+msgstr "Да на всички"
+
+msgid "No"
+msgstr "Не"
+
+msgid "No to All"
+msgstr "Не на всички"
 
 msgid "&Yes"
 msgstr "Да"
@@ -2023,6 +2050,9 @@ msgstr "Отпечатай"
 
 msgid "Print items"
 msgstr "Отпечатай обектите"
+
+msgid "Not Started"
+msgstr "Незапочнато"
 
 msgid "Settings"
 msgstr "Настройки"
@@ -2702,12 +2732,6 @@ msgstr "Да"
 msgid "&Show log"
 msgstr "Покажи дневника"
 
-msgid "Yes"
-msgstr "Да"
-
-msgid "No"
-msgstr "Не"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3231,14 +3255,6 @@ msgstr "Определя колко календара да се показва�
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Махнете отметката за да се скрият номерата на седмиците в календара."
-
-msgid "Day background"
-msgstr "Дневен фон"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Поставете отметка, за да добавите фон към номерата на дните, за да ги "
-"направите по - лесни за кликване."
 
 msgid "Week View"
 msgstr "Седмичен изглед"
@@ -3881,9 +3897,6 @@ msgstr "Времето по целзий"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Ако е маркирано, температурата се показва в градуси по Целзий."
 
-msgid "No events today"
-msgstr "Няма събития за днес"
-
 msgid "No tasks today"
 msgstr "Няма задачи за днес"
 
@@ -3938,6 +3951,9 @@ msgstr "Текст на дневната лента"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Премахнете отметката, за да скриете текстовете от събитията."
 
+msgid "Background"
+msgstr "Контекст"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Цветът на текста в календара и в списъците."
 
@@ -3982,6 +3998,21 @@ msgstr "Няма събития"
 
 msgid "No tasks"
 msgstr "Няма задачи"
+
+msgid "1 hour"
+msgstr "1 час"
+
+msgid "%i hours"
+msgstr "%i hours"
+
+msgid "Now"
+msgstr "Веднага"
+
+msgid "1 min"
+msgstr "1 мин."
+
+msgid "%i mins"
+msgstr "%i mins"
 
 msgid "Synchronizing"
 msgstr "Синхронизиране"
@@ -4306,9 +4337,6 @@ msgstr "Приоритет:"
 msgid "Status:"
 msgstr "Статус:"
 
-msgid "Not Started"
-msgstr "Незапочнато"
-
 msgid "Progress:"
 msgstr "Напредък:"
 
@@ -4474,8 +4502,8 @@ msgstr "Създадено на:"
 msgid "Show descriptions"
 msgstr "Покажи описания"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Показване на днешните събития в таблата при стартиране на Rainlendar"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Показване на днешните събития при стартиране на Rainlendar"
 
 msgid "Hide list windows if there are no items"
 msgstr "Не показвай прозорците със списъци ако в тях няма обекти"
@@ -4785,6 +4813,9 @@ msgstr "Само външни"
 
 msgid "Future Only"
 msgstr "Само в бъдеще"
+
+msgid "Don't import birthdays"
+msgstr "Не импортирайте рождени дни"
 
 msgid "Color mapping"
 msgstr "Трансформиране на цвят"
@@ -5261,8 +5292,27 @@ msgstr "Папка"
 msgid "Poll for changes"
 msgstr "Анкета за промени"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Моля въведете адреса на електронната ви поща и паролата за Toodledo."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Въведете имейл адреса на акаунта си в Toodledo и щракнете върху бутона \" "
+"Избор на папка \" и изберете списъка, до който искате да получите достъп"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Удостоверяването е успешно\n"
+"Кликнете върху „Напред “, за да продължите"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Неуспешно удостоверяване на автентичността на Toodledo\n"
+"Уверете се, че имейлът и паролата ви са правилни"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Файла  \"%s\" не може да се отвори за писане."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar v2.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2022-03-18 12:56+0200\n"
 "Last-Translator: Fatur <faturslime@gmail.com>\n"
 "Language-Team: art <art8558>\n"
@@ -469,9 +469,6 @@ msgstr "Simpan nama kategori inggris"
 msgid "Custom category icon path"
 msgstr "Lokasi ikon katagori khusus"
 
-msgid "Use antialiased fonts"
-msgstr "Pakai huruf termuluskan (anti-aliased)"
-
 msgid "Count"
 msgstr "Hitung"
 
@@ -570,6 +567,18 @@ msgstr "Simpan posisi jendela"
 
 msgid "Font face"
 msgstr "Wajah Font"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Perender Fonta"
 
 msgid "Scaling quality"
 msgstr "Kualitas penskalaan"
@@ -1155,6 +1164,9 @@ msgstr "Sesuaikan"
 msgid "Click 'Customize' button"
 msgstr "Klik tombol 'Sesuaikan'"
 
+msgid "No events today"
+msgstr "Tidak ada acara hari ini"
+
 msgid "Version"
 msgstr "Versi"
 
@@ -1351,6 +1363,9 @@ msgid ""
 msgstr ""
 "Kiat: Anda dapat menyesuaikan editor dari Opsi->Lanjutan->Sesuaikan bidang "
 "editor acara/tugas"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "Perubahan pada kejadian berulang akan berlaku untuk semua kejadian."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1588,6 +1603,18 @@ msgstr "Jangan tampilkan ini lagi"
 
 msgid "&OK"
 msgstr "&OK"
+
+msgid "Yes"
+msgstr "Ya"
+
+msgid "Yes to All"
+msgstr "Ya untuk Semua"
+
+msgid "No"
+msgstr "Tidak"
+
+msgid "No to All"
+msgstr "Tidak untuk Semua"
 
 msgid "&Yes"
 msgstr "&Ya"
@@ -2022,6 +2049,9 @@ msgstr "Cetak"
 
 msgid "Print items"
 msgstr "Cetak item"
+
+msgid "Not Started"
+msgstr "Belum Dimulai"
 
 msgid "Settings"
 msgstr "Pengaturan"
@@ -2689,12 +2719,6 @@ msgstr "&Ok"
 msgid "&Show log"
 msgstr "&Perlihatkan log"
 
-msgid "Yes"
-msgstr "Ya"
-
-msgid "No"
-msgstr "Tidak"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3219,14 +3243,6 @@ msgstr "Tetapkan banyak kalendar yang ditampilkan vertikal pada jendela."
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr ""
 "Buang centang untuk sembunyikan nama hari dalam seminggu dari kalender."
-
-msgid "Day background"
-msgstr "Latar belakang hari"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Periksa untuk menambahkan latar belakang ke nomor hari agar lebih mudah "
-"diklik."
 
 msgid "Week View"
 msgstr "Tampilan Mingguan"
@@ -3859,9 +3875,6 @@ msgstr "Cuaca Celcius"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Jika dicek suhunya ditunjukkan dalam celcius."
 
-msgid "No events today"
-msgstr "Tidak ada acara hari ini"
-
 msgid "No tasks today"
 msgstr "Tidak ada tugas hari ini"
 
@@ -3915,6 +3928,9 @@ msgstr "Bilah hari menampilkan teks"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Hapus centang untuk menyembunyikan teks dari peristiwa."
 
+msgid "Background"
+msgstr "Latar Belakang"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Warna teks kalender dan daftar."
 
@@ -3959,6 +3975,21 @@ msgstr "Tak Ada Acara"
 
 msgid "No tasks"
 msgstr "Tidak ada tugas"
+
+msgid "1 hour"
+msgstr "1 jam"
+
+msgid "%i hours"
+msgstr "%i jam"
+
+msgid "Now"
+msgstr "Sekarang"
+
+msgid "1 min"
+msgstr "1 mnt"
+
+msgid "%i mins"
+msgstr "%i menit"
 
 msgid "Synchronizing"
 msgstr "Sinkronisasi"
@@ -4280,9 +4311,6 @@ msgstr "Prioritas:"
 msgid "Status:"
 msgstr "Status:"
 
-msgid "Not Started"
-msgstr "Belum Dimulai"
-
 msgid "Progress:"
 msgstr "Pelaksanaan:"
 
@@ -4448,9 +4476,8 @@ msgstr "Templat"
 msgid "Show descriptions"
 msgstr "Tampilkan deskripsi"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr ""
-"Menampilkan kegiatan hari ini di system tray pada saat Rainlendar dijalankan"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Tampilkan acara hari ini saat Rainlendar dimulai"
 
 msgid "Hide list windows if there are no items"
 msgstr "Sembunyikan jendela daftar jika tak berisi item"
@@ -4754,6 +4781,9 @@ msgstr "Hanya Eksternal"
 
 msgid "Future Only"
 msgstr "Hanya Masa Depan"
+
+msgid "Don't import birthdays"
+msgstr "Jangan mengimpor ulang tahun"
 
 msgid "Color mapping"
 msgstr "Pemetaan warna"
@@ -5217,8 +5247,28 @@ msgstr "Map"
 msgid "Poll for changes"
 msgstr "Pemungutan suara untuk perubahan"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Silakan masukkan alamat email dan kata sandi Anda untuk Toodledo."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Masukkan alamat email akun Toodledo Anda dan klik tombol \" Pilih folder \" "
+"dan pilih daftar yang ingin Anda akses"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Autentikasi berhasil\n"
+"Klik 'Berikutnya' untuk melanjutkan"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Tidak dapat mengautentikasi ke Toodledo\n"
+"Pastikan email\n"
+"dan kata sandi Anda sudah benar"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Tak bisa membuka berkas \"%s\" untuk penulisan."

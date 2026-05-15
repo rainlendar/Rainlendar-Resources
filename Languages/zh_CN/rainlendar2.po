@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.13\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2022-03-21 16:02+0200\n"
 "Last-Translator: cus08 <yhyx49@yahoo.com.cn>\n"
 "Language-Team: JOYSUM <jinhong@pobaby.com>\n"
@@ -472,9 +472,6 @@ msgstr "保存时使用英文分类名称"
 msgid "Custom category icon path"
 msgstr "自定义分类图标路径"
 
-msgid "Use antialiased fonts"
-msgstr "使用反锯齿字型"
-
 msgid "Count"
 msgstr "计数"
 
@@ -573,6 +570,18 @@ msgstr "保存窗口位置"
 
 msgid "Font face"
 msgstr "字体"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "字体渲染器"
 
 msgid "Scaling quality"
 msgstr "优先级"
@@ -1153,6 +1162,9 @@ msgstr "自定义"
 msgid "Click 'Customize' button"
 msgstr "点击“自定义”按钮"
 
+msgid "No events today"
+msgstr "今天没有事件"
+
 msgid "Version"
 msgstr "版本："
 
@@ -1340,6 +1352,9 @@ msgid ""
 "Tip: You can customize the editor from Options->Advanced->Customize event/"
 "task editor fields."
 msgstr "提示：您可以从选项- >高级- >自定义事件/任务编辑器字段自定义编辑器"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "对定期事件的更改将应用于所有实例。"
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1571,6 +1586,18 @@ msgstr "不再显示此信息"
 
 msgid "&OK"
 msgstr "确定(&O)"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Yes to All"
+msgstr "全部确认"
+
+msgid "No"
+msgstr "否"
+
+msgid "No to All"
+msgstr "全部取消"
 
 msgid "&Yes"
 msgstr "是(&Y)"
@@ -1989,6 +2016,9 @@ msgstr "打印"
 
 msgid "Print items"
 msgstr "打印记录"
+
+msgid "Not Started"
+msgstr "未开始"
 
 msgid "Settings"
 msgstr "设置"
@@ -2642,12 +2672,6 @@ msgstr "确定(&O)"
 msgid "&Show log"
 msgstr "显示侦错日志(&S)"
 
-msgid "Yes"
-msgstr "是"
-
-msgid "No"
-msgstr "否"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3154,12 +3178,6 @@ msgstr "设置竖向显示的日历数。"
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "不勾选则隐藏日历窗口中的星期名称。"
-
-msgid "Day background"
-msgstr "日期背景色"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr "选中此选项可将背景添加到日期编号，使其更易于单击。"
 
 msgid "Week View"
 msgstr "周行程表"
@@ -3774,9 +3792,6 @@ msgstr "天气摄氏度"
 msgid "If checked the temperature is shown in celsius."
 msgstr "如果选中温度以摄氏度显示。"
 
-msgid "No events today"
-msgstr "今天没有事件"
-
 msgid "No tasks today"
 msgstr "今天没有任务"
 
@@ -3829,6 +3844,9 @@ msgstr "日栏中显示文本"
 msgid "Uncheck to hide the texts from the events."
 msgstr "取消选中以隐藏事件中的文本。"
 
+msgid "Background"
+msgstr "背景技术"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "日历和列表中的文字颜色。"
 
@@ -3872,6 +3890,21 @@ msgstr "没有事件"
 
 msgid "No tasks"
 msgstr "没有任务"
+
+msgid "1 hour"
+msgstr "1小时"
+
+msgid "%i hours"
+msgstr "%i 小时"
+
+msgid "Now"
+msgstr "正在播出"
+
+msgid "1 min"
+msgstr "1分钟 "
+
+msgid "%i mins"
+msgstr "%i 分钟"
 
 msgid "Synchronizing"
 msgstr "同步中"
@@ -4186,9 +4219,6 @@ msgstr "优先级："
 msgid "Status:"
 msgstr "状态："
 
-msgid "Not Started"
-msgstr "未开始"
-
 msgid "Progress:"
 msgstr "进度："
 
@@ -4354,8 +4384,8 @@ msgstr "模板站点"
 msgid "Show descriptions"
 msgstr "显示说明"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "启动 Rainlendar 时，在系统托盘处显示今日事件"
+msgid "Show today's events when Rainlendar is started"
+msgstr "在Rainlendar启动时显示今天的事件"
 
 msgid "Hide list windows if there are no items"
 msgstr "无内容时隐藏该列表窗口"
@@ -4654,6 +4684,9 @@ msgstr "仅限外部"
 
 msgid "Future Only"
 msgstr "仅限未来"
+
+msgid "Don't import birthdays"
+msgstr "不导入生日"
 
 msgid "Color mapping"
 msgstr "颜色映射"
@@ -5096,8 +5129,28 @@ msgstr "文件夹"
 msgid "Poll for changes"
 msgstr "监视变更"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "请输入您Toodledo的电子邮件地址及密码"
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"输入您的Toodledo帐户电子邮件地址，然后单击“选择文件夹”按钮，然后选择您要访问"
+"的列表"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"认证成功。\n"
+"单击“下一步”继续"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"无法向Toodledo进行身份验证\n"
+"请验证您的电子邮箱\n"
+"和密码是否正确"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "无法开启 \"%s\" 档案进行写入。"

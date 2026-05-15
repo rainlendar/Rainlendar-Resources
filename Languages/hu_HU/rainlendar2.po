@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.17\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Egyed Ferenc <efi99@freemail.hu>\n"
 "Language-Team: Kovács Tibor <ktibor33@t-online.hu>\n"
@@ -470,9 +470,6 @@ msgstr "Naptárfájl mentéskor a kategóriák angol nevét mentse"
 msgid "Custom category icon path"
 msgstr "Egyéni kategória-ikon elérési útja"
 
-msgid "Use antialiased fonts"
-msgstr "Élsimított betűtípus használata"
-
 msgid "Count"
 msgstr "Számol"
 
@@ -571,6 +568,18 @@ msgstr "Ablakpozíció mentése"
 
 msgid "Font face"
 msgstr "Betűtípus"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Betűtípus-leképező"
 
 msgid "Scaling quality"
 msgstr "Minőségi méretezés"
@@ -1157,6 +1166,9 @@ msgstr "Testreszabás"
 msgid "Click 'Customize' button"
 msgstr "Kattints a „Testreszabás” gombra"
 
+msgid "No events today"
+msgstr "Ma nincs esemény"
+
 msgid "Version"
 msgstr "Verzió"
 
@@ -1352,6 +1364,9 @@ msgid ""
 msgstr ""
 "Tipp: A szerkesztőt testreszabhatja az Opciók->Speciális-> Esemény-/"
 "feladatszerkesztő mezőkben"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "Az ismétlődő esemény módosításai minden esetre vonatkoznak."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1592,6 +1607,18 @@ msgstr "Ne mutassa ezt újra"
 
 msgid "&OK"
 msgstr "&OK"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "Yes to All"
+msgstr "Igen, mindet"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "No to All"
+msgstr "Egyiket sem"
 
 msgid "&Yes"
 msgstr "&Igen"
@@ -2023,6 +2050,9 @@ msgstr "Nyomtatás"
 
 msgid "Print items"
 msgstr "Elemek nyomtatása"
+
+msgid "Not Started"
+msgstr "Nem kezdődött el"
 
 msgid "Settings"
 msgstr "Beállítások"
@@ -2697,12 +2727,6 @@ msgstr "&Ok"
 msgid "&Show log"
 msgstr "&Hibanapló megjelenítése"
 
-msgid "Yes"
-msgstr "Igen"
-
-msgid "No"
-msgstr "Nem"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3223,14 +3247,6 @@ msgstr "Megadja, hogy hány naptár jelenik meg függőlegesen az ablakban."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "A naptáron a hét napjai nevének elrejtéséhez vegye ki a pipát! "
-
-msgid "Day background"
-msgstr "Nap háttere"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Jelölje be, ha háttérszámot szeretne hozzáadni a napi számokhoz, hogy azok "
-"könnyebben kattinthatók legyenek."
 
 msgid "Week View"
 msgstr "Hét nézet"
@@ -3869,9 +3885,6 @@ msgstr "Hőmérsélklet Celsius fokban"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Bejelölve a hőmérséklet Celsiusban jelenik meg."
 
-msgid "No events today"
-msgstr "Ma nincs esemény"
-
 msgid "No tasks today"
 msgstr "Mára nincsenek feladatok"
 
@@ -3924,6 +3937,9 @@ msgstr "A Napok sáv mutasson szöveget"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Az események szövegének elrejtéséhez vegye ki a pipát."
 
+msgid "Background"
+msgstr "Előzmények"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "A szöveg színe a naptárban és a listákban."
 
@@ -3967,6 +3983,21 @@ msgstr "Nincsenek események"
 
 msgid "No tasks"
 msgstr "Nincsenek feladatok"
+
+msgid "1 hour"
+msgstr "1 óra"
+
+msgid "%i hours"
+msgstr "%i óra"
+
+msgid "Now"
+msgstr "Most"
+
+msgid "1 min"
+msgstr "1 perc"
+
+msgid "%i mins"
+msgstr "%i perc"
 
 msgid "Synchronizing"
 msgstr "Szinkronizálás"
@@ -4290,9 +4321,6 @@ msgstr "Prioritás:"
 msgid "Status:"
 msgstr "Állapot:"
 
-msgid "Not Started"
-msgstr "Nem kezdődött el"
-
 msgid "Progress:"
 msgstr "Feldolgozottság:"
 
@@ -4458,8 +4486,8 @@ msgstr "Sablonok"
 msgid "Show descriptions"
 msgstr "Jelenjen meg az elemek leírása"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Mai események megjelenítése a tálcán Rainlendar indításakor"
+msgid "Show today's events when Rainlendar is started"
+msgstr "A mai események megjelenítése a Rainlendar indításakor"
 
 msgid "Hide list windows if there are no items"
 msgstr "Listaablakok elrejtése, ha nincsenek elemek"
@@ -4766,6 +4794,9 @@ msgstr "Csak külső"
 
 msgid "Future Only"
 msgstr "Csak jövőbeli"
+
+msgid "Don't import birthdays"
+msgstr "Ne importáld a születésnapokat"
 
 msgid "Color mapping"
 msgstr "Szinezés"
@@ -5236,8 +5267,28 @@ msgstr "Mappa"
 msgid "Poll for changes"
 msgstr "Változások figyelése"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Kérjük, adja meg e-mail címét és jelszavát Toodledo számára."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Add meg a Toodledo-fiókod e-mail-címét, kattints a \"Mappa kiválasztása\" "
+"gombra, és válaszd ki a listát, amelyhez hozzá szeretnél férni"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Sikeres hitelesítés\n"
+"A folytatáshoz kattintson a 'Tovább' gombra"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Nem lehet hitelesíteni a Toodledo-ba\n"
+"Ellenőrizze, hogy e-mail-címe\n"
+"és jelszava helyes-e"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Nem lehet megnyitni a fájlt \"%s\" szerkesztésre."

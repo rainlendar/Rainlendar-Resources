@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2022-03-21 15:40+0200\n"
 "Last-Translator: Yuki Shira <shirayuking@gmail.com>\n"
 "Language-Team: Yuki Shira\n"
@@ -473,9 +473,6 @@ msgstr "英語のカテゴリ名を保存"
 msgid "Custom category icon path"
 msgstr "カテゴリ アイコンのパスのカスタマイズ"
 
-msgid "Use antialiased fonts"
-msgstr "フォントのアンチエイリアスを使用"
-
 msgid "Count"
 msgstr "年数"
 
@@ -574,6 +571,18 @@ msgstr "ウィンドウ位置を保存"
 
 msgid "Font face"
 msgstr "フォント名"
+
+msgid "Direct2D"
+msgstr "Direct 2 D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "フォントレンダラー"
 
 msgid "Scaling quality"
 msgstr "スケーリング品質"
@@ -1154,6 +1163,9 @@ msgstr "カスタマイズ"
 msgid "Click 'Customize' button"
 msgstr "「カスタマイズ」ボタンをクリックします"
 
+msgid "No events today"
+msgstr "今日のイベントはありません"
+
 msgid "Version"
 msgstr "バージョン"
 
@@ -1350,6 +1362,9 @@ msgid ""
 msgstr ""
 "ヒント：エディターは、[オプション] -> [詳細設定] -> [イベント/タスクエディ"
 "ターフィールドのカスタマイズ]からカスタマイズできます"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "定期的なイベントへの変更はすべてのインスタンスに適用されます。"
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1585,6 +1600,18 @@ msgstr "今後これを表示しない"
 
 msgid "&OK"
 msgstr "&OK"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "Yes to All"
+msgstr "すべてはい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "No to All"
+msgstr "全員にノー"
 
 msgid "&Yes"
 msgstr "はい(&Y)"
@@ -2011,6 +2038,9 @@ msgstr "印刷"
 
 msgid "Print items"
 msgstr "項目を印刷"
+
+msgid "Not Started"
+msgstr "未開始"
 
 msgid "Settings"
 msgstr "設定"
@@ -2680,12 +2710,6 @@ msgstr "&OK"
 msgid "&Show log"
 msgstr "ログを表示(&S)"
 
-msgid "Yes"
-msgstr "はい"
-
-msgid "No"
-msgstr "いいえ"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3202,14 +3226,6 @@ msgstr "ウィンドウ内に縦方向に表示するカレンダー数を指定
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "カレンダーの曜日を隠すにはチェックを OFF にします。"
-
-msgid "Day background"
-msgstr "日の背景"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"日付番号に背景を追加してクリックしやすくするには、チェックボックスをオンにし"
-"ます。"
 
 msgid "Week View"
 msgstr "週表示"
@@ -3839,9 +3855,6 @@ msgstr "天気の℃"
 msgid "If checked the temperature is shown in celsius."
 msgstr "温度を℃で表示するにはチェックしてください。"
 
-msgid "No events today"
-msgstr "今日のイベントはありません"
-
 msgid "No tasks today"
 msgstr "今日のタスクはありません"
 
@@ -3894,6 +3907,9 @@ msgstr "デイバー表示テキスト"
 msgid "Uncheck to hide the texts from the events."
 msgstr "イベントからテキストを非表示にするには、チェックを外します。"
 
+msgid "Background"
+msgstr "背景"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "カレンダーやリストの文字色です。"
 
@@ -3937,6 +3953,21 @@ msgstr "イベントはありません"
 
 msgid "No tasks"
 msgstr "タスクはありません"
+
+msgid "1 hour"
+msgstr "1時間"
+
+msgid "%i hours"
+msgstr "%i 時間"
+
+msgid "Now"
+msgstr "今"
+
+msgid "1 min"
+msgstr "1 分"
+
+msgid "%i mins"
+msgstr "%i 分"
 
 msgid "Synchronizing"
 msgstr "同期中"
@@ -4261,9 +4292,6 @@ msgstr "優先度:"
 msgid "Status:"
 msgstr "状態:"
 
-msgid "Not Started"
-msgstr "未開始"
-
 msgid "Progress:"
 msgstr "進捗:"
 
@@ -4429,8 +4457,8 @@ msgstr "テンプレート"
 msgid "Show descriptions"
 msgstr "説明を表示"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Rainlendar の起動時にトレイに今日のイベントを表示"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Rainlendarが開始されたときに今日のイベントを表示する"
 
 msgid "Hide list windows if there are no items"
 msgstr "項目がない場合はリスト ウィンドウを隠す"
@@ -4736,6 +4764,9 @@ msgstr "外部リンクのみ"
 
 msgid "Future Only"
 msgstr "先のみ"
+
+msgid "Don't import birthdays"
+msgstr "誕生日をインポートしない"
 
 msgid "Color mapping"
 msgstr "カラーマッピング"
@@ -5204,10 +5235,28 @@ msgstr "フォルダー"
 msgid "Poll for changes"
 msgstr "変更を監視"
 
-msgid "Please enter your email address and password for Toodledo."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
 msgstr ""
-"Toodledo にログインするメール アドレスと\n"
-"パスワードを入力してください。"
+"Toodledoアカウントのメールアドレスを入力し、「フォルダを選択」ボタンをクリッ"
+"クして、アクセスしたいリストを選択します"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"認証に成功しました\n"
+"「次へ」をクリックして続行"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Toodledoへの認証ができません\n"
+"メールアドレス\n"
+"とパスワードが正しいことを確認してください"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "書き込み用にファイルを開くことができません: \"%s\""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 12:38+0300\n"
+"POT-Creation-Date: 2026-05-15 10:26+0300\n"
 "PO-Revision-Date: 2023-08-10 10:46+0300\n"
 "Last-Translator: Øistein Rian <oistein@badtown.no>\n"
 "Language-Team: \n"
@@ -472,9 +472,6 @@ msgstr "Lagre Engelske kategorinavn"
 msgid "Custom category icon path"
 msgstr "Sti til ikoner på egendefinert kategori"
 
-msgid "Use antialiased fonts"
-msgstr "Bruk antialiserte skrifttyper"
-
 msgid "Count"
 msgstr "Nedtelling"
 
@@ -573,6 +570,18 @@ msgstr "Lagre vindusposisjon"
 
 msgid "Font face"
 msgstr "Skrifttype"
+
+msgid "Direct2D"
+msgstr "Direct2D"
+
+msgid "GDIPlus"
+msgstr "GDIPlus"
+
+msgid "Cairo"
+msgstr "Cairo"
+
+msgid "Font Renderer"
+msgstr "Skrifttypegjengiver"
 
 msgid "Scaling quality"
 msgstr "Skaleringskvalitet"
@@ -1157,6 +1166,9 @@ msgstr "Tilpass"
 msgid "Click 'Customize' button"
 msgstr "Klikk på «Tilpass» -knappen"
 
+msgid "No events today"
+msgstr "Ingen hendelser i dag."
+
 msgid "Version"
 msgstr "Versjon"
 
@@ -1351,6 +1363,9 @@ msgid ""
 msgstr ""
 "Tips: Du kan tilpasse redigeringsprogrammet fra Valg->Avansert->Tilpass felt "
 "for aktivitets-/oppgaveredigering"
+
+msgid "Changes to recurring event will apply to all instances."
+msgstr "Endringer i gjentakende aktivitet vil gjelde for alle forekomster."
 
 msgid ""
 "There is no calendar selected for the item. Please choose the calendar where "
@@ -1588,6 +1603,18 @@ msgstr "Ikke vis dette igjen"
 
 msgid "&OK"
 msgstr "&OK"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Yes to All"
+msgstr "Ja til Alt"
+
+msgid "No"
+msgstr "Nei"
+
+msgid "No to All"
+msgstr "Nei til alt"
 
 msgid "&Yes"
 msgstr "&Ja"
@@ -2016,6 +2043,9 @@ msgstr "Skriv ut"
 
 msgid "Print items"
 msgstr "Skriv ut objekt"
+
+msgid "Not Started"
+msgstr "Ikke startet"
 
 msgid "Settings"
 msgstr "Innstillinger"
@@ -2684,12 +2714,6 @@ msgstr "&Ok"
 msgid "&Show log"
 msgstr "&Vis logg"
 
-msgid "Yes"
-msgstr "Ja"
-
-msgid "No"
-msgstr "Nei"
-
 msgid ""
 "The license file empty. Make sure to use the complete url when downloading "
 "the license file."
@@ -3207,13 +3231,6 @@ msgstr "Definerer hvor mange kalendere som vises vertikalt i vinduet."
 
 msgid "Uncheck to hide the names of the days of the week from the calendar."
 msgstr "Fra-velg for å skjule dagnavn  fra uke i kalenderen."
-
-msgid "Day background"
-msgstr "DAGSBAKGR"
-
-msgid "Check to add background to day numbers to make them more easy to click."
-msgstr ""
-"Sjekk for å legge til bakgrunn til dagnumre for å gjøre dem enklere å klikke."
 
 msgid "Week View"
 msgstr "Ukevisning"
@@ -3845,9 +3862,6 @@ msgstr "Vær Celsius"
 msgid "If checked the temperature is shown in celsius."
 msgstr "Hvis avmerket vises temperaturen i Celsius."
 
-msgid "No events today"
-msgstr "Ingen hendelser i dag."
-
 msgid "No tasks today"
 msgstr "Ingen oppgaver i dag."
 
@@ -3902,6 +3916,9 @@ msgstr "Daglinje vis tekst"
 msgid "Uncheck to hide the texts from the events."
 msgstr "Fravelg for å skjule tekst for denne hendelsen."
 
+msgid "Background"
+msgstr "Bakgrunn"
+
 msgid "The color of the text in calendar and in the lists."
 msgstr "Farge på tekster i kalender og lister."
 
@@ -3945,6 +3962,21 @@ msgstr "Ingen hendelser"
 
 msgid "No tasks"
 msgstr "Ingen oppgaver"
+
+msgid "1 hour"
+msgstr "1 time"
+
+msgid "%i hours"
+msgstr "%i timer"
+
+msgid "Now"
+msgstr "Nå"
+
+msgid "1 min"
+msgstr "1 minutt"
+
+msgid "%i mins"
+msgstr "%i minutter"
 
 msgid "Synchronizing"
 msgstr "Synkroniserer"
@@ -4267,9 +4299,6 @@ msgstr "Prioritet:"
 msgid "Status:"
 msgstr "Status:"
 
-msgid "Not Started"
-msgstr "Ikke startet"
-
 msgid "Progress:"
 msgstr "Fremdrift:"
 
@@ -4435,8 +4464,8 @@ msgstr "Maler"
 msgid "Show descriptions"
 msgstr "Vis beskrivelser"
 
-msgid "Show today's events on tray when Rainlendar is started"
-msgstr "Vis dagens hendelse i systemstatus når Rainlendar er startet"
+msgid "Show today's events when Rainlendar is started"
+msgstr "Vis dagens hendelser når Rainlendar er startet"
 
 msgid "Hide list windows if there are no items"
 msgstr "Skjul listevinduer hvis de er tomme"
@@ -4740,6 +4769,9 @@ msgstr "Kun eksternt"
 
 msgid "Future Only"
 msgstr "Kun for fremtidig bruk"
+
+msgid "Don't import birthdays"
+msgstr "Ikke importer bursdager"
 
 msgid "Color mapping"
 msgstr "Fargesamennsetning"
@@ -5204,8 +5236,28 @@ msgstr "Mappe"
 msgid "Poll for changes"
 msgstr "Overvåk endringer"
 
-msgid "Please enter your email address and password for Toodledo."
-msgstr "Vennligst angi mailadresse og passord for Toodledo."
+msgid ""
+"Enter your Toodledo account email address and click the \"Select folder\" "
+"button and choose the list you want to access."
+msgstr ""
+"Skriv inn e-postadressen til Toodledo-kontoen din og klikk på \"Velg mappe\" "
+"-knappen og velg listen du vil ha tilgang til"
+
+msgid ""
+"Authentication successful.\n"
+"Click 'Next' to continue."
+msgstr ""
+"Godkjenningen er vellykket.\n"
+"Klikk på Neste for å fortsette"
+
+msgid ""
+"Unable to authenticate to Toodledo.\n"
+"Please verify that your email\n"
+"and password are correct."
+msgstr ""
+"Kan ikke godkjenne til Toodledo\n"
+"Kontroller at e-postadressen\n"
+"og passordet er riktig"
 
 msgid "Unable to open file \"%s\" for writing."
 msgstr "Klarer ikke å åpne filen\"%s\" for skriving."
