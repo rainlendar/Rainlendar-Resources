@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 10:26+0300\n"
+"POT-Creation-Date: 2026-09-11 10:44+0300\n"
 "PO-Revision-Date: 2024-05-31 12:48+0300\n"
 "Last-Translator: Kim YoungCheon <circcc@gmail.com>\n"
 "Language-Team: Realman <ishwang3@gmail.com>\n"
@@ -452,6 +452,9 @@ msgstr "빈 목록 글 표시"
 
 msgid "Check for updates"
 msgstr "업데이트 확인"
+
+msgid "Report crashes (Restart required)"
+msgstr "충돌 보고 (재시작 필요)"
 
 msgid "Show url icons"
 msgstr "URL 아이콘 표시"
@@ -1564,6 +1567,12 @@ msgstr "발신:"
 msgid "To:"
 msgstr "수신:"
 
+msgid "Outlook Properties..."
+msgstr "Outlook 속성..."
+
+msgid "Debug"
+msgstr "Debug"
+
 msgid "The end time cannot be earlier than the start time."
 msgstr "종료 시간은 시작 시간보다 빠를 수 없습니다."
 
@@ -2067,8 +2076,8 @@ msgstr "사용 안 함"
 msgid "Click through"
 msgstr "클릭 통과"
 
-msgid "Scale"
-msgstr "크기 비율"
+msgid "Double size"
+msgstr "두배 크기"
 
 msgid "Filters"
 msgstr "필터"
@@ -2370,6 +2379,9 @@ msgstr "\"%s\" 편집"
 msgid "Move to next day"
 msgstr "다음 날로 이동"
 
+msgid "Move to next week"
+msgstr "다음 주로 이동"
+
 msgid "Dismiss alarm"
 msgstr "시간 알림 해제"
 
@@ -2612,8 +2624,8 @@ msgid ""
 "You are using a BETA version of Rainlendar. It means that the software has "
 "not been tested and not suitable for daily use.\n"
 "\n"
-"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
-"net.\n"
+"Please report all errors to the Rainlendar's BETA forum at "
+"www.rainlendar.net.\n"
 "\n"
 "(This message is shown only once)"
 msgstr ""

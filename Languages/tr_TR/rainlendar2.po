@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 10:26+0300\n"
+"POT-Creation-Date: 2026-09-11 10:44+0300\n"
 "PO-Revision-Date: 2022-03-21 15:50+0200\n"
 "Last-Translator: İbrahim Çelik <ibrahimcelik89@gmail.com>\n"
 "Language-Team: İbrahim Çelik <ibrahimcelik89@gmail.com>\n"
@@ -447,6 +447,9 @@ msgstr "Boş liste metnini göster"
 
 msgid "Check for updates"
 msgstr "Güncelleştirmeleri kontrol et"
+
+msgid "Report crashes (Restart required)"
+msgstr "Çökmeleri bildir (Yeniden başlatma gerekli)"
 
 msgid "Show url icons"
 msgstr "Url simgelerini göster"
@@ -1566,6 +1569,12 @@ msgstr "Kimden:"
 msgid "To:"
 msgstr "Kime:"
 
+msgid "Outlook Properties..."
+msgstr "Outlook Özellikleri..."
+
+msgid "Debug"
+msgstr "Debug"
+
 msgid "The end time cannot be earlier than the start time."
 msgstr "Bitiş saati, başlangıç saatinden önce olamaz."
 
@@ -2078,8 +2087,8 @@ msgstr "Devre Dışı"
 msgid "Click through"
 msgstr "Bütün Tıklamar"
 
-msgid "Scale"
-msgstr "Oran"
+msgid "Double size"
+msgstr "İki katı"
 
 msgid "Filters"
 msgstr "Filtreler"
@@ -2381,6 +2390,9 @@ msgstr "\"%s\" düzenle"
 msgid "Move to next day"
 msgstr "Sonraki güne taşı"
 
+msgid "Move to next week"
+msgstr "Gelecek haftaya geç"
+
 msgid "Dismiss alarm"
 msgstr "Alarmı kapat"
 
@@ -2623,8 +2635,8 @@ msgid ""
 "You are using a BETA version of Rainlendar. It means that the software has "
 "not been tested and not suitable for daily use.\n"
 "\n"
-"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
-"net.\n"
+"Please report all errors to the Rainlendar's BETA forum at "
+"www.rainlendar.net.\n"
 "\n"
 "(This message is shown only once)"
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.15\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 10:26+0300\n"
+"POT-Creation-Date: 2026-09-11 10:44+0300\n"
 "PO-Revision-Date: 2019-12-31 16:42+0100\n"
 "Last-Translator: Regmos <kursusigenigen@yahoo.dk>\n"
 "Language-Team: Regmos <kursusigenigen@yahoo.dk>\n"
@@ -446,6 +446,9 @@ msgstr "Vis besked v. tom liste"
 
 msgid "Check for updates"
 msgstr "Søg efter opdatering"
+
+msgid "Report crashes (Restart required)"
+msgstr "Rapportnedbrud (genstart påkrævet)"
 
 msgid "Show url icons"
 msgstr "Vis URL ikoner"
@@ -1561,6 +1564,12 @@ msgstr "Fra:"
 msgid "To:"
 msgstr "Til:"
 
+msgid "Outlook Properties..."
+msgstr "Egenskaber for Outlook..."
+
+msgid "Debug"
+msgstr "Debug"
+
 msgid "The end time cannot be earlier than the start time."
 msgstr "Sluttidspunktet skal være senere end starttidspunktet."
 
@@ -2068,8 +2077,8 @@ msgstr "Deaktiveret"
 msgid "Click through"
 msgstr "Klik gennem"
 
-msgid "Scale"
-msgstr "Størrelse"
+msgid "Double size"
+msgstr "Dobbelt størrelse"
 
 msgid "Filters"
 msgstr "Filtre"
@@ -2371,6 +2380,9 @@ msgstr "Redigér \"%s\""
 msgid "Move to next day"
 msgstr "Flyt til næste dag"
 
+msgid "Move to next week"
+msgstr "Flyt til næste uge"
+
 msgid "Dismiss alarm"
 msgstr "Afvis alarm"
 
@@ -2613,8 +2625,8 @@ msgid ""
 "You are using a BETA version of Rainlendar. It means that the software has "
 "not been tested and not suitable for daily use.\n"
 "\n"
-"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
-"net.\n"
+"Please report all errors to the Rainlendar's BETA forum at "
+"www.rainlendar.net.\n"
 "\n"
 "(This message is shown only once)"
 msgstr ""

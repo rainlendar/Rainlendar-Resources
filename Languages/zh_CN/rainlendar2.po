@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2.13\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 10:26+0300\n"
+"POT-Creation-Date: 2026-09-11 10:44+0300\n"
 "PO-Revision-Date: 2022-03-21 16:02+0200\n"
 "Last-Translator: cus08 <yhyx49@yahoo.com.cn>\n"
 "Language-Team: JOYSUM <jinhong@pobaby.com>\n"
@@ -450,6 +450,9 @@ msgstr "显示空列表的文本"
 
 msgid "Check for updates"
 msgstr "检查更新"
+
+msgid "Report crashes (Restart required)"
+msgstr "报告崩溃（需要重新启动）"
 
 msgid "Show url icons"
 msgstr "显示网址图标"
@@ -1552,6 +1555,12 @@ msgstr "从："
 msgid "To:"
 msgstr "到："
 
+msgid "Outlook Properties..."
+msgstr "Outlook属性..."
+
+msgid "Debug"
+msgstr "Debug"
+
 msgid "The end time cannot be earlier than the start time."
 msgstr "结束时间不能早于开始时间。"
 
@@ -2050,8 +2059,8 @@ msgstr "已禁用"
 msgid "Click through"
 msgstr "点击通过"
 
-msgid "Scale"
-msgstr "比例"
+msgid "Double size"
+msgstr "双倍大小"
 
 msgid "Filters"
 msgstr "筛选"
@@ -2351,6 +2360,9 @@ msgstr "编辑 \"%s\""
 msgid "Move to next day"
 msgstr "移至下一步"
 
+msgid "Move to next week"
+msgstr "移至下一步"
+
 msgid "Dismiss alarm"
 msgstr "禁止报警"
 
@@ -2590,8 +2602,8 @@ msgid ""
 "You are using a BETA version of Rainlendar. It means that the software has "
 "not been tested and not suitable for daily use.\n"
 "\n"
-"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
-"net.\n"
+"Please report all errors to the Rainlendar's BETA forum at "
+"www.rainlendar.net.\n"
 "\n"
 "(This message is shown only once)"
 msgstr ""

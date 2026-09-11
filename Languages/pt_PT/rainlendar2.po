@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 10:26+0300\n"
+"POT-Creation-Date: 2026-09-11 10:44+0300\n"
 "PO-Revision-Date: 2023-08-10 10:55+0300\n"
 "Last-Translator: Carlos Almeida <carlos.almeida.2010@live.com.pt>\n"
 "Language-Team: Carlos Almeida\n"
@@ -454,6 +454,9 @@ msgstr "Mostrar lista de texto vazia"
 
 msgid "Check for updates"
 msgstr "Verificar por actualizações"
+
+msgid "Report crashes (Restart required)"
+msgstr "Relatar falhas (reinicialização necessária)"
 
 msgid "Show url icons"
 msgstr "Mostrar ícones de url"
@@ -1578,6 +1581,12 @@ msgstr "De:"
 msgid "To:"
 msgstr "Até:"
 
+msgid "Outlook Properties..."
+msgstr "Propriedades do Outlook..."
+
+msgid "Debug"
+msgstr "Debug"
+
 msgid "The end time cannot be earlier than the start time."
 msgstr "A hora de término não pode ser anterior à hora de início."
 
@@ -2090,8 +2099,8 @@ msgstr "Desativado"
 msgid "Click through"
 msgstr "Clique através"
 
-msgid "Scale"
-msgstr "Escala"
+msgid "Double size"
+msgstr "Dobro do tamanho"
 
 msgid "Filters"
 msgstr "Filtros"
@@ -2398,6 +2407,9 @@ msgstr "Editar \"%s\""
 msgid "Move to next day"
 msgstr "Mover para o dia seguinte"
 
+msgid "Move to next week"
+msgstr "Mover para a próxima semana"
+
 msgid "Dismiss alarm"
 msgstr "Dispensar alarme"
 
@@ -2641,8 +2653,8 @@ msgid ""
 "You are using a BETA version of Rainlendar. It means that the software has "
 "not been tested and not suitable for daily use.\n"
 "\n"
-"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
-"net.\n"
+"Please report all errors to the Rainlendar's BETA forum at "
+"www.rainlendar.net.\n"
 "\n"
 "(This message is shown only once)"
 msgstr ""

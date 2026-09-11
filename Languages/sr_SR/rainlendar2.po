@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 10:26+0300\n"
+"POT-Creation-Date: 2026-09-11 10:44+0300\n"
 "PO-Revision-Date: 2022-04-08 10:12+0300\n"
 "Last-Translator: Ozzii <ozzii.translate@gmail.com>\n"
 "Language-Team: Ozzii\n"
@@ -453,6 +453,9 @@ msgstr "Прикажи текст празне листе"
 
 msgid "Check for updates"
 msgstr "Провери ажурирања"
+
+msgid "Report crashes (Restart required)"
+msgstr "Prijavite padove (potrebno je ponovno pokretanje)"
 
 msgid "Show url icons"
 msgstr "Покажи иконе УРЛ-а"
@@ -1569,6 +1572,12 @@ msgstr "Од:"
 msgid "To:"
 msgstr "За:"
 
+msgid "Outlook Properties..."
+msgstr "Svojstva programa Outlook..."
+
+msgid "Debug"
+msgstr "Debug"
+
 msgid "The end time cannot be earlier than the start time."
 msgstr "Vreme završetka ne može biti ranije od vremena početka."
 
@@ -2075,8 +2084,8 @@ msgstr "Угашено"
 msgid "Click through"
 msgstr "Кликни кроз"
 
-msgid "Scale"
-msgstr "Скала"
+msgid "Double size"
+msgstr "Dupla veličina"
 
 msgid "Filters"
 msgstr "Филтери"
@@ -2378,6 +2387,9 @@ msgstr "Уреди \"%s\""
 msgid "Move to next day"
 msgstr "Pomeri na sledeći dan"
 
+msgid "Move to next week"
+msgstr "Pređite na sledeću nedelju"
+
 msgid "Dismiss alarm"
 msgstr "Угаси аларм"
 
@@ -2620,8 +2632,8 @@ msgid ""
 "You are using a BETA version of Rainlendar. It means that the software has "
 "not been tested and not suitable for daily use.\n"
 "\n"
-"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
-"net.\n"
+"Please report all errors to the Rainlendar's BETA forum at "
+"www.rainlendar.net.\n"
 "\n"
 "(This message is shown only once)"
 msgstr ""

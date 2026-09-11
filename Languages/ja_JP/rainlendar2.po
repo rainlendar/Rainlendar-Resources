@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Rainlendar 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-15 10:26+0300\n"
+"POT-Creation-Date: 2026-09-11 10:44+0300\n"
 "PO-Revision-Date: 2022-03-21 15:40+0200\n"
 "Last-Translator: Yuki Shira <shirayuking@gmail.com>\n"
 "Language-Team: Yuki Shira\n"
@@ -451,6 +451,9 @@ msgstr "空の一覧のテキストを表示"
 
 msgid "Check for updates"
 msgstr "更新を確認"
+
+msgid "Report crashes (Restart required)"
+msgstr "クラッシュを報告する（再起動が必要）"
 
 msgid "Show url icons"
 msgstr "URL アイコンを表示"
@@ -1566,6 +1569,12 @@ msgstr "差出人:"
 msgid "To:"
 msgstr "宛先:"
 
+msgid "Outlook Properties..."
+msgstr "Outlookのプロパティ..."
+
+msgid "Debug"
+msgstr "Debug"
+
 msgid "The end time cannot be earlier than the start time."
 msgstr "終了時刻は開始時刻より前にすることはできません。"
 
@@ -2072,8 +2081,8 @@ msgstr "無効化"
 msgid "Click through"
 msgstr "click-through rate：クリック スルー率"
 
-msgid "Scale"
-msgstr "倍率%"
+msgid "Double size"
+msgstr "ダブルサイズ"
 
 msgid "Filters"
 msgstr "フィルタ"
@@ -2378,6 +2387,9 @@ msgstr "\"%s\" を編集"
 msgid "Move to next day"
 msgstr "次に移動"
 
+msgid "Move to next week"
+msgstr "次に移動"
+
 msgid "Dismiss alarm"
 msgstr "アラームを閉じる"
 
@@ -2620,8 +2632,8 @@ msgid ""
 "You are using a BETA version of Rainlendar. It means that the software has "
 "not been tested and not suitable for daily use.\n"
 "\n"
-"Please report all errors to the Rainlendar's BETA forum at www.rainlendar."
-"net.\n"
+"Please report all errors to the Rainlendar's BETA forum at "
+"www.rainlendar.net.\n"
 "\n"
 "(This message is shown only once)"
 msgstr ""
